@@ -70,7 +70,7 @@ So Tamsin did the thing she had come up the river to do, which was to stop defen
 
 "Fifty-two, if the count is right, and it is the count as it was made, which is a count of things in a column, and I do not know what is in the column."
 
-"Fifty-two times three is a hundred and fifty-six hours. Your window is six hours a day. That is twenty-six days, Sarn. And you have forty-two days from the eighteenth of the second month to the sixth of the fourth, and your window is the only window there is, and there are four hundred and sixty rolls on the other side of it, and your own rate is eleven a day when you are certifying and nothing else, and that is four hundred and sixty-two. My six weeks are a trial inside those forty-two days and not the whole of them, and I am going to lose twenty-six days of your window doing it."
+"Fifty-two times three is a hundred and fifty-six hours. Your window is six hours a day. That is twenty-six days, Sarn. And the window is forty-two days, and it is the last forty-two days before the rate is struck on the sixth of the fourth, which is the twenty-fifth of the second month to the sixth of the fourth and not a date anybody picked, and your window is the only window there is, and there are four hundred and sixty rolls on the other side of it, and your own rate is eleven a day when you are certifying and nothing else, and that is four hundred and sixty-two. That is a price and not a bill, and I want it written as a price, because a price is what a district decides about and a bill is what a district is handed."
 
 "Nine."
 
@@ -87,6 +87,8 @@ Sarn looked up.
 "Two hundred and eighty-four. And that is not the worst of it, because the worst of it is this: the process is only safe while somebody is standing at that window. That is the entire finding of this month and it took me six weeks and a floor in a corridor to learn it. If the window is shut for the middle of the day, and it is, and a woman walks down from the flats with a paper in her hand and gets told to come back on Friday, then the ask has not failed, it has evaporated, and she will not come back on Friday because nobody has written to her and nobody has to."
 
 Sarn had picked up the form. She was holding it the way she held a thing she had decided about.
+
+"My six weeks are not in those forty-two days," said Tamsin. "They are running now, in the twelfth month and the first, with your window shut, and that is on purpose. If this thing is ever run in a season then I want it to have been run once first on a form that is still new, in a month where it costs the district nothing, with somebody watching it who has not yet decided that it works. The day it is run in season it will take those twenty-six days out of those forty-two, and it will be your arithmetic and not mine, and I would rather you had it in your hand now while there is still nothing to decide."
 
 "Then what is box one," she said.
 

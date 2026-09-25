@@ -1,8 +1,8 @@
 # Chapter 26: The List
 
-The letter from Millbrook Reach came out of a stone on the flat of a dye vat in Greyfen on the twenty-second of the twelfth month, and it took four days to move from there to a hand that could do anything about it, and the four days were spent entirely in the question of who was going to pay for the paper.
+The letter from Millbrook Reach came out of a stone on the flat of a dye vat in Greyfen on the fifteenth of the twelfth month, where it had lain since the boy brought it to the table, and it lay under that stone for thirteen more days before it moved to a hand that could do anything about it, and every one of those thirteen days was spent on the question of who was going to pay for the paper.
 
-That was the whole of the beginning. That is what a thing that is going to save somebody looks like on the twenty-second of the twelfth month: a woman at a distance asking for a form, and a woman of twenty-four in a copying alcove in Auremar working out, on the back of a levy sheet, what one of those costs to send.
+That was the whole of the beginning. That is what a thing that is going to save somebody looks like on the fifteenth of the twelfth month: a woman at a distance asking for a form, and a woman of twenty-four in a copying alcove in Auremar working out, on the back of a levy sheet, what one of those costs to send.
 
 She worked it out twice and got it wrong twice, and both times the mistake was in the same direction, which was downwards, because Tamsin Rook is a woman who has spent three months in rooms with clerks in them and has learned that the instinct to be impressive about a sum is the one that is dangerous.
 
@@ -26,7 +26,7 @@ The rest of the forty-one were new, and they came in a way Tamsin had not expect
 
 Two came from the Mosswake court. One was Sarn, who wrote her own set out in her own hand over two evenings at the window after the last person had gone, and would not have it sent; it is in a drawer under the board, and it is the reason the register of hearings is the only register in that district that has never once been lost.
 
-The other was Pella Osk, who asked for one, and got one, and then made four more in an evening and gave them away in the copying room to people who had come up on the packet boat that week, one of whom was a woman from a landing four hundred miles down the water who was going home and would not say where from.
+The other was Pella Osk, who asked for one, and got one, and then made four more in an evening and gave them away in the copying room to people who had come up on the packet boat that week, one of whom was a woman from a landing further down the water than Millbrook, who was going home and would not say where from.
 
 The rest came out of the lane, the houses, and the districts, and they came because of the reply of the thirteenth, which Tamsin had not thought of as the cause of anything at all until the twenty-fourth of the month, when a miller she had never met walked into a lane in Mosswake and asked, at the trestle table, whether it was true that an office had offered a thing and a clerk had refused it, because he had heard so from a factor in Glasswater who had heard it from a man on a boat, and what he wanted was the paper, and he wanted to know who to give it to.
 
@@ -56,7 +56,7 @@ Tamsin Rook put fourpence on the counter for the first sheet and did not argue, 
 
 The two that could not hold a register were not the same kind of problem, and Tamsin kept them apart in her book.
 
-The woman in the hood has a schoolroom hand that turns every descending stroke into a small loop, and she has made five of the forty-one sets, and she is entered on the list as a role, the way she was entered on the rota, because a name in a book is the thing she has spent four years not having.
+The woman in the hood has a schoolroom hand that turns every descending stroke into a small loop, and she made four of the twenty-six in the ninth month and a fifth in the twelfth, which is five of the forty-one, and she is entered on the list as a role, the way she was entered on the rota, because a name in a book is the thing she has spent four years not having.
 
 Tamsin asked her, on the twenty-seventh, in the seed barn, whether she would be a keeper. Not a rota, not a duty: a person on a list that says she holds one set, in her own hand, of three documents, on a date, and that if anybody comes to the door with a paper the holder will read it out loud and give them the sheet with the four questions on it.
 
@@ -68,7 +68,7 @@ Tamsin asked her, on the twenty-seventh, in the seed barn, whether she would be 
 
 Tamsin Rook wrote it down exactly, in the fair hand, in the book, on the twenty-seventh of the twelfth month, and put the word *refused* against the line, and wrote under it: *and she is right, and the list is weaker for it, and the list is the only thing in this case that is not in a building.*
 
-The foreman was easier and worse. Ostyn Vare had been audited on the ninth of the twelfth and had not answered any of the four letters Tamsin had written him, and she wrote a fifth on the twenty-eighth and did not send it, and wrote in her book instead: *Do not chase. A list of who holds a copy is not a list of people who have reported, and the day it is, it is a different instrument and it will be used as one.*
+The foreman was easier and worse. Ostyn Vare had been audited on the seventh of the twelfth and had not answered any of the four letters Tamsin had written him, and she wrote a fifth on the twenty-eighth and did not send it, and wrote in her book instead: *Do not chase. A list of who holds a copy is not a list of people who have reported, and the day it is, it is a different instrument and it will be used as one.*
 
 She had a full morning of not sending it, which is the most expensive kind of morning available to a person with nothing to do but post things.
 

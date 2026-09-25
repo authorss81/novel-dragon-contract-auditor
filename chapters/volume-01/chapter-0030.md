@@ -96,7 +96,7 @@ She asked them in order.
 
 *If you stop, whose name answers for it?*
 
-"If I stop, the name that answers is mine, and I did not sign, and I have never signed anything in eleven years except a bond at the mill when the boy was born." She said it flatly. "That is the whole of the answer to your third question. It is mine. It has been mine since the fourth of the twelfth month and it will be mine in the fourth month and it will be mine when there is no gauge in this town at all, and there is no word on the paper for me to point at and say: that is the clause. There is a box. He wrote *the present holder* and he wrote me under it, in a different hand, on a form."
+"If I stop, the name that answers is mine, and I did not sign, and I have never signed anything in twenty-two years except a bond at a mill, when the boy was born." She said it flatly. "That is the whole of the answer to your third question. It is mine. It has been mine since the fourth of the twelfth month and it will be mine in the fourth month and it will be mine when there is no gauge in this town at all, and there is no word on the paper for me to point at and say: that is the clause. There is a box. He wrote *the present holder* and he wrote me under it, in a different hand, on a form."
 
 *Who read this to you, and do they get paid if you sign?*
 

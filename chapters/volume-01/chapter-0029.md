@@ -56,9 +56,11 @@ Nell Kest stood there for about four minutes and let the whole of it arrive, and
 
 It was relief, and it was the specific relief of a person who has been standing at the end of a thing for three months and has been told, in a court, in a workroom, and in her own head, that standing at the end of it is not the same as the thing working — and has been carrying a private conviction that the two are the same, and that if she stopped, it would stop. And this time she had not stopped. This time she had gone to Greyfen on purpose, for money, on a cart, and had left, and it had gone on without her, and that was a different and much better thing than being ill, and she was not going to be able to explain to anybody why it was better and she was going to think about it for a long time.
 
-And the part she missed, and missed more than she had expected to, was not the board and was not the eleven names. It was that on the Thursday a woman had come down the lane at the fifth hour to have a paper read out, and there had been somebody at the table, and that somebody had read it to her, and nobody had written down that she had ever come, and she went away with the four questions on a sheet and no record anywhere in the world that she had existed as a person who came.
+And the part she missed, and missed more than she had expected to, was not the board and was not the eleven names. It was that a name had come off the board and had stayed off, and that nobody in the lane had noticed, because noticing a name come off a board is not a thing a board does. It is a thing a person does, standing at the end of it, every day, out of habit, and she had done it for three months and had never once called it a job, and then she had gone on a cart to Greyfen for four days and the habit had gone with her and had not come back.
 
-Nobody noticed for four days. She had been the person who wrote down who came, and she had not thought about it as a job, because it was not a job, because the rule on the board says *no advice given* and writing a name down is not advice.
+There is no rule about noticing a name come off. The rule on the board is that anybody may add their own name and nobody may take another person's off, and there is nothing whatever in the world about a person who stops coming, and she had thought about that last half a hundred times since the sixth of the twelfth and had never once thought it was about her.
+
+She stood in the lane mouth and worked out the other half of it as well, and the other half was this. She had gone for four days to be paid for a thing she is good at, and the table had not missed her for an hour of it, and would not have missed her for a month, and the one thing that had gone wrong on the board in those four days was a thing only she had ever been in a position to see.
 
 ---
 
@@ -74,7 +76,7 @@ She asked them. She asked them in order, at the kitchen table, with a bar of soa
 
 "Who read it to you," Nell said. "And do they get paid if you sign."
 
-"I signed it," said Nery Caudle. "In my own yard, on the twenty-ninth of the tenth, with two pounds and five and a quarter of my wage in it, and you read it to me, and I made you read it back twice, and there is a line on the back of it in my own words that nobody has ever asked to see."
+"I signed it," said Nery Caudle. "In my own yard, on the twenty-ninth of the tenth, with a man from the assessors standing in it with the paper and reading out of it, and I signed at the bottom of it in my own words and the line is still there. And I brought the two pounds and five and a quarter in a cloth on the ninth of the twelfth, and I had had it in the cloth since October, because I was not going to hand a levy to a stranger off the vats on the day I signed, and the fortnight and a half it took you to come was a fortnight and a half I did not enjoy, and it is written down now."
 
 "Who read it to you, Mrs Caudle."
 

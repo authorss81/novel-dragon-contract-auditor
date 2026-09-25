@@ -10,7 +10,7 @@ Coll read it out, slowly, in the plain way, and stopped, and a man at the back s
 
 So Coll said it again, exactly the same, and the man said, "Say it slower."
 
-And Coll Fenner, twenty-eight years old, off the Reed Cut bank, a man who had made four of the twenty-six public copies on the back of a seed tally while arguing about this very term and had been right for the wrong reasons, did the third thing that any reader in any room in any empire does when a listener asks for it again, which was to say it a third time, a little louder, in exactly the same words.
+And Coll Fenner, twenty-eight years old, off the Reed Cut bank, one of the two men who had made four of the twenty-six public copies between them on the back of a seed tally while arguing about this very term and had been right for the wrong reasons, did the third thing that any reader in any room in any empire does when a listener asks for it again, which was to say it a third time, a little louder, in exactly the same words.
 
 And the man said thank you and went away, and the woman beside him said, "I have understood it perfectly and I could not tell you one word of it."
 
@@ -120,7 +120,7 @@ He did it that week, on his own two days, in four workrooms, and it is the reaso
 
 She took the paid work on the seventh of the twelfth and it was the best-paid thing she had ever done.
 
-The amended clause had to be copied by hand into the schedule of every house that signed it, in the assessors' own wording, on their own form, because a form is not an amendment until it is in the schedule of the house it governs, and There are eight houses on the dyers' lane and four of them had signed, and the nine pounds a quarter of the levy had to be collected before the assessment in the fourth month and written out against each name.
+The amended clause had to be copied by hand into the schedule of every house that signed it, in the assessors' own wording, on their own form, because a form is not an amendment until it is in the schedule of the house it governs, and there are eight houses on the dyers' lane and four of them had signed, and the nine pounds a quarter of the levy had to be collected before the assessment in the fourth month and written out against each name.
 
 Nell went round it herself, on her two afternoons, and it took four days, and at the Caudle house at the end of the lane the woman came out with the money already counted into a cloth because she had been expecting her since the twenty-ninth of the tenth.
 
@@ -162,4 +162,4 @@ Nell read it twice and then took it inside and put it on the vats flat with a st
 
 A gauge. A thing of iron with a face on it, in a drawer, the size of a hand, worth nothing to anybody who is not a cooper.
 
-And nobody four hundred miles from a court in Auremar knew it was gone.
+And nobody three hundred miles from a court in Auremar knew it was gone.
