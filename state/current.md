@@ -1,60 +1,64 @@
 # Current State
 
-Current phase: writer run for Volume 01, Batch 0002, complete. Chapters 1–20 are written, and the state files, the batch summaries, the chapter summaries, the continuity record, and the open threads all reflect what is now on the page.
+Current phase: writer run for Volume 01, Batch 0003, complete. Chapters 1–30 are written, and the state files, the batch summaries, the chapter summaries, the continuity record, and the open threads all reflect what is now on the page.
 
 Current volume: 1
 
-Current batch: 3 (`workspace/volume-01/batch-0003/PROMPT.md` and `outline/batches/volume-01-batch-0003.md`)
+Current batch: 4 (`workspace/volume-01/batch-0004/PROMPT.md` and `outline/batches/volume-01-batch-0004.md`)
 
-Last completed chapter: 20, "Nine Hundred and Forty" (`chapters/volume-01/chapter-0020.md`)
+Last completed chapter: 30, "Nobody Was in the Room" (`chapters/volume-01/chapter-0030.md`)
 
-Last batch summary: Volume 01, Batch 0002, "What a Ruling Costs" (`state/batch-summary.md`)
+Last batch summary: Volume 01, Batch 0003, "The Process and the Copies" (`state/batch-summary.md`)
 
-## What Batch 0002 Did
+## What Batch 0003 Did
 
-Chapters 11–20 took the local victory and charged it for. The fifth term's works were actually performed under the water office's own posted authority and the district's seed reserve is nineteen sacks short of what the parcels need; the lane read Tavi's unpaid ditch-cutting as acceptance, which is the price of the ask she named herself on the tenth. Orra Dunn got her sitting on the twenty-third and got a postponement with a date and no bar, which the magistrate said out loud was worse for that household than a refusal, and the court entered its own limitation, dated the twenty-third, that it will not apply that sentence again on its own motion without a separate hearing and a signature. Sarn's four days were put on the record with a reason and a named household, and the Sallow wording turned out to be the Venn wording four years older, which makes the whole thing a practice rather than a fraud. Nell's exit clause was amended and the craft exemption survived, and the amendment is a numbered form that four houses on a lane have signed under fear, with the levy landing hardest on a woman at the Caudle house. Tamsin sent the First Seat form to thirteen named people with a warning and a date, did not publish it, did not ask Marek, and told him afterwards. The two letters arrived, two provincial files were confirmed, and the mechanism was found: a printed model circular, MC/FS, sealed by the Standing Office of Provincial Continuities, whose amendment sheet of the twenty-second of the ninth month carries the Mosswake sentence as approved model wording in a run of nine hundred and forty, beside a separate First Seat quarterly return that makes the honest answer small. Examinations answered the nine paragraphs for the first time and offered a bounded, empire-wide certification of the Mosswake practice for six months with a review in the fourth month. Marek has not answered.
+Chapters 21–30 finished the volume midpoint and opened the coalition arc. Hallis Dren priced the fourth month in four columns on the district water office's own letterhead, with his name and his mother's canal house on it, and said out loud — in writing, in a column of his own, and calling it a convenience and not a threat — that a single certified answer gets the relief rolls out on time. Marek refused the certification in the Received Room on the twentieth of the eleventh, in front of Nevin Trost and an intake clerk, had the refusal entered and signed on the back of the offer, and accepted instead a **named, reviewable flood-season continuity process** that he did not write. Tamsin built it: a form with four boxes and no number, a public register of hearings kept beside the register of duties on one board in Sarn's hand, a witness who is not the applicant, a cost ceiling of eleven shillings for six weeks, and a review on the fourth of the fourth month. Its price is a hundred and fifty-six hours of one clerk's window, which leaves sixteen certifying days in a forty-two-day window, and **two hundred and eighty-four relief rolls not certified before the rate is struck on the sixth of the fourth month.** The **reply of the thirteenth of the twelfth** went out signed by Pell Vey to all forty-six district offices and landing offices holding a flood docket, and it answers four things and refuses to answer the nine paragraphs. The volume's midpoint question is answered on the page: the local precedent was **issued, not invented** — the Standing Office of Provincial Continuities is a seal, a series, a run and a line in a district's standing instructions saying that no further authority is required. Tamsin then built a list of forty-one copy-holders out of her own wages — two shillings and ninepence and eleven nights — refused the Chancery's paper, and refused to let an office paper list exist. Nell put four questions on a chalk board in the lane, gave the table to the lane for good, and watched it run for four days without her. Orra asked to be heard early, was refused in eleven seconds, and got four weeks and a public refusal instead. And a household three hundred miles down the water lost a cooper's gauge on the fourth of the twelfth, before anybody warned anybody, to a creditor's filled-in copy of the printed model stamped into a landing office's routine column with no number against it.
 
-The batch runs from the **nineteenth of the ninth month to the ninth of the eleventh month**. The date-by-date calendar is in `state/continuity.md` and must be used rather than re-derived. **Weekday names are not load-bearing anywhere in Batch 0002** and should not be used to anchor a chain.
+**Chapters 21–30 are 36,266 words**, an average of about 3,630 a chapter. The manuscript stands at 130,057 words across thirty chapters.
 
-## Read this first: ownership of Chapters 1–20
+## Read this first: ownership of Chapters 1–30
 
 - Chapters 1–10 belong to the run driven by `workspace/volume-01/batch-0001/PROMPT.md` and are finished. **Any prompt that asks for Chapters 1–10 again is a duplicate and must not be run.**
-- Chapters 11–20 belong to the run driven by `workspace/volume-01/batch-0002/PROMPT.md`, with `outline/batches/volume-01-batch-0002.md` as the authoritative card source, and are finished.
+- Chapters 11–20 belong to `workspace/volume-01/batch-0002/PROMPT.md`, with `outline/batches/volume-01-batch-0002.md` as the card source, and are finished.
+- Chapters 21–30 belong to `workspace/volume-01/batch-0003/PROMPT.md`, with `outline/batches/volume-01-batch-0003.md` as the card source, and are finished.
 - `state/phase-ledger.json` is controller-owned and is never written by a writing phase. It still reads `phase-000-bootstrap`, and nothing in the repository reads or writes it, so it is permanently stale. Treat this file and the directory markers under `workspace/` as the record of what has actually happened.
 
 ## Active threats
 
-- A **bounded certification** is on the table, unsigned, due by the fourth month. Accepting it protects the current food supply and makes the sentence the rule; refusing it leaves the sentence with nobody under it and forty-six clerks deciding individually. Marek has filed a supplementary request against that and has not answered.
-- The **MC/FS amendment sheet** of the twenty-second of the ninth month is in nine hundred and forty copies in every district and landing office that holds a flood docket, filed with the standing instructions and not with the papers, and its signer is unnamed. Magistrate Rell has not been told.
-- The **First Seat quarterly return** answers a question whose honest answer the form has made small. Hallis Dren answered one and yes on the eleventh of the tenth month and sent it four hundred miles. No character knows this yet.
-- **Two provincial households** are named on paper and one of them is a dyers' house four hundred and forty miles away whose exemption is now exposed. Both filings were itemised individually, so the form's rule failed in at least one, and nobody can tell which.
-- A **counting house on a row by the Kiln sheds** sells the plates, is identified only by a mark, and has entries in three districts. Its owner has no name on ninety-one leaves.
-- The **second sealed page** is still shut and now has a refusal against Marek's name in a form in Examinations.
-- The **red stitch** is unexplained, dormant, and no longer in Ivo Harker's tin.
+- The **public-necessity sentence is still in nine hundred and forty printed copies** and is now in a third district, on a cooper's instrument, with a girl of sixteen in a surety line. Refusing the certification protected the supply and removed the only person who would have been answerable for the sentence. Nobody under it.
+- The **scope decision on the nine paragraphs** is owed, and the reply of the thirteenth asks for it before the fourth month, from a person whose name is written at the foot of the answer rather than at the end of a date.
+- The **unsigned ninety-word corridor instruction** of the ninth of the eleventh is unfiled, in Nevin Trost's hands, and Pell Vey has asked for it because he has signed the reply and is exposed by it. Marek and Tamsin have agreed neither of them moves it without a name, and neither has written to Trost.
+- The **hearing window's eleven shillings** will run out or will not, and Sarn has put on the wall of the Mosswake court that when it does the window stops and the book says so.
+- A **counting house on a row by the Kiln sheds** still has a mark and no name, and its Emberwatch lines are in a dyers' house whose clerk underlined the word *Itemised* and sent a copy to a lane unsigned.
+- **Grice holds a served paper** and a writ has gone out of the Greyfen district against a seed-share that is thirty-one miles up a canal. A creditor is owed a hundred and six pounds by a man who has not forgiven himself and says so in a yard.
+- The **second sealed page** is still shut and still has a refusal against Marek's name in a form in Examinations.
+- The **red stitch** is unexplained, dormant, and unmentioned for two batches.
 
 ## Active promises
 
-- Refuse the certification on the page and accept a **named, reviewable emergency process** that protects current food supplies without pretending the copied rule is safe. This is Chapters 21–25.
-- Send the letter to Magistrate Rell, which has been written, addressed, and in his coat since the eighth of the eleventh.
-- Tell Mara Venn that a settlement which would have restored her husband's file completely was refused, and why.
-- Ask Pella Osk, who was named in open court in Chapter 7 and has not been asked a question.
-- Get Bryn Mawer told that her line has been left in a file, and find out whether a girl of seventeen can be examined in the copying.
-- Pay off the four houses on the Greyfen lane and the Caudle assessment in the fourth month.
-- Find out who signed the sheet of the twenty-second of the ninth month, and under what authority the Standing Office of Provincial Continuities issues anything at all.
-- Find out whether the Emberwatch sender and the Glasswater sender are the same person, and who Perry Ostrow answers to.
+- **Chapters 34–40**: the limited scale hearing. **Sivra Oris testifies** that Aldren's field-side duty and the gate and navigation duty were his and hers, not a current occupant's. **Pell offers Marek a promotion** in exchange for treating the correction as routine. The court cannot compel disclosure of who authorised the sealed instruction, and the motive stays hidden behind an authentic-looking order.
+- **Chapters 41–46**: the volume climax, where the second Dunn hearing decides that no guarantor duty attaches without Nessa's own hearing and signature, the sentence is narrowed, and Corvin's seal certificates are suspended.
+- Write the **letter to Mara Venn** telling her the settlement which would have restored Aldren's file completely was refused, and why. He still has not written it.
+- The **second document** — the First Seat quarterly return — is not in the reply of the thirteenth, on Marek's argument and against Tamsin's written objection, which is in his coat pocket.
+- Hallis Dren's **quarterly return of the eleventh of the tenth** is still dormant and armed. Nobody in the story knows what it contained.
+- The **four holders in Emberwatch** among the ten who have not answered, in a dyers' house.
+- **Nery Caudle's second paper**, under a cloth, brought by a man on a rack.
+- **The Beckery's second association** has a question about a girl of nineteen and a wage already paid, and the fourth question travelling with it.
+- **Tace Oster's** unanswered question: is it her fault.
+- **Pella Osk is discharged.** **Wend** the lamp-trimmer is still named in open court and still unasked.
 
 ## Current relationship pressure
 
-Marek and Tamsin have stopped overruling each other and started checking each other's drafts, which is better and not the same as repaired. She struck a sentence out of his exhibit application and let him sign it; he wrote down in his book the thing she did wrongly on purpose and read it back. He signed the narrowing and told her in the same hour and had the time written beside his signature. The two live failures are both hers and both are deliberate: she has not told him what Pell Vey said in the yard behind the Chancery on the fourth day of the tenth month, and he has not sent the letter to Rell that Tamsin named the real reason for not sending. Nell has been told about Ilyra and has not forgiven the ninth month and has not left, and has given Marek the sentence she will need said to her when it matters.
+Marek and Tamsin checked each other's drafts through Batch 0003 and both of them broke the arrangement once, in mirror image: he concealed Pell's request for nine days, she had concealed the question she wrote under the yard note for two months. She disclosed first, without being asked, and he followed. The residue is a written disagreement with a date on it — her objection to leaving the First Seat quarterly return out of the reply, folded into his coat's inside pocket — and a rule neither of them will break. She travels three hundred miles alone in Chapter 30 and does not write to him once. Nell has not forgiven the ninth month, has not left, and in Chapter 29 did not write to him at all and knows exactly why and is not going to tell him.
 
 ## Current power state
 
-Stage 0, Clerk's Eye, plus an unstable first Seam-Sight spent in Chapter 8. **Marek performs no magic in Chapters 11–20.** The reading's cost has been paid in full: the headache went on the twenty-sixth of the tenth month, and the temporary inability to lie about the guarantor lapsed on the page in Chapter 18 at the fourth hour, in a lane, and is described as a lapse and not a cure. He does not revisit Perrin Ashe. No valid exception, counter-seal, mixed warrant, true-name reading, Roll Assembly, or Stage 2 ability exists anywhere in Volume 1, and the word "exception" appears only in the invalid draft in Chapter 5, which cannot be used.
+Stage 0, Clerk's Eye, plus an unstable first Seam-Sight spent in Chapter 8. **Marek performs no magic in Chapters 21–30 and none anywhere in Chapters 11–30.** The reading's cost has been paid in full; the inability to lie lapsed on the page in Chapter 18 and does not return, and Batch 0003 makes a private use of the fact rather than a mechanical one. No valid exception, counter-seal, mixed warrant, true-name reading, Roll Assembly, or Stage 2 ability exists anywhere in Volume 1, and the word "exception" appears nowhere in Batch 0003. The process Marek accepted is the court's, the water office's and a register's, and it places no burden on his body.
 
 ## Next phase
 
-The writer run for Chapters 21–30, driven by `workspace/volume-01/batch-0003/PROMPT.md` with `outline/batches/volume-01-batch-0003.md` as the card source. Chapters 21–25 finish the volume midpoint; Chapters 26–30 open the coalition-under-material-pressure arc. Volume 01 runs to Chapter 50, so no volume-close prompt is created. Do not create any further phase prompt.
+The writer run for Chapters 31–40, driven by `workspace/volume-01/batch-0004/PROMPT.md` with `outline/batches/volume-01-batch-0004.md` as the card source. Chapters 34–40 are the limited scale hearing in which Sivra Oris testifies, Pell offers a promotion, and the First Seat's motive stays hidden behind an authentic-looking order. Volume 01 runs to Chapter 50, so no volume-close prompt is created. Do not create any further phase prompt.
 
-Planning references: `outline/volume-01.md`; `outline/batches/volume-01-batch-0002.md`; `outline/batches/volume-01-batch-0003.md`; `outline/series.md`; `outline/ending.md`.
+Planning references: `outline/volume-01.md`; `outline/batches/volume-01-batch-0004.md`; `outline/series.md`; `outline/ending.md`.
 
-State file map: `state/current.md` (this file), `state/continuity.md` (canon, chronology, custody chain, the two printed documents, named figures), `state/open-threads.md` (threads and blockers), `state/chapter-summaries.md` (per chapter), `state/batch-summary.md` (per batch plus notes for the next batch), `state/character-state.md` (per principal). `state/phase-ledger.json` is controller-owned and is never written by a writing phase.
+State file map: `state/current.md` (this file), `state/continuity.md` (canon, chronology, custody chain, the two printed documents, the process, the copy list, named figures), `state/open-threads.md` (threads and blockers), `state/chapter-summaries.md` (per chapter), `state/batch-summary.md` (per batch plus notes for the next batch), `state/character-state.md` (per principal). `state/phase-ledger.json` is controller-owned and is never written by a writing phase.
