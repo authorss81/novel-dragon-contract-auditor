@@ -1,0 +1,48 @@
+Read in this order before writing: `AGENTS.md`, `NOVEL_SPEC.md`, `bible/terminology.md`, `bible/power-system.md`, `bible/characters.md`, `bible/world.md`, `bible/themes.md`, `outline/ending.md`, `outline/series.md`, `outline/volume-01.md`, `outline/batches/volume-01-batch-0001.md`, `outline/batches/volume-01-batch-0002.md`, then `state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/batch-summary.md`, `state/character-state.md`, and `state/chapter-summaries.md`.
+
+Chapters 1–10 exist and are finished prose in `chapters/volume-01/`. Read Chapters 8, 9, and 10 in full for voice and immediate continuity, and use `state/chapter-summaries.md` and the Batch 0001 entry in `state/batch-summary.md` for everything earlier. Do not rewrite or continue any of Chapters 1–10. If a prompt is dispatched that asks for Chapters 1–10 again, it is a duplicate and must not be run.
+
+## Authoritative source
+
+`outline/batches/volume-01-batch-0002.md` is the single source of truth for Chapters 11–20. It contains the batch goal, the five-beat shape, the midpoint, the climax, the aftermath, the pressure rotation, the bound support cast, and one card per chapter with POV, location, immediate goal, resistance, information revealed, action or decision, emotional change, power or resource change, continuity fact, ending type, and next-chapter pull. If a card and a bible file appear to disagree, the card wins for that chapter and the conflict is recorded in `state/continuity.md` as a proposed canon change. Do not restate the cards here and do not substitute a different plan.
+
+## Canon locks for this batch
+
+These are fixed. If anything disagrees with them, this section wins and the discrepancy is recorded in `state/continuity.md`.
+
+- **Marek performs no magic in Chapters 11–20.** No Roll-Answer appears, at most one per volume has already been spent, and his first Seam-Sight does not recur. He is a Stage 0 clerk with unstable standing, and that instability is the pressure.
+- **No valid exception, counter-seal, mixed warrant, true-name reading, Roll Assembly, or Stage 2 ability appears.** The word "exception" does not appear in this batch at all. The only draft that used it is dead, it cannot be used, and Tamsin Rook is holding the sheet. A court may still issue its own orders, and a guild may still issue its own form; neither is Marek's power.
+- **The reading's cost is still being paid.** Marek cannot state aloud that nothing further in the file will touch an affected person. It must be used against him at least once before it lapses, and it lapses on the page in Chapter 18, in a small specific moment, and is described as a lapse and not a cure. It does not get better by rest, by a physician's fee, or by a decision to try harder.
+- **The fourth term requires a new signature.** Anyone assuming a continuing duty must sign a new obligation for it. Quote it once, in full, in plain language, and paraphrase it everywhere else. The whole batch turns on this term being defeated in practice by a family's own unpaid labour, and on it being used successfully by people nobody trained.
+- **A postponement is worse than a refusal for a household with creditors.** This is the Chapter 12 finding and it must be true on the page, in Orra Dunn's own arithmetic, not asserted.
+- **The public-necessity sentence may not be reused without a separate hearing and a signature.** This principle is on the record from the Mosswake court's own mouth by the end of Chapter 12. It is the difference between the first Dunn hearing, which postpones, and the second, in Chapters 41–46, which decides that no guarantor duty attaches at all. Do not let a chapter between them quietly weaken it.
+- **The second sealed page stays shut through this batch.** Nobody opens it. Anyone who comes close to it must be witnessed and must pay for looking.
+- **The red stitch and the thread in the form's fold are not the same thing.** No chapter may assert, imply, hint at, or let a character assert that they are connected. Marek has already put a prohibition on this into the record in Chapter 10 and it stands.
+- **Two characters share the surname Oris and must never be merged.** Sivra Oris is the Reed Cut water keeper, the scale counterparty to the Venn instrument, and is not called as a witness in this batch; she testifies in Chapters 34–40. Seryn Oris is the off-page First Seat and the final antagonist: she is not present, not named, and not credited with any action. The First Seat form is her seat's paperwork. Do not name Seryn.
+- **Corvin Dray does not name the four clients.** His statement names a payment point, a furnace-side counting house in Auremar, and a mark that appears in three districts. He is a valuable and constrained witness and is not the final threat.
+- **The audit request is never favorably answered and never lost.** It stays alive, in Examinations custody, and it is offered closure in Chapter 20 against a bounded certification. Marek does not answer inside this batch.
+- **No romance.** Tamsin and Marek stay professional colleagues whose relationship is damaged and, in Chapter 16, changes shape. Nell and Marek are a strained sibling pair. No romance begins in Volume 1.
+
+## What this batch must do
+
+Write Chapters 11–20 as complete finished scenes in `chapters/volume-01/chapter-0011.md` through `chapter-0020.md`. Each chapter is one real scene with physical space, work, dialogue, subtext, character thought, and a changed situation at the end. Chapters 1–10 run to roughly 37,000 words, so Chapters 8–10 are longer than the usual 2,200–3,200 word guide; that guide is a floor to respect and not a ceiling to hit. Never pad, never split a finished scene to hit a number, and never write an outline, list of beats, or status summary in place of prose.
+
+The batch's shape:
+
+- Chapters 11–16: the price of the win. The bank works, the twenty-third, Orra's creditors, Sarn's four days, the guild's form, and the argument about publication.
+- Chapters 17–18: what the arrest cost and what a winter looks like when nobody is fighting.
+- Chapters 19–20: two letters, a circular, and an offer.
+
+## Hard mechanics for this batch
+
+- The pressure rotates. Chapter 11 is local survival, 12 is a hearing, 13 and 14 are character and consent, 15 and 17 are political and guild pressure, 16 is a relationship turn, 18 is the emotional beat, 19 is investigation, 20 is political pressure with a decision owed. Do not let two consecutive chapters run the same way, and do not spend a chapter on a document being read.
+- Ordinary competence keeps winning. A posted water-office schedule, a public register of pending duties, a witness order, a docket, a printed circular's number, and a form's second box do the work in this batch, not magic and not speeches. The people who decide cases are clerks, a foreman, an assessor, a seed keeper, a customs clerk's nephew's landlord, and a woman who will not give her name.
+- Unearned relief is not permitted. Every win in this batch must have a named cost attached to it, and the cost must be somebody's winter, somebody's wages, somebody's exemption, or somebody's exposure. The Venn family gets a winter; the Dunn family gets a hearing; the dye-house gets a clause; none of them gets a clean sheet.
+- New supporting figures are bound in the card file: Marl Crenn, the dyers' schedule assessor; Rennie Sallow, the upper-district household whose seed was delayed; Perry Ostrow, the Glasswater copyist. Do not invent replacements for Ivet Sarn, Ostyn Vare, Odile Fenn, Hallis Dren, Ruhl Dunnet, Garren Pyle, Ivo Harker, Brammel, or Magistrate Rell. All of them are alive, placed, and have recorded wants.
+- Follow the prose usage rules in `bible/terminology.md`, including the words the narration must avoid. Keep "exception," "counter-seal," and "true name" out of this batch entirely.
+
+## After the batch
+
+Update `state/chapter-summaries.md` with two to five sentences per chapter. Update `state/batch-summary.md` with a new entry for this batch using the format already in that file, and revise or extend the "Notes for the next batch" section. Update `state/character-state.md` so every principal's entry reports what actually happened on the page. Update `state/current.md`, `state/continuity.md`, and `state/open-threads.md` with the new canon facts, the new dates, the Sallow and Ostrow positions, the amended guild clause, the circular, the offer, and anything the batch has left unpaid. Keep all of these compact enough that a later batch can read the whole files. Do not create a new canon rule without recording it in `bible/` and in `state/continuity.md` at the same time. Never edit `state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, or `opencode.json`; those are controller-owned and are restored from the controller, so an edit there would be committed as your work and discarded later.
+
+Then inspect `outline/volume-01.md`. Chapters 21–50 remain, so create exactly one next directory, `workspace/volume-01/batch-0003/`, with a detailed `PROMPT.md` for Chapters 21–30 and author-facing cards in `outline/batches/volume-01-batch-0003.md`. Chapters 21–25 must finish the volume midpoint: Marek's refusal of the bounded certification, the named and reviewable emergency process he accepts instead, and the fact that this protects current food supplies without pretending the copied rule is safe. Chapters 26–30 open the coalition-under-material-pressure arc, in which Tamsin begins building independent copies across Mosswake and Greyfen. Do not create any further phase prompt, volume-close prompt, or volume outline.

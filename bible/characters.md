@@ -124,6 +124,20 @@ These are the working people the opening batch and volume need by name. Each one
 - **Hallis Dren:** thirty, clerk of the Reed Cut district water office. The flood memorandum that justified the Venn correction was issued under his name to clear a backlog before the season, and he signed it knowing a correction would be filed afterward. He is not a conspirator; he is a man who signed a form. His want is to keep his certification and his mother's canal house.
 - **Odile Fenn:** thirty-four, guild witness who certifies canal work in Mosswake. She wants apprentices to be able to leave a craft without losing the tool they were still paying for, and she is the person Tavi needs when she asks to be examined for work. Her want is a guild that still has apprentices next year.
 
+### Supporting Figures Added In Volume 01, Batch 0001
+
+Named on the page in Chapters 1–10 and bound so that later batches do not invent replacements. Each is a working person with an independent want, not a clue with a motive.
+
+- **Garren Pyle:** the certifier who attended the Mosswake hearing for Corvin Dray carrying a certificate with a cold press mark and the copied third notch. He withdrew the record rather than read it, would not say whose hand pressed the matrix, and was held for his name and the name of the office that instructed him. He is a paid functionary who did not want to be the one who held on.
+- **Ivo Harker:** an old man of the Venn lane who keeps the lane's papers in a tin under his bed and copies by hand for anyone who asks. The red-thread page came out of his mother's bundle in that tin. He is a keeper of an uncatalogued local copy, not an agent of anything, and he wants to be asked before his mother's bundle is read.
+- **Brammel:** about sixty, a client waiting on Corvin Dray's bench in Candlewright Lane, who identified the green box under the window as the working box rather than the archive box. He is one of eleven protected witnesses and he wants his own papers back and his own name out of the inventory.
+- **Marl Crenn:** the dyers' schedule assessor for the Greyfen guild, introduced in Batch 0002. She holds the craft exemption form and its second box, which requires any second instrument in a house to name a person and the first instrument to be read with it. She is not cruel; she is frightened of a form, which is the same fear as Pell's and as Magistrate Rell's, and she would like the exemption kept more than she would like anybody refused.
+- **Rennie Sallow:** a Mosswake upper-district household whose barn term file was the one kept open in the fifth year, so that their seed allocation was delayed because the docket could not be closed and the relief rolls could not be certified. Their loss is named in the record at last. They did not ask to be a precedent and they are owed an explanation delivered by the clerk who delayed them.
+- **Perry Ostrow:** a copyist at a Glasswater river court, introduced in Batch 0002. She sent a copy of a provincial file to the Mosswake lane on her own initiative, has told nobody at home, and is exposed the moment the letter is traced. She wants the household in her own file to be heard and she has no idea what that will cost her.
+- **The unnamed hooded woman of the seed barns:** makes copies in a schoolroom hand, will not give her name, and stayed until she had heard the Venn ruling twice. Tamsin sent her a copy because a person who will not give her name is a person who intends to be hit. She is the reason the public copies work and she is never named.
+- **The customs clerk on the Auremar quay:** unnamed, not a plot element. He told Marek that a decision had reached a person he had never met, and at the end of Chapter 10 he says he is not asking for anything. He is the shape of the slow part of the work.
+
+
 ## Volume 01 Fixed Anchors
 
 - **Ages:** Mara Venn is forty-three. Tavi Venn is seventeen and knows the Reed Cut gate linkage better than any clerk. Orra Dunn is thirty-six. Nessa Dunn is fifteen. Ivet Sarn is thirty-eight.
