@@ -8,6 +8,10 @@ Dragons are long-lived territorial powers. Humans are the majority and control m
 
 The central political question is not whether contracts should exist. They are necessary for living beside creatures whose memories and authority span generations. The question is who gets to define what a contract continues to mean after the people who signed it have died.
 
+## Foundational Ratification
+
+A foundational compact binds the human provinces, dragon Houses, and civic bodies that publicly ratified it, but only to the duties and limits stated in that ratification. It cannot create a perpetual office, inherited debt, or beneficiary for a population that did not exist when it was ratified. A later court ruling, seal, or family record may preserve evidence of attempted continuation, but it cannot enlarge the compact or make itself binding on descendants. This stricter rule prevents a public treaty from being converted into a private hereditary claim while leaving ordinary contracts subject to ordinary consent, proof, and restitution.
+
 ## Geography
 
 ### Auremar, the Capital
@@ -56,9 +60,35 @@ The nine Houses are politically distinct:
 - **House Thal** guards the mountain citadels, quarries, and stone roads. Its border law is strict and its members distrust improvised assemblies.
 - **House Rusk** maintains deep furnaces and memory vaults. It trades historical records for recognition and often knows more than it officially admits.
 
+### The First Custodian and the Cinder Proxy
+
+The First Custodian is the original Emberroot office for maintaining the Compact when a throne, dragon House, or recognized human government fails. Its original rules are strict: the Custodian must be human, may serve no more than seven years, and must have no enforceable inherited asset or right at the moment of appointment. No bloodline inherits the office. A candidate is chosen at a publicly called succession convocation after a clear hearing and the recognition of at least five human provinces, five dragon Seats, and three of six independent civic assemblies. The First Seat may call a convocation and has one vote, but it cannot appoint a Custodian alone.
+
+The First Seat must publish notice of a vacancy within ten days and call a convocation within thirty. The sitting human Custodian is **Halden Ro**, appointed through a lawful 5/5/3-of-6 convocation; he refuses to sign any proxy instrument. His seven-year term expires during the final succession crisis, and only a new public 5/5/3-of-6 convocation can appoint a successor. Until an appointment is made, a group of **Emberroot Interim Keepers**—two human record keepers, one dragon notary, and one civic witness—may maintain existing duties, records, and immediate relief for no more than forty-five days. The affected local court selects both human record keepers, the recognized dragon seat selects the notary, and the nearest civic assembly selects the civic witness; the First Seat cannot select them all. The Keepers cannot create a new perpetual duty, transfer the office, or invoke the Cinder proxy route. If no such keeper group can be seated, recognized local courts maintain their existing duties while no new foundational obligation may be created; the First Seat gains no temporary succession power from the failure.
+
+The later **Cinder proxy route** is an unlawful practice, not an amendment recognized by the original Compact. It pairs a First Seat seal with a human who has a recorded inherited claim, calls that person a proxy guarantor, and claims that control behind the proxy passes by succession. The route does not make a dragon eligible for the human office and does not turn a disputed claim into an enforceable asset. Seryn Oris cannot be the lawful First Custodian. Her plan is to reactivate this route so that a controlled human proxy carries the public office while she and House Oris retain permanent control behind it.
+
+Under the planned Covenant of Many Seals, Halden Ro's term expires, the First Custodian is left vacant, and no proxy or First Seat call can renew it. Only a new 5/5/3-of-6 convocation could appoint a temporary successor during the transition. Its maintenance function passes to rotating Roll Assemblies and a bounded Covenant-era Interim Continuity Council; its hereditary claim ends.
+
 ### Human Institutions
 
-Humans run most civil affairs through provincial **Roll Courts**, civic assemblies, guilds, temples, family companies, and mutual-aid funds. For foundational quorum purposes, the human side is organized into nine provinces, each with its own assembly and a right to withhold recognition. Withholding recognition means that a province may keep local law and negotiate access; it does not allow that province to invoke the old Cinder Clause against a recognized jurisdiction after the replacement quorum is established. A provincial court can decide a small inheritance dispute, but a judgment touching a dragon territory, water right, or foundational compact may be appealed to the Cinder Court.
+Humans run most civil affairs through provincial **Roll Courts**, civic assemblies, guilds, temples, family companies, and mutual-aid funds. For foundational quorum purposes, the human side is organized into nine provinces, each with its own assembly and a right to withhold recognition:
+
+1. **Mosswake** governs the river channels, flood terraces, and seed farms.
+2. **Greyfen** surrounds Auremar through commoner assemblies, peat fields, and work yards.
+3. **Salt Teeth** governs the mining and furnace towns through craft and mine districts.
+4. **Cinder Marches** comprises the human border settlements, waystation councils, and hearing stones.
+5. **Glasswater Delta** controls the lower bridges, ports, and delta irrigation works.
+6. **Sunward Downs** supplies the basin's grain and fears any charter that weakens local food security.
+7. **Emberwatch Uplands** holds furnace towns closely tied to House Oris concessions.
+8. **Bellward Craftlands** is a dense belt of tool-makers, dyers, and small patent disputes.
+9. **Thornfen Pastures** holds grazing, commons, and mobile household records.
+
+Withholding recognition means that a province may keep local law and negotiate access; it does not allow that province to invoke the old Cinder Clause against a recognized jurisdiction after the replacement quorum is established. A provincial court can decide a small inheritance dispute, but a judgment touching a dragon territory, water right, or foundational compact may be appealed to the Cinder Court.
+
+The independent civic leg of the foundational quorum consists of six standing assemblies, not an unlimited list of guilds: the **Craft Assessors' Guild**, **Riverkeepers' Mutual Ledger**, **Public Roll Copyists' Compact**, **Northern Waystation Council**, **Freeport Dock Assembly**, and **Temple Carekeepers' Concord**. The first three vote in the final Covenant; the last three abstain during the first year while demanding record reform and care funding. A civic vote requires an assembly to publish its decision and hear at least one objection.
+
+The planned final Covenant receives five human votes from **Mosswake, Greyfen, Salt Teeth, Cinder Marches, and Glasswater Delta**. **Sunward Downs and Emberwatch Uplands** refuse recognition during the first year; **Bellward Craftlands and Thornfen Pastures** abstain pending restitution and record reform. The corresponding five dragon votes come from **Oris, Aven, Ilex, Merrow, and Rusk**. **Vell and Nera** favor a single custodian, while **Sorn and Thal** accept only a temporary emergency office. The three of six independent civic votes come from the **Craft Assessors' Guild, Riverkeepers' Mutual Ledger, and Public Roll Copyists' Compact**.
 
 The **Chancery of the Roll** employs copyists, notaries, auditors, examiners, and record keepers. Its work is essential and often dull. A clerk can determine whether a person may inherit a shop, a child may leave an apprenticeship, or a widow may remarry without surrendering a deed. The same clerk may also be pressured to copy a correction that has no clear witness.
 
@@ -107,7 +137,7 @@ Its central promise was a **First Custodian**: a human office, not a royal blood
 
 ### The Quiet Reign
 
-Ninety years ago, a succession crisis among the dragon Houses produced the **Quiet Reign**. The Houses agreed that no one ruler could claim the Compact. Over generations, however, the First Custodian office was narrowed through amendments and court practice. It became hereditary in practice. The hidden **Cinder Clause** made the office pass to a chosen living heir, while ordinary human inheritance was gradually treated as proof that the heir already held the empire's obligations.
+Ninety years ago, a succession crisis among the dragon Houses produced the **Quiet Reign**. The Houses agreed that no one ruler could claim the Compact. Over generations, however, the First Custodian office was narrowed through amendments and court practice. The hidden **Cinder Clause** developed an unlawful proxy route: a First Seat seal paired with a human inherited claim so that House Oris could claim control behind a nominally human guarantor. Ordinary human inheritance records were then treated as proof that a proxy already held the empire's unresolved obligations.
 
 The change was sold as stability. Inheritance became more predictable; debts became more enforceable; courts could point to a single authority when a dragon House disputed a human settlement. The cost was that the First Custodian could turn every local promise into a reason to preserve the office.
 

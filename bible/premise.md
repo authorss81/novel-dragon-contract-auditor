@@ -14,7 +14,7 @@ The larger question is not simply whether dragons are good or evil. It is what h
 
 ## Opening Situation
 
-Marek is sent to verify the inheritance file of **Mara Venn**, a widow in the river province of Mosswake. Her late husband signed a water-and-field contract with a minor dragon notary. The visible text grants the family use of a channel and a grain field. A later correction, copied into a court precedent, says that the field's next holder must repay a **winter-seed debt** to the dragon's house. Mara's daughter, **Tavi Venn**, is treated as the debtor before she has signed anything.
+Marek is sent to verify the inheritance file of **Mara Venn**, a widow in the river province of Mosswake. Her late husband, **Aldren Venn**, signed a fixed seven-year water-and-field contract with **Sivra Oris**, a minor dragon water keeper. The original text gives Aldren the field-side upkeep duty, gives Sivra the gate and navigation duty, and grants Mara and Tavi use of the channel and lower field while the term runs. The winter-seed repayment is Aldren's personal obligation. Mara witnessed the original but never signed a later continuation, correction, or inheritance stipulation. A fraudulent correction, copied into a court precedent, replaces the named signer with “the present holder” and makes that holder repay Aldren's **winter-seed debt**. Mara's daughter, **Tavi Venn**, is treated as the debtor before she has signed anything.
 
 The case is not unique. Similar terms have begun appearing in wills, apprenticeships, marriage settlements, and guild contracts. Marek notices that the correction was never added to the original file. It arrived through a precedent that a court treats as binding on people who never saw it. He cannot prove the whole conspiracy, but he can prove that the widow's file has been changed and that ordinary inheritance law has been made to answer for it.
 
@@ -41,7 +41,7 @@ The main pressures alternate between investigation, training, work, political ne
 - **Internal need:** Accept that truth is not safer when kept in one competent person's hands. He must share authority, permit others to refuse him, and make decisions before certainty is comfortable.
 - **Flaw:** Marek treats people as incomplete documents. He withholds evidence to protect them, assumes competence is a form of authority, and mistakes delay for prudence.
 - **Fear:** He fears becoming the person who uses a contract to bind someone he loves. He also fears that his mother's disappearance proved that any public duty is a disguised claim on the self.
-- **Final change:** Marek becomes a public witness rather than a private owner of the truth. He gives up the one role that could let him save the empire by controlling it and helps build a system whose authority can be refused.
+- **Final change:** Marek becomes a public witness rather than a private owner of the truth. He gives up eligibility for the one role that could let him control the empire's foundational duties and relinquishes exclusive access under a true seal; any future true-name reading remains public, witnessed, and revocable. He helps build a system whose authority can be refused.
 
 ## Ending Promise
 

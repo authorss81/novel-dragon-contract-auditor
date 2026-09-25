@@ -1,19 +1,50 @@
-# Volume 01 Outline
+# Volume 01 Outline: The Daughter's Field
 
-Central pressure: [pending]
+Volume number: 1
 
-Starting state: [pending]
+Chapter range: 1–50
 
-Major locations: [pending]
+Central pressure: Tavi Venn is being treated as the debtor of a winter-seed obligation that her late father, Aldren Venn, signed for a fixed seven-year term. Her mother, Mara, witnessed the original instrument but never knowingly signed the later continuation or correction. The same substituted language is appearing in a second Mosswake file, and a flood deadline makes a procedural appeal more immediately dangerous than a quiet error.
 
-Major factions: [pending]
+Starting state: Marek Kest is a junior Chancery clerk with no independent legal standing, no recognized magical stage, no powerful patron, and a disputed Kest property-and-debt record. His mother Ilyra's name is officially erased. He is technically blank of enforceable inherited rights, but he does not yet understand how the recorded dispute could be misused as a proxy route.
 
-Midpoint reversal: [pending]
+Starting relationships: Marek and Tamsin Rook are assigned colleagues who respect careful work but disagree about whether suspicion is a reason to preserve evidence. Tamsin is the first person whose ordinary copying competence changes the case. Nell Kest resents Marek's habit of deciding what she can safely know. Pell Vey is a trusted supervisor whose clean procedure is beginning to hide deliberate administration.
 
-Volume climax: [pending]
+Starting power level: Stage 0, Clerk's Eye. Marek can compare dates, paper, ink, witness marks, seals, and filing histories, and can interview witnesses without treating a title as proof. Audit permission alone does not produce a Roll-Answer; after he exercises the limited Venn audit authorized in Chapter 7 at the Chapter 8 rehearing, the first unstable Seam-Sight and Roll-Answer appear together. He cannot perform a valid exception or use a counter-seal. No Stage 2 power appears in this volume.
 
-Concrete resolution: [pending]
+Major locations: Auremar's Roll Hall and copying galleries; the Mosswake river court; the Venn farm and Reed Cut channel; Orra and Nessa Dunn's upper seed barn; the Kest rented room; Nell's dye-house; Corvin Dray's seal-broker office; the flood terraces and waystation roads.
 
-Next-volume question: [pending]
+Major factions: The Chancery of the Roll; Pell Vey's Notaries' Table; Mosswake's irrigation witnesses and channel crews; Magistrate Leda Rell's river court; the Venn and Dunn families; the dye-house workers and Nell's guild contacts; Corvin's independent seal-broker network; and a sealed First Seat instruction that reaches the province without becoming a visible character.
 
-Final chapter image: [pending]
+The Venn case text:
+
+- **Original wording:** Aldren Venn signs a seven-year water-and-field instrument with Sivra Oris, the dragon water keeper. Aldren owes the field-side upkeep; Sivra owes the Reed Cut gate and navigation maintenance; Mara and Tavi may use the channel and lower field. The winter-seed repayment is due from Aldren and is payable from his estate at the end of the term. The text requires any person who assumes a continuing duty to sign a new obligation. Mara witnesses the original; she does not sign a later inheritance stipulation.
+- **Fraudulent alteration:** A later filed correction replaces the named signer with “the present holder” and routes Aldren's debt to whoever occupies the field. The correction is copied into a local precedent and then used against the Dunn family.
+- **Material evidence:** The original leaf and witness copy carry Aldren's double-reed shorthand and two pressure-notched witness marks. The filed correction has a copied third notch, mismatched seal pressure, newer ink, and a filing date later than the district water office's flood memorandum used to justify it. Tamsin's independent copy preserves the sequence.
+- **Restored ruling:** Tavi's personal debt is void; Mara and Tavi keep the field for the fixed term; Sivra Oris's gate and navigation duty survives; and no current occupant becomes a guarantor without a separate hearing and signature.
+- **Harmful precedent:** The court needs a flood-safety sentence and records: “Where immediate public necessity requires a recorded continuation to prevent loss of food or shelter, the present holder of the burdened property may be joined as guarantor until full review.” The unfiled Dunn summary already contains the substituted guarantor language; applying this sentence to that summary makes it operative against Orra Dunn and her fifteen-year-old daughter Nessa, creating the second affected household and showing how Marek's narrow victory can become a new inheritance echo.
+
+Escalation sequence:
+
+1. **Chapters 1–5, ordinary work and first discrepancy:** A routine inheritance packet assigns Marek the Venn file. The source leaf and witness list disagree with the filed correction; field inspection separates Aldren's fixed-term duty from Tavi's debt; Tamsin finds an unfiled Dunn summary that would name fifteen-year-old Nessa as guarantor. The first promise is personal and material: Tavi keeps her field and Mara gets a winter.
+2. **Chapters 6–10, the local mini-climax:** Flood deadlines and Nell's contract force Marek to choose a public rehearing over a private exception. The court clears Tavi, preserves Sivra Oris's gate and navigation duty, and records the harmful public-necessity sentence. Corvin is arrested, but the First Seat instruction and red-thread clue survive. This closes the first case and opens the volume's larger question.
+3. **Chapters 11–18, the price of a narrow win:** The Venn ruling is certified locally, Nessa and Orra receive a first independent hearing that can only postpone a guarantor duty pending full review, flood repairs consume the village's reserves, and Nell's visible exit clause draws a guild challenge. Corvin remains in custody while his broker clients begin closing their shops to investigators. Tamsin and Marek disagree about publicizing the instruction before affected families can be warned. The volume gives its local families a real winter but shows that the precedent is traveling.
+4. **Chapters 19–25, the midpoint reversal:** Two provincial files repeat the substituted “present holder” wording and the public-necessity sentence. The sealed First Seat instruction is traced to the higher administrative template behind those copies, proving that the local precedent was issued through a repeatable form rather than a single clerk's invention. The Chancery offers Marek a bounded certification if he accepts the Venn ruling as an emergency precedent and abandons the formal audit. He refuses, but the offer exposes a worse choice: the court can either certify one unsafe rule and protect current food supplies or suspend it and let several families face seizure. Marek chooses a named, reviewable emergency process. The narrow Venn victory has become a public pressure point, not a private rescue.
+5. **Chapters 26–33, coalition under material pressure:** Tamsin builds independent copies across Mosswake and Greyfen while Nell organizes dye-house workers to compare contracts. Magistrate Rell offers a workable alternative only if the new process names who will pay for flood relief. Corvin's detained statement is partial and self-serving; his formal plea in Volume 2 will govern what testimony he can offer. Marek's Seam-Sight remains unstable; he can identify the immediate beneficiary of a copied clause but cannot yet reconstruct the reasoning that carried it between courts. A separate household in another district loses a tool before the notice reaches them, and Marek accepts that a network of copies is slower than a single ruling.
+6. **Chapters 34–40, the First Seat instruction:** The sealed instruction is challenged in a limited scale hearing. Pell offers Marek a promotion in exchange for treating the correction as routine; Sivra Oris testifies that the original Venn duty belonged to Aldren and the water keeper, not to a current occupant. Marek refuses the promotion, but the court cannot yet compel the First Seat to disclose who authorized the instruction. The public record makes the institutional reach visible while leaving the motive hidden.
+7. **Chapters 41–46, the volume climax:** In a multi-party evidentiary hearing, Marek joins the Venn and Dunn records, Sivra's scale duty, Corvin's ledger, and Tamsin's copies. The second Dunn hearing decides that no guarantor duty attaches without Nessa's own hearing and signature, rather than merely postponing the question as the first hearing did. Marek obtains a bounded local remedy: Tavi's personal debt is permanently void, the Dunn decision becomes part of the public record, the public-necessity sentence is narrowed, and Corvin's seal certificates are suspended. The Chancery's appeal escalates the First Seat instruction to the Cinder Court. Marek wins the case he opened while losing control of the larger precedent.
+8. **Chapters 47–50, resolution and a different question:** Corvin remains in custody while his formal plea and trial are scheduled for the next volume; Nell's signed contract and visible exit clause survive the dye-house guild's challenge; Mara and Tavi keep the field for the term; the formal audit request remains in Chancery custody pending a scope decision; and the Kest file is formally reopened without being cleared. The public copy of the Venn ruling is posted in Mosswake and Auremar. Chapters 49–50 show the red-thread mark reaching an older archive packet, so the final image is not victory but a question with a route.
+
+Mini-arc reversal: Chapters 6–10 prove that Marek's correct narrow ruling can be copied into a harmful public-necessity sentence and used against Nessa Dunn.
+
+Midpoint reversal: Chapters 19–25 reveal that the same sentence came from a higher administrative template and that the Chancery is willing to make it official to keep flood relief moving. Marek must accept a public, reviewable emergency process instead of a private exception or a total suspension.
+
+Volume climax: Chapters 41–46 use the Venn material, the Dunn hearing, Sivra's testimony, Corvin's ledger, and Tamsin's copies to secure a bounded local remedy without pretending the higher precedent has been defeated.
+
+Concrete resolution: Tavi keeps the field and her apprenticeship prospects; Mara receives a fair winter and a written end to the debt notice; Nessa and Orra receive a real hearing rather than a judgment based on the copied clause; Corvin remains in custody pending the formal plea and trial in Volume 2; Nell signs a new dye-house contract with a visible exit clause; and the filed formal audit request remains in higher-office custody for Volume 2's jurisdiction fight. The higher precedent, the sealed First Seat instruction, and the Kest claim remain active.
+
+Power and relationship change: Marek and Tamsin move from guarded colleagues to colleagues who can disagree without hiding evidence. Marek's secrecy still causes damage, so the relationship is not repaired by a single victory. His authorized audit produces unstable Seam-Sight with counterpressure and a temporary inability to lie about one named obligation. He remains Stage 0-plus rather than becoming a combat or court prodigy, and he learns that a narrow exception can be copied into a larger weapon.
+
+Next-volume question: Why does the same substituted language appear in three provinces, Corvin's records, and Ilyra Kest's private file—and what authority is behind the sealed First Seat instruction?
+
+Final chapter image: Marek posts the corrected Venn ruling in two places and finds the red-thread mark continuing across a burned archive wrapper; the field is safe for one winter, but the copied sentence now has a route toward the Cinder Court.

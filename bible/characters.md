@@ -12,8 +12,8 @@
 - **Strengths:** Pattern recognition, memory for procedural detail, patience with frightened witnesses, an ear for what a person omits, and enough stubbornness to keep working after a humiliating failure.
 - **Limits:** He is not a dragon scholar, a trained fighter, a political natural, or a public speaker. He can misread a biased record, underestimate a political actor, and become so focused on a clause that he misses the person in front of him.
 - **Habits and life:** He sorts loose paper by the date it was written rather than the date it was filed, carries a sharpened reed and a hard biscuit, and can identify a courthouse by the smell of wet stone and heated seal-wax. He lives in a rented room near the Roll Hall and sends part of his wages to his sister. He does not drink often, but he drinks too much tea when afraid.
-- **Beginning position:** He has no recognized magical stage, no powerful patron, and no independent legal standing. His inherited claim is a disputed debt, not an enforceable family asset or right, so the Chancery can treat him as Kest's debtor while the original Compact could eventually regard him as legally blank.
-- **Ending position:** He becomes the first public Continuity Auditor whose authority is deliberately limited. He can still identify a seam, but he cannot read a dragon's true name alone or hold a permanent seat. He works within a mixed civic system and remains accountable to people he cannot command.
+- **Beginning position:** He has no recognized magical stage, no powerful patron, and no independent legal standing. The Kest file records a disputed property claim and debt, but neither is an enforceable asset or right: the record never received a valid claimant assent or settlement, and Ilyra's erasure compounded that defect rather than creating it. The Chancery can therefore treat Marek as legally blank for the original public office even after her name is restored, while the later Cinder proxy practice can still mistake the recorded route for an inherited claim.
+- **Ending position:** He becomes the first public Continuity Auditor whose authority is deliberately limited. He can still identify a seam and take part in a witnessed true-name reading under a revocable mixed warrant, but he permanently surrenders eligibility for a sole foundational office and any exclusive access under a true seal. He works within a mixed civic system and remains accountable to people he cannot command.
 
 ### Marek's internal contradiction
 
@@ -25,7 +25,7 @@ Marek wants to make a world in which no one can be trapped by a promise he did n
 
 Marek's mother was a Chancery copyist, a careful reader of witness lists, and a stubborn public defender of ordinary inheritance. She disappeared in the **Ashfall Archive fire** twelve years before the opening. The official roll declares her dead and removes her name from a disputed family record.
 
-Ilyra's private motive was to keep Nell from being conscripted into a dragon-backed guild contract. She made a secret exception that delayed the conscription and left the Kest family claim legally disputed. Because Nell was a minor, the Chancery treated the disputed status as family-wide, making Marek legally blank of enforceable inherited rights while leaving the disputed Kest debt visible to the Cinder Clause. The same record hid the copied language. The exception was ethically questionable because it used a child's inherited status to bypass an ordinary review. Her final testimony therefore gives Marek evidence and a warning: secrecy can protect a person while still damaging the public record.
+Ilyra's private motive was to keep Nell from being conscripted into a dragon-backed guild contract. Twelve years before the opening, when Nell was eight, Ilyra made a secret exception that delayed the conscription and left the Kest family property claim and debt legally disputed. Because Nell was a minor, the Chancery treated the disputed status as family-wide, making Marek legally blank of enforceable inherited rights. A temporary hold on the claim lapsed without the required claimant assent, so restoring Ilyra's name does not turn the disputed debt or property into an enforceable asset. The delayed conscription is a lapsed historical threat; Nell's current dye-house contract is a new attempt to reuse similar language. The same file left a recorded inherited route that the later Cinder proxy practice could misuse. The exception was ethically questionable because it used a child's inherited status to bypass an ordinary review. Her final testimony therefore gives Marek evidence and a warning: secrecy can protect a person while still damaging the public record.
 
 Her story is revealed in stages. At first Marek believes she was murdered for finding the Cinder Clause. Later he learns that she helped create the conditions of her own disappearance and knowingly left a burden for her children. The ending restores her name and publishes her decision, but it does not turn her into an infallible martyr.
 
@@ -57,7 +57,7 @@ Bren's conflict is not a final reconciliation. By the last volume, he accepts th
 
 1. Tamsin is assigned to copy Marek's evidence and initially treats his suspicion of a seam as youthful overthinking.
 2. She saves a copy before a senior clerk can remove it, proving that her ordinary competence matters.
-3. Marek hides a counter-seal from her to keep her out of danger. She discovers the omission and refuses to work beside him until he discloses the cost.
+3. Marek conceals a copied witness packet and an unauthorized draft exception because he believes Tamsin will refuse the risk. She discovers both the withheld evidence and his assumption that he may choose the cost for her, then refuses to work beside him until he discloses what he knows.
 4. They rebuild trust by sharing the danger rather than pretending one person can absorb it.
 5. They become romantically involved in Volume 4, after both have acted independently and after a clear conversation about what each refuses to risk.
 6. Their relationship survives a political crisis when Tamsin publicly disagrees with Marek's attempt to delay a hearing.
@@ -76,28 +76,38 @@ The first important institutional opponent. Rell runs a river court and has enfo
 
 ### Pell Vey
 
-Marek's first supervisor and the head of the Notaries' Table. He teaches the practical value of a clean record and knows exactly how exceptions are smuggled through the Chancery. Pell believes that the Cinder Clause is the only thing preventing the nine Houses from breaking the Empire. He arranged the official erasure of Ilyra's name under the First Seat's emergency authority, with a Cinder Court notary's assistance, but he did not invent the system alone.
+Marek's first supervisor and the head of the Notaries' Table. He teaches the practical value of a clean record and knows exactly how exceptions are smuggled through the Chancery. Pell believes that the Cinder Clause is the only thing preventing the nine Houses from breaking the Empire. He arranged the official erasure of Ilyra's name under a First Seat succession notice, with a Cinder Court notary's assistance, but he did not invent the system alone.
 
 Pell is a mentor-shaped antagonist. He cares enough about the Empire to conceal evidence, and he is skilled enough to make concealment look like responsible administration. His defeat is accountability, not a conversion speech.
 
 ### Corvin Dray
 
-A contract broker who falsifies witness lists, sells forged scale seals, and buys small estates through predictable court errors. He is the first concrete enemy and the first person who reveals that the alteration network is a business as well as a political project. His testimony is valuable but not absolved; Marek can expose what Corvin did without pretending the law was otherwise.
+A contract broker who falsifies witness lists, sells copied scale seals, and buys small estates through predictable court errors. He is the first concrete enemy and the first person who reveals that the alteration network is a business as well as a political project. His testimony is valuable but not absolved; Marek can expose what Corvin did without pretending the law was otherwise.
 
 ### Vaunt Oris
 
 A dragon notary of House Oris, a formal and careful opponent who can read human inheritance records as deeply as any clerk. Vaunt believes dragons owe stability because their long lives make ordinary human promises dangerously short. He is capable of honoring a clear exception when it is placed in front of him, which makes him a vital bridge in the final volume. He does not become human, nor does he betray House Oris without consequence.
 
+### Sivra Oris
+
+A minor dragon water keeper in the Reed Cut office and the scale counterparty to the original Venn instrument. Sivra can distinguish a valid human obligation from an invented one and refuses to let House Oris describe Aldren's field-side duty as Sivra's own. She is not Seryn's agent; her cooperation is bounded by the seal and hearing rules. She is the living reminder that dragons can be bound by the same public standard they ask humans to accept.
+
+### Halden Ro
+
+The sitting human First Custodian at the opening of the final succession crisis. Halden was appointed through a lawful five-of-nine/five-of-nine/three-of-six mixed convocation, not through inheritance, and he refuses to sign any Cinder proxy instrument. He understands that his seven-year term is expiring during the crisis and that only a new public convocation can appoint a successor. His refusal makes the vacancy real; it does not make him the final opponent or a hidden solution.
+
 ### Seryn Oris
 
-The First Seat of House Oris and the series' final antagonist. Seryn is not a dragon who simply wants more land. She has watched succession disputes kill human and dragon communities and believes that one accountable custodian is safer than nine competing bloodlines. She uses the hidden Cinder Clause to remove ambiguity, intending to become the First Custodian and end the coming succession war.
+The First Seat of House Oris and the series' final antagonist. Seryn is not a dragon who simply wants more land. She has watched succession disputes kill human and dragon communities and believes that one recognizable guarantor is safer than nine competing bloodlines. A dragon cannot hold the original human First Custodian office, so Seryn intends to reactivate the Cinder proxy route: a controlled human inheritor will carry the office while she and House Oris retain succession authority behind it. She presents that arrangement as the only way to end the coming war before the First Seat itself fractures.
 
-Seryn is competent, patient, and willing to make partial reforms when they preserve her central authority. Her final defeat comes from a public contradiction in the clause she has protected: a valid clear hearing cannot bind an unnamed living population without naming who may refuse. She survives, loses sole succession, and must answer for the harms committed under her authority. The ending denies her monopoly without pretending the Empire is safe without dragon power.
+Seryn is competent, patient, and willing to make partial reforms when they preserve her central authority. Her final defeat comes from a public contradiction in the clause she has protected: a foundational compact cannot use a recorded private claim to impose a perpetual public office on descendants who never ratified it, and a proxy cannot be healed into consent after the fact. She survives, loses sole succession behind the proxy, and must answer for the harms committed under her authority. The ending denies her monopoly without pretending the Empire is safe without dragon power.
 
 ## Other Recurring Human Figures
 
 - **Mara Venn:** Mosswake widow and opening-case claimant. She wants a winter without debt, not a symbol.
 - **Tavi Venn:** Mara's daughter and would-be canal mechanic. She refuses to inherit a debt she did not choose and later becomes a guild witness.
+- **Orra Dunn:** A Mosswake seed-barn keeper and tenant who wants her family protected from a debt created by a copied precedent. She is practical, cautious, and willing to testify only after the court gives her family a real hearing.
+- **Nessa Dunn:** Orra's fifteen-year-old daughter. She signed no continuation, but the public-necessity sentence threatens to make her a guarantor; she is the youngest person whose refusal makes the inheritance-echo danger visible.
 - **Jory Senn:** Salt Teeth apprentice and labor organizer. He brings the story back to wages, injury, and the right to leave a dangerous craft.
 - **Aurelia Pell:** A human provincial archivist and Pell's estranged daughter. She knows that the official Roll is maintained by people, not magic alone, and can expose a back-room correction without becoming an ally by convenience.
 - **Brother Ansel:** A temple recorder who stores private vows that have no public legal force. He helps show what contracts cannot safely replace: care, apology, and freely chosen promises.

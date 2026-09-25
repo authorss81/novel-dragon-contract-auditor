@@ -1,5 +1,53 @@
 # Continuity State
 
-No canon has been established yet.
+## Canon Status
 
-The bootstrap phase must create the world, power rules, protagonist, relationships, terminology, and ending constraints before chapter prose is written.
+Bootstrap planning canon is established. No novel prose has been generated. Volume 1 and its first ten chapter cards are ready in `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`.
+
+## Contract Rules
+
+- Ordinary plain and scale contracts lose force when terms, assent, witness, record, or continuation is missing; a defect does not automatically void every ordinary contract.
+- A foundational compact binds only named ratifying powers to publicly stated duties. It cannot create a perpetual office, inherited debt, or beneficiary for an unnamed future population.
+- The Cinder Clause is an unlawful later proxy practice, not a new compact or a sentient mechanism. Its use can be preserved as evidence and may ground restitution for harm, but it cannot enlarge the Compact or create a new inherited duty by itself.
+
+## Succession and the Cinder Proxy
+
+- The original First Custodian is a human, temporary public office, limited to seven years, with no enforceable inherited asset or right at appointment. Halden Ro is the sitting lawful Custodian in the final crisis; his term expires during the convocation.
+- The office is chosen at a public succession convocation by at least five of nine human provinces, five of nine dragon Seats, and three of six independent civic assemblies. The First Seat may call a convocation but cannot appoint alone.
+- During a vacancy, the Emberroot Interim Keepers are two human record keepers, one dragon notary, and one civic witness selected by the affected local court, recognized dragon seat, and nearest civic assembly. They may maintain existing duties and immediate relief for no more than forty-five days, but they cannot create or transfer a perpetual duty, appoint a successor, or invoke the Cinder proxy route. The First Seat alone cannot select all of them or fill the office.
+- The Cinder route pairs a First Seat seal with a human who has a recorded inherited claim, names the human a proxy guarantor, and claims control behind the proxy. Seryn Oris cannot hold the original human office; she seeks permanent First-Seat control behind a controlled proxy.
+- After Halden's term expires, the First Custodian is vacant. Only a new 5/5/3-of-6 convocation could appoint a temporary successor; the final Covenant records that none will be appointed and transfers the maintenance function to rotating Roll Assemblies and a bounded Interim Continuity Council.
+
+## Blank Heir and the Kest Record
+
+- Original eligibility: Marek is human and the Kest property-and-debt record never became an enforceable asset or right because its claimant assent and settlement were never validly completed. He already satisfies the lawful blank-heir test, including after Ilyra's name is restored.
+- Cinder proxy test: the recorded but disputed Kest property-and-debt route can be misused to identify a proxy, but it is not an enforceable asset and does not make Marek a rightful inheritor.
+- Final release: the Kest record is opened publicly, each affected person receives an independent hearing, and Marek voluntarily releases his prospective share and the route as a proxy. The history, debt, and restitution duties remain. He does not erase the record, and the release does not disqualify every other family's claim; it removes the specific prepared nomination tied to him. The clause is defeated by the ratification ruling and mixed hearing, not by renunciation alone.
+- Marek's final supernatural cost is surrendering eligibility for a sole foundational office and exclusive access under a true seal. Any later true-name reading requires a witnessed, revocable mixed warrant with a recognized civic body and dragon notary.
+
+## Final Quorum
+
+- Human provinces: Mosswake, Greyfen, Salt Teeth, Cinder Marches, Glasswater Delta, Sunward Downs, Emberwatch Uplands, Bellward Craftlands, Thornfen Pastures.
+- Final Covenant votes: Mosswake, Greyfen, Salt Teeth, Cinder Marches, and Glasswater Delta; Sunward Downs and Emberwatch Uplands refuse during the first year; Bellward Craftlands and Thornfen Pastures abstain pending reform.
+- Dragon votes: Oris, Aven, Ilex, Merrow, and Rusk; Vell and Nera favor a single custodian; Sorn and Thal accept only a temporary emergency office.
+- Independent civic leg: six assemblies total. Craft Assessors' Guild, Riverkeepers' Mutual Ledger, and Public Roll Copyists' Compact vote; Northern Waystation Council, Freeport Dock Assembly, and Temple Carekeepers' Concord abstain during the first year.
+
+## Volume 1 Case
+
+- Aldren Venn signed a fixed seven-year water-and-field instrument. Mara witnessed the original and did not sign a later continuation, correction, or inheritance stipulation.
+- The later correction substitutes “present holder” for the named signer and routes Aldren's winter-seed debt to the field's current occupant.
+- The original leaf, witness marks, ink, seal pressure, and filing sequence prove the correction was added later. Tamsin preserves a comparison copy.
+- The restored ruling clears Tavi's personal debt, preserves the field during the term, keeps Sivra Oris's gate and navigation duty, and requires a separate signed obligation for a successor.
+- The court's broad public-necessity sentence is applied to Orra and Nessa Dunn: “Where immediate public necessity requires a recorded continuation to prevent loss of food or shelter, the present holder of the burdened property may be joined as guarantor until full review.” The Dunn summary is the vehicle; the sentence supplies the authority that makes it operative. This is the Volume 1 mini-arc reversal and the first visible inheritance echo. The formal volume midpoint arrives in Chapters 19–25, when the sentence is traced to a higher administrative template.
+
+## Current Characters and Power
+
+- Marek is at Stage 0 at the opening. His first unstable Seam-Sight and first Roll-Answer are earned by exercising the limited Venn audit authorized in Chapter 7 at the Chapter 8 rehearing; permission alone does not produce the reading. The first reading is shallow and leaves fatigue, counterpressure, and a temporary inability to lie about one named obligation. No counter-seal or Stage 2 ability appears in Volume 1.
+- Tamsin is a roll-keeper whose ordinary copying and memory preserve evidence; she is not a magical auditor and has independent professional judgment.
+- Nell is a dye-house worker who wants paid craft independence and refuses to be protected by concealment.
+- Pell is a mentor-shaped institutional antagonist, not the final enemy. Corvin is the first concrete criminal witness and remains accountable for his own crimes.
+- Tamsin is the only slow-burn romantic relationship; no romance begins in Volume 1.
+
+## Ending Lock
+
+Seryn Oris remains the final antagonist and survives constrained and accountable. Ilyra remains dead; her record and consequences are restored. Halden Ro's First Custodian term expires, the office remains vacant, and no temporary successor is appointed after the transition. The final image is an ordinary local hearing with two public copies of a record. No new cosmic threat, secret dragon heir, or replacement final enemy is introduced.

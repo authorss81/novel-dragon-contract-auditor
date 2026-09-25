@@ -8,7 +8,7 @@ There is no general mana pool, level screen, class list, or automatic skill purc
 
 ## The Five Necessary Parts
 
-A contract's force is strongest when all five parts are present. A missing part makes it weaker, not automatically invalid.
+For an ordinary plain or scale contract, force is strongest when all five parts are present. A missing part makes that contract weaker, not automatically invalid.
 
 1. **Terms:** The exchange must have identifiable promises, beneficiaries, and limits. A contract that says “all that the House requires” cannot carry the same force as one that names the room, the work, or the amount.
 2. **Clear assent:** The signer must understand the terms in the language and social context used. Fear can make a promise enforceable for a time; it does not create informed assent.
@@ -16,7 +16,9 @@ A contract's force is strongest when all five parts are present. A missing part 
 4. **Record:** The exchange must be entered in a recognized Roll, or it may exist as a private promise but cannot safely change public inheritance.
 5. **Continuation:** A promise that is meant to survive death must say so clearly enough that the affected heirs can hear it, challenge it, or accept it. A vague clause can be copied into practice, but its continuation is brittle and vulnerable to an exception.
 
-A Continuity Auditor can hear a dragon's true name only in a witnessed audit supported by a true seal. The hearing exposes the dragon's legal duty and creates a reciprocal duty for the auditor; it is not a way to command the dragon. A **mixed warrant** issued by a recognized Roll Assembly and a dragon notary can grant this narrow privilege temporarily while a named auditor conducts a specified public hearing. It is revocable, creates the same reciprocal duty, and grants no office, ownership, or permanent seal. This narrow privilege disappears when Marek gives up exclusive access.
+These defaults govern ordinary contracts. They do not let a foundational compact create a perpetual office, debt, or liability for an unnamed future population. A foundational compact binds the named polities that publicly ratified it to the duties stated in that ratification. It cannot add a person who never existed at ratification, transfer a public duty through a private bloodline, or enlarge its own beneficiaries through copied precedent. An unauthorized later addition remains evidence of what people did and may support restitution for harm caused by its use, but invoking it creates no new inherited duty.
+
+A Continuity Auditor can hear a dragon's true name only in a witnessed audit supported by a true seal. The hearing exposes the dragon's legal duty and creates a reciprocal duty for the auditor; it is not a way to command the dragon. A **mixed warrant** issued by a recognized Roll Assembly and a dragon notary can grant this narrow privilege temporarily while a named auditor conducts a specified public hearing. Before formal Roll Assemblies exist, a recognized civic assembly may issue the same provisional warrant if it maintains a public roll, publishes its procedure, and gives the affected parties a real hearing. Every mixed warrant is revocable, creates the same reciprocal duty, and grants no office, ownership, permanent seal, or sole access.
 
 ## The Three Contract Families
 
@@ -30,7 +32,7 @@ A contract with a dragon House, dragon territory, or dragon-held resource as a p
 
 ### Foundational Compact
 
-A rare public agreement such as the **Emberroot Compact**. A compact can change customs across jurisdictions. Its terms must be publicly heard, and a foundational change requires a quorum of affected powers. The **Cinder Clause** is a hidden, unlawful addition to one of these compacts; it is not a new category of magic.
+A rare public agreement such as the **Emberroot Compact**. A compact can change customs across jurisdictions, but only the named ratifying powers and the duties they publicly accept are bound. Foundational succession must use a temporary human office, public convocation, and a mixed quorum. It cannot be transferred by a private family record. The **Cinder Clause** is a hidden, unlawful attempt to turn the Emberroot succession procedure into First-Seat-controlled proxy succession; it is neither a new category of magic nor a valid ratification by later generations.
 
 ## Inheritance Echo
 
@@ -52,7 +54,7 @@ A person can sometimes reject an echo without losing ordinary rights, but reject
 
 A **seam** is a join where the current legal meaning no longer matches the recorded terms. It can occur in a copied clause, a witness list, a court precedent, or the chain of decisions connecting a contract to an heir. Seams are not visible to ordinary sight. They may be felt as a wrong pressure, a missing witness, an impossible date, or a clause that changes when read by two people who should have received the same text.
 
-When Marek has earned permission to audit a file, a rare perceptual aid called the **Roll-Answer** appears. It is not a sentient assistant and has no interface beyond three plain lines:
+When Marek has earned permission to audit a specific file and has survived the physical and procedural cost of that audit, a rare perceptual aid called the **Roll-Answer** appears. The first appearance follows the earned Stage 1 Seam-Sight, even when that first manifestation is unstable; permission alone is not enough, and the appearance is not a status screen. It is not a sentient assistant and has no interface beyond three plain lines:
 
 > Named: who the contract recognizes as a party or heir.  
 > Promised: the duty the present record treats as valid.  
@@ -60,7 +62,7 @@ When Marek has earned permission to audit a file, a rare perceptual aid called t
 
 The Roll-Answer never says whether a promise was fair, what a witness secretly intended, or whether a person will consent. It can be wrong when the record is incomplete or deliberately contradictory. It is useful because it turns a legal ambiguity into a question Marek can investigate.
 
-Each reading creates **counterpressure**. A shallow reading leaves fatigue, an ash-taste, and a temporary inability to lie about one named obligation. A deep reading can leave a **counter-mark**, a physical line in the wrist that makes Marek temporarily answerable for a term. He can close the mark by resolving the matter, by transferring the consequence to a consenting party through a valid exception, or by accepting the consequence himself. Destroying the page does not close the mark.
+Each reading creates **counterpressure**. A shallow reading leaves fatigue, an ash-taste, and a temporary inability to lie about one named obligation. A deep reading can leave a temporary **counter-mark**, a physical line in the wrist that makes Marek answerable for a term until the matter is resolved. A valid exception later deepens and extends that mark when the consequence falls to Marek; transferring the burden through a valid exception can close or reduce it. Destroying the page does not close the mark.
 
 The Roll-Answer appears at most once in an ordinary chapter and is never used as a status screen. Its limitation is the point: Marek must still gather witnesses, build a jurisdiction, and make a decision.
 
@@ -84,9 +86,9 @@ After surviving a genuine audit and learning to keep a witness focused, Marek ca
 
 ### Stage 2: Burden-Bearer
 
-Marek can write a valid **exception** that moves one specified consequence from a named party to himself or to another party who freely accepts it. The exception can save a child from an inherited debt, reopen a property record, or prevent a guild from treating an apprentice as collateral. When the exception places the consequence on Marek, its formal record is a **counter-seal** and its physical symptom is a **counter-mark**.
+Marek can write a valid **exception** that moves one specified consequence from a named party to himself or to another party who freely accepts it. The exception can save a child from an inherited debt, reopen a property record, or prevent a guild from treating an apprentice as collateral. When the exception places the consequence on any named party or record, its formal record is a **counter-seal**. When that consequence falls on Marek, the physical symptom is a **counter-mark**.
 
-**Cost:** He takes on the consequence or a defined portion of it. The burden is real: he may owe a winter's labor, lose access to a home, carry a wound, or become liable to a community. An exception cannot erase the original duty from every record.
+**Cost:** He takes on the consequence or a defined portion of it. The burden is real: he may owe a winter's labor, lose access to a home, carry a wound, or become liable to a community. The specific cost must be named in the exception; a counter-mark cannot impose an unstated geographic tether or an invisible new obligation. An exception cannot erase the original duty from every record.
 
 **Limit:** The affected party must be heard. If Marek tries to shield someone by excluding them from the hearing, the exception is brittle and may fail when challenged.
 
@@ -118,7 +120,7 @@ Marek can draft a rule that works across several jurisdictions by making the dut
 
 This is the final role, not a personal super-stage. Marek can help coordinate separate auditors, Roll Assemblies, and dragon notaries to recognize a shared exception while holding no single sovereign seal.
 
-**Cost:** He permanently loses the ability to hear a dragon's true name alone and cannot inherit or hold a permanent foundational office. He remains vulnerable to ordinary laws that apply to every citizen. The power is real precisely because it is not his alone.
+**Cost:** He permanently surrenders eligibility for a sole foundational office and any exclusive access under a true seal. He may still take part in a witnessed true-name reading, but only under a revocable mixed warrant with a recognized civic body and a dragon notary, never alone and never with permanent authority. He remains vulnerable to ordinary laws that apply to every citizen. The power is real precisely because it is not his alone.
 
 ## How Magic Is Resisted or Broken
 
