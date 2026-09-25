@@ -50,6 +50,7 @@ Bootstrap planning canon is established. No novel prose has been generated. Volu
 - Odile Fenn, thirty-four, Mosswake guild witness for canal work. Allies with Tavi's wish to be examined for work; wants apprentices able to leave a craft.
 - Ages fixed for Volume 1: Mara Venn forty-three, Tavi Venn seventeen, Orra Dunn thirty-six, Nessa Dunn fifteen.
 - Chapter placement, so no later batch invents a replacement: Sarn refuses to reopen the file in Chapters 1–5 and releases the leaf in Chapters 6–10, and must explain her delay in Chapters 11–18. Dren's flood memorandum sets the Chapter 6 deadline and is produced in Chapter 7. Sivra Oris is present at the channel in Chapters 1–5 and testifies in Chapters 34–40. Vare carries the exit-clause challenge in Chapters 11–18. Dunnet makes the Chapters 6–10 arrest. Fenn examines Tavi for canal work in Chapters 41–50.
+- Surname collision to hold: **Sivra Oris**, the Reed Cut water keeper and the scale counterparty to the Venn instrument, is not **Seryn Oris**, the off-page First Seat and the final antagonist. Both belong to House Oris, which is exactly why the names must never be merged on the page. Seryn is not named, present, or credited with any action anywhere in Volume 1, and the sealed First Seat instruction is her seat's paperwork rather than a personal order by her. Sivra speaks only inside her own competence, cannot answer for the First Seat, and is never made a mouth for a power she does not hold.
 
 ## Current Characters and Power
 
@@ -66,4 +67,4 @@ Bootstrap planning canon is established. No novel prose has been generated. Volu
 
 ## Ending Lock
 
-Seryn Oris remains the final antagonist and survives constrained and accountable. Ilyra remains dead; her record and consequences are restored. Halden Ro's First Custodian term expires, the office remains vacant, and no temporary successor is appointed after the transition. The final image is an ordinary local hearing with two public copies of a record. No new cosmic threat, secret dragon heir, or replacement final enemy is introduced.
+Seryn Oris (distinct from Sivra Oris, the Volume 1 water keeper) remains the final antagonist and survives constrained and accountable. Ilyra remains dead; her record and consequences are restored. Halden Ro's First Custodian term expires, the office remains vacant, and no temporary successor is appointed after the transition. The final image is an ordinary local hearing with two public copies of a record. No new cosmic threat, secret dragon heir, or replacement final enemy is introduced.

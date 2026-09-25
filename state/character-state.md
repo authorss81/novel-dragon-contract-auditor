@@ -40,7 +40,7 @@ No prose has been written yet. The opening state below is the pre-draft baseline
 
 - Tavi Venn, seventeen, and Mara Venn, forty-three: the named exposure. Aldren's winter-seed debt and the Venn field are the case.
 - Orra Dunn, thirty-six, and Nessa Dunn, fifteen: the second affected household. Nessa has signed nothing.
-- Sivra Oris: holds the Reed Cut gate and navigation duty independently of the Venn debt.
+- Sivra Oris: holds the Reed Cut gate and navigation duty independently of the Venn debt, and speaks only for her own competence. Not to be confused with Seryn Oris, the off-page First Seat and final antagonist, who never appears or acts in this volume.
 
 ## Format for each batch update
 
