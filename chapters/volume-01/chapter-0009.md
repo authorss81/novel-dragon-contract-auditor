@@ -46,6 +46,18 @@ Mara took the copy, and folded it, and put it inside her coat against her chest,
 
 "Twenty-five more than anybody in this lane needs," Tamsin said, "and every one of them is in a different household, in a different room, where somebody cannot be leaned on tomorrow. That is not me being romantic. If a court in Auremar burns down next month, this lane is a lane of widows with a piece of paper each, and the next person who comes through here will find out what you found out on the twelfth, and slowly, from us, which is the slowest way there is."
 
+Mara Venn had not gone. She had been standing at the back of her own yard through all of it with the wind off the water, and now she said, to Tamsin and not to the lane, "And us. Is there anything left in that file that can come back for us."
+
+Tamsin looked past her at the man by the trestle leg.
+
+Marek had an ash taste at the back of his throat that had been there since the twelfth and had not gone down one day, and a headache that moved when he turned his head. He had not tried to say the comfortable answer to anybody yet, because the only time he had wanted to say it had been at the bench, with a court in front of him and his own name going into a minute book, and a sentence offered there would have been a thing a court could hear and hold him to. This was a yard. He tried it. It was the first time, and it would not come out of him at all.
+
+Tamsin moved a step so that her back was between his face and the lane, which she did without hurrying and without making a thing of it, and said, "I will answer that one, because he cannot and because I can, and you should both know that is the reason and not modesty." She turned the paper round on the trestle. "What the paper says is the five terms and the date. What the paper does not say is what any court in the next four months will do with a sentence as useful as this one, and I am not going to stand in your yard and promise you the part nobody has read yet."
+
+Mara looked at the two of them for a moment, and then at the twenty-six copies in twenty-six houses, and said, "Then I will sleep on the paper and not on him," and went up the lane.
+
+Tamsin wrote in her own book the question Mara had asked and the answer that had not been given, because she kept a book, and because a thing a man cannot say about a file is as much a fact in the file as a thing he can.
+
 ---
 
 Orra Dunn came on the second day and would not come near the table.
@@ -86,7 +98,7 @@ So Tamsin read the fourth term, and stopped, and gave Nell the table, and the la
 
 "*Where a worker of this house leaves the craft before the term of her wage is ended, the tools in her charge, and any debt of the house against her in respect of those tools, shall be answered by the next household worker of that house, and by no other person, save that a household which has no other worker shall answer the same itself.*"
 
-"That is the clause I was under," Nell said. "It is four words longer than that now, and the four words are my name, and the four words say the debt is answered by me and by nobody else and inside a named number of weeks, and the number is eight, and eight weeks is what it takes me to earn it, which I have done the arithmetic on with a woman in Greyfen who is owed nine and did not survive it."
+"That is the clause I was under," Nell said. "It is nine words longer than that now, and the nine words say the debt is answered by me and by nobody else and inside a named number of weeks, and the first of the nine is my name, and the number is eight, and eight weeks is what it takes me to earn it, which I have done the arithmetic on with a woman in Greyfen who is owed nine and did not survive it."
 
 There was a long pause on the trestle table with forty people' worth of attention in the air and no sound at all.
 
@@ -156,7 +168,7 @@ Tamsin collated all twenty-six in a stack on the second stool and squared the ed
 
 On the eleventh from the bottom, in the margin beside the third term, there was a short length of thread.
 
-She put the stack down again and looked at the sheet properly, and then she turned it over, and the back of it was not Chancery paper and was not the copy paper the lane had been buying all week. It was a leaf of a different age entirely, thin and soft at the corners, and it had been folded and refolded along its middle until it had gone soft as cloth, and on the front of it somebody had written out the third term of a court ruling in the careful, laborious hand of a man who was copying something out for the first time and did not want to get it wrong.
+She put the stack down again and looked at the sheet properly, and then she turned it over, and it was not Chancery paper and it was not the copy paper the lane had been buying all week. It was a leaf of a different age entirely, thin and soft at the corners, and it had been folded and refolded in a bundle until it had gone soft as cloth, and somebody had written the third term of a court ruling on it two days ago, in the careful laborious hand of a man copying something out for the first time who had not looked at what else was in the paper he was writing on.
 
 "Ivo," Tamsin said. "What did you copy this on?"
 
@@ -164,17 +176,17 @@ She put the stack down again and looked at the sheet properly, and then she turn
 
 The thread was red. It was not waxed and it was not Chancery red and it was not the bright red of a sealed packet. It had faded to the colour of an old brick, and it had been sewn through the paper in a small running stitch, six or seven passes, the thread entering and leaving at wide intervals through the margin only, so that it lay across the face of the page in a short red line, and beside each pass, in ink so faded that it had to be held to the light to be read at all, there was a small mark.
 
-Tamsin held it up to the lamp. The marks were not letters. They were little shapes: a bar with a dot, a bar with two, a bar with a dot and a bar with two together, and then a gap, and then the same three again in the same order, and a gap, and a third set with something added that she could not make out at all.
+Tamsin carried it to the lamp on the trestle. The marks were not letters. They were little shapes: a bar with a dot, a bar with two, a bar with a dot and a bar with two together, and then a gap, and then the same three again in the same order, and a gap, and a third set with something added that she could not make out at all.
 
 "Whose is this?" she said.
 
-The yard went quiet in the way yards do when somebody is holding something up to the light.
+The yard went quiet in the way yards do when nobody has an answer and would rather not say so out loud.
 
 "It came out of the tin," said Ivo Harker.
 
 "Was it in your tin in the tin, or did it come with a paper?"
 
-"It was in the tin with a bundle. Eleven years, maybe twelve. It was my mother's bundle." He came and looked at the back of it, and then at the front, and his face did something Tamsin had not seen a face do. "Papers she copied for the lane because she could write and there was no other body in this lane that could write the water terms, and she kept them because the water terms are what the lane runs on, and when the water office burned the old copy book in the sixth year she had the only set of abstracts left and she never threw them out. And there was a leaf at the bottom of it that I have never once looked at, because I have never once wanted anything off the bottom."
+"It was in the tin with a bundle. Eleven years, maybe twelve. It was my mother's bundle." He came and looked at the face of it, and then at the other, and his face did something Tamsin had not seen a face do. "Papers she copied for the lane because she could write and there was no other body in this lane that could write the water terms, and she kept them because the water terms are what the lane runs on, and when the water office burned the old copy book in the sixth year she had the only set of abstracts left and she never threw them out. And there was a leaf at the bottom of it that I have never once looked at, because I have never once wanted anything off the bottom."
 
 "You copied a court ruling on it," Tamsin said.
 
@@ -182,7 +194,7 @@ The yard went quiet in the way yards do when somebody is holding something up to
 
 "It isn't," said Tamsin. "That's the whole of what I have. It isn't a different kind of thing."
 
-"It isn't an abstract of these terms," Tamsin said. "It's not a copy of the instrument. The wording on that page is the same as the wording on the copy, but it isn't the copy, because the water office never wrote it that way. So somebody made another account of the same terms, at some point, for their own use, and marked it, and kept it in a tin, and it came out of the tin in the same week that a correction with no authority behind it turned up in a flood packet."
+"It isn't an abstract of these terms," Tamsin said. "It isn't a copy of anything, because there was nothing on it to copy. Somebody put that stitch in the margin of an old page, and the marks beside it, and the page went into a tin and stayed in the tin, and then a man who has not bought paper in four years wrote a court term two days old on the top of it, because the lane wanted a copy and that was the paper in his hand. Two facts. I cannot tell you what the second one has to do with the first, and I am not going to stand in this yard at the end of the fourth day and invent a thing they have to do with, because the lane would like a story and the lane is very good at liking one. What I will say is that it came out of that tin in the week the lane was copying a ruling about a correction with no authority behind it, and I would rather have that coincidence and nothing at all than a coincidence I have dressed up."
 
 Ivo Harker put his hand out for it and Tamsin gave it to him and then took it back, which she was sorry for and did not apologise for.
 
@@ -190,13 +202,13 @@ Ivo Harker put his hand out for it and Tamsin gave it to him and then took it ba
 
 "You've seen marks like that," said Nell Kest, from the stool, without getting up.
 
-"I've seen a woman put a stitch in a page to find her place in a bundle," Tamsin said. "Every copyist in Auremar does it. So does every dyer who keeps a pattern. It means *look here, I was working on this*." She looked at the page again. "This is not that. This is a mark in the margin of a page, in a sequence, with a gap in it. I do not know what it is. That is all I have. If somebody in this yard knows what it is, I would rather hear it in the morning than have it invented over a fire tonight."
+"I've seen a woman put a stitch in a page to find her place in a bundle," Tamsin said. "Every copyist in Auremar does it. So does every dyer who keeps a pattern. It means *look here, I was working on this*." She looked at the page again. "This is not that. This is a mark in the margin of a page, in a sequence, with a gap in it, and I have not the least idea what it is for. If somebody in this yard knows, I would rather hear it in the morning than have it invented over a fire tonight."
 
 Nobody said they knew what it was.
 
 At the far end of the lane a boy came up at a run, a court runner, with the hood of his coat wet through, and Tamsin went out to meet him because a boy running in a flood district is never running about something.
 
-"Copyist. You're wanted at the court." He was out of breath. "Sarn says the exhibit's being opened again. There's a ledger come in from Auremar, a broker's, and the joint order says it's to be copied under inventory at the district first, and the sleeve's to be opened and the chain written out, and she says—" he swallowed, "she says for the roll-keeper, because you're the one who wrote the reading down and there's a thing in the chain you have to see with your own eyes before anybody swears to it."
+"Copyist. You're wanted at the court." He was out of breath. "Sarn says the exhibit's being opened again. A joint order's come down from Auremar with a constable's name at the foot of it, and it carries the sleeve up to the capital to be copied, and it says the sleeve's to be opened here first and the chain written out, and she says—" he swallowed, "she says for the roll-keeper, because you're the one who wrote the reading down and there's a thing in the chain you have to see with your own eyes before anybody swears to it."
 
 "What thing."
 

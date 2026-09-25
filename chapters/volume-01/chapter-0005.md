@@ -118,15 +118,15 @@ He did not move.
 
 Marek sat down on the bench and took the strap off his shoulder and put the satchel on the table between them, and Nell opened it.
 
-There were three books in it. The first was a court file with a green cord on it. The second was a wax tablet, cheap, the kind you buy at a market. The third was a folded square of copying stuff with a Chancery watermark, and when she shook it out, four lines of printed text fell onto the workroom table, and one of them was a sentence she had read on the wage schedule, six inches away from her elbow, in different words.
+There were three books in it. The first was a court file with a green cord on it. The second was a wax tablet, cheap, the kind you buy at a market. The third was a folded square of copying stuff with a Chancery watermark, and when she shook it out, four lines of printed text fell onto the workroom table, and she knew two of the lines off the first page of any inheritance file ever printed, and the third of them was a sentence she had read on the wage schedule, six inches away from her elbow, in different words.
 
 Nell picked it up.
 
-"*...and the debt so arising shall be held against the thing and the present holder of the thing shall answer the same until full review, the named signer having ceased.*"
+"*...the field-side upkeep and the winter-seed repayment named to him are recorded against the field and continue, the present holder being bound to the same until full review.*"
 
 Nobody said anything.
 
-"That," Nell said, "is not our clause. Our clause says *the next household worker of that house*. That says *the present holder of the thing*." She looked up. "What is it."
+"That," Nell said, "is not our clause. Our clause says *the next household worker of that house*. That says *the present holder*." She looked up. "What is it."
 
 Marek told her. He told her properly, in order, without softening it, and it took him perhaps four minutes: the widow, the field, the seven-year instrument, the correction with no authority behind it, the third notch, the four-line summary, the daughter who has not signed anything, the date on the fourteenth.
 

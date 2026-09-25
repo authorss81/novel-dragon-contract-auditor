@@ -14,7 +14,7 @@ The copying room smelled of wet stone, lamp oil, and the particular scorched swe
 
 Sarn was thirty-eight and had been the clerk of this court for nine years, and she had the specific tiredness of a person who has spent nine years being the person who says no while a river rises. She set a cup down on the ledger stack, which was either a habit or a message.
 
-"Tell me what you want and I will tell you what you will get, and then you can go and be useful somewhere else, because I have four hundred relief rolls to certify before the fourteenth and the court sits on the fifteenth."
+"Tell me what you want and I will tell you what you will get, and then you can go and be useful somewhere else, because I have four hundred and sixty relief rolls to certify before the fourteenth and the court sits on the fifteenth."
 
 "The Venn correction, as it was entered on your docket. The authority it was filed under, and the date it was received."
 

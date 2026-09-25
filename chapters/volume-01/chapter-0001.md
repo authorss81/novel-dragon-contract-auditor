@@ -10,15 +10,15 @@ He worked in the order the papers were written rather than the order they were f
 
 The Venn packet was the ninth.
 
-He laid it out in front of him in the order he wanted rather than the order it came. A packet is four things and a clerk's summary that stands in for all four. The source leaf was not there. The source leaf was never there; the source leaf sat in the locked cabinet along the north wall, in a climate the Chancery paid for, and it came out only for a hearing, a claim of fraud, or a written authorization from a supervisor. What arrived on a junior clerk's desk was the witness copy, any filed corrections, the filing docket, and the summary.
+He laid it out in front of him in the order he wanted rather than the order it came. A packet is four things: the source leaf, the witness copy, any filed corrections, and a clerk's summary that stands in for the other three. A summary is evidence of what a clerk believed, and it is what every later file copies from, so the whole of the trade lives in the compressing. The source leaf was not there. The source leaf was never there; the source leaf sat in the locked cabinet along the north wall, in a climate the Chancery paid for, and it came out only for a hearing, a claim of fraud, or a written authorization from a supervisor. What arrived on a junior clerk's desk was the witness copy, any filed corrections, the filing docket, and the summary.
 
-The witness copy for the Venn file was three sheets of good flax paper, copied in a neat chancery hand, dated four years back. The docket was a strip of thin stuff with three entries on it in three different hands. The first correction was a single leaf, sewn on with red thread, and the red thread was the correct color, which meant somebody had wanted it to look official.
+The witness copy for the Venn file was three sheets of good flax paper, copied in a neat chancery hand, dated four years back. The docket was a strip of thin stuff with three entries on it in three different hands, and under the oldest of them a witness line with a name on it, *Mara Venn, of the house, witnessed*, which is the kind of entry nobody reads because it is always the same shape. The first correction was a single leaf, sewn on with red thread, and the red thread was the correct color, which meant somebody had wanted it to look official.
 
 The summary was four lines long.
 
 Marek read the summary first because that was what the summary was for.
 
-> *Aldren Venn, of the lower field at Reed Cut, entered a seven-year water-and-field instrument with the water keeper of that district, in the fourth year of which he is deceased. The field-side upkeep and the winter-seed repayment named to him are recorded against the field and continue, the present holder being bound to the same until full review. Use of the channel and the lower field permitted to the household for the term. Certified to Mosswake Roll Court, this docket.*
+> *Aldren Venn, of the lower field at Reed Cut, entered a seven-year water-and-field instrument with the water keeper of that district, in the fourth year of which he is deceased. Use of the channel and the lower field permitted to the household for the term. The field-side upkeep and the winter-seed repayment named to him are recorded against the field and continue, the present holder being bound to the same until full review. Certified to Mosswake Roll Court, this docket.*
 
 It was good work. Whoever had compressed it had understood the instrument, or believed they had. He found the phrase *the present holder being bound to the same* and turned it over in his mind the way you turn over a coin you have been given too many of.
 
@@ -186,7 +186,7 @@ Marek took the slip off the corner of the tray and put it back inside his coat, 
 
 The four lines were still the four lines, and the third notch was still crisp and shallow and a hand's width below where the line it claimed to record had stood. *The field-side upkeep and the winter-seed repayment named to him are recorded against the field and continue, the present holder being bound to the same until full review.*
 
-He folded it once, and then a second time, and put it in the inside pocket of his coat instead of in the packet, and the packet was four things and not five, and he carried it out to the yard himself and put it in the courier's hands and said the desk number out loud to her, and she wrote it on her cuff without looking at it.
+He folded it once, and then a second time, and put it in the inside pocket of his coat instead of in the packet, and the packet going north was three things and not four, and the fourth would come back into it on the second morning's courier, in the hand of a man who had promised to look at it in the morning. He carried the packet out to the yard himself, put it in the courier's hands, and said the desk number out loud to her, and she wrote it on her cuff without looking at it.
 
 "Desk nine," she said.
 
@@ -196,6 +196,6 @@ She laughed, which he had not expected her to do, and shouldered the satchel, an
 
 Marek stood in the yard in the cold with his hands empty and looked at the shut door for a while.
 
-He had not won anything. He had kept a page out of a satchel on the strength of a signature nobody had given him, and the page would come back into the packet on the second morning's courier, in the hand of a man who had promised to look at it in the morning. And the packet itself was going north uncertified, with a slip in a coat instead of a signature in a book, which meant that whatever happened next would happen without anybody in Auremar having agreed to it.
+He had not won anything. He had kept a page out of a satchel on the strength of a signature nobody had given him, and the packet was going north uncertified, with a slip in a coat instead of a signature in a book, which meant that whatever happened next would happen without anybody in Auremar having agreed to it.
 
-He had a night to decide whether to be on the river in the morning anyway, and a cabinet he could not open, and one person in the building who could open it and had just told him what time to come back.
+He had a night to decide whether to be on the river anyway, and a cabinet he could not open, and one person in the building who could open it and had just told him what time to come back.

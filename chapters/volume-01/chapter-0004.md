@@ -36,7 +36,7 @@ Pell Vey was already at the Table with the Venn packet open in front of him, and
 
 Marek sat down. It was the tone. Pell's tone said: *I am your superior and I have been fair to you for three years and I am about to be fair to you again, and I would like you to notice the fairness.*
 
-"I think a clerk in a hurry put a third mark on a summary," Pell said. "I think he was working a flood docket with four hundred households on it. I think he marked the summary because the summary was working from the correction and not from the original, which is exactly what the third notch means and exactly what I told you it meant on the first evening. I think you found the marks, which is the entire point of the notch system, and found them in a hurry, in the last hour, in poor light, and have spent a night and a boat ride building a case out of a tired man's thumb."
+"I think a clerk in a hurry put a third mark on a summary," Pell said. "I think he was working a flood docket with four hundred households on it. I think he marked the summary because the summary was working from the correction and not from the original, which is exactly what the third notch means and exactly what I told you it meant on the first evening. I think you found the marks, which is the entire point of a witness mark, and found them in a hurry, in the last hour, in poor light, and have spent a night and a boat ride building a case out of a tired man's thumb."
 
 "The notch was copied."
 
@@ -92,7 +92,7 @@ Neither of them looked at Marek, and Marek understood that this had been done fo
 
 "Received but not filed, and therefore not operative, and therefore not a matter for this office."
 
-"It names a girl of fifteen as surety for a barn term," Tamsin said. "The original names Mrs Dunn and nobody else. And the sentence in the third line is the sentence in the Venn correction, word for word, in the same place in the line, in a document from four months earlier." She put one finger on it. "You can see them together. I have not hidden it in a drawer. I put it on the table because the table is where documents are examined, and because if I put it in a drawer then one day somebody will say that a junior clerk's private book is the whole of the evidence, and it will be true, and that will be the end of it."
+"It names a girl of fifteen as surety for a barn term," Tamsin said. "The original names Mrs Dunn and nobody else. And the third line of it carries the same four words as the Venn summary, in the same order, in the same place in the line, in a document from four months earlier." She put one finger on it. "You can see them together. I have not hidden it in a drawer. I put it on the table because the table is where documents are examined, and because if I put it in a drawer then one day somebody will say that a junior clerk's private book is the whole of the evidence, and it will be true, and that will be the end of it."
 
 Pell read the four lines. He read them a second time. He read them a third time, and Marek watched the back of his neck while he did it, because a man who is looking for a mistake reads three times in a different rhythm, and a man who is looking for confirmation stops at two.
 

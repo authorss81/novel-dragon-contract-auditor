@@ -8,7 +8,7 @@ He had not gone to a book. He had gone to a boat.
 
 On the quay in Auremar a customs clerk asked him, cheerfully, in the way of a man who has asked the same question eleven thousand times, whether he was carrying any written matter relating to water, seed, inheritance, or the Reed Cut.
 
-"Four documents," Marek said, "a roll-keeper's copy of a court order, a certified chain of custody, a page of a broker's ledger, and a form with a First Seat seal on it."
+"Four documents," Marek said, "a copy of the court's order of the twelfth, a slip with my name on it and nobody else's, a comparison of a correction that is not what it says it is, which is the roll-keeper's hand and not mine, and a sheet of my own notes, which are worse paper than any of the rest and are the only thing in my coat that nobody else has read."
 
 "All right," said the customs clerk, in a voice that meant all right, and went back to his book, and Marek stood on the quay in the wind and understood that the Empire was not concealing anything from him; it simply did not ask.
 
@@ -28,7 +28,7 @@ That was the fifth day. It was not going to improve by itself.
 
 ---
 
-The joint order named a room above a chandler's shop in Candlewright Lane, because a broker's office could not be entered by a constable and could not be inventoried by a provincial court without a room to put the inventory in, and the Auremar Chancery had a way of taking rooms above chandlers for exactly this purpose. The room had a long table, four chairs, a cold hearth, and a window that looked out at the backs of the Crown Kiln's sheds.
+The joint order named a room above a chandler's shop in Candlewright Lane, because a provincial court cannot keep an inventory of eleven people's papers in a satchel, and because the Auremar Chancery has a way of taking rooms above chandlers for exactly this purpose. That room is where the copies are made, where the record of what was copied and in what order is kept, and where anything taken out of the office is sealed. The order is also the whole of what puts a constable through the door of the office at all, and it keeps him in the room for the two days it takes, and that is the price of the two days. The room had a long table, four chairs, a cold hearth, and a window that looked out at the backs of the Crown Kiln's sheds.
 
 Ruhl Dunnet came at the ninth hour with the Mosswake order in a sealed sleeve and a spare pair of gloves in his coat, and he was a broad, unhurried man of fifty-two who had been a constable in the Chancery district for nineteen years and had the hands of a man who has handled a great many things he did not want to be responsible for.
 
@@ -114,6 +114,32 @@ Dray came and looked, and did not touch anything, and said, "Then the docket is 
 
 Dray's face did not change, and he said, "You are going to be very good at this, and I want to say that it is a compliment, and I want to say that in three years you are going to be doing it for somebody who has bought this office from me and will be worse at it than me."
 
+The man came at the eighth hour of the second day, while the room was being set up, and he came in the way a man comes in who has been sent and does not intend to stay.
+
+He was well dressed and about fifty and he gave his name as a firm, which is a thing men do when they would rather not give a person. He stood at the end of the long table, looked at the sheets Tamsin had laid out in order, and said, "I'll not take up your morning. There's nothing here for you and nothing here against anybody. Three of the Venn file come back to you this afternoon. The witness copy, the correction, and the comparison your copyist made. All three of them, out of the file before anybody has opened it, into a box, and nobody signs for it and nobody pays for it, and it never happened at all. And the fourth thing is not in this room and does not need to be. There is a copy in a lane in Reed Cut in a woman's coat, and a woman can be spoken to on a road."
+
+Nobody in the room said anything at all, which Marek noticed, because it is a different kind of quiet from the other kinds.
+
+"And what does the lady get," Marek said, "when her file comes back to her with the correction still in it."
+
+The man looked at him with something that was almost sympathy. "She gets a winter, same as she's got. The difference is she stops being a woman who was read out in a courtroom. You'd be surprised how many people can live with a thing they were never named in."
+
+"I would not," said Tamsin.
+
+"You would." The man put a folded paper on the end of the table, face down, and did not touch it again. "That's the list of what comes back. No money on it anywhere, and that's the point of it, because a clerk who takes money is a clerk somebody can say was bought. Take it, and write the three into the book as not produced, and this morning goes back to being a morning about paper."
+
+Marek had not touched the paper, and he said, "I am not taking it and I am not leaving it, and both of those are going to be on the record in about four seconds when the constable writes it. You can carry one fact back, since you came here for a fact. Those three documents are the only thing in this room anybody has been caught doing, and they go into a book with a seal on it either way, and the hour they go in is called out by a boy in the yard. And put the woman in Reed Cut out of your mouth, because she is named in the minute book of a court that read her file out loud on the twelfth, and if a person in a good coat says her name in a lane, that goes in a book too, one way or another. If your man wants the paper back he can come to a room with a clerk in it, and give his name, and give it in writing, and then he can explain to her why."
+
+Dunnet came over, looked at the folded paper, and did not touch it either. "I am going to have this in the book."
+
+"You are welcome to it."
+
+"Not for you. For the file." Dunnet wrote, and read it back, and made the man look at it while he wrote it. "At the eighth hour of the second day, a person giving his name as a firm, unnamed, offered the return of three documents of a sealed exhibit out of the file, before the exhibit had been opened, without payment and without receipt, and the taking of a fourth document from the person of a named party in a district outside this jurisdiction, on an understanding that the copyist's record of the three would be altered. Offer declined by the applicant and by the officer. The paper was not touched by either of them, is not part of the inventory, and the person has taken it away. The reference to the party named in the twelfth will be reported to the court that made the minute of it." He looked up. "You may go. Slowly."
+
+The man took the folded paper off the end of the table and put it inside his coat, looked at the room once more as though the room had been the thing that had refused him, and left without looking back at the shelves, and the boy at the door said the hour out loud into the yard after him, because Tamsin had told him to, and eleven people on a bench heard it and one of them put his hand over his mouth.
+
+"That's the first thing anybody has tried on us," Tamsin said, when the door had shut. "Write it in the order of the day, not at the end. I want it read in the order it happened."
+
 At the ninth hour of the second day, in the presence of the constable and the roll-keeper and eleven witnesses from the bench, Corvin Dray unlocked a drawer in the back room and produced a bound ledger of ninety-one leaves and put it on the table and said, "There. There it is. I have been waiting for you to ask for that and I have been dreading it for thirty-one years, and there it is, and I would like a copy of it made in this room before I am asked a single question about it, because I have not slept in two days and I would like to have one thing in my life be done properly."
 
 Tamsin copied the ledger in the room, all ninety-one leaves, and it took until the second hour of the afternoon, and when she came out of it she had the face of somebody who has been handed something and knows it is heavier than the box it came in.
@@ -166,7 +192,7 @@ Dray looked at her for a moment, and then he said, "You are wasted on a district
 
 ---
 
-The chain came open at the fourth hour of the second day, in the room above the chandler's, with the constable standing at the door and the boy outside and the two provincial entries copied and the exhibit sleeve laid on the table.
+The chain came open at the fourth hour of the afternoon of the second day, in the room above the chandler's, with the constable standing at the door and the boy outside and the two provincial entries copied and the exhibit sleeve laid on the table. It was the second time the chain had been opened on that sleeve. The first had been at Mosswake, in the courtroom, on the night of the sixteenth, to receive and enter a joint order coming down from Auremar with a constable's name at the foot of it, and the minute of it had come down in the same sealed sleeve as the order, and everything the roll-keeper had been sent to look at with her own eyes was in the room and had not moved since.
 
 There were two folded pages folded into the chain behind the Reed Cut memorandum, and both of them carried a seal, and the seal was the First Seat's: a disc of fired scale with the old fire-and-water device, pressed cold, with a number in a ring.
 
@@ -188,11 +214,11 @@ He looked at her. She had her own book open at a page where she had drawn, in ca
 
 He said, out loud, in front of a constable and a criminal and a roll-keeper, the thing he had told her on the levee not to say.
 
-"I am not going to put those two in the same sentence," he said, "and if either of you puts them in the same sentence I will have it struck from the record and I will say why. There is an old thread in a tin under an old man's bed, tied up before his mother was a woman, and there is a thread in the fold of a form that was printed in a year nobody in this room was born for. That is two things that are the same colour. It is not a finding. If I say it is a finding I will be telling this room what to conclude about a man I have never met, and that is the trick, and it is the trick I have been staring at for six days, and I am not going to do it in a room with a constable in it."
+"I am not going to put those two in the same sentence," he said, "and if either of you puts them in the same sentence I will have it struck from the record and I will say why. There is an old thread in a tin under an old man's bed, put there by a woman who copied water terms for this lane because there was nobody else in the lane who could write them, and there is a thread in the fold of a form that is in print this month, in every court that files a flood docket. That is two things that are the same colour. It is not a finding. If I say it is a finding I will be telling this room what to conclude about a man I have never met, and that is the trick, and it is the trick I have been staring at since the seventh, and I am not going to do it in a room with a constable in it."
 
 "Struck from the record," Dunnet said, writing. "Go on."
 
-"And the other thing." Marek put two fingers on the form. "This is not a person. I have been waiting six days for a person. There is no person in this. There is a run, and a form, and a quarterly return, and somewhere a body that prints them. And the reason I cannot use this to help that family is that it points outward, and outward is a place where a clerk from a district gallery with a headache cannot go and be believed."
+"And the other thing." Marek put two fingers on the form. "This is not a person. I have been waiting since the seventh for a person. There is no person in this. There is a run, and a form, and a quarterly return, and somewhere a body that prints them. And the reason I cannot use this to help that family is that it points outward, and outward is a place where a clerk from a district gallery with a headache cannot go and be believed."
 
 "Then file it," Tamsin said. "Point and all. File the form itself as an exhibit and let the thing that points outward be somebody else's problem for a month."
 
@@ -200,7 +226,7 @@ He said, out loud, in front of a constable and a criminal and a roll-keeper, the
 
 ---
 
-The arrest happened at the sixth hour, and Dunnet did it in one sentence and did it well.
+The arrest happened at the sixth hour of the afternoon, and Dunnet did it in one sentence and did it well.
 
 "Corvin Dray, I hold a joint order of the Mosswake Roll Court and the Chancery district of Auremar, made on the seventeenth day of this month on the matter of the Venn and Dunn files, and I take you now to the district house. You may have your coat. You will be searched. Your paper stays here and it is copied and it is sealed and a copy is left with your people at the addresses on the bench outside."
 
@@ -222,7 +248,7 @@ Dray went out between the constable and the door. He went out the way he had com
 
 ---
 
-The hearing room had one chair in it that was not for the court. Marek asked for it to be emptied, and the constable emptied it, and Marek sat down in it and put the form on the table in front of him and wrote.
+The hearing room had one chair in it that was not for the court. Marek asked for it to be emptied, and the constable emptied it, and Marek sat down in it and put the form on the table in front of him and wrote. He had the first three paragraphs in pencil in his coat already, on the back of a seed tally, written while the ledger was being copied in the other part of the room, and the arrest had not changed a word of them. It had changed the hour he had to finish in.
 
 The request was nine paragraphs, and it was nine because nine was the number it took to say everything he wanted and nothing he did not want. He wrote it by hand, because the Chancery's practice was that a formal request to audit a file was made by hand and signed, and a hand-signed request could be refused by a person, and a typed one could only be refused by a rule that had to be written down.
 
@@ -286,7 +312,7 @@ The young man wrote it on Tamsin's copy of the request, in ink, in the middle of
 
 ---
 
-They came out of the Chancery at seven in the evening into a city that had gone on being a city.
+They came out of the Chancery at the ninth hour of the evening, because intake keeps a man on the stamp until the last man has gone out of the door, and the counting house two floors down had shut its lamps an hour before them. It was a city that had gone on being a city.
 
 Marek had a stamped request in his hand and a copied ledger in a case under Tamsin's arm and a head that had been going for six days, and the ache had settled low and stayed, and there was a taste behind his teeth that no amount of water had touched.
 

@@ -162,7 +162,7 @@ It was the third.
 
 Nobody in the room said anything for a moment, and the bronze rule moved a sheet of paper on the clerk's table all by itself in the draught from the door.
 
-"Magistrate." Pyle gathered his case. "I am a certifier. I have carried a certificate that has been set in good order and I do not know whose hand pressed it and I will not say. I am instructed to speak to the record. The record speaks to a continuation attached to the field, and the district cannot move the crop without it, and if the court spends the morning on paper instead of on eleven hundred households then the court will find out in the spring what that costs." He put the case down. "I withdraw. I will not read the record into this hearing."
+"Magistrate." Pyle gathered his case. "I am a certifier. I have carried a certificate that has been set in good order and I do not know whose hand pressed it and I will not say. I am instructed to speak to the record. The record speaks to a continuation attached to the field, and the district cannot move the crop without it, and if the court spends the morning on paper instead of on four hundred and sixty households then the court will find out in the spring what that costs." He put the case down. "I withdraw. I will not read the record into this hearing."
 
 "You will not read the record," Rell agreed, "and you will not leave this building until the court has taken your name and the name of the office that instructed you, and I want both, and I want them before the recess."
 

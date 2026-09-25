@@ -44,7 +44,7 @@ She was perhaps fifty. She had a river-court look: boots that had been resoled m
 
 "On what ground?"
 
-"The correction in the Venn file was filed on the ninth of the eighth month under a flood memorandum dated the eighth of the eighth month, which the district water office says it issued to clear a backlog before the season, and the correction contains a continuation of a fixed-term repayment attached to the land instead of the named signer, and its witness mark on the summary was copied. I have a comparison, I have a witness, and I have a second file in the same district carrying the same sentence in the same place in the line, dated four months earlier, in a form that names a minor."
+"The correction in the Venn file was filed on the ninth of the eighth month under a flood memorandum dated the eighth of the eighth month, which the district water office says it issued to clear a backlog before the season, and the correction contains a continuation of a fixed-term repayment attached to the land instead of the named signer, and its witness mark on the summary was copied. I have a comparison, I have a witness, and I have a second file in the same district carrying the same four words in the same place in the line, dated four months earlier, in a form that names a minor."
 
 "Who is the second file's claimant?"
 
@@ -54,7 +54,7 @@ She was perhaps fifty. She had a river-court look: boots that had been resoled m
 
 "I think the court hears the source leaf, the witness, and the keeper, and rules on whether the field-side duty and the winter-seed repayment survive Aldren Venn's death, and whether they can attach to his daughter."
 
-"I think that too. Do you know what I think happens when I list a matter into a flood docket in the tenth month?" She turned and looked at the water. "The first thing that happens is that eleven other matters that were ready fall off the end of the docket into the spring, because the week is a week. The second thing that happens is that every hour of the court goes into a precedent question instead of into eleven hundred relief rolls, and I have four hundred and sixty households who do not care about Aldren Venn and will not be able to eat on the fourteenth because of him. The third thing that happens is that the district office will send me a note about procedure, and the provincial clerk will send me a note about the hold, and I will have to answer both, and while I am answering them the water will do what it does."
+"I think that too. Do you know what I think happens when I list a matter into a flood docket in the tenth month?" She turned and looked at the water. "The first thing that happens is that eleven other matters that were ready fall off the end of the docket into the spring, because the week is a week. The second thing that happens is that every hour of the court goes into a precedent question instead of into the relief rolls, and I have four hundred and sixty households who do not care about Aldren Venn and will not be able to eat on the fourteenth because of him. The third thing that happens is that the district office will send me a note about procedure, and the provincial clerk will send me a note about the hold, and I will have to answer both, and while I am answering them the water will do what it does."
 
 "You could issue a closed order," Marek said. "Tonight. Preserve the standing crop and release the seed against the Venn field, without a hearing, on the ground of immediate necessity."
 
@@ -64,7 +64,7 @@ Rell turned her head.
 
 "You'd be deciding about their field without them."
 
-"I would be deciding about their field without them," Rell agreed, "which is what I do, in bad years, and it is the reason eleven hundred households ate late once and nobody starved, and I have never once apologized for it." She looked at him. "You want a hearing. I am not refusing you a hearing. I am telling you what a hearing costs, in this district, in this month, in this year, so that you can stand in front of four hundred and sixty households and say out loud that you asked for it. Can you say it?"
+"I would be deciding about their field without them," Rell agreed, "which is what I do, in bad years, and it is how this district ends up with a spring where eleven hundred households eat late and nobody starves, and I have never once apologized for it." She looked at him. "You want a hearing. I am not refusing you a hearing. I am telling you what a hearing costs, in this district, in this month, in this year, so that you can stand in front of four hundred and sixty households and say out loud that you asked for it. Can you say it?"
 
 "Yes."
 

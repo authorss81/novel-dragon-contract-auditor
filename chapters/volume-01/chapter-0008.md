@@ -52,7 +52,7 @@ Hallis Dren took off his hat and held it against his chest and said that on the 
 
 "Would you have argued it," Rell said, "if you had read it?"
 
-"I couldn't have, Magistrate. It isn't mine to argue. It's a scale instrument. It goes to the district." He turned his hat over. "What I can tell you is that the memorandum is about banks. It says bank works. It doesn't name a parcel, because a memorandum can't name four hundred parcels, and if I'd written a parcel into it I'd have had to write the other three hundred and ninety-nine and there was no time and there wasn't the paper. So the paper is general and the correction under it is particular, and I have thought about that a great deal since Tuesday."
+"I couldn't have, Magistrate. It isn't mine to argue. It's a scale instrument. It goes to the district." He turned his hat over. "What I can tell you is that the memorandum is about banks. It says bank works. It doesn't name a parcel, because a memorandum can't name four hundred and sixty parcels, and if I'd written a parcel into it I'd have had to write the other four hundred and fifty-nine and there was no time and there wasn't the paper. So the paper is general and the correction under it is particular, and I have thought about that a great deal since Tuesday."
 
 "That is the most useful thing anybody has said in this room," Rell said. "Thank you. Sit down."
 
