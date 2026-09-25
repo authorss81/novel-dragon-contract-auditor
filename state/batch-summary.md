@@ -109,6 +109,28 @@ Rolling long-term memory, one entry per completed batch, newest last. A later ba
 - **A second divergence, recorded and not a canon change.** The Chapter 45 card requires that the four *nobody read it to me* answers be entered on the board **with a name each**. The page has **three names and one refusal**: a man of sixty-one is asked twice and says no twice, and his refusal is entered in his own words, which the chapter treats as an answer. That is better than the card and it is what happened; a later batch must not write that four names went on the board.
 - Never edit `state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO PLAN.md`, `OUTLINE_GUIDE.md`, or `opencode.json`.
 
+## Volume 01, retrospective
+
+**What the volume established**.
+
+**A district that obeyed a form is not safe. It is quiet, and quiet is the injury.** A landing office stamped a creditor's model into the routine column in four seconds and cannot produce a document, a cooper's shop has lost a quarter of an inch of iron and a daughter's bench, and nobody in the chain did anything wrong. The absence of a document is not a defect in the system. It is the system working as designed.
+
+**A person must be heard in a room and must sign before a guarantor duty attaches.** The Mosswake court said it in May; the Cinder Court said it again in June in a form binding itself and any court recognising it. Neither reaches a decision already made in a district, so the rule is narrower than the need and wider than the harm.
+
+**A printed sentence is a record of a document and is not a record of a law, and a number is a fact about the book and is not a fact about the document.** The first half is a high court's second order and it does not stop nine hundred and forty printed copies. The second half is three index cards copied standing up out of an unlocked rack, and it dissolved a mystery that looked like a seam and was a coincidence.
+
+**A copy of a decision is a weapon and it is a target.** Twenty-nine of forty-one said yes to keeping the Cinder Court's record. The twelve who said no are the finding: one burned hers and gave her reason in full; one has eleven hundred pounds of debt behind her and thinks a copy is a thing you keep if you are going to be proved right — a fair position.
+
+**The thing that travels is not a form and not a ruling. It is a person who turns up.** A trade with one door will find out it has four, leaving no series and no run and no office, and in nine years nobody will be able to say which one she opened.
+
+**What it deliberately left open**, each with a named holder: who signed the MC/FS sheet of the twenty-second of the ninth (the Standing Office of Provincial Continuities, with no person at the top of it); who authorised the sealed instruction (nobody knows, and two courts have said so in writing, each with a name at the foot); why the Emberwatch clerk itemised a filing the form said to leave alone, and whether he and the Glasswater sender are one person, and what Perry Ostrow answers to — the three of them held by a trade's own book, a rider-post and a district nobody has written to; what is in the second sealed page, refused twice and never a third time, and Examinations holds both refusals; what the red stitch marks; what route a burned archive wrapper with a thread through it leads to. Plus the largest unpaid debt, in the Mosswake court's own minute: sixty-odd households of the sixth year it hurt in letters and cannot name.
+
+**What the machinery of this project turned out to be.** The corpus is institutional documents; nearly everything that moved the plot was a series number, a print run, a distribution line, a form's second box, or a box headed *the person who holds*. His power is nearly useless: two readings in fifty chapters, neither deciding anything. The wins come from ordinary competence — a raking lamp, a witness order's issue number, a docket count, a woman's memory that a stamp took four seconds. And every beat has the same shape: a person being asked to say a thing out loud.
+
+Three things worked. The procedural record doubled as characterisation: a refusal, a limitation, a register entry and an escalation each revealed a person, and a court that enters its own failure earned more trust than a victory. Costs written in material units — two shillings and sixpence, a farthing, four pounds of seed, six months of saving — did the emotional work a scene of feeling could not. And handing the record to other people's hands, so his best work is a list he no longer solely keeps, produced the real climax without magic.
+
+One thing did not work. The red-thread clue was planted in Chapter 9 and spent forty chapters of attention on a mark that turned out in Chapter 50 to be a copyist's working stitch. The route is real, but the clue was promised as a message and delivered as a craft: Volume 02 should pay it inside two volumes or plant a different mark in its first ten chapters. The length profile is in the word-count record.
+
 ## Format for each entry
 
 `### Volume NN, Batch NNNN (Chapters X–Y) — <short title>`
