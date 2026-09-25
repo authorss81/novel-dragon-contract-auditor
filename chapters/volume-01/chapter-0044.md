@@ -108,7 +108,7 @@ Tamsin Rook put it in the book with the date on it, on the ninth of the sixth mo
 
 
 
-The fifth of the sixth, the eleventh hour, at the copying frame in the alcove, three of them went into a packet addressed to a lane in Emberwatch that has no numbers, and the fourth stayed in the drawer, and the fourth is the reason the third one is going to matter.
+The fifth of the sixth, the eleventh hour, at the copying frame in the alcove, three of them went into a packet addressed to a lane in Emberwatch that has no numbers, and the fourth — the one with a district office on the head of it, the one to the standing assessor, the one that had stayed in her hand since the fourth week of the first month — stayed in the drawer, and that is the one still going to matter in nine years.
 
 ---
 

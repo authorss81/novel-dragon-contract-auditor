@@ -1,4 +1,4 @@
-# Chapter 43: Twenty-Three Doors and One Number That Is Not About the Paper
+# Chapter 43: Twenty-Three Doors and a Man Who Already Knew
 
 The fourth question, asked in Greyfen about a guild levy, finds a different answer than it found at Millbrook Reach three hundred miles down the water, and the difference is a woman who is paid four shillings a day to be in a room with a sheet of paper and eleven houses in it.
 
@@ -6,11 +6,11 @@ Her name did not go in Nell Kest's book, because Nell Kest had been putting name
 
 She went round with the quarter's sheet in a leather satchel on the twenty-sixth of the fifth month, in the two hours after the sixth, when the vats were going and the doors were open, and she read the amended clause and the levy and the date out loud in each of the four houses that had signed, and she read it in the seven that had not, and she read it twice in the two where somebody had asked her to.
 
-"You ask me the fourth one," she said, in the yard of the last house on the lane, before Nell had got the words out. "You have got it in your hand. I know the words; I say them in beds. Who read this to you and do they get paid if you sign."
+"You ask me the fourth one," she said, in the yard of the last house on the lane, before Nell had got the words out. "You have got it in your hand. I know the words; I say them in kitchens. Who read this to you and do they get paid if you sign."
 
 "Yes."
 
-"I read this to you," said the woman, "and I am paid four shillings a day to be in a room with a sheet of paper, and I am paid by the quarter and the quarter is struck in the assessment, and if the quarter comes out at nine pounds then the eleven houses in this lane are what keeps me in this work and not the Priar's factor or a man with a rack." She put the satchel down on the wall. "So the answer is yes, and I want it written down that I said yes first, before you asked the last half of it, because I have had this read at me by a woman off the vats in March and I have thought about it every day since and I always thought the answer would be shameful and it is not. It is a wage."
+"I read this to you," said the woman, "and I am paid four shillings a day to be in a room with a sheet of paper, and I am paid by the quarter and the quarter is struck in the assessment, and if the quarter comes out at nine pounds then the eleven houses in this lane are what keeps me in this work and not the Priar's factor or a man with a rack." She put the satchel down on the wall. "So the answer is yes, and I want it written down that I said yes first, before you asked the last half of it, because I have had this read at me by a woman off the vats in the third month and I have thought about it every day since and I always thought the answer would be shameful and it is not. It is a wage."
 
 "That is not what I am here for."
 
@@ -28,7 +28,7 @@ Nell found it on the twenty-seventh, at the fourth hour, in the yard, with the b
 
 "Nery knows."
 
-"Nery knew on the sixteenth and did not tell me for a month, and the reason she did not tell me is that she has been the house everybody is kind to since January and she did not want to be the house that got a man in a good coat to come and be told things by her husband." He set the soap down. "That is her whole reason and it took her a month to find it and I have had a month of thinking I was being patient."
+"Nery knew on the sixteenth and did not tell me for a month, and the reason she did not tell me is that she has been the house everybody is kind to since the first month and she did not want to be the house that got a man in a good coat to come and be told things by her husband." He set the soap down. "That is her whole reason and it took her a month to find it and I have had a month of thinking I was being patient."
 
 "Does the guild's second instrument ask anybody whether you object."
 
@@ -46,7 +46,7 @@ Mike Caudle looked at her for a moment.
 
 ---
 
-The twenty-three was a number she had written in December in a book in a lane and had carried for six months, and by the end of the fifth month she understood it as what it actually was, which was three and a half hours a door done properly and four hours a day after the sixth hour, which is a day's pay to ask a person one question and to sit there while a person works out an answer while a vat goes.
+The twenty-three was a number she had written in the twelfth month in a book in a lane and had carried for six months, and by the end of the fifth month she understood it as what it actually was, which was three and a half hours a door done properly and four hours a day after the sixth hour, which is a day's pay to ask a person one question and to sit there while a person works out an answer while a vat goes.
 
 At the eleventh door on the twenty-sixth, a woman of fifty-two read all four of them back to her without being asked twice and then said, "I have got one of these on a paper of my own and I have not asked it of anybody, because I have nobody to ask it of, and I have been carrying it since the second month."
 

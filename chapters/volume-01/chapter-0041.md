@@ -104,7 +104,7 @@ The four questions were written out on the back of the copy of the slate in Orra
 >
 > *Three. If I stop, whose name answers for it?*
 >
-> *Four. Who read this to me, and if I say I do not understand it, what happens to them?*
+> *Four. Who read this to you, and do they get paid if you sign?*
 
 Orra read it out four times, and the fourth time she read it as it was written, and Nessa took the slate and put it down on the table and looked at it for a while.
 
@@ -124,7 +124,7 @@ Orra read it out four times, and the fourth time she read it as it was written, 
 
 ---
 
-Ilsabet Kell came up the upper lane on the arm of her son at about the seventh hour on the seventeenth, which was four months later than she had meant to and no later than anybody had arranged, and Bodo Kell had asked her twice in the yard whether she was sure and had been told to stop asking, and had stopped.
+Ilsabet Kell came up the upper lane on the arm of her son at about the seventh hour on the seventeenth, which was three months later than she had meant to and no later than anybody had arranged, and Bodo Kell had asked her twice in the yard whether she was sure and had been told to stop asking, and had stopped.
 
 She had a box in her own hand and she would not put it down.
 
@@ -160,7 +160,7 @@ The girl stayed up after the others had gone down to the flats, because she was 
 
 "Ma. If I stand up in that room and say it is a lie, what happens."
 
-"Nothing," said Orra. "That is the answer and I have had it since the ninth of the tenth month and I have not liked it. Nothing happens to you. The magistrate cannot make a girl of fifteen say a thing she does not believe, and cannot stop her saying a thing she does, and will not try, and a lawyer will stand up and ask you when you signed it and you will say never, and the room will do what a room does with two people who are both telling the truth and only one of them is owed anything."
+"Nothing," said Orra. "That is the answer and I have had it since the twenty-third of the ninth month, when this court told me in a room that it would not use that sentence again on its own motion without hearing me and hearing you and having your hand to it, and I have not liked it. Nothing happens to you. The magistrate cannot make a girl of fifteen say a thing she does not believe, and cannot stop her saying a thing she does, and will not try, and a lawyer will stand up and ask you when you signed it and you will say never, and the room will do what a room does with two people who are both telling the truth and only one of them is owed anything."
 
 "So it does not matter what I say."
 

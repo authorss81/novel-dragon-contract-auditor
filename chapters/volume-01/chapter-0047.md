@@ -1,6 +1,6 @@
 # Chapter 47: One Nail and a Shilling a Copy
 
-The record came down the river on the twenty-ninth of the sixth month at about the fourth hour, in a packet boat's leather bag with a Crown Kiln label on it, and it was forty-one pages, and it came in eleven days, which was twice as fast as anything from Auremar had ever come to that window, and Ivet Sarn did not know why and wrote the reason down as *not known* rather than guessing at it in a column.
+The record came down the river on the twenty-ninth of the sixth month at about the fourth hour, in a packet boat's leather bag with a Crown Kiln label on it, and it was forty-one pages, and it came in eleven days, which is nearly four times as fast as anything from Auremar had ever come to that window, and Ivet Sarn did not know why and wrote the reason down as *not known* rather than guessing at it in a column.
 
 The six weeks is the ordinary distribution. That is the thing that goes to the forty-six district courts and landing offices that hold a flood docket, and it is the same list the reply of the thirteenth of the twelfth went to, and it carries a form of words on the front that says what a record of a decision is, and that it is sent to nobody in particular, and that no court or office receiving this is required to take any step upon it. It has no addressee. It has forty-six destinations and an instruction to nobody, and it will arrive in the last week of the seventh month, and the man in a good coat who came up the quay past the Crown Kiln stair on the seventeenth and asked, in nine minutes, at a counter, will have a copy of it in about a year and will not remember asking.
 
@@ -17,7 +17,7 @@ The board is three feet high and four feet wide and it holds the register of pen
 
 Nobody told her to write that and nobody in Auremar will ever read it, because it is a wall at a window in a flood district four hundred and thirty miles from anything, and that is the entire distribution mechanism of the law in this case, and it is one clerk and one nail and a shilling.
 
-A man in a good coat came down the steps at about the sixth hour, having come off the morning packet, and read all three things on that wall before he got to the sill. All three. The register of pending duties, the hearing slate, and the nine feet of accounting, and then forty-one pages of the Cinder Court, in that order, standing up, in about eleven minutes, and then he asked for a copy of the page with the first three orders on it, and paid a shilling for it, and asked whether the district intended to take any step, and was told by a clerk of thirty-eight that the district had not decided whether to run a process next season and that there were forty-one names on the hearing slate and that four of them had been asked and not granted, and that a man in Greyfen might or might not have a lawyer, and that all of that was on the wall.
+A man in a good coat came down the steps at about the sixth hour, having come off the morning packet, and read all three things on that wall before he got to the sill. All three. The register of pending duties, the hearing slate, and the nine feet of accounting, and then forty-one pages of the Cinder Court, in that order, standing up, in about eleven minutes, and then he asked for a copy of the page with the first three orders on it, and paid a shilling for it, and asked whether the district intended to take any step, and was told by a clerk of thirty-eight that the district had not decided whether to run a process next season and that there were thirty-four names on the hearing slate and that four of them had said the words *I do not understand this* in a room and were entered as having said them, and that a man in Greyfen might or might not have a lawyer, and that all of that was on the wall.
 
 Then he bought the wall. Which was a shilling.
 
@@ -33,7 +33,7 @@ What the district has to do about it is almost nothing, and she wrote that on th
 >
 > *Three: the process may be run again in this district next season. This district has not decided. It is not decided either way and I have not asked the magistrate and I will not be asked and I will not put my own view on a wall.*
 >
-> *Four: forty-one names are on the hearing slate. Twenty-two households are on the register of pending duties. Four people have been asked for a hearing and not granted one, and a request that is not granted is on the slate anyway, with a date on it, and that is the whole of what a slate is for.*
+> *Four: thirty-four names are on the hearing slate, of which four said the words *I do not understand this* and are entered as having said them, which is a complete answer and not a refusal. Twenty-two households are on the register of pending duties. And a request that is not granted is on the slate anyway, with a date on it, and that is the whole of what a slate is for.*
 >
 > *Five: a creditor in Greyfen has a lawyer and has had a paper served on a household in the first month, and the sale of the thing that paper was against is in a book at Coldsfoot and the book is right, and this court has no power over him and did not promise anybody that it had.*
 
@@ -47,9 +47,9 @@ Then the copies went out, and the copies are the part of it that nobody designs 
 
 The first sheet out of the building went to the professional copyist on the Greyfen road, who had charged four pence a sheet in the ninth month of last year and had a waiting list in the fifth month of this year, and who took eleven sheets at four pence and charged none of them for the twelfth, and who said, and this is on the sheet because she wrote it herself on the back of it, that she had made six of the twenty-six public copies for nothing in the ninth month of last year and that the free ones were anger and that there is a price.
 
-The next four went to the two men off the Reed Cut bank, who had made four of the twenty-six on the back of a seed tally while arguing about the fourth term, and who still would not give their names, and who made theirs together, and who have now made nine of this, and who still argue.
+The next four went to the two men off the Reed Cut bank, who had made four of the twenty-six on the back of a seed tally while arguing about the fourth term, and who still would not give their names, and who made theirs together, and who have now made four of this, and will make more, and who still argue.
 
-The next went to a woman in a seed barn who will not give her name and who made five of the twenty-six public copies in the ninth month and the twelfth, and who has never once been written to by post.
+The next went to a woman in a seed barn who will not give her name and who made four of the twenty-six public copies in the ninth month and a fifth in the twelfth, and who has never once been written to by post.
 
 The next went to a lamp-trimmer, who can write, and who did not want it, and who took it because a clerk of the Mosswake Roll Court asked him in a room with a witness and did not order him.
 
@@ -69,7 +69,7 @@ She gave him the eleventh sheet.
 
 ---
 
-On the evening of the ninth of the seventh month Ivet Sarn went home up the embankment with the shillings in a cloth, eleven of them, being one pound and one shilling, and she did not spend a penny of it, and she went into her own room and opened the drawer where the paper had been since the fourth of the tenth month.
+On the evening of the ninth of the seventh month Ivet Sarn went home up the embankment with the shillings in a cloth, eleven of them, which is eleven shillings and a great deal more than she had expected to be handed over a window in six days, and she did not spend a penny of it, and she went into her own room and opened the drawer where the paper had been since the fourth of the tenth month.
 
 It was a copy of the entry she had made in the register on the fourth of the tenth month, in her own hand, with the reason and the consequence in the same box: an upper-district barn term file of the fourth month of the fifth year, a household called Sallow, four days, and eleven pounds of seed bought over the price because a docket could not be closed and the relief rolls could not be certified.
 

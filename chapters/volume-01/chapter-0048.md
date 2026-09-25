@@ -18,6 +18,8 @@ Two said the room the sheet was in got damp.
 
 One said that she had burned it, and gave a reason that Tamsin Rook wrote down in full because she is a copyist and reasons are the thing copyists are for: *I burned it because I have a daughter of nineteen and a man came about the Venn thing in the tenth month and asked me whether we kept copies of anything, and I said no, and he wrote that down, and he will remember that I said it.*
 
+One said that she had had one of these come to her door in the second month of this year, a man with a tray, and that she had said yes, and that he had come back in the third month with a second question and a paper, and that she was not going to be the house a man comes back to.
+
 One said that keeping a copy of a decision was a thing you did if you were the sort of person who was going to be proved right, and that she had four children and eleven hundred pounds of debt behind her and was not going to be that sort of person, and that this was a fair position and that she did not think less of anybody for the other one.
 
 And three of the twenty-nine had written back in about four days.
@@ -34,13 +36,13 @@ That is the most frightening answer there is, and Tamsin Rook wrote it in her ow
 
 She went and stood in the street outside it on the seventh and looked at the sign, which was a mark and not a name: a filled square with a bar through it and a notch cut out of the top left corner. The mark is against thirty-eight lines in the carry column of a ledger with the word *paid* beside it, in three districts. The mark has now also been read out in the open minute book of the Cinder Court, in room four, on the seventeenth of the sixth month, and the house that keeps it knows that, because the man who keeps it went to the Crown Kiln on the seventeenth with a leather case and asked at a counter.
 
-Nobody has used it. That is what nine days of nothing means.
+Nobody has used it. On the seventh that is a day of nothing. On the fifteenth it is nine days, and she stood in the same street and looked at the same sign, and it is the fifteenth that she wrote the sentence below and the second that she wrote the first half of it.
 
 ---
 
 Bryn Mawer was copying in the counting house, and had been for about five weeks, and she was seventeen, and she had been Corvin Dray's copying girl in a stone house two streets off the Kiln road for two years before that, and she had not been on the bench at the inventory, and she was not one of the eleven protected people, and she had a line in a file in a building in this city and no wages.
 
-She had also, on the second of the seventh month, written to the third gallery, over her own signature, four lines that said: *I copied the Cinder Court record. I have copied it four times. I have been asked by a man in this building what it is worth and I have told him what I think it is worth and I have told him in the wrong order, on purpose, twice, because I have worked out that he does not know that I have worked that out. I would like to be examined in the copying again, in my own words, and not recorded as frightened, and I am not frightened, and I have been frightened for two years and it has not improved and I can still read.*
+She had also, on the seventh of the seventh month, written to the third gallery, over her own signature, four lines that said: *I copied the Cinder Court record. I have copied it four times. I have been asked by a man in this building what it is worth and I have told him what I think it is worth and I have told him in the wrong order, on purpose, twice, because I have worked out that he does not know that I have worked that out. I would like to be examined in the copying again, in my own words, and not recorded as frightened, and I am not frightened, and I have been frightened for two years and it has not improved and I can still read.*
 
 Tamsin Rook read that letter in an alcove with a stove in it and then went down to Candlewright Lane and found her, and the finding of her was not a difficulty.
 
@@ -62,11 +64,13 @@ Tamsin Rook wrote it down in a book of her own, with the date on it, and read it
 
 The chandler's counter is in Candlewright Lane and it is a counter and not a shop, because the chandler lost his trade for a month in the tenth month of last year to a bar on a door and got it back, and the woman who keeps the front room now takes in copying at a penny a sheet, which is half what the Greyfen road charges and a quarter of what the town owes her.
 
-It is Bryn Mawer. She does it on the four days a week she is not at the vats in a house four hundred miles from here, which is to say none of them, and she is paid at the counter, in coin, by a man who took her address in the second week of the eleventh month of last year as a formality and has not used it and does not know what it is for, and which is why the copying in that lane is not a rumour.
+It is Bryn Mawer. She does it on the four days a week the counting house on the Kiln row has shut, and she is paid at the counter, in coin, by a man who took her address in the second week of the eleventh month of last year as a formality and has not used it and does not know what it is for, and which is why the copying in that lane is not a rumour.
 
 ---
 
-On the eleventh of the seventh month Tamsin Rook carried four pages of her own book up to the Mosswake Roll Court window and put one on the sill for a shilling, which she did not pay, and one on the slate for nothing, and one into a works book at Reed Cut for nothing, and one into a bundle going down a cart road to a dyers' lane for nothing.
+On the eleventh of the seventh month Tamsin Rook carried four pages of her own book up to the Mosswake Roll Court window, out to the Reed Cut works, down to a chandler's counter in Candlewright Lane, and as far as a cart road that goes down to a dyers' lane in Greyfen, and she put one on the sill at Mosswake for a shilling, which she did not pay, and one into a works book at Reed Cut for nothing, and one on the counter of a shop with a price painted in the window for a penny, and one into a bundle going down the cart road for nothing.
+
+Four hands, and only one of the four is a clerk. A copyist with a shop and a price, a clerk who keeps two registers, a foreman who keeps a works book, and a woman in a dyers' lane.
 
 Each of the four had about eleven lines on it and no heading and no office on it, and they were copies of the same eleven lines out of her own book, and the eleven lines were the rule, which is dated to the twenty-fourth of the twelfth month of last year and is in her own hand and says:
 
@@ -78,9 +82,9 @@ Sarn's page had the four women of a dyers' trade in a furnace town entered by th
 
 Tamsin's own entry for those four had been *Ferren, fourth past the weigh-house, and four women whose first names I have not got*, and it was still that, in her own book, with the rider of the twenty-fourth of the second month against it.
 
-And the copyist on the Greyfen road had a name on her page that Tamsin Rook did not have at all and had never had and would never be told by anybody: a woman in Greyfen with four children and no candle, one of the nine who had stopped answering in the first month, who had not answered a letter from a Chancery in eight months and had answered, in the third week of the seventh, a letter from a shop with a price on the window and a waiting list inside it, and had given her name, and had asked for a sheet, and had paid for it, and had not told Tamsin Rook.
+And on the page at the chandler's counter, in a hand that wrote small and fast and had been taught in a copying room, there was a name that Tamsin Rook did not have at all and had never had and would never be told by anybody: a woman in Greyfen with four children and no candle, one of the nine who had stopped answering in the first month, who had not answered a letter from a Chancery in eight months and had answered, in the third week of the seventh, a letter from a shop with a price on the window and a waiting list inside it, and had given her name, and had asked for a sheet, and had paid for it, and had not told Tamsin Rook.
 
-"She paid," said Tamsin Rook, when she read it, twice, in a lane, at a counter. "She paid four pence for a sheet of a decision about guarantors, out of a house with four children and no candle, because it was in a shop window and shops have prices and free things need a favour and she has not got a favour from a stranger in a window."
+"She paid," said Tamsin Rook, when she read it, twice, at a counter. "She paid four pence for a sheet of a decision about guarantors, out of a house with four children and no candle, because it was in a shop window and shops have prices and free things need a favour and she has not got a favour from a stranger in a window."
 
 "Is that a bad thing."
 
@@ -110,7 +114,7 @@ And that the trial is confined to the local forgery charges, to the entries in h
 
 "No."
 
-"He has been asked by four separate people in eight months and he has not named one and he is not going to be asked again for one, because a man who cannot be got to name one can be made to say anything by a person who wants him to." She squared the sheet. "And the mark is in the record as a mark, and the court said in open court on the seventeenth of the sixth month that it does not know what house keeps it, and that is going to be true in nine years, and a counting house on a row by the Kiln sheds has had a copy of the record sitting on its counter for nine days doing nothing, and I would like it noted in my own book, with the day on it, that I checked and that nothing had happened, and that a thing that has not happened is not a thing that is safe."
+"He has been asked by four separate people in eight months and he has not named one and he is not going to be asked again for one, because a man who cannot be got to name one can be made to say anything by a person who wants him to." She squared the sheet. "And the mark is in the record as a mark, and the court said in open court on the seventeenth of the sixth month that it does not know what house keeps it, and that is going to be true in nine years, and a counting house on a row by the Kiln sheds has had a copy of the record sitting on its counter for nine days doing nothing, and I would like it noted in my own book, with the day on it, that I checked, and that a thing that has not happened is not a thing that is safe."
 
 She wrote it down. And then she wrote the four lines underneath it that she has been writing at the bottom of pages since the twenty-sixth of the second month, and which are the only lines in her book that are not about a document.
 

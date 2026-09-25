@@ -4,7 +4,7 @@ The first thing on the board on the second of the sixth month, in a hand nobody 
 
 The second thing on the board was in the hand of the woman from the seed barns and had been there four months, and it said: *I read one out in the second week of the second month and I did not tell anybody what to do about it, like the rule says. — the woman from the seed barn.*
 
-Nell Kest looked at that on the second of the sixth month and then went and stood at the trestle with her hands behind her back for about a minute, because a woman of about seventy had written the name of a day of the week on a board in a lane to say that she had not broken a rule, and nobody had ever asked her to be that careful, and it had been her own idea, and it had survived four months of weather.
+Nell Kest looked at that on the second of the sixth month and then went and stood at the trestle with her hands behind her back for about a minute, because a woman of about seventy had written the month and the week on a board in a lane to say that she had not broken a rule, and nobody had ever asked her to be that careful, and it had been her own idea, and it had survived four months of weather.
 
 ---
 
@@ -42,7 +42,7 @@ The fourth answer. The fourth question, asked of a house in another province, an
 
 She put her hand flat on the flat of the trestle.
 
-"Three: she is the only one of the eleven who has said that, and there are eleven, and I have had the answer from the other ten in one form or another for two months, and the ten of them is *I asked and I was told* and one of them is *I do not know* and this one is *nobody asked me at all*. And that is a different answer and it is the only one of the three that nobody can do anything about, and I am not going to pretend to you in a lane that it is the same as the other two, because it is not, and because if somebody writes this down in a year they will write down that eleven women were asked a question and eleven women answered it, and the truth is that one of them was not asked."
+"Three: she is the only one of the eleven who has said that, and there are eleven, and I have had the answer from the other ten in one form or another for two months, and nine of them is *I asked and I was told* and one of them is *I do not know* and this one is *nobody asked me at all*. And that is a different answer and it is the only one of the three that nobody can do anything about, and I am not going to pretend to you in a lane that it is the same as the other two, because it is not, and because if somebody writes this down in a year they will write down that eleven women were asked a question and eleven women answered it, and the truth is that one of them was not asked."
 
 ---
 
@@ -90,9 +90,9 @@ Sarn read it out. All of it, in her own hand, standing at the window, with a que
 
 Then she said, "There is a second thing on this board and it is not mine and it is not the court's, and you asked for the paper and not the news, so I am going to tell you it is here and then I am going to stop."
 
-The second thing was a sheet of a guild's paper, dated the second of the sixth month, with a seal on the bottom corner and a line number, and it said that Tavi Venn of the Venn lane, Mosswake, had been examined in the third week of the fourth month for the work of cutting and maintaining a channel, in reading, writing, arithmetic, ditching on the level, and the setting of a gate linkage to a maker's gauge, and had passed, and had been entered in the guild's book as a canal worker, and might now be taken on by a master on a written engagement, and might not be taken on on a verbal one.
+The second thing was a sheet of a guild's paper, dated the second of the sixth month, with a seal on the bottom corner and a line number, and it said that Tavi Venn of the Venn lane, Mosswake, had been examined on the twenty-sixth of the fifth month, by Odile Fenn, the Mosswake guild witness, for the work of cutting and maintaining a channel, in reading, writing, arithmetic, ditching on the level, and the setting of a gate linkage to a maker's gauge, and had passed, and had been entered in the guild's book as a canal worker, and might now be taken on by a master on a written engagement, and might not be taken on on a verbal one.
 
-Wendt Sayer had paid two shillings and sixpence for it out of the district works fund under the head *labour, examinations, engaged*, on the sixth of the fourth month, as a recruitment cost and not a kindness, and a man who was not him would read that head in a year and ask why.
+Wendt Sayer had paid two shillings and sixpence for it out of the district works fund under the head *labour, examinations, engaged*, on the sixth of the fourth month — seven weeks before the woman sat down with the girl — as a recruitment cost and not a kindness, and a man who was not him would read that head in a year and ask why, and there is no answer in the head that is better than the one he wrote.
 
 Nell Kest read the sheet twice and gave it back and did not say anything about it, because Tavi Venn had a step and a gate and a mother and had been asked once already in her life to fetch a thing for a room and had refused and been right, and there was nothing Nell Kest could do for a girl with a certificate.
 
@@ -116,7 +116,7 @@ It came from four hundred and forty miles away. It was in a schoolroom hand. And
 
 Four signatures, and four women, and the first one was a name Nell Kest had read in a letter on the sixteenth of the fourth month and the second and third and fourth were names she had never seen in her life and had no idea existed.
 
-Under the four signatures, four lines, one under each name, and each line was the same sentence with the answer in it.
+Under the four signatures, four lines, one under each name, and each line was the same sentence with the answer in it, and the last of the four had the man's own handwriting gone slightly wrong at the end of it, the way a hand does at the end of a sentence a person has read out loud before.
 
 > *I asked the fourth question of a paper in this house and the answer was that the man who read it is paid by the combine, and there is one of him in four hundred and forty miles.*
 >
@@ -124,8 +124,8 @@ Under the four signatures, four lines, one under each name, and each line was th
 >
 > *I asked the fourth question of a paper in this house and the answer was that the man who read it is paid by the combine, and there is one of him in four hundred and forty miles.*
 >
-> *I asked the fourth question of a paper in this house and the answer was that the man who read it is paid by the combine, and there is one of him in four hundred and forty miles.*
+> *Same as the three above. I wrote it out twice and checked it, because I am the one who reads for the others when they are not sure, and I would like it noticed that I have not added anything to it.*
 
-Four lines, and the same four lines four times, and no question anywhere in it, and no request, and not one word about a document anybody had sent them.
+Four lines, and the same answer four times and not one word of it different except the hand, and no question anywhere in it, and no request, and not one word about a document anybody had sent them.
 
-A person in a furnace town had taken four things off a board in a lane nine hundred miles away, or been told them, and had put them down in a kitchen, and had used them, and had written down what happened, and had sent the answer to a table where nobody had asked for an answer.
+A person in a furnace town had taken four things off a board in a lane four hundred and forty miles away, or been told them, and had put them down in a kitchen, and had used them, and had written down what happened, and had sent the answer to a table where nobody had asked for an answer.
