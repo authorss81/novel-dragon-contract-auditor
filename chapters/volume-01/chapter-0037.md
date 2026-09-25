@@ -4,7 +4,7 @@ The Mosswake Roll Court moved its fixed benches out onto the terrace for the sit
 
 Sivra Oris came in at the hour and did not sit on the front bench. She sat on the second one, side-on, with her forelegs folded under her and her wings against her back, and she is smaller than she is supposed to be and that is the first thing about her. A dragon's drop-off at a Reed Cut gate is two hundred and eleven pounds of iron, and a water keeper stands beside one for the better part of a working day, and she weighs about what a draught horse weighs, and a man who has read about her in a file for five months is not ready for that.
 
-The gate was nine feet behind the clerk's shoulder through the open embankment door, and it had been back inside a quarter of an inch since the water office crew had reset it in the eleventh month under their own posted authority, which is the fifth term, and which is the only part of the whole of this that anyone in the room got the way they wanted it.
+The gate was nine feet behind the clerk's shoulder through the open embankment door, and it had been back inside a quarter of an inch since the water office crew had reset it in the eleventh month under their own posted authority, which is the fifth term's schedule, and which is the only part of the whole of this that anyone in the room got the way they wanted it.
 
 Marek Kest sat on the front bench with Tamsin Rook beside him, because Rell had made a direction about that which nobody argued with, which was that an applicant in a limited sitting must have a person with him who is not his office and who is named in the minute book, and Tamsin Rook's name went in the minute book under the words *attending for the applicant, having no office*.
 

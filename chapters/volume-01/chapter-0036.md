@@ -100,7 +100,7 @@ He wrote that down too, at the eleventh hour, in one line, and the line was: *I 
 
 And then he added, after a moment, in the same ink:
 
-*And Tamsin has a piece of paper in a drawer that she has told me about four times, and it is about a quarterly return, and I have not collected it, and I have known about it for a hundred and sixteen days, and I have not collected it, and I am not going to, and I would like somebody in a later volume of this to notice that I have now twice built a rule out of a piece of paper in somebody else's coat.*
+*And Tamsin has a piece of paper in a drawer that she has told me about four times, and it is about a quarterly return, and I have not collected it, and I have known about it for a hundred and sixteen days, and I have not collected it, and I am not going to, and I want it set down tonight, in my own hand, while I still know exactly what I am doing, that I have now twice built a rule out of a piece of paper in somebody else's coat.*
 
 ---
 

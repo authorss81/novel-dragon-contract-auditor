@@ -124,7 +124,7 @@ The address was in a hand that had been taught in a schoolroom and had not been 
 >
 > *Tell me what a person does who is owed an answer. Not what I should sign. What a person does.*
 
-Nell Kest read it four times, which is one more than it takes, and then she did the thing she had been doing all month, which was the only thing she had found that works.
+Nell Kest read it four times, which was more of one woman's handwriting than she had read in a month, and then she did the thing she had been doing all month, which was the only thing she had found that works.
 
 She wrote it out on the back of the copy, in full, and read it back to herself under her breath to see whether the words were the writer's, and then she put the copy on the stone in the middle of the trestle where anybody who came to the table would have to move it to get at anything else, and she wrote on the board in chalk, under the four questions and the four names and the two lines of arithmetic and the four lines about the fifth line:
 

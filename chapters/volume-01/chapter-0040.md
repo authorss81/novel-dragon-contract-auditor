@@ -80,11 +80,11 @@ It decided nothing. It was three lines, it was accurate about a file, and it had
 
 The cost came at the fourth minute and it came the way it had come in September, which was taste first — ash, and iron, and something underneath it that he had never been able to name — and then the headache, behind the left eye, worse in the second minute than the first, and then the nose, which is the part he has never written down in a book and has never told anybody about, and which bled about a teaspoon onto the rail of the gate in the rain and stopped when it stopped.
 
-He sat on the step for half an hour afterwards while the lane went about its business, and then he could not look at print for two days, and on the seventh of the fourth month he wrote the whole of it in his own book with a hand that was not his own and had to stop twice. He did not go to Doctor Perrin Ashe at the landing. There is nothing a penny buys, and there is no medicine for this, and he stopped looking for one in the eleventh month of the ninth year.
+He sat on the step for half an hour afterwards while the lane went about its business, and then he could not look at print for two days, and on the ninth of the fourth month he wrote the whole of it in his own book with a hand that was not his own and had to stop twice. He did not go to Doctor Perrin Ashe at the landing. There is nothing a penny buys, and there is no medicine for this, and he stopped looking for one in the eleventh month of the ninth year.
 
 ---
 
-Magistrate Rell wanted to know what it cost and she asked him at the fourth hour of the seventh, in her rooms, with the court clerk there because a thing said in a room to a magistrate gets written down or it does not get said.
+Magistrate Rell wanted to know what it cost, and she asked him at the fourth hour of the tenth, four days after he had sat on a step in the rain, in her rooms, with the court clerk there because a thing said in a room to a magistrate gets written down or it does not get said.
 
 "You ran it outside the window."
 
@@ -112,7 +112,7 @@ Marek Kest looked at the wall, which was not in that room.
 
 "It was made on the ninth of the eleventh month and I declined it on the twentieth, in a room, with a witness, and the record is signed on the back of the offer. It would have been applied by forty-six people each doing their own honest best, and I have never been able to find the sentence in which that is a good outcome, and I would refuse it again tomorrow, and I am going to stop thinking about it, which is the fourth and last thing I have to say about it."
 
-"Entered," said Ivet Sarn, "at the seventh of the fourth month, at the fourth hour, in the magistrate's rooms, in the words of the applicant."
+"Entered," said Ivet Sarn, "at the tenth of the fourth month, at the fourth hour, in the magistrate's rooms, in the words of the applicant."
 
 ---
 
@@ -136,7 +136,7 @@ Orra Dunn's request had been on the hearing slate since the second of the first 
 
 ---
 
-He filed the closing record in the third gallery on the evening of the seventh of the fourth month, with a hand that was not his own, and it is four lines, and it is the only thing he has produced in four months.
+He filed the closing record in the third gallery on the evening of the tenth of the fourth month, with a hand that was not his own, and it is four lines, and it is the only thing he has produced in four months.
 
 > *Filed in this matter, in the order in which it was made: a sworn statement in scale form, entered at the Mosswake Roll Court on the third of the fourth month, in which the keeper of the Reed Cut gate swears that the instrument of the nineteenth of the second month of the year four years back created two named personal duties and no office — the field-side work and the winter seed being Aldren Venn's, the gate and the navigation being the keeper's — and in which the other party's box is blank, and is entered as complete so, and the reason is entered, and the box is blank for ever.*
 >
@@ -146,11 +146,13 @@ He filed the closing record in the third gallery on the evening of the seventh o
 >
 > *The request of the eighteenth of the ninth month and its supplement of the eighth of the eleventh month are not withdrawn, are not answered, and remain in Examinations custody.*
 
-Then he took the copy list out of the chest under the winter coat and looked at the bottom of the fourth column. Forty-one names, thirty-eight addresses, thirty-two answers, and nine who had not answered: one in Reed Cut, one man who had put a copy in a drawer and not confirmed it, and four of them one house of dyers in a furnace town four hundred and forty miles away, in a lane with no numbers. One of those four was a person called Osa Ferren, who had written to a trestle table on the sixteenth of the fourth month and had asked, in four lines, in a schoolroom hand, what a person does who is owed an answer.
+Then he took the copy list out of the chest under the winter coat and looked at the bottom of the fourth column. Forty-one names, thirty-eight addresses, thirty-two answers, and nine who had not answered, and he could have said all nine without the book: the woman in Greyfen with four children and no candle, the household in Reed Cut, the man who had been in a bed in the ninth month and whose wife had promised that he would answer when he was up, the house in a row off the Kiln road where the copy is in no drawer at all, in a house that is not the house it was given to, one he had never had an address for and so had never once asked, and four of them one house of dyers in a furnace town four hundred and forty miles away, in a lane with no numbers.
+
+The four had a name and no people. Rahl's rider of the twenty-fourth of the second month had put *Ferren, fourth past the weigh-house* at the head of them, and had said that four of them wrote and that not one of them thought a letter about a ruling was theirs to answer. So there was a surname, a landmark, and four women whose first names he did not have, and nothing whatever behind any of it.
 
 He wrote the name in the fourth column and put the book back in the chest, and the chest did not lock, because it had never locked, because it is a chest of clothes.
 
-And then Marek Kest sat on the end of a bench in the copying alcove of the third gallery of the Roll Hall at about the eleventh hour on the seventh of the fourth month, with a headache that had been going for two days, and found out what he had.
+And then Marek Kest sat on the end of a bench in the copying alcove of the third gallery of the Roll Hall at about the eleventh hour on the tenth of the fourth month, with a headache that had been going for two days, and found out what he had.
 
 The hearing slate was a hundred and forty miles down the river with thirty-four names on it, and a wall beside it with nine feet of writing on it and a magistrate's name at the foot of the third paragraph. The four questions were on a board at the mouth of a lane with four house names in chalk under them and a trade's private arithmetic in a smaller hand, and they were being asked of assessors and foremen and women who could not read. The witness order was on a wall in Mosswake, and a signed copy of it was four hundred and forty miles away in a kitchen in a furnace town, in a woman's own hand, under a name.
 
@@ -160,4 +162,4 @@ All of it was in other people's hands and all of it was working, and Marek Kest 
 
 He had got what he came to Auremar for. It had taken him twenty-nine years and four months and a missing mother's name and a man's signature on a piece of paper and a woman on a channel bank, and it was not in a room, and it was not in his hand, and there was no next thing on any list in this building with his name at the top of it.
 
-Which was, sitting there at the eleventh hour with a hand that would not do what it was told, the thing he had wanted since the fifth of the ninth month. The reason he could not sleep was that he had got it, and that the next morning he would have to be a person with nothing to hand anybody, on a Monday, in a corridor, for a year.
+Which was, sitting there at the eleventh hour with a hand that would not do what it was told, the thing he had wanted since the fifth of the ninth month. The reason he could not sleep was that he had got it, and that the next morning he would have to be a person with nothing to hand anybody, on a Wednesday, in a corridor, for a year.

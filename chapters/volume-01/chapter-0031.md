@@ -8,13 +8,15 @@ So the list has forty-one lines and thirty-eight addresses on it and ten people 
 
 ---
 
-She could account for nine of the ten in a sentence each, and she did it in a copyist's alcove in the Roll Hall with the book open on the frame and the stove going, and the sentences were short and true.
+She could account for five of the ten in a sentence each, and she did it in a copyist's alcove in the Roll Hall with the book open on the frame and the stove going, and the sentences were short and true.
 
 One was a woman in Greyfen with four children and no candle, who had answered in the first month and then stopped, because a second letter is a bill. One was in Reed Cut and had stopped answering letters after the seventh of the twelfth for a reason that had a date and a reason attached to it. One was a man who had moved forty miles and got a forwarding address off a neighbour and got the forwarding address wrong, and Tamsin went and got it right on the fourteenth, which took a whole afternoon and a shilling of a boy's time, and wrote again, and on the fourth of the third month his answer came back, with his new address and his house number and a note saying he was sorry about the first one.
 
 One was a man who had been in a bed in the ninth month and whose wife had written back a fortnight later to say he was better and would answer when he was, and had not, and that one sat in the column with a date against it and a reason, because the reason was in a woman's hand and had been given to her.
 
-The remaining one of the nine was a house in a row off a Kiln road in Auremar where the copy had been taken by a man who had not put it anywhere and where the people living there now had not known until a boy from the Roll Hall knocked on the door in the first month and asked. He had promised to put it in a drawer and had not, and Tamsin wrote *promised, not confirmed* and left it.
+The remaining one of the five was a house in a row off a Kiln road in Auremar where the copy had been taken by a man who had not put it anywhere and where the people living there now had not known until a boy from the Roll Hall knocked on the door in the first month and asked. He had promised to put it in a drawer and had not, and Tamsin wrote *promised, not confirmed* and left it.
+
+The tenth she had never asked at all, because she had never had an address for him and had not had one since the September, and a person you have never asked cannot be said to have declined to answer, and she had put him in the column anyway, which she knew was wrong and had left in, because the column was where the not-answers went and there was nowhere else on the sheet for him.
 
 And then there were four, and they were together, and she could not do them in a sentence.
 
@@ -72,7 +74,7 @@ That was all of it. Tamsin Rook did not ask about the four houses, because if th
 
 ---
 
-The answer took twenty-two days, which is what a rider post of four hundred and forty miles costs in the way that matters, and Tamsin was in the alcove for all of them and did not get anything else done.
+The answer took eighteen days, which is what a rider post of four hundred and forty miles costs in the way that matters, and Tamsin was in the alcove for all of them and did not get anything else done.
 
 She did the Greyfen copyist's two hundred and forty schedules, because the guild was still paying for the word-by-word and there would be no money in the fourth month. She filled in a fair hand's worth of an assistant registrar's index that had nothing to do with anything, and did it badly, and was told so. She read the answer in her own book — the Millbrook one, the one with no seal on it — four times, which is two more than it needs, and wrote nothing new in it.
 
