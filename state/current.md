@@ -1,6 +1,6 @@
 # Current State
 
-Current phase: phase-000-bootstrap (content complete; controller-level blockers below prevent the documented handoff from happening on the next dispatch)
+Current phase: phase-001-outline (re-run and completed; the existing Volume 01 and Batch 0001 outlines were audited against `OUTLINE_GUIDE.md` and repaired rather than rewritten. Controller-level blockers below still prevent the documented handoff from happening on the next dispatch)
 
 Current volume: 1
 
@@ -16,6 +16,15 @@ Bootstrap deliverables present:
 - `outline/series.md` with the premise, protagonist spine, relationship architecture, central mystery, antagonist ladder, power stages and costs, distinctiveness, final conflict and choice, and all twelve volume arcs.
 - `outline/ending.md` with the fixed ending, the Covenant of Many Seals, relationship resolutions, and the final-volume chapter plan.
 - `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md` for Chapters 1–10.
+
+Phase-001-outline pass (audit and repair, no prose): both files already carried the full required field set, so neither was rewritten. The audit confirmed the 13 required volume fields, the 12 required batch fields, and all 12 fields on each of the ten chapter cards, plus all ten of `OUTLINE_GUIDE.md`'s opening-chapter requirements. Four concrete gaps were repaired:
+
+- `outline/batches/volume-01-batch-0001.md` gained an explicit five-beat shape — Batch beginning (1–2), Batch escalation (3–6), Batch midpoint (3–5), Batch climax (7–10), Batch aftermath (9–10) — plus a pressure-rotation line for the ten chapters.
+- The named Volume 01 support cast is now bound to specific chapters in both files (Ivet Sarn, Hallis Dren, Sivra Oris, Ostyn Vare, Ruhl Dunnet, Odile Fenn), so a later batch cannot substitute an invented clerk, foreman, constable, or water-office clerk for a fixed one with a want and a refusal.
+- A power-boundary note now states that Magistrate Rell's and the Mosswake court's own interim and closed-door orders are the court's authority, not Marek's Stage 2 exception. The word "exception" in the batch belongs only to the invalid draft he conceals in Chapter 5. The ambiguous "private exception" phrasing in the Chapter 6 and Chapter 8 cards and in two lines of `outline/volume-01.md` was changed to order language.
+- `outline/volume-01.md` gained a support-cast placement map and a volume pressure rotation, and Ivet Sarn's later duty to explain her own delay is placed in Chapters 11–18.
+
+The four canon values fixed by `workspace/volume-01/batch-0001/PROMPT.md` — "the present holder" with the article, the Chapter 8 panel's first line, the record the reading is taken against, and the reading's cost — were re-verified as unchanged in both files. The Chapter 8 panel still matches `state/continuity.md` word for word.
 
 Added in the final bootstrap pass: the series-outline distinctiveness section and a final-conflict summary; worked power-system examples and reading limits that matter in court; a named Volume 01 support cast with fixed ages and the Venn term arithmetic; concrete work-place anchors (Inheritance Desk, source-leaf cabinet, Mosswake Roll Court, Reed Cut water office, public reading tables); new terminology entries and prose usage rules.
 

@@ -49,6 +49,7 @@ Bootstrap planning canon is established. No novel prose has been generated. Volu
 - Hallis Dren, thirty, clerk of the Reed Cut district water office. Signed the flood memorandum that the later correction was filed under; not a conspirator.
 - Odile Fenn, thirty-four, Mosswake guild witness for canal work. Allies with Tavi's wish to be examined for work; wants apprentices able to leave a craft.
 - Ages fixed for Volume 1: Mara Venn forty-three, Tavi Venn seventeen, Orra Dunn thirty-six, Nessa Dunn fifteen.
+- Chapter placement, so no later batch invents a replacement: Sarn refuses to reopen the file in Chapters 1–5 and releases the leaf in Chapters 6–10, and must explain her delay in Chapters 11–18. Dren's flood memorandum sets the Chapter 6 deadline and is produced in Chapter 7. Sivra Oris is present at the channel in Chapters 1–5 and testifies in Chapters 34–40. Vare carries the exit-clause challenge in Chapters 11–18. Dunnet makes the Chapters 6–10 arrest. Fenn examines Tavi for canal work in Chapters 41–50.
 
 ## Current Characters and Power
 
@@ -57,6 +58,7 @@ Bootstrap planning canon is established. No novel prose has been generated. Volu
 - The Chapter 8 reading is taken against the operative filed Venn record as it stands after the ruling, including the court's public-necessity gloss. It is not taken against the original source leaf, which is sealed in a custody sleeve for transfer to the court, and not against the fraudulent summary or a private comparison copy. The three lines are therefore accurate about what the court has just done and silent about the fraud that put the sentence in the file.
 - The Chapter 8 panel reads: `Named: the present holder of the Venn field. Promised: the present holder may be joined as guarantor until full review. Carried after death: the record carries a guarantor duty to whoever occupies the field unless a new hearing ends it.` It does not name Tavi Venn, whose personal debt the same ruling voids. The reversal depends on that: the file now reaches whoever occupies the field, and the same sentence travels to the Dunn summary.
 - A reading reports the record, not the world, and is not evidence until the record is admitted. In Volume 1 the case is still carried by material comparison, witness order, ink, seal pressure, and custody.
+- Court orders are not Marek's exception. Magistrate Rell and the Mosswake court issue their own interim and closed-door orders in Volume 1; those place no burden on Marek's body, are never his reading, and do not appear in the Roll-Answer. Marek writes no valid exception, counter-seal, or mixed warrant anywhere in Chapters 1–50. The word "exception" in Batch 0001 belongs only to the invalid draft he conceals in Chapter 5.
 - Tamsin is a roll-keeper whose ordinary copying and memory preserve evidence; she is not a magical auditor and has independent professional judgment.
 - Nell is a dye-house worker who wants paid craft independence and refuses to be protected by concealment.
 - Pell is a mentor-shaped institutional antagonist, not the final enemy. Corvin is the first concrete criminal witness and remains accountable for his own crimes.
