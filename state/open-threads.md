@@ -4,7 +4,7 @@ No prose has been drafted. These are active planning threads carried by the boot
 
 | Thread | Status now | Payoff target | Blocking dependencies |
 |---|---|---|---|
-| Venn alteration and the harmful precedent | Active: original fixed-term instrument, copied “present holder” wording, and Dunn consequence are defined | Volume 1, Chapters 1–50 | Material comparison, public ruling, and public-necessity language |
+| Venn alteration and the harmful precedent | Active: original fixed-term instrument, copied “the present holder” wording, and Dunn consequence are defined | Volume 1, Chapters 1–50 | Material comparison, public ruling, and public-necessity language |
 | Tavi's debt and Mara's winter | Active: immediate personal and material stakes | Volume 1 | Local evidentiary rehearing and narrow ruling |
 | Nell's dye-house contract | Active: continuation language and secrecy conflict | Volume 1; relationship consequences continue later | Nell's independent reading and visible exit clause |
 | Corvin Dray's seal-broker network | Active: local payments, copied witness marks, and forged correction trail | Volume 1 arrest; Volume 2 plea and testimony; larger network through Volumes 2–6 | Ledger inventory and protected witnesses |
@@ -21,6 +21,7 @@ No prose has been drafted. These are active planning threads carried by the boot
 
 ## Current blockers
 
-- The first ten chapter cards are planning instructions only; no chapter prose or chapter summaries exist. `workspace/volume-01/batch-0001/PROMPT.md` is the handoff and points at those cards as the single authoritative source.
+- The first ten chapter cards are planning instructions only; no chapter prose or chapter summaries exist. `workspace/volume-01/batch-0001/PROMPT.md` is the handoff and points at those cards as the single authoritative source, while carrying four values as canon so an earlier planning re-run cannot change them silently. Treat that prompt as the only prompt that should run for Chapters 1–10 until the controller resolves the dispatch order recorded in `state/current.md`.
+- The Chapter 8 Roll-Answer is fixed canon: it is taken against the operative filed Venn record after the ruling, including the court's public-necessity gloss, and it names the present holder of the field, not Tavi Venn, whose personal debt the same ruling voids. It is a reading of what the court just did, not proof of what caused it.
 - The First Seat's full motive, Seryn's personal role in the Ashfall lockdown, and the original Compact's complete wording must remain partially hidden until their planned volumes.
 - Do not introduce a counter-seal, formal mixed warrant, or Stage 2 power before the stages and institutions that permit them.

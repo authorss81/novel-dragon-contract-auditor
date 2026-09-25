@@ -1,10 +1,17 @@
-Read in this order before writing: `AGENTS.md`, `NOVEL_SPEC.md`, `bible/terminology.md`, `bible/power-system.md`, `bible/characters.md`, `bible/world.md`, `bible/themes.md`, `outline/ending.md`, `outline/series.md`, `outline/volume-01.md`, `outline/batches/volume-01-batch-0001.md`, then `state/current.md`, `state/continuity.md`, `state/open-threads.md`, and `state/chapter-summaries.md`.
+Read in this order before writing: `AGENTS.md`, `NOVEL_SPEC.md`, `bible/terminology.md`, `bible/power-system.md`, `bible/characters.md`, `bible/world.md`, `bible/themes.md`, `outline/ending.md`, `outline/series.md`, `outline/volume-01.md`, `outline/batches/volume-01-batch-0001.md`, then `state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/batch-summary.md`, `state/character-state.md`, and `state/chapter-summaries.md`.
 
 This is the first batch. No previous chapter prose exists, so there is no voice window to read. Use the bible and state as long-term memory.
 
 ## Authoritative source
 
 `outline/batches/volume-01-batch-0001.md` is the single source of truth for Chapters 1–10. It already contains the batch goal, midpoint, climax, and one card per chapter with POV, location, immediate goal, resistance, information revealed, action or decision, emotional change, power or resource change, continuity fact, ending type, and next-chapter pull. Do not restate, summarize, or re-derive those cards in this prompt, and do not substitute a different plan. If a card and a bible file appear to disagree, the card wins for that chapter and the conflict is recorded in `state/continuity.md` as a proposed canon change.
+
+Two earlier planning phases (`phase-001-outline` and `phase-002-batch-plan`) can still be dispatched and can rewrite that card file, so four specific values are fixed here as canon for this batch. If the card file disagrees with any of them on the page, this prompt wins and the discrepancy is recorded in `state/continuity.md`:
+
+- The substituted phrase is always “the present holder,” with the article, quoted verbatim from `bible/terminology.md`. Never “present holder” alone.
+- The Chapter 8 panel reads `Named: the present holder of the Venn field.` The ruling in that same chapter voids Tavi's personal debt, so the reading cannot name Tavi; the reversal works because the file now reaches whoever occupies the field.
+- The Chapter 8 reading is taken against the operative filed Venn record after the ruling, including the court's public-necessity gloss, not against the sealed source leaf and not against the fraudulent summary.
+- The cost of that reading is fatigue, counterpressure, an ash taste, and headaches that persist into the next day or two. It is not a collapse, and it is not free.
 
 ## What this batch must do
 
@@ -18,7 +25,7 @@ The batch's shape:
 ## Hard mechanics for this batch
 
 - Marek performs no magic in Chapters 1–7. He is a Stage 0 Clerk's Eye: comparison, witness work, dates, ink, seal pressure, and who was in the room.
-- The one Roll-Answer appears in Chapter 8, after the limited audit authorized in Chapter 7 has actually been exercised at the rehearing, after the ruling, and at the cost of physical collapse. It is exactly three lines and reports only the current legal effect of the operative filed record, including the court's own public-necessity gloss. Use the wording in the card.
+- The one Roll-Answer appears in Chapter 8, after the limited audit authorized in Chapter 7 has actually been exercised at the rehearing, after the ruling, and at the cost set out in the Authoritative source section above. It is exactly three lines and reports only the current legal effect of the operative filed record, including the court's own public-necessity gloss. Use the wording in the card. Chapter 9 must show the cost still being paid: Marek is tired, tastes ash, and has the headache, and he cannot lie about one named obligation.
 - No valid exception, counter-seal, mixed warrant, true-name reading, Roll Assembly, or Stage 2 ability appears anywhere in this batch. The invalid draft exception in Chapter 5 is a document that cannot be used, and it is evidence of Marek's flaw rather than a power.
 - The court's public-necessity sentence must appear verbatim from `bible/terminology.md` and must be the mechanism by which the ruling reaches the Dunn file. The winning ruling is what creates the second vulnerable household.
 - Keep Corvin Dray a local criminal and a constrained witness, never the final threat. The sealed First Seat instruction is an administrative form; it does not name Seryn Oris and does not explain who authorized it.
@@ -28,6 +35,6 @@ The batch's shape:
 
 ## After the batch
 
-Update `state/chapter-summaries.md` with two to five sentences per chapter, and update `state/current.md`, `state/continuity.md`, and `state/open-threads.md` with the new canon facts, power costs, custody chain, arrested parties, and the audit request now held in higher-office custody. Keep the summaries compact enough that a later batch can read the whole file.
+Update `state/chapter-summaries.md` with two to five sentences per chapter. Update `state/batch-summary.md` with a new entry for this batch using the format already in that file. Update `state/character-state.md` so every principal's entry reports what actually happened on the page. Update `state/current.md`, `state/continuity.md`, and `state/open-threads.md` with the new canon facts, power costs, custody chain, arrested parties, and the audit request now held in higher-office custody. Keep all of these compact enough that a later batch can read the whole files. Do not create a new canon rule without recording it in `bible/` and in `state/continuity.md` at the same time. Never edit `state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, or `opencode.json`; those are controller-owned and are restored from the controller, so an edit there would be committed as your work and discarded later.
 
 Then inspect `outline/volume-01.md`. Chapters 11–50 remain, so create exactly one next directory, `workspace/volume-01/batch-0002/`, with a detailed `PROMPT.md` for Chapters 11–20 and author-facing cards in `outline/batches/volume-01-batch-0002.md`. Do not create any further phase prompt, volume-close prompt, or volume outline.

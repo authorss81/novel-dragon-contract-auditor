@@ -18,7 +18,7 @@ Required character changes: Marek moves from quiet private investigation to a pu
 
 Required power changes: Marek begins at Stage 0 and does not perform magic in the first seven chapters. The authorized Venn audit in Chapter 8 produces unstable Seam-Sight with counterpressure, fatigue, and a temporary inability to lie about one named obligation, plus exactly one Roll-Answer that reports the operative Venn record and its inherited effect. No valid exception, counter-seal, mixed warrant, true-name reading, or Stage 2 ability appears in this batch.
 
-Required world reveals: The Venn instrument is a fixed-term scale contract whose later correction substitutes “present holder” for a named signer; a dated flood memorandum is the administrative paper used to justify the later correction; inheritance echo travels through copied precedent and institutional acceptance; Orra and Nessa Dunn are the second affected household; Corvin sells predictable corrections and seal access; a First Seat instruction reaches the local court; an unexplained red-thread-like mark appears in the copied Venn file.
+Required world reveals: The Venn instrument is a fixed-term scale contract whose later correction substitutes “the present holder” for a named signer; a dated flood memorandum is the administrative paper used to justify the later correction; inheritance echo travels through copied precedent and institutional acceptance; Orra and Nessa Dunn are the second affected household; Corvin sells predictable corrections and seal access; a First Seat instruction reaches the local court; an unexplained red-thread-like mark appears in the copied Venn file.
 
 Open questions after the batch: Who ordered Corvin's corrections, why does the sealed instruction use First Seat authority, what did Ilyra copy before the Ashfall fire, and why does the Dunn precedent resemble the Kest record? The Kest claim remains legally disputed and Marek's mother remains officially erased.
 
@@ -74,7 +74,7 @@ Continuity fact: The field may remain with Mara and Tavi for the term; Sivra Ori
 
 Ending type: Pressure / consequence.
 
-Next-chapter pull: Tamsin discovers that the same “present holder” wording appears in a neighboring seed-barn file.
+Next-chapter pull: Tamsin discovers that the same “the present holder” wording appears in a neighboring seed-barn file.
 
 ### Chapter 0003
 
@@ -210,9 +210,9 @@ Information revealed: The original Venn text supports a fixed-term field duty fo
 
 Action or decision: Marek argues from the original material record and accepts a narrow interim channel arrangement rather than a blanket exception. The court voids Tavi's personal debt, preserves the field during the term, keeps Sivra Oris's gate and navigation duty, and requires any future successor to sign separately. The court records the broad public-necessity sentence, and the consequence reaches the Dunn file.
 
-The limited audit authorized in Chapter 7 is exercised at the rehearing; after the ruling and its physical cost settle, one Roll-Answer appears against the operative filed record, including the court's public-necessity gloss:
+The limited audit authorized in Chapter 7 is exercised at the rehearing; after the ruling and its physical cost settle, one Roll-Answer appears against the operative filed record, including the court's public-necessity gloss. The reading is accurate about what the court has just done. Tavi's personal debt is gone, and the file now reaches whoever occupies the field, so the reading names that occupant rather than the woman the ruling cleared:
 
-> Named: Tavi Venn.
+> Named: the present holder of the Venn field.
 > Promised: the present holder may be joined as guarantor until full review.
 > Carried after death: the record carries a guarantor duty to whoever occupies the field unless a new hearing ends it.
 
