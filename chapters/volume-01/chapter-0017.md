@@ -150,7 +150,7 @@ It came out faster than he expected and Dunnet, who had been braced for a speech
 
 "It is the whole of my answer," Marek said, "and I am going to tell you the three reasons inside it, because you are entitled to them and because I have been given the bad reasons by better men than me all month. One: it restores the Venn file and it restores it by making it true that there was nothing wrong, and there was something wrong, and the reason I can prove anything at all is that a man sold a third notch for four shillings. Two: it does not touch the correction's author, and it does not touch the form, and it does not touch the man who wrote the four lines. Three: it closes my request by agreeing that there was nothing to ask about." He put his hands on the table. "Those are the reasons. None of them is that it is a bribe and none of them is that I am noble. It is a good offer and I am turning it down because the only thing I have found out in a month is a price list and a man in a cell, and if the price list goes into a drawer tonight then in the fourth month somebody is going to do this again and there will be no price list."
 
-Dunnel wrote for a while, and then read it back, and then made him say it again so that the record and the mouth matched, which was the whole of his trade and the reason he was good at it.
+Dunnet wrote for a while, and then read it back, and then made him say it again so that the record and the mouth matched, which was the whole of his trade and the reason he was good at it.
 
 "Offer declined, hour as given," he said. "Reasons given and read back." He shut the book. "And the plea?"
 

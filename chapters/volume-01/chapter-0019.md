@@ -14,7 +14,7 @@ The letters were on two different papers. That was the first thing, and it took 
 
 ---
 
-The left-hand one was four sheets, written on a river court's copying paper with the counterfoil edge still on it, and it came off the packet boat at the Mosswake landing on the thirtieth of the tenth month addressed to *the reading table, Venn lane, and anybody there who keeps copies*.
+The left-hand one was four sheets, written on a river court's copying paper with the counterfoil edge still on it, and it came off the packet boat at the Mosswake landing on the thirtieth of the tenth month addressed to *the reading table, Venn lane, and anybody there who keeps copies*. It had gone up the lane to the trestle table the same evening, been read out twice before anybody put it down, and been posted back down to Auremar on the first in a sleeve with a copy of each of the two pinned inside it, on the standing instruction Tamsin had left with the table before she left Mosswake, which was that anything arriving with nobody's name on it came to the third gallery, because she had put the table where it was and she was not going to be the last person in the chain to find out what was on it.
 
 The right-hand one was a single sheet, folded twice, on paper that was not a copying paper at all but a good cream laid stock, and it was the only piece of expensive paper Marek had seen in this building in six weeks, and it was addressed to *whoever is doing this*, and there was no name at the foot of it, and there was no letter, and there was nothing written on it except a copy.
 

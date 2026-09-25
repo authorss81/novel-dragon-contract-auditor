@@ -122,11 +122,11 @@ The child thought about that with the enormous seriousness of a person who has b
 
 "All right," said the child. "And I am not to sign anything on Friday."
 
-"You are not to sign anything on Friday, or ever, or until somebody has read it to you and you have understood it and somebody has written down that you understood it, and there is a woman in this lane who is fifteen and can tell you exactly how that is done, and you go and find her when you need it."
+"You are not to sign anything on Friday, or ever, or until somebody has read it to you and you have understood it and somebody has written down that you understood it, and there is a girl called Nessa Dunn who is fifteen and knows exactly how that is done, because a man in a good coat put her name on a paper she never signed, and you go and find her when you need it."
 
 The child said, "Is the fifteen-year-old the one with the slate?"
 
-"That is the one with the slate," said Nell.
+"That is the one with the slate," said Nell. "Her name is on the board at the court window and anybody can read it off, and you go up there and say it out loud, because that is what a slate is for, and it is the whole of what it is for."
 
 And the child went back down the flat part of the lane in a coat that was not hers, and the table went on, and by the time the light went there were six people waiting.
 

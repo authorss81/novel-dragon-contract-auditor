@@ -161,7 +161,9 @@ Marek looked at him for a moment.
 
 The second thing was the supplementary sheet, and it was one line, and it was Bryn Mawer.
 
-"There is a supplementary application on the file," Trost said, "made on the eighteenth of the tenth month by the applicant, requesting that a person of seventeen employed in a copying room in this city, two streets off the Kiln road, on the seventeenth of the ninth month be examined in the copying. And there is a second one on the file dated the eighth of this month, in your own hand, about a printed series called MC/FS, which I will come to, because I have been told it is the only document in the last six weeks that anybody in this building has actually read." It has no bearing on the request. It has no bearing on the form series, or the circular, or the two districts, or anything in this office. I have read it three times because it is well written and it has kept coming up in my mind, which is not a reason to keep it."
+"There is a supplementary application on the file," Trost said, "made on the eighteenth of the tenth month by the applicant, requesting that a person of seventeen, employed at a copying frame in a stone house two streets off the Kiln road, on the seventeenth of the ninth month, be examined in the copying. And there is a second one on the file dated the eighth of this month, in your own hand, about a printed series called MC/FS, which I will come to, because I have been told it is the only document in the last six weeks that anybody in this building has actually read."
+
+"It has no bearing on the request," he said. "It has no bearing on the form series, or the circular, or the two districts, or anything in this office. I have read it three times because it is well written and it has kept coming up in my mind, which is not a reason to keep it."
 
 "Leave it in."
 
