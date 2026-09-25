@@ -40,13 +40,25 @@ Tamsin copied the memorandum, the docket line, and the date. She copied them slo
 
 "Ivet—"
 
-"Copyist." Sarn's voice did not rise either. Tamsin had noticed that people in the river country all had the same trick. "In the eighth month of the year five years back, a man in the upper district disputed a precedent from a winter two years before. I reopened the file because the man had a copy of the original and the original said what he said it said. That file sat open from the eighth month to the fourth month of the next year, because every time I moved it someone found a reason it needed to sit longer, and the relief rolls for that winter could not be certified while it sat, because the certification oath requires the docket to be closed and settled, and if the docket is open then the court cannot swear that the district's list of need is the district's list of need." She put her thumb and forefinger about two inches apart. "Eleven hundred households ate four months late because a precedent was open. Not because it was wrong. Because it was open. I have a piece of paper about that winter that somebody keeps in a drawer as a caution, and I am the somebody."
+"Copyist." Sarn's voice did not rise either. Tamsin had noticed that people in the river country all had the same trick. "In the eighth month of the fifth year, a man in the upper district disputed a precedent from a winter two years before. I reopened the file because the man had a copy of the original and the original said what he said it said. That file sat open from the eighth month to the fourth month of the next year, because every time I moved it someone found a reason it needed to sit longer, and the relief rolls for that winter could not be certified while it sat, because the certification oath requires the docket to be closed and settled, and if the docket is open then the court cannot swear that the district's list of need is the district's list of need." She put her thumb and forefinger about two inches apart. "Eleven hundred households ate four months late because a precedent was open. Not because it was wrong. Because it was open. I have a piece of paper about that winter that somebody keeps in a drawer as a caution, and I am the somebody."
 
 "So you don't reopen."
 
 "So I reopen when I can afford to and not otherwise, and I can never afford to, because the district has a flood docket every single year of my life." She took her cup off the ledger stack. "That is my reason. Write it down with the date. I will not initial it, because an initialled refusal is a thing that can be appealed, and I have thought about that longer than you have been in this room."
 
 Tamsin wrote it down. She wrote the date, the time, the docket number, the name of the court, the two other people in the room — a lamp-trimmer and a man asleep over the relief rolls — and the words as Sarn had said them, including the two inches. Then she put the page face down on the board and left it where Sarn could see it and did not push it.
+
+"Clerk."
+
+Tamsin looked up.
+
+"I am going to tell you a number, because you will find it out inside a week and I would rather you had it from a person." Sarn had not moved away from the window. "It took me four days to open that file. He asked me and I said I would look at it, and I looked at it for four days looking for a way not to, and on the fourth day the docket was still shut and the relief rolls could not be certified, and by the time the file was open it was the wrong month to be sorry in."
+
+"Whose file was it?"
+
+"That is not the question you came in with."
+
+Tamsin wrote four days on the board under the date, and did not ask again, and understood while writing it that a refusal nobody could find was only a thing Sarn had done to herself.
 
 "You have not asked the one question you came in with," Sarn said.
 
@@ -66,7 +78,7 @@ She got to the eleventh leaf and stopped writing for a moment, and then went on 
 
 Same four words. Not a resemblance. The same four words, in the same order, in the same third line of a four-line summary, in two packets from two different families in two different months of the same year.
 
-And the Venn summary that sat in Marek's satchel on the third gallery floor of the Roll Hall in Auremar was a third instance, and it was the one that had a third witness notch on it, and it was the one that was going to Mosswake in a courier's satchel that night unless somebody did something.
+And the Venn summary that was riding in Marek's inside coat instead of in the packet was a third instance, and it was the one that had a third witness notch on it, and it was the one that would go down the river in a courier's satchel in the morning if a supervisor at the Notaries' Table ever put his hand to the slip that was at this moment folded in the same coat, unsigned, with a good clerk's signature at the foot of it and nobody else's.
 
 Tamsin finished the index, and entered the tray, and then, because the tray was open and the index was public and the leaf was in her hands and no rule on the wall forbade it, she copied the Dunn summary in full into her own book, in her own hand, with its date and its receipt number and the name of the clerk who had taken it in, and then she put the leaf back in the tray in the position it had been in, and squared the edges.
 
@@ -142,6 +154,6 @@ Marek came up the terrace at dusk with mud to the knee and a strip of paper in h
 
 Marek took the book. He did not open it. He stood on the flood terrace with the river going brown below the wall and the wind coming up off it, and he looked at Tamsin for slightly too long.
 
-"They'll close the Venn packet tomorrow," he said. "Pell has the slip I sent him for countersignature and a courier going out at the sixth hour, and a summary with a copied notch in it is exactly the sort of thing that a busy man calls routine. We cannot get to Auremar and open the cabinet and compare both files and still file anything before the board sits tomorrow morning."
+"They'll close the Venn packet tomorrow," he said. "I have sent the packet back down the river with the morning courier, because a packet that sits in a district tray over a flood weekend is a packet the Table will certify on Monday out of habit, and a summary with a copied notch in it is exactly the sort of thing that a busy man calls routine. The slip I wrote Pell about the summary is in my coat, unsigned, and it will stay in my coat until he puts his hand to it. We cannot get to Auremar tonight and open the cabinet and compare both files and still have anything to file before the board sits tomorrow morning."
 
 "Then we go tonight," Tamsin said. "And you will tell me the rest of it, in the boat, in order, including the parts you have been keeping in your coat."

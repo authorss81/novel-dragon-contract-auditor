@@ -100,7 +100,7 @@ Pell took the summary, looked at it, and gave it back. His face did not change. 
 
 "Then be sure of it before you spend your winter on it."
 
-He had gone. He did that too: answered, and left, so that the argument had to be finished alone by whoever was left standing in it.
+He had gone, and he had done it the way he always did it, which was to answer and leave, so that the rest of the argument had to be finished by whoever was left standing in it.
 
 Marek sat for a while. Then he took a fresh sheet of copying stuff from the drawer, and set the summary face down beside it, and did the thing he had been trained to do and had never been praised for, which was to make a second record before making any decision about the first.
 
@@ -142,7 +142,7 @@ The witness copy was evidence. The source leaf was evidence. The summary was the
 
 A whole district could be copied out of that, and the district would think it was being reasonable.
 
-He looked up. Tamsin had the comparison half done and was not looking at him. Outside, over the Kiln's shoulder, the last of the light was coming off the river in a long dull sheet, and the courier was crossing the yard toward the eastern door with her satchel open.
+He looked up. Tamsin had the comparison half done and was not looking at him. Outside, over the Kiln's shoulder, the last of the light was coming off the river in a long dull sheet, and the courier was standing in the yard with her satchel propped open on the rail, calling desk numbers, and had not once looked at what any of the nine clerks put into it.
 
 "Send it," Marek said.
 
@@ -156,7 +156,7 @@ Tamsin's pencil did not stop. "Send what? I've not written a line."
 
 "You have no authority to send a clerk to Mosswake."
 
-"I have a packet with a copied witness mark and a correction with no authority behind it, and there's a widow at the end of it." He pulled his satchel closed, and the flat weight inside it — his own file, his mother's name gone out of the family record, the claim nobody would let him touch — shifted against his hip and said nothing, the way it always did. "I have until the courier crosses the yard. After that the summary goes to Mosswake in front of a magistrate and a woman hears it read to her, and it will be too late for the answer to be worth anything to her."
+"I have a packet with a copied witness mark and a correction with no authority behind it, and there's a widow at the end of it." He pulled his satchel closed, and the flat weight inside it — his own file, his mother's name gone out of the family record, the claim nobody would let him touch — shifted against his hip and said nothing, the way it always did. "And I have until the courier crosses the yard. If that summary goes in the satchel it goes in front of a magistrate, and a woman a day down the river is going to have it read to her, and by then the only answer there will be is an answer that costs her the winter."
 
 Tamsin looked up from her pad for two full seconds, which was the most time she had ever given one of his decisions before deciding against it.
 
@@ -166,4 +166,36 @@ Tamsin looked up from her pad for two full seconds, which was the most time she 
 
 "I know what you drink. I have been in this alcove for three weeks."
 
-He went to find Pell, and the door at the end of the aisle was cold under his hand, and the courier was already in the yard with the satchel open and the light going.
+He went to find Pell.
+
+The Table end of the aisle was the coldest place in the Roll Hall, and Pell Vey was standing at it with two other clerks and a docket tray, doing the thing he did at the end of a day, which was to be plainly visible while the last packet of the day was being put together, so that nobody could afterwards say the evening docket had gone out without him looking at it.
+
+Marek put the slip on the corner of the tray, face up, with his own hand on the signature and the hour beside it.
+
+Pell read it. He read it twice, which was one more than Marek had expected, and then he slid it back down the tray to the corner where the undecided things lived.
+
+"Not on an evening docket," he said. "Not in flood season. If the summary is a question of witness marks, then the answer to the question is in the cabinet, and the cabinet is not opened on an evening docket in flood season. And if I put my hand to a slip that says a packet goes up without its summary, then the packet that goes up is not a packet. It is an argument. And the next clerk who opens that file will find my name on it."
+
+"It isn't an argument. It's a marker."
+
+"It is a marker in my book with a date on it," said Pell, "and the date is the part that will be read." He turned back to the tray. "Bring it to me in the morning, first hour, and I will look at it in the morning, and I will tell you in the morning what I think, and you will do whatever I tell you."
+
+He was still standing at the corner of the tray with his hand on it, and the slip was still on the wood, and neither of them was going to move.
+
+Marek took the slip off the corner of the tray and put it back inside his coat, and then went down the aisle and took the summary out of the second drawer and read it once more from the top, because a man who cannot get a signature has to know the document.
+
+The four lines were still the four lines, and the third notch was still crisp and shallow and a hand's width below where the line it claimed to record had stood. *The field-side upkeep and the winter-seed repayment named to him are recorded against the field and continue, the present holder being bound to the same until full review.*
+
+He folded it once, and then a second time, and put it in the inside pocket of his coat instead of in the packet, and the packet was four things and not five, and he carried it out to the yard himself and put it in the courier's hands and said the desk number out loud to her, and she wrote it on her cuff without looking at it.
+
+"Desk nine," she said.
+
+"Eight and a half," said Marek.
+
+She laughed, which he had not expected her to do, and shouldered the satchel, and the satchel went out through the eastern door with everything in it except the only thing anybody was going to argue about.
+
+Marek stood in the yard in the cold with his hands empty and looked at the shut door for a while.
+
+He had not won anything. He had kept a page out of a satchel on the strength of a signature nobody had given him, and the page would come back into the packet on the second morning's courier, in the hand of a man who had promised to look at it in the morning. And the packet itself was going north uncertified, with a slip in a coat instead of a signature in a book, which meant that whatever happened next would happen without anybody in Auremar having agreed to it.
+
+He had a night to decide whether to be on the river in the morning anyway, and a cabinet he could not open, and one person in the building who could open it and had just told him what time to come back.

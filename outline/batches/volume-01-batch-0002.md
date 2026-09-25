@@ -6,7 +6,11 @@ Chapter range: 11–20
 
 Batch goal: Take the volume's local victory and make it cost something material and personal. The batch must keep three local families alive through a winter, give Orra and Nessa a hearing that is honestly worse than a victory, put Ivet Sarn's four days of delay on the record with its price attached, give Nell a guild answer that costs her foreman something, damage Marek and Tamsin's trust over disclosure rather than over secrecy, and end with the first proof that the same four lines and the same public-necessity sentence have reached two other provinces.
 
-Starting condition: The Venn ruling of the twelfth stands and has been read in twenty-six households. Tavi's personal debt is void, the field is preserved for three years and one flood season, Sivra Oris's gate and navigation duty survives, the fourth term requires a separate signature from anyone who assumes a continuing duty, and the district water office owes the bank works and the gate reset. The same sentence was filed over the previously unfiled Dunn summary within the hour, and a separate sitting for the Dunn household is listed for the twenty-third. Corvin Dray is in the Auremar district house on a joint order with ninety-one leaves of his ledger copied. Marek's first reading has been paid for in fatigue, an ash taste, a headache, and a temporary inability to lie about one named obligation that is still active. A hand-signed nine-paragraph audit request is in Examinations custody, undecided, with a stamped number and no answer. An old red running stitch in the margin of an uncatalogued copy sits in a tin under a lane-man's bed, and nobody knows what it means.
+Starting condition: The Venn ruling of the twelfth stands and has been read in twenty-six households. Tavi's personal debt is void, the field is preserved until the second month, when the seven-year term expires, Sivra Oris's gate and navigation duty survives, the fourth term requires a separate signature from anyone who assumes a continuing duty, and the fifth term puts the bank works and the gate reset on the district water office and expressly relieves the household of the field-side upkeep. The public-necessity sentence was read at two o'clock and the previously unfiled Dunn summary was filed on it in the same minute, before the five terms were ruled at twenty past three, and a separate sitting for the Dunn household is listed for the twenty-third. Corvin Dray is in the Auremar district house on a joint order with ninety-one leaves of his ledger copied. Marek's first reading has been paid for in fatigue, an ash taste, a headache, and a temporary inability to lie about one named obligation that is still active. A hand-signed nine-paragraph audit request is in Examinations custody, undecided, with a stamped number and no answer. An old red running stitch sits in the margin of a leaf at the bottom of a tin under a lane-man's bed, on which one of the twenty-six public copies happens to have been written because it was the paper to hand, and nobody knows what it means.
+
+**Calendar:** the whole first batch sits inside one month, the ninth, and ran from the seventh to the eighteenth of it. Chapters 11–18 are the weeks after the ruling and Chapters 19–20 are the seventh and eighth weeks after it, so by the fourth month the flood docket closes. The dated items already fixed are: the Dunn separate sitting on the **twenty-third**, Odile Fenn's examination in the **fourth month**, and the answer to the audit request due inside three months. Do not re-derive the earlier calendar; it is in `state/continuity.md`.
+
+**Two custody facts that are canon and easy to get wrong.** The Venn source leaf lives in the Notaries' Table's cabinet in Auremar, and a comparison cannot be had by a clerk who is not standing in the room when the sleeve comes out, so a junior clerk cannot produce it and Sarn has no Table key. The provincial hold's reference carries no office name; the First Seat's device was named aloud in open court for the first time on the twelfth. Nothing in this batch may quietly relocate the leaf or retro-name the hold.
 
 Starting relationships: Marek and Tamsin are colleagues working under a stated rule — nothing he holds goes back in the bag, everything the same day — rather than under restored trust. Tamsin has begun deciding things and telling him afterwards, and has not asked his permission. Nell has set a term: he shows her anything he writes before he writes it. Pell is a supervisor whose helpfulness has become suspicious and whose name has not yet appeared on anything. Ivet Sarn is a clerk who recorded her own refusal in public and has not yet been asked to explain it. Corvin Dray has offered to give a full statement in a cell with the roll-keeper present.
 
@@ -24,7 +28,7 @@ Pressure rotation across the ten chapters: local survival and harvest (11, 18), 
 
 Support cast bound to this batch, so no chapter needs an invented clerk, foreman, constable, assessor, or witness:
 
-- **Ivet Sarn**, thirty-eight, Mosswake Roll Court clerk, now in her own chapter. She refused for four days in the fifth year, kept a paper about the winter it cost, named the household, and has to say it aloud. Her caution is tested, not vindicated, and she is not a coward and not a conspirator.
+- **Ivet Sarn**, thirty-eight, Mosswake Roll Court clerk, now in her own chapter. In Chapter 3 she said, once, that it took her four days to open a file in the fifth year and that on the fourth day the relief rolls could not be certified; Tamsin wrote it on the board. She has a paper about that winter, kept in a drawer in her own room, and has never told the household it cost. She names the household here, and her caution is tested, not vindicated: she is not a coward and not a conspirator, and she is made to say it aloud.
 - **Ostyn Vare**, forty-five, Greyfen dye-house foreman, carrying the guild challenge. He reads the assessor's form, understands exactly what it does to his exemption and his seat, and signs the amendment that costs him.
 - **Marl Crenn**, the dyers' schedule assessor for the Greyfen guild, new to this batch and recorded in `bible/characters.md`. She holds the exemption form and its second box, and she is not the enemy: she is a person frightened of a form, which is the same fear as Pell's and Rell's.
 - **Rennie Sallow**, a Mosswake upper-district household, new to this batch. Their barn term file was the one that was open in the fifth year, and their seed allocation was delayed because of it. Sarn has the paper and has never told them why.
@@ -48,11 +52,11 @@ Open questions after the batch: Who issues the circular and under what authority
 
 POV: Marek
 
-Location/time: Reed Cut, the fourth and fifth day after the ruling; the gate, the western ditch, and the district water office.
+Location/time: Reed Cut, the sixth and seventh days after the ruling, which is the nineteenth and twentieth; the gate, the western ditch, and the district water office. It cannot be earlier: Chapter 9 runs the thirteenth to the sixteenth at the reading table and Chapter 10 has Marek in Auremar from the seventeenth morning.
 
 Immediate goal: Get the bank works and the gate reset actually done under the water office's own authority, and get Tavi Venn out of the ditch, before the water moves the lower field.
 
-Resistance: The works cost seed and labour out of a reserve that is already the district's winter. Hallis Dren's certification and his mother's canal house are both riding on the office doing this properly. The crew will do the work but not without a posted schedule, because a schedule decides whose ditch it is. And the lane has already begun to say that a girl who has cut a ditch for three years and been praised for it has accepted the duty the fourth term requires her to sign for.
+Resistance: The works cost seed and labour out of a reserve that is already the district's winter. Hallis Dren's certification and his mother's canal house are both riding on the office doing this properly. The crew will do the work but not without a posted schedule, because a schedule decides whose ditch it is. And the lane has already begun to say that a girl who has cut a ditch unpaid since the fourth month and been praised for it has accepted the duty the fourth term requires her to sign for.
 
 Information revealed: The hold saved the field and the ruling saved the family, and together they have emptied the district's seed reserve, so the district will eat a little worse in the fourth month than it needed to. The unpaid labour that Marek thought the ruling had made harmless is now the strongest argument against the fourth term, and it is being made by people who are grateful.
 
@@ -62,7 +66,7 @@ Emotional change: Marek discovers that being right about a file does not let him
 
 Power or resource change: No power change. He loses the illusion that the ruling was an outcome he produced rather than a decision he has to live downstream of.
 
-Continuity fact: The district's winter seed reserve is materially reduced, and the gate reset and bank works are now the water office's obligation under the ruling's fourth and fifth terms, with the household expressly not required to perform field-side upkeep for the purposes of the order.
+Continuity fact: The district's winter seed reserve is materially reduced, and the gate reset and bank works are now the water office's obligation under the ruling's **fifth term** alone, with the household expressly not required to perform field-side upkeep for the purposes of the order. Tavi named that ask herself on the tenth, in the knowledge that a girl who has cut the ditch unpaid since the fourth month will be read as having accepted a duty she never signed. That reading is what this chapter must let the lane do.
 
 Ending type: Cost / consequence.
 
@@ -122,11 +126,11 @@ POV: Ivet Sarn
 
 Location/time: Mosswake Roll Court, the clerk's window, and the court archive, the week after the twenty-third.
 
-Immediate goal: Put four days of refusal on the record with its reason and its price attached, without being turned into either a villain or a heroine.
+Immediate goal: Put four days of delay on the record with its reason and its price attached, without being turned into either a villain or a heroine.
 
 Resistance: Sarn does not want to be examined in public. The court would rather not reopen the question. The household affected cannot be named without consequences to them, and they did not ask to be a precedent. And Marek keeps trying to protect her from the answer, which is the same failure in a new shape.
 
-Information revealed: The file Sarn kept open in the fifth year was an upper-district barn term file with the same substituted wording in it, and the Rennie Sallow household's seed allocation was delayed because the docket could not be closed and the relief rolls could not be certified. Sarn has the paper. She has never told the Sallows why, and she did not delay for carelessness.
+Information revealed: The file Sarn sat on for four days in the fifth year was an upper-district barn term file with the same substituted wording in it, and the Rennie Sallow household's seed allocation was delayed because the docket could not be closed and the relief rolls could not be certified. Sarn has the paper. She has never told the Sallows why, and she did not delay for carelessness.
 
 Action or decision: Sarn asks for the record to carry her reason and the Sallow consequence together, on the condition that the Sallows are told first and by her, in her own words, and not by a clerk who is managing them. Marek is made to stop intervening on her behalf and to sit still.
 
@@ -138,7 +142,7 @@ Continuity fact: Ivet Sarn's delay is explained, dated, and attached to a named 
 
 Ending type: Revelation / emotional beat.
 
-Next-chapter pull: The wording in the Sallow file is identical to the wording in the Venn correction, and it is four months older, and somebody has to say what that means out loud.
+Next-chapter pull: The wording in the Sallow file is identical to the wording in the Venn correction, and it is four *years* older, and somebody has to say what that means out loud.
 
 ### Chapter 0015
 
@@ -268,7 +272,7 @@ Immediate goal: Identify what produced the two provincial copies, and keep the a
 
 Resistance: Examinations' examiners are not hostile, only tired, and they want the exhibits back. The First Seat form does not name a template and does not mention the wording. The wording is not in the form at all; it is in a separate printed administrative circular issued to district courts, and the form is the quarterly return that stops anybody counting what the circular produces.
 
-Information revealed: The mechanism is two documents. A circular carries the substituted guarantor language and the public-necessity sentence to district courts as an approved model. A First Seat form then classifies filings made under that circular as routine and unitemised. The precedent was issued, not invented, and it is in print, with a number, and it has been in print long enough for a public-necessity sentence written by one river court eleven days ago to arrive in a file four hundred miles away.
+Information revealed: The mechanism is two documents. A circular carries the substituted guarantor language and the public-necessity sentence to district courts as an approved model. A First Seat form then classifies filings made under that circular as routine and unitemised. The precedent was issued, not invented, and it is in print, with a number, and it has been in print long enough for a public-necessity sentence written by one river court seven weeks ago to arrive in a file four hundred miles away.
 
 Action or decision: Marek files a supplementary request naming the circular and its numbers. Examinations answers the nine paragraphs for the first time and offers a bounded certification: accept the Venn ruling as an emergency precedent with a review date, and the audit request is closed. The offer is real, it would protect the current food supply, and it is the price of the thing Marek actually wants.
 

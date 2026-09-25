@@ -16,7 +16,7 @@ Batch escalation: Chapters 3–6. The problem stops being one widow's file. Tams
 
 Batch midpoint: Chapters 3–5. Tamsin finds the unfiled Dunn summary that would make Nessa a guarantor, Pell asks Marek to treat the Venn correction as routine, and Nell's contract plus Marek's concealment begin the trust break. The batch's real midpoint is the discovery that the second household is already in the machinery, not the later ruling that activates it.
 
-Batch climax: Chapters 7–10. At a public evidentiary rehearing, Marek and Tamsin establish the original text, the witness order, and Corvin's seal-broker trail. Marek obtains a ruling that clears Tavi's personal debt, preserves the field and Sivra Oris's gate and navigation duty, and requires a separate signed obligation for any successor. The court activates the Dunn consequence. Corvin is arrested after the copies and broker records are secured, but the sealed First Seat instruction sends the larger question beyond Mosswake.
+Batch climax: Chapters 7–10. At a public evidentiary rehearing, Marek and Tamsin establish the original text, the witness order, and Corvin's seal-broker trail. Marek obtains a five-term ruling that clears Tavi's personal debt, preserves the field and Sivra Oris's gate and navigation duty, requires a separate signed obligation for any successor, and moves the bank works and gate reset onto the district water office so the household is not required to perform the field-side upkeep. The court activates the Dunn consequence. Corvin is arrested after the copies and broker records are secured, but the sealed First Seat instruction sends the larger question beyond Mosswake.
 
 Batch aftermath: Chapters 9–10. A ruling is not the same thing as a result. Chapter 9 shows the ruling being read aloud, copied in the yard as "the holder pays," and turned into a hearing date for Orra and Nessa; Nell signs terms of her own; the red-thread mark appears in the copied page and stays unexplained. Chapter 10 turns the aftermath into a filing: Corvin's ledger is copied under a public inventory, he is arrested under a joint order, and Marek files a formal audit request that leaves his hands and enters Chancery custody with its scope undecided. The aftermath is deliberately unsatisfying. The local case is won, the family is safe for a winter, the second household is heard, and the authority that issued the form is still anonymous.
 
@@ -24,7 +24,7 @@ Pressure rotation across the ten chapters: investigation and document work (1, 3
 
 Support cast bound to this batch: the named Volume 01 support cast in `bible/characters.md` performs the scene functions below, so no chapter needs an invented clerk, foreman, constable, or witness.
 
-- **Ivet Sarn**, Mosswake Roll Court clerk: refuses to reopen settled precedent in Chapter 3, releases the source leaf under a recorded chain of custody in Chapter 7, and is the officer whose delay will have to be described in Chapter 11 or later. She is cautious and not concealing, and she has a reason on the record.
+- **Ivet Sarn**, Mosswake Roll Court clerk: refuses to reopen settled precedent in Chapter 3, releases the source leaf under a recorded chain of custody in Chapter 7, and is the officer whose delay will have to be described in Chapter 11 or later. She is cautious and not concealing, and she has a reason on the record. In Chapter 3 she also states, once, that it took her four days to open a file in the fifth year and that the relief rolls could not be certified while it was shut; that number is now on the page and Chapters 11–18 owe the reader the household it cost.
 - **Hallis Dren**, Reed Cut district water office clerk: the flood memorandum that the correction was filed under is his paper. It sets the Chapter 6 deadline and is produced in Chapter 7. He signed a form to clear a backlog; he is not part of a conspiracy.
 - **Sivra Oris**, Reed Cut water keeper and the scale counterparty: present at the channel in Chapter 2, where she confirms that the gate and navigation duty is hers and Aldren's field-side duty was Aldren's, and absent from the courtroom in this batch. She testifies in Volume 01 Chapters 34–40.
 - **Ostyn Vare**, Greyfen dye-house foreman: the foreman in Chapter 5 who is honest about the wage schedule and afraid of what a broad exit clause does to the craft exemption. He never asks Nell to sign unread.
@@ -75,7 +75,7 @@ Next-chapter pull: Marek travels to Mosswake to inspect the field and hear Mara 
 
 POV: Marek
 
-Location/time: The Venn farm and Reed Cut channel, the following morning. Marek travels to Mosswake with Tamsin carrying the comparison packet as the assigned copyist.
+Location/time: The Venn farm and Reed Cut channel, the morning after the Roll Hall docket, which is the eighth of the month. Marek travels to Mosswake with Tamsin carrying the comparison packet as the assigned copyist.
 
 Immediate goal: Establish which physical work and obligations belong to the Venn family before the court treats Tavi as a debtor.
 
@@ -123,13 +123,13 @@ Next-chapter pull: Marek must compare the two files in the Chancery before Pell 
 
 POV: Marek
 
-Location/time: Pell's Notaries' Table in Auremar, the next day after the Mosswake field visit.
+Location/time: Pell's Notaries' Table in Auremar, the third morning of the Venn file, which is the ninth of the month.
 
 Immediate goal: Obtain a formal comparison of the original Venn leaf, the filed correction, and the Dunn precedent before the matter is certified as settled.
 
 Resistance: Pell treats the discrepancy as a filing error and warns that reopening a flood-era precedent will delay winter relief. Tamsin has already preserved a copy, and the source leaf is stored in a locked cabinet that requires Pell's authorization.
 
-Information revealed: The correction's ink, seal pressure, and witness mark do not match the original. A payment notation points toward Corvin Dray's seal-broker office, but the notation is not enough to identify the person who ordered the alteration.
+Information revealed: The back of the correction carries a certificate impression pressed flat and even, and a fee entry naming a broker at Candlewright Lane in Auremar, with the fee authorised by a district office that had no business authorising one on a field-side instrument. Marek has a name and no use for it: a broker's fee says a person was paid to do a thing and does not say which thing or who asked. The witness marks on the summary still do not match the witness copy.
 
 Action or decision: Marek requests a written comparison and records Pell's refusal to explain the source. Tamsin keeps the copied Dunn page visible rather than hiding it in a private drawer. Marek chooses a slower, reviewable path over a quiet correction that would protect his job.
 
@@ -171,15 +171,15 @@ Next-chapter pull: The flood deadline forces Marek to choose a public rehearing 
 
 POV: Marek
 
-Location/time: Mosswake flood terrace and the river court's emergency stair, two days later.
+Location/time: Mosswake flood terrace and the river court's emergency stair, the day after Chapter 5, which is the tenth of the month, with the chapter's closing beat on the eleventh when the witness order goes up.
 
 Immediate goal: Get the Venn matter into a public evidentiary rehearing before the winter-seed notice and flood inspection converge.
 
-Resistance: A public rehearing will pause the field's seizure until the court rules, and the flood may destroy the lower harvest. A closed-door order from Rell could preserve the grain immediately but would exclude Tavi and Mara from the decision and violate the procedure Marek is trying to protect.
+Resistance: A public rehearing will pause the field's seizure until the court rules, and the flood may destroy the lower harvest. A closed-door order from Rell could preserve the grain immediately but would exclude Tavi and Mara from the decision and violate the procedure Marek is trying to protect. The source leaf is in Auremar and a comparison cannot be had without Marek standing in the room, so the only door to the instrument is a court direction he does not have.
 
 Information revealed: Magistrate Leda Rell's court has accepted the corrected precedent for routine flood cases. The local court can hear witnesses and material disputes, but it cannot be crossed by Marek's personal authority. The inspection date that starts the clock comes out of the dated flood memorandum signed at the Reed Cut district water office, which is the same paper the correction was filed under.
 
-Action or decision: Marek chooses the public rehearing despite the winter risk. He gives Tamsin the full comparison packet, asks Mara and Tavi to decide whether they will testify, and prepares a practical channel plan rather than a magical shortcut.
+Action or decision: Marek chooses the public rehearing despite the winter risk. He gives Tamsin the full comparison packet, asks Mara and Tavi to decide whether they will testify, and prepares a practical channel plan rather than a magical shortcut. Tavi names the fifth thing she wants: the gate reset and the west bank work put on the water office in writing, with the office's own name on it and the household expressly not required to do the field-side, precisely because she has been cutting that ditch unpaid since the fourth month and knows the lane will read the work as acceptance. On the night of the tenth Sarn sends her own rider to Auremar on the court's custody slip, and states that she will hold the leaf sealed until the twelfth and not before the hour.
 
 Emotional change: Marek feels the cost of choosing a process he cannot control. Tamsin sees him share the danger instead of deciding for the family, but she makes him promise not to turn the hearing into a private investigation.
 
@@ -199,11 +199,11 @@ Location/time: Mosswake Roll Court's river courtroom, the morning of the reheari
 
 Immediate goal: Ensure the rehearing hears the actual source witness and the original Venn leaf in a usable order.
 
-Resistance: Pell objects to the comparison copy, the clerk has placed a broker witness first, and Magistrate Rell warns that a broad ruling may be the only way to keep the flood channels functioning. Corvin's witness has arrived with a certificate that looks valid until its seal pressure is checked.
+Resistance: Pell objects that a copyist's memory is not evidence and withdraws his second objection, on the hold. The clerk has placed a broker witness first, the source leaf is in a cabinet in Auremar that the district court has no power to open, and Magistrate Rell warns that a broad ruling may be the only way to keep the flood channels functioning. Corvin's witness has arrived with a certificate that looks valid until its seal pressure is checked.
 
-Information revealed: The witness order was changed after the parties arrived. The certificate bearing a copied scale seal repeats the copied third witness notch. Tamsin's memory of who entered the room and the sequence of copied pages provides ordinary evidence that challenges the certificate.
+Information revealed: The witness order was changed after the parties arrived. The certificate bearing a copied scale seal repeats the copied third witness notch. Tamsin's memory of who entered the room and the sequence of copied pages provides ordinary evidence that challenges the certificate. The source leaf cannot be reached by a junior clerk's request at all: it lives in the Notaries' Table's cabinet in Auremar, a comparison cannot be had unless the requester is standing in the room when the sleeve comes out, and Marek is two hundred miles away. It arrives only because Ivet Sarn sent her own rider on the district court's own custody slip, on the night of the tenth, and holds the leaf sealed in a strong box until the twelfth and produces it at ten in front of a full room.
 
-Action or decision: Tamsin asks the court to pause, identifies the altered order from memory and paper sequence, and uses the comparison copy plus the filing dates to obtain a witnessed preservation order and a limited audit authorization for the original leaf. Ivet Sarn releases the source under a recorded chain of custody and produces the dated flood memorandum issued at the Reed Cut district water office, and both are sealed in a marked document sleeve for transfer to the court. She does not claim that Corvin's witness's presence proves his guilt; she shows why his document cannot be accepted unexamined.
+Action or decision: Tamsin asks the court to pause, identifies the altered order from memory and paper sequence, and uses the comparison copy plus the filing dates to obtain a witnessed preservation order and a limited audit authorization for the original leaf. Marek asks the court, not the Table, to direct that the leaf be produced; Sarn produces the leaf from her own custody under a Table sleeve with the Table's seal on the wax, enters it in the minute book as received into the custody of the court, and produces the dated flood memorandum issued at the Reed Cut district water office from the same minute book. She does not claim that Corvin's witness's presence proves his guilt; she shows why his document cannot be accepted unexamined, and she demands the applicant's written application in her own hand as protection for herself.
 
 Emotional change: Tamsin feels the fear of being the clerk who made the official record inconvenient. She chooses public competence over quiet obedience, and Marek follows her decision rather than taking over.
 
@@ -227,7 +227,7 @@ Resistance: Rell needs language that lets the court act quickly during future fl
 
 Information revealed: The original Venn text supports a fixed-term field duty for Aldren and a gate and navigation duty for Sivra Oris, but not a debt for Tavi. The proposed public-necessity sentence would turn occupancy into consent.
 
-Action or decision: Marek argues from the original material record and accepts a narrow interim channel arrangement rather than asking the court for a blanket order that would settle every later flood case at once. The court voids Tavi's personal debt, preserves the field during the term, keeps Sivra Oris's gate and navigation duty, and requires any future successor to sign separately. The court records the broad public-necessity sentence, and the consequence reaches the Dunn file.
+Action or decision: Marek argues from the original material record and accepts a narrow interim channel arrangement rather than asking the court for a blanket order that would settle every later flood case at once. The court rules in five terms: Tavi's personal debt is void; the field is preserved for the remainder of the term; Sivra Oris's gate and navigation duty is unaffected; any future successor must sign a new obligation; and the district water office must do the bank works and the gate reset under its own flood authority, with the household expressly not required to perform the field-side upkeep for the purposes of the order. The fifth term is Tavi's own ask, made at the step of the Venn house on the evening of the tenth, and Rell puts it last on purpose. The court records the broad public-necessity sentence, and the consequence reaches the Dunn file.
 
 The limited audit authorized in Chapter 7 is exercised at the rehearing; after the ruling and its physical cost settle, one Roll-Answer appears against the operative filed record, including the court's public-necessity gloss. The reading is accurate about what the court has just done. Tavi's personal debt is gone, and the file now reaches whoever occupies the field, so the reading names that occupant rather than the woman the ruling cleared:
 
@@ -277,7 +277,7 @@ Location/time: Corvin's seal-broker office and a roadside hearing room in Aurema
 
 Immediate goal: Secure the broker ledger, protect the witnesses who agreed to testify, and move the Venn case into a formal audit rather than a private settlement.
 
-Resistance: Corvin claims the corrections were ordinary disaster administration and offers to restore the Venn file if Marek closes the comparison. Pell's name appears on an authorization that is genuine but incomplete. Auremar's Chancery constable Ruhl Dunnet can arrest only under a joint order from the Mosswake Roll Court, and the office is full of clients whose livelihoods depend on the broker; a direct seizure could destroy the records before they are copied.
+Resistance: Corvin claims the corrections were ordinary disaster administration, and a broker's man in the room wants the Venn file bought back for nothing. **Card beat not used on the page, and deliberately not carried forward:** Pell's name does not appear in Chapter 10. The Chapter 17 refusal of a private settlement is therefore still unspent and belongs to Batch 0002. Auremar's Chancery constable Ruhl Dunnet can arrest only under a joint order from the Mosswake Roll Court, and the office is full of clients whose livelihoods depend on the broker; a direct seizure could destroy the records before they are copied.
 
 Information revealed: Corvin's ledger contains payments tied to copied witness marks in Venn, Dunn, and two provincial files. A sealed First Seat instruction is an administrative form requiring the Mosswake correction to remain categorized as routine; its relationship to the other files is not yet known, and it does not identify Seryn or explain who authorized its use.
 

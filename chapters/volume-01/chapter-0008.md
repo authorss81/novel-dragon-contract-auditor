@@ -1,10 +1,10 @@
 # Chapter 8: The Sentence the Court Wrote
 
-The court sat at two o'clock and the room had changed in the recess. More of the lane, and four men from the seed barns, and two women in greyfen work-cloaks who had come in from the back door, and Hallis Dren of the Reed Cut water office standing at the side with his hat in his hands and a rolled paper under his arm, looking like a man who has arrived early for something and would rather be doing it later.
+The court sat at two o'clock and the room had changed in the recess. More of the lane, and four men from the seed barns, and two women in Greyfen work-cloaks who had come in from the back door, and Hallis Dren of the Reed Cut water office standing at the side with his hat in his hands and a rolled paper under his arm, looking like a man who has arrived early for something and would rather be doing it later.
 
 Rell came in and did not sit. She stood behind the bench with her hand on the exhibit sleeve, which was lying open on the clerk's table with the leaf, the correction, the memorandum, Pyle's certificate, and Tamsin Rook's comparison copy laid out on it in the order they had been received, which was a thing Marek had not asked for and had privately been grateful for.
 
-"This court will hear the applicant on the instrument," Rell said, "and then the district, and then it will rule, and I am going to rule this afternoon because the district is nine days from the fourteenth. I am going to say out loud, at the beginning, that I know what a ruling does. I know that what I say in this chair is not only between these people. Clerk Kest has told me that, and he is right, and it is not his fault that it is true, and I would still have had to be told, because I am not a fool and I have done this eleven times." She looked along the bench. "I am going to say a general thing. It will be wrong in some way I cannot see. I would rather say it here with the widow in the room than say it in a letter in March."
+"This court will hear the applicant on the instrument," Rell said, "and then the district, and then it will rule, and I am going to rule this afternoon because the district is two days from the fourteenth. I am going to say out loud, at the beginning, that I know what a ruling does. I know that what I say in this chair is not only between these people. Clerk Kest has told me that, and he is right, and it is not his fault that it is true, and I would still have had to be told, because I am not a fool and I have done this eleven times." She looked along the bench. "I am going to say a general thing. It will be wrong in some way I cannot see. I would rather say it here with the widow in the room than say it in a letter in March."
 
 Nobody in the room said anything, and Marek felt the sentence land on him like a plate being set down in front of him.
 
@@ -18,9 +18,11 @@ Mara stood up and did not sit down again. She had her coat on and she had come d
 
 "And in the sixth month?"
 
-"In the sixth month a young clerk came up the lane with a paper and asked me to put my mark at the foot of it, and I asked him what it was for, and he said it was so the field would not be left without a hand if anything happened to Aldren, and I said my husband was dead and I have two hands, and he said it was about the field and not about me, and he put the paper away and went off up the lane, and he did not come back." She looked at the clerk's table. "That is what happened. I will say it again the same way."
+"In the sixth month a young clerk came up the lane with a paper and asked me to put my mark at the foot of it, and I asked him what it was for, and he said it was so the field would not be left without a hand if anything happened to Aldren, and I said my husband was dead and I have two hands, and he said it was about the field and not about me, and he put the paper away and went off up the lane, and he did not come back." She looked at the clerk's table, where the clerk's pen was still moving. "I told this court on the tenth of the month that I would say that twice and say it the same way both times, and I am not a woman who says a thing differently because it is being written down. So the court is going to hear it twice."
 
-"That is what happened," Mara Venn said. "I will say it again the same way."
+"Again," said Rell.
+
+Mara Venn said it again, in the same words and in the same order, and the clerk wrote it out again, and Rell read both versions back to her and asked her whether they were the same account, and Mara Venn said that they were the same words and that this court was welcome to have both of them, and that she had come here expecting to be asked which of the two she preferred.
 
 Pell Vey stood. "Magistrate, the widow's account establishes that she declined. It does not establish what her husband signed, and the applicant is relying on a leaf that has been in a cabinet, and the applicant's own comparison copy has no standing in this court, and I ask that the application be dealt with as an application and not as a finding."
 
@@ -56,7 +58,7 @@ Hallis Dren took off his hat and held it against his chest and said that on the 
 
 Then she stood behind the bench with both hands on it and said the part that Marek had been dreading since the bank in the dark.
 
-"Clerk Kest has asked for a narrow ruling and has given me a reason. He says the original instrument names a person, and that a person is the only thing in this court that can be made to owe something, and that if the court reads *the present holder* into an instrument that says *Aldren Venn*, then every file in this district that has ever had a named person in it now has a door in it, and the door does not need a person, it only needs somebody to be standing there." She looked at the leaf. "He is right about the instrument. I have the leaf in front of me and I read it and it names him and it requires a signature from anybody who takes the duty on. That is a well-made instrument. Somebody made that instrument in a warm office two years before Aldren died and got it exactly right, and the reason it is exactly right is that it names the person, and if I let the field answer for the man then I have thrown away the only sentence in the document that matters."
+"Clerk Kest has asked for a narrow ruling and has given me a reason. He says the original instrument names a person, and that a person is the only thing in this court that can be made to owe something, and that if the court reads *the present holder* into an instrument that says *Aldren Venn*, then every file in this district that has ever had a named person in it now has a door in it, and the door does not need a person, it only needs somebody to be standing there." She looked at the leaf. "He is right about the instrument. I have the leaf in front of me and I read it and it names him and it requires a signature from anybody who takes the duty on. That is a well-made instrument. Somebody made that instrument in a warm office four years before Aldren died and got it exactly right, and the reason it is exactly right is that it names the person, and if I let the field answer for the man then I have thrown away the only sentence in the document that matters."
 
 "Then the court should rule for the widow," Pell said.
 
@@ -78,23 +80,41 @@ Marek said, "Magistrate, the widow does not consent to the sentence."
 
 ---
 
-She ruled at twenty past three.
+In the recess she went to the exhibit with two people, which was a thing she did at the end of a long morning, and Marek went with her because the clerk of the court let him and then wished she had not.
 
-The debt named against Tavi Venn was void, it having never been hers, no person being answerable under the said instrument except the person named in it.
+She had a single sheet in her hand, in his own writing, with a boy's mud on the bottom of it, and she read it standing up and then read it again.
 
-The channel and the lower field were preserved to the household of Aldren Venn for the remainder of the term, being three years and one flood season, and no creditor, tenant, surety, or assignee might take the crop or the ground in that time, and the same was preserved to the widow.
+"Where did this come from."
 
-The gate and the navigation duty at the Reed Cut remained with Sivra Oris, keeper, according to the terms of the instrument, and were not affected by any of the above, and the court noted that the keeper had declined both the work of the dead man and any transfer of her own duty into his estate.
+"The step of the Venn house, on the evening of the tenth, in a wind, in the dark, from a girl of seventeen who had brought it up out of the field." He did not soften it, because she had read him by now. "She asked for the reset and the bank work to be put on the water office, in writing, with the office's own name on it, and for the order to say that the household is not to do the field-side for it. She said it in one sentence and then she said that she had been cutting that ditch since the fourth month and meant to go on, and that if the sentence says a person has to sign for the work then the first thing this lane will say is that she has been doing it, so she has taken it, so it is hers, and she would rather it was the water office's in a court than hers in a lane."
 
-Any person who thereafter assumed a continuing field-side duty at that place should sign a new obligation for it, the original instrument requiring it.
+Rell read the sheet a third time.
 
-And the district water office should perform the bank works and the reset of the gate linkage under its own flood authority, and not under the obligations of the said instrument, and should do so before the season advanced; and the household should not be required to perform the field-side upkeep of the said instrument for the purposes of this order.
+"That is a small thing," she said, "and it is the whole case."
 
-That last one was Marek's. He had asked for it at four o'clock on the second day, on the bank, from a girl with an iron bar, and he had written it in his own hand in a file, and Rell had read it twice and had said *that is a small thing and it is the whole case*, and now it was in a ruling.
+"It is the smallest thing in the file."
+
+"It is the only thing in the file that says what is to happen on Friday morning," said Rell, "and the district will have to live with it for a season. I am putting it in. I am putting it in last, so that the last thing anybody reads out of this room is not a sentence about a woman and is an instruction to an office, and I would like that noticed." She folded the sheet once and handed it back to him. "Do not thank me for it in front of the lane. If they hear that I got it from a girl with an iron bar, then the next girl will be told to fetch a magistrate herself, and she will be sent away."
+
+She ruled at twenty past three, and she read the operative words out one at a time, and she numbered them as she went, because a court that numbers its terms is a court that means for them to be cited, and the clerk wrote the numerals down as fast as Rell said them.
+
+"The first:" and then the debt named against Tavi Venn was void, it having never been hers, no person being answerable under the said instrument except the person named in it.
+
+"The second:" and the channel and the lower field were preserved to the household of Aldren Venn for the remainder of the term, that is to say until the second month, when seven years from the signing are up, and no creditor, tenant, surety, or assignee might take the crop or the ground before that date, and the same was preserved to the widow.
+
+"The third:" and the gate and the navigation duty at the Reed Cut remained with Sivra Oris, keeper, according to the terms of the instrument, and were not affected by any of the above, and the court noted that the keeper had declined both the work of the dead man and any transfer of her own duty into his estate.
+
+"The fourth:" and any person who thereafter assumed a continuing field-side duty at that place should sign a new obligation for it, the original instrument requiring it.
+
+"And the fifth:" and the district water office should perform the bank works and the reset of the gate linkage under its own flood authority, and not under the obligations of the said instrument, and should do so before the season advanced; and the household should not be required to perform the field-side upkeep of the said instrument for the purposes of this order.
+
+"That is the whole of it," Rell said, "and I want the room to have one thing straight. The sentence I read you at two o'clock is not one of these five. It is this court's practice, it is a bad habit, and it is the reason I am obliged to use it. These five are about one widow, one field, one keeper and one office. Somebody is going to count them wrong. If they do, I want them to have heard me say that they are five."
+
+That last one was Tavi's, and it had come to the bench on the back of a witness note in his own hand with mud on it, and Rell had read it three times in the recess and had called it a small thing and the whole case, and then had put it last on purpose, so that the last sentence anybody carried out of this room would be an instruction to an office and not a sentence about a woman.
 
 Marek looked at the bench. Tavi Venn was sitting down for the first time since the morning, with the bar across her knees, and the woman beside her had put a hand flat on her back. Mara Venn had not moved at all. She had her hands folded and she was looking at the leaf on the clerk's table, at the double reed in the margin, at her husband's name, and her face was doing nothing at all, which Marek had learned was the face she made when she was feeling most.
 
-He felt it come up in him like air out of a lung. Nine weeks of a courier's satchel and a copied notch and a source leaf out of a cabinet in a bad coat, and a girl of seventeen would be able to say the words *I do not owe it* in her own lane, in daylight, and the field would be there in the morning.
+He felt it come up in him like air out of a lung. Nine days of a courier's satchel and a copied notch and a source leaf out of a cabinet in a bad coat, and a girl of seventeen would be able to say the words *I do not owe it* in her own lane, in daylight, and the field would be there in the morning.
 
 He had not eaten properly since the seventh of the month. His teeth hurt. He was so tired that the wall behind the bench looked further away than it was.
 
@@ -102,7 +122,7 @@ Sarn lifted the sleeve.
 
 "Clerk Kest," she said. "The court has made an audit of the Venn file, named to the instrument, the exhibit, and no other thing. The exhibit is out. You may look at it."
 
-He came down. The clerk turned the sleeve so the whole of it faced him at once: the leaf, the witness copy, the correction, the memorandum, the certificate, the comparison copy, and on top of them, from the chair, written out fair and sealed, the sentence.
+He came down. The clerk turned the sleeve so the whole of it faced him at once, and on top of the six things that had gone into it that morning, in the chair's own hand and under the chair's own seal, was the sentence, and the five terms written out under the sentence and numbered.
 
 And the record in front of him was not the leaf.
 

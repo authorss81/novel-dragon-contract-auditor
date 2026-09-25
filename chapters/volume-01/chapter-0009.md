@@ -26,17 +26,17 @@ When she had read the fourth term, which was the one about a new signature, some
 
 That was how the second day went, and the third, and by the fourth the lane had a version of its own which was closer to the truth than the first version had been and still not the truth, which is how a public record actually behaves, and Tamsin learned more about the difference between a reading and a ruling in four days on a trestle table than she had learned in three years in a gallery.
 
-Mara Venn came and stood at the back of her own yard and listened to it four times and then asked her the question she had come to ask.
+Mara Venn came and stood at the back of her own yard, with the lane between her and the table and the wind off the water carrying the reading to her where she stood, and listened to it four times and then asked the question she had come to ask.
 
 "What happens in the spring," Mara said.
 
 Tamsin had the honest answer and it was that the case was over, and she found she could not make the honest answer sound like a wall, so she gave it in pieces.
 
-"The ruling says three years and one flood season. It says no creditor, tenant, surety, or assignee may take the crop or the ground in that time. It says the district water office does the bank works and the gate reset under its own authority and not under the instrument. In practice that means the barley stands and comes in and the lower ditch is not yours to cut for the court's sake, and Tavi gets the canal seat she can get, and you eat." She turned the paper round so the lane could see the seal. "And in practice it also means that in the fourth month, when the flood docket closes, somebody in a warm room will read this and decide it is a very good sentence, and if a thing happens to somebody on another watercourse with a better lawyer, they will use it. What it will not do is come back here without a new paper with your name on it, and I would put money on that being the only protection you have, and it is not much of a protection, because it depends on people doing that."
+"The ruling says until the second month. It says no creditor, tenant, surety, or assignee may take the crop or the ground before that date. It says the district water office does the bank works and the gate reset under its own authority and not under the instrument. In practice that means the barley stands and comes in and the lower ditch is not yours to cut for the court's sake, and Tavi gets the canal seat she can get, and you eat." She turned the paper round so the lane could see the seal. "And in practice it also means that in the fourth month, when the flood docket closes, somebody in a warm room will read this and decide it is a very good sentence, and if a thing happens to somebody on another watercourse with a better lawyer, they will use it. What it will not do is come back here without a new paper with your name on it, and I would put money on that being the only protection you have, and it is not much of a protection, because it depends on people doing that."
 
-"So the field is ours for three years and after that somebody may take it back."
+"So the field is ours until the second month and after that somebody may take it back."
 
-"The field is yours for three years. After three years the term ends, and what happens then is a plain inheritance matter about a piece of ground, with no dragon in it, and that is a much easier fight than this one." Tamsin lowered the paper. "You will not be secure. I am not going to tell you that you are secure, because I have watched you read a document and I would rather you never read one of mine the way I have read yours."
+"The field is yours until the second month. When the term ends, what happens then is a plain inheritance matter about a piece of ground, with no dragon in it, and that is a much easier fight than this one." Tamsin lowered the paper. "You will not be secure. I am not going to tell you that you are secure, because I have watched you read a document and I would rather you never read one of mine the way I have read yours."
 
 Mara took the copy, and folded it, and put it inside her coat against her chest, and after a moment took it out again and looked at it and said, "How many of these are there."
 
@@ -54,7 +54,7 @@ She stood at forty feet with her daughter and said, to Tamsin and not to the lan
 
 Tamsin walked out to her, which cost her the audience, and stood with her under the levee in the wind.
 
-"You are right about all of it," she said. "That is what a hearing is, and nobody will tell you otherwise. So here is what I can actually do, and it is not more than this. I entered a copy of your summary in my own book in the fourth month, with the receipt number and the date and the name of the clerk who took it in. That copy exists in a book in a copyist's alcove in Auremar with a name on it. It is not a secret. It is a record, and the court that has the power to look at it knows it is there, and the roll-keeper is a person and not a box." She took the paper out of her coat. "And in the meantime, your summary is filed on the authority of a sentence written on the twelfth, and the registrar filed it within the hour, which tells you it was going to be filed whatever happened in that room. So if you want a date, the date is that you ask. And you can ask today, and you will be heard, and I will be there, and the room will look at everything. That is what you get. I cannot make it smaller than that and I will not pretend to."
+"You are right about all of it," she said. "That is what a hearing is, and nobody will tell you otherwise. So here is what I can actually do, and it is not more than this. I entered a copy of your summary in my own book in the fourth month, with the receipt number and the date and the name of the clerk who took it in. That copy exists in a book in a copyist's alcove in Auremar with a name on it. It is not a secret. It is a record, and the court that has the power to look at it knows it is there, and the roll-keeper is a person and not a box." She took the paper out of her coat. "And in the meantime, your summary is filed on the authority of a sentence written on the twelfth. The registrar filed it at the same minute he read that sentence out, which was an hour and a half before the court finished ruling on the field the sentence had been written about, and which tells you it was going to be filed whatever happened in that room. So if you want a date, the date is that you ask. And you can ask today, and you will be heard, and I will be there, and the room will look at everything. That is what you get. I cannot make it smaller than that and I will not pretend to."
 
 Orra Dunn looked at the lane, where the reading table was standing with its stool and its court copy and forty people in front of it.
 
@@ -88,7 +88,7 @@ So Tamsin read the fourth term, and stopped, and gave Nell the table, and the la
 
 "That is the clause I was under," Nell said. "It is four words longer than that now, and the four words are my name, and the four words say the debt is answered by me and by nobody else and inside a named number of weeks, and the number is eight, and eight weeks is what it takes me to earn it, which I have done the arithmetic on with a woman in Greyfen who is owed nine and did not survive it."
 
-There was a long pause on the trestle table with four hundred people' worth of attention in the air and no sound at all.
+There was a long pause on the trestle table with forty people' worth of attention in the air and no sound at all.
 
 "The guild has not accepted it," Nell said. "The guild accepts it next Thursday or the guild does not accept it, and if the guild does not accept it then Ostyn Vare has a problem with the assessor and I have a problem with the house, and both of those are true and I have not decided this week which of us it lands on." She looked at the foreman, who had arrived at the point of the yard where a man can stop and not yet be in the room. "Say the true thing about the exemption, Ostyn."
 
@@ -150,13 +150,19 @@ Nell Kest, on the third stool, said, "That," loudly, "is the first honest thing 
 
 It was Tamsin who found the thread, on the fourth afternoon, while she was collating the twenty-six copies.
 
-Nine of the twenty-six had been made by her. Six by a woman in Greyfen who was a professional copyist and had charged nothing and would not take tea. Four by the hooded woman from the seed barn, in a schoolroom hand that made small loops out of every descending stroke. Three by an old man named Ivo Harker who kept the lane's papers in a tin under his bed because he had kept papers in a tin under a bed since before the flood year, and who had brought the tin to the table on the second day and made three copies in it while other people made one.
+Nine of the twenty-six had been made by her. Six by a woman in Greyfen who was a professional copyist and had charged nothing and would not take tea. Four by the hooded woman from the seed barn, in a schoolroom hand that made small loops out of every descending stroke. Three by an old man named Ivo Harker who kept the lane's papers in a tin under his bed because he had kept papers in a tin under a bed since before the flood year, and who had brought the tin to the table on the second day and made three copies out of it while other people made one. And four by two of the men off the Reed Cut bank, who would not put their names to anything and who made theirs together on the back of a seed tally, arguing about the fourth term the whole way through and got it right only because they argued.
 
 Tamsin collated all twenty-six in a stack on the second stool and squared the edges and was reaching for the strap when she saw it.
 
 On the eleventh from the bottom, in the margin beside the third term, there was a short length of thread.
 
-It was red. It was not waxed and it was not Chancery red and it was not the bright red of a sealed packet. It had faded to the colour of an old brick, and it had been sewn through the paper in a small running stitch, six or seven passes, the thread entering and leaving at wide intervals through the margin only, so that it lay across the face of the page in a short red line, and beside each pass, in ink so faded that it had to be held to the light to be read at all, there was a small mark.
+She put the stack down again and looked at the sheet properly, and then she turned it over, and the back of it was not Chancery paper and was not the copy paper the lane had been buying all week. It was a leaf of a different age entirely, thin and soft at the corners, and it had been folded and refolded along its middle until it had gone soft as cloth, and on the front of it somebody had written out the third term of a court ruling in the careful, laborious hand of a man who was copying something out for the first time and did not want to get it wrong.
+
+"Ivo," Tamsin said. "What did you copy this on?"
+
+"I copied it on what I had," said Ivo Harker. "I have not bought paper in four years and I am not going to start because the lane wants a copy of a thing."
+
+The thread was red. It was not waxed and it was not Chancery red and it was not the bright red of a sealed packet. It had faded to the colour of an old brick, and it had been sewn through the paper in a small running stitch, six or seven passes, the thread entering and leaving at wide intervals through the margin only, so that it lay across the face of the page in a short red line, and beside each pass, in ink so faded that it had to be held to the light to be read at all, there was a small mark.
 
 Tamsin held it up to the lamp. The marks were not letters. They were little shapes: a bar with a dot, a bar with two, a bar with a dot and a bar with two together, and then a gap, and then the same three again in the same order, and a gap, and a third set with something added that she could not make out at all.
 
@@ -168,7 +174,13 @@ The yard went quiet in the way yards do when somebody is holding something up to
 
 "Was it in your tin in the tin, or did it come with a paper?"
 
-"It was in the tin with a bundle. Eleven years, maybe twelve. It was my mother's bundle. Papers she copied for the lane because she could write and there was no other body in this lane that could write the water terms, and she kept them because the water terms are what the lane runs on, and when the water office burned the old copy book in the sixth year she had the only set of abstracts left and she never threw them out." He came and looked. "That's an old hand. That's not the water office hand. I've seen the office hand on forty years of papers."
+"It was in the tin with a bundle. Eleven years, maybe twelve. It was my mother's bundle." He came and looked at the back of it, and then at the front, and his face did something Tamsin had not seen a face do. "Papers she copied for the lane because she could write and there was no other body in this lane that could write the water terms, and she kept them because the water terms are what the lane runs on, and when the water office burned the old copy book in the sixth year she had the only set of abstracts left and she never threw them out. And there was a leaf at the bottom of it that I have never once looked at, because I have never once wanted anything off the bottom."
+
+"You copied a court ruling on it," Tamsin said.
+
+"I copied it on what was to hand," said Harker, "which is what everybody in this yard has done all week, and I would be glad to be told that it is a different kind of thing to write on a page your mother wrote on."
+
+"It isn't," said Tamsin. "That's the whole of what I have. It isn't a different kind of thing."
 
 "It isn't an abstract of these terms," Tamsin said. "It's not a copy of the instrument. The wording on that page is the same as the wording on the copy, but it isn't the copy, because the water office never wrote it that way. So somebody made another account of the same terms, at some point, for their own use, and marked it, and kept it in a tin, and it came out of the tin in the same week that a correction with no authority behind it turned up in a flood packet."
 
@@ -188,7 +200,7 @@ At the far end of the lane a boy came up at a run, a court runner, with the hood
 
 "What thing."
 
-"Two pages, folded in with the memorandum. Sealed. And a bit of red thread in the fold, so somebody said, and the seal's the first seat's."
+"Two pages, folded in with the memorandum. Sealed. And a bit of red thread in the fold, so somebody said, and the seal's the First Seat's."
 
 The yard was emptying into the evening and the table was still standing and there were twenty-six copies of a ruling in twenty-six houses, and one of them had a line of old red thread in the margin that nobody in the lane could read.
 

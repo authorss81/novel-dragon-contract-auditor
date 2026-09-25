@@ -2,7 +2,17 @@
 
 The Notaries' Table occupied the north end of the third gallery, behind a rail, and the rail existed for one reason: to keep people at a working distance from the locked cabinet. The cabinet was nine feet of oak with iron furniture and a key that lived on a chain around the neck of whichever supervisor was on duty, and Marek had been in this room for three years without once having a reason to touch it.
 
-On the second morning he had three.
+On the second morning of the Venn file he had three.
+
+He had been at the end of the Table for an hour before the Table would see him, and the hour had not been wasted, because he had had the packet open on the rail and the one page of it that nobody in the building ever looks at is the back of a correction.
+
+The front of a correction is the part that changes what a person owes. The back is where the office says what the change cost, in the small printed hand that fee entries are kept in.
+
+He turned it over at the rail with the lamp pulled round, and there was a certificate impression pressed into the paper: a loop of scale crossed by a bar, flat and even, with nothing in it that looked as though it had been alive while it was being made. And under the impression, a fee line. A date, an amount, a description, a broker's address in Auremar, Candlewright Lane, and a fee authorised by a district office that had no business authorising a fee on a field-side instrument at all.
+
+He wrote the address out twice on the back of his own docket note, in his own hand, and then looked at what he had written for a while.
+
+He had a name and no use for it. A broker's fee on a field instrument said a person had been paid to do a thing. It did not say which thing, and it did not say who asked, and it could not be put in front of anybody without somebody able to say where a clerk had got it from at ten in the morning with a lamp pulled round.
 
 "Sit down, Marek."
 
@@ -12,7 +22,7 @@ Pell Vey was already at the Table with the Venn packet open in front of him, and
 
 "Which source leaf."
 
-"The Venn source leaf. Seven-year water-and-field instrument, second year, Reed Cut. It's in the cabinet. The witness copy has two witness notches and the summary has three, and the correction was filed in the eighth month under a flood memorandum that arrived the day before it, and I want to lay the original beside the correction and look at the two of them."
+"The Venn source leaf. Seven-year water-and-field instrument, second month of the fourth year, Reed Cut. It's in the cabinet. The witness copy has two witness notches and the summary has three, and the correction was filed in the eighth month under a flood memorandum that arrived the day before it, and I want to lay the original beside the correction and look at the two of them."
 
 "Then you want the comparison form, which is what you have written on this." Pell turned the paper round. It was the standard request: *Requested by clerk M. Kest, Inheritance Desk, for a comparison of source leaf against filed correction in the matter of Venn, lower field, Reed Cut.* It was correct in every part. It was also, in every part, a request. "Signed and dated. Which is more than most of your generation manages."
 
@@ -36,7 +46,7 @@ Marek sat down. It was the tone. Pell's tone said: *I am your superior and I hav
 
 "The third notch is at the height a third notch goes when the person making the summary is standing at a different desk than the person who took the original marks. I have been copying this docket for nineteen years, Marek. I have made that mark on a thousand pages at a hundred heights."
 
-That was not a lie. Marek could hear that it was not a lie, which was somehow worse than if it had been, because a lie is a wall and this was a door, ajar, with a coat in the room.
+That was not a lie. Marek could hear that it was not a lie, which was somehow worse than if it had been, because a lie is a wall and this was a man who believed himself, at length, and in writing, and had believed it for nineteen years.
 
 "And the correction itself," Marek said. "The text. *Being a work of the ground and not of a person.* Pell, who wrote that? Not a tired clerk. Not a flood clerk. That's a person who knew the name on the instrument had died and did not want the name to be in the sentence."
 
@@ -56,13 +66,13 @@ That was not a lie. Marek could hear that it was not a lie, which was somehow wo
 
 "Why not this week."
 
-"Because on the eleventh the Reed Cut gates are inspected and on the fourteenth the winter-seed notices go out in about four hundred houses, and your file is in the middle of both. If I pull the leaf this week, the Venn notice issues anyway, because the notice does not wait for a comparison, and your widow gets a notice on the fourteenth either way, and she reads it, and she hears that the city has come up to look at her, and then nothing happens until the spring. Whereas if I certify on the corrected basis this week and open the comparison in the ninth month, she gets no notice, and she has a field, and your discovery happens in a room with a bench in it instead of a lane where a girl of seventeen is standing in front of her neighbours."
+"Because on the eleventh the Reed Cut gates are inspected and on the fourteenth the winter-seed notices go out in about four hundred houses, and your file is in the middle of both. If I pull the leaf this week, the Venn notice issues anyway, because the notice does not wait for a comparison, and your widow gets a notice on the fourteenth either way, and she reads it, and she hears that the city has come up to look at her, and then nothing happens until the spring. Whereas if I certify on the corrected basis this week and open the comparison in the spring, she gets no notice, and she has a field, and your discovery happens in a room with a bench in it instead of a lane where a girl of seventeen is standing in front of her neighbours."
 
 Marek said nothing for a moment, because it was a good argument, and because good arguments at the Notaries' Table are always made by men who are not the one who will be standing in the lane.
 
 "And if the correction is bad," he said, "then in the ninth month you will have certified it, and it will be precedent, and in the eleventh month somebody else will copy it, and in the twelfth it will be a district habit, and in the second year of next year nobody will remember it was ever a question."
 
-"Then it will be a habit I can point at, with a date on it, and a clerk's request in the register with a date on it, and a name." Pell's voice was kind. That was the unbearable part. "Marek. I taught you the lesson and you learned it too well. The lesson was that a record is a thing you can lean on. You have learned that a record is a thing you can pick up and move, and I am telling you that moving it is the expensive half. Nothing has been done yet. The notice goes on the fourteenth. If the notice goes on the fourteenth, a girl of seventeen is a debtor in front of her lane, and no amount of good work in the ninth month takes that back."
+"Then it will be a habit I can point at, with a date on it, and a clerk's request in the register with a date on it, and a name." Pell's voice was kind. That was the unbearable part. "Marek. I taught you the lesson and you learned it too well. The lesson was that a record is a thing you can lean on. You have learned that a record is a thing you can pick up and move, and I am telling you that moving it is the expensive half. Nothing has been done yet. The notice goes on the fourteenth. If the notice goes on the fourteenth, a girl of seventeen is a debtor in front of her lane, and no amount of good work in the spring takes that back."
 
 From the aisle, quietly, Tamsin Rook put a book face down on the end of the Table.
 
@@ -96,7 +106,7 @@ Marek put the request on the desk. He took his hand off it. Tamsin closed her bo
 
 Marek went back down the gallery. He had got as far as the window when the board clerk's boy came round the desks with the day's notices, calling the desk numbers out loud, which was the practice, and which Marek had never once listened to.
 
-"Venn, lower field, Reed Cut. Subject to administrative hold pending verification of continuity terms. Not to be enforced, removed, or assigned pending further notice. Provincial reference: First Seat administrative instruction, sealed."
+"Venn, lower field, Reed Cut. Subject to administrative hold pending verification of continuity terms. Not to be enforced, removed, or assigned pending further notice. Provincial reference: administrative instruction, sealed. The reference carries no office name."
 
 The boy went on down the gallery.
 

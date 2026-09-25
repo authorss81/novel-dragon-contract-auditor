@@ -5,17 +5,17 @@ Standing of each principal character at the close of Volume 01, Batch 0001. This
 ## Marek Kest
 
 - Stage: 0, Clerk's Eye, plus a first unstable Seam-Sight earned on the page in Chapter 8 by exercising the limited Venn audit. No valid exception, counter-seal, warrant, or true-name reading exists, and he has never written one.
-- Position: junior clerk of the Inheritance Desk. His Venn comparison request is signed and sitting in Examinations custody with no scope and no named answer. He has no independent standing, and Pell Vey is no longer a mentor he can lean on.
+- Position: junior clerk of the Inheritance Desk. What sits in Examinations custody is his hand-signed nine-paragraph audit request of the eighteenth, with a stamped number, no scope, and no named answer. His comparison request for the Venn leaf is a different document and is still unsigned on a tray at the Notaries' Table, because a comparison cannot be had by a clerk who is not in the room when the sleeve comes out. He has no independent standing, and Pell Vey is no longer a mentor he can lean on.
 - Physical cost: fatigue, a headache that has moved into the base of his skull and stayed, an ash taste behind the teeth, and a temporary inability to lie about one named obligation — the guarantor clause, which means he cannot tell an affected person that nothing further in the file will touch them. Shown failing twice on the Auremar quay in Chapter 10.
-- Holdings: one stamped request, one copied ledger of ninety-one leaves, the Court's copy of the ruling, a five-page fair copy of the form, and a piece of paper with a running stitch copied onto it that he cannot read.
-- Knows: that a summary is a door; that a mark can be sold for four shillings; that a printed form with a run on it is the mechanism; that his victory produced the Dunn consequence; and that he cannot prove a person's motive from an ink mark.
+- Holdings: one stamped request, one copied ledger of ninety-one leaves, the Court's copy of the ruling, and a piece of paper with a running stitch copied onto it that he cannot read. He has **not** got a copy of the First Seat form: the chain opened, he read it in the room, and it went back into the sleeve.
+- Knows: that a summary is a door; that a mark can be sold for four shillings; that a printed form with a run on it is the mechanism; that his victory produced the Dunn consequence; that a refusal can be a rule rather than a man; and that he cannot prove a person's motive from an ink mark.
 - Who distrusts him and why: Tamsin, because he decided what she could safely know and hid an invalid draft from her, though she has set a rule rather than left; Nell, because his protection still leaves him the only one holding the paper; and Pell, whose answer to the seam was a timetable.
 - Unresolved want: to get the request past Examinations, and to say his mother's name in a file without a sealed reference on it.
 
 ## Tamsin Rook
 
 - Position: junior roll-keeper, named in the Mosswake record as the copyist who made the comparison, and carrying the exhibit's copy. She has an independent book with the Dunn receipt number, the Sarn refusal pinned publicly, and the red stitch drawn in her own lines.
-- Standing: she is now the person whose ordinary work the case runs on. She stopped the hearing on a witness order, made a two-day inventory of a broker's office, and got a file number written on her copy in ink and initialled.
+- Standing: she is now the person whose ordinary work the case runs on. She stopped the hearing on a witness order, made a two-day inventory of a broker's office, got a file number written on her copy in ink and initialled, found the red stitch in a collation, and refused to let Marek leave two provinces out of his request because he was frightened of the accusation. She has overruled him three separate times, in three different rooms.
 - Relationship to Marek: professional, still working beside him, trust conditional on a stated rule — nothing he holds goes back in the bag, everything same day, including anything about his mother.
 - Costs: she is now a named person in a record that a First Seat form wants itemised. She has been told she will be present when Corvin Dray gives his statement.
 - Unresolved want: to know what the red stitch is, without being told.
@@ -29,8 +29,8 @@ Standing of each principal character at the close of Volume 01, Batch 0001. This
 
 ## Pell Vey
 
-- Position: supervisor of the Notaries' Table, still in control of routine certification and of the cabinet key, which he has used to make the leaf's production a question of a court direction rather than of his own will.
-- Function: mentor-shaped antagonist, now visibly compromised. He refused the comparison, told Marek to certify a document he believes is bad, and read the Dunn copy three times without comment. He has not yet been shown to have altered anything himself.
+- Position: supervisor of the Notaries' Table, still in control of routine certification and of the cabinet key. His refusal is a rule rather than an obstruction: a comparison cannot be had by a man who is not standing in the room when the sleeve comes out of the cabinet, so a request left on his tray by a clerk who has gone north cannot be actioned. He also refused to countersign the Chapter 1 withholding slip on an evening docket, on the grounds that the next clerk to open the file would find his name on it. He came to the Mosswake hearing on the evening packet anyway, and withdrew his objection about the provincial hold while keeping the one about Tamsin's memory.
+- Function: mentor-shaped antagonist, now visibly compromised. He told Marek to certify a document he believes is bad, read the Dunn copy three times without comment, and has not yet been shown to have altered anything himself. He has not signed the comparison request and the reason is institutional rather than personal, which is worse for Marek and better for Pell.
 - Unresolved want: the Table's docket to finish, and the flood season not to become a precedent he has to answer for.
 
 ## Corvin Dray
@@ -42,8 +42,8 @@ Standing of each principal character at the close of Volume 01, Batch 0001. This
 
 ## The Venn household
 
-- Tavi Venn, seventeen: free of the debt, working the gate linkage unpaid, refused a guild examination by Odile Fenn until the Dunn question is decided, and holding a dated request to be examined in the fourth month. Her field's maintenance duty has been taken off the family by the ruling.
-- Mara Venn, forty-three: has three years and one flood season, twenty-six public copies, and no security. She keeps Aldren's name and a refused paper and a wax tablet of household figures.
+- Tavi Venn, seventeen: free of the debt, working the gate linkage unpaid, refused a guild examination by Odile Fenn until the Dunn question is decided, and holding a dated request to be examined in the fourth month. The ruling's fifth term has taken the field-side maintenance off the household and put the bank works and the gate reset on the district water office, at her own asking and with the magistrate's agreement to put it last in the order. She has also said out loud, on the page, that she expects to be read as having accepted a duty she never signed, and the lane is about to read her that way.
+- Mara Venn, forty-three: has until the second month, when seven years from her husband's signing are up, twenty-six public copies, and no security. She keeps Aldren's name and a refused paper and a wax tablet of household figures.
 
 ## The Dunn household
 
@@ -52,11 +52,13 @@ Standing of each principal character at the close of Volume 01, Batch 0001. This
 
 ## The others
 
-- Ivet Sarn, thirty-eight: released the leaf under a court direction and recorded her own refusal in a pinned-up page with a date, a time, and witnesses. She has not yet been asked to explain the four days of delay.
-- Hallis Dren, thirty: testified that he signed a general flood memorandum on the eighth to clear eleven weeks of backlog and did not read the correction received on the ninth. His certification and his mother's canal house are still at stake.
+- Ivet Sarn, thirty-eight: sent her own rider to Auremar on the court's custody slip on the night of the tenth, held the leaf sealed in her strong box from the afternoon of the eleventh, and produced it in open court at ten on the twelfth so that the minute book would say the court opened it. She recorded her own refusal in a pinned-up page with a date, a time, and witnesses, and she has said out loud, once, that it took her four days to open a file in the fifth year and that on the fourth day the relief rolls could not be certified. She has not yet named the household those four days cost, and she has a paper about it in a drawer in her own room.
+- Hallis Dren, thirty: testified that he signed a general flood memorandum on the eighth of the eighth month to clear eleven weeks of backlog and did not read the correction received on the ninth. His certification and his mother's canal house are still at stake.
 - Ruhl Dunnet, fifty-two: made the arrest only after the ledger was copied, and entered on the record that he may take a person but not a shop. Eleven clients on the Candlewright Lane bench were sent out to the yard rather than watched.
 - Ostyn Vare, forty-five: has read the continuation aloud, has told Nell the cost of an exit clause, and has told a reading table that the assessor is frightened of a form. The guild's answer is due.
 - Odile Fenn, thirty-four: has refused Tavi a canal examination while a guarantor claim is open, and has said she will examine her in the fourth month either way.
+- Wend and Pella Osk, Mosswake court working staff: named in open court in Chapter 7 as the two other people in the copying room on the morning of the ninth. Pella was offered as a person who will say what the room was like and has not yet been asked anything.
+- Doctor Perrin Ashe, Mosswake river landing: told Marek he had read something and it had not let go of him, to eat, and to come to a person before a book. An ordinary physician in a flood district, and not a plot element.
 - Sivra Oris: her gate and navigation duty is preserved by the ruling, she refused both readings of the Venn instrument, and she is not yet a witness in any proceeding. Not to be confused with Seryn Oris, who is not named or present anywhere in this batch.
 
 ## Format for each batch update

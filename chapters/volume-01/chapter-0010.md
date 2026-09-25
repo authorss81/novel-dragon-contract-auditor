@@ -2,7 +2,9 @@
 
 By the time they came off the packet boat at Auremar the headache had gone from Marek's left eye into the base of his skull and stayed there, and his mouth tasted of a lamp that had been blown out days ago. It had been five days. He had slept nine hours across them. He had told himself each morning that the reading had been an accident of exhaustion and each afternoon that this was what an accident of exhaustion felt like from the inside.
 
-The doctor at the river landing in Mosswake, a cheerful woman who charged a penny and had looked at his eyes with two fingers, had said: *You have read something and it has read you back. Eat. Do not read anything else. If it happens again, come to me before you come to a book.* He had not gone to a book. He had gone to a boat.
+He had stopped at the Mosswake landing on the way down, on the second day, because Perrin Ashe kept a room over a chandler at the river stair and charged a penny, and had put two fingers on the outside of his eyes and told him that he had read something and it had not let go of him, that this was not his fancy, and that if it happened again he was to come to a person before he came to a book. Eat, in the meantime, and do not read anything else.
+
+He had not gone to a book. He had gone to a boat.
 
 On the quay in Auremar a customs clerk asked him, cheerfully, in the way of a man who has asked the same question eleven thousand times, whether he was carrying any written matter relating to water, seed, inheritance, or the Reed Cut.
 
@@ -114,7 +116,7 @@ Dray's face did not change, and he said, "You are going to be very good at this,
 
 At the ninth hour of the second day, in the presence of the constable and the roll-keeper and eleven witnesses from the bench, Corvin Dray unlocked a drawer in the back room and produced a bound ledger of ninety-one leaves and put it on the table and said, "There. There it is. I have been waiting for you to ask for that and I have been dreading it for thirty-one years, and there it is, and I would like a copy of it made in this room before I am asked a single question about it, because I have not slept in two days and I would like to have one thing in my life be done properly."
 
-Tamsin copied the ledger in the room, all ninety-one leaves, and it took until the second hour of the morning, and when she came out of it she had the face of somebody who has been handed something and knows it is heavier than the box it came in.
+Tamsin copied the ledger in the room, all ninety-one leaves, and it took until the second hour of the afternoon, and when she came out of it she had the face of somebody who has been handed something and knows it is heavier than the box it came in.
 
 ---
 
@@ -126,7 +128,7 @@ There were six columns and the headings were: *certificate*, *sequence*, *witnes
 
 *Sequence* meant something else, and it took him an hour to understand, and when he understood it he went out of the room and stood in the yard in the dark for a while.
 
-*Sequence* meant the witness line. It meant the placement of a third mark in a summary, on a copy, or in a file, at a set height, for a set fee, performed by people who had worked out what a witness mark was for and sold the use of it. Sixty-one certificates and ninety-eight sequences. Twenty-two of the sequences were in the Reed Cut district. Six were in the Venn file. One was in the Dunn file and it was dated the fourth month, and it was the third mark on the summary, the exact one Tamsin had put under a lamp in a gallery eight days ago with a mismatched edge and a wrong height.
+*Sequence* meant the witness line. It meant the placement of a third mark in a summary, on a copy, or in a file, at a set height, for a set fee, performed by people who had worked out what a witness mark was for and sold the use of it. Sixty-one certificates and ninety-eight sequences. Twenty-two of the sequences were in the Reed Cut district. Six were in the Venn file. One was in the Dunn file and it was dated the fourth month, and it was the third mark on the summary, the exact one Tamsin had put under a lamp in a gallery eleven days ago with a mismatched edge and a wrong height.
 
 And the two provincial entries, in the fourth column, in his own hand's summary of it, read *Glasswater, spring* and *Emberwatch, second* — districts Marek had never been to, districts four hundred miles off, with dates in the same year and the same six columns and the same fee, which was four shillings, which was not a great deal of money, and which was the price of a mark in a witness line.
 
@@ -186,11 +188,11 @@ He looked at her. She had her own book open at a page where she had drawn, in ca
 
 He said, out loud, in front of a constable and a criminal and a roll-keeper, the thing he had told her on the levee not to say.
 
-"I am not going to put those two in the same sentence," he said, "and if either of you puts them in the same sentence I will have it struck from the record and I will say why. There is an old thread in a tin under an old man's bed and there is a thread in the fold of a form that was printed ninety years after that bed was a woman's. That is two things that are the same colour. It is not a finding. If I say it is a finding I will be telling this room what to conclude about a man I have never met, and that is the trick, and it is the trick I have been staring at for nine days, and I am not going to do it in a room with a constable in it."
+"I am not going to put those two in the same sentence," he said, "and if either of you puts them in the same sentence I will have it struck from the record and I will say why. There is an old thread in a tin under an old man's bed, tied up before his mother was a woman, and there is a thread in the fold of a form that was printed in a year nobody in this room was born for. That is two things that are the same colour. It is not a finding. If I say it is a finding I will be telling this room what to conclude about a man I have never met, and that is the trick, and it is the trick I have been staring at for six days, and I am not going to do it in a room with a constable in it."
 
 "Struck from the record," Dunnet said, writing. "Go on."
 
-"And the other thing." Marek put two fingers on the form. "This is not a person. I have been waiting nine days for a person. There is no person in this. There is a run, and a form, and a quarterly return, and somewhere a body that prints them. And the reason I cannot use this to help that family is that it points outward, and outward is a place where a clerk from a district gallery with a headache cannot go and be believed."
+"And the other thing." Marek put two fingers on the form. "This is not a person. I have been waiting six days for a person. There is no person in this. There is a run, and a form, and a quarterly return, and somewhere a body that prints them. And the reason I cannot use this to help that family is that it points outward, and outward is a place where a clerk from a district gallery with a headache cannot go and be believed."
 
 "Then file it," Tamsin said. "Point and all. File the form itself as an exhibit and let the thing that points outward be somebody else's problem for a month."
 
@@ -198,7 +200,7 @@ He said, out loud, in front of a constable and a criminal and a roll-keeper, the
 
 ---
 
-The arrest happened at eleven, and Dunnet did it in one sentence and did it well.
+The arrest happened at the sixth hour, and Dunnet did it in one sentence and did it well.
 
 "Corvin Dray, I hold a joint order of the Mosswake Roll Court and the Chancery district of Auremar, made on the seventeenth day of this month on the matter of the Venn and Dunn files, and I take you now to the district house. You may have your coat. You will be searched. Your paper stays here and it is copied and it is sealed and a copy is left with your people at the addresses on the bench outside."
 
@@ -222,25 +224,35 @@ Dray went out between the constable and the door. He went out the way he had com
 
 The hearing room had one chair in it that was not for the court. Marek asked for it to be emptied, and the constable emptied it, and Marek sat down in it and put the form on the table in front of him and wrote.
 
-The request was nine paragraphs. He wrote it by hand, because the Chancery's practice was that a formal request to audit a file was made by hand and signed, and a hand-signed request could be refused by a person, and a typed one could only be refused by a rule that had to be written down.
+The request was nine paragraphs, and it was nine because nine was the number it took to say everything he wanted and nothing he did not want. He wrote it by hand, because the Chancery's practice was that a formal request to audit a file was made by hand and signed, and a hand-signed request could be refused by a person, and a typed one could only be refused by a rule that had to be written down.
 
-The first paragraph named the file: the Venn packet, lower field, Reed Cut, seven-year water-and-field instrument, second month, fourth year, source leaf and witness copy, the filed correction of the eighth month, the district water office's memorandum, the ruling of the twelfth, and the exhibit as sealed.
+The first two were the file, by name and by number: the Venn packet, the source leaf and the witness copy, the correction of the eighth month, the water office's memorandum, the ruling of the twelfth, the exhibit as sealed. Then the copyist who had made the comparison, and the receipt number of the Dunn summary, and the date on the register, because a request that cannot be answered by a person cannot be answered at all.
 
-The second named the copyist and the record of her making the comparison, and the receipt number of the Dunn summary, and the date on the register.
+The third was the ledger. Ninety-one leaves, six columns, three hundred and six lines, and the two provincial entries.
 
-The third named the broker's ledger, its ninety-one leaves, its six columns, its three hundred and six lines, and the two provincial entries at Glasswater and Emberwatch, and it asked the Chancery to inquire into the sale of copied witness marks as a practice and not only as an offence.
+He put the reed down at that point, and asked Tamsin the thing he had been putting off asking since the yard in Candlewright Lane.
 
-The fourth named the form — *Continuity Filings, Flood Seasons, Categorisation*, series as on the seal, print run as at the foot — and asked the Chancery to say what it is, who issues it, to whom, on what authority, and since when.
+"If I name them, it is an accusation against two districts I have never stood in, on the word of a price list a man wrote for himself and got copied by a woman who is now sitting in a cell. If I do not name them, this is a request about one lane and one family, and it is answered in six weeks."
 
-The fifth asked for the preservation of source files in every district that had filed a continuity correction under any form of that series, or of a similar series, for twenty years back, pending a decision on scope.
+"You did not have that ledger copied to be careful with it," Tamsin said.
 
-The sixth named the district water office, the Notaries' Table, the Reed Cut gate, and the Mosswake Roll Court, and asked that no source leaf in any of them be returned, re-filed, corrected, or re-categorised pending the Chancery's answer.
+"No."
 
-The seventh named the eleven people on the bench at Candlewright Lane and the two witnesses who had agreed to give evidence, and asked for protection for them, and specified what protection meant: no seizure of their papers, no attendance at a broker's office without a court officer, and no exclusion from a hearing.
+"Then name them, and name the hand you copied it from. You have spent six days telling a lane that this is not one household. Do not make one concession for four hundred miles."
 
-The eighth stated what he was not asking for. He did not ask for the Venn file to be reopened; it had been heard. He did not ask for the correction to be declared void; the court had dealt with it. He asked whether the same four words were in other files, and who else was selling the mark.
+"They will be the first two things somebody in Examinations throws out."
 
-The ninth was the request proper: that the Chancery examine whether a filed and accepted continuation may be copied into a summary and re-accepted as a precedent in another household's file, and if so by what authority, and if not, by what process it is to be stopped, and if the stopping is beyond the Chancery's power, then to say so in writing and to say whose power it is.
+"They may be. And if they are, they are the first two things any court has ever had to look at, and the throwing out will be in writing with a name at the bottom of it, which is the whole of what you have taught yourself to ask for this month." She was not looking at him. "And if you leave them out, then the two women in those files are the two women you did not name, and you will spend the rest of your life being a man who told a widow on a step that nothing further in this file would touch her."
+
+He picked the reed up.
+
+So the third paragraph asked the Chancery to inquire into the sale of copied witness marks as a practice and not only as an offence, and named the two provincial entries in the fourth column as *Glasswater, spring* and *Emberwatch, second*, and named the hand they had been copied in, which was Tamsin Rook's, with the date, the room, and the eleven people on the bench who had watched her do it.
+
+Then the form, in full: *Continuity Filings, Flood Seasons, Categorisation*, series as on the seal, print run as at the foot, and five questions about it that all wanted the same answer, which was what it was, who issued it, to whom, on what authority, and since when. Then preservation, in the plainest language he could find, of every source file in every district that had filed a continuity correction under that series or a similar one, for twenty years back, pending a decision on scope. Then four offices by name, with a request that no source leaf in any of them be returned, re-filed, corrected, or re-categorised until the Chancery had answered. Then the eleven people on the bench at Candlewright Lane and the two who had agreed to give evidence, and a definition of protection, because the bare word would not carry: no seizure of their papers, no attendance at a broker's office without a court officer, and no exclusion from a hearing.
+
+The eighth paragraph was the one he had most trouble with and the one he wrote twice, and it was the paragraph that said what he was not asking for. He did not ask for the Venn file to be reopened; it had been heard. He did not ask for the correction to be declared void; the court had dealt with it. He asked whether the same four words were in other files, and who else was selling the mark, and he put in that paragraph, in terms, that nothing in the request asked any court to turn a family out of a house before the fourth month.
+
+The ninth was the request proper, and it was the only paragraph he read aloud twice: that the Chancery examine whether a filed and accepted continuation may be copied into a summary and re-accepted as a precedent in another household's file, and if so by what authority, and if not, by what process it is to be stopped, and if the stopping is beyond the Chancery's own power, then to say so in writing, and to say whose power it is.
 
 He signed it, and dated it the eighteenth, and did not write *yours obediently* or anything like it, because he was not asking a favour.
 
@@ -274,7 +286,7 @@ The young man wrote it on Tamsin's copy of the request, in ink, in the middle of
 
 ---
 
-They came out of the Chancery at four in the afternoon into a city that had gone on being a city.
+They came out of the Chancery at seven in the evening into a city that had gone on being a city.
 
 Marek had a stamped request in his hand and a copied ledger in a case under Tamsin's arm and a head that had been going for six days, and the ache had settled low and stayed, and there was a taste behind his teeth that no amount of water had touched.
 
@@ -284,7 +296,7 @@ Marek had a stamped request in his hand and a copied ledger in a case under Tams
 
 "Possibly the whole thing, and the four offices never told, and the form never named."
 
-"Possibly." He stopped walking at the corner of Candlewright Lane, where the chandler's window was still lit, and where the eleven people had gone home to eleven separate kitchens with paper of their own that would still be their own in the morning. "Then we do the slow part. Which is: everybody in this story goes home tonight and tells somebody, and the somebody is in a different lane, and there is no form for that, and it is slower than a quarterly return and it is the only thing that has ever actually worked."
+"Possibly." He stopped walking at the corner of Candlewright Lane, where the chandler's window was still lit, and where the eleven people had gone home to eleven separate kitchens with paper of their own that would still be their own in the morning. "Then we do the slow part. Which is: everybody who is holding a piece of this goes home tonight and tells somebody, and the somebody is in a different lane, and there is no form for that, and it is slower than a quarterly return and it is the only thing that has ever actually worked."
 
 Tamsin shifted the case.
 
@@ -298,15 +310,15 @@ Tamsin shifted the case.
 
 They got as far as the quay. The customs clerk was still on the steps, packing his book away for the night, and he recognized Marek and lifted a hand.
 
-"Clerk." He waited until Marek was standing beside him. "One thing and then I'll let you go. The thing I said on the quay this morning. The low field. He says the holding's clear." The man closed his book. "That's all. I'm not asking you for anything. People in my trade ask for things. I'm not asking."
+"Clerk." He waited until Marek was standing beside him. "One thing and then I'll let you go. The thing I said on the quay yesterday. The low field. He says the holding's clear." The man closed his book. "That's all. I'm not asking you for anything. People in my trade ask for things. I'm not asking."
 
 Marek stood on the quay steps in the wind with the stamped request in his hand and the ash taste at the back of his throat.
 
 He wanted to say: *there is more in this file that will touch your wife's brother's boy, and one day somebody in a hurry may ask him to sign a paper that makes him answer for a dead man's work, and I cannot stop that from this building.*
 
-He wanted to say: *I have a form with a run number on it that points four hundred miles from here, and I have been told by two people this week that I am not to put two facts in the same sentence, and I have obeyed, and obeying is going to be the thing that costs me most in this.*
+He wanted to say: *I have a form with a run number on it that points four hundred miles from here, and I have been told by one person, twice, and in a levee in the dark, that I am not to put two facts in the same sentence, and I have obeyed, and obeying is going to be the thing that costs me most in this.*
 
-He wanted to say: *I read a page on the twelfth and it read me back, and there are three lines in a book in a copyist's hand that I could not have written, and one of them says whoever stands in that field after everyone I love is dead, and I have not told my sister any of that.*
+He wanted to say: *I read a page on the twelfth and it has not let go of me since, and there are three lines in a book in a copyist's hand that I could not have written, and one of them says whoever stands in that field after everyone I love is dead, and I have not told my sister any of that.*
 
 What he said, because it was the only one of the four that was true in the part he was permitted to say, was:
 
@@ -316,10 +328,10 @@ The customs clerk looked at him for a moment.
 
 "That's more than I've had off the court in eleven years," he said, and went down to his shed.
 
-Marek stood on the steps a while longer. Somewhere behind him, four floors up in a building he had never been inside, nine hundred leaves of a broker's book were being sealed into a sleeve in a room above a chandler's shop, and somewhere behind that, on a file in an office called Examinations that he had no right to enter, nine paragraphs of his own handwriting were lying in a drawer with a number written on them by a young man who had been careful, and a form with a run on it was going to keep being printed, and he had not found anybody.
+Marek stood on the steps a while longer. Somewhere behind him, four floors up in a building he had never been inside, ninety-one leaves of a broker's book and ninety-one leaves of a copyist's were being sealed into a sleeve in a room above a chandler's shop, and somewhere behind that, on a file in an office called Examinations that he had no right to enter, nine paragraphs of his own handwriting were lying in a drawer with a number written on them by a young man who had been careful, and a form with a run on it was going to keep being printed, and he had not found anybody.
 
 He had found a mark sold for four shillings. He had found a warehouse of paper that did not know whose name was on the paper. And he had a woman on the quay, a stranger, who would go home and tell a person on a low field at Reed Cut to make a broker read a paper out loud.
 
-That was the whole of the ninth day. It was not a victory. It was three hundred and six lines of a price list, one arrest, one stamped request, and a sentence in a widow's coat pocket that had started as a rule for four hundred people and had already found the first person it could be done to.
+That was the whole of the eighteenth. It was not a victory. It was three hundred and six lines of a price list, one arrest, one stamped request, and a sentence in a widow's coat pocket that had been a letter to about sixty households and had already found the first person it could be done to.
 
 Marek went to find his tea, and could not taste the tea, and the headache started again somewhere behind his left eye about a quarter of an hour after the sun went down, and it stayed.

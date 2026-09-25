@@ -64,7 +64,7 @@ So Marek sat on the step, and Tamsin sat on the step beside him, and Mara stood 
 
 Mara went into the house and came back with a board the size of two hands, waxed green, and set it on her knee, and did not open it.
 
-"He signed once," she said. "In the second year. He went down to the water office with a man from the district and the keeper came up from the gate because the keeper always comes up when there's a sign to make. Seven years, it was. Water and field. The gate and the navigation were hers. The ditching and the field-side were his. That was the whole of it and he was pleased about it, do you understand me, pleased, because a man who is told which work is his will do that work for seven years and not argue. The winter-seed repayment was his. It came out of his harvest and it was paid out of his estate at the end of the term. Not mine. Not hers." She put one finger on the board without opening it. "I was the witness. I stood there and I heard it and I gave my name and I made my mark at the bottom, which is where a witness marks, not at the side."
+"He signed once," she said. "In the second month of the year four years back. He went down to the water office with a man from the district and the keeper came up from the gate because the keeper always comes up when there's a sign to make. Seven years, it was. Water and field. The gate and the navigation were hers. The ditching and the field-side were his. That was the whole of it and he was pleased about it, do you understand me, pleased, because a man who is told which work is his will do that work for seven years and not argue. The winter-seed repayment was his. It came out of his harvest and it was paid out of his estate at the end of the term. Not mine. Not hers." She put one finger on the board without opening it. "I was the witness. I stood there and I heard it and I gave my name and I made my mark at the bottom, which is where a witness marks, not at the side."
 
 "And the continuation. The stipulation that came later."
 
@@ -128,7 +128,7 @@ She was not large. That was the first thing. People came to the Reed Cut gate ex
 
 Sivra Oris looked at him for a moment, and then down at the crew, and then she spoke in the same voice she had used to him, so that everyone on the platform heard her, which he understood later had been done on purpose and would cost her something to have done.
 
-"The gate and the navigation are mine. The ditching and the field-side of the lower field were Aldren Venn's from the second year of the term to the day he died, and they were good work, and I would have been glad to have had them kept by the man who knew how." The iron took up under her claw as she shifted. "I will not be given his work. I have nine gates and two hundred yards of bank and I do not need a dead man's ditching handed to me in a sentence written by somebody in a warm room. And equally I will not have my gate put in his debt, because that is the other half of the trick and it is the half that is actually done."
+"The gate and the navigation are mine. The ditching and the field-side of the lower field were Aldren Venn's from the day he signed that paper, to the day he died, and they were good work, and I would have been glad to have had them kept by the man who knew how." The iron took up under her claw as she shifted. "I will not be given his work. I have nine gates and two hundred yards of bank and I do not need a dead man's ditching handed to me in a sentence written by somebody in a warm room. And equally I will not have my gate put in his debt, because that is the other half of the trick and it is the half that is actually done."
 
 "So you refuse both readings."
 
@@ -140,7 +140,7 @@ Sivra Oris looked at him for a moment, and then down at the crew, and then she s
 
 He wrote it. When he had finished he turned the page round and let Tavi Venn read it, which she did from the top to the bottom without hurrying, and then she said, "You left out that the reset man put his thumb in the frame," and he went back and put it in, and she nodded once and went back to her furrow.
 
-At the top of the platform Tavi Venn's face was doing the thing that faces do when they have been given a piece of good news they were not expecting and have not yet decided whether to trust.
+Down on the bank Tavi Venn's face was doing the thing that faces do when they have been given a piece of good news they were not expecting and have not yet decided whether to trust.
 
 At the top of the landing where the path met the bank, Tamsin was waiting with her case open on a low wall, and she had ink on the side of her right hand where she always got it when she was working fast.
 

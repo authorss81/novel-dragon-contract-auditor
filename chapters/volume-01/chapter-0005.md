@@ -56,7 +56,7 @@ He laughed, once, without much in it. "A clause that says a worker leaving in go
 
 The door at the end of the workroom opened, and Marek Kest came in.
 
-Nell had not told him she was reading it tonight. She had told her foreman, and she had asked Tamsin Rook to come, and Tamsin had written back four words: *I will be there. Bring it.* She had deliberately not written to her brother, because her brother was a clerk in a city building, and because he had that thing he did, and because she had spent two years watching him decide what a person could safely know.
+Nell had not told him she was reading it tonight. She had told her foreman, and she had asked Tamsin Rook to come, and Tamsin had written back five words: *I will be there. Bring it.* She had deliberately not written to her brother, because her brother was a clerk in a city building, and because he had that thing he did, and because she had spent two years watching him decide what a person could safely know.
 
 He came in with Tamsin and he had a satchel, and he looked at the table, and he looked at the schedule, and Nell saw the exact moment he decided to remove the document before she could read it.
 
@@ -132,7 +132,7 @@ Marek told her. He told her properly, in order, without softening it, and it too
 
 He did not tell her about the Kest file. She noticed that he did not tell her about it.
 
-Nell put the four lines down on the table, squared them against the edge of the bench, and looked at them for a while, and then said: "You had this since the first week of the eighth month."
+Nell put the four lines down on the table, squared them against the edge of the bench, and looked at them for a while, and then said: "You had this since the seventh."
 
 "Yes."
 
@@ -140,7 +140,7 @@ Nell put the four lines down on the table, squared them against the edge of the 
 
 "Yes."
 
-"You let me stand here for three weeks reading a schedule with *the next household worker* in it, and you had a piece of paper in your bag that says the same thing with different words, and you decided that I would be safer not knowing."
+"You let me stand here for three days reading a schedule with *the next household worker* in it, and you had a piece of paper in your bag that says the same thing with different words, and you decided that I would be safer not knowing."
 
 "I decided—"
 
@@ -198,10 +198,10 @@ Nell had been standing quite still. Now she put her hand flat on the wage schedu
 
 Marek got up. He did not say the thing he wanted to say, which was that he had been afraid of exactly this, and that being afraid of it had made it certain.
 
-At the door he stopped and said, to Tamsin, low enough that only she heard it: "The twelfth is the inspection and the fourteenth is the notice. There is a hold on the field now that I did not ask for and cannot lift, and it is the only thing standing between that girl and a notice. If I take it to a hearing, the hold comes off and the notice issues. If I leave it, the field freezes and the Venns lose the harvest while everybody waits to see what I can prove."
+At the door he stopped and said, to Tamsin, low enough that only she heard it: "The eleventh is the inspection and the fourteenth is the notice. There is a hold on the field now that I did not ask for and cannot lift, and it is the only thing standing between that girl and a notice. If I take it to a hearing, the hold comes off and the notice issues. If I leave it, the field freezes and the Venns lose the harvest while everybody waits to see what I can prove."
 
 Tamsin did not look at him. "Then that is a decision with a name and a date on it, and not a piece of paper in a bag," she said. "Say it where Nell can hear it. She has just told you she is not a substitute for a family secret, and she meant it about the dye-house, and she will mean it about the field."
 
 Marek stood in the doorway of his sister's workroom with the lamp behind him and understood, with the clarity that comes at the end of a very long day, that he had lost the only advantage he had ever had, which was the ability to be the one person in the room who knew.
 
-The vat crews had gone quiet. In the yard, the drying racks stood in rows like a fence, and above them the slot windows had gone black, and in Auremar, eight miles off across the flat, a hold with a First Seat reference on it was sitting in a register waiting for the morning.
+The vat crews had gone quiet. In the yard, the drying racks stood in rows like a fence, and above them the slot windows had gone black, and in Auremar, eight miles off across the flat, a hold with a sealed reference and no office name on it was sitting in a register waiting for the morning.

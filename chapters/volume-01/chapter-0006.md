@@ -6,7 +6,7 @@ Marek had slept four hours in a cot above the district register and had not slep
 
 It had saved the field. That was the first thing, and everybody said it the same way, and none of them said it happily.
 
-The hold came down from the provincial clerk's office on the eighth, sealed, with a First Seat administrative reference, and it said the Venn file was not to be enforced, removed, or assigned pending further notice. So no creditor could take the standing barley. So the girl could not be made a debtor by seizure of the ground she stood on. So for four days the Venn lower field was, in the plain and legally operative sense, untouchable, and the district registrar had told Mara Venn so in front of two witnesses and had then told her what else it meant.
+The hold came down from the provincial clerk's office on the ninth, sealed, on a reference that carried no office name, and it said the Venn file was not to be enforced, removed, or assigned pending further notice. So no creditor could take the standing barley. So the girl could not be made a debtor by seizure of the ground she stood on. So for two days the Venn lower field was, in the plain and legally operative sense, untouchable, and the district registrar had told Mara Venn so in front of two witnesses and had then told her what else it meant.
 
 "It means you can't sell the early cut," the registrar had said. "You can't assign the crop forward to a seed factor. You can't put the ground up for winter work-share. Anything that moves the field or what's on it is an assignment, and the hold forbids it."
 
@@ -16,9 +16,9 @@ The registrar had not had an answer to that, and had said so, and had been hones
 
 The second thing the hold had done was this: the ditching was not being done.
 
-Aldren Venn's duty, as the original instrument had it, was the field-side upkeep, and Aldren was dead, and no one had accepted it, and so on the seventh morning the ditch on the western side of the lower field was three feet into a bank that was due to be cut by the water office crew tomorrow, and no one would cut it, because cutting it would be an act of maintenance by a person who had not accepted the duty, and everyone in the lane knew the sentence, and nobody wanted to be the first one to be an example.
+Aldren Venn's duty, as the original instrument had it, was the field-side upkeep, and Aldren was dead, and no one had accepted it, and so by the seventh morning the ditch on the western side of the lower field was three feet into a bank that the water office crew was due to cut on the eleventh, which is the morning of the gate inspection, and nobody would touch it, because touching it would be an act of maintenance by a person who had not accepted the duty, and everyone in the lane knew the sentence, and nobody wanted to be the first one to be an example.
 
-Tavi Venn had been cutting it anyway. Alone, at first light, for three days, with a spade and a bar, and getting the ground out of it a foot at a time, and Marek had watched her do it for an hour on the second day and had not once been able to make himself say *stop*, because what would he have said? Stop, because if you are seen maintaining the field-side then you are the field-side maintainer, and if you are the field-side maintainer then you are assuming a continuing duty, and the original instrument required a signature to assume it, and if she signed then the thing Marek was trying to beat was beaten anyway, by his own client's hand, in a lane, at dawn, for free.
+Tavi Venn had been cutting it anyway. At first light, and in any weather, since the fourth month, and for the last three days without once being told to stop, with a spade and a bar, and getting the ground out of it a foot at a time, and Marek had watched her do it for an hour on the second day and had not once been able to make himself say *stop*, because what would he have said? Stop, because if you are seen maintaining the field-side then you are the field-side maintainer, and if you are the field-side maintainer then you are assuming a continuing duty, and the original instrument required a signature to assume it, and if she signed then the thing Marek was trying to beat was beaten anyway, by his own client's hand, in a lane, at dawn, for free.
 
 "You cannot make her not do it," Tamsin said, coming down the bank with her case. "You can only stop her being the only one doing it."
 
@@ -60,7 +60,7 @@ She was perhaps fifty. She had a river-court look: boots that had been resoled m
 
 Rell turned her head.
 
-"Yes," she said. "I can. I have the power and I have used it eleven times in nine years, and it is the reason this district feeds itself in a bad year. I would do it tonight if you asked me to, and here is exactly what it would be. I would order that the standing crop of the Venn lower field be preserved and not assigned, and that the district issue seed against it, and that no creditor, tenant, or surety may take the crop or the ground until this court sits again. And no party would be heard. You would not be heard. The widow would not be heard. The girl would not be heard. And the order would be founded on the corrected file, because that is the file, and because I have held the corrected precedent as ordinary for five months and I have no evidence that it is bad except a clerk's comparison, and I would rather feed four people on the strength of a bad instrument than feed nobody."
+"Yes," she said. "I can. I have the power and I have used it eleven times in nine years, and it is the reason this district feeds itself in a bad year. I would do it tonight if you asked me to, and here is exactly what it would be. I would order that the standing crop of the Venn lower field be preserved and not assigned, and that the district issue seed against it, and that no creditor, tenant, or surety may take the crop or the ground until this court sits again. And no party would be heard. You would not be heard. The widow would not be heard. The girl would not be heard. And the order would be founded on the corrected file, because that is the file, and because I have held the corrected precedent as ordinary for two days and I have no evidence that it is bad except a clerk's comparison, and I would rather feed four people on the strength of a bad instrument than feed nobody."
 
 "You'd be deciding about their field without them."
 
@@ -78,11 +78,11 @@ Tamsin was at the bottom of the stair with her case open on the stone, and Marek
 
 He gave her the file. Not the packet — the file, the whole working file, opened out on the stair, in the wind, with the clerk from Rell's doorframe looking down at them and not saying anything because a clerk standing near a magistrate does not read papers.
 
-"This is the comparison. This is the correction, and the reverse of the correction, which has a certificate impression on it and a fee entry, and the fee entry is a payment authorized to a certifier at Reed Cut and Auremar named Dray. That is a broker, not a court. This is the memorandum your Sarn entered, and this is her refusal, with the two inches, and this is the index of the received tray, and this is your own copy of the Dunn summary, which is yours and not mine, and I am not putting it in my satchel, I am showing it to you. This is the hold." He put it down last. "And this is the notice of the hearing, once Rell lists it, and I will not have the list made out until you have read every page of this."
+"This is the comparison. This is the correction, and the reverse of the correction, which you have already seen at the Table rail, which has a certificate impression on it and a fee entry, and the fee entry is a payment authorized to a certifier at Reed Cut and Auremar named Dray. That is a broker, not a court. This is the memorandum your Sarn entered, and this is her refusal, with the two inches, and this is the index of the received tray, and this is your own copy of the Dunn summary, which is yours and not mine, and I am not putting it in my satchel, I am showing it to you. This is the hold." He put it down last. "And this is the notice of the hearing, once Rell lists it, and I will not have the list made out until you have read every page of this."
 
 Tamsin read for a long time, on a stair, in the wind, with the light going.
 
-"Eight pages," she said. "I have four of them in my own books and you have had them all in your bag since the fourth month."
+"Eight pages," she said. "I have four of them in my own books and you have had them all in your bag since the seventh."
 
 "Yes."
 
@@ -112,7 +112,7 @@ Mara was standing in the doorway with the dish cloth again. "You want us to say 
 
 "Why would you do that?"
 
-"Because it is your field and your winter and you have both been in a room with a man reading you a document you did not ask for, and I have been doing that to everyone I care about since the first week of the eighth month, and it stops here."
+"Because it is your field and your winter and you have both been in a room with a man reading you a document you did not ask for, and I have been doing that to everyone I care about since the seventh, and it stops here."
 
 The wind came round the corner of the house. Tavi Venn looked at her mother, and her mother looked at the field, and neither of them looked at Marek.
 
@@ -122,11 +122,41 @@ The wind came round the corner of the house. Tavi Venn looked at her mother, and
 
 "And I want the Fenn woman. The guild examiner. Odile Fenn, she's at the court on Thursdays, and if a canal job is going to be counted against my name I want the person who counts it in the room."
 
+"And one more thing, and it has been at the top of my list since Michaelmas, so I am saying it last because it is the least dramatic and the only one that matters." She did not put the bar down. "The reset. The gate reset, and the bank work on the west side. Ask the water office for it. Not us. Ask them in writing, with the office's own name on it, and let it say that the household is not to do the field-side for the order. Because I have cut that ditch since the fourth month and I am going to go on cutting it, and if your sentence says a person has to sign for this work, then the first thing anybody in this lane will say is that Tavi Venn has been doing it, so Tavi Venn has taken it, so it is hers. And I would rather it was the water office's in a court than mine in a lane."
+
+Nobody said anything for a moment.
+
+"That is the whole case," Marek said.
+
+"That is one sentence of it," said Tavi. "Write it down."
+
 Marek wrote it. He wrote it exactly as she said it, with the day and the words and the fact that she had asked for a copy, and Tavi read it back over his shoulder and made him correct one word, which was fine.
 
 Mara spoke last, and what she said was: "I'll say about the paper on the field. I'll say the date it came, and that it was in a young man's hand, and I refused it. I'll say it twice and I'll say it the same way both times, because I have learned that a thing said two ways is a thing the other side can choose between."
 
 "Two ways is what they do with a witness," Marek said. "One way, twice, is what stops them."
+
+---
+
+The clerk's window was still lit when Marek went back in, and Sarn was still at it, which he had not expected, because the window shuts at three and it was well past it.
+
+"You listed it," Marek said. "Then I want the source leaf."
+
+"You want the what."
+
+"The original. The Venn leaf, out of the cabinet at the Notaries' Table in Auremar. The Table has declined to certify a comparison of it, and on the ninth I left a written request on that Table's desk, and it is lying unsigned on a tray this minute. I am telling you that in front of this window because in two days I would like to be able to say that I told you."
+
+Sarn looked at him for a moment, and then she took a sheet of the court's own out of a shallow drawer: the custody slip, the form a district court used when it wanted a leaf out of somebody else's cabinet, with spaces at the head for the applicant and at the foot for the name and office of the clerk who received it.
+
+"I have been refused by that Table three times in nine years," she said. "Twice it was because somebody asked me for a copy instead of a leaf. Once it was because the person who asked was not on the docket. You are on the docket, and the matter is listed for the twelfth, and the instrument is the matter. So I am sending my own rider to Auremar tonight on this court's direction, and I am putting the applicant's name at the head of it, because I am not spending nine years finding out afterwards that a provincial office could not tell who had asked."
+
+"You do not have to do this."
+
+"I have to do this," said Sarn, "because you are going to lose this in front of somebody, and I would rather the paper that saved it were in your name than in a coat." She filled the slip in without hurrying, and signed the foot of it herself, and then did not hand it to him. "Rider goes at the seventh hour. It will be on the river by dark and at the Table by morning, and it comes back on the same boat. I will hold whatever comes back in this building from the moment it lands, and I will not produce it one hour before the twelfth, and not one minute before the hour, because a magistrate wants the instrument in front of her before she hears the district's paper, and because a leaf carried in at the door is a leaf the room looks at instead of the person who asked for it."
+
+"And if the Table says no?"
+
+"Then I will have a paper with a date and an office on it, and neither of them will be yours."
 
 ---
 
@@ -148,7 +178,7 @@ Marek stood in the dark by the Reed Cut gate and thought about the architecture.
 
 "That is asking me to be worse at my own case," he said.
 
-"It is asking you to be better at theirs," Tamsin said. "The case will still be there in the ninth month. They will not."
+"It is asking you to be better at theirs," Tamsin said. "The case will still be there in the spring. They will not."
 
 "I promise."
 
@@ -162,10 +192,10 @@ Marek stood in the dark by the Reed Cut gate and thought about the architecture.
 
 "Then let somebody else hold one," Tamsin said.
 
-At the eighth hour the next morning the witness order for the twelfth went up on the Mosswake court board, printed on the court's own sheet, with the seal of the clerk's window pressed into the corner of it, and Marek came down the terrace at half past six and read it standing up, the way a man reads a thing he already knows, and went in to find Tamsin.
+On the eleventh, at the eighth hour, the witness order for the twelfth went up on the Mosswake court board, printed on the court's own sheet, with the seal of the clerk's window pressed into the corner of it, and Marek came down the terrace at half past six and read it standing up, the way a man reads a thing he already knows, and went in to find Tamsin.
 
 "You have not read the order," she said.
 
 "I have read the order."
 
-"You read the top of it and then you read the bottom of it and then you stood there." She was standing with her arms folded and her copy case open on the clerk's counter and there was something on her face Marek had only seen twice before, both times in a copying room, both times about a page. "The witness order was drawn on the ninth, in the morning, in this building, and it is dated the ninth, and it is sealed. It was set with the certificate broker's man first, ahead of the widow, ahead of the girl, ahead of the keeper, ahead of the district. I was in the room at eleven and the bench was at eleven and the copyist's window was at eleven and there was no one else in this building but the three of us and a lamp-trimmer. And Marek, the first name on that order is not a person. It is a certificate."
+"You read the top of it and then you read the bottom of it and then you stood there." She was standing with her arms folded and her copy case open on the clerk's counter and there was something on her face Marek had only seen twice before, both times in a copying room, both times about a page. "The witness order was drawn on the ninth, in the morning, in this building, and it is dated the ninth, and it is sealed. It was set with the certificate broker's man first, ahead of the widow, ahead of the girl, ahead of the keeper, ahead of the district. I was in the copying room at eleven and the bench was at eleven and the copyist's window was at eleven, and I know who was in that room because I counted them, and there were three, and one of them was asleep over the relief rolls. And Marek, the first name on that order is not a person. It is a certificate."
