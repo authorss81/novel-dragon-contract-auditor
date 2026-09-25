@@ -66,6 +66,48 @@ Each reading creates **counterpressure**. A shallow reading leaves fatigue, an a
 
 The Roll-Answer appears at most once in an ordinary chapter and is never used as a status screen. Its limitation is the point: Marek must still gather witnesses, build a jurisdiction, and make a decision.
 
+## Reading Limits That Matter in Court
+
+1. **A reading can be accurate and still wrong.** It reports the present legal effect of the record in front of the auditor. If the record being read is itself the altered copy, the three lines are perfectly correct about a false document. Chapters 1–10 of Volume 1 are built on this rule: the comparison copy disagrees with the summary, and the summary is what the Roll-Answer later reports.
+2. **A reading reports the record, not the world.** It cannot show what a dead witness remembered, what a family believes, what a clerk feared, or whether a person will consent. A court still needs testimony, a witness, and a signature.
+3. **A reading is not evidence until the record is admitted.** Marek must place the leaf in front of a recognized body, show its custody, and let the affected parties hear it. A private reading is a private fact.
+4. **Two readings of the same record can differ** when the record itself is unstable: an unregistered correction can be reported by the summary and denied by the leaf. When that happens, the disagreement is the case, not an error to be explained away.
+5. **Depth is bought with the body.** Deeper readings cost more, take longer to recover from, and leave a mark that other people can see and use against him.
+
+## Worked Examples
+
+These are the reference patterns for later volumes. Each one shows what changed, what it cost, who benefited, and how it fails. They are illustrative mechanics, not fixed plot events; any name or detail here may be replaced when a volume outline claims the ground.
+
+### Example 1: the seed-barn lease that named a whole household
+
+A widowed seed keeper dies holding a plain instrument that lets her keep a shared drying floor "for the term and thereafter with the household." No continuation names an heir. A local clerk treats "the household" as a body that survives her, so the floor is offered to the district water office instead of her daughter.
+
+An authorized audit produces a shallow reading:
+
+> Named: the household of A. Serrat.  
+> Promised: the drying floor is held for the term, and thereafter with the household.  
+> Carried after death: the record carries a right of occupation to whoever is recorded as the household, which the office has entered as the district.
+
+What changed: the clause stops functioning as a grant and reappears as a defect the court can name. What it cost: an ash taste, two days of headaches, and a temporary inability to deny a duty Marek had privately promised to a witness. Who benefited: the district water office, which had been quoting the instrument in four other seed-barn disputes. How it fails: if the auditor reads only the office's certified summary, the reading reports the district as the household and is technically correct. The seam lies in a different record, so plain reading, witness order, and custody must be rebuilt before the reading can be used.
+
+### Example 2: the exception that failed because a party was excluded
+
+A guild treats an injured apprentice's tool debt as inheritable. Marek writes a valid exception moving the debt to himself so the apprentice can leave the craft, and files it without notifying the guild's surety, arguing that telling the surety first would let the guild seize the shop's tools.
+
+The exception is formally recorded but brittle. When challenged, it fails, because the affected party was not heard. The apprentice is left worse off: the guild treats the failed exception as an admission that the debt was real, and the surety's claim survives.
+
+What changed: nothing durable, and the failure itself becomes evidence. What it cost: Marek's reputation, a month of recovery, and the loss of a favourable settlement he could have offered. Who benefited: the guild, briefly. How it fails: the rule is in the stage itself, not in the paperwork. The fix is to hear the party and take the consequence in front of the people who can object.
+
+### Example 3: withdrawal of recognition as the cheaper remedy
+
+A border settlement holds a dragon water guarantee that also claims the labor of any child born inside the term. The community cannot afford to refuse the guarantee without losing its wells, so they do the opposite: the local assembly withdraws recognition from the guarantee, the neighboring province recognizes it, and the settlement trades recognition for a separate, terminable water agreement.
+
+No magic is used and no clause is destroyed. What changed: the guarantee's force in that jurisdiction, and therefore the price of refusing it. What it cost: two years of bargaining, a bad harvest negotiated in advance, and the settlement's political isolation. Who benefited: the children who will not be born into the labor succession. How it fails: recognition is a jurisdictional act, not a moral verdict. A party that still recognizes the guarantee can keep enforcing it, and the settlement's other disputes become harder to settle.
+
+### Example 4: what a dragon's true name does and does not do
+
+A mixed warrant lets Marek ask one dragon notary, in a witnessed reading, what duty the notary's own seal carries. The answer binds the notary to a duty the reading named and creates the same duty in the auditor. It does not command the dragon, disclose what the dragon intends, or transfer any authority to Marek. Refusing to answer costs the notary nothing legally and costs the reading nothing procedurally, which is precisely why the reading has to be corroborated by material record before a court will act on it.
+
 ## Audit Stages
 
 The stages are earned through practice, study, failure, relationships, and decisions. A stage grants a new kind of question or change, not a larger body or automatic victory.

@@ -92,6 +92,16 @@ The planned final Covenant receives five human votes from **Mosswake, Greyfen, S
 
 The **Chancery of the Roll** employs copyists, notaries, auditors, examiners, and record keepers. Its work is essential and often dull. A clerk can determine whether a person may inherit a shop, a child may leave an apprenticeship, or a widow may remarry without surrendering a deed. The same clerk may also be pressured to copy a correction that has no clear witness.
 
+Marek works on the **Inheritance Desk** of the Notaries' Table, in the third gallery of the Roll Hall. A case arrives as a **packet**: the source leaf, the witness copy, any filed correction, and a clerk's **summary** that compresses them into a few lines for certification. Compressing is normal practice and is where alterations survive, because a summary is what later files copy from. Source leaves are held in a locked cabinet in the same gallery, and a junior clerk cannot open it without a supervisor's written authorization. That single rule is what makes a clerk's ordinary job capable of becoming a criminal act, and it is why Marek's first problem is a request for a key rather than a spell.
+
+### Where People Actually Work
+
+- **Auremar Roll Hall:** three galleries of desks, the locked source-leaf cabinet, the reading steps where a ruling is read aloud, and the copyists' alcove where Tamsin works.
+- **The Mosswake Roll Court:** a low river courtroom on the flood terrace with a public bench, a clerk's window, and a door that opens onto the embankment. Hearings there are interrupted by weather and by people who need to leave to close a sluice.
+- **The Reed Cut district water office:** a low building that issues flood memoranda, gate schedules, and inspection dates for the channels feeding Mosswake.
+- **Public reading tables:** a trestle table and two stools set up in a market yard, a dye-house yard, or a seed barn so that a ruling can be read to the people it affects. These are ordinary furniture, not ceremony, and they are how a corrected record becomes usable.
+- **Temporary public stores:** copyists keep duplicates in dry rooms, guild strongboxes, kiln-side cabinets, and private kitchens, because a single Crown Kiln fire has already proved what centralized records cost.
+
 ### The Living Roll
 
 The **Living Roll** is the empire's distributed public record. It is copied at the Crown Kiln, provincial court houses, guild rooms, and local assemblies. It stores the explicit text of contracts, witnesses, seals, inheritance events, and later rulings. It does not contain a neutral truth about intention; it contains the version of the promise that the living legal system has accepted.

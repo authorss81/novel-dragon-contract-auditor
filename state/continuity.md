@@ -35,14 +35,25 @@ Bootstrap planning canon is established. No novel prose has been generated. Volu
 ## Volume 1 Case
 
 - Aldren Venn signed a fixed seven-year water-and-field instrument. Mara witnessed the original and did not sign a later continuation, correction, or inheritance stipulation.
-- The later correction substitutes “present holder” for the named signer and routes Aldren's winter-seed debt to the field's current occupant.
+- The later correction substitutes “the present holder” for the named signer and routes Aldren's winter-seed debt to the field's current occupant.
 - The original leaf, witness marks, ink, seal pressure, and filing sequence prove the correction was added later. Tamsin preserves a comparison copy.
 - The restored ruling clears Tavi's personal debt, preserves the field during the term, keeps Sivra Oris's gate and navigation duty, and requires a separate signed obligation for a successor.
 - The court's broad public-necessity sentence is applied to Orra and Nessa Dunn: “Where immediate public necessity requires a recorded continuation to prevent loss of food or shelter, the present holder of the burdened property may be joined as guarantor until full review.” The Dunn summary is the vehicle; the sentence supplies the authority that makes it operative. This is the Volume 1 mini-arc reversal and the first visible inheritance echo. The formal volume midpoint arrives in Chapters 19–25, when the sentence is traced to a higher administrative template.
+- The Venn instrument entered its fourth year when Aldren died, so three years and one flood season remain on the term. “For the fixed term” is therefore a real limit, not a formality.
+
+## Volume 1 Named Support Cast
+
+- Ivet Sarn, thirty-eight, Mosswake Roll Court clerk. Cautious, not concealing; releases the Venn source leaf under a recorded chain of custody and later testifies about the delay.
+- Ostyn Vare, forty-five, foreman at the Greyfen dye-house where Nell works. Honest about wages, afraid of losing the craft exemption over the exit clause.
+- Ruhl Dunnet, fifty-two, Auremar Chancery constable. Arrests only under a joint order and only after records are copied.
+- Hallis Dren, thirty, clerk of the Reed Cut district water office. Signed the flood memorandum that the later correction was filed under; not a conspirator.
+- Odile Fenn, thirty-four, Mosswake guild witness for canal work. Allies with Tavi's wish to be examined for work; wants apprentices able to leave a craft.
+- Ages fixed for Volume 1: Mara Venn forty-three, Tavi Venn seventeen, Orra Dunn thirty-six, Nessa Dunn fifteen.
 
 ## Current Characters and Power
 
 - Marek is at Stage 0 at the opening. His first unstable Seam-Sight and first Roll-Answer are earned by exercising the limited Venn audit authorized in Chapter 7 at the Chapter 8 rehearing; permission alone does not produce the reading. The first reading is shallow and leaves fatigue, counterpressure, and a temporary inability to lie about one named obligation. No counter-seal or Stage 2 ability appears in Volume 1.
+- A reading can be accurate and still wrong: it reports the present legal effect of the record being read, so an altered summary produces a correct answer about a false document. Volume 1 opens on exactly this gap.
 - Tamsin is a roll-keeper whose ordinary copying and memory preserve evidence; she is not a magical auditor and has independent professional judgment.
 - Nell is a dye-house worker who wants paid craft independence and refuses to be protected by concealment.
 - Pell is a mentor-shaped institutional antagonist, not the final enemy. Corvin is the first concrete criminal witness and remains accountable for his own crimes.

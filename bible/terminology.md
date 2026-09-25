@@ -13,6 +13,14 @@ This is the canonical vocabulary for planning and prose. Use the terms consisten
 - **First Seat:** The seat with the old authority to call a succession convocation. Seryn Oris holds it during the final succession crisis.
 - **House Oris:** The dragon House that holds the First Seat and much of the old fire-and-water authority.
 - **Chancery of the Roll:** The human civil institution that records contracts and legal events. “The Chancery” is the short form.
+- **Notaries' Table:** The Chancery division that certifies filed packets, holds the source-leaf cabinet, and is headed by Pell Vey.
+- **Inheritance Desk:** The Roll Hall desk where Marek works, responsible for inheritance packets and their summaries.
+- **Packet:** The bundle of source leaf, witness copy, filed corrections, and clerk's summary that travels as one case.
+- **Summary:** The compressed statement of a packet that later files copy from. A summary is evidence of what a clerk believed, not of what was signed.
+- **Source leaf:** The retained original page held in the locked cabinet. It cannot be taken from the gallery without a supervisor's written authorization.
+- **Mosswake Roll Court:** The provincial court on the Mosswake flood terrace, under Magistrate Leda Rell's administration.
+- **Reed Cut:** The channel and gate district where the Venn field sits and where the district water office issues flood memoranda.
+- **Public reading table:** A trestle table set up in a yard or workshop so a ruling can be read aloud to the people it affects.
 - **Living Roll:** The distributed public record of contracts, witnesses, seals, marriages, births, work, debt, and inheritance. It is incomplete and politically contested.
 - **Roll Hall:** The public reading and copying hall in Auremar.
 - **Roll Court:** A provincial human court that hears ordinary civil and inheritance disputes.
@@ -78,3 +86,16 @@ This is the canonical vocabulary for planning and prose. Use the terms consisten
 - Use **First Custodian** for the original human office, **Cinder proxy route** for Seryn's unlawful method of controlling it, and **Seryn Oris** for the person who seeks permanent control behind a proxy. Never imply that a dragon is eligible for the original office or call Seryn the clause itself.
 - Use **plain law** and **scale law** as overlapping categories. Most disputes are conflicts of jurisdiction or consequence, not a clean human-versus-dragon split.
 - A Roll-Answer display is at most three lines: **Named**, **Promised**, **Carried after death**. It never displays numbers, skills, experience, or an objective moral verdict.
+
+### How the Law Should Sound
+
+- Quote operative words **once, in full, in plain language**, and paraphrase them everywhere else. The reader should know exactly what was ruled without rereading the chapter.
+- A clerk names nouns before feelings: dates, seals, witness counts, filing order, and who was in the room. Emotional content arrives through what a person chooses to say about those nouns.
+- A ruling has three parts in this world: the term as recorded, the term as heard, and the term as carried forward. Let scenes show the difference rather than narrating it.
+- Never write that a law “has always existed,” that a clause “means” something on its own, or that a court “felt” a result. Courts decide; clerks record; families absorb.
+- Avoid **mana**, **level**, **skill tree**, **cooldown**, **buff**, **quest**, **system**, **stats**, and **XP**. If a document or a dragon is "reading" something, name the record.
+- Avoid calling dragons **evil**, **ancient evil**, **chthon**, **eldritch**, or **beasts of the deep**. They are signatories, neighbours, employers, and politicians.
+- Avoid **-ly** overuse as filler (he said quietly, she answered softly). Let a few strong adverbs carry weight and let most dialogue stand on its nouns.
+- Do not write **the System said** or **a voice told him**. The Roll-Answer is a legal reading of a record, and the story says so in those terms.
+- One Roll-Answer at most per chapter, and only after permission and cost have been shown in the scene.
+- Read a chapter once for these rules before it is submitted. A single vivid sentence with a banned term is enough to break the world's voice.

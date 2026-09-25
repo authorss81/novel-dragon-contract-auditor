@@ -14,6 +14,18 @@ In the Cindral Empire, dragon contracts govern land, water, work, marriage, and 
 
 Every volume presents a human-scale case before widening the mystery. The case is always resolved in a way that changes the public record or the distribution of a burden. The larger pattern becomes clearer without becoming fully explained until the final volumes. Marek's legal ability is useful, limited, and increasingly expensive. His final victory is institutional rather than personal.
 
+## What Makes This Novel Distinct
+
+- **The antagonist is a clause.** Every escalation is a document act: a substituted signer, a copied witness notch, a precedent accepted as a general rule, an administrative template, a quorum threshold, a sealing order. There is no hidden chamber, no cursed relic, and no lineage to discover.
+- **Magic cannot manufacture consent.** A true seal forces a named duty. It cannot make a frightened person have agreed. Most of the series' hardest problems therefore cannot be solved by power at all, only by a jurisdiction, a witness, and a hearing somebody is allowed to refuse.
+- **The System is a public archive.** The only repeatable display is a three-line audit reading that reports who is named, what the present record treats as promised, and what it carries after death. It never grades, ranks, advises, or predicts. A reader who learns its three lines can read every case in the series.
+- **The dragons are a legal minority, not a mood.** They hold territory, keep seals, depend on human crews, and disagree internally. At the final quorum five Houses recognise the mixed replacement, two want a single custodian, and two accept only a temporary emergency office. No dragon is a symbol of tyranny or virtue.
+- **The lead wins by losing control.** His final cost is eligibility: a hereditary office, a private claim, and exclusive access under a true seal. The last thing the story gives him is the ability to say yes.
+- **The stakes are rent, seed, tools, wages, bridges, and children.** A ruling that is morally satisfying and materially useless is treated as a failed ruling, and at least one case per volume ends that way.
+- **Ordinary competence changes outcomes.** Tamsin's copying, Nell's refusal, Nessa's silence, Orra's caution, Jory's strike, and local clerks' memories decide cases. The most important person in a hearing is often the one with no stake and a good memory for paper.
+
+What this novel is not: no secret dragon bloodline, no chosen-one birthright, no stat screen or level-up, no reincarnation or system-origin twist, no dragon-slaying, no succession prophecy, no harem, and no new supernatural enemy in the final volume.
+
 ## Protagonist Architecture
 
 ### External want
@@ -139,6 +151,26 @@ The stages are earned through cases, training, failure, relationships, and chang
 - **V7–V8:** Tamsin publicly opposes one of Marek's hearings. They remain together because they can disagree without turning disagreement into betrayal.
 - **V9–V10:** They co-found a public Roll network and confront the difference between a good draft and a legitimate institution.
 - **V11–V12:** They work on separate but interdependent parts of the final solution. Their registered partnership is a mutual legal act, not a marriage reward.
+
+## Final Conflict and Final Choice
+
+This is the author-level summary. `outline/ending.md` holds the detailed final-volume plan, chapter turns, and the six rules of the Covenant of Many Seals.
+
+### Final external conflict
+
+At the end of Volume 11 the succession convocation is suspended rather than won. Four dragon Houses and four human provinces will not recognize a full replacement, inherited claims are producing a new round of seizures, and First Seat **Seryn Oris** moves to reactivate the **Cinder Clause**: a controlled human guarantor will carry the **First Custodian** office while her line keeps permanent succession control behind it. Her offer is not a lie. She believes one recognizable guarantor is the only way to stop a nine-House war, and part of what she proposes would genuinely work for a few months. The coalition cannot outbid her with a stronger proxy. It has to prove that the original **Emberroot Compact** binds only duties publicly accepted by named ratifying powers, requires a temporary elected human office, and cannot create a perpetual public burden through a private inherited claim.
+
+### Final internal choice
+
+Marek is offered the permanent proxy seat: the disputed Kest property restored to him, Ilyra's record certified as the only public account of the Ashfall erasure, the succession war stopped within days, and authority to audit every inheritance, guild, water, and territorial contract in the Empire. The price is that he becomes the useful owner of every obligation he spent the series trying to distribute. He refuses, and pays for the refusal by opening the Kest property-and-debt record in public, letting every affected claimant state their own terms, voluntarily releasing his prospective share and the recorded route as a Cinder proxy, and permanently surrendering eligibility for a sole foundational office and exclusive access under a true seal. He keeps the right to take part in a witnessed true-name reading under a revocable mixed warrant, never alone.
+
+### Final emotional answer
+
+Marek chooses shared, revisable obligation over private protection, and Tamsin chooses partnership without surrendering her public role. The final answer to the series' question is that authority is only legitimate while it can be heard, limited, reviewed, and refused.
+
+### Ending state of the world
+
+The **Covenant of Many Seals** replaces the Cinder route: no personal perpetuity, named duties, a 5/5/3-of-6 mixed quorum for foundational change, distributed physical copies, twelve-year review, a bounded **Interim Continuity Council** during vacancies, and restitution for proven Cinder-era loss. Halden Ro's lawful term expires, the First Custodian is left vacant, and no temporary successor is appointed after the transition. The first year is genuinely difficult: two provinces refuse recognition, two provinces and three civic assemblies abstain, two Houses want a single custodian, and restitution is slow and incomplete. The last image is an ordinary hearing room where a child receives a second public copy of a record and learns that a debt can be heard, limited, and refused. No throne stands behind the record.
 
 ## Volume Progression
 

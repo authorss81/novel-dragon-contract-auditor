@@ -114,6 +114,24 @@ Seryn is competent, patient, and willing to make partial reforms when they prese
 
 These figures are not a disposable support cast. Each has a specific material interest, and their decisions can narrow or widen the coalition.
 
+## Volume 01 Support Cast
+
+These are the working people the opening batch and volume need by name. Each one has an independent want that does not depend on Marek succeeding. Fixing them here keeps later batches from inventing a new clerk, foreman, or constable each time a scene needs one.
+
+- **Ivet Sarn:** thirty-eight, clerk of the Mosswake Roll Court. She has kept the flood-season docket running for nine years by refusing to reopen settled precedent, because the last reopening cost the district a winter of aid. She is not hiding anything, and her caution is partly justified. She releases the Venn source leaf under a recorded chain of custody, then has to testify about why she stalled the request for days. Her want is a docket that finishes, instead of one that stays open and dangerous.
+- **Ostyn Vare:** forty-five, foreman at the Greyfen dye-house where Nell works. He is honest about the wage schedule and terrified about the craft exemption: if the exit clause is read broadly, the guild loses its certified status and he loses the foreman's seat. He never asks Nell to sign unread. His want is a dye-house that is still certified next year.
+- **Ruhl Dunnet:** fifty-two, constable of Auremar's Chancery district. He can arrest only under a joint order, and he will not seize a shop that feeds a street before its records are copied. His want is an arrest he can still defend at a hearing two years later.
+- **Hallis Dren:** thirty, clerk of the Reed Cut district water office. The flood memorandum that justified the Venn correction was issued under his name to clear a backlog before the season, and he signed it knowing a correction would be filed afterward. He is not a conspirator; he is a man who signed a form. His want is to keep his certification and his mother's canal house.
+- **Odile Fenn:** thirty-four, guild witness who certifies canal work in Mosswake. She wants apprentices to be able to leave a craft without losing the tool they were still paying for, and she is the person Tavi needs when she asks to be examined for work. Her want is a guild that still has apprentices next year.
+
+## Volume 01 Fixed Anchors
+
+- **Ages:** Mara Venn is forty-three. Tavi Venn is seventeen and knows the Reed Cut gate linkage better than any clerk. Orra Dunn is thirty-six. Nessa Dunn is fifteen. Ivet Sarn is thirty-eight.
+- **The Venn term:** the seven-year instrument entered its fourth year when Aldren died. Three years and one flood season remain on the term. This is why the field is worth fighting over and why "for the fixed term" is a real limit rather than a formality.
+- **Tavi's position:** she has signed nothing, works the channel unpaid in her father's place, and is already suspected of owing a debt she cannot name.
+- **Mara's position:** she kept the household accounts in a wax tablet notebook and can produce them. Her fear is a second winter, not a principle.
+- **Minor-character rule:** every named minor character must be able to state what they lose if Marek wins, what they lose if he loses, and what they will refuse. A character who exists only to be rescued or to supply a clue is a defect.
+
 ## Relationship Pressure by Volume
 
 - **Volumes 1–2:** Marek and Tamsin develop professional respect; his secrecy damages trust; Nell resents his choices.

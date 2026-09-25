@@ -1,6 +1,6 @@
 # Open Threads
 
-No prose has been drafted. These are active planning threads carried by the bootstrap and first-volume outlines.
+No prose has been drafted. These are active planning threads carried by the bootstrap and first-volume outlines. The Volume 01 support cast and fixed anchors are defined in `bible/characters.md` and mirrored in `state/continuity.md`, so a later batch does not need to invent a clerk, foreman, or constable mid-volume.
 
 | Thread | Status now | Payoff target | Blocking dependencies |
 |---|---|---|---|
@@ -21,6 +21,6 @@ No prose has been drafted. These are active planning threads carried by the boot
 
 ## Current blockers
 
-- The first ten chapter cards are planning instructions only; no chapter prose or chapter summaries exist.
+- The first ten chapter cards are planning instructions only; no chapter prose or chapter summaries exist. `workspace/volume-01/batch-0001/PROMPT.md` is the handoff and points at those cards as the single authoritative source.
 - The First Seat's full motive, Seryn's personal role in the Ashfall lockdown, and the original Compact's complete wording must remain partially hidden until their planned volumes.
 - Do not introduce a counter-seal, formal mixed warrant, or Stage 2 power before the stages and institutions that permit them.
