@@ -2,9 +2,9 @@
 
 The second season was asked for on the fourth day of the last week of the seventh month and about nineteen people said no again, one after another, out loud, in a bay, in about four minutes, and every one of the nineteen reasons went in the third column of that bay's own ledger with the day against each one, and the reasons were read out and the names were not, because a name in a room is a thing that can be carried out of a room.
 
-Rennick Adley is thirty-eight. He has been keeping the books of the Slade Cut Company in a hired stone store off the Slade since the second month of next year. The Company's whole money is four shillings a year and all of it is the rent of the building. He is not a clerk. He can count and he has a fair hand, and the book has no heading at the top of it and has never had a name at the foot of anything.
+Rennick Adley is thirty-eight. He has been keeping the books of the Slade Cut Company in a hired stone store off the Slade since the second month of next year. The Company's whole money is four shillings a year and all of it is the rent of the building. He is not a clerk. He can count and he has a fair hand, and the book he keeps has no heading at the top of it and a name at the foot of every line of a list of works.
 
-It is now the second week of the tenth month. The season is running. Nobody agreed it and nobody refused it and nobody signed anything, and the wages of about forty-one people are held against a company whose whole money is four shillings a year.
+It is now the second week of the tenth month. The season is running. Nobody agreed it and nobody signed anything, and the wages of about forty-one people are held against a company whose whole money is four shillings a year.
 
 ---
 
@@ -20,7 +20,7 @@ Then he read the reasons again on the fourth day of the week, because a person i
 
 ---
 
-Then he did the arithmetic, and the arithmetic is the chapter.
+Then he did the arithmetic, and the arithmetic is the whole of what he has for the bay.
 
 "There are about forty-one people on this cut. About nineteen of them have said no to this season with a reason in the right place and they are owed nothing and they have been asked once and not a second time, and that is correct and I am not going to touch it.
 
@@ -30,7 +30,7 @@ Somebody said, "Then ask them."
 
 "I have," said Rennick Adley.
 
-He put the ledger down on the bench and put his hand flat on the third column, which is a column of nineteen reasons and about four hundred names in a different book and a day against every line in both.
+He put the ledger down on the bench and put his hand flat on the third column, which is a column of nineteen reasons and a day against every line of it, and the names are in a different book with about nine hundred and forty of them in nine hands over about sixty years and a day against those too.
 
 "I have worked out how. That is what I have been doing for nine days instead of counting the works and I counted the works this morning first, because I am not going to let a thing I have thought about all week get in front of the water.
 
@@ -38,13 +38,13 @@ He put the ledger down on the bench and put his hand flat on the third column, w
 
 "Why not," said a man of about thirty from the second gang.
 
-"**Because a person who is paid to read is a person who can be told **to stop. That is the whole of the reason and I have said that sentence out loud in this bay and I am saying it again and I am not going to improve it. If she reads a hold to four people then in about four years a man with a copy of the right page can stand in a room and ask her whether she read it, and read it to whom, and on what day, and in what words, and she will not be able to say no to any of it, because she will have done it, and because she was paid, and because a person who is paid is a person who cannot refuse.
+"**Because a person who is paid to read is a person who can be told to stop.** That is the whole of the reason and I have said that sentence out loud in this bay and I am saying it again and I am not going to improve it. If she reads a hold to four people then in about four years a man with a copy of the right page can stand in a room and ask her whether she read it, and read it to whom, and on what day, and in what words, and she will not be able to say no to any of it, because she will have done it, and because she was paid, and because a person who is paid is a person who cannot refuse.
 
-"And I am not going to spend that. Not hers. **It is not mine to spend, and it is not the four's, and I have not got the standing to spend it and there is no form anywhere in this empire that would give me the standing and I have looked for one in about nine hundred buildings and there is not one.**"
+"And I am not going to spend that. Not hers. It is not mine to spend, and it is not the four's, and I have not got the standing to spend it and there is no form anywhere in this empire that would give me the standing and I have looked for one in about nine hundred buildings and there is not one."
 
 ---
 
-"Then what do we do," said the man of about thirty.
+"So we sit here," said the man of about thirty.
 
 "Nothing," said Rennick Adley. "**We do nothing and I am going to write down that we did nothing, and the day, and the reason, and I am going to read it back twice, and the second reading is the one I am not going to skip, and I am not going to put a name at the foot of it, because a name at the foot of it makes the four people on that line findable and I am the man who put a roof in a box in the second day of the second week of the fourth month of this year and I have not stopped being that man.**"
 
@@ -60,7 +60,7 @@ Nobody thanked him. There is no form anywhere in this empire that requires a per
 
 Then he said the rest of it out loud, standing up, at about the seventh hour, because a bay is a room and a room gets a day and he had a list.
 
-"A guarantee under the fire-and-water device stands offered and unanswered at no charge on this bank, answerable at any time afterwards by a person answering in its terms, and there is no such person and there is not going to be one, and about sixty children under sixteen are inside it, and inside a guild's blank list, and inside a rotation they have not been asked about and have been told about none of it.
+"A guarantee stands offered on this bank and unanswered, on four hundred and forty foot of it, and about sixty children under sixteen are inside it, and inside a guild's blank list, and inside a rotation they have not been asked about and have been told about none of it. It is not going to be taken up and I have not got the terms of it in my head and I am not going to read them out in a bay at about the seventh hour.
 
 "A bill at Lowcross is nineteen pounds three and fourpence and is unpaid and nobody is liable, and there has not been a line for a bridge in that fund in nineteen years, and I am not paying it and nobody in this bay is paying it and I am not going to stand here and ask any of you for a penny.
 
@@ -84,11 +84,11 @@ Then a carter came into the bay at about the eighth hour, which he does not do, 
 
 "No," said Rennick Adley. "Not until the season comes round, and not by a second person, and not in a letter, and not by anybody but me, and I will come to the gate and I will ask you in the same words I asked you in the seventh month, and you may say the same words back, and if you say something different I will write down what you said and not what you said last time."
 
-"You have not asked me once since the first month," said the carter, "and I have been waiting, and I said in the bay that I wanted it noted that I had been waiting, and about nine of you wrote that down and one of you read it back twice."
+"You have not asked me once since the first month," said the carter, "and I have been waiting, and I said in the bay that I wanted it noted that I had been waiting, and you wrote it down and you read it back twice, and you did not argue with me, and I have thought about that every day since."
 
-"I did not write it down. somebody at the back wrote it down and did not read it back. That is not the same and I am not going to pretend it is."
+"I wrote it down. **I read it back twice, and the second reading was the slower one, and that is my own rule and nobody decided it, and it came to me off a girl of seventeen who is paid to read and is not paid to think, and that is the whole of where it came from.**"
 
-"Then write this one down," said the carter, "**because I am not going to be here in the ninth month of next year and I am about to go up the road for the winter and I am not coming back to this bank for the asking, and I am telling you that as a fact and not as a threat, and I would like it in the place where the no is, and I would like it to say the day.**"
+"Then write this one down," said the carter, "**because I am going up the road for the winter and I am not coming back to this bank for the asking, and I am telling you that as a fact and not as a threat, and I would like it in the place where the no is, and I would like it to say the day.**"
 
 Rennick Adley wrote it in the third column, with the day, and read it back twice, and the second reading was slower.
 
@@ -96,8 +96,8 @@ Rennick Adley wrote it in the third column, with the day, and read it back twice
 
 "You have never put a name at the foot of anything in that book."
 
-"I have put exactly one name in that book in sixty years of the cut and it is mine," said Rennick Adley, "**and a man at a gate who asks to be asked last and is written first is a man who has decided once what he wants to hear, and the day he stops being able to hear it is the day somebody in this bay is doing him a kindness he did not ask for, and there is no form anywhere in this empire that would let me do that to him.**"
+"The same name is at the foot of three lists of works in that book and it is not mine," said Rennick Adley, "**and a man at a gate who asks to be asked last and is written first has decided once what he wants to hear, and the day he stops being able to hear it is the day somebody in this bay is doing him a kindness he did not ask for, and there is no form anywhere in this empire that would let me do that to him.**"
 
-The carter put his hat on and went out into the wet and did not say thank you and was not thanked, and the ledger stayed open on the bench with nineteen reasons in the third column and a new line under them, and about four people in that bay still had not been asked anything, and the door of the store is open and about four hundred and thirty miles of road is what it costs anybody who wants to come and look at a page in a ledger and there is no fund.
+The carter put his hat on and went out into the wet and did not say thank you and was not thanked, and the ledger stayed open on the bench with nineteen reasons in the third column and a new line under them.
 
- The season is still running. About nineteen people are still behind the bank and about four of them in this bay have still never been asked anything, and he has written down on a page in a bay's own ledger, in his own hand, with the day on it, that he decided not to, and he read it back twice, and nobody thanked him, and the girl of seventeen was at the back of that bay until about the eighth hour and then she was not, and nobody spoke to her about the season, and she did not ask, and nobody thanked her and nobody is going to, and she is not going to start, and he has not asked her for anything in nine days and is not going to, and the door of the store is open and about four hundred and thirty miles of road is what it costs anybody who wants to come and look at a page in a ledger and there is no fund.
+The season is still running. About nineteen people are still behind the bank and about four of them in this bay have still never been asked anything, and he has written down on a page in a bay's own ledger, in his own hand, with the day on it, that he decided not to, and he read it back twice, and nobody thanked him, and the girl of seventeen was at the back of that bay until about the eighth hour and then she was not, and nobody spoke to her about the season, and she did not ask, and nobody thanked her and nobody is going to, and she is not going to start doing the rest of it for nothing, and he has not asked her for anything in nine days and is not going to, and the door of the store is open and about four hundred and thirty miles of road is what it costs anybody who wants to come and look at a page in a ledger and there is no fund.

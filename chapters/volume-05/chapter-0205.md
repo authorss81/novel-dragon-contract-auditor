@@ -30,7 +30,7 @@ He is about thirty-four. He had moved in the second week of the ninth month from
 
 She said the price out loud before she answered him, and she did not know she was going to until about a second after she had said it, and that is how it happened.
 
-"I am going to answer that in a room, out loud, in about four minutes, and there is no charge on the board for it, and I am not going to write it down for you, and here is the price of answering it: a person who asks a question about a form in a room becomes a person somebody has answered, and there is no instrument anywhere in this empire that takes that back off him. am telling you that now, at the start, before I say the words, because you have a fortnight of not knowing and I am about to take it away, and I would rather you had the price first."
+"I am going to answer that in a room, out loud, in about four minutes, and there is no charge on the board for it, and I am not going to write it down for you, and here is the price of answering it: a person who asks a question about a form in a room becomes a person somebody has answered, and there is no instrument anywhere in this empire that takes that back off him. I am telling you that now, at the start, before I say the words, because you have a fortnight of not knowing and I am about to take it away, and I would rather you had the price first."
 
 "I have not asked you to take anything away."
 
@@ -42,11 +42,11 @@ Then she answered it, and it took about four minutes, and she did not use a word
 
 "A roll of households is not a register of persons. It is a list of doors. This court keeps one because the water has to know how many houses there are on a bank, and the fourth column of mine has had no heading over it for nine years and I have not filled it and nobody has ever asked me why, and that is a different fourth column from the one on your return and I am not going to stand here and pretend the two of them are one thing.
 
-"Your return went out to about nine hundred districts and asked each of them the only question this empire knows how to ask a district about a person, which is *where is that person*, and got back, in a column with a heading over it, whatever the district had. **A district's roll of households has a household in it.  does not have a person in it, and it certainly has not got a person of twenty in it, and it has not got consent in it, and it has not got a claim in it, and the form on your sheet says in its own words that the roll does not list rights, holdings or claims.**
+"A return like that one goes out to a district, and this empire has about nine hundred of them, and the office sends one to every one, and each one asks the only question this empire knows how to ask a district about a person, which is *where is that person*, and each one comes back in a column with a heading over it with whatever the district had. A district's roll of households has a household in it. It does not have a person in it, and it certainly has not got a person of twenty in it, and it has not got consent in it, and it has not got a claim in it, and the form on your sheet says in its own words that the roll does not list rights, holdings or claims.
 
 "So the answer that came back is correct. The answer is a household. The box wanted a person and a household is what the roll had, and the office wrote the household down because the alternative was writing nothing, and a person who writes nothing in a box is a person who has been struck out with a pen and not a rule, and I have seen that on about four hundred of these in nine years and I could not tell you one of the people who did it.
 
-"**And the word resident means what it has always meant, which is *on the roll at a door*, and it does not mean living there, it does not mean paying anything, it does not mean anybody has agreed to anything, and a man can be resident on four rolls in four districts in this empire and be on none of them in the sense he means, and the reason he can is that nobody has ever asked a roll what a word on a form means.**"
+"**And the word resident means what it has always meant, which is *on the roll at a door*, and it does not mean living there, it does not mean paying anything, it does not mean anybody has agreed to anything, and a man can be resident on four rolls in four districts in this empire and be on none of them in the sense he means.**"
 
 ---
 
@@ -54,7 +54,7 @@ The man did not say anything for about a minute.
 
 "That is not what I asked."
 
-"It is exactly what you asked, and you asked it well, and I would like it noticed that you asked it because you were afraid, and not because a room wanted a record." She turned the return round on the sill so it was facing him. "**Nobody has ever asked one of these in this building. have been at this window nine years and the only person who has ever asked a form what a word on it means is a man who came in afraid about his own household, and he is not a lawyer and he is not a clerk and he has no reason that is anybody else's reason."**
+"It is exactly what you asked, and you asked it well, and I would like it noticed that you asked it because you were afraid, and not because a room wanted a record." She turned the return round on the sill so it was facing him. "**Nobody has ever asked one of these in this building. I have been at this window nine years and the only person who has ever asked a form what a word on it means is a man who came in afraid about his own household, and he is not a lawyer and he is not a clerk and he has no reason that is anybody else's reason.**"
 
 "I would rather not have asked," he said.
 
@@ -62,7 +62,7 @@ The man did not say anything for about a minute.
 
 "I have not got a minute."
 
-"Then take it on the walk back," she said. "And understand what you have done, because almost nobody does and it is the whole of the cost. u have not learned a thing about the water. You have become a person who asked a question about a form in a room, and in about four years a man with a copy of the right page can put a line under your name saying that a clerk of this court told him what the word resident meant, and you will not be able to say that you asked about your own household and not about anybody else, because the form does not have a place to put that, and there is no form anywhere in this empire that has a place to put that, and I have looked."
+"Then take it on the walk back," she said. "And understand what you have done, because almost nobody does and it is the whole of the cost. You have not learned a thing about the water. You have become a person who asked a question about a form in a room, and in about four years a man with a copy of the right page can put a line under your name saying that a clerk of this court told him what the word resident meant, and you will not be able to say that you asked about your own household and not about anybody else, because the form does not have a place to put that, and there is no form anywhere in this empire that has a place to put that, and I have looked."
 
 ---
 
@@ -76,7 +76,9 @@ The corridor is about a hundred and forty feet long and the floor of it is wet f
 
 She went past it. She has been past it about two thousand times.
 
-**A person who opens a room nobody has asked her about is a person who has given herself a duty, and a person who has given herself a duty cannot stop, and I have got enough of those in nine years and one of them is the reason I have a paper in a drawer about a winter.** e had been in it once, in the fifth week of the fifth month, on a matter that is somebody else's, and there was nothing in it, and she has said in her own book that she knows what the presses behind her are for and that a person with a pen at a table can put a name into a column and take a name out of a column and that there is no instrument anywhere that stops it.
+**A person who opens a room nobody has asked her about is a person who has given herself a duty, and a person who has given herself a duty cannot stop.**
+
+She has got enough of those in nine years and one of them is the reason she has a paper in a drawer about a winter. She had been in that room once, in the fifth week of the fifth month, on a matter that is somebody else's, and there was nothing in it, and she has said in her own book that she knows what the presses behind her are for, and that a person with a pen at a table can put a name into a column and take a name out of a column, and that there is no instrument anywhere that stops it.
 
 ---
 

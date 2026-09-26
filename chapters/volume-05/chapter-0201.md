@@ -49,7 +49,7 @@ The one was in the middle of the bundle and it was dated the fourth day of the t
 
 She knew the name. She has not said it out loud in this room and she is not going to now, and there is a name in the room in the bundle and she read it and it went in her the way a name does.
 
-It was a name of a person of twenty, and it was of a family that holds nothing enforceable anywhere in this empire, and the definition that caught her turns on a district's roll of households, and the roll does not list rights, holdings or claims, and this is on the face of the schedule and has been for longer than she has been in the chair.
+It was a name of a person of twenty, and it was of a family that holds nothing enforceable anywhere in this empire, and the definition that caught her turns on a district's roll of households, and the roll does not list rights, holdings or claims, and this is on the face of the third line and has been for longer than she has been in the chair.
 
 **So the office asked a roll of households for a person, and a roll of households gave it one, and the office wrote the one down, and the office did everything correctly and the person said no and the no did not work.**
 
@@ -115,7 +115,7 @@ She answered him out loud, in a corridor, in a room with a rail nowhere in it, i
 
 She did not tell him her own name. He knows it. It is on a door and it is on nineteen years of books and he carries trays for the room.
 
-**He asked because he was going to say something about the trays, and she answered because he was standing there, and neither of them chose it, and she has thought about that since and it is the reason the answer was any good.** A room wants a record. A corridor wants a tray gone. Neither of those is a reason to ask a question and both of them are why one got asked.
+**He asked because he was going to say something about the trays, and she answered because he was standing there, and neither of them chose it, and she has thought about that since and it is the reason the answer was any good.** A room wants a record. A corridor wants a tray gone. Neither of those is a reason to ask a question and both of them are why one got asked. A form does not get asked anything by a man with a tray. A woman does, and the woman answered, and there is not going to be a post for it.
 
 "Right," he said. "That is a lot for a head."
 
@@ -123,11 +123,11 @@ She did not tell him her own name. He knows it. It is on a door and it is on nin
 
 "Do you want me to put it down as usual?"
 
-"**Put it down as usual and read the head of the file to the man at the counter on the second floor, out loud, both lines, and I want him to hear the second one and not only the first, and I am not going to say why and you are not to ask me.**"
+"**Put it down as usual and read the head of the file to the man at the counter on the second floor, out loud, both lines.** I want him to hear the second one and not only the first, and I am not going to say why and you are not to ask me."
 
 "That is not usual."
 
-"No," said Orla Denning. "**And that is the second time a form in this empire has been asked what a word on it means, and the first time it was a court, and this time it was a man with a tray, and I would like it noticed that neither of those was anybody's plan.**"
+"No," said Orla Denning. "And I would like it noticed that you asked me who fills that box in, and that nobody in nineteen years has asked me what the words on it are for, and that you did not ask a form anything. You asked a woman standing at a counter, and I answered you because I was standing there, and I have thought about that since and it is the reason the answer was any good."
 
 He took the tray. He read the head of the file out loud on the stairs, both lines, which is not usual, and she heard him do it from the bottom of them with the books behind her and did not go up.
 
@@ -141,6 +141,6 @@ She looked at the grey rectangle for about a minute and a half.
 
 She has kept the books for nineteen years and she has entered four thousand and some things into them and she knows roughly what is in all of them and she knows exactly what is in none of them. Nineteen years of writing down what a room decided, and not one line in any of the eleven books says what a room is, and this morning a man who carries trays asked her what a box is for and she told him and it is in neither.
 
-**There is no post in this empire whose job is to stand in front of a heading and ask what it is for.** There is not one in this building and there is not one in this city and there is not one in any of the four hundred and thirty miles between this desk and a district where a woman of about sixty walks down a lane with a sheet on a board and a basket once a year, and she does not know what the fourth column of her own roll is for either, and she never will, and nobody is going to ask her, and I am not going either, and it is four hundred and thirty miles and there is no fund.
+**There is no post in this empire whose job is to stand in front of a heading and ask what it is for.** There is not one in this building and there is not one in this city and there is not one in any of the four hundred and thirty miles between this desk and a district where a woman of about sixty walks down a lane with a sheet on a board and a basket once a year, and she does not know what the fourth column of her own roll is for either, and she never will, and nobody is going to ask her, and it is four hundred and thirty miles and there is no fund.
 
 The file is on the table with two lines on the head of it. It is not in the press. It is going to stay not in the press for as long as she is the clerk who keeps the books, which is for as long as they let her, and there is nobody who can ask her about that either, and she is going to find out how that is possible by getting it wrong in public.

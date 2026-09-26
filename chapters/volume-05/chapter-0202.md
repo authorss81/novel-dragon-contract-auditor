@@ -10,13 +10,13 @@ The counter has an oak slab and a rail, and a fee board with four things on it, 
 
 ---
 
-The woman was twenty and she had a sheet folded in four in her coat and she had a room over a shop hired by the day and she had been in this city since the third week of the fifth month, which was four months, and she had not been paid for anything for four months and had not said so.
+The woman was twenty and she had a sheet folded in four in her coat and she had a room off a court hired by the day and she had been in this city since the third week of the fifth month, and she had not been paid for anything since the second week of the third month and had not said so.
 
 "Ask it," said Marn Ottery.
 
 "I have asked it twice and gone away."
 
-"You have not asked it twice. You have looked at the board twice. **The board does not have your question on it and it is not going to, and there is no price on that board for a question, and that is the reason you have come three times and the reason nobody in this city ever asks one, and I have had eleven years to work out how to say that to somebody and I have never had anybody stand here who was going to use it.**"
+"You have not asked it twice. You have looked at the board twice. **The board does not have your question on it and it is not going to, and there is no price on that board for a question.** That is the reason you have come three times and the reason nobody in this city ever asks one, and I have had eleven years to work out how to say that to somebody and I have never had anybody stand here who was going to use it."
 
 The woman put the folded sheet on the slab and opened it, and it was a sheet of her own with a heading at the top of it that she had written herself, and there was one day on it and nothing else, and Marn Ottery read the heading and read the day and did not touch it.
 
@@ -24,11 +24,11 @@ The woman put the folded sheet on the slab and opened it, and it was a sheet of 
 
 "Yes."
 
-"**I am not going to write anything on it and here is the price of what I am about to do, and I am saying it out loud before I do it because that is the trade at this counter and because a clerk who answers a question about a box without saying the price first is a clerk who has not read her own hand.**"
+"**I am not going to write anything on it, and here is the price of what I am about to do.** I am saying it out loud before I do it, because that is the trade at this counter, and because a clerk who answers a question about a box without saying the price first is a clerk who has not read her own hand."
 
 "Go on."
 
-"A document with my hand at the foot of it is findable in about four years by anybody with a copy of the right page, and I have said that number out loud twice in a room and I am saying it again because a number a person has said can be held to and a number a person has not said cannot. **A question about a box is worth a question at a notary's table, and a question is a shilling there, and here there is nothing, and the nothing is why I can do this and the nothing is also why you had to come three times.**"
+"A document with my hand at the foot of it is findable in about four years by anybody with a copy of the right page, and I have said that number out loud twice in a room and I am saying it again because a number a person has said can be held to and a number a person has not said cannot. A question about a box is worth a question at a notary's table, and a question is a shilling there, and here there is nothing, and the nothing is why I can do this and the nothing is also why you had to come three times."
 
 ---
 
@@ -62,7 +62,7 @@ The woman of twenty stood at a rail in a room and did not say anything for about
 
 "So the answer exists," she said, "and there is nowhere to put it."
 
-"**The answer exists and it is in your head now and it has a day on it because you asked it on a day**, and the only place in this empire it can go is a room with a person in it, and a room is not a form, and a room writes down whatever it likes and can be asked about it."
+"**The answer exists and it is in your head now and it has a day on it because you asked it on a day**," said Marn Ottery, "and the only place in this empire it can go is a room with a person in it, and a room is not a form, and a room writes down whatever it likes and can be asked about it."
 
 ---
 
@@ -92,7 +92,7 @@ Then she said the other thing, and she said it standing up the way she says thin
 
 "And you," said Nell Kest. "You have answered me. Why."
 
-"Because you were standing here and I have had eleven years," said Marn Ottery, "**and because I am a clerk, and a clerk is a person who can be asked things, and about nine people a year find that out, and I say so at the counter before anybody asks me. A foreman can be sent for and a clerk cannot, and I have not been sent for and I have not been protected and I have never been asked whether I wanted to be in a room and I have never been able to leave one and nobody has ever had the manners to notice the difference.**"
+"Because you were standing here and I have had eleven years," said Marn Ottery, "and because I am a clerk, and a clerk is a person who can be asked things, and about nine people a year find that out, and I say so at the counter before anybody asks me. A foreman can be sent for and a clerk cannot, and I have not been sent for and I have not been protected and I have never been asked whether I wanted to be in a room and I have never been able to leave one and nobody has ever had the manners to notice the difference."
 
 ---
 
@@ -104,7 +104,7 @@ He did not ask one question. He had not come to ask one. He had come because a c
 
 "That was not the same."
 
-"It was exactly the same," said Marn Ottery, "**and the reason it was not the same is that I am a person and a counter is not, and the whole of what is wrong with this room is that a person is standing in it four days a week and there is a form for the counter.**"
+"It was exactly the same," said Marn Ottery, "and the reason it was not the same is that I am a person and a counter is not, and the whole of what is wrong with this room is that a person stands in it on more days than the forms do, and there is a form for the counter."
 
 Then the woman picked up her own sheet, folded it in four, and put it inside her coat, and did not take the blank, and stopped at the rail on the way out and turned round, which nobody at that counter does.
 
@@ -118,14 +118,14 @@ And Marn Ottery said, "That is the first thing anybody has asked me for at this 
 
 "Then say it."
 
-"There is no form for it," said Marn Ottery, "**and I have been a clerk long enough to know that a clerk who puts a sentence of her own into a book with no office on it has made a document, and the whole of what I have been afraid of since the second month is a document with my hand at the foot of it.**"
+"There is no form for it," said Marn Ottery, "and I have been a clerk long enough to know that a clerk who puts a sentence of her own into a book with no office on it has made a document, and the whole of what I have been afraid of since the second month is a document with my hand at the foot of it."
 
 ---
 
 The woman of twenty went out into a street about four hundred yards from a counter and the fee board behind her had four things on it and none of them time.
 
-Nell Kest walked to the end of the street and stopped at a wall, and she did not go back to the room over the shop, and she took the sheet out of her coat and looked at the one day on it under her own heading that she wrote herself in the fourth week of the fifth month of this year, and it was still the only thing on it, and it was the only part of the whole business that anybody could find.
+Nell Kest walked to the end of the street and stopped at a wall, and she did not go back to the room off the court, and she took the sheet out of her coat and looked at the one day on it under her own heading that she wrote herself in the fourth week of the fifth month of this year, and it was still the only thing on it, and it was the only part of the whole business that anybody could find.
 
-"There is a day," she said out loud, to a wall, "**and I am not going to send it to anybody, and I am not going back down that road with nothing, and I have been in this city four months and I am not going home until somebody asks me a question in a room.**"
+"There is a day," she said out loud, to a wall, "**and I am not going to send it to anybody, and I am not going back down that road with nothing, and I have been in this city since the third week of the fifth month and I am not going home until somebody asks me a question in a room.**"
 
 She put the sheet back inside her coat, and went and found the street that goes down to the river road, and did not walk it, because it is about four hundred and thirty miles and she has a wage held and nobody is paying for her day and there is no fund and no form for a fund, and she has said she was not going to add it up and she is not going to now.

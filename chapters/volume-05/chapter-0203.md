@@ -16,17 +16,17 @@ So the office of a seat has a shelf of what was said and no shelf at all of what
 
 "You could ask her for it," said Tamsin Rook.
 
-"**I have got to the end of what I can do with a pen, and what I can do with a pen is describe, and a description of a thing that was done to a person is a shape with a hole in it where the person is.** have written out the four definitions twice in this book in ink with the day on it and they are true and they are the page's, and the fourth one turns on a district's roll of households, and it says in its own words that the roll does not list rights, holdings or claims."
+"**I have got to the end of what I can do with a pen, and what I can do with a pen is describe, and a description of a thing that was done to a person is a shape with a hole in it where the person is.** I have written out the four definitions twice in this book in ink with the day on it and they are true and they are the page's, and the fourth one turns on a district's roll of households, and it says in its own words that the roll does not list rights, holdings or claims."
 
 "Then how does anybody know a person is of age and resident."
 
-"**A roll of households does not say a person is of age and resident.  says a household is at a door. The office asks a district for the person of a family who is of age and resident, and a district has got nothing in the world that answers that, and so the office asks the next question, which is the only question there is an answer to, which is who is on the roll."**
+"**A roll of households does not say a person is of age and resident. It says a household is at a door.** The office asks a district for the person of a family who is of age and resident, and a district has got nothing in the world that answers that, and so the office asks the next question, which is the only question there is an answer to, which is who is on the roll."
 
 ---
 
 He said it out loud, and then he said it again in the other order, which is what he does.
 
-"A roll of households does not list rights, holdings or claims. That is on the face of the schedule and it has been there longer than I have been alive. So a district can tell the office where a person is, and can tell the office nothing else about them whatever — not what they hold, not what they are owed, not whether they are of age, not whether they are a person or a trade or a company or a chapel. And the office is asking for a person. And the office is putting the answer in a box that says the person, institution or thing engaged in the matter. d a roll of households has a household in it."
+"A roll of households does not list rights, holdings or claims. That is on the face of the third line and it has been there longer than I have been alive. So a district can tell the office where a person is, and can tell the office nothing else about them whatever — not what they hold, not what they are owed, not whether they are of age, and not which of the people at that door the office is asking for. And the office is asking for a person. And the office is putting the answer in a box that says the person, institution or thing engaged in the matter. And a roll of households has a household in it."
 
 "That is the answer to something," said Tamsin Rook.
 
@@ -38,7 +38,7 @@ He said it out loud, and then he said it again in the other order, which is what
 
 "The third line catches anybody of age and resident of a family that holds nothing enforceable, and it catches them by finding them on a roll of households. My mother made sure there was no Kest on any roll in this empire, and that was the right thing to do and it was done in a room in about nine minutes by a person who was not asked, and it is the reason there is no Kest on the roll of that district four hundred and thirty miles up this river, and the roll is the only thing in this business that could have found my sister, and she is on it, and she is found, and the finding is what got her in.
 
-"The same hand is not a figure of speech and I have said so before in another room and I am not going to improve it. e family, one act, and it made two of its children unfindable and findable in the same year."
+"The same hand is not a figure of speech and I have said so before in another room and I am not going to improve it. One family, one act, and it made two of its children unfindable and findable in the same year."
 
 Nobody said anything for about a minute and a half.
 
@@ -54,7 +54,7 @@ Two are known. He wrote the two in his own book on a clean sheet, in his own han
 
 "What is the sheet for, then."
 
-"It is for the questions." He turned it over. "**One line per question in this matter that nobody has asked. have got eleven and most of them would take a person about four minutes to ask and about four years to answer, and I have written them down in the order they ought to be asked and there is no order and I have put a day against the sheet and not against the lines."**
+"It is for the questions." He turned it over. "**One line per question in this matter that nobody has asked. I have got eleven and most of them would take a person about four minutes to ask and about four years to answer,** and I have written them down in the order they ought to be asked and there is no order and I have put a day against the sheet and not against the lines."
 
 She read it standing up, the way she reads everything, and she did not sit down and she did not touch it.
 
@@ -64,7 +64,7 @@ She read it standing up, the way she reads everything, and she did not sit down 
 
 "Then write on it what it is."
 
-"**If I write on the twelfth line who is going to ask the questions, then I have appointed somebody, and there is no post in this empire whose job is to ask, and a person who appoints somebody to a post that does not exist is doing the thing the whole of this is about, which is filling in a box the way the box is printed.** am not going to do that and I would like it noticed that it took me nineteen days not to do it and that I was certain about it by the time I had the pen down."
+"**If I write on the twelfth line who is going to ask the questions, then I have appointed somebody, and there is no post in this empire whose job is to ask, and a person who appoints somebody to a post that does not exist is doing the thing the whole of this is about, which is filling in a box the way the box is printed.** I am not going to do that and I would like it noticed that it took me nineteen days not to do it and that I was certain about it by the time I had the pen down."
 
 ---
 
@@ -76,7 +76,7 @@ The first was what a second person is on a witness form. The second was whether 
 
 "I have not struck it off."
 
-"**Do not strike off the things that have been answered. list of questions with the answered ones still on it is the only honest list there is, and the moment it is tidy somebody will believe there is less to do."**
+"**Do not strike off the things that have been answered. A list of questions with the answered ones still on it is the only honest list there is, and the moment it is tidy somebody will believe there is less to do.**"
 
 The sixth was whether a person can be un-entered. The seventh was what a hold on a household of four does. The eighth was who wrote a line in a margin in a hand that was not his. The ninth was whether a company that cannot be served can be said to have refused anything. The tenth was whether a person who is in a house that is shut has an address.
 
@@ -102,7 +102,7 @@ Then he used the rule, and he used it once, and he wrote it out in a hand and no
 
 She said the reason in the flat way she says things, and she said it as a fact and not as advice, and she has a third line that forbids advice and a fourth line that says a fact is not advice, and she has said the words of both of those in this room before.
 
-"**The office of a seat puts about four thousand people a year through that room.  does not remember them. It has no book of them, because a book of them would be a register and that office does not keep a register, and that is the entire structural reason the third line works and the entire structural reason nothing can be done about it in a room. A**nd a clerk of about fifty-five in that office is a person who has written about four thousand entries in nineteen years and has never once been asked to remember one of them, and that is a good life and it is not anybody's fault.
+"**The office of a seat puts more people through that room in one year than there are lines in any of the eleven books on that shelf. It does not remember them.** It has no book of them, because a book of them would be a register and that office does not keep a register, and that is the entire structural reason the third line works and the entire structural reason nothing can be done about it in a room. And a clerk of about fifty-five in that office is a person who has written about four thousand entries in nineteen years and has never once been asked to remember one of them, and that is a good life and it is not anybody's fault."
 
 "And if you walk in there and ask what the fourth line of a form means, then you are a person that office remembers, because you are the first one, and you will not be remembered as a man who asked a question. You will be remembered as a man who came in about the fourth week of the ninth month of the year after and wanted to know what the words on the boxes were for. And in about four years somebody will come back to that room to look at a return, and the clerk will not remember him, and the room will, and one question from you teaches that room a thing it does not know, which is that the question can be asked, and a room that knows a thing can be asked stops being a room you can ask."
 
@@ -124,7 +124,7 @@ He read the sheet he had written. He did not fold it.
 
 He put the sheet in the book with no office on it, at the back, after the four definitions, and shut it.
 
-"That is the rule used once and it is the rule's seventh use in this matter and the sixth of mine, and the first one where the answer is a thing I did not know in the morning."
+"That is the rule used once, in writing, with a day on it, and it is the only instrument either of us owns, and it is the first one where the answer is a thing I did not know in the morning."
 
 ---
 

@@ -1,6 +1,6 @@
 # Chapter 204: A Refusal With Nothing To Refuse
 
-She did it on the third day of the fourth week of the ninth month of the year after, in the shed, standing, in front of about nine men, and she had thought about it for five weeks and she had not told anybody she was going to do it, and the reason she had not told anybody is that a person who tells a shed beforehand has asked the shed for a hearing and a hearing is a party.
+She did it on the third day of the fourth week of the ninth month of the year after, in the shed, standing, in front of about nine men, and she had thought about it since she opened the box in the first week of the seventh month and she had not told anybody she was going to do it, and the reason she had not told anybody is that a person who tells a shed beforehand has asked the shed for a hearing and a hearing is a party.
 
 Halla Wray is fifty-one. She is the foreman of the Slade Cut, which is an office with no office in it: it is a thing nine families agreed to about eleven years ago out loud, and it was not written down, and it cannot be produced, and she holds it the way a person holds a job that nobody is going to ask her about. She has been on that bank since she was nine. She can read. Nobody at the district works has ever once in nine years asked her to read anything.
 
@@ -8,7 +8,7 @@ The shed is about nine foot by eleven. It has a door that shuts, a bench along t
 
 ---
 
-She had the six lines in her own hand by then, and she had them in a book of her own with a day against each of them, and every man in that shed had heard her read them out twice, and nobody had asked her to and nobody has since said that they wished they had.
+She had the six lines in a book of her own by then, with a day against them, and she had read them to herself about nine times and to nobody at all, and there is a difference between the two and nine men in a shed are not going to be shown the difference.
 
 What is on the sheet is a notice of six numbered lines and a foot. A seat's own device is cut into the head of it and it is not the fire-and-water mark. Her name is at the top of it, in the ordinary way, in the hand of whoever sent it, and nobody has ever asked her whether she wanted it there and there is no form anywhere in this empire that requires anybody to ask.
 
@@ -30,7 +30,7 @@ She said the second line first.
 
 Then she said the sixth line, and she said it slowly, because it took her a moment the first time.
 
-"It declines to name the holder of the office. **So the thing that put me in this cannot be named. t refused, not answered, not produced, not held to. Named by nobody, in a document, in a hand, with a seal at the foot and nothing under the seal. A** man wrote a line that says *I am not going to tell you who I am* into a piece of paper he is sending to a foreman on a bank, and he sent it to me, and I cannot do one thing about it, and I have wanted to say that out loud in a room for about eleven weeks."
+"It declines to name the holder of the office. **So the thing that put me in this cannot be named.** It refused, not answered, not produced, not held to. Named by nobody, in a document, in a hand, with a seal at the foot and nothing under the seal. A man wrote a line that says *I am not going to tell you who I am* into a piece of paper he is sending to a foreman on a bank, and he sent it to me, and I cannot do one thing about it, and I have wanted to say that out loud in a room for about eleven weeks."
 
 ---
 
@@ -40,21 +40,21 @@ Then she refused, and it did not work, and she had known it would not, and she s
 
 Nobody wrote it down. One of them said afterwards, in the yard, that his hands were cold and that he had wanted to, and that nobody had given him paper, and that he had not thought to fetch any.
 
-"It has not worked," said Halla Wray, "**and I am going to say why, and the why is the reason I have had for five weeks and have not said, and it is not the same why as hers, and I would like that noticed, because if the two whys are the same then it is a bad system, and it is not a bad system.  is the worst system anybody has ever written down and it works.**
+"It has not worked," said Halla Wray, "and I am going to say why, and the why is the reason I have had since the seventh month and have not said, and it is not the same why as hers, and I would like that noticed, because if the two whys are the same then it is a bad system, and it is not a bad system. It is the worst system anybody has ever written down and it works."
 
 "A refusal to be served requires a service. That is all it is. It is a door you put your back against, and there has to be a door and there has to be somebody knocking. **And nobody knocked. I was not served. I was entered.** I was got at by a class, and a class is not served on anybody, and there is nobody in this to knock on, and a person who has not been served cannot refuse to be served, and the only instrument this empire has for a person to say no has just been found to be no use at all to me.
 
-"And that is not a hole anybody has left in it. It is a sentence written in about nine hundred buildings by somebody who needed a form to go out in a week, and it says that no further consent of the person is required, and it says that about me, and it is right, and there is no second instrument, and I have looked for one for five weeks in every form in this empire I could get hold of and there is not one and I am the first person to have had to look."
+"And that is not a hole anybody has left in it. It is a sentence written in about nine hundred buildings by somebody who needed a form to go out in a week, and it says that no further consent of the person is required, and it says that about me, and it is right, and there is no second instrument, and I have looked for one since the seventh month in every form in this empire I could get hold of and there is not one and I am the first person to have had to look."
 
 ---
 
-A man of about thirty from the second gang said, "Then what do you do."
+A man of about thirty from the second gang said, "And you have said it in here."
 
-**"Nothing," said Halla Wray. "That is the answer and I have had it since the third week of the seventh month and I have been carrying it about like a stone. do nothing, and the sheet goes on being on the bench, and there is no procedure in this empire for a person to be let out of a thing that does not need her, and I have looked for one, and the reason there is not one is that in about a hundred and forty years nobody has ever needed to be let out of one."**
+"Nothing," said Halla Wray. "**That is the answer and I have had it since the first week of the seventh month and I have been carrying it about like a stone. You do nothing, and the sheet goes on being on the bench, and there is no procedure in this empire for a person to be let out of a thing that does not need her, and I have looked for one, and the reason there is not one is that in about a hundred and forty years nobody has ever needed to be let out of one.**"
 
 "You are in a box."
 
-"I am in a box by a class, and a company of nine families and about forty-one people is a family inside that schedule's own definition, and the only one of us with a place of custom or of work in a roll of households is the one whose job was never written down. That is me. I have been the reason I could not be found for forty-two years, and I have never once chosen it, and I was nine years old when it started, and a child does not choose anything."
+"I am in a box by a class, and a company of nine families and about forty-one people is a family inside the third line's own definition, and the only one of us with a place of custom or of work in a roll of households is the one whose job was never written down. That is me. I have been the reason I could not be found for forty-two years, and I have never once chosen it, and I was nine years old when it started, and a child does not choose anything."
 
 She put her hand flat on the bench.
 
@@ -84,7 +84,7 @@ Then she said why she had done it, and it was not for the record and she said so
 
 She looked at the men in the shed.
 
-"**I would like to be found. I have spent forty-two years being unfindable and it is the reason I am standing in this, and if it had been any other way I would be standing somewhere else with a worse thing on me, and I am not going to be embarrassed about saying that out loud at fifty-one in front of nine men.** at I am not going to do is be the reason four other people get found, and there are four of them on that bank who cannot read a paragraph and have never been asked once, and the season is coming round again, and I have thought about it for five weeks and this is where I have got to, and I have not told a soul until now and I am not going to be thanked for it, because there is no form anywhere in this empire that requires a person to be thanked, and I have said that in advance and I mean it."
+"**I would like to be found. I have spent forty-two years being unfindable and it is the reason I am standing in this, and if it had been any other way I would be standing somewhere else with a worse thing on me, and I am not going to be embarrassed about saying that out loud at fifty-one in front of nine men.** What I am not going to do is be the reason four other people get found, and there are four of them on that bank who cannot read a paragraph and have never been asked once, and the season is coming round again, and I have thought about it since the seventh month and this is where I have got to, and I have not told a soul until now and I am not going to be thanked for it, because there is no form anywhere in this empire that requires a person to be thanked, and I have said that in advance and I mean it."
 
 She put the sheet on the bench face up, next to the other one, and the two of them lay there side by side for anybody who came in.
 
@@ -94,7 +94,7 @@ He did not ask her for the other half.
 
 She had told him in front of nine men in the seventh month that the day he asks is the day she stops saying the half she has got, and he had heard it, and he had been wanting it since the third month, and he had not asked, and he did not ask tonight either, and he stood at the back with his book under his arm and looked at the two sheets on the bench for about a minute and a half and then he went out into the yard and shut the door behind him, which nobody else did.
 
-Afterwards she said one thing about it to nobody at all, in the yard, at about the eighth hour, with the lamp making a stripe on the wet ground and the door open behind her.
+Afterwards she said one thing about it to nobody at all, in the yard, at about the eighth hour, with the dark coming up off the water and the door open behind her.
 
 "He did not ask," said Halla Wray.
 
