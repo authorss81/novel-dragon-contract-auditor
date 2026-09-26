@@ -14,7 +14,7 @@ And then she said the part that matters and that she had not said on the twenty-
 
 Here is what she did, and it is why about nine people in that bay were not disappointed at about the ninth hour, which is the only review of this meeting anybody has ever got.
 
-**She said the finding first. Out loud. Before anybody had spoken. Before the bench had been cleared and before the slate was out.**
+She said the finding first. Out loud. Before anybody had spoken. Before the bench had been cleared and before the slate was out.
 
 "You have all come here on a morning because I said a thing on the last day of the last month and I did not say why I said it, and I am going to say why first and then I am going to ask the question, and the reason I am going to say the why first is that if I do it the other way about nine of you will sit there for an hour waiting to be told that a company cannot be asked, and you have all known it since the ninth of the second month and I have said it out loud in this room twice."
 
@@ -60,11 +60,11 @@ She read it twice, and then she said, "**And I am going to add a sixth line and 
 
 "That is not in the question anybody handed me. **That is mine, and I have put it in, and if somebody in this room wants to take the sixth line off I will take it off and I will not argue, and I will not ask for the question again either.**"
 
-Nobody said anything for about nine seconds.
+Nobody answered her for about nine seconds, and one man at the back half put his hand up as though he had thought of something and then took it down again.
 
 "Do not take it off," said a woman of about forty-four at the back. "**You have never once said that in nineteen years and I have wanted to hear it said and I did not know that is what I wanted.**"
 
-Then somebody said, "**The chair of this meeting in a bay cannot give anybody anything. What is she just given us.**"
+Then somebody said, "The chair of this meeting in a bay cannot give anybody anything. What is she just given us."
 
 "**I have been a chair for nineteen years and I have given this room a bay with a stove in one end, and about nine words, and a rule that everything is read out twice.** I have not given anybody anything and I am not starting in the seventh month of my life." She put her hand down. "**The sixth line is not a gift either. It is the only thing I have got and I am telling you what it is: it is a chair saying out loud that she will not come back. That is not power. It is the opposite of power and it is all I have.**"
 
@@ -110,7 +110,7 @@ Then a man of about thirty-one in a bay coat at the back, who had come to that b
 
 "**Then that is the question.**" He had not moved. "**You have been asking everybody in this room whether they will hold a thing. Not one person in this room has been asked who holds it after them, and that is not a small thing you have left out, because the whole of the finding of this morning is that a person who holds a thing stops being asked.**"
 
-Somebody said, "**Who are you.**"
+Somebody said, "Who are you."
 
 "I am the man and the boy," he said.
 

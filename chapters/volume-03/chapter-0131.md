@@ -162,7 +162,7 @@ Rennick Adley wrote it in the book that evening with the day on it, in his own h
 
 Then on the afternoon of the twentieth of the fifth month, four days after the window had shut, a courier came up the road with a second sheet in the same hand.
 
-It is addressed to the notary's table at whose counter a person in this Empire may ask a question about an instrument, and it asks that counter whether it will certify the guarantee, and it attaches the guarantee, and it asks first to be satisfied of one fact, and the fact is the fourth line again in different words.
+It is addressed to the notary's table at whose counter a person in this empire may ask a question about an instrument, and it asks that counter whether it will certify the guarantee, and it attaches the guarantee, and it asks first to be satisfied of one fact, and the fact is the fourth line again in different words.
 
 **In what way does this instrument touch the Company.** Which is a question about a body, and a body is not a person.
 

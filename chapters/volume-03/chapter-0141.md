@@ -64,7 +64,7 @@ She looked at him for a while.
 
 So he said it again, slower, and about nine words of it were the same nine words.
 
-Then she said this, and it took about four minutes, and she said it standing in her own doorway with the washing behind her, and he wrote all of it on the slate and read it back to her twice and the second time was slower.
+Then she said this, and it took about four minutes, and she said it standing in her own doorway with the washing behind her, and he took all of it on the slate and read it back to her twice and the second time was slower.
 
 "**You are asking me to hold a thing for a season.** And I know what a season is, and I have had a season and about nine of them, and I know what it is to be the one who is holding it, and I know what happens to me after.
 
@@ -104,7 +104,7 @@ Then he went the mile and a half and forty feet up to the fourth house, and it t
 
 ---
 
-She opened the door before he knocked, which he wrote down afterwards as the first thing that told him anything.
+She opened the door before he knocked, which he set down afterwards as the first thing that told him anything.
 
 **She is about seventy-one. She has a leg. She walked four miles of towpath in about two hours each way in the fourth month on the advice of nobody. She cannot read a paragraph. She is the fourth house and not the first and she has been one of five people whom a clerk in a city four hundred and thirty miles away wrote on the back of a proof sheet in the fourth week of the sixth month, and she has never seen the proof sheet and does not know it exists.**
 
@@ -122,7 +122,7 @@ And she said, "**Once a year is plenty and it can be four times a year if somebo
 
 ---
 
-Then he asked her the rotation question, and he asked it the same way he had asked the other three, in the same words, and he noticed himself doing it and wrote that down afterwards too.
+Then he asked her the rotation question, and he asked it the same way he had asked the other three, in the same words, and he noticed himself doing it and set that down afterwards too.
 
 She said no.
 

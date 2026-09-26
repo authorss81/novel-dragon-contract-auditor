@@ -66,7 +66,7 @@ In the first of them she had about a hundred and thirty people in front of her w
 
 In the second of them she had about two hundred and forty people in front of her, and she held about nine, and she chose those nine because they were the nine who had water standing in their ground and everybody else had somewhere to go.
 
-**She chose. Both times, by hand, on a day, in this district, and the choosing is in her own hand, and the reasoning in the first one is the reasoning that every flood authority in every district in this Empire uses and has always used and that is right.**
+**She chose. Both times, by hand, on a day, in this district, and the choosing is in her own hand, and the reasoning in the first one is the reasoning that every flood authority in every district in this empire uses and has always used and that is right.**
 
 That is the finding and it is in about four words.
 
@@ -100,7 +100,7 @@ And then she entered, on her own motion, in the minute of the day, four things, 
 
 **One.** That she was asked in writing and that she answered in writing and that this is the first answer this court has ever given to a seat and the first time in nineteen years that anybody has asked it.
 
-**Two.** That the seat's offer of the carriage of any person should be heard is live, and remains inoperable, and that this court has now said who it thinks should be heard, and that the offer has still not operated, and the reason is that the offer pays carriage and not attendance and there is no form in this Empire for compelling a person to be brought to a room, and that this court is not going to write to the seat about it again.
+**Two.** That the seat's offer of the carriage of any person should be heard is live, and remains inoperable, and that this court has now said who it thinks should be heard, and that the offer has still not operated, and the reason is that the offer pays carriage and not attendance and there is no form in this empire for compelling a person to be brought to a room, and that this court is not going to write to the seat about it again.
 
 **Three.** That a finding of fact about this court's own practice in the enforcement of continuation clauses is entered above and names no person, and that the finding is made on the motion of the magistrate and not asked for by anybody, and that it is not a finding about any other court and is not a discovery and is not a seam, and that the undertaking this court entered on the ninth of the second month was used in this matter **for the first time with the magistrate in the building and having been asked**, and that the first three uses of it were without her and she was told about them and was not asked.
 

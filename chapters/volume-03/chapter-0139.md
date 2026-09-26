@@ -18,7 +18,7 @@ He answered it in two parts on the twenty-sixth day of the sixth month and it to
 
 He read the second part out first, and certified it, and it took about four minutes and it is this:
 
-> *Certified. That the said Company is an unincorporated body upon the register of bodies in this district; that it has no head; that no person is its head; that a body may not be made a party by any court in this Empire; and that a body which has been given a duty and cannot refuse it has accepted it.*
+> *Certified. That the said Company is an unincorporated body upon the register of bodies in this district; that it has no head; that no person is its head; that a body may not be made a party by any court in this empire; and that a body which has been given a duty and cannot refuse it has accepted it.*
 >
 > *The last of those is not an opinion. It is a consequence. **A body cannot say no. Nine words on a piece of paper in a hired bay four hundred and thirty miles from this room are the whole of the acceptance, and nobody in ninety-one households said them, and the paper says on its face that the acceptance does not evidence a consent. That sentence is why this certificate can be given and it is the reason the certificate is worth nothing.***
 
@@ -80,7 +80,7 @@ The assessor wrote it down, and it is the only sentence in about four hundred an
 
 The entry says, in the hand of the practice's clerk, that the concession with which the practice certifies on that reach is **lapsed**, and that the lapse is in respect of the certification of the Slade Cut guarantee, and that the person who gave it up is named at the foot, and that his reason is copied in above in his own hand.
 
-**What that means, in a room, in about nine words:** this House can no longer certify a scale instrument on that reach. Not this practice. This House. From the day the entry is made, and there is no appeal, and there is no form in this Empire for anybody to ask whether it is right.
+**What that means, in a room, in about nine words:** this House can no longer certify a scale instrument on that reach. Not this practice. This House. From the day the entry is made, and there is no appeal, and there is no form in this empire for anybody to ask whether it is right.
 
 **It means the guarantee stands, and stands offered, and stands unanswered, and can be taken up at any time afterwards by a person answering in those terms, and nobody is going to take it up, because a person answering in those terms is a person who is the head of a body, and there is no head, and a magistrate has entered that one cannot be had.**
 

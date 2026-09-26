@@ -12,17 +12,17 @@ The fourth week of the ninth is the fourth time this year he has been four hundr
 
 ---
 
-**The thing that came up the road before he did was a form with two questions on the back of it**, carried four hundred and thirty miles in a hand and not in an envelope, at four pence, by a woman of about twenty who walked six hours and would not take anything.
+The thing that came up the road before he did was a form with two questions on the back of it, carried four hundred and thirty miles in a hand and not in an envelope, at four pence, by a woman of about twenty who walked six hours and would not take anything.
 
 The first question was the one a notary's table asks every person it reaches, and it had been refused in the fourth week of the sixth by a man in a room with a stove in it, and the refusal is in two hands in a book with no office on it four hundred and thirty miles up the river.
 
-**The second question was this:**
+The second question was this:
 
 > *And what is the paper for.*
 
 Four words, a question mark, in the same hand, on the other side of the same sheet, in the same ink, in the ninth month of this year, by a book-keeper of thirty-eight in a bay a hundred and forty yards below a ford.
 
-Nobody on that bank had thought to ask it. A factor had asked a woman of sixty-four what a person would have to be able to do to refuse a guild, and a carter had asked a foreman what he would have asked the next person, and a district court had written a reason into a box that was two lines deep. **And a book-keeper had written four words on the back of a form and had them carried four hundred and thirty miles by a person who is not paid, at four pence, and had not told anybody he was sending it.**
+Nobody on that bank had thought to ask it. A factor had asked a woman of sixty-four what a person would have to be able to do to refuse a guild, and a carter had asked a foreman what he would have asked the next person, and a district court had written a reason into a box that was two lines deep. And a book-keeper had written four words on the back of a form and had them carried four hundred and thirty miles by a person who is not paid, at four pence, and had not told anybody he was sending it.
 
 ---
 
@@ -32,7 +32,7 @@ He got it right the first time in a bay, in about nine minutes, standing, to abo
 
 "**That is all a paper does. It does not do the work, it does not stop the water, it does not make anybody safer, it does not make a child not a debtor. It makes a person findable.** A clerk at a window in Auremar can find you because there is a copy of the Venn certification on a wall in your district. A factor can find the man who was on a bank on a day because there is a list of persons in a strongbox nine hundred miles up a road. A magistrate can find a man because a foreman wrote his name at the foot of a return. **Every single thing anybody in this matter has found in fourteen months has been a person being found by a piece of paper, and not one of them has been a fact about the water.**"
 
-Somebody said, "**Then why write any of it.**"
+Somebody said, "Then why write any of it."
 
 "**Because the alternative is a man with a tray and a good coat, and he has never once been worse than the paper.**" He did not stop. "**That is the honest answer and it took me a fortnight on a road to get to and I have got it in nine words and I would like somebody to write them down, because they are the whole of what four months has been and they are not a comfort.**"
 
@@ -48,7 +48,7 @@ Then he said the second thing and it is the sentence this volume is built on, an
 
 "**A paper cannot.** A paper with a name at the foot of it requires that somebody has been asked. Not that somebody has been spoken to. Not that somebody has been written down. **Asked.** And if the person was not asked then the paper is a speech that somebody has written down and got notarised, and the notarising is the only difference, and in this matter that is the whole of what a notary's table is: a machine for putting a seal on a speech and calling it a document.
 
-"And that is the only law in this matter that has never once been broken. **Not one of them, in fourteen months, in four hundred and thirty miles, in about nine hundred rooms.** Not by a House, not by a guild, not by a court, not by a dragon and not by a foreman. Every form anybody in this empire has put in front of a person in the last fourteen months has been drafted in the direction of making it possible to say yes without asking, and not one of them has succeeded, and I do not believe that is anybody's doing. **I think it is just what happens.**"
+"And that is the only law in this matter that has never once been broken. **Not one of them, in fourteen months, in four hundred and thirty miles, in about nine hundred rooms.** Not by a House, not by a guild, not by a court, not by a dragon and not by a foreman. Every form anybody in this empire has put in front of a person in the last fourteen months has been drafted in the direction of making it possible to say yes without asking, and not one of them has succeeded, and I do not believe that is anybody's doing. I think it is just what happens."
 
 ---
 
@@ -78,7 +78,7 @@ He read it out and gave the sheet to her and did not hold it.
 
 ---
 
-**She read it twice, which is the rule, and then she took about four minutes, and then she answered, and it is not what he expected and it is not a legal answer, and she said so twice.**
+She read it twice, which is the rule, and then she took about four minutes, and then she answered, and it is not what he expected and it is not a legal answer, and she said so twice.
 
 "One. **You are wrong and I am going to tell you which part.**"
 
@@ -86,11 +86,11 @@ He read it out and gave the sheet to her and did not hold it.
 
 "**The first part. Both of the halves are wrong and the first half is wrong in a way that has taken me fourteen months to see and that you have just said out loud in this room without noticing that you had said it.**" She turned the sheet round. "**You have written *none of them will be asked, because the children of a person who has said yes are in it whether they are asked or not.* That is a true sentence and it is the finding of this volume and it is the reason a body in a box is worse than the substituted wording and it is the reason a cooperative is a chain with a heading.**
 
-"**And you have written it in the middle of a form that asks you to choose between writing a paper about forty-one unheard people and not writing one. As though those were the two ends of it.** They are not. They are two ends of a question you have not asked.
+"And you have written it in the middle of a form that asks you to choose between writing a paper about forty-one unheard people and not writing one. As though those were the two ends of it. They are not. They are two ends of a question you have not asked.
 
 "**The real question is: what happens to a child.** And nobody in this matter has ever put that on a piece of paper and offered it to anybody, and you have just put it on a piece of paper and used it as scenery."
 
-"**Then tell me the question.**"
+"Then tell me the question."
 
 "**I am forbidden to advise. My third line forbids it and advice by proximity is the ordinary way advice happens and I have said that sentence to you in four rooms and I am not going to unsay it.**"
 
@@ -108,7 +108,7 @@ Then she answered the choice, in words, in the bay, with a date, in front of abo
 
 "So the instrument forbids you. Not me. **The instrument forbids you, and you are the person who wrote it, and that is the first time in fourteen months that anything anybody in this matter has written has stopped me doing anything, and I want you to notice what it was: it was not a court and it was not a House and it was not me. It was a line you put in yourself in a room with a stove in it in the second week of the seventh month because a man asked a woman a question in a doorway.**"
 
-"**Then the choice is two," he said.
+"Then the choice is two," he said.
 
 "**The choice is two. And the date is the second of the fifth month of next year, and the reason is that it is the day your own term is reviewed and if the instrument is not written by then the bank is held by you alone and by nobody else, and the second exception stops on that day because that paper says it stops on that day, and there is no successor and nothing carries.**"
 
@@ -154,7 +154,7 @@ Then Tamsin Rook said the price of it out loud in that bay, in about four minute
 
 He did not thank her. He said, "**I am not thanking you for that and I am not going to and you told me in the fourth week of the sixth month that if I did you would write it down.**"
 
-"**I have written it down,**" said Tamsin Rook. "**That is not a reward, that is a record, and I want it understood in this room that the two of us have not had a moment in four months and there is not going to be one, and that I am here because a paper says so, and that the paper is not why.**"
+"I have written it down," said Tamsin Rook. "That is not a reward, that is a record, and I want it understood in this room that the two of us have not had a moment in four months and there is not going to be one, and that I am here because a paper says so, and that the paper is not why."
 
 And a book-keeper of thirty-eight in a bay in the seventh month of this year said, "**I will enter that in a book with no heading if the two of you want it in one.**"
 

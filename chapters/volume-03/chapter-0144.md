@@ -16,9 +16,9 @@ Nobody did, and he did not expect anybody to, and it turned out that the reason 
 
 So he answered it himself, on the fourth of the seventh, standing on a landing at about the sixth hour, to four men in a gang who had come off shift, and the answer was short and he did not enjoy making it.
 
-"It is not neutrality. **Not writing it in is letting a body decide later who was on it.** The blankness was mine. The decision was not, and I have been carrying a decision I did not make for six weeks in a wagon under a tarpaulin and calling it honesty, and I have been a factor for nineteen years and I have signed for about nine hundred tons and I am not a fool, and I let a thing happen to me because I did not want to be the one who did it."
+"It is not neutrality. Not writing it in is letting a body decide later who was on it. The blankness was mine. The decision was not, and I have been carrying a decision I did not make for six weeks in a wagon under a tarpaulin and calling it honesty, and I have been a factor for nineteen years and I have signed for about nine hundred tons and I am not a fool, and I let a thing happen to me because I did not want to be the one who did it."
 
-Then he said, "**And I am not going to write it, and here is the reason and it took a wet week in the sixth month and a bay in the seventh month to finish.**
+Then he said, "And I am not going to write it, and here is the reason and it took a wet week in the sixth month and a bay in the seventh month to finish.
 
 "You have a list of works coming. About forty-one people, one at a time, a season each, a day at the foot of every name.
 
@@ -32,7 +32,7 @@ Then he said, "**And I am not going to write it, and here is the reason and it t
 
 He had the thing that came north in his coat, and he had had it in his coat for nine days, and he took it out on the landing on the fourth of the seventh and looked at it and then put it in a box with his own book and came up to the bay on the seventh with it.
 
-**It went on the thirtieth of the sixth, in a hand and not in an envelope, at four pence, carried by a clerk of the district works who is the wrong side of sixty and who has four men at a gate and who is not paid for carrying it.** It went to a waystation on the northern marches about four hundred and thirty miles the other way, and the clerk of the district works came back on the sixth of the seventh, having walked about four hundred and thirty miles up a towpath in nine days and about four hundred and thirty miles back, and he put it on the bench in the middle of the bay in front of about thirty people and did not read it and did not sit down.
+It went on the thirtieth of the sixth, in a hand and not in an envelope, at four pence, carried by a clerk of the district works who is the wrong side of sixty and who has four men at a gate and who is not paid for carrying it. It went to a waystation on the northern marches about four hundred and thirty miles the other way, and the clerk of the district works came back on the sixth of the seventh, having walked about four hundred and thirty miles up a towpath in nine days and about four hundred and thirty miles back, and he put it on the bench in the middle of the bay in front of about thirty people and did not read it and did not sit down.
 
 **Nothing has come back from the north for forty-one days and this is what came back.**
 
@@ -56,9 +56,9 @@ Aldis Kern read it out in that bay, himself, in about eleven minutes, and then h
 
 ---
 
-Nobody said anything for about nine seconds, which is about how long a bay of thirty people takes to work out that a piece of paper has just been handed to them by a border law.
+It took about nine seconds, which is about how long a bay of thirty people takes to work out that a piece of paper has just been handed to them by a border law.
 
-Then a woman of about thirty-one at the back, who had said yes to a season on the fifteenth of the seventh and had not wanted to, said, "**There is a dragon's name on that other one.**"
+Then a woman of about thirty-one at the back, who had said yes to a season on the fifteenth of the seventh and had not wanted to, said, "There is a dragon's name on that other one."
 
 "There is," said Aldis Kern.
 
@@ -74,7 +74,7 @@ He put the sheet down on the bench next to the blank slate and lined them up, an
 
 "**The first one had a man's name at the foot of it** and I was told about that in this bay by a woman of sixty-four who cannot read a paragraph, and it cost a House about a hundred and forty years of fire-and-water licence on one reach of one river, and the man wrote his own four sentences in as the reason, and he put a sentence in afterwards that was in the first person and he knew what that would be worth in about four years and he wrote it anyway.
 
-"**And that one is four hundred and thirty miles south of this one and the two of them have never been in the same building.**
+"And that one is four hundred and thirty miles south of this one and the two of them have never been in the same building.
 
 "Now. **The Sorn law does not need a person.** It does not care in the slightest whether there is a name on the thing or not, because a border household is not a person either and the law was written by people who had noticed that two hundred years ago and had better sense about it than we have. And that is why **that form got an answer in three weeks** when a House's own table took about eleven and then said no and lost a hundred and forty years about it.
 
@@ -86,7 +86,7 @@ Then he did the thing he had been not doing since the third week of the sixth mo
 
 "**I cannot name the man who instructs me.**"
 
-"**You said that.**"
+"You said that."
 
 "I said it and I have said it in this bay once and I am saying it a second time because I have done a thing about it since and I am not going to do a thing about it and not tell the room what it may cost.
 
@@ -94,7 +94,7 @@ Then he did the thing he had been not doing since the third week of the sixth mo
 
 "**And on the second of the seventh I asked for his name in writing.** In this book, in this hand, with the day on it, and it went out on the third with the weekly, and I have had no answer and it is nine days and the weekly comes once a week whether there is anything in it or not.
 
-"**And I am going to read it out, because I have been told four times in four months that a thing read once is a thing a person cannot check, and I have no idea whether that is true but I have stopped being able to prove it is not.**"
+"And I am going to read it out, because I have been told four times in four months that a thing read once is a thing a person cannot check, and I have no idea whether that is true but I have stopped being able to prove it is not."
 
 > *Second day of the seventh month. I am the factor of this guild for the western reach and I have held the post nineteen years. I am instructed weekly by the surveyor of this reach, whose name is on a letterhead, and I am requested in that letterhead to keep a list of the persons who do the work of this term. I have held that list blank in my wagon since the third week of the fifth month. **I request the name of the person who instructs me.** I have asked him for it in the ordinary way and I have been refused twice, in letters, both of them signed. — A. Kern, factor, western reach.*
 
@@ -104,7 +104,7 @@ Then he did the thing he had been not doing since the third week of the sixth mo
 
 ---
 
-Nobody said anything.
+Nothing for about four seconds, and then the bay went on being a bay, and the forge up the road went on being the forge up the road.
 
 "**Nine months on it. Nine men in three gangs. About four hundred yards of road and a ford in it that cannot be crossed in the eighth month and a toll.** And if the man whose name is on the letterhead decides that a factor who asks to be named is a factor with a problem, then in about nine weeks I am a man with no contract and a road he has had to give to somebody else, and there are nine men in this district who have been in my gangs since the second month of the year and who will be stood off one after another over about a fortnight, and **none of them will know why and all of them will work it out inside a month**, because there is a landing on this river and a forge and about nine hundred yards of towpath and everybody knows everything that happens on it inside a week.
 
@@ -120,7 +120,7 @@ And Doreth Ferrow stood at the west end of her own bay with her hands behind her
 
 "**Nothing. There is nothing they can do. You cannot be sent to a district house and a refusal costs you the thing you refused it with, and I know that because a man of fifty-one said it in a shed in the sixth month about a piece of paper with her name at the top of it. So a person can say no and the no is real and it is in a book and the person is still standing there the next morning. That is all. That is the whole of it and it is nine words and it has taken me nineteen years to be able to say it.**"
 
-"**Write that down**," said Aldis Kern. "**In this hand, and with the day on it, and read it back to her, and if you read it back to her twice I will pay for the second reading out of my own wage and not out of the guild's, because the guild does not know I am here.**"
+"Write that down," said Aldis Kern. "In this hand, and with the day on it, and read it back to her, and if you read it back to her twice I will pay for the second reading out of my own wage and not out of the guild's, because the guild does not know I am here."
 
 ---
 
@@ -128,13 +128,13 @@ And then a foreman of fifty-one said the thing that made it a morning and not an
 
 "You are the man and the boy."
 
-"**I am the man and the boy.**"
+"I am the man and the boy."
 
 "**In your rate.** One shilling and sixpence a day for a barrow of stone, a man and a boy, ninety days, weather permitting, on the four hundred yards from the ford to the mill wall. **And you have had that rate in a wagon since the third of the sixth month and it has got a barrow in it and a boy in it and a man in it and not one of those three is a name.**"
 
 "Nobody has ever needed one."
 
-"**Nobody has needed one until about four minutes ago.**" Halla Wray was standing up and she had not been up all morning. "**I am going to ask you a question and it is the same question we have been asking at sixty doors and you are the sixty-first, and you are in about four seconds' walk of this bay, and you have been in it twice, and I have been in a shed for nine years and I have never once been on a piece of paper, and I read your slate in the sixth month through a door because a man of thirty-eight read it out in this room to about nine of us who cannot read.**
+"Nobody has needed one until about four minutes ago." Halla Wray was standing up and she had not been up all morning. "I am going to ask you a question and it is the same question we have been asking at sixty doors and you are the sixty-first, and you are in about four seconds' walk of this bay, and you have been in it twice, and I have been in a shed for nine years and I have never once been on a piece of paper, and I read your slate in the sixth month through a door because a man of thirty-eight read it out in this room to about nine of us who cannot read.
 
 "So. **Will you take the bank for a season.** One person, forty-five pence a day, ninety days, a day to give it up, and your name at the foot of it and a day against it. **And not your guild's name. Yours.**"
 
@@ -148,13 +148,13 @@ He said it in about nine seconds and it was not a frightened no and it was not a
 
 He gave a reason and it was the reason he had been carrying since the fourth month in a wagon, and it was not about the money.
 
-"**I have been the man and the boy in a rate for six weeks. And I have spent six weeks finding out what that is, and what that is, is that a person can be paid for work and does not have to be found for anything. That is the whole of the advantage of being in a phrase instead of a column and I have known it for six weeks and I have said it out loud in this bay and I have been right.
+"I have been the man and the boy in a rate for six weeks.** And I have spent six weeks finding out what that is, and what that is, is that a person can be paid for work and does not have to be found for anything. That is the whole of the advantage of being in a phrase instead of a column and I have known it for six weeks and I have said it out loud in this bay and I have been right.
 
 "And you are asking me to be a name at the foot of a bank. **And I would like to, and I have wanted to since the fourteenth of the fifth month when a man in this room said that a name in a list is a road, and I have been carrying that sentence for nine weeks in a wagon.**
 
 "**And I have about four hundred letters from a man I cannot name, and if my name goes at the foot of a bank in a book in a hired bay, then whoever is holding the list already has me.**"
 
-Nobody said anything.
+The forge up the road started, the way it does at that hour, and about four people heard it and nobody in the bay used it as an excuse to look away.
 
 "**So: no. And I want it written down that the reason is not that I think the bank is not worth a day rate, and I want it written down by the man of thirty-eight in a book with no heading, and I want it read back to me twice, and the second reading slower.**"
 

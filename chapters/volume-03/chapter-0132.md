@@ -118,7 +118,7 @@ She wrote a sentence out on the back of a blank and looked at it for a while.
 
 She put the pen down and then picked it up and added one more line, and it is the line that is at the foot of the sheet that went up the road.
 
-"**A table may refuse a question and be entirely right, and a party may put the same question differently and be served inside four days, and the only defence anybody in this Empire has against that is a person who is in the room when the second version is written. There is no form for that. There is a person for that.**"
+"**A table may refuse a question and be entirely right, and a party may put the same question differently and be served inside four days, and the only defence anybody in this empire has against that is a person who is in the room when the second version is written. There is no form for that. There is a person for that.**"
 
 ---
 

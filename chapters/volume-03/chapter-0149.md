@@ -10,17 +10,17 @@ Nobody in that room has read it. She cannot. About nine of the thirty in the roo
 
 She started the way she has started about four hundred times, which is by putting the thing on the bench and then telling the room what it is not.
 
-"**There is a sheet of paper on that bench and it is a wage and I cannot read a wage and I have not pretended to for fifty years, and I am going to say four things about the cost of it before anybody asks me a question, and then the girl is going to read it out twice and the second one is slower, and that is the whole of the morning.**
+"There is a sheet of paper on that bench and it is a wage and I cannot read a wage and I have not pretended to for fifty years, and I am going to say four things about the cost of it before anybody asks me a question, and then the girl is going to read it out twice and the second one is slower, and that is the whole of the morning.
 
 "**One. A reader's day is between four pence and a shilling.** Four pence is what a copy of a thing costs. A shilling is a question at a notary's table and about four days of a bay of thirty people's breakfast between them. Those are the two numbers anybody in this room has got for the price of a person sitting in a room and reading.
 
 "**Two. This bay has four shillings a year and that is the rent of a stone store and it is taken out of the book four times a year and it is the whole of the Company's money and it has been for nineteen years.**
 
-"So there is no money. There has never been any money. **Ninety-one households have never had four pence in a pot to give a person for turning up**, and I have been a chair for nineteen years and it turns out that the reason nobody has ever paid a reader is not that the reader is not worth paying. **It is that there is no such thing as four pence.**"
+"So there is no money. There has never been any money. Ninety-one households have never had four pence in a pot to give a person for turning up, and I have been a chair for nineteen years and it turns out that the reason nobody has ever paid a reader is not that the reader is not worth paying. **It is that there is no such thing as four pence.**"
 
 ---
 
-"Then somebody put a price on it," said a man of about thirty-eight at the far end. "**And I have watched a man of about fifty price nine tons of his own kerb at seven shillings and sixpence in the fourth month and refuse to give them, on purpose, because a gift is money with no figure on it and is the worst kind. So say the figure, and then say why the figure is forty-five pence and not four pence.**"
+"Then somebody put a price on it," said a man of about thirty-eight at the far end. "And I have watched a man of about fifty price nine tons of his own kerb at seven shillings and sixpence in the fourth month and refuse to give them, on purpose, because a gift is money with no figure on it and is the worst kind. So say the figure, and then say why the figure is forty-five pence and not four pence."
 
 "Because **a person who turns up is never paid and cannot be, and I have known that since the fourth of the fifth month of last year when a girl of seventeen said it in this room and I did not understand a word of it and I have had about eighteen months to understand a sentence.**
 
@@ -32,9 +32,9 @@ She started the way she has started about four hundred times, which is by puttin
 
 Then she said the part that had to be said and that nobody had asked, and it took about four minutes, and a girl of seventeen stood up in the middle of it.
 
-"**And I am going to tell the room why that girl is standing up.**
+"And I am going to tell the room why that girl is standing up.
 
-"In the third week of the ninth, in this bay, about nine people thanked her. **Four or five of them said thank you and one of them said it twice and it was the first time in four months that anybody had said it to her in a room and she has been read to about nine hundred people since the fifth month and nobody had ever said it.**
+"In the third week of the ninth, in this bay, about nine people thanked her. Four or five of them said thank you and one of them said it twice and it was the first time in four months that anybody had said it to her in a room and she has been read to about nine hundred people since the fifth month and nobody had ever said it.
 
 "And she said no, and she asked for something, and I want it in the book and I want it read out.
 
@@ -52,7 +52,7 @@ The girl of seventeen said the four words, standing, without being asked, which 
 
 "**I read it, I do not say.**"
 
-"**You are going to say it this morning,**" said Doreth Ferrow, "**because you are going to be paid for it from the first of the fourth month of next year, and the second reading is the one you are paid for, and the first one is the one you have been doing for nothing since the twentieth of the twelfth month of last year, and I am not going to have that put in an engagement in that order.**
+"**You are going to say it this morning,**" said Doreth Ferrow, "because you are going to be paid for it from the first of the fourth month of next year, and the second reading is the one you are paid for, and the first one is the one you have been doing for nothing since the twentieth of the twelfth month of last year, and I am not going to have that put in an engagement in that order.
 
 "**You are going to be paid for both.**"
 
@@ -84,11 +84,11 @@ She read it out twice and the second reading was slower, and about nine people i
 
 And then she said, out loud, in that bay, before anybody had asked her anything:
 
-"**That is the first time in five months that a sheet has been read out in this room with my name at the top of it. And I asked for the written one. I asked twice. I asked a keeper of a water office to put it in writing instead of saying it at a gate, and she said no the first time.**
+"That is the first time in five months that a sheet has been read out in this room with my name at the top of it. And I asked for the written one. I asked twice. I asked a keeper of a water office to put it in writing instead of saying it at a gate, and she said no the first time.
 
 "**And I am not thanking anybody, and I have asked about nine people not to, and I want the asking entered in the book with the day on it, and I want one more thing entered and I want it in my own hand.**"
 
-"**Say it.**"
+"Say it."
 
 "**I want it entered that I am the reader, and that the reason I asked for it in writing is that a verbal engagement is a thing a master can end at a gate in about nine seconds, and a written one has a day on it and a copy, and I have watched what a day and a copy are worth in this matter because a man of fifty-one in a shed in the sixth month said that a name at the foot of a page is a road, and I would like a road.**"
 
@@ -128,7 +128,7 @@ The answer came back on the sixteenth, in a hand and not in an envelope, and it 
 >
 > *Refused. **This court cannot hold a term in another person's paper.**
 >
-> *The order of the court sitting in room four of the eighteenth day of the seventh month last year gives a hearing and does not say when. The finding of this court of the ninth day of the eighth month last year says when. **The two are nine days out of order with each other. This court has not read the first and that court has not read this, and there is no form in this Empire for one court to ask another court what it has found, and this court has tried to write one four times in nine years and has not sent it and has written *why not* against it three times.***
+> *The order of the court sitting in room four of the eighteenth day of the seventh month last year gives a hearing and does not say when. The finding of this court of the ninth day of the eighth month last year says when. **The two are nine days out of order with each other. This court has not read the first and that court has not read this, and there is no form in this empire for one court to ask another court what it has found, and this court has tried to write one four times in nine years and has not sent it and has written why not against it three times.***
 >
 > *And the reason is entered with the day on it, and the box is two lines deep and this is longer and the clerk has been told it is all right.*
 
@@ -136,15 +136,15 @@ The answer came back on the sixteenth, in a hand and not in an envelope, and it 
 
 The girl of about thirty-four who wrote the form read it out twice in that bay, the second time slower, and about nine people who could not read a word were spoken to by a person sitting next to them, and she said at the end:
 
-"**And I am going to read you the last line of the letter, which is not part of the form, and which is in the magistrate's own hand, and which I have read four times and could not make sense of until about a week ago and have now made sense of and I am not sure I am right.**
+"And I am going to read you the last line of the letter, which is not part of the form, and which is in the magistrate's own hand, and which I have read four times and could not make sense of until about a week ago and have now made sense of and I am not sure I am right.
 
 "**It says: I have been asked a second time in nine years and the answer is the same and I am going to keep giving it, and if the two halves of that sentence are ever put on the same table in a room with a witness in it then this court will read both and this court will not say which of them is wrong, because this court does not know, and a court that does not know should say so in a form with a day on it, and that is what I have done.**"
 
-Nobody said anything for about nine seconds.
+That sat in the room a while, and the bench at the back went quiet first.
 
 Then Doreth Ferrow said, "**Then nobody in this bay is going to get a court to fix that day.**"
 
-"**No,**" said Rennick Adley. "**What they are going to get is a person to turn up on it. And there is no form in this empire for compelling a person to be brought to a room, and a seat has had a standing offer open for about sixteen months to pay the carriage of anybody this court thinks should be heard, and it has never worked once, because it pays carriage and it does not pay attendance, and a woman of sixty-four worked that out on the twenty-ninth of the sixth month of last year in a room with about thirty people in it.**
+"No," said Rennick Adley. "What they are going to get is a person to turn up on it. And there is no form in this empire for compelling a person to be brought to a room, and a seat has had a standing offer open for about sixteen months to pay the carriage of anybody this court thinks should be heard, and it has never worked once, because it pays carriage and it does not pay attendance, and a woman of sixty-four worked that out on the twenty-ninth of the sixth month of last year in a room with about thirty people in it.
 
 "**So the date is going to be kept by somebody walking. And it has to be a person who is not paid, or it is a favour, and a favour has no notice.**"
 

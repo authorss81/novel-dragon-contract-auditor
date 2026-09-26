@@ -20,11 +20,11 @@ And the second question was on the other side of the sheet, and it was the one t
 
 ---
 
-She read both sides standing up at the window with a courier waiting, and then she went and got the register, and she was gone for about an hour and forty minutes, and she came back and said, "**Ask the first one again, slowly.**"
+She read both sides standing up at the window with a courier waiting, and then she went and got the register, and she was gone for about an hour and forty minutes, and she came back and said, "Ask the first one again, slowly."
 
 The girl of about twenty read it again, slowly.
 
-"**Right.**"
+"Right."
 
 And Ivet Sarn wrote the answer in about eleven minutes and then wrote it again in a form, and the form is one of the ordinary forms of that court and it has a box for a reason and no box of any kind for a why, which is a fact about about nine hundred forms in this empire and about forty of them on this terrace.
 
@@ -36,9 +36,9 @@ Here is the whole of what she put in the box, and it is longer than the box.
 >
 > *Refused, and the reason is on a page in my own hand in this court's own minute book with the day on it, and the box is two lines deep and this is longer than two lines and I do not care.*
 >
-> ***There is no column this court could add that would be of use to them, and the reason is that a column with a date in it and a person against the date is a hearing, and a hearing is the only thing in this Empire that makes anybody answerable to anything, and this court cannot make one.***
+> ***There is no column this court could add that would be of use to them, and the reason is that a column with a date in it and a person against the date is a hearing, and a hearing is the only thing in this empire that makes anybody answerable to anything, and this court cannot make one.***
 >
-> *A person who has not been heard has not been given a duty. A duty given to a person who has not been heard is the thing this court has spent nineteen years declining to do, in about nine hundred rooms, with about four people in them on an ordinary afternoon. A hearing requires a person to be summoned. **This court cannot pay the carriage of a person to be summoned, cannot compel a person to attend, and has no power to make anybody come; and there is a standing offer from a seat, made in the sixth month of last year and still open, to pay the carriage of any person this court thinks should be heard — and that offer has been inoperable for about sixteen months, because it pays carriage and not attendance, and because there is no form in this Empire for compelling a person to be brought to a room.***
+> *A person who has not been heard has not been given a duty. A duty given to a person who has not been heard is the thing this court has spent nineteen years declining to do, in about nine hundred rooms, with about four people in them on an ordinary afternoon. A hearing requires a person to be summoned. **This court cannot pay the carriage of a person to be summoned, cannot compel a person to attend, and has no power to make anybody come; and there is a standing offer from a seat, made in the sixth month of last year and still open, to pay the carriage of any person this court thinks should be heard — and that offer has been inoperable for about sixteen months, because it pays carriage and not attendance, and because there is no form in this empire for compelling a person to be brought to a room.***
 >
 > *And I am asked, in the second question, for the reason, and the reason is above, and I am going to say one more sentence and it is not part of the reason and it is my own. **If this court had a seventh column and put a date and a person in it, then about nine hundred and forty people would be summoned about four at a time to rooms about four hundred miles from where they live, and this court would be doing to them the exact thing the district of this court did to them in the sixth year, with a better motive and a worse timetable.***
 
@@ -66,7 +66,7 @@ Thirty-one times.
 
 The girl of about twenty read it out. She read it out twice, and the second reading was slower, and she read the thirty-one as well.
 
-"**What is the second figure.**"
+"What is the second figure."
 
 "**The number of houses out of about sixty that a court wrote to in the sixth year and that came back with a copy of what the court had said, with a door on it.** Thirty-one, and of those, twenty-two had been seen by somebody and nine had been told, and a court in this district entered on the record that seeing a person and telling a person are not a hearing and are not the same as each other, and I did that entry and I would do it again."
 
@@ -98,7 +98,7 @@ The clerk who was at the window wrote down that a person came and did not open i
 
 The file is still there. It is on a shelf in the fourth press and it is shut and it is between two others and it has a number on the spine and the number is a number of a book.
 
-**Ivet Sarn stood in front of it for about nine seconds and then walked out of the corridor without touching it, and said so to the girl of about twenty at the top of the steps, and the girl wrote it down on the back of the form with the day on it, and that is now the only record in this matter of the not-opening being witnessed by anybody but the person who did it.**
+Ivet Sarn stood in front of it for about nine seconds and then walked out of the corridor without touching it, and said so to the girl of about twenty at the top of the steps, and the girl wrote it down on the back of the form with the day on it, and that is now the only record in this matter of the not-opening being witnessed by anybody but the person who did it.
 
 "I am not going to open it," she said.
 

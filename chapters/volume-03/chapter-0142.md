@@ -40,7 +40,7 @@ Here is the first of them, and it is what he had, and it is four lines again:
 
 He read that out in about four minutes. She wrote it down, which she does, and she has never once pretended she was doing anything else.
 
-Then she said, "**Read the second line of the second paragraph again.**"
+Then she said, "Read the second line of the second paragraph again."
 
 > *The person who holds it may give it up at any time on one day's notice, given in his own hand into a book that has no heading.*
 
@@ -60,7 +60,7 @@ He said it.
 
 He got up and put the door open about nine inches, which he does not do, and stood at it, and then came back and sat down.
 
-"**There are two ends to it,"** he said. "**And I have been building the wrong one since the second week of the fourth month, and I want to write both of them down and then I am going to strike one of them out, and I am not going to explain which and you are not going to ask.**"
+"There are two ends to it," he said. "**And I have been building the wrong one since the second week of the fourth month, and I want to write both of them down and then I am going to strike one of them out, and I am not going to explain which and you are not going to ask.**"
 
 "Go on."
 
@@ -70,13 +70,13 @@ He got up and put the door open about nine inches, which he does not do, and sto
 
 "And which one is the paper on this desk."
 
-"**End two.** And I built it in about eleven minutes, in the second week of the fourth month, and I have carried it for eleven weeks, and the reason is that I could not stand on a towpath for eleven weeks. **The end that works is the end with about sixty people in it, and the reason I built the other one is that it is the only end I could carry myself, and I have been carrying it for eleven weeks and about four hundred and thirty miles of it is out of seventeen shillings and a penny the week and nobody pays my carriage.**"
+"End two. And I built it in about eleven minutes, in the second week of the fourth month, and I have carried it for eleven weeks, and the reason is that I could not stand on a towpath for eleven weeks. **The end that works is the end with about sixty people in it, and the reason I built the other one is that it is the only end I could carry myself, and I have been carrying it for eleven weeks and about four hundred and thirty miles of it is out of seventeen shillings and a penny the week and nobody pays my carriage.**"
 
 ---
 
 She wrote that down as well. It took her about four minutes and she read it back and he made her change one word in it, which was *carried* to *carried by me*, and she let him.
 
-"**And that is the first time in this matter that you have said a thing to me that you did not write on the back of a proof sheet first,**" she said. "**And I am not going to make anything of it, and I am also not going to let it stand in a room without the other half of it, which is that you have just described a man building a paper around the size of himself, and you did it in eleven minutes, and you were twenty-nine weeks into a case at the time and nobody had told you to.**"
+"**And that is the first time in this matter that you have said a thing to me that you did not write on the back of a proof sheet first,**" she said. "And I am not going to make anything of it, and I am also not going to let it stand in a room without the other half of it, which is that you have just described a man building a paper around the size of himself, and you did it in eleven minutes, and you were twenty-nine weeks into a case at the time and nobody had told you to."
 
 "Nobody has told me to now either."
 
@@ -126,7 +126,7 @@ He put it in his own book with the day on it and did not send it.
 
 He put the pen down.
 
-"**Also, if I write it now, I write it on about eleven answers out of about sixty. And the number is eleven. And the thing I have learned in fourteen months — which I learned in about nine seconds in this room in the fourth week of the fourth month from a woman who was not advising me because her third line forbids it — is that **you do not get to choose which eleven.**"
+"**Also, if I write it now, I write it on about eleven answers out of about sixty. And the number is eleven. And the thing I have learned in fourteen months — which I learned in about nine seconds in this room in the fourth week of the fourth month from a woman who was not advising me because her third line forbids it — is that you do not get to choose which eleven.**"
 
 ---
 
@@ -136,7 +136,7 @@ She put her pen down too, and looked at him for a while, and then she said the t
 
 He looked at her.
 
-"**You have a rule.** The two of us, in the twelfth month of last year. Either of us may put a choice in writing with a date on it and the other must answer in a room, in words, with a date. You have used it five times. **You have not used it in eleven weeks and I have noticed, and I have not asked, and I am asking now, in the ordinary way, and it is a question and not a condition.**"
+"You have a rule." The two of us, in the twelfth month of last year. Either of us may put a choice in writing with a date on it and the other must answer in a room, in words, with a date. You have used it five times. **You have not used it in eleven weeks and I have noticed, and I have not asked, and I am asking now, in the ordinary way, and it is a question and not a condition.**"
 
 "No."
 
@@ -162,7 +162,7 @@ She looked at him for long enough that he thought she was going to do the thing 
 
 He did not say anything.
 
-"**And you asked me what it is for, and that is the fourth time you have asked me a question you have already written the answer to,**" she said, "**and my third line forbids me to advise, and advice by proximity is the ordinary way advice happens, and I have not advised you and I am not going to, and I have just told you a fact about a number and you may do what you like with it.**"
+"And you asked me what it is for, and that is the fourth time you have asked me a question you have already written the answer to," she said, "and my third line forbids me to advise, and advice by proximity is the ordinary way advice happens, and I have not advised you and I am not going to, and I have just told you a fact about a number and you may do what you like with it."
 
 ---
 

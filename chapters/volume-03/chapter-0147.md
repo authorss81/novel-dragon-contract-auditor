@@ -44,27 +44,27 @@ He was sitting on the end post at the landing with his sleeves up, and Hob Bray'
 
 She asked him at the gate, standing, in about four minutes, and she did not have a slate.
 
-"**Will you take the bank for a season.** One person, forty-five pence a day, about ninety days, a day to give it up with a day's notice, and your name at the foot of a list with a day against it, in a book that has no heading. **And the chair put in a line on the fifteenth of the seventh that nobody asks a person twice, and that applies to you as well as to anybody, and I am not going to come back.**"
+"**Will you take the bank for a season.** One person, forty-five pence a day, about ninety days, a day to give it up with a day's notice, and your name at the foot of a list with a day against it, in a book that has no heading. And the chair put in a line on the fifteenth of the seventh that nobody asks a person twice, and that applies to you as well as to anybody, and I am not going to come back."
 
 He did not say anything for about eleven seconds.
 
 "No," he said.
 
-"**That is that. Thank you.**"
+"That is that. Thank you."
 
 But he said, "**You have not asked me why.**"
 
 "**No. I have not, and I am not going to, and I have said in a shed in the sixth month that a person can be asked and can say no and can put it down, and I meant it, and you have just proved it and I would rather a person proved it than a rule.**"
 
-And he said, "**I will tell you why, because nobody has ever asked me, and then you can do what you like with it.**"
+And he said, "I will tell you why, because nobody has ever asked me, and then you can do what you like with it."
 
 ---
 
 It took him about four minutes and he did it well, and about nine people heard all of it because about nine people were in the mill yard and none of them moved.
 
-"**I came up that road in the fourth month with a cart of seed behind a man and I stopped at the gate and watched a flood come down a bank that a clerk in a city paid for out of his own wage.**
+"I came up that road in the fourth month with a cart of seed behind a man and I stopped at the gate and watched a flood come down a bank that a clerk in a city paid for out of his own wage.
 
-"And I stayed. **That is the whole of it and it took me a fortnight to understand that I was staying.** I stayed because I did not want to go and find out whether a thing I had seen work was going to keep working, and I have been in about four of those bay meetings since and I have not said one word in any of them except one.
+"And I stayed. That is the whole of it and it took me a fortnight to understand that I was staying. I stayed because I did not want to go and find out whether a thing I had seen work was going to keep working, and I have been in about four of those bay meetings since and I have not said one word in any of them except one.
 
 "And in the last week of the sixth month that woman of sixty-four asked a room who came in the fourth month and why, and about four people said they wanted to see, and I said, in nine words, **I wanted to see if it worked.**
 
@@ -76,7 +76,7 @@ It took him about four minutes and he did it well, and about nine people heard a
 
 ---
 
-Nobody said anything for about nine seconds, and then a woman of about forty-four at the third house, who had said no twice and was not in the bay that morning because she was in her own kitchen, said nothing at all because she was not there, and about nine people who were there looked at each other.
+There was a gap of about nine seconds in it, and then a woman of about forty-four at the third house, who had said no twice and was not in the bay that morning because she was in her own kitchen, said nothing at all because she was not there, and about nine people who were there looked at each other.
 
 Then a foreman of fifty-one said, "**Then I am not going to put you down, and I am not going to ask you again, and I want that written down with the day on it and I want the no read back to you twice.**"
 
@@ -88,7 +88,7 @@ And Rennick Adley wrote it, and it is in a book with no heading, and it is the f
 
 Then she asked him the second question, in the ordinary way, on her way to the gate and not making a thing of it, and it is the question that built the arrangement and she has said since that she did not think of it and that it was handed to her.
 
-"**Kem. If you were putting a thing on about forty-one people and you were the one putting it on — what would you have asked the next person.**"
+"Kem. If you were putting a thing on about forty-one people and you were the one putting it on — what would you have asked the next person."
 
 He thought about it for about eleven seconds.
 
@@ -98,11 +98,11 @@ He thought about it for about eleven seconds.
 
 Halla Wray stopped walking.
 
-"**Say that again.**"
+"Say that again."
 
-"**I said it once.**"
+"I said it once."
 
-"**Say it slower and I will get a book.**"
+"Say it slower and I will get a book."
 
 And she got a book, and a slate, and a pencil, and he said it slower, and she wrote it down as he said it, and then she read it back to him and he made her change one word.
 
@@ -118,13 +118,13 @@ And the seventeen-year-old girl who reads things out in that bay twice was sitti
 
 And Tavi Venn told Halla Wray about it afterwards, on the bank above the mill, in about four minutes, and she did not want to be thanked and said so before she started.
 
-"I have been carrying it since the twentieth of the last month of the last year. **She asked me four questions off a list a man put on a stone in a lane and then she asked a fifth that is not on the stone, and she said it to me on a bank in the cold at about the seventh hour, and I did not answer it, and I have not answered it since and it is the only question anybody has ever asked me that I could not answer.**
+"I have been carrying it since the twentieth of the last month of the last year. She asked me four questions off a list a man put on a stone in a lane and then she asked a fifth that is not on the stone, and she said it to me on a bank in the cold at about the seventh hour, and I did not answer it, and I have not answered it since and it is the only question anybody has ever asked me that I could not answer.
 
-"And I have watched four men read four papers out in this bay since the fifth month and not one of them has put that question at the top of anything. **And a carter of thirty-one has said it in about eleven words at a gate this morning and he does not know where he got it, and he got it from standing in a yard in the cold, and so did she, and I think that is the same place.**"
+"And I have watched four men read four papers out in this bay since the fifth month and not one of them has put that question at the top of anything. And a carter of thirty-one has said it in about eleven words at a gate this morning and he does not know where he got it, and he got it from standing in a yard in the cold, and so did she, and I think that is the same place."
 
 "He has not read a schedule in his life."
 
-"**He read one he could not read**," said Tavi Venn, "**and I read about nine of them to about nine people who could not read them, and neither of us is paid, and that is a thing you are about to do something about and I would like to know what it is before you do it and I am not asking for anything.**"
+"He read one he could not read," said Tavi Venn, "and I read about nine of them to about nine people who could not read them, and neither of us is paid, and that is a thing you are about to do something about and I would like to know what it is before you do it and I am not asking for anything."
 
 ---
 
@@ -140,11 +140,11 @@ So Halla Wray did the arithmetic, out loud, in a yard, to about nine people, bec
 
 ---
 
-"**In the rotation**," said Halla Wray. "Not paid extra. Not paid by the bay — **the bay has four shillings a year and that is a rent. In the rotation. Forty-five pence a day like everybody else, for a season, with a day against the name, on the list of works.**
+"In the rotation," said Halla Wray. "Not paid extra. Not paid by the bay — the bay has four shillings a year and that is a rent. In the rotation. Forty-five pence a day like everybody else, for a season, with a day against the name, on the list of works.
 
 "And the reason, and it is the only reason and it is the whole of the finding of this volume: **a person who reads and is not in the rotation is a person who cannot be told to stop.**"
 
-Nobody said anything.
+That went round the yard, and about four people at the mill wall did not move.
 
 "And that is what a foreman of the district works found about a column with no heading nine months ago, and what a clerk of a flood terrace found about a sixth space with no heading on it last week, and what a woman of twenty in a counting room four hundred and thirty miles away found in a fourth column of a dyers' book six years after a woman of sixty-eight refused it, **and the four of us have never met and I would put money on there being no way to get us in one room.**"
 
@@ -156,17 +156,17 @@ She took the slate and she wrote her own name at the bottom of it, and a date ag
 
 "**H. Wray. From the seventeenth of the ninth to a day stated, to be stated by whoever is after me, and not by me.**"
 
-Somebody said, "**Put the day on it.**"
+Somebody said, "Put the day on it."
 
 "**I have just said that the day is not to be stated by me, and that is the first clause I have ever written for myself, and I am not changing it for a man in a bay coat.**
 
-"**Forty-five pence a day. About ninety days. One day's notice, in my own hand, in Rennick's book. And my name at the foot of it with a day against it, which means that about forty people in ninety-one households now know where I am on any given day without having to send to a house, and they have known it since about the ninth of the first month anyway, and the difference is that this is on a page and that was on a habit.**"
+"Forty-five pence a day. About ninety days. One day's notice, in my own hand, in Rennick's book. And my name at the foot of it with a day against it, which means that about forty people in ninety-one households now know where I am on any given day without having to send to a house, and they have known it since about the ninth of the first month anyway, and the difference is that this is on a page and that was on a habit."
 
 She put the slate down.
 
 "**And I have been a foreman for nine years and I have never once been on a piece of paper, and I have spent four months telling this bay that a name at the foot of a page is a road and that the road goes to the man with the tray, and I am not going to stand in a yard and say that and then not be on one.**"
 
-"**You will be on one,**" said Rennick Adley, "**and about four hundred yards below this a foreman of the district works is on a column with no heading over it with four hundred names in it who do not know they are on it, and you are going to be on one with a day on it and about sixty people who do know.**"
+"You will be on one," said Rennick Adley, "and about four hundred yards below this a foreman of the district works is on a column with no heading over it with four hundred names in it who do not know they are on it, and you are going to be on one with a day on it and about sixty people who do know."
 
 "**Then I am going to be a more expensive mistake than him,**" said Halla Wray, "**and I have had that one about nine years and I know exactly what it costs.**"
 

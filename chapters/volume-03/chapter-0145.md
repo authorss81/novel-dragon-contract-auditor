@@ -58,7 +58,7 @@ She read it out to herself, which she did not have to do, and then she put the p
 
 ---
 
-**Here is the thing she worked out in that hour, and it is the finding of the chapter and she did not expect it and it is not about the levy at all.**
+Here is the thing she worked out in that hour, and it is the finding of the chapter and she did not expect it and it is not about the levy at all.
 
 A column with a heading over it is a machine for turning a house's problem into a family's problem. She has seen it work. A mill takes a levy; a mill lets it go; the work goes to a person; a person is now a record; and a person who is a record is a person who can be asked about a piece of cloth by anybody with a copy of the right page and a reason and four years.
 
@@ -82,7 +82,7 @@ She asked three of them, in the ordinary way, in the lane, standing at the door,
 
 And a woman of about sixty at the eleventh door, who has cut plates out of a bench under a window on this lane for twenty-two years, said the other half of it, and Nell Kest wrote it down and has read it back to herself about nine times.
 
-"**You put a count in and it is the same as having put nothing in, and better, because a count is a thing a person can check.** The last time anybody put a count in this lane in a book somebody kept was about sixty years ago and it was the number of pieces off the frames in a bad year, and I have never once been asked whether that was a good number of pieces, and I have never once wanted to be. **Nobody has ever asked us anything. That is not a defence of it. But it is why nobody has ever stood in this lane and said no.**"
+"You put a count in and it is the same as having put nothing in, and better, because a count is a thing a person can check." The last time anybody put a count in this lane in a book somebody kept was about sixty years ago and it was the number of pieces off the frames in a bad year, and I have never once been asked whether that was a good number of pieces, and I have never once wanted to be. **Nobody has ever asked us anything. That is not a defence of it. But it is why nobody has ever stood in this lane and said no.**"
 
 ---
 
@@ -90,7 +90,7 @@ On the thirteenth of the eighth she got on a cart and went six hours to a lane w
 
 The assessor is about sixty-eight. She has a slate and a satchel and about nine houses in that lane and she does the whole of it in a day and she has done it for nineteen years and the fourth of the eleven she is at when Nell Kest gets there is not the fourth of the eleven, and it does not matter.
 
-"**I am not going to ask you for anything,**" said Nell Kest. "**I have written a line in the fourth column and it is not a name and I have put your declining above it in the same hand, and I have not put your name in, and I wanted you to know that before anybody else did.**"
+"I am not going to ask you for anything," said Nell Kest. "I have written a line in the fourth column and it is not a name and I have put your declining above it in the same hand, and I have not put your name in, and I wanted you to know that before anybody else did."
 
 The assessor read the slate. It took her about four minutes and she read it twice, which Nell Kest had told her she would be able to do in a letter.
 
