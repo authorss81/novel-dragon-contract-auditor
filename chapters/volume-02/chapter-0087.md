@@ -2,7 +2,7 @@
 
 The card had been used before anybody offered it to Marek Kest, and the proof of that is not clever and was not looked for. It is this: a certificate impression is a thing people carry about. A sealed sheet is worth nothing on its own and is worth a great deal if it gets to a counter before a person does, and about a hundred and forty years of practice in this city has taught everybody with a tray to know the difference, and the difference is the day.
 
-The card was produced at a door in the chamber of a district court in this city, in a matter with a number, in the second week of the sixth month, and it was produced by a person, and about nine people read it, and it came out again four days later and went back where it came from. It sat in a press at the end of that yard for three weeks after that, and then a man carried it to a room with a barred door, and then it went into a file in the lower district, and then a woman with steel under her thumbs looked at a die cut out of it.
+The card was produced at a door in the chamber of a district court in this city, in a matter with a number, on the twelfth of the sixth month, and it was produced by a person, and about nine people read it, and it came out again four days later and went back where it came from. It sat in a press at the end of that yard for three days after that, and then a man carried it to a room with a barred door, and then it went into a file in the lower district, and then a woman with steel under her thumbs looked at a die cut out of it.
 
 Nobody wrote any of that down except one day of a book of five columns, kept by a clerk of twenty-five, whose sheets are made a day and are about nine years deep. This is the sheet for the twelfth of the sixth month. It is in a press in the same corridor Marek Kest works in, about forty feet from his own door, and it is the only record in the empire of the whole of it, and it was made by a man who has never once been asked what the figures in it are a number of.
 
@@ -10,7 +10,7 @@ Nobody wrote any of that down except one day of a book of five columns, kept by 
 
 He went and asked about it as a document and not as a favour, on the ninth of the seventh month, at about the fifth hour in the afternoon, which is the hour the intake desk fills up and the hour a person of twenty-five has his hands full and is most likely to say no.
 
-The young clerk of the intake desk is unnamed on this page and he stays unnamed, and the reason is not modesty. It is that he has a sheet of foolscap with his own handwriting on it, and the sheet is a document about him, and if he is a person in this then this is about him, and it is not about him.
+The young clerk of the intake desk is not named here and he stays unnamed, and the reason is not modesty. It is that he has a sheet of foolscap with his own handwriting on it, and the sheet is a document about him, and if he is a person in this then this is about him, and it is not about him.
 
 "I want to ask you a question about a book," said Marek Kest. "I am not going to see it and I am not going to ask you to write a heading on it. I want to know what a row in it is a number of."
 
@@ -26,7 +26,7 @@ The clerk put his pen down, which nobody had expected.
 
 The clerk waited.
 
-"There is a card with a seal on it. It was produced at a door in this city in the fifth week of the sixth month, in a chamber in the lower district, in a matter with a number. It went in and it came out. I am not asking you to find the clerk who was at that door. I am asking you to tell me one thing: **does a row in a book like yours, or a row in a return like that one, carry anything about the person who brought a thing in?**"
+"There is a card with a seal on it. It was produced at a door in this city on the twelfth of the sixth month, in a chamber in the lower district, in a matter with a number. It went in and it came out. I am not asking you to find the clerk who was at that door. I am asking you to tell me one thing: **does a row in a book like yours, or a row in a return like that one, carry anything about the person who brought a thing in?**"
 
 "No," said the clerk.
 
@@ -54,11 +54,11 @@ The card is in it. It went in on the twelfth of the sixth month and it came out 
 
 "Go on."
 
-"A card with a seal on it was left on a hook at a counter in the Kiln sheds and the hook has got about thirty things on it, and the thirty things belong to about eleven firms, and a carrier comes and takes the one with a seal on it because that is the trade and because a man who is paid eleven pence to carry a thing does not ask what is on the face of it." He put his hands flat on the counter, which he does. "Is that how it is done."
+"A card with a seal on it was left on a hook at a counter in the Kiln sheds and the hook has got about thirty things on it, and the thirty things belong to about eleven firms, and a carrier comes and takes the one with a seal on it because that is the trade and because a man who is paid eleven pence to carry a thing does not ask what is on the face of it." He turned his hands over and looked at them, which he does. "Is that how it is done."
 
 "Yes," said the clerk.
 
-"Then here is what I came for and it is the whole of it." He looked at the book, upside down, from about four feet away, the way a copyist reads a thing. "**The record that exists in this city for the day that card went out of a door is a record of the order in which things arrived and left a door, and the order is evidence of something, and nobody has ever asked what.** And the answer is that it is evidence of a great many things, and it is evidence of nothing whatever about a person, and the five strokes in the fifth column are not a name and there is no form in this empire for turning five strokes back into a man, and the reason there is no form is that a name is the only thing a person has that is theirs, and a person who is paid eleven pence to carry a sealed card has a name and that is all he has got and it is not on the return and it never will be."
+"Then here is what I came for and it is the whole of it." He looked at the book, upside down, from about four feet away, the way a copyist reads a thing. "**The record that exists in this city for the day that card went out of a door is a record of the order in which things arrived and left a door, and the order is evidence of something, and nobody has ever asked what.** And the answer is that it is evidence of a great many things, and it is evidence of nothing whatever about a person, and the five strokes in the fifth column are not a name and there is no form in this empire for turning five strokes back into a man, and the reason there is no form is that a name is the one thing about a person that cannot be got out of him by a process, and a person who is paid eleven pence to carry a sealed card has a name and that is all he has got and it is not on the return and it never will be."
 
 "You have just told me a man with a tray is safe."
 
@@ -72,7 +72,7 @@ He is about thirty and he carries sealed things between offices in this city for
 
 He was asked one question and he answered it in about a minute and a half and he did not want it in writing and it was not put in writing.
 
-"You carried a card with a seal on it from a counter in the Kiln sheds to the chamber of a district court in the lower district in the fifth week of the sixth month, and back again four days later."
+"You carried a card with a seal on it from a counter in the Kiln sheds to the chamber of a district court in the lower district on the twelfth of the sixth month, and back again four days later on the sixteenth."
 
 "Aye."
 
@@ -110,11 +110,11 @@ He did not go to the lane off the Kiln road either, and that was said out loud i
 
 > *The eleventh of the seventh month, at about the ninth hour. There is a woman in a lane off the Kiln road who is the only person alive who can break a number on a die into the part that is hers and the part that is not, and she cut about nine hundred plates off that run and the run has a year in the middle of it, and if I go into that lane and ask her one question then the instrument works on her and she is a person in a file for the rest of her life, and she is not worth a tray at the moment and that is her whole protection, and a clerk of the Roll Hall is worth a tray. I am not going. I am not going to go and stand in a lane and be a man in a good coat who is good at questions, and I have said this out loud in a room with somebody in it because in nine years there will be a line in a file about a woman in a lane and I want the reason for the line to be in the same book as the line, and the line is hers and the reason is mine.*
 >
-> *I am not going to write the other three down in a row, either, and I want that written here while I am writing about things I am not doing. There are three other appearances of a word that walks about, and one of them is in a printed amendment sheet that is in nine hundred and forty copies on an ordinary list to forty-six addresses, and I could put all four on one sheet of paper in about four minutes, and the copyist of the third gallery did exactly that on the back of a form in the second week of the fifth month and tore it up and put the pieces in a waste box under her counter, and she told me about it about four minutes afterwards and she told me why, and the reason was that a list of people who can be found is a list of doors, and a man in the Kiln sheds has four doors in a book with no office on it and wrote down in his own hand that the first thing anybody would do with a list like his in nine years is not to find out about a plate. **Because the moment four of them are in a row somebody will draw a line, and a line is a chain, and a chain is an invention, and the whole finding of this matter is that there is nobody at the end of it to draw it to.** Four is a number. A practice is not a person. If I write the four in a row I will have made a road, and there is nobody at the far end of it, and in nine years somebody will walk it and find a house and be extremely pleased with himself, and the house will be there because I put it there.*
+> *I am not going to write the other three down in a row, either, and I want that written here while I am writing about things I am not doing. There are three other appearances of a word that walks about, and one of them is in a printed amendment sheet that is in nine hundred and forty copies on an ordinary list to forty-six addresses, and I could put all four on one sheet of paper in about four minutes, and the copyist of the third gallery did exactly that on the tenth of the fifth month, on a sheet of foolscap she had ruled herself at her own bench, and she wrote four names on it and then looked at what she had written and then tore it up and put the pieces in the waste box under her counter, and she told me about it about four minutes afterwards and she told me why, and the reason was that a list of people who can be found is a list of doors, and a man in the Kiln sheds has four doors in a book with no office on it and wrote down in his own hand that the first thing anybody would do with a list like his in nine years is not to find out about a plate. **Because the moment four of them are in a row somebody will draw a line, and a line is a chain, and a chain is an invention, and the whole finding of this matter is that there is nobody at the end of it to draw it to.** Four is a number. A practice is not a person. If I write the four in a row I will have made a road, and there is nobody at the far end of it, and in nine years somebody will walk it and find a house and be extremely pleased with himself, and the house will be there because I put it there.*
 >
 > *M. Kest, clerk, Received Room, the eleventh of the seventh month, at about the ninth hour.*
 
-Then he did the other thing, which is the thing this whole chapter is for, and he did it in about four minutes standing up, and Tamsin Rook wrote it out and read it back and it is the only finding in the volume that she has ever read that she has not found a hole in.
+Then he did the other thing, which is the thing this whole week was for, and he did it in about four minutes standing up, and Tamsin Rook wrote it out and read it back and it is the only finding she has ever read that she has not found a hole in.
 
 > *A document with a person's name at the top of it is a document about that person. That is the instrument and it has been the instrument of this matter for fourteen months.*
 >

@@ -2,7 +2,7 @@
 
 She goes over twice a week for flour and she has gone over twice a week for fifty-one years, and the bar is up at the end of the lane and not at the end of a bridge, and everybody who uses that crossing thinks the bar is the crossing, and it is not, and she has never said so to anybody because there has never been anybody to say it to.
 
-She is about sixty-five, and she keeps hens and takes the eggs across on the last day of the week, which is how she is known in that district, and the file does not have her in it and neither does the district and neither does the works, and she has never signed anything in her life with a name on it, and she has signed about four things with three fingers on a line, the last of them in a year she does not put a date to, and none of them were about the crossing.
+She is about seventy, and she keeps hens and takes the eggs across on the last day of the week, which is how she is known in that district, and the file does not have her in it and neither does the district and neither does the works, and she has never signed anything in her life with a name on it, and she has signed about four things with three fingers on a line, the last of them in a year she does not put a date to, and none of them were about the crossing.
 
 There is a lean-to about nine feet by six at the head of the crossing on this side, made of tarred board, and there is a stove in it and a stool and a shelf and a kettle and a card in a tin frame, and the man who keeps the card has been in it nineteen years and is sixty-four and gets a penny a day whether anybody crosses or not.
 
@@ -48,9 +48,9 @@ Then he stopped and looked past her at the first house past the bar, which is el
 
 ---
 
-The magistrate had a clerk with a book and it was raining and there was a woman of about sixty-five standing in a lean-to with a man in it, and she asked her.
+The magistrate had a clerk with a book and it was raining and there was a woman of about seventy standing in a lean-to with a man in it, and she asked her.
 
-Her name is not on this page and she is not going to give it and nobody asked her for it, and the minute of this court says so and says that the court did not ask.
+Her name is not in it and she is not going to give it and nobody asked her for it, and the minute of this court says so and says that the court did not ask.
 
 The magistrate asked four things and they took nine sentences in all, and the clerk wrote them in the order they were said, and the woman said the second half of the answer twice, in the same words, because the first time the wind took it and the second time the magistrate asked her to say it again and she did without being asked to be sure.
 
@@ -92,9 +92,9 @@ The court entered it at about the ninth hour of the twenty-eighth of the seventh
 
 ---
 
-What it cost is written down in her own account the same evening, and it is the last thing in this chapter and it is not in the minute, because a minute is a public file.
+What it cost is written down in her own account the same evening, and it is the last thing in her account and it is not in the minute, because a minute is a public file.
 
-There is a line in a file in this city now about a woman of about sixty-five who lives in the first house past a bar and who cannot read a paragraph, and there is no name in it. That is the first time in my life or in nine years in this court that a person has been written about in a file in this city and there is no name in it, and I did that, and I did it on purpose, and I did it because the answer was in a lean-to and not in a file and the only way to get an answer out of a lean-to is to write it down, and the only thing about a lean-to that does not travel is a name.*
+> *There is a line in a file in this city now about a woman of about seventy who lives in the first house past a bar and who cannot read a paragraph, and there is no name in it. That is the first time in my life or in nine years in this court that a person has been written about in a file in this city and there is no name in it, and I did that, and I did it on purpose, and I did it because the answer was in a lean-to and not in a file and the only way to get an answer out of a lean-to is to write it down, and the only thing about a lean-to that does not travel is a name.*
 >
 > *Nobody has ever asked that woman anything. I asked her four questions in about nine minutes in the rain and she is seventy and she had the good manners to say that she was not complaining and then told me the worst of it anyway, and what she told me is that a court in a city four miles away has now got a thing about her, and she cannot read it, and she will never know what it says, and in nine years the only person alive who will know that the line is about her is me.*
 >
@@ -112,4 +112,4 @@ Nothing has come up that road about the eighteenth of the seventh.
 
 She noticed that on the nineteenth, the way a person notices a thing that should have happened and did not: a carter or a rider off the city road comes down that road about twice a month for one thing or another, and the woman of about seventy has been watching that road from her door since she was nineteen, and there was nothing on it on the nineteenth.
 
-She has never been to a court in a city. She does not know what a court in a city is. She knows that there is a building in this city with a mark on the door of it that is not the mark on the crossing, and that the man in the hut says a notice went into that building in the third month of this year with nothing at the foot of it, and that a day was set in it for the eighteenth of the seventh, and that the day was the day before yesterday, and that nobody has come up the road about it, and that in seventy years she has never once been told anything that came out of a room in a city and does not expect to start now.
+She has never been to a court in a city. She does not know what a court in a city is. She knows that there is a building in this city with a mark on the door of it that is not the mark on the crossing, and that the man in the hut says a notice went into that building in the third month of this year with nothing at the foot of it, and that a day was set in it for the eighteenth of the seventh, and that the day was the best part of a fortnight ago, and that nobody has come up the road about it, and that in seventy years she has never once been told anything that came out of a room in a city and does not expect to start now.

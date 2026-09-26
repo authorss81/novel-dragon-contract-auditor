@@ -1,10 +1,10 @@
 # Chapter 90: Open to Challenge
 
-The notice went out on the fifth of the eighth month from the office of a solicitor of about fifty-five who has done this district's poor business for nineteen years and says on the record that he is not good at it, and it went to the district works and to the district court and to the household, and it carried seven days, and the seven days were given by him and not by the court, because the court's part of it is still a refusal with reasons and a date in it from the third of the fourth month, and a minute of the twenty-first of the fifth month in which it fixed no date at all and entered that it could not.
+The notice went out on the second of the eighth month from the office of a solicitor of about fifty-five who has done this district's poor business for nineteen years and says on the record that he is not good at it, and it went to the district works and to the district court and to the household, and it carried seven days, and the seven days were given by him and not by the court, because the court's part of it is still a refusal with reasons and a date in it from the third of the fourth month, and a minute of the twenty-first of the fifth month in which it fixed no date at all and entered that it could not.
 
 The date was the ninth of the eighth month, at the second hour, in the chamber of the district court of Auremar's lower district.
 
-She ordered the day before she wrote the order, and it took her about four minutes on the morning of the eighth, and it is in the day's book in her own hand, and it is the third thing that happens in a room in this matter and the only one of the three that has ever worked.
+She ordered the day before she wrote the order, and it took her about four minutes on the morning of the eighth, and it is in the day's book in her own hand, at the bottom, under a line she drew, and there is no form in this empire for a magistrate to do that and no heading in any fund for what it cost, and it is the only part of this case that anybody outside this building will ever hear of.
 
 She wrote: *the person affected is addressed before any paper is read into the room, and if a paper is put in front of her it is put after she has spoken and not before, and the magistrate will say out loud what is about to be read and who wrote it before it is read, and if the person cannot read a paragraph the reading is to be by a person of her choosing in the room and not by an officer of this court.*
 
@@ -12,9 +12,9 @@ She read it twice, and then she sent for Hester Crane and told her why in about 
 
 ---
 
-At about the fifth hour of the fourth of the eighth month, the magistrate walked four hundred yards and stood in a lean-to at the head of a crossing and told a woman of about seventy that the court had written a line about her with no name in it, and that it was true, and that it did nothing for her, and that the bill at the other end of that bar is still nineteen pounds three and fourpence and is still not being paid by anybody.
+At about the fifth hour of the first of the eighth month, the magistrate walked four hundred yards and stood in a lean-to at the head of a crossing and told a woman of about seventy that the court had written a line about her with no name in it, and that it was true, and that it did nothing for her, and that the bill at the other end of that bar is still nineteen pounds three and fourpence and is still not being paid by anybody.
 
-The woman asked her one question, which was whether anybody had been paid for the saying of it, and the magistrate said no, and the woman said, *then it was worth doing and I will tell you why it was worth doing, and then you can go and write it down and get wet again* — and then she said it, and it took about four minutes, and none of it is written down here because it belongs to her and the court did not take it and did not ask to.
+The woman asked her one question, which was whether anybody had been paid for the saying of it, and the magistrate said no, and the woman said, *then it was worth doing and I will tell you why it was worth doing, and then you can go and write it down and get wet again* — and then she said it, and it took about four minutes, and none of it is written down because it belongs to her and the court did not take it and did not ask to.
 
 ---
 
@@ -38,7 +38,7 @@ The magistrate read her own order of the day out loud, in about forty seconds, a
 
 "A word keeps coming to my gate." She was not looking at anybody. "I do not know who sends it. It is a word and not a person, and it has been coming since about the ninth month of last year and before that, and it comes on a paper with a date on it, and there is nobody at my gate to give it to because the parish it belonged to went in the sixth year. So it comes to me." She stopped for a moment. "And every time it comes my granddaughter reads it to me and I answer it out loud and nothing is signed, because I have signed one thing in sixty-one years and I would like it to stay at that. It has come eleven times. Nine times I said I would see. Twice I said no. I want all three of those written down and I want the nine in with the two, because the nine are the ones I am ashamed of, and I did not know there was going to be a no until the fourth month of this year and before that I said yes to a thing I could not read because a girl of eleven read it to me in my own kitchen."
 
-Nobody wrote that down. The clerk wrote it down. It is in the minute of the ninth of the eighth month at about the ninth line, and it is the ninth line and nothing was argued about it, and the finding of this case in nine years that anybody will read is not the ninth line but the fourth.
+Nobody wrote that down. The clerk wrote it down. It is in the minute of the ninth of the eighth month at about the ninth line, and it is the ninth line and nothing was argued about it, and the finding of this case in nine years that anybody will read is not the ninth line but the second of the three, and the second of the three is the one that says a person who is afraid of a document cannot get in front of it, and it is the only one of the three that anybody is going to try to get rid of.
 
 ---
 
@@ -62,15 +62,23 @@ He put his hand in his coat and brought out a form, and it was the returned form
 
 "Nineteen words on the back of this form," he said, "and nobody has ever read them out in a room, and I have had them in a coat for four months and I have read them in a chamber to myself about forty times, and I am not a lawyer of any ability and I have lost two applications in this district in four months and won nothing, and I am going to read them out because the person they are about is sitting nine feet from me and cannot read them."
 
-*Whether the crossing is a work of the district or of a holder.*
+*The form is returned because the form cannot be entered and not because the work is refused.*
 
 He read it twice. The room went quiet in the way a room does when everybody in it has understood the same thing at the same moment.
 
 "That is the whole of this case," said Silas Sowle, "and it has been the whole of this case for four months, and every person in this room has spent four months on nineteen pounds three and fourpence, and the bill is not the bill, and the bill has never been the bill, and what the form wanted was a decision and a decision needs a person to decide and there has not been one in this district since a parish was dissolved in the sixth year and nobody in Lowcross knew, because the notice went to the parish."
 
+"Seventeen," said Joane Tranter.
+
+"That is what I have always called it."
+
+"The clerk will enter seventeen, because I have spent nine years counting a bar up and down four times a week and I do not have to be good at anything else to count a sentence. And let the file go on calling it nineteen, because a file with one figure wrong in it for four months is a thing I have got about nine of, and it is not worth a morning."
+
+"I counted it every time for four months," said Silas Sowle, "and I never wrote it down once, and that is very nearly the whole of what is wrong with this case."
+
 "What do you ask this court for," said Joane Tranter.
 
-"I ask for one thing and it is the smallest thing I have ever asked anybody for and I have been ashamed of it for four months," said Sowle. "**I ask that it be found that a person affected may be heard about an instrument in a room, in a place that recognises the room, before it binds anybody.** And I do not ask that the court decide the nineteen words, because the court cannot, and I do not ask for a penny, and I do not ask you to make the crossing a work of the district, because you have told me in writing you cannot, and I have read that paper back to the room, and you could not do it if you tried, and a court that tried would be doing something worse than a court that says no."
+"I ask for one thing and it is the smallest thing I have ever asked anybody for and I have been ashamed of it for four months," said Sowle. "**I ask that it be found that a person affected may be heard about an instrument in a room, in a place that recognises the room, before it binds anybody.** And I do not ask that the court decide the words on the back of the form, because the court cannot, and I do not ask for a penny, and I do not ask you to make the crossing a work of the district, because you have told me in writing you cannot, and I have read that paper back to the room, and you could not do it if you tried, and a court that tried would be doing something worse than a court that says no."
 
 ---
 
@@ -122,7 +130,7 @@ In the yard, at about the half past four, Hester Crane waited nine minutes and t
 
 She told her. It took four minutes and it was in the plainest words she had.
 
-And then the last thing, and it is on the page because it is the last thing and the court of Auremar's lower district is not a place where a person is left with an impression.
+And then the last thing, and it is in the minute because it is the last thing, and the court of Auremar's lower district is not a place where a person is left with an impression.
 
 "Now the other half, and I am not going to pretend otherwise. You came for the nineteen pounds three and fourpence and I have not given you the nineteen pounds three and fourpence. Nobody has. The crossing is open and nobody is liable for it and it will be open in the ninth month and the twelfth, and the bar goes up at the end of the day and the chain goes on the gate, and the padlock is broken and nobody has mended it and nobody is going to, and in nine years somebody will write a sentence about the hinges on the wrong side of a door and you will not be in the room when they do it. I have given you a sentence and a sentence is not money. I have been a magistrate for nine years and I have never once given anybody money and I am not going to start by pretending I have."
 

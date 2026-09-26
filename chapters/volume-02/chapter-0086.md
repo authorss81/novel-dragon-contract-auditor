@@ -2,15 +2,15 @@
 
 The card came into the chamber of the district court of the lower district on the twentieth of the sixth month with four words on the front of the envelope and no office on it, and the four lines that were in it with the card were read into the file and then the file was shut for four days, because a magistrate cannot direct an examination of a thing in her own court on the strength of four lines written by a clerk with a barred door, and she was not going to try, and she had a rule of nine years' standing about that.
 
-On the twenty-fourth of the sixth month she sent for two people and neither of them came, and only one of them was asked twice, and that is how this chapter starts.
+On the twenty-fourth of the sixth month she sent for two people. One of them came and was no use in about nine minutes. The other did not come, and the officer who went to the lane came back with four words and a sentence, and she was asked twice and answered twice, and that is how this week starts.
 
 ---
 
 The first is Emrys Rudd, of the lean-to at the head of the crossing, sixty-four, and the court sent him a card and he came, and the question was about the cost of the crossing, and the answer is in the minute of the twenty-first of the fifth month and is a penny a day, and it did not help with a card with a mark on it.
 
-The second is a woman of about sixty who has cut plates for twenty-two years out of a bench under a window in a lane off the Kiln road, and she does not have a name in this chapter and she is not going to be given one, and the court sent for her because it is the only trade in this city that can look at a piece of steel and say what was done to it, and the officer who went to the lane came back with four words and a sentence, and the four words are the same four words she has said three times since the fifth of the fifth month and the sentence is the reason.
+The second is a woman of about sixty who has cut plates for twenty-two years out of a bench under a window in a lane off the Kiln road, and she is not named in this and she is not going to be named in it, and the court sent for her because it is the only trade in this city that can look at a piece of steel and say what was done to it, and the officer who went to the lane came back with four words and a sentence, and the four words are the same four words she has said twice since the fifth of the fifth month and the sentence is the reason.
 
-"Nobody gets my name," she said. "And I am not coming to look at a piece of steel, and I will tell you why and then you can go, because I would rather say it out loud than have you stand in my lane a third time."
+"Nobody gets my name," she said. "And I am not coming to look at a piece of steel, and I will tell you why and then you can go, because I would rather say it out loud than have it said to me twice in a month by two different people standing in my doorway."
 
 "Ma'am—"
 
@@ -24,13 +24,13 @@ The officer asked her one question, which he was entitled to ask and which she a
 
 "That is twice," said the officer. "I have been to this lane before."
 
-"Yes," she said. "That is twice, and you are the third person and you are the first one who has come twice, and I would like it noticed that the first two came once each and you came twice and the difference is that you came twice, and I am not saying that unkindly, I am saying it because in about four years somebody is going to describe this lane, and there is going to be a number of visits in the description, and the number is two now and it is not going to be three while I am cutting."
+"Yes," she said. "That is twice, and nobody has stood at this door twice in four years except the two of you, and I would like it noticed that I have said the same four words twice and got the same answer twice, and the difference between you and the last one is not the coat. I am not saying that unkindly, I am saying it because in about four years somebody is going to describe this lane, and there is going to be a number of visits in the description, and the number is two now and it is not going to be three while I am cutting."
 
 ---
 
 Joane Tranter read the officer's four lines and the sentence twice, and then she did the ordinary thing, which is to go and look for a person she can find.
 
-She found one in about four days and it cost one pound fourpence and a day's wage, and her name is not in this chapter and was not asked for twice, and the woman is a plate-cutter of about thirty-four who has a bench of her own in a different lane and who has a trade name over the door and a customer list and a book of day-work, and every one of those four things is a thing about a person, and she has four of them, and the woman of sixty has none of them and that is the whole of the difference between the two.
+She found one in about four days and it cost one pound fourpence and a day's wage, and her name is not in this and was not asked for twice, and the woman is a plate-cutter of about thirty-four who has a bench of her own in a different lane and who has a trade name over the door and a customer list and a book of day-work, and every one of those four things is a thing about a person, and she has four of them, and the woman of sixty has none of them and that is the whole of the difference between the two.
 
 She came to the bench in the lane on the first of the seventh month, at about the tenth hour, and Joane Tranter came with her, and there was a clerk with a book.
 
@@ -48,7 +48,7 @@ The fee is entered in the fund of this court under the heading it is entered und
 
 ---
 
-Then she looked at the die, and it took her about four seconds, and it took four seconds, and twenty-two years is what it took her to be able to do it in four seconds.
+Then she looked at the die, and it took her about four seconds, and twenty-two years is what it took her to be able to do it in four seconds.
 
 "It is a mirror," she said.
 
@@ -86,7 +86,7 @@ And then the fourth line, which is the reason the other three exist, and it is i
 >
 > *It has still cost her. She was findable at ten o'clock on the first of the seventh and she is findable at nine o'clock on the second of the seventh and the only difference is that on the second somebody has a minute with a question in it that she can answer. I have made her a person who knows something. That is the price and it is in the fund under a heading and the heading does not have her name on it, and that is the only mercy in this and I do not think it is much of one.*
 >
-> *I am the magistrate who did not ask for four months, and then did not ask for a month, and then did not ask a second time, and I have entered all three of those in the same book, and there is a heading in that fund for examinations of marks and I have now put money under it twice and I would like somebody in nine years to tell me whether the second time was worth the first pound fourpence, and I do not know, and the woman of sixty in the lane is the only person alive who can answer that and she has told me not to ask her twice.*
+> *I am the magistrate who did not ask for four months, and then did not ask for a month, and then did not ask a second time, and I have entered all three of those in the same book, and there is a heading in that fund for examinations of marks and I have now put money under it twice and I would like somebody in nine years to tell me whether the second time was worth the first pound fourpence, and I do not know, and the woman of sixty in the lane is the only person alive who can answer that and she has told me not to come to that lane a third time.*
 >
 > *— J. Tranter, the second of the seventh month, at about the ninth hour, in the chamber, with a clerk in the room.*
 
@@ -102,12 +102,12 @@ They walked back up the lane together, because the lane is four streets long and
 
 "Entered," said Joane Tranter, and wrote five words on the back of the officer's paper while standing in a lane, and dated them, and did not put the lane's name in the file.
 
-"Thank you," said the plate-cutter. "You will not get it out of me by asking me twice, so do not send a second card, and if you send a second card I will say the same four words and I will say them to the person at the door, and then this lane is going to be a place where a court has been three times, and I have been a plate-cutter in it for twenty-two years and I would like it to stay a lane where people bring steel."
+"Thank you," said the plate-cutter. "You will not get it out of me by asking me twice, so do not send a second card, and if you send a second card I will say the same four words and I will say them to the person at the door, and then this lane is going to be a place where a court has been twice, and I have been a plate-cutter in it for twenty-two years and I would like it to stay a lane where people bring steel."
 
-Joane Tranter put the paper in her coat and said: "There will not be a third card. And I am going to say why, in a room, on the record, because it is the fourth time in two years I have had to promise a person something I cannot promise, and the last three promises I made are all in files in this city, and one of them was made to a man of sixty who is owed something by about forty people and will be given nothing, and I am not going to make a fourth and then fail at it in front of you in about four years."
+Joane Tranter put the paper in her coat and said: "There will not be a second card. And I am going to say why, in a room, on the record, because it is the fourth time in two years I have had to promise a person something I cannot promise, and the last three promises I made are all in files in this city, and one of them was made to a man of sixty who is owed something by about forty people and will be given nothing, and I am not going to make a fourth and then fail at it in front of you in about four years."
 
 ---
 
 The die went back into the drawer in the Kiln sheds and the card went into the file of the district court of the lower district, and neither of them identified anybody, and a woman of thirty-four went back to a bench in a lane four streets off and has been findable ever since, and nobody thanked her and she did not expect it and said in the lane, on the way out, that she was going home.
 
-The card is in a file. The card is genuine-looking and impossible. The card has a mark at the top of it and the mark is not anybody's name, and it was made by a person who had a good card in his hand and wanted a second one, and there is no instrument in this empire for asking a person what is in his hand, and in about four days somebody in this city is going to go and find out who carried it to a counter and where, and they are going to find it in a book with no heading at the top of it, and they are not going to like what is in it.
+The card is in a file. The card is genuine-looking and impossible. The card has a mark at the top of it and the mark is not anybody's name, and it was made by a person who had a good card in his hand and wanted a second one, and there is no instrument in this empire for asking a person what is in his hand. And it was used before it was offered, which is the part of it that nobody in this building thought to ask about, and a thing that is used leaves a mark on somebody's paper, and the only record in this city of who brought a paper to a counter is a book at the end of a corridor with a time in it and an initial and no heading at the top of it.
