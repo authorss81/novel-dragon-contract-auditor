@@ -8,7 +8,7 @@ There is no sign on the door. The words are on a card in the window at the heigh
 
 Marek Kest went at the fourth hour of the third week of the eleventh month, with the letter of the seventeenth of the tenth in his coat, which was four lines long and had no threat in it and no request in it and said that the Docket had been informed that a clerk of the Roll Hall had performed two scale readings and that the Docket would be glad to give him an opportunity to explain the position before the register was made up.
 
-He had eleven weeks to decide whether to explain the position. He had come on the first morning of the last one, on purpose, because he had worked out in the first fortnight that a man who has been given eleven weeks and uses all of them has made a decision, and a man who has been given eleven weeks and comes on the first day of the eleventh has made one too, and the difference is only in the shape of it.
+He had four weeks to decide whether to explain the position. He had come on the first morning of the last one, on purpose, because he had worked out inside the first week that a man who is given four weeks and uses all of them has made a decision, and a man who is given four weeks and comes on the first morning of the fourth has made one too, and the difference is only in the shape of it.
 
 Oswin Marrow was about sixty and had been master of the Docket for twenty-two years and was not a lawyer and had never been a clerk, and had spent the whole of that time keeping a book.
 
@@ -30,7 +30,7 @@ One page to a year. Four lines to an entry: name, date, instrument, authority. A
 
 "Because a scale reading needs a permission and a permission needs somebody to have asked for one."
 
-"Because a scale reading is an expensive thing done by a person who is frightened, and the reason there are fourteen a year in an empire with nine Houses and about four hundred thousand inheritances is that a person only agrees to have one when there is no other way of getting at the record, and when there is another way of getting at the record they use it and the register is empty for that year." Marrow closed the book over his thumb. "That is the whole of what this Docket is. I am the man who finds out who has done one after the fact, and I have about four names a decade to write down and I have never once had to enforce anything."
+"Because a scale reading is an expensive thing done by a person who is frightened, and the reason there are fourteen a year in an empire with nine Houses and about four hundred thousand inheritances is that a person only agrees to have one when there is no other way of getting at the record, and when there is another way of getting at the record they use it and the register is empty for that year." Marrow closed the book over his thumb. "That is the whole of what this Docket is. I am the man who finds out who has done one after the fact, and I have about a hundred and forty names a decade to write down and I have never once had to enforce anything."
 
 "I have never been in this book," said Marek Kest.
 
@@ -64,13 +64,13 @@ Marek Kest read it three times. It was, in the plainest terms he had ever been h
 
 "You did not notice and I am not going to," said Oswin Marrow. "I do not care what your readings said. That is not this Docket's business. That is a court's business and a witness's business and it is the business of the four hundred and forty people who acted on the record your readings were entered in. I care whether you had the right to do it, and you did not, and I have written that down, and I am now going to do three things with it, and I have told you all three in advance, which is more than anybody in this building has ever done with you, and I would like you to notice that as well and not only the rest."
 
-He signed the finding, and then he turned the register round to the page for this year, and there were two gaps in it, because Tamsin Rook had been in on the fourteenth of the ninth month and had filled them in with her own hand, and her initials, and five lines underneath saying that she had done it on her own initiative and that she had not asked the person named, and that it was not a finding that either reading was authorised.
+He signed the finding, and then he turned the register round to the page for last year and the page for this year, and there was not a gap in either of them, because Tamsin Rook had been in on the fourteenth of the ninth month and had filled both in with her own hand, and her initials, and five lines underneath saying that she had done it on her own initiative and that she had not asked the person named, and that it was not a finding that either reading was authorised.
 
 Marek Kest read it four times.
 
 "You knew about that."
 
-"I was told about it on the fifteenth of the ninth by a clerk with a card, in four minutes at a counter, along with the fact that the independent copy of the evidence in this matter exists and is not produced and that I have no power." Marrow took the sheet away from him. "Your copyist has entered two acts of yours into a public register in her own hand and has put her own name next to them, and has said in writing on the face of it that she did it without asking you, and that is a thing that will be held against her for about four years and it is the correct thing for her to have done and she did it in about eleven minutes, and I would like to say one more thing about it and then I will stop."
+"I was told about it on the fifteenth of the ninth by a clerk with a card, in four minutes at a counter, along with the fact that the independent copy of the evidence in this matter exists and is not produced and that I have no power." Marrow took the sheet away from him. "Your copyist has entered two acts of yours into a public register in her own hand and has put her own name next to them, and has said in writing on the face of it that she did it without asking you, and that is a thing that will be held against her for about four years and it is the correct thing for her to have done and she did it in about nine minutes, and I would like to say one more thing about it and then I will stop."
 
 "Say it."
 
@@ -100,13 +100,13 @@ He squared the foolscap.
 
 Marek Kest wrote the page.
 
-It is one page, in his own hand, and he wrote it standing up in a room with a stove in it, and he wrote it in about eleven minutes, and it is the only document of the whole of Volume 02 that he writes in a room with another person in it.
+It is one page, in his own hand, and he wrote it standing up in a room with a stove in it, and he wrote it in about eleven minutes, and it is the only page he has ever written with another person in the room.
 
 > *I do not contest the finding, the entry, or the bar. I contest the question as it is framed, and I ask that it be reframed before it is referred, and I ask for nothing else.*
 >
-> *The question as framed is whether a reading so performed was of any legal effect whatever. The answer to that, if it is no, is a finding about the reader, and it is a finding about a reader, and I have no standing to object to a finding about myself and I do not object to one.*
+> *The question as framed is whether a reading so performed was of any legal effect whatever. The answer to that, if it is no, is a finding about the reader, and I have no standing to object to a finding about myself and I do not object to one.*
 >
-> *I ask that the question referred be this instead: whether a record in which such a reading was entered, being a record of a court and not of this Docket, is altered in its effect by the finding that the reading was unauthorised. And I want to say, in a clerk's hand, that I do not know the answer, and that if the answer is no then every person in this empire who acted on that record acted on nothing, and there are about four hundred and eleven crossings a week in one district alone, and a person cannot be held to a record that turns out to have been made by a man with no right to make it.*
+> *I ask that the question referred be this instead: whether a record in which such a reading was entered, being a record of a court and not of this Docket, is altered in its effect by the finding that the reading was unauthorised. And I want to say, in a clerk's hand, that I do not know the answer, and that if the answer is no then every person in this empire who acted on that record acted on nothing, and the district's own return puts that at three hundred and eighty-eight crossings a week, and a person cannot be held to a record that turns out to have been made by a man with no right to make it.*
 >
 > *And I ask the second thing the Docket can give. I ask to be examined in this building on a date, before two persons whom I name, and I ask for the date to be given now and not moved, and I will attend it, and I have not asked to be examined quickly, and I have not asked for the bar to be lifted, and I will pay the fee of the room myself and I would like that on the page because a man who is being examined should not be examined in somebody else's room.*
 >

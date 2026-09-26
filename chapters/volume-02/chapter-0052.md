@@ -20,7 +20,7 @@ She wrote **None** in the second box, in her own hand, and put her name on the t
 
 They were in the third gallery's press in a folder with a label in her own writing from the eighth month, and the label had a shilling on it and a line under the shilling that said *one is a copy, forty is a copy, and the original is in a minute book in room four of the Cinder Court and is not in this building.* She carried the folder down and put it on the alcove table and counted it, because she counts everything, and it was forty-one pages and it had been forty-one pages since the sixth of the seventh month.
 
-"Forty-one," she said, to nobody. "Twice is eighty-two and once is forty-one, and I have never once been able to make that come out the same way twice and it does not matter."
+"Forty-one," she said, to nobody. "It was forty-one yesterday and it is forty-one today, and I have never once in my life been able to make a number come out the same way twice, and this is the first time, and I do not know what to do with it."
 
 ---
 
@@ -82,9 +82,9 @@ The letter said, in four lines, that the Docket of Powers keeps a register of pe
 
 There was no threat in it and no request in it. It was the most threatening document she had read in a year, because it did not need either.
 
-She looked at the register for about eleven minutes. It is a bound book, one page to a year, and each entry is four lines: name, the date, the instrument, and the authority. Sixty years of names. She counted the entries in the last thirty years, because she counts, and got about four hundred and ten, which is about fourteen a year, which is a very small number for an empire with nine dragon Houses, and the smallness is the finding: a scale reading is not something that happens often, and when it happens it is written down by somebody, and a person who has done it twice and is not in the book is a different kind of animal from a person who has done it once and is.
+She looked at the register for about nine minutes. It is a bound book, one page to a year, and each entry is four lines: name, the date, the instrument, and the authority. Sixty years of names. She counted the entries in the last thirty years, because she counts, and got about four hundred and ten, which is about fourteen a year, which is a very small number for an empire with nine dragon Houses, and the smallness is the finding: a scale reading is not something that happens often, and when it happens it is written down by somebody, and a person who has done it twice and is not in the book is a different kind of animal from a person who has done it once and is.
 
-And on the page for this year, under the twelfth of the ninth month and the sixth of the fourth month, there was nothing at all. Two gaps, in a hand that had not been there that morning, and both gaps in the middle of a year with eleven entries in it, so that they were not at the end and could not be mistaken for the end.
+And on the page for last year, under the twelfth of the ninth month, and on the page for this year, under the sixth of the fourth month, there was nothing at all: two gaps, and neither of them at the end of anything, one of them in a year with eleven entries already in it and one of them in the middle of a stretch of forty years in a fair upright hand, so that neither could be mistaken for a book nobody had kept up.
 
 She asked for the sheet of foolscap. She asked for the pen. And she wrote both of them in, in her own hand, with the date, the place, the permission and the disposition, in the form the register uses, and initialled the entry, and then did the second thing, which was to write underneath, in the same hand, on the same sheet, the reason.
 
@@ -136,4 +136,4 @@ And then she said the other thing, which was the thing she had been holding sinc
 
 "Nobody can reach a private book."
 
-"Nobody in this book can reach a private book," said Tamsin. "Not the Docket. Not the Chancery. Not a registrar with a fire-door key on a chain, and I have wanted to say that sentence in a room since the seventeenth of the sixth month of last year and I could not say it because I was the only one who knew what I had."
+"Nobody who works in a building can reach a private book," said Tamsin. "Not the Docket. Not the Chancery. Not a registrar with a fire-door key on a chain, and I have wanted to say that sentence in a room since the seventeenth of the sixth month of last year and I could not say it because I was the only one who knew what I had."

@@ -44,13 +44,13 @@ And then four that were not bundles at all, and were the four that made the room
 
 A slate with a line of chalk on it and nothing else. A man's coat with a list of nine things written inside the pocket and no name. A packet of nineteen return marks with no envelopes, tied with string, in three different hands. And a tray of letters with a card over it that said *answered, please* — not *replied*, not *to be answered*, but *answered, please* — in a hand so old and so hurried that the ink had gone through the card.
 
-Marek Kest counted the room twice and got nine the same way, and wrote the list out in a column in his own book, because the room had no book of its own and he had not yet asked for one, and the column had a heading at the top of it that he took four seconds to choose and then chose badly on purpose: *what this building has decided not to chase.*
+Marek Kest counted the bundles twice and got nine the same way, and wrote the list out in a column in his own book, because the room had no book of its own and he had not yet asked for one, and the column had a heading at the top of it that he took four seconds to choose and then chose badly on purpose: *what this building has decided not to chase.*
 
-Nine of them were not chased. Four hundred and forty of them had been, by somebody else, at some point, by a person with a tray or a lawyer, and had come here instead, and were sitting four feet from his own table with a card over them.
+The nine were not chased. Four hundred and forty were chased, by somebody else, at some point, by a person with a tray or a lawyer, and came here instead, and are in a tray on the sill of the window that faces the light well, under a card, in a room with a bar on the inside of the door.
 
 That is the actual function of the room. Not storage. It is the place a decision goes when the person who made it does not want to have made it, and a clerk who works here is the person who has them, and the difference between the clerk who works here and the clerk who does not is that the clerk who works here cannot be asked what is in the room, because anybody who wants to know would have to want it in front of the intake desk, and the intake desk writes the time in the margin in ink.
 
-He had been transferred into a chair that is the reason a document cannot be got at by asking. It was not a punishment, whatever the transfer said, and the transfer said only a date and a name, and it had been made in about four minutes by a man who had given the harder box to the man who asked for it.
+He had been transferred to a counter, and a counter is a place a document comes to and not a place a person goes to ask for one. It was not a punishment, whatever the transfer said, and the transfer said only a date and a name, and it had been made in about four minutes by a man who had given the harder box to the man who asked for it.
 
 He had been an Inheritance Desk clerk for four years. In the ninth month of last year a man in a good coat had come up the quay past the Crown Kiln stair and asked, at a counter, whether a decision had reached a person he had never met, and the customs trade does not ask, and the man in the good coat had left with nothing, and a customs clerk who owed him nothing had told him what had happened to a widow's winter for nothing.
 
@@ -82,7 +82,7 @@ He looked at it for about a minute on the first morning and then he did somethin
 >
 > *M. Kest, clerk, Received Room, the first of the ninth month.*
 
-That took about eleven minutes and it was the first work he did in the building in four years that nobody had asked him for.
+That took about nine minutes and it was the first work he did in the building in four years that nobody had asked him for.
 
 ---
 
@@ -110,7 +110,7 @@ He read the second paragraph again. The filing, entering, and itemising of filin
 
 And the thing asked for had been, in nine paragraphs, dated the eighteenth of the ninth month, the sale of a third witness mark and the supply of pressed matrices. It was now an inquiry into how one district filed its own paperwork.
 
-He answered it the same afternoon, in one paragraph, in his own hand, and it is the only document of the whole of Volume 02 that he writes in the first week that nobody has asked him to write.
+He answered it the same afternoon, in one paragraph, in his own hand, and it is the only thing he has written in four years that nobody asked him to write.
 
 > *Received. I accept the inquiry and I will conduct it in my own time and at my own wage and I will enter what I find in a book of my own as the acceptance provides.*
 >

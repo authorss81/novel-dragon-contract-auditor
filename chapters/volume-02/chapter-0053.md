@@ -86,9 +86,9 @@ Sarn wrote that down in the woman's kitchen in her own hand and read it back, an
 
 ---
 
-**About sixty.** Three cycles of fifty-four households, and six of the minute's sixty in a fourth cycle that was never copied because a clerk had a child and eleven weeks of docket and no replacement, and that is the whole of the arithmetic and it is worse than a lie and better than a lie, because a lie would have had a number on it.
+**About sixty.** Three cycles and fifty-four filed copies, and six of the minute's sixty in a fourth cycle that was never copied because a clerk had a child and eleven weeks of docket and no replacement, and that is the whole of the arithmetic and it is worse than a lie and better than a lie, because a lie would have had a number on it.
 
-She entered them in the register of pending duties, which is where they belong, in the form she has used for nine years: a date, a household, a duty, the next review, a shilling a copy. The duty in every one of the thirty-one is the same and it is in the magistrate's own words, and she had to read the sentence twice before she could put it in a column without her hand doing something she did not want it to do.
+She entered them in the register of pending duties, which is where they belong, in the form she has used for nine years: a date, a household, a duty, the next review, and a column for the copy, which is a shilling. The duty in every one of the thirty-one is the same and it is in the magistrate's own words, and she had to read the sentence twice before she could put it in a column without her hand doing something she did not want it to do.
 
 *The holder of the said property is joined as guarantor until full review of the matter.*
 
@@ -101,14 +101,14 @@ She wrote the thirty-one in on the fourth week of the ninth month, in her own ha
 And then she took the chalk, which she has not used on that board since the second of the seventh, and wrote a line at the head of the block, above the first name, in letters about four inches high, and a queue at the window read it upside down for a week and had it read out.
 
 > *THIRTY-ONE OF ABOUT SIXTY.*
-> *Nineteen returns did not come back. Six copies were never made, by a clerk who was not asked to and did not, and I have her kitchen and the date and her word for it, and she is sixty-one and has a child and is alive.*
+> *Eighteen returns did not come back. Six copies were never made, by a clerk who was not asked to and did not, and I have her kitchen and the date and her word for it, and she is sixty-one and has a child and is alive.*
 > *Nobody has been asked to do anything about this and nobody is going to be until a person with a bar comes to this window and asks.*
 
 And underneath the thirty-one, at the bottom of the block, in her own writing, small, where a person has to come close to read it:
 
-> *Nine years and I have never once gone and looked at an outgoing rack. I asked every person in this district for a name, off a docket, out of a file, off a wall, and I never went and looked at a press in a cold room at the end of the embankment corridor, and the sixty were in it eight feet from where I work, and that is not the district's fault. That is mine, and I have put it on the wall in my own hand with the day on it, and the day is the fourth of the tenth month. — I.S.*
+> *Nine years and I have never once gone and looked at an outgoing rack. I asked every person in this district for a name, off a docket, out of a file, off a wall, and I never went and looked at a press in a cold room at the end of the embankment corridor, and the sixty were in it eight feet from where I work, and that is not the district's fault. That is mine, and I have put it on the wall in my own hand with the day on it, and the day is the twenty-eighth of the ninth month. — I.S.*
 
-The man from the works came back on the second of the tenth with his paper and stood in front of the wall and read all of it, all of it, standing up, in about eleven minutes, which is how long it takes, and then asked the question Sarn had been waiting nine months for a person to ask her.
+The man from the works came back on the second of the tenth with his paper and stood in front of the wall and read all of it, all of it, standing up, in about nine minutes, which is how long it takes, and then asked the question Sarn had been waiting nine months for a person to ask her.
 
 "What is a bar."
 

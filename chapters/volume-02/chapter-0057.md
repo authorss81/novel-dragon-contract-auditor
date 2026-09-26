@@ -28,7 +28,7 @@ He argued it for the length of an afternoon.
 
 He argued it against the works, because an office that cannot pay is not an office that has decided not to pay and the difference is the whole of a person's case. He argued it against the district, which had entered that the sentence it used to rely on was no longer available to it on the authority of a high court it had never been heard by, and had not withdrawn its own practice because only that court can withdraw its own practice, and which therefore had one foot in each of two positions and would not put either down. He argued it, badly, at length, with the same fluency he had used on a stair in the sixth month of last year when a copyist told him he had argued the case for four hours when there was no case.
 
-And he argued it partly against the household, which did not want to be in a room and had said so at the door, and which he argued for about eleven minutes in a way that he knew at the time was wrong and went on doing, because the words were coming out of him and the words were true and true is not the same as helpful.
+And he argued it partly against the household, which did not want to be in a room and had said so at the door, and which he argued for about seven minutes in a way that he knew at the time was wrong and went on doing, because the words were coming out of him and the words were true and true is not the same as helpful.
 
 "The household says—"
 
@@ -64,9 +64,9 @@ Then everyone began to do the thing people do at the end of a hearing, which is 
 
 ---
 
-It had not gone the way it went in about four minutes. There had been three hours before that, and the three hours were the part Tamsin Rook wrote about afterwards in eleven lines and did not send to anybody.
+It had not gone the way it went in about four minutes. There had been three hours before that, and the three hours were the part Tamsin Rook wrote about afterwards in nine lines and did not send to anybody.
 
-The district had filed an answer of its own, and the clerk read it out, and it is the most honest piece of paper any office in this book has produced in two years, and it is honest the way a rope is straight.
+The district had filed an answer of its own, and the clerk read it out, and it is the most honest piece of paper any office in this district has produced in two years, and it is honest the way a rope is straight.
 
 > *The district has been asked to say what it will do in place of the sentence of the twelfth of the ninth month of last year, that sentence being recorded by the Cinder Court of the seventeenth of the sixth as model wording and not as a decision of any court, and not to be the recorded reason for a decision in any district without a hearing of the person it names.*
 >
@@ -78,7 +78,7 @@ The district had filed an answer of its own, and the clerk read it out, and it i
 
 "*Because there is nothing in it that the district may do.*"
 
-"That is the answer of an office that has understood the law and drawn the only conclusion available to it," said the magistrate, "and I want it on the record that I have read eleven files in this district in nine years and this is the first one where an office has told me in writing that it is powerless, and I would like the district to know that that is a considerable thing to have done and that it has cost the district nothing and gained the district nothing, and that the two are not the same."
+"That is the answer of an office that has understood the law and drawn the only conclusion available to it," said the magistrate, "and I want it on the record that I have read nine files in this district in nine years and this is the first one where an office has told me in writing that it is powerless. The district should know what that costs: nothing, and nothing gained, and the two are not the same thing."
 
 Hester Crane said, from the back: "Then somebody has to do it, and there are three people in this room and the third one is sixty-one."
 
@@ -106,7 +106,7 @@ The clerk read it back to him.
 
 "Both are in the minute," said the magistrate.
 
-That is the afternoon. Nine paragraphs, four of them about a printed sentence, one of them about a form that cannot be entered, one of them about a woman who had been in enough rooms, and one of them true, and the true one was not the one that won.
+That is the afternoon. Seven paragraphs, four of them about a printed sentence, one of them about a form that cannot be entered, one of them about a woman who had been in enough rooms, and one of them true, and the true one was not the one that won.
 
 ---
 
@@ -166,7 +166,7 @@ Marek Kest stood on the steps and looked at the water.
 
 Tamsin Rook looked at him for about four seconds, and then she said it in the flat voice, and she said it out loud on the steps of a district court in front of a river, and it is the sentence the whole of this case is standing on and it is hers and not his, and she gave it to him the way she has given him everything since the ninth of the sixth month of last year, which is once, in words, with a date on it.
 
-"Whose name is on it," she said. "That is the second one. That has been the second one since the ninth of the sixth month of last year, and it went on a board in a lane and in a letter in a schoolroom hand four hundred and forty miles off, and there is a child of eleven in a yard in the lower district who worked it out in four seconds on the fourth line of a works note, and you have spent six hours in a room today and you did not ask it once."
+"Whose name is on it," she said. "That is the second one. That has been the second one since the ninth of the sixth month of last year, and it went on a board in a lane and in a letter in a schoolroom hand four hundred and forty miles off, and there is a child of eleven in a yard in the lower district who worked it out in four seconds on the fourth line of a works note, and you have spent the whole afternoon in a room today and you did not ask it once."
 
 Then they went down to the wharf, and the packet boat had gone, and the crossing was to be out of use on the fourteenth of the twelfth month, and both of them were wrong about that, in the way people are wrong about dates, by about two days.
 

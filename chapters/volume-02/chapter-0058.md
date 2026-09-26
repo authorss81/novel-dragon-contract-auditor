@@ -10,7 +10,7 @@ She did not ask Ivet Sarn to come, and the not asking was deliberate and she wro
 
 The bundles were on the oak shelf in the order they had been put there, which is the order of the quarters, and the quarters are the only label any of them has.
 
-She did not have to look for Lowcross for long, and the reason she did not is worth putting in a book, because it is the whole of the method and it is not clever: the Lowcross correspondence went out in the **third cycle** of the sixth year, because the maintenance requests went out in the third quarter, before the autumn, and a bridge is a thing you write about in the summer. And the third cycle's bundle was the second bundle on the shelf, and it was about four inches thick, and the label said *Returns, third cycle, sixth year* — no, that was Mosswake's, and this was a different building, and this one's label said:
+She did not have to look for Lowcross for long, and the reason she did not is worth putting in a book, because it is the whole of the method and it is not clever: the Lowcross correspondence went out in the **third cycle** of the sixth year, because the maintenance requests went out in the third quarter, before the autumn, and a bridge is a thing you write about in the summer. And the third cycle's bundle was the second bundle on the shelf, and it was about four inches thick, and its label said:
 
 *Outgoing correspondence, lower district court and works, third cycle, sixth year. Eleven items. One bundle.*
 
@@ -42,7 +42,7 @@ And the eleventh is a woman of sixty-one in a yard in the lower district, and sh
 
 Tamsin Rook read the schedule four times and then went and stood in the cold room for a minute and a half without doing anything, which is a thing she does.
 
-The file names everybody the building could imagine being liable. It names the works, and the court, and a parish that does not exist, and two trustees whose appointment died with it, and a company, and a navigation body, and four returns that say *the present holder* and no more. It has one living person in it, and she is in the column for people who have been written to, and she is in it because a young man in a good coat came out into her yard and put his finger on a box.
+The file names everybody the building could imagine being liable, and it has one living person in it, and she is in the column for people who have been written to, and she is in it because a young man in a good coat came out into her yard and put his finger on a box.
 
 **The Chancery's file names every possible debtor except the one family that can prove the clause was copied onto it.**
 
@@ -50,15 +50,15 @@ And then she copied the second thing, which is the return of the fourth month of
 
 > *The present holder.*
 
-Six words. And she had seen those six words in three other places and has written about them in a book of her own three times, and every one of the three times she was careful, and this is the fourth time and the carefulness is what she is about to write down.
+Three words. And she had seen those three words in three other places and has written about them in a book of her own three times, and every one of the three times she was careful, and this is the fourth time and the carefulness is what she is about to write down.
 
 The first is the substituted line in the Sallow file, in the fourth month of the **fifth year**, prepared in a Mosswake court building.
 
-The second is in twenty-two of thirty-one sheets in the Forms Received rack in the passage behind the third gallery, in a series issued by a Chancery standing office, in a sheet dated the **twenty-second of the ninth month** of last year, printed to run nine hundred and forty and sent to forty-six addresses holding a flood docket.
+The second is in twenty-two of thirty-one sheets in the Forms Received rack in the passage behind the third gallery, in a series issued by a Chancery standing office, in a sheet dated the twenty-second of the ninth month of last year, printed to run nine hundred and forty and sent to forty-six addresses holding a flood docket.
 
 The third is on a guild's own model endorsement, a box headed *the person who holds*, in an instruction to assessors on the entering of a second instrument, **four years and four months older than the Venn correction**, about tool debts in a dyers' trade, and she proved in the sixth month of last year that it is a fact about a number and a date and is not a finding about anybody.
 
-The fourth is here: a works return in the lower district of Auremar, in the **fourth month of the sixth year**, which is a year *before* the Sallow file and **six years and five months before the sheet of the twenty-second of the ninth**, in an office that is not on the forty-six, in a form that is not in the series, in a district that has never held a flood docket and has never been asked for anything.
+The fourth is here: a works return in the lower district of Auremar, in the fourth month of the sixth year, which is a year *before* the Sallow file and **six years and five months before the sheet of the twenty-second of the ninth**, in an office that is not on the forty-six, in a form that is not in the series, in a district that has never held a flood docket and has never been asked for anything.
 
 She stood in the cold room and worked out the dates twice, out loud, to nobody.
 
@@ -82,22 +82,40 @@ She read it back. Then she copied it out three times, and she did three things w
 
 The first copy went to Hester Crane, in the plain words, in a copyist's hand, on the evening of the second of the twelfth, by a cart, with four pence of carriage in a slot at the counter, addressed to a gate in the lower district and not to a court and not to a works and not to an office.
 
-The second copy went to Silas Sowle, who is not her solicitor and has never heard of her, at his address in the lower district, with a covering line of five words: *for the application in the fourth month. — T. Rook, no office.*
+The second copy went to Silas Sowle, the household's solicitor and nobody else's, who has done this district's poor business for nineteen years and had not asked her name once in an afternoon, at his address in the lower district, with a covering line of five words: *for the application in the fourth month. — T. Rook, no office.*
 
-The third copy went down the river to Ivet Sarn, at the Mosswake Roll Court, by the morning packet, and it went second and it went third and that is the part she has to be able to say out loud in a room in nine years, and so she wrote it down the same evening, on the same page, under the heading she used for things that are not oversights.
+The third copy went down the river to Ivet Sarn, at the Mosswake Roll Court, by the morning packet, and it went behind the other two, and that is the part she has to be able to say out loud in a room in nine years, and so she wrote it down the same evening, on the same page, under the heading she used for things that are not oversights.
 
-> *I sent it to the household first, and to Marek Kest second, and the reason is this and not another reason. A file is evidence. Evidence that arrives in a woman's hands ten days before a bar goes across a bridge is not evidence any more, it is a warning, and a warning is worth more to the person it is about than to the person who might use it. And Marek Kest is barred from auditing by a Docket with three powers and one date, and if I had sent it to him first he would have spent a night in a room with a barred door and a cold stove and a shelf, and he would have come to that gate on the fourth day and he would have said something in it, and he would have been the clerk of the Roll Hall saying a thing in a woman's yard about her own file, and I have watched him do that twice in eleven months and I have been the one who paid for it both times.*
+> *I sent it to the household first, and to Marek Kest before he knew I had it, and the reason is this and not another reason. A file is evidence. Evidence that arrives in a woman's hands ten days before a bar goes across a bridge is not evidence any more, it is a warning, and a warning is worth more to the person it is about than to the person who might use it. And Marek Kest is barred from auditing by a Docket with three powers and one date, and if I had sent it to him first he would have spent a night in a room with a barred door and a cold stove and a shelf, and he would have come to that gate on the fourth day and he would have said something in it, and he would have been the clerk of the Roll Hall saying a thing in a woman's yard about her own file, and I have watched him do that twice in eleven months and I have been the one who paid for it both times.*
 >
-> *So it went to her first, and to him second, and I have not asked him, and the rule we made in the twelfth month of last year says one of us puts a choice in writing with a date on it and the other answers in a room in words with a date, and I have broken the first half of that rule twice in three months and I have broken it for the same reason each time, which is that I can see further into a decision than he can at about the moment when it is being made, and that is the exact thing he does not trust, and he is right not to trust it, and I am going to have to earn it back out of something other than being right about a corridor.*
+> *So it went to her first, and to him not at all until the eighth hour of that night, and I have not asked him, and the rule we made in the twelfth month of last year says one of us puts a choice in writing with a date on it and the other answers in a room in words with a date, and I have broken the first half of that rule twice in three months and I have broken it for the same reason each time, which is that I can see further into a decision than he can at about the moment when it is being made, and that is the exact thing he does not trust, and he is right not to trust it, and I am going to have to earn it back out of something other than being right about a corridor.*
 
-At the fourth hour of the second of the twelfth month she came up the stairs of the Roll Hall with a cold hand and put the third copy on the table in the Received Room, which is what the bar on the door is for, and Marek Kest read it standing up because there were two chairs and one of them was under a pile of things nobody wanted.
+At about the eighth hour of the night of the second of the twelfth month she came up the stairs of the Roll Hall with a cold hand and put the third copy on the table in the Received Room, which is what the bar on the door is for, and Marek Kest read it standing up because there were two chairs and one of them was under a pile of things nobody wanted.
 
 He read it in about nine minutes and then he read the second copy's covering line and the first copy's, which was on a separate sheet, which said *for the gate, and do not read it to her unless she asks, and she will ask, and when she asks, read all of it.*
 
 "You sent it to her first," he said.
 
-"Second of the twelfth, at about the eighth hour at night, by a cart, with four pence of carriage in a slot, and I put five words on the front and did not put your name on it anywhere on it, and I did not tell the cart man who it was for."
+"Second of the twelfth, in the evening, by a cart, with four pence of carriage in a slot, and I put five words on the front and did not put your name on it anywhere on it, and I did not tell the cart man who it was for."
 
 "That was your decision and not an oversight."
 
 "It was my decision and I wrote down the reason before I did it and I have sent you the reason, and it is two paragraphs, and I would like you to answer the second half of it in words, and I have brought you the form." She put the four-line custody form on the table and turned it round so that the second box was facing him. "None. I have written it twice, because I wrote it once and then I thought about whether a person with an office could hold a document in a matter and protect the person it is about, and I worked out that she could not, and that is the whole of the finding. **None** is not nothing. None is a person who cannot be instructed."
+
+"None," he said, and he put his thumb on the second box the way she puts her hands flat on tables, and then he took the thumb off again.
+
+"And the second half of it. In words, with a date, because you asked for that once and I have not given it to you, and you are not going to be a person who has asked me for it twice."
+
+"Say the question."
+
+"You sent a file to a woman in a yard before you sent it to the man who is standing in front of you, and the whole of the gap between the two is an evening. Say why you think that was right."
+
+"I think it was right," said Marek Kest. "And I am going to do this, and I am putting it in my own book tonight with the day on it, where you cannot get at it and I can. On the fourth of the first month, at the fourth hour, in this room, you will bring me every sheet that goes out of this matter to a solicitor, a household, or an office outside this building, and I will read it in front of you before it goes, and if I have a reason against one of them I will give you the reason in a room and out loud and not on a page. And if I ever decide you are wrong again, I will ask you for it before I act, and you will say no, and I will go and do it anyway, and we will both know exactly what that is."
+
+"That is not the rule we made."
+
+"No," said Marek Kest. "It is worse than the rule we made. It is a man who has been caught twice inventing a third one."
+
+He put the pen down beside the form without touching it.
+
+"Sign the first line. I want to be in this file while there is still nothing in it that is against me."

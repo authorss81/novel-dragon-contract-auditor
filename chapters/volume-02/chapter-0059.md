@@ -22,9 +22,9 @@ He got there in about an hour and a half on the fourteenth of the month. It was 
 
 Here is what closing a public bridge does, in eleven days, in a district of the lower city, in a return that a clerk compiled afterwards because nobody had asked for it and because a woman of sixty-one asked for it and paid for it out of a purse that has not had anything in it since the eighth month of the eighth year.
 
-Flour: eleven households on the far side had been carrying their own four-day flour over the bridge and putting it in a dry box. Eleven households had four-day flour, and eleven households had a dry box, and eleven households had a *lift* of a quarter of an inch of sill, and the bridge took the sills out. On the sixteenth they bought flour at the mill price and carried it on their backs. That is a difference of about eleven pounds a month across eleven households and it is in the return because the clerk wrote it down and not because anybody looked for it.
+Flour: eleven households on the far side had been carrying their own four-day flour over the bridge and putting it in a dry box, and eleven households had a *lift* of a quarter of an inch of sill, and the bridge took the sills out. On the sixteenth they bought flour at the mill price and carried it on their backs. That is a difference of about eleven pounds a month across those eleven houses, and it is in the return because the clerk wrote it down and not because anybody looked for it.
 
-The mill: four carts a day, eleven minutes each way at the crossing. With the bank, ninety minutes each way. The mill sent two carts down the river instead and the road toll is ninepence a cart, so the mill paid the road and lost a day.
+The mill: four carts a day, nine minutes each way at the crossing. With the bank, ninety minutes each way. The mill sent two carts down the river instead and the road toll is ninepence a cart, so the mill paid the road and lost a day.
 
 The chapel: about fifty people, and about eighteen came, and the eighteen were over sixty-five, and the vicar wrote a line in the return about the fourteen who did not come and did not say why, and a copyist who has copied other people's *why not* for a year read that line three times and did not fill in the column.
 
@@ -50,7 +50,7 @@ Jonas Cray came up the yard on the nineteenth of the month at about the second h
 
 "Then you are the third one," said Hester Crane, "and I do not know the first two and I have not asked."
 
-He wrote it at her table. It is one sentence and it is on a works form and it is in a young clerk's hand and it has a foreman's name at the foot of it, and it does not say that the district failed and it does not say that the works failed:
+He wrote it at her table. One sentence, on a works form, in a young clerk's hand, with a foreman's name at the foot of it, and it does not say that the district failed and does not say that the works failed:
 
 > *The district works of the lower district states, on the nineteenth of the twelfth month, that the fund of this district works for the quarter of the first month of next year cannot stand the cost of the bank, abutment and kerb works at the crossing at Lowcross, estimated at nineteen pounds three and fourpence, and that the crossing is a work of the public of this district and is not the work of a holder, and that this office asks the district to stand the cost and does not ask it to be paid by any person.*
 
@@ -74,7 +74,7 @@ The arithmetic, which she has done every autumn for nineteen years and which a c
 
 The crossing costs the district, if it is mended by the district, about nineteen pounds three and fourpence every nine years, which is about two pounds two and a half a year, which is about a penny a day, which is about nothing.
 
-The fund of the district works holds, on the average of four quarters, about five pounds. The crossing has taken about a pound of that four times in nineteen years and has lost about a pound a year for the other fifteen, and nobody has ever written any of it down in a column, and the reason nobody has ever written it down is that a column wants a number in it and a penny a day is not a number anybody in an office can enter without laughing.
+The fund of the district works holds, on the average of four quarters, about six pounds. The crossing has taken about nineteen pounds out of that twice in nineteen years, and has lost about a pound a year in the years in between, and nobody has ever written any of it down in a column, and the reason nobody has ever written it down is that a column wants a number in it and a penny a day is not a number anybody in an office can enter without laughing.
 
 That is the third thing and nobody has said it out loud yet: the crossing is not unaffordable, and the reason it has stood for nineteen years is that the amount is too small to be a line in a fund and too large to be a household's money, and it has lived in that gap for nineteen years, and a woman of sixty-one has been paying it out of a box.
 
@@ -99,6 +99,12 @@ A list of nine, in Hester Crane's own hand, on the back of a form, on a table wi
 > *The two men off the Reed Cut bank, the seventh, with a plank of their own, and neither of them would give a name and I have written down that they would not, and that is the fifth time somebody has refused me a name in eleven months and it is the fifth time it has turned out to be the right thing for them to do.*
 > *A woman I do not know at all, the eleventh, who came from the far side and went over and came back and would not say anything about it and would not take anything for it, and who is not on this list with a name because she would not give me one and I am not going to invent her.*
 > *And my son, who is in the works, and who is not on this list, because he was not permitted, and who went four times, and who has been spoken to by a foreman about it, and who would like it written here that he was not permitted and that he is not sorry and that the foreman is a decent man who is going to be in a difficult position in the fourth month.*
+
+Gideon Harrow came up the yard two days before the bridge came back, because she had written on the list that he might read it, and he read the whole of it standing at the gate, including the line about himself, and then he said one thing.
+
+"I have forty-one of these a quarter and I do them myself," he said, "and in nineteen years of that works nobody at that gate has ever given me a piece of paper with my own work on it. So I do not know what a man does with that. I am not going to stand here and be thanked for it, because I would not know where to put it. Go and ask somebody what to do with it."
+
+He read it a second time on the way to the cart, which is a thing she did not expect and wrote down.
 
 And the bridge came back on the **twenty-fourth of the twelfth month**, which is eleven days early against the fourteen that was in the order, and it came back because nine people carried it, and it is going to come back in a year only if somebody is paid.
 

@@ -1,14 +1,14 @@
 # Chapter 56: What a House Does, and What It Costs in Pounds
 
-The finding came back from the guild's own examiner on the fourth of the eleventh month, three and a quarter pages, with the four houses named at the head of it, and the four houses were the four that had signed, and the Caudles were first because they had signed first on the twenty-ninth of the tenth month of last year, and two pounds five and a quarter a quarter, with a farthing over, and the farthing was Nery Caudle's own money and had gone in the same coin out of a cloth.
+The finding came back from the guild's own examiner on the fourth of the eleventh month, three and a quarter pages, with the four houses named at the head of it, and the four houses were the four that had signed, and the Caudles were first because they had signed first on the twenty-ninth of the tenth month of last year, and two pounds five and a farthing a quarter, and the farthing was Nery Caudle's own money and had gone in the same coin out of a cloth.
 
 Nell Kest read all three and a quarter pages out loud at the trestle on the eleventh of the eleventh, at about the fifth hour, and she did it in the lane in the open, standing on the flat of the table with her own hand flat on it, and about a hundred and forty people were there because it is a dyers' lane and a thing read out on a table gets into a lane the way water does.
 
-She read the names of the four houses. She read the Caudles' two pounds five and a quarter. She read the farthing.
+She read the names of the four houses. She read the Caudles' two pounds five and a farthing. She read the farthing again.
 
 And then, because she had promised herself in the lane in the sixth month that she would stand there while it was read and would not soften the other half, she read Roke's half.
 
-> *Nine pounds a quarter on four houses, four times a year, for a year, is thirty-six pounds out of a lane. Every one of the four of us can do that. The other houses in this trade will find out about it in about eleven months. And then the next four houses are going to be the ones who are out, and it is never going to be the four of us again.*
+> *Eight pounds and a penny a quarter on four houses, four times a year, for a year, is thirty-two pounds and fourpence out of a lane. Every one of the four of us can do that. The other houses in this trade will find out about it in about eleven months. And then the next four houses are going to be the ones who are out, and it is never going to be the four of us again.*
 
 "It is the fifth of the eleventh month," said Nell Kest, when she had read it, from her own writing on her own board from the ninth of the sixth, and about forty people in that lane said something at once and then stopped, because they had all worked it out. "Roke said in about eleven months and it has been five. I am not going to stand here and say it is early. It is five months and it is the same quarter and there are four houses in this trade that have not signed and two of them are the Pry and the Nine Elms and I have read their books from this table and neither of them has four pounds a quarter of slack in it, and the Nine Elms has a boy on a term."
 
@@ -50,7 +50,7 @@ The price of that is a coach fare, a removal, a tool, a bench or a bond, and a t
 
 The eleventh door in that lane is Ottoline Bray, who is fifty-two, and who in the ninth of the sixth month had read all four questions back unprompted and then said she had a paper of her own about her boy and had nobody to ask it of and had been carrying it since the second month, and had given Nell Kest her name on the understanding that she would be told to ask her own boy first and to say *the lane* if he asked who told her.
 
-It is about a mill bench. It is a bench engagement in a mill four miles off, in a house that is not in the trade, and it is a good paper and it is the boy's own name on it, spelled right, in the boy's own hand, at the top of it where a name goes.
+A mill bench, and about that. A bench engagement in a mill four miles off, in a house that is not in the trade, on a good paper with the boy's own name on it at the top of it, spelled right, in the boy's own hand, where a name goes.
 
 Nell Kest asked her the second question about it at the vat flat on the twenty-second of the eleventh, and Ottoline Bray had it out of a cloth before Nell had finished the sentence, because she has been carrying it since the second month and she carries everything.
 
@@ -76,7 +76,7 @@ Nell Kest asked her the second question about it at the vat flat on the twenty-s
 
 Nell Kest sat down on a bench she had not been invited to sit on.
 
-"That is the only paper in eleven months that the four questions have made better," she said. "Do you know that? Do you know that in a lane in Greyfen, and in a furnace town four hundred and forty miles off, and in a shop in Reed Cut, there are about two hundred people holding a piece of paper and the four questions have made every one of them frightened, and there is one paper in a cloth on a vat flat where a woman of seventeen read a thing to his mother and the four questions have made it all right?"
+"That is the only paper in five months that the four questions have made better," she said. "Do you know that? Do you know that in a lane in Greyfen, and in a furnace town four hundred and forty miles off, and in a shop in Reed Cut, there are about two hundred people holding a piece of paper and the four questions have made every one of them frightened, and there is one paper in a cloth on a vat flat where a woman of seventeen read a thing to his mother and the four questions have made it all right?"
 
 "I do not know that."
 
@@ -120,7 +120,7 @@ She wrote to her brother on the twenty-eighth of the eleventh month, at about th
 >
 > *I have read a sheet of yours. It is on the wall at four hundred and thirty miles down a river and it says thirty-one of about sixty and it says the other number at the top in letters four inches high, and somebody in a furnace town has read it out to a room. That is your doing and I am not going to pretend it is not. I have had it since the second of the seventh and I did not write to you about it and I am not going to say why, and I have written that sentence down twice now and I am still not going to say why.*
 >
-> *You did not write about the ninth month of last year and I have read the four lines about the levy four times and I have not written back for three months and I have had a cloth with eleven shillings in it since the second month of this year. I have not forgiven the ninth month. I am not going to. Come and be told about it if you want to be told about it and I will say it to your face and it will take about four hours. — N.*
+> *You did not write about the ninth month of last year and I have read the four lines about the levy four times and I have not written back for three months and there has been a cloth with eleven shillings in it in my drawer since the second month of this year. I have not forgiven the ninth month. I am not going to. Come and be told about it if you want to be told about it and I will say it to your face and it will take about four hours. — N.*
 
 She posted it on the morning of the twenty-ninth and then went to the vat, and it is four lines, and it is the first letter she has written to him since the twenty-ninth of the first month of last year, and it does not mention the ninth month except to say that it is not mentioned, which is the same thing and worse.
 

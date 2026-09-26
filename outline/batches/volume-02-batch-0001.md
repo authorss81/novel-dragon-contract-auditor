@@ -44,7 +44,7 @@ Starting condition: Marek Kest has been moved to the **Received Room** of the Ro
 - **Who arranged the altered witness order used in the Venn rehearing?** Tamsin has a fourth-place file and has not opened the fourth place.
 - **What happens to a bridge when nobody is liable for it, and who pays the works?**
 - **What is in the Ashfall bundle, now that the man who has decided not to open it has to walk past it every working morning?**
-- **Nineteen returns that never came back, and the six copies of the fourth quarter that were never made because the clerk who would have made them left.**
+- **Eighteen returns that never came back, and the six copies of the fourth quarter that were never made because the clerk who would have made them left.**
 - **Marek's sister has not answered four lines. Nell's practice is in four buildings in three districts and does not belong to her. The Greyfen levy is gone for ever.**
 
 ## Chapter Cards
@@ -277,7 +277,7 @@ Resistance: Thirty-one names is not an answer, and the board has to say so, and 
 
 Information revealed: **A name on a board is not a hearing, and a person who comes to a window to ask whether she will be dragged to a room has been dragged already, in a smaller way, for nine years.** And Sarn's own debt: the line about Rennie Sallow's own house, out of a drawer since the fourth of the tenth month, which she said on the ninth of the seventh she would walk up the upper lane with on the fourteenth of the seventh, and did not, and the not doing is on the board in her own hand with the date, because a rule that is written on a wall is a rule and a rule that is broken in private is a preference.
 
-Action or decision: Sarn enters the thirty-one in the form she has always used — a date, a household, a duty, the next review, a shilling a copy — and adds one line at the head of the block, in chalk, and it says: **Thirty-one of about sixty. Nineteen returns did not come back. Six copies were never made. Nobody has been asked to do anything about this and nobody is going to be until a person with a bar comes to this window and asks.** And she does the lane. On the **eighth of the first month**, at the seventh hour, on his way home from the works, she walks up the upper lane and puts a copy of the line about Rennie Sallow's own house in his hand and says four words — *from the window, no charge* — and does not go in.
+Action or decision: Sarn enters the thirty-one in the form she has always used — a date, a household, a duty, the next review, and a column for the copy, which is a shilling — and adds one line at the head of the block, in chalk, and it says: **Thirty-one of about sixty. Eighteen returns did not come back. Six copies were never made. Nobody has been asked to do anything about this and nobody is going to be until a person with a bar comes to this window and asks.** And she does the lane. On the **eighth of the first month**, at the seventh hour, on his way home from the works, she walks up the upper lane and puts a copy of the line about Rennie Sallow's own house in his hand and says four words — *from the window, no charge* — and does not go in.
 
 Emotional change: Sarn stops being the person who holds a sentence she has not delivered, and finds that what she has been carrying since the fourth of the tenth month is not an apology, it is a **copy**, and that a copy she has paid for out of her own eleven shillings and not a penny spent is the only inheritance she has and she has been carrying it in a drawer like a person who has not decided.
 

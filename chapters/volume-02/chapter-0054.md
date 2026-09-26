@@ -4,7 +4,7 @@ The bank at the Lowcross end had gone in the first week of the eleventh month an
 
 Nineteen pounds three and fourpence. She had the figure before anybody wrote it, because she had been doing this arithmetic every autumn for nineteen years against a fund that has never once held enough of it, and the figure was the same figure it had been in the third year and the eighth year and the fourteenth, and the only thing that changed was the timber price, which went up and came down and went up again.
 
-The district works of the lower district holds six pounds and eightpence.
+The district works holds six pounds and eightpence.
 
 She knew that because she had asked, in the eighth month, in the way she has asked every year since the first, and the answer had been that the works could not commit money beyond the quarter in which it was spent, and that the quarter was closed, and that the next quarter was the second of the year, and that if the matter could be *identified* the works could look at it in the second quarter.
 
@@ -20,13 +20,13 @@ The clerk had come out with it on the ninth of the ninth month at about the four
 
 "The column wants whoever holds it," said Hester Crane. "I have held it nineteen years."
 
-"You have held it nineteen years, and that is not the same thing as holding it in the book, and I am telling you the difference because you asked me to and because you have a granddaughter at that gate who is eleven and does not need this in her life." He turned the form round so she could see it, and she cannot read more than a name and a number and she leaned in and looked at it for about eleven seconds, because it is what you do, and then he put his finger on it. "Is there a box on this?"
+"You have held it nineteen years, and that is not the same thing as holding it in the book, and I am telling you the difference because you asked me to and because you have a granddaughter at that gate who is eleven and does not need this in her life." He turned the form round so she could see it, and she cannot read more than a name and a number and she leaned in and looked at it for about four seconds, because it is what you do, and then he put his finger on it. "Is there a box on this?"
 
 "There is a box on it."
 
 "What does the box say."
 
-Hester Crane stood in a yard in the lower district of Auremar at about the fourth hour of the ninth of the ninth month and read the shape of six words off a form at arm's length with a clerk pointing at them, and she said, "That says the present holder."
+Hester Crane stood in a yard in the lower district of Auremar at about the fourth hour of the ninth of the ninth month and read the shape of three words off a form at arm's length with a clerk pointing at them, and she said, "That says the present holder."
 
 "That says the present holder."
 
@@ -40,7 +40,7 @@ She had signed one instrument in sixty-one years. That is not a thing a woman is
 
 She did not read it. She wants that on the record, and she said it out loud to the clerk before he went and she said it again afterwards to a copyist out of a shop with a price painted in the window, who came out on a cart and paid four pence of the carriage herself and would have paid eleven if it had been eleven, and both times in the same words.
 
-"He put his finger on the box and I read the six words off it at arm's length, and he did not offer to read it to me, and I did not ask, and I have had fifty-nine years of people deciding what I can be left out of and this is the first time I have been angry about six words."
+"He put his finger on the box and I read the three words off it at arm's length, and he did not offer to read it to me, and I did not ask, and I have had fifty-nine years of people deciding what I can be left out of and this is the first time I have been angry about three words."
 
 What she got for the signature was nothing at all, for about nine weeks, which she expected, and then the form came back on a post with a note on the reverse of it, and the note said what the clerk in the yard had not said.
 
@@ -64,9 +64,9 @@ Hester Crane sat at her own table with her own hands flat on it.
 
 "Say that again, and do not say it to me. Write it down."
 
-And the girl wrote it down, which she can do, in a copyist's hand, because a woman of twenty out of a lane had sat at that table nine weeks earlier and written four questions on the back of a copy of a ruling and had left them there on purpose, and had said out loud that anybody in that lane might take them off and use them, and had not known at the time that the woman at that table had a granddaughter who could read.
+And the girl wrote it down, which she can do, in a copyist's hand, because a woman of about forty out of a lane had sat at that table nine weeks earlier and written four questions on the back of a copy of a ruling and had left them there on purpose, and had said out loud that anybody in that lane might take them off and use them, and had not known at the time that the woman at that table had a granddaughter who could read.
 
-> *Asked of a line of a works note, by a person of eleven, in a house in the lower district, out of the four questions, which are not the law and are not advice and cannot be made to be either: whose name is on it, yours, or a word that walks about? And the answer, which the person asking it worked out in about four seconds and which took the woman of sixty-one eleven weeks and a hearing to reach, is that there are two on it and one of them is not a person, and the word that walks about is the one that got her grandmother.*
+> *Asked of a line of a works note, by a person of eleven, in a house in the lower district, out of the four questions, which are not the law and are not advice and cannot be made to be either: whose name is on it, yours, or a word that walks about? And the answer, which the person asking it worked out in about four seconds and which took the woman of sixty-one nine weeks and a hearing to reach, is that there are two on it and one of them is not a person, and the word that walks about is the one that got her grandmother.*
 
 Hester Crane did not know then and did not find out for about two months that this was the only document in the matter that was true and that nobody had asked for.
 
@@ -82,25 +82,25 @@ Here is what the walk actually is, and it is worth having in a copyist's hand be
 
 The parish of Lowcross existed in the second year of this century and was dissolved in the sixth by a district reorganisation which nobody in Lowcross attended, because the notice of it went to the parish, and after the notice there was no parish to receive anything, and there is still a board on the church wall with a name on it and nobody has taken it down and it is not a body any more.
 
-The bridge is a timber cart bridge over the Weir Cut and it is public. It was built in the second year of the century's second decade under an instrument sealed with the old fire-and-water device, and the instrument was countersigned by the water holder of that cut, and the water holder's duty — the gate, the sluice, the cut itself — survives, and the water holder is not named on any page of this and will not be, and does not need to be, and is not anybody's mouth for a power it does not hold.
+The bridge is a timber cart bridge over the Weir Cut and it is public. It was built in the second year of the century's second decade under an instrument sealed with the old fire-and-water device, and the instrument was countersigned by the water holder of that cut, and the water holder's duty — the gate, the sluice, the cut itself — survives, and the water holder is not named here and will not be, and does not need to be, and is not anybody's mouth for a power it does not hold.
 
 The instrument says, in the words that instruments use and that no person in Lowcross has ever read in full, that the bridge-side duty of upkeep shall be held against **the present holder**.
 
 And in the second year of the century, the present holder of the crossing at Lowcross was a body with a name on a board. The parish had eleven names in its rate book and a clerk who wrote them in ink and initialled them and answered letters.
 
-In the **fourth month of the sixth year**, the district works made a quarterly return. It is a form about works, about money, about four lines a quarter, and it is not a form with a flood docket's authority on it and it is not in any series and it is not on the list of forty-six places, and it was filled in at a desk in a room over a cobbled yard by a clerk who was doing a return and had a hundred and forty returns to do that month.
+In the fourth month of the sixth year, the district works made a quarterly return. It is a form about works, about money, about four lines a quarter, and it is not a form with a flood docket's authority on it and it is not in any series and it is not on the list of forty-six places, and it was filled in at a desk in a room over a cobbled yard by a clerk who was doing a return and had a hundred and forty returns to do that month.
 
 The return asks a question. Every one of these returns asks the same question in the same place, and the question is *holder of the crossing*.
 
 And the clerk, in a room over a cobbled yard, in the fourth month of the sixth year, with a parish that had been dissolved three months before and a column and a habit and about nine minutes, wrote *the present holder* where the law said *the parish of Lowcross*.
 
-Six words. A copy of a clause from a ruling that had not been made yet, in a river province four hundred and thirty miles off, out of a scale instrument, in a word that a river court had already used in a private instrument and that a district water office had already put on a memorandum; and a person had put it in a box in a works return in a city four hundred and thirty miles from that province, in a form that had been in use since before the district was reorganised, for no reason, out of a habit of the language.
+Three words. A copy of a clause from a ruling that had not been made yet, in a river province four hundred and thirty miles off, out of a scale instrument, in a word that a river court had already used in a private instrument and that a district water office had already put on a memorandum; and a person had put it in a box in a works return in a city four hundred and thirty miles from that province, in a form that had been in use since before the district was reorganised, for no reason, out of a habit of the language.
 
 That is what a person at a desk in a hurry does. It is what Sabra Ollett did in four seconds at a landing office. It is what Hallis Dren's district did for a year. Nobody chose it. It is a word that walked, and the reason it walked is that it was in the district's mouth already, from a copy, from a memorandum, from a court in another province, from a form in a corridor in this city, and a person filling in a return in the fourth month of the sixth year did not know it was a word that had come from anywhere at all. She thought it was the law.
 
 And the return went in. And a clerk in the works checked the totals, and the totals were right, and the word in a box is not a total, and nobody looked at the word in a box for six years.
 
-Then, in the **eighth month of this year**, a woman of sixty-one wrote to the works asking for nineteen pounds three and fourpence, and a young man with a good coat came out into a yard and put his finger on a box, and the box said *the present holder*, and there was only one present holder, and she was standing in front of him.
+Then, in the eighth month of this year, a woman of sixty-one wrote to the works asking for nineteen pounds three and fourpence, and a young man with a good coat came out into a yard and put his finger on a box, and the box said *the present holder*, and there was only one present holder, and she was standing in front of him.
 
 ---
 
@@ -118,4 +118,4 @@ And the bank is what goes.
 
 She put her two hands flat on the table, which is a thing she does and has done at that table since it was made.
 
-"Write this down in your own hand and I will not read it, and if I have said it wrong I will not know. Nineteen years and I have never signed anything and this year I signed a form on a word I read at arm's length because a young man was standing in my yard in a good coat and did not want to be unkind to me. That is all of it. That is the whole of how it happened, and there is nobody in it to be angry with except the six words and I cannot get at six words."
+"Write this down in your own hand and I will not read it, and if I have said it wrong I will not know. Nineteen years and I have never signed anything and this year I signed a form on a word I read at arm's length because a young man was standing in my yard in a good coat and did not want to be unkind to me. That is all of it. That is the whole of how it happened, and there is nobody in it to be angry with except the three words and I cannot get at three words."

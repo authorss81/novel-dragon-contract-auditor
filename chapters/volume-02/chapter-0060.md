@@ -1,8 +1,8 @@
 # Chapter 60: A Column of None Named
 
-The register of pending duties is a book and a board, and the book has five columns, and she had written four of them nine hundred times.
+The register of pending duties is a book and a board, and the book has five columns, and she had filled three of them nine hundred times and had left the fourth empty nine hundred times, and the fifth had a shilling in it on the days when somebody came in and could pay one.
 
-> *Date. Household. Duty. Next review. A shilling a copy.*
+> *Date. Household. Duty. Next review. Copy sold.*
 
 The board above the window is the same five things in chalk and it can be read by anybody who cannot pay a shilling, which is the only argument she has ever been able to make for having two, and the argument is not in the book.
 
@@ -12,17 +12,17 @@ A next review is a date. A date is a thing that happens. A thing that happens ha
 
 And there was no review. Not one.
 
-The district had not decided whether to run the process next season and had not been asked by her and would not be asked by her. The Cinder Court had escalated the sealed instruction to a full sitting with jurisdiction on its own motion and there was no date on it, because a thing on a list with a date and nobody's name on it is a date and not a review, which is a sentence she has now heard a man in a good coat's building say out loud in a room and did not enjoy. Restitution is not a word this court can use, and she is not going to teach it a new word in the twelfth month, and the magistrate will not be asked, and the flue in the old records room is still booked for the fourteenth of the second month and the fourth cycle's copies are still not made because there is still no fourth clerk.
+The district had not decided whether to run the process next season and had not been asked by her and would not be asked by her. The Cinder Court had escalated the sealed instruction to a full sitting with jurisdiction on its own motion and there was no date on it, because a thing on a list with a date and nobody's name on it is a date and not a review, which is a sentence she has now heard a man in a good coat say out loud in a room, and did not enjoy. Restitution is not a word this court can use, and she is not going to teach it a new word in the twelfth month, and the magistrate will not be asked, and the flue in the old records room is still booked for the fourteenth of the second month and the fourth cycle's copies are still not made because there is still no fourth clerk.
 
-So she sat down at the window on the fourth of the first month with a new book — not the board, the book, the one with the columns — and entered the thirty-one, one at a time, in nine days, in her own hand, and she entered four of the five columns out of five with the case as plain as a case can be made.
+So she sat down at the window on the fourth of the first month with a new book — not the board, the book, the one with the columns — and entered the thirty-one, one at a time, in nine days, in her own hand, and the fourth column is the one she could not fill for three weeks, and she filled it thirty-one times, and she filled it with the case as plain as a case can be made.
 
 > *Sixth year, third cycle. Return marked and signed, first week of the cycle. The sentence of this court of the twelfth of the ninth month of last year, applied in letters, without a hearing. Duty entered as the term stands: the holder of the said property is joined as guarantor until full review of the matter. Next review: none named.*
 
-Thirty-one times, in her own hand, over nine days, with the door, the name, the word *seen* or the word *told*, and the date of the returning officer's walk against it.
+Thirty-one times, in her own hand, over nine days, with the name and the door of the household in the second column, the word *seen* or the word *told* against the return, and the date of the returning officer's walk after it.
 
 *Next review: none named.*
 
-She put the word down thirty-one times and it took nine days and it is the most honest thing that book has ever held, and a person coming in at the window reads it and thinks the clerk has not bothered, and the clerk has bothered for nine days.
+She put the word down thirty-one times and it took nine days and it is the most honest thing the book has ever held, and a person coming in at the window reads it and thinks the clerk has not bothered, and the clerk has bothered for nine days.
 
 ---
 
@@ -52,7 +52,7 @@ Ivet Sarn looked at the book, and at the board, and at the wall, and there were 
 
 Iolanthe Rees paid a shilling, and gave her name for the line, and asked whether anybody had been in her house.
 
-"Three of the four times, by the word on your card, and the fourth is a word that is not a name and it is one of eleven, and I have written the eleven down separately and it is on the wall and it is a worse thing to read than your line."
+"Three of the four times, by the word on your card, and the fourth is a word that is not a name, one of eleven, and I have written the eleven down separately, on the wall, and it is a worse thing to read than your line."
 
 "Then I have been in it four times and did not know."
 
@@ -70,7 +70,7 @@ She had told them all of it, on the thirtieth of the ninth month of last year, a
 
 He had not, because nobody had told him that he could.
 
-And in the seventh month of last year she had written it in the first person in her own book, and told nobody, which is the half of it that was the whole of the reason, and what she had written was that she would walk up this upper lane on the fourteenth of the seventh, on his way home from the works, and say four words and go; and the fourteenth of the seventh had been a day in the seventh month and she had not gone, and the not going was not a decision and she has had six months to find out what it was and it is this: it was an ordinary day in a month with a hearing in it and a copy to be got out of a building, and it was because there were about four other things, and every one of the four other things was in a book, and a man in a book is a thing that can be done in six months.
+And in the seventh month of last year she had written the promise in the first person in her own book and told nobody, and what she had written was that she would walk up this upper lane on the fourteenth of the seventh, on his way home from the works, and say four words and go. The fourteenth of the seventh had been a day in the seventh month and she had not gone, and the not going was not a decision. She has had six months to find out what it was, and it is this: it was an ordinary day in a month with a hearing in it and a copy to be got out of a building, and there were about four other things in it, and every one of the four other things was in a book, and a man in a book is a thing that can be done in six months.
 
 So she put it on the wall on the second of the eighth month, in the first person, with the day on it, which is a thing she has never done about a promise she made to herself:
 
@@ -111,7 +111,7 @@ It is a notice that a man named **Corvin Dray** will be tried at the second hour
 > *Three: he is not to speak to any of the eleven protected people named in the order of the seventeenth of the ninth month, except through an officer, and a breach of it is to be entered.*
 > *Four: the trial is confined to the local forgery charges, to the entries in his own ledger of ninety-one leaves, and to the thirty-eight lines in three districts against which a mark appears, and no count arising out of the sealed instruction, or out of any office, is to be tried with it, and his appearance to be tried is not an admission touching any person or office not named.*
 
-Eleven people, and sixty-one certificates that a registrar suspended on his own authority in a room in the sixth month without hearing an argument, and a mark in a public minute book against thirty-eight lines in three districts which is a mark and not a name and which the court does not know the house of, and a plea that was refused on the eighteenth of the ninth month of last year and read back off the record in the seventh month and not refused again.
+Eleven people, and sixty-one certificates that a registrar suspended on his own authority in a room in the sixth month without hearing an argument, and a mark in a public minute book against thirty-eight lines in three districts which is a mark and not a name and which the court does not know the house of, and a plea that was refused on the eighteenth of the ninth month of last year, read back off the record the same afternoon, and not refused again.
 
 And nobody has been named, in eleven months, by a man who has been asked by four separate people, and he is not going to be asked again for one, because a man who cannot be got to name one can be made to say anything by a person who wants him to.
 
