@@ -48,7 +48,9 @@ She read it out then, in plain words, standing at the rail, with the cold coming
 >
 > *Five. The rail on this platform, new pins, the fourteenth. One man.*
 >
-> *Given at this office. — In the hand of a foreman, at the foot, with a name.*
+> *Given at this office.*
+
+The last line of it was written and not printed, and it was the only hand on the sheet that was not the office's, and there was a name at the foot of it, and there was no person's name at the top of it anywhere.
 
 "That is the whole of it," said Tavi Venn. "There is no price on it."
 
