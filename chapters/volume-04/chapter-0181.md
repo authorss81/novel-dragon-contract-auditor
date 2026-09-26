@@ -1,6 +1,6 @@
 # Chapter 181: What Four People Heard
 
-A letter is a thing a person can be shown, and a letter is also a thing a person can be shown to somebody else, and nobody warned her about the second half, and she has been standing at the fourth counter of the Notaries' Table in Auremar for about four weeks and has not been warned about it in nine years of standing at counters.
+The letter came on the third day of the first week and it was four lines long and it had a district's mark at the top of it, and the mark was a district and not an office, and the person who read it standing up read it twice and then stood for about nine minutes without putting it anywhere.
 
 Marn Ottery is thirty-four. She is a copyist and not a lawyer. She came down about four hundred and thirty miles of the old river road in the third week of the first month of the year after, on her own account, having said out loud to a man in a room that a letter is a thing a person can be shown, and she had four days of a shut counter in the price of it, and the counter is open now and has been every morning since.
 
@@ -10,7 +10,7 @@ She is not thanked for any of it and did not expect to be.
 
 ---
 
-The letter came on the third day of the second week.
+The letter came on the third day of the first week.
 
 It is four lines. It is on paper that is not this building's paper and it has a district's mark at the top of it and the mark is a district and not an office, and it came by a cart that came up the road and a man who came off it and put it on the sill, and he was not paid for the carriage beyond the cart's own wages and would not have been told what was in it.
 
@@ -20,7 +20,7 @@ She read it standing up. She read it a second time, slower. And then she stood t
 
 The four lines say this.
 
-> *The ten entries were produced in the room in which they are held, on the second day of the twelfth month of next year, at the second hour, in the presence of the person in charge, and there was a man of fifty in the room who had not been asked to come and who said yes in five words and who is not thanked.*
+> *The ten entries were produced in the room in which they are held, on the second day of the twelfth month of next year, at the second hour, in the presence of the person in charge, and there was a man of fifty, a mason, in the room who was asked beforehand how long he would be standing there and who said yes in five words and who is not thanked.*
 >
 > *Nine of the entries have a holder and a day. The tenth has a holder and no day. The holder of the tenth is the office, in its own name, as its own holder, and I read that out in a room and a man of fifty heard it and two people who are parties heard it and that is four people.*
 >
@@ -36,7 +36,9 @@ She got it out and put the two side by side on the slab.
 
 Nine holders and nine days. The tenth with a holder and no day.
 
-She had looked at that in a coat about four hundred and thirty miles away, in a lane, in the second week of the twelfth month of next year, and she had said out loud at the time that a gap in a copy is a fact about the copying and a gap in an original is a different sentence, and a gap in an original is a fact about a removal. She said it now, to herself, at about the fifth hour, in a bay, with nobody in it.
+A man of thirty-eight had carried that about four hundred and thirty miles away in the inside of a coat, and had said out loud in a lane, in the second week of the twelfth month of next year, that a gap in a copy is a fact about the copying and a gap in an original is a different sentence, and a gap in an original is a fact about a removal. She had been in the room when he said it and she had written it down and dated it and had not read it back to him.
+
+She said it now, to herself, at about the fifth hour, in a bay, with nobody in it.
 
 **Four people heard it. That is the whole of what came out of that room, and it is findable, and it is the only thing in this matter in about four months that anybody has actually got.**
 
@@ -46,7 +48,7 @@ And then she did the other thing, which was to write down what the difference wa
 
 She wrote:
 
-> *A clerk of thirty-eight four hundred and thirty miles up this river has read ten entries out loud in a room and a term with no day at the end of it has been heard by four people.*
+> *A clerk of thirty-eight four hundred and thirty miles down this river has read ten entries out loud in a room and a term with no day at the end of it has been heard by four people.*
 >
 > *A hearing is not a document. I have been in this building eleven years and I have watched people come out of rooms in this city believing that a thing said in a room with a witness in it is the same as a thing written down, and it is not, and the difference is the whole of my trade.*
 >
@@ -55,6 +57,12 @@ She wrote:
 > *So the reading happened and the whole of what it produced is that four people were in a room. There is no form in this empire that makes a hearing into a document. I have looked for one and the looking took about nine minutes and the answer is that the form you want does not exist, and the reason it does not exist is that a form which turned a hearing into a document would be a form that made a person in a room a person in a book, and this empire has never wanted that and has never said so.*
 
 She put the pen down and did not read it a third time, because the third time would only make it feel more certain than it is, and she would rather have it twice and be unsure.
+
+Then she went and put the letter in the pigeonhole behind the counter, in the slot that is marked with a district and not with an office, because that is where a letter that has come by cart goes to be answered, and then she took it out again.
+
+That was the whole of what she did in about nine seconds and it is the only thing in three weeks of standing at this counter that she has not been able to settle. A letter in the pigeonhole is a letter a clerk will find again, and a clerk who finds it will answer it, and a clerk who answers it will say whatever the letter says to say. A letter in a book with no office on it is a thing nobody can be made to produce, and she has been at this counter eleven years and she has never before had a piece of correspondence that she could neither answer nor refuse, and there is no form for that either.
+
+She put it in the book with the day on the outside of it and the district's mark on the inside, and it went in with the rest of her own book and not into the day's book of the counter, because the day's book is for the counter's business and a clerk of thirty-eight four hundred and thirty miles down this river is not the counter's business.
 
 ---
 
@@ -70,7 +78,7 @@ And Ivet Sarn had never written a letter to anybody. Marn Ottery could tell, bec
 
 ---
 
-The counter opened at the fourth hour on the fourth day and stayed open until the sixth, the way it does.
+The counter opened at the fourth hour on the seventh day, four days after the letter, and stayed open until the sixth, the way it does.
 
 About a hundred blanks came out of the box under the counter over those two hours and went into other people's hands, and a girl of about twenty-five at the intake desk wrote a file number in ink and initialled it and was not thanked, and a man of fifty came to the counter and paid to have a thing copied and it was copied and read back to him twice, the second reading slower, and he asked who had taught her that and she said she was not going to say, which is the correct answer and has been for eleven years.
 
@@ -84,11 +92,11 @@ That a copy of a record of property and debt for the Kest house was issued from 
 
 Marn Ottery read it twice and then she said the price out loud before she wrote anything, in the flat way she says everything, to a room with three people in it.
 
-"I am a party. **A certification is a document. It is findable, it is mine, and it is going to be in about four years in a room somewhere with my hand at the foot of it and my name at the top of it**, and it is the second thing in this matter with my hand on it and the first one I chose. I would like the second half of that said out loud in this room before I do it, because I have not been thanked once and I have not been refused once and I would like it recorded which of those is happening."
+"I am a party. **A certification is a document, and it is findable, and it is going to be in about four years in a room somewhere with my hand at the foot of it.** It is the second thing in this matter with my hand on it and the first one I chose. I would like the second half of that said out loud in this room before I do it, because I have not been thanked once and I have not been refused once and I would like it recorded which of those is happening."
 
 Nobody said anything and a man put his hand over his mouth and then took it away again.
 
-"There is no charge for it," she said. "The fee board has four things on it and none of them is time and there is no line on it for a certification, because a table cannot charge a person for telling the truth about its own book, and nobody has ever charged anybody for that at this counter and I am not starting with you."
+"There is no charge for it," she said. "The fee board has four things on it and none of them is time, and a certification of this counter's own book is not one of the four, because a table cannot charge a person for telling the truth about its own book, and nobody has ever charged anybody for that at this counter and I am not starting with you."
 
 ---
 
@@ -96,14 +104,14 @@ She wrote it in about nine seconds.
 
 > *Certified at the fourth counter of the Notaries' Table in Auremar. That a copy of a record of property and debt for the Kest house was issued from this counter to a person, on a day, in the ordinary way, at the price at which copies are issued. The seal on the paper produced by that person is not the seal of this table and was not read out. The name of that person was not asked for and is not kept at this counter, this counter not taking the name of a person for a copy. In the ordinary way. — M. Ottery, clerk at this counter, eleven years.*
 
-She signed it and dated it and did not soften one word of it, and the three people in the room watched a woman of thirty-four write down in nine seconds that she had been made to say a thing about a person she had served four weeks earlier, in the ordinary way, at a counter.
+She signed it and dated it and did not soften one word of it, and the three people in the room watched a woman of thirty-four write down in nine seconds that she had been made to say a thing about a person she had sold fourpence to about three weeks earlier, at a counter, and made no party of.
 
 The man with the wrapper said, "That will go a long way."
 
-"No," said Marn Ottery. "**That will go about four years, and it will go to a room, and there will be a person in the room who can say that a woman at a counter wrote down a fact about her own book because a table can be made to answer about its own book and not about anything else, and that is the whole of why I could do it and the whole of why it was worth doing.** The name is not in it. The seal is not in it. If the person who sent that wants the name they can come and stand at this counter and ask me for it in person, on their own account, and I will ask them one question first, which is what it is for, and about four years ago a clerk at this counter refused to say what she thought a word on a form meant and I have never stopped being glad of it."
+"No," said Marn Ottery. "**That will go about four years, and it will go to a room, and there will be a person in the room who can say that a woman at a counter wrote down a fact about her own book because a table can be made to answer about its own book and not about anything else.** The name is not in it. The seal is not in it. If the person who sent that wants the name they can come and stand at this counter and ask me for it in person, on their own account, and I will ask them one question first, which is what it is for, and about four years ago a clerk at this counter refused to say what she thought a word on a form meant and I have never stopped being glad of it."
 
 ---
 
 Nobody thanked her, and she said in advance, out loud, at the counter, that nobody was to, and nobody did.
 
-The counter stayed open until the sixth hour. About a hundred blanks came out of the box under it in two hours and a sheet of good paper went out of it in nine seconds, and a clerk of thirty-four four hundred and thirty miles up this river went on holding a key on a string that two people have now written about in a document, and **there is no form anywhere for taking a person back out of a document, and she said the price out loud first, and the price was nine seconds of her own time and about four years of being findable, and she paid it in a room with three people in it and did not get thanked and did not expect to.**
+The counter stayed open until the sixth hour. About a hundred blanks came out of the box under it in two hours and a sheet of good paper went out of it in nine seconds, and a clerk of thirty-eight four hundred and thirty miles down this river went on holding a key on a string that two people have now written about in a document. **There is no form anywhere for taking a person back out of a document**, and she said the price out loud first, and the price was nine seconds of her own time and about four years of being findable, and she paid it in a room with three people in it and did not get thanked and did not expect to.
