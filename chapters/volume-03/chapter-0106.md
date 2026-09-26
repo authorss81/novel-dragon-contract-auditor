@@ -1,10 +1,10 @@
 # Chapter 106: The Fourth Question at a Table
 
-Doreth Ferrow's kitchen is two rooms and the second one is a kitchen, and there is a table in it that came with the house and is too big for the room, and about eleven people can stand in that kitchen without touching each other and about eleven is what was in it.
+Doreth Ferrow's kitchen is two rooms and the second one is a kitchen, and there is a table in it that came with the house and is too big for the room, and eleven people can stand in that kitchen without touching each other and eleven is what was in it.
 
 The last day of the first month is a day of flat light and no wind and the water at the Reed Cut is up about four inches out of the flats and going down again at about two inches a day, and Tavi Venn came up the river on the twenty-seventh with a pail and a loaf and no money, four miles, on the towpath, because Doreth Ferrow had written to the gate on the twenty-fourth.
 
-The letter said four things. It said that a sheet had come from the water office with two people's names in a box on it. It said that there were four men on that bank who could read a paragraph and that one of them had said no in a mill yard in front of about forty people. And it said: *and I am seventy-nine and I have been able to read about nine words since I was eleven and I would like somebody to read it out in my kitchen, and I will pay nothing because I have nothing, and I am not asking you to advise anybody about anything.*
+The letter said four things. It said that a sheet had come from the water office with two people's names in a box on it. It said that there were four men on that bank who could read a paragraph and that one of them had said no in a mill yard in front of forty people. And it said: *and I am seventy-nine and I have been able to read about nine words since I was eleven and I would like somebody to read it out in my kitchen, and I will pay nothing because I have nothing, and I am not asking you to advise anybody about anything.*
 
 Tavi Venn is seventeen. She has been on the Reed Cut bank since she was old enough to be on it. She can read a paragraph, and she can read one out loud in plain words, and she was examined for canal work on the twenty-sixth of the fifth month of last year by a guild witness out of Mosswake and passed in reading, writing, arithmetic, ditching on the level and the setting of a gate linkage to a maker's gauge, and the fee of that was two shillings and sixpence out of a works fund under a head a stranger will read in a year.
 
@@ -14,7 +14,7 @@ Tavi Venn is seventeen. She has been on the Reed Cut bank since she was old enou
 
 She put the sheet on the table, flat, with the four nails' worth of creases in it, and she turned it round so that the writing was the right way up for the people standing on the other side, and then she read it out.
 
-She read it twice. The first time she read it as it is written, which took about four minutes and is longer than it sounds because she stopped at the box and named the box out loud, because a person who cannot read a paragraph needs to know where the parts of a thing are.
+She read it twice. The first time she read it as it is written, which took four minutes and is longer than it sounds because she stopped at the box and named the box out loud, because a person who cannot read a paragraph needs to know where the parts of a thing are.
 
 > *Reed Cut district water office. Flood works, spring. The ninth day of the first month.*
 >
@@ -34,7 +34,7 @@ She read it twice. The first time she read it as it is written, which took about
 
 "There is a man's name at the bottom of it," said Tavi Venn, "and the bottom of it is a different thing from the bottom of the other one, and I am going to say that now so that nobody is surprised later. That is the keeper's name, and she signed it herself, and I am told she is a dragon and I am told she is not the First Seat's and I am told by nobody in particular that I am not to repeat it, and I am repeating it because you asked me to read it and that is what it says."
 
-The first time she read it, about four of the eleven people in that kitchen followed the lines. The second time, about nine of them followed, and one of the nine is a woman of about seventy-nine who can read about nine words and followed the whole of it by watching the page go up and down, which is a thing people do.
+The first time she read it, four of the eleven people in that kitchen followed the lines. The second time, nine of them followed, and one of the nine is a woman of about seventy-nine who can read about nine words and followed the whole of it by watching the page go up and down, which is a thing people do.
 
 Then she put it down.
 
@@ -50,7 +50,7 @@ The second question was asked by the same man, about a minute later.
 
 "And whose name is on it."
 
-"Two," said Tavi Venn. "Yours is not, and mine is not, and mine is the only name I would say anything about and it is not on it. **There is no name at the top of it at all. There is the office, and the year, and the day, and the district, and two names in a box, and the keeper's own name at the foot.** And that is the correct order, and I want to say the next part out loud because it is the part that matters and about nine people in this kitchen have never had anybody say it to them. A name at the top of a paper finds a person. A name at the foot of a paper says somebody is in it. And this sheet has got one of each and not a mark on it, and it took a keeper two days to get it into that state and she did it by *not* doing something, and I know that because the last line of it says so."
+"Two," said Tavi Venn. "Yours is not, and mine is not, and mine is the only name I would say anything about and it is not on it. **There is no name at the top of it at all. There is the office, and the year, and the day, and the district, and two names in a box, and the keeper's own name at the foot.** And that is the correct order, and I want to say the next part out loud because it is the part that matters and nine people in this kitchen have never had anybody say it to them. A name at the top of a paper finds a person. A name at the foot of a paper says somebody is in it. And this sheet has got one of each and not a mark on it, and it took a keeper two days to get it into that state and she did it by *not* doing something, and I know that because the last line of it says so."
 
 The third question was not asked by anybody for about four minutes, and then the woman of about seventy-nine asked it, and she asked it in the ordinary way.
 
@@ -74,7 +74,7 @@ Then the fourth question, and it came from the woman of about seventy-nine, and 
 
 "And do they get paid if I sign."
 
-"I am not going to sign it either," said Tavi Venn. "I want that said. **I have not signed anything in my life that anybody could put a box on and I am not starting this month, and there is nothing on that sheet for me to sign and there is nothing on it for you to sign, and about nine people in this kitchen have been walking about for thirteen days as though there were something on it to sign, and there is not.**"
+"I am not going to sign it either," said Tavi Venn. "I want that said. **I have not signed anything in my life that anybody could put a box on and I am not starting this month, and there is nothing on that sheet for me to sign and there is nothing on it for you to sign, and nine people in this kitchen have been walking about for thirteen days as though there were something on it to sign, and there is not.**"
 
 "Somebody is going to have to sign it," said the man of forty.
 
@@ -86,15 +86,15 @@ The kitchen was quiet for about a minute and a half and then a woman of about th
 
 "And the boy. Sixteen. He is on the list at five pence and he is not in the box. Why is he not in the box."
 
-"Because the keeper did not put him in it," said Tavi Venn, "and because she wrote down on the face of her own sheet that she had asked nobody, and because about nine days after that she stood in a shed at the Slade end and said out loud, in front of about forty people, that leaving a boy of sixteen out of a box was the only protection anybody in that yard had ever had.
+"Because the keeper did not put him in it," said Tavi Venn, "and because she wrote down on the face of her own sheet that she had asked nobody, and because about nine days after that she stood in a shed at the Slade end and said out loud, in front of forty people, that leaving a boy of sixteen out of a box was the only protection anybody in that yard had ever had.
 
-"And I want to say the rest of it, because about four people in this kitchen have children and the rest of it is the reason.
+"And I want to say the rest of it, because four people in this kitchen have children and the rest of it is the reason.
 
 "**A box is a place where a person goes. A person can be found and a person can be asked and a person can say no, and that is the whole of what a name is for.** A company cannot be found and a company cannot say no, and about ninety-one households are in that company, and a company lasts longer than everybody in it, and the only people left in a company after everybody in it is dead are the children. So a body in a box is a place where children go, and it is not a person who has gone into it. **A body in a box is about everybody who will ever be born into it, and nobody in the history of the world has ever been asked whether they wanted to be born into a box.**"
 
 ---
 
-Then she said the thing she had come to say, and she said it standing up, at the end of a table, to about eleven people in a kitchen, and it is the answer to a question a girl of eleven asked on a bank four miles down-channel a month ago that nobody in this kitchen has heard of and that Tavi Venn has not told anybody she has, and she was not going to be asked about it by anybody in this kitchen, and she answered it anyway.
+Then she said the thing she had come to say, and she said it standing up, at the end of a table, to eleven people in a kitchen, and it is the answer to a question a girl of eleven asked on a bank four miles down-channel a month ago that nobody in this kitchen has heard of and that Tavi Venn has not told anybody she has, and she was not going to be asked about it by anybody in this kitchen, and she answered it anyway.
 
 "And the last of it, and it is the last of it.
 
@@ -112,7 +112,7 @@ Then she said the thing she had come to say, and she said it standing up, at the
 
 "And the last part of the condition is the part that is for me and not for you, and I am saying it because nobody else is going to.
 
-"**If somebody comes to this table with a box and they want a name in it, I will say no, and I will not care whose name it is, and I will say no to a man in a good coat and I will say no to a keeper and I will say no to my own brother if he has one, which he has not.** I said that on a bank a month ago to a girl of eleven and I did not know then that it was going to be a condition, and it is a condition now, and I have said it out loud in a room with eleven people in it, and I am not going to take it back, and about four of you have children and two of you looked at me when I said it, and I know exactly what you looked like and I am not going to pretend I did not see it."
+"**If somebody comes to this table with a box and they want a name in it, I will say no, and I will not care whose name it is, and I will say no to a man in a good coat and I will say no to a keeper and I will say no to my own brother if he has one, which he has not.** I said that on a bank a month ago to a girl of eleven and I did not know then that it was going to be a condition, and it is a condition now, and I have said it out loud in a room with eleven people in it, and I am not going to take it back, and four of you have children and two of you looked at me when I said it, and I know exactly what you looked like and I am not going to pretend I did not see it."
 
 Nobody in that kitchen said anything for about half a minute, and then Doreth Ferrow said the only sensible thing anybody could say, which was to ask whether she would come the following week as well, and Tavi Venn said that she would come the following week, and that on the following week there would be a bank on it because a foreman had put her own name at the foot of a list of works and had said in a shed that she would be asked to put it there again, and that she did not know whether that would be in a week and would find out.
 
@@ -122,6 +122,6 @@ Then she put the sheet back in her own bag, and it went down the river with her,
 
 A sheet of works was nailed to a rail at a gate four miles down-channel with a list of jobs on it and a foreman's name at the foot of it and no person's name at the top of it, and it has been on that rail for about a year, and the crew read it on the day it went up and did the work, and nobody has come to read it since.
 
-Tavi Venn has now read that rail out loud in full, twice, to a girl of eleven, and read a district flood sheet out loud in full, twice, to about eleven people in a kitchen, and the two readings are the same shape and they cost her the same, which is nothing, and one of them was for a woman on a bank who cannot read a paragraph and one of them was for a woman in a kitchen who can read about nine words.
+Tavi Venn has now read that rail out loud in full, twice, to a girl of eleven, and read a district flood sheet out loud in full, twice, to eleven people in a kitchen, and the two readings are the same shape and they cost her the same, which is nothing, and one of them was for a woman on a bank who cannot read a paragraph and one of them was for a woman in a kitchen who can read about nine words.
 
 **And nobody has ever paid her for either, and nobody ever will, and the only person in this matter who has said that out loud in a room is her, and she is seventeen.**

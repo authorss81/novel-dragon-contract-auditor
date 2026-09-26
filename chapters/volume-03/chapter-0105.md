@@ -26,7 +26,7 @@ He put his hand flat on the file.
 
 He read it out. He read it in the order of the file, which is the order it was made in, and he read it in a plain voice, and he did not perform it, and Tamsin Rook read it with him about a line behind, which is a thing copyists do.
 
-The file opens with the register's own page: the two entries, the twelfth of the ninth of the year before last and the sixth of the fourth of last year, four lines each, name, date, instrument, authority. The authority in the first entry is the grant of the limited audit of the eleventh of the third. The authority in the second is the same grant. Then a card, four lines, entered in the fifth month at a counter in about four minutes, reading *independent copy exists, not produced, no power*, in the hand of a copyist of the third gallery. Then the bar, in the master's own hand, and the day of the examination. Then the examination itself.
+The file opens with the register's own page: the two entries, the twelfth of the ninth of the year before last and the sixth of the fourth of last year, four lines each, name, date, instrument, authority. The authority in the first entry is the grant of the limited audit of the eleventh of the third. The authority in the second is the same grant. Then a card, four lines, entered in the fifth month at a counter in four minutes, reading *independent copy exists, not produced, no power*, in the hand of a copyist of the third gallery. Then the bar, in the master's own hand, and the day of the examination. Then the examination itself.
 
 The examination is nine pages and about two thousand words and it is the only document in the file that anybody in it said anything in.
 
@@ -64,7 +64,7 @@ Then there is a sheet of about a quarter of a page at the back which is headed, 
 
 He read that out, too, and then he put the file down and did not pick it up again for about a minute and a half.
 
-"That is the whole of the file," he said. "And I have been in about nine rooms in this matter in fourteen months and I have not once been in a room with the whole of it in it, and I want to say the thing about it out loud because I think it is the finding and I think it is the only thing this afternoon is for.
+"That is the whole of the file," he said. "And I have been in nine rooms in this matter in fourteen months and I have not once been in a room with the whole of it in it, and I want to say the thing about it out loud because I think it is the finding and I think it is the only thing this afternoon is for.
 
 "**There is not one line in that file that I wrote.** Nine items and every one of them is something that somebody else did to me, or decided about me, or charged me for, or chose to be in the room while it happened. My name is on it. My name is on about eleven lines of it, in four hands and in my own, and there is not one line in it in my hand that says anything anybody could call a decision of mine, except the one line in a different book in a different room, which is *I did not want to be in a room*, and that line is not in this file because that line is mine and this file is not.
 
@@ -74,7 +74,7 @@ He read that out, too, and then he put the file down and did not pick it up agai
 
 ---
 
-Oswin Marrow said the thing that he says about four times a year and never to a person, and he said it to a man this time, and it is on the page because he said it out loud with two other people in the room.
+Oswin Marrow said the thing that he says four times a year and never to a person, and he said it to a man this time, and it is on the page because he said it out loud with two other people in the room.
 
 "No. **You have it half right and I am going to give you the other half and you will not enjoy it.**
 
@@ -96,14 +96,14 @@ Marek Kest said: "I want to be able to read a file and not be able to argue with
 
 Oswin Marrow wrote it down. He wrote about nine lines, and he read them back, and made Marek Kest read them back, which he does with everybody, and then he added one line of his own and read that back too.
 
-> *Held the twenty-second of the first month at the second hour in the third room of this office. The applicant read a file out loud in this room in about nine minutes. This is entered as a training and not as a certification, and no certification is granted and none is asked for. The cost of the afternoon is the master's and there is no fund for it in this office or in any other, and the court that ordered the training entered that it knows who gives the afternoon in nine cases out of ten and does not know in the tenth, and this was the tenth, and nobody entered it and I have entered it. The applicant asked that the cost be on the record and it is on the record.*
+> *Held the twenty-second of the first month at the second hour in the third room of this office. The applicant read a file out loud in this room in nine minutes. This is entered as a training and not as a certification, and no certification is granted and none is asked for. The cost of the afternoon is the master's and there is no fund for it in this office or in any other, and the court that ordered the training entered that it knows who gives the afternoon in nine cases out of ten and does not know in the tenth, and this was the tenth, and nobody entered it and I have entered it. The applicant asked that the cost be on the record and it is on the record.*
 > *— O. Marrow, master, Docket of Powers.*
 
 ---
 
-He walked to the door with them and stopped, and said the last of it, and it is the fourth thing he says to a person on the way out of a room and it is about a card in a window and it took about four minutes.
+He walked to the door with them and stopped, and said the last of it, and it is the fourth thing he says to a person on the way out of a room and it is about a card in a window and it took four minutes.
 
-"I have had a card in that window for twenty-two years and I have had about four hundred and ten people in this room in thirty years and I have never in twenty-two years had a person come in and ask me what a name in this book is *for* before they wrote one. You asked me on the twelfth of the ninth, on the stair, in four words, and I have thought about the four words for four months and I have not stopped.
+"I have had a card in that window for twenty-two years and I have had four hundred and ten people in this room in thirty years and I have never in twenty-two years had a person come in and ask me what a name in this book is *for* before they wrote one. You asked me on the twelfth of the ninth, on the stair, in four words, and I have thought about the four words for four months and I have not stopped.
 
 "And I will say the thing about the copyist, because she is standing here and she is the tenth and I am not going to do it behind her back.
 
@@ -129,6 +129,6 @@ In the Received Room that night, with the stove in and the bar on the inside of 
 >
 > *And the fourth envelope is in the drawer with the lock on it and it is addressed to a standing assessor of a furnace town four hundred and forty miles from here and it was written in the fourth week of the first month of last year and it has not been sent for a year and it is not sent tonight and I did not open it, and the reason I did not open it is that the reason I wrote it is a reason I had at the time and the reason I have not sent it is a different one, and the second reason is that the third time somebody in this matter has asked me a question in a room I have been the person who could answer it and I have answered it and I have been wrong about a fact once and caught nothing else, and I am not going to be a man who goes to a drawer at about the ninth hour and starts something.*
 >
-> *I am going four hundred and thirty miles in the first week of the second month. A man came up a road in the second week of the first month and stood at a window and asked a question and I have had four days to decide what to do with it, and what I have decided is to go and stand in the same room and let somebody else put their hand on the paper, and the reason is the sentence at the top of this page, and I would not have been able to say the reason four days ago.*
+> *I am going four hundred and thirty miles in the first week of the second month. A question came up a road to me in the third week of the first month and I have had four days to decide what to do with it, and what I have decided is to go and stand in the room where the question is and let somebody else put their hand on the paper, and the reason is the sentence at the top of this page, and I would not have been able to say the reason four days ago.*
 >
 > *M. Kest, clerk, Received Room, the twenty-second of the first month, at about the ninth hour.*

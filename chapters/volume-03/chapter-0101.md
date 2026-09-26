@@ -12,11 +12,11 @@ The list has the crew's names on it. It has never had a name at the foot of it.
 
 ---
 
-Halla Wray is fifty-one and she has been on that bank since she was nine, and she can tell you which nine feet of it will go and which will not by looking at it in the wrong light, and about four people in this district would tell you the same and two of them would be right. She is the foreman of the Slade Cut, which is an office with no office in it: it is a thing nine families agreed to about eleven years ago because a man from the works came up with a crew and could not get anybody to stop working, and the agreement was not written down and has never been produced by anybody and could not be produced, and she holds it the way a person holds a job that nobody is going to ask her about.
+Halla Wray is fifty-one and she has been on that bank since she was nine, and she can tell you which nine feet of it will go and which will not by looking at it in the wrong light, and four people in this district would tell you the same and two of them would be right. She is the foreman of the Slade Cut, which is an office with no office in it: it is a thing nine families agreed to about eleven years ago because a man from the works came up with a crew and could not get anybody to stop working, and the agreement was not written down and has never been produced by anybody and could not be produced, and she holds it the way a person holds a job that nobody is going to ask her about.
 
 Her brother is **Piotr Wray**, twenty-nine, and he works the far end of the cut and is the only person on that bank who has ever been in a position to say no to her about anything, and on the seventh day of the first month he asked her, at the shed, whether she was going to put the Company's name on the spring list, and she said that was not a question he had any standing to ask her, and he said he had asked it anyway.
 
-The crew is five men and a boy. The day is eight pence for a man and five for a boy. The work is a fortnight. Five men at eight pence for fourteen days is five and sixpence a day, which is seventy pence, which is eleven shillings and eight pence. The boy at five pence for fourteen days is seventy pence, which is eleven shillings and eight pence. It is one pound five and sixpence, and that is the whole of it, and Halla Wray has never seen any of it, because the money is not hers: it comes out of a works fund under a head that says bank works, when there is anything in it, and the works clerk sends it up with the list and takes it back on the list when the work is done, and there has not been anything in that head since the third week of the twelfth month of last year.
+The crew is five men and a boy. The day is eight pence for a man and five for a boy, and five men and a boy together come to forty-five pence a day. The work as it stands on the list is a fortnight. Forty-five pence for fourteen days is six hundred and thirty pence, which is two pounds twelve and sixpence, and that is the whole of it, and Halla Wray has never seen any of it, because the money is not hers: it comes out of a works fund under a head that says bank works, when there is anything in it, and the works clerk sends it up with the list and takes it back on the list when the work is done, and there has not been anything in that head since the third week of the twelfth month of last year.
 
 ---
 
@@ -58,11 +58,11 @@ Piotr came in at about the seventh hour with the barrow handle under his arm, an
 
 "That is exactly why it is there," said Halla Wray.
 
-She said it standing up, with the list in her hand, and she had not planned to say anything, and she said the rest of it in about four minutes, standing, in a shed, to one man, and about eleven years of not having said it.
+She said it standing up, with the list in her hand, and she had not planned to say anything, and she said the rest of it in four minutes, standing, in a shed, to one man, and eleven years of not having said it.
 
 "Listen to this and then say back to me what I have said, because I have not said it before and I want to know whether I said it.
 
-"A list of works is a list of jobs with days against them, and it is the only kind of paper in this empire that a person can read and understand and act on, and I know that is not my discovery, because there is a sheet nailed to a rail at the Reed Cut gate with a list of jobs on it and a foreman's name at the foot and nobody's name at the top, and that sheet has been on that rail for a year and a bit and about nine families cross that gate every day of their lives and not one of them has stopped, and I have been on that bank since I was nine and I never went and read it, and neither did my mother, and neither did any of us, and that is not anybody's fault, that is how anything works.
+"A list of works is a list of jobs with days against them, and it is the only kind of paper in this empire that a person can read and understand and act on, and I know that is not my discovery, because there is a sheet nailed to a rail at the Reed Cut gate with a list of jobs on it and a foreman's name at the foot and nobody's name at the top, and that sheet has been on that rail for a year and a bit and nine families cross that gate every day of their lives and not one of them has stopped, and I have been on that bank since I was nine and I never went and read it, and neither did my mother, and neither did any of us, and that is not anybody's fault, that is how anything works.
 
 "And here is the thing I have got in my hand. This sheet has got your name on it and Dyke's and Corrin's and old Searle's and Hask's and the boy's, and the boy's is Raff Ordway and he is sixteen and you can say that back to me if you want to check I have not lost it. It has got a man's name at the top of it in my aunt's hand, and it has never once had a name at the foot of it. Not once, in sixty years. And a list with nobody's name at the foot of it is a list that nobody has to answer for, and a list with a body at the foot of it is a list the body never read, and a list with a person's name at the foot of it is the only kind anybody in ninety-one households can point at and say *that was us and we were told*.
 
@@ -76,9 +76,9 @@ Piotr Wray picked the barrow handle up again and looked at the name at the foot 
 
 "Then if you go down with the face, it is on you and not on us."
 
-"Yes," said Halla Wray. "That is what a name at the foot of it is. **It is the only thing in this whole business that says anybody is in it.** And I have not been asked to do that and I have not been paid for doing that and about nine families in this cut will now be able to say *Wray did it and Wray asked for it* instead of *it was done*, and I have known all morning that it is going to cost me and I am going to do it, and I would like it noted that nobody asked me."
+"Yes," said Halla Wray. "That is what a name at the foot of it is. **It is the only thing in this whole business that says anybody is in it.** And I have not been asked to do that and I have not been paid for doing that and nine families in this cut will now be able to say *Wray did it and Wray asked for it* instead of *it was done*, and I have known all morning that it is going to cost me and I am going to do it, and I would like it noted that nobody asked me."
 
-Then she said the thing that the volume is about, and she said it to a shed and a nail and a man with a barrow handle, and she has said it since to about nine people and it has not changed and she does not expect it to.
+Then she said the thing that the volume is about, and she said it to a shed and a nail and a man with a barrow handle, and she has said it since to nine people and it has not changed and she does not expect it to.
 
 "And the other thing, and this is the other thing, and it is worse.
 
@@ -98,7 +98,7 @@ Then he said: "You have not answered whether I can have the work in my own name.
 
 ---
 
-She took the list to the weigh-house at the Slade end that evening because that is where the money is counted when there is money, and the weigh-master is a woman of about fifty-eight who has weighed about nine thousand loads of wet earth and does not care what a list says as long as it has the right number of men on it, and the right number of men on it is five and one.
+She took the list to the weigh-house at the Slade end that evening because that is where the money is counted when there is money, and the weigh-master is a woman of about fifty-eight who has weighed about nine hundred loads of wet earth and does not care what a list says as long as it has the right number of men on it, and the right number of men on it is five and one.
 
 "Two names."
 
@@ -118,7 +118,7 @@ And the boy whose name went into the box at the water office is the boy on that 
 
 ---
 
-There are about nine families on that bank and about forty people in a mile of it, and the bank is eleven feet high and four hundred and forty feet of the outer face is the part that matters, and it went nine inches in nine years twice, and a list of works in a shed on a bank is now the fourth document in ninety-one years that somebody on that bank could take hold of, and there are no other three within nine miles.
+There are about nine families on that bank and forty-odd people in a mile of it, and the bank is eleven feet high and four hundred and forty feet of the outer face is the part that matters, and it went nine inches in nine years twice, and a list of works in a shed on a bank is now the fourth document in ninety-one years that somebody on that bank could take hold of, and there are no other three within nine miles.
 
 The girl of eleven who came to the rail at the Reed Cut gate in the last month of last year asked a question that nobody answered, and the question was *and who is it that reads it to the ones who cannot read it*, and about four hundred and thirty miles downstream a sheet went up the river on the ninth of this month with two names in a box and four lines on its face and no body on it anywhere, and **the box was a thing a person could be asked about, and the reading of it had not been settled, and the whole of what came down the river next was the argument about the box.**
 

@@ -1,12 +1,12 @@
 # Chapter 110: Eleven Names
 
-The work was done on the twenty-first day of the second month and it took nineteen days instead of a fortnight, and the reason it took nineteen days is that the ditch on the north side was in the schedule from ninety-one years back and it had not been in anybody's list for about thirty years and it was full of about nine years of silt, and a foreman of fifty-one who cannot read a paragraph read the eleventh page of a book out of a hired grain store aloud to about nine men in a store, in about eleven minutes, and four lines of it came out of her mouth in a kitchen on the twenty-eighth of the last month by a girl of seventeen who is not paid, and so the ditch was in the list, and it is in the book, and it has a name at the foot of it.
+The work was done on the twenty-first day of the second month and it took nineteen days instead of the fortnight the list was written for, and the reason it took nineteen days is that the ditch on the north side was in the schedule from ninety-one years back and it had not been in anybody's list for about thirty years and it was full of about nine years of silt, and a foreman of fifty-one who cannot read a paragraph read the eleventh page of a book out of a hired grain store aloud to nine men in a store, in about eleven minutes, and four lines of it came out of her mouth in a kitchen on the last day of the first month by a girl of seventeen who is not paid, and so the ditch was in the list, and it is in the book, and it has a name at the foot of it.
 
 The bank held.
 
 That is the plain way to say it and it is worth saying in that form, because a bank does not hold in the way a bridge holds or a gate holds. It holds until the water comes up out of the flats in the third week of the fourth month and goes down again, and then it holds until the next such week, and the next one after that, and nobody on that bank is going to be told when the last one is. The outer face at the third-of-the-way place has gone over nine inches twice in nine years and it has not gone over this year, and the coping at the mill end is set on the bed and not on the mud, and the kerb stones are on the bed.
 
-It cost one pound five and sixpence, and that came out of the wage of a clerk of twenty-nine in a city four hundred and thirty miles away, and the works fund's head has been empty since the third week of the twelfth month, and the district's flood authority is two people's names and a dragon who has given her own authority away in writing, and **none of those three facts was fixed by the work being done.**
+It cost three pounds eleven and threepence, and that came out of the wage of a clerk of twenty-nine who lives four hundred and thirty miles from this bank, and the works fund's head has been empty since the third week of the twelfth month, and the district's flood authority is two people's names and a dragon who has given her own authority away in writing, and **none of those three facts was fixed by the work being done.**
 
 Four hundred and thirty miles the other way there is a gate with a rail on it, and a sheet is nailed to that rail, and the sheet is a list of jobs with a foreman's name at the foot of it and no person's name at the top of it, and it is the fifth term of a ruling made on the twelfth of the ninth month of the ninth year, and the fifth term is a list of works because the district works are a list of works and a list of works is the only kind of sentence in this empire that anybody can do on the same day.
 
@@ -24,27 +24,27 @@ Halla Wray ruled the list in the book on the twenty-second day of the second mon
 
 Rennick Adley wrote it out as she said it. That is the form. A person holds the duty, a book-keeper writes down that a person held it, in a book in a store, and the book-keeper does not put a name under the book-keeper.
 
-> *The twenty-second of the second month. Held: the spring bank at the Slade, the outer face from the mark to the eleven feet, the north ditch, the kerb, the coping. H. Wray, foreman, from the seventh of the first month to the third week of the third month. Done on the twenty-first, nineteen days, five men and a boy, one pound five and sixpence, out of the wages of a clerk at Auremar, and not out of the fund, and not a gift, and not anybody's business but his and ours.*
+> *The twenty-second of the second month. Held: the spring bank at the Slade, the outer face from the mark to the eleven feet, the north ditch, the kerb, the coping. H. Wray, foreman, from the seventh of the first month to the third week of the third month. Done on the twenty-first, nineteen days, five men and a boy, three pounds eleven and threepence, out of the wages of a clerk at Auremar, and not out of the fund, and not a gift, and not anybody's business but his and ours.*
 >
 > *The Company is not entered above and is not a party to anything above and is not answerable for it. It is not a body that can be asked and it is not a body that can say no, and I am not going to write it into a book and call it a holder, because a book with a body in it is a box with a body in it and the keeper of the Reed Cut office was right about that on the ninth of the first month and I have read her four lines about nine times since.*
 >
 > *— entered by R. Adley. There is no name under this entry because nobody has taken it on and I am not going to pretend to anybody that I have.*
 
-She said one thing that day, in the store, standing, to about nine people, and the weigh-master was there and the miller was not and Piotr Wray was, and Tavi Venn was, and she has said it since to about forty people in four rooms and it has not got shorter.
+She said one thing that day, in the store, standing, to nine people, and the weigh-master was there and the miller was not and Piotr Wray was, and Tavi Venn was, and she has said it since to forty people in four rooms and it has not got shorter.
 
 "**A duty held by a person can be stopped. That is the whole of it. That is the whole of ninety-one years.** A house can be stopped, because a house is people and people die and move and refuse. An office can be stopped, because somebody can tell an office to stop. A company cannot be stopped, and a company cannot be told, and a company does not know that it has anything.
 
 "**The reason nobody on this bank could say yes or no about this work for sixty years is that nobody was holding it. A nobody cannot say no and a nobody cannot be asked. And when the water office wrote two of our names into a box in the first month it did not do a kind thing. It did the first honest thing anybody has done on this cut in sixty years, and the honest thing looks exactly like a punishment, because the honest thing put a woman's name on a thing that might not be done, and I want that said because people are going to hear the rest of it and forget that.**
 
-"From the seventh of the first month to the third week of the third month, it is mine. On the third week of the third month it is nobody's until somebody says it is theirs. **And I am not going to pretend I have solved anything, because I have solved one fortnight, and I have solved it with a man's wage from a city, and the fund is still empty and the ditch on the north side is on a list now and the ditch on the south side is not on anybody's list and there is a scour at the third-of-the-way place that has wanted stones out of it since before my mother.**"
+"From the seventh of the first month to the third week of the third month, it is mine. On the third week of the third month it is nobody's until somebody says it is theirs. **And I am not going to pretend I have solved anything, because I have solved one bank, and I have solved it with a man's wage from a city, and the fund is still empty and the ditch on the north side is on a list now and the ditch on the south side is not on anybody's list and there is a scour at the third-of-the-way place that has wanted stones out of it since before my mother.**"
 
 ---
 
-And then, on the second day of the third month, Rennick Adley asked the question, and he asked it in the store with about nine people in it and he asked it in the plainest words he had, and it is the question this volume is going to be about for another thirty chapters and the reason the next one exists.
+And then, on the second day of the third month, Rennick Adley asked the question, and he asked it in the store with nine people in it and he asked it in the plainest words he had, and it is the question this volume is going to be about for another thirty chapters and the reason the next one exists.
 
 He had a slip of paper in his hand with ten names on it, because he had spent the last four days going through the ninety-one-year page with a lamp and a slate, and he had got to the bottom of it.
 
-"Nine of them are clear. Readable. I can put a name beside each of the nine and I would put money on all nine and about four of them I can find the ground they lived on because the field names have not changed in that part of the cut. **The sixth one is *Cat Bellow* or *Cat Bellou* and I cannot tell you which and it does not matter and it matters entirely.**"
+"Nine of them are clear. Readable. I can put a name beside each of the nine and I would put money on all nine and four of them I can find the ground they lived on because the field names have not changed in that part of the cut. **The sixth one is *Cat Bellow* or *Cat Bellou* and I cannot tell you which and it does not matter and it matters entirely.**"
 
 "And the eleventh," said Marek Kest.
 
@@ -58,13 +58,13 @@ He looked up.
 
 "So we have a name. **I have got a name that is on a document of ninety-one years back and is on a map of nineteen years back and is on four houses of people at the north of the ford.** And I have wanted to go up there every day for four days, and I have not gone, and I am not going to, and here is why, and I would like it written down that I worked it out and did not go.
 
-"**That would make a person a party.** That is all it would do. I would go up to a house and I would say *your family is named on a water instrument from ninety-one years ago* and about four people would be quite pleased and about nine would not understand a word of it, and in about four years there would be a piece of paper in this store with a name at the top of it and a house behind it, and that paper would be the only thing in this matter that anybody could act on, and it would act on them, and it would be true, and being true would not make it a good thing to be.
+"**That would make a person a party.** That is all it would do. I would go up to a house and I would say *your family is named on a water instrument from ninety-one years ago* and four people would be quite pleased and nine would not understand a word of it, and in four years there would be a piece of paper in this store with a name at the top of it and a house behind it, and that paper would be the only thing in this matter that anybody could act on, and it would act on them, and it would be true, and being true would not make it a good thing to be.
 
-"That is all. **I found a name and I did not go and find the person, because finding a person is a different act and I have had it explained to me in a weigh-house in about nine minutes and I have not been able to get it out of my head since.**"
+"That is all. **I found a name and I did not go and find the person, because finding a person is a different act and I have had it explained to me in a weigh-house in nine minutes and I have not been able to get it out of my head since.**"
 
 ---
 
-Marek Kest answered it in about four minutes, standing at the bench, in a store, in front of about nine people, and he answered it three times, once to each of the three people who had to hear it, and the third time was for Tamsin Rook and he said it slower.
+Marek Kest answered it in four minutes, standing at the bench, in a store, in front of nine people, and he answered it three times, once to each of the three people who had to hear it, and the third time was for Tamsin Rook and he said it slower.
 
 "No. **A person who is not a party cannot ask a table in a city four hundred and thirty miles away for a certified copy of anything.** That is the door, and it is the only door, and it is a door a person walks through.
 
@@ -88,7 +88,7 @@ Marek Kest answered it in about four minutes, standing at the bench, in a store,
 
 ---
 
-Tavi Venn read the ninety-one-year page out loud in the store on the second day of the third month, in full, twice, to about nine people, and she was not paid for it, and nobody asked her to, and there is no form in this district or in the district above it that says a person reads a sheet to anybody.
+Tavi Venn read the ninety-one-year page out loud in the store on the second day of the third month, in full, twice, to nine people, and she was not paid for it, and nobody asked her to, and there is no form in this district or in the district above it that says a person reads a sheet to anybody.
 
 She read the eleven works and the eleven names and the line in the middle of it about the terms being in the instrument and not in the book, and she read it with her hand flat on the page the way her mother does with a cup she has just picked up.
 
@@ -100,9 +100,9 @@ And Rennick Adley said, "It is *Bellow* or it is *Bellou* and I have had four da
 
 "Then I am going to read it both ways," said Tavi Venn, "because that is what it is, and I am not going to choose, and I am not going to guess, and I have never in my life said a name I could not read and I am not starting this month."
 
-And she read it both ways, and about nine people heard two names for one man, and neither of them is going to be found, and the page is in a book in a store with a name at the foot of a list about it and a line ruled under six years of one man's keeping and no name under the line.
+And she read it both ways, and nine people heard two names for one man, and neither of them is going to be found, and the page is in a book in a store with a name at the foot of a list about it and a line ruled under six years of one man's keeping and no name under the line.
 
-And then somebody in that store — and it was a man of about twenty-nine and it was not Halla Wray's brother, and it was a man off the lower Cut who has four children and had come up for the ditch — said the thing that about four people had been thinking since the seventh of the first month and had not said.
+And then somebody in that store — and it was a man of about twenty-nine and it was not Halla Wray's brother, and it was a man off the lower Cut who has four children and had come up for the ditch — said the thing that four people had been thinking since the seventh of the first month and had not said.
 
 "So that's it, then. That's the end of it. My boy's thirteen and he has never heard his name on anything except a list of works, and he's not in the box, and I would like to say thank you to whoever left him out of it, and I don't know who that was, and I have been sitting in this store for an hour trying to work out whether there is anybody I could thank and there isn't, is there."
 

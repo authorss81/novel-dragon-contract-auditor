@@ -12,9 +12,9 @@ And beside the window, on a board, in chalk, in letters about four inches high, 
 
 He came up the road on the fourth day of the second month, at about the eleventh hour, and he was not alone, and that is the first thing she wrote down.
 
-He came up the road with a copyist. The copyist is a woman of about twenty-four with a satchel and a hand that is kept better than his and who stood about four feet behind him the whole time and did not come forward once, and when Ivet Sarn asked a question she was answered by the man, and when he said anything that mattered he turned round and said it to her first, in about four words, before he said it to the sill.
+He came up the road with a copyist. The copyist is a woman of about twenty-four with a satchel and a hand that is kept better than his and who stood about four feet behind him the whole time and did not come forward once, and when Ivet Sarn asked a question she was answered by the man, and when he said anything that mattered he turned round and said it to her first, in four words, before he said it to the sill.
 
-Ivet Sarn has run this window for nine years and she has never asked a person why they have brought somebody, and she did not ask him, and she has written down that she did not ask him, and the reason she wrote it down is that about four months ago a woman at this sill asked her a question and she could not answer it and has had six months about it since, and the question was not this one and the six months are the same six months.
+Ivet Sarn has run this window for nine years and she has never asked a person why they have brought somebody, and she did not ask him, and she has written down that she did not ask him, and the reason she wrote it down is that four months ago a woman at this sill asked her a question and she could not answer it and has had six months about it since, and the question was not this one and the six months are the same six months.
 
 "Two things before you say anything," she said. "You are not carrying carriage money, I can see that from here, and if you want a thing done here you will want to pay for it, and the price of a copy of anything in this building is a shilling and the price of my time is not on any sheet and is not going to be on any sheet, and I am telling you that now so that you do not thank me later, because I have had four people thank me this year and two of them were being kind and one of them was being cruel and I could not tell which until the second month."
 
@@ -32,7 +32,7 @@ Then she said: "Ask it."
 
 He gave her a sheet. It is the district's own flood sheet of the ninth day of the first month, the one with two people's names in the box, and it has a list of works stapled to it with five men's names and a boy's on it and a foreman's name at the foot of it in a hand of about fifty.
 
-She read it. She read it twice. And then she did a thing, and it is the thing that the whole afternoon was for, and she has done it nine thousand times and nobody has ever noticed her doing it except about four people in nine years, one of whom is a woman in a lane in a furnace town four hundred and forty miles away who put four questions on a stone and told the lane to take them.
+She read it. She read it twice. And then she did a thing, and it is the thing that the whole afternoon was for, and she has done it nine thousand times and nobody has ever noticed her doing it except four people in nine years, one of whom is a woman in a lane in a furnace town four hundred and forty miles away who put four questions on a stone and told the lane to take them.
 
 She turned the sheet over, and took a sheet of foolscap out of a drawer, and wrote on it before she copied anything.
 
@@ -44,7 +44,7 @@ She turned the sheet over, and took a sheet of foolscap out of a drawer, and wro
 
 Then she said, out loud, to a man at a sill and to a woman four feet behind him:
 
-"**I am going to tell you how to do that, and I am not going to be kind about it, and I am not doing you a favour. You are going to do that for the rest of your life and you are going to do it in about nine rooms that do not know about each other and nobody will ever give you a form for it, and if you do not do it in a room where somebody else is standing you will do it in your own head and you will get it wrong about twice a year for the rest of your life, and you have been getting it wrong for fourteen months and I do not know that and it is not important.**
+"**I am going to tell you how to do that, and I am not going to be kind about it, and I am not doing you a favour. You are going to do that for the rest of your life and you are going to do it in nine rooms that do not know about each other and nobody will ever give you a form for it, and if you do not do it in a room where somebody else is standing you will do it in your own head and you will get it wrong about twice a year for the rest of your life, and you have been getting it wrong for fourteen months and I do not know that and it is not important.**
 
 "Write down what you are reading. **Before you copy anything.** In your own words. In the first person if it is about a person. And then say who is not in the room.
 
@@ -52,7 +52,7 @@ Then she said, out loud, to a man at a sill and to a woman four feet behind him:
 
 ---
 
-Then she answered the question, and it took her about four minutes, and it is the answer and it is the reason the chapter is called what it is called.
+Then she answered the question, and it took her four minutes, and it is the answer and it is the reason the chapter is called what it is called.
 
 "You want to know whether this district can get at the certified copy of its own instrument."
 
@@ -60,7 +60,7 @@ Then she answered the question, and it took her about four minutes, and it is th
 
 "No," said Ivet Sarn.
 
-And then she said it properly, standing at a window on a flood terrace, in about nine minutes, and about four people on the terrace heard it and about two of them are in this matter.
+And then she said it properly, standing at a window on a flood terrace, in nine minutes, and four people on the terrace heard it and two of them are in this matter.
 
 "A scale instrument is certified by a notary's table. Not by this office and not by the district and not by me. **That is what makes it worth anything against a dragon party, and it is the only thing about it, and it is the reason a copy made by a clerk of a district is a piece of paper.** A copy made by a district clerk proves that a district clerk copied something. It does not prove what is in the thing, and it certainly does not prove anything about a water, because a water is not a party's instrument until a notary's table has said so in a form, and about eleven people in this district have never had that form and do not know it exists.
 
@@ -90,7 +90,7 @@ The man at the sill read her foolscap page back. He read it standing up, in abou
 
 "Then it cuts both ways and you have known that since the sixth month and you have not written it down," said Marek Kest. "**That sentence is the reason the thirty-one cannot ask what they were sent. And it is the reason the ninety-one cannot ask what they owe. It is a shield. And a shield is not a road, and the only way a shield becomes a road is if a person goes and is found, and finding a person is a different act and starts a case, and everybody in this matter has been spending fourteen months trying to make a shield into a road by handing out sheets at four pence, and a sheet with two boxes on it does not open a door, it only tells a person that a door is somewhere.**
 
-"You have known that since the sixth month," said Ivet Sarn, "and I have known it about `None` for a year, because `None` protects a holder and does not protect a paper, and a man once explained that to me in about four minutes in a room and I did not understand one word of it and it took me eleven months."
+"You have known that since the sixth month," said Ivet Sarn, "and I have known it about `None` for a year, because `None` protects a holder and does not protect a paper, and a man once explained that to me in four minutes in a room and I did not understand one word of it and it took me eleven months."
 
 "Yes," said Marek Kest.
 
@@ -98,13 +98,13 @@ The man at the sill read her foolscap page back. He read it standing up, in abou
 
 "I am not going to write it on your wall."
 
-"That was a reflex," said Ivet Sarn, "and it is nine years of a reflex and I am not blaming you for it. It is not mine and you are not mine and there is no office on this sill. And I am telling you that in about four years somebody is going to come along this road and ask a person at this window what she knows about a document about nobody, and there is going to be a wall, and **the wall is going to say the half of it that I wrote in the sixth month, and the half about nobody can ask anything is going to be on it because I am going to write it tonight, in the first person, with the day on it, and it is my wall.**"
+"That was a reflex," said Ivet Sarn, "and it is nine years of a reflex and I am not blaming you for it. It is not mine and you are not mine and there is no office on this sill. And I am telling you that in four years somebody is going to come along this road and ask a person at this window what she knows about a document about nobody, and there is going to be a wall, and **the wall is going to say the half of it that I wrote in the sixth month, and the half about nobody can ask anything is going to be on it because I am going to write it tonight, in the first person, with the day on it, and it is my wall.**"
 
 ---
 
 The man with the satchel said one thing in the whole of that time and she wrote it down and he did not object.
 
-"About forty minutes of that was four people finding out how to be careful in a room," said Tamsin Rook. "And I have been in about nine hundred rooms in fourteen months and I have watched every single one of them do it wrong, and this is the first one I have watched do it right, and the woman who did it has been doing it for nine years and there are about four people in this empire who know that she does it, and one of them is in a lane in a furnace town four hundred and forty miles from here and I have never met her and I have said her name in a room twice and I am saying it now, and I am sorry, I have said the lane before and I am saying the name and I have thought about it for four days and I am not taking it back."
+"About forty minutes of that was four people finding out how to be careful in a room," said Tamsin Rook. "And I have been in nine hundred rooms in fourteen months and I have watched every single one of them do it wrong, and this is the first one I have watched do it right, and the woman who did it has been doing it for nine years and there are four people in this empire who know that she does it, and one of them is in a lane in a furnace town four hundred and forty miles from here and I have never met her and I have said her name in a room twice and I am saying it now, and I am sorry, I have said the lane before and I am saying the name and I have thought about it for four days and I am not taking it back."
 
 "That is a name in a file," said Ivet Sarn, "and you have put it in one on purpose, in a room, at a window, in front of a man who writes things down."
 
@@ -120,7 +120,7 @@ She wrote one line in her own book that night, and it is the first line she has 
 >
 > *What I am to write down. That a scale instrument is certified by a notary's table and nowhere else, and that a copy made by a clerk of a district is a piece of paper. That a body may not ask a notary's table a question about anything, and that the reason is not a technicality, and that a person may only ask about an instrument that touches that person. **And that a document about nobody cannot be asked anything by anybody either, and that this is the second half of the sentence I wrote on that wall in the sixth month, and I have had it in my hand for eight months and did not look at it, and I have looked at it, and a person from a city stood at my window and said it back to me in about nine words and I have written down that he did.**
 >
-> *And that the magistrate sits on this terrace on the ninth, and that if these people come up here they will come as nine persons and not as ninety-one, and that there is a form in this district for nine persons and there is no form in this district for a company, and that I have known the second half of that for nine years and I have never once had to say it to anybody who could not do anything about it, and that about nine people in this district could not do anything about it and I did not tell them and I am not going to be able to say that again on this wall.*
+> *And that the magistrate sits on this terrace on the ninth, and that if these people come up here they will come as nine persons and not as ninety-one, and that there is a form in this district for nine persons and there is no form in this district for a company, and that I have known the second half of that for nine years and I have never once had to say it to anybody who could not do anything about it, and that nine people in this district could not do anything about it and I did not tell them and I am not going to be able to say that again on this wall.*
 >
 > *— I. Sarn.*
 

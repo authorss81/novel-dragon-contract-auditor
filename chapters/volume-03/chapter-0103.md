@@ -14,11 +14,11 @@ That is the first thing to say about it and it is the thing that a person notice
 
 Rennick Adley is thirty-eight. He has kept the book for six years. Before him his aunt kept it for nineteen, and before her it was kept by a man on the far end of the cut who could not write at all, and his wife wrote it for him, and there is a page in the middle of the book where her hand changes twice in the same year because she ran out of room, and before those there were four other people and the book does not say who they were, and it does not say because there was nowhere on a page to say.
 
-He is not a clerk. He is a man who rents a cart when a cart is wanted and who can count and who has a fair hand and who is the only person on that bank, apart from about four people, who can read a paragraph.
+He is not a clerk. He is a man who rents a cart when a cart is wanted and who can count and who has a fair hand and who is the only person on that bank, apart from four others, who can read a paragraph.
 
 On the thirteenth day of the first month a sheet came up the river from the Reed Cut and the weigh-master brought it to the store in a cart with eleven bushels in it, because the weigh-master brings things to the store and takes things from it and it is the shortest way to do anything, and she put it on the bench and she said, "You are the one who keeps it," and went.
 
-He read it. It took him about four minutes, including the four lines, and then he read it again, and then he went and got the book off the bench and put it on the cart and read the whole of it, which takes about two hours because there is a page to a year and there are sixty pages and about half of them are lists and half of them are nothing much.
+He read it. It took him four minutes, including the four lines, and then he read it again, and then he went and got the book off the bench and put it on the cart and read the whole of it, which takes about two hours because there is a page to a year and there are sixty pages and about half of them are lists and half of them are nothing much.
 
 ---
 
@@ -48,7 +48,7 @@ Dyke is alive and is at the far end of the cut and is sixty-eight and was the ma
 
 He came back to the store and wrote that down in the book, in the margin, in pencil, and then read it and did not leave it, and the reason he did not leave it is that a book of names that has been checked against the world and found to be four names out of four is a book anybody can rely on, and a book that has not is a book of claims.
 
-He also worked out the other half of it in the same hour, standing by the door, and the half is this: **that every one of those four people was findable because somebody wrote the name down while the person was still alive to be written about, and that if the district's book had been kept the way his book is kept, the district would have known in about four minutes who it ought to write to, and instead it writes to a parish that was dissolved, and that has been the whole of the method of this district's harm for about two hundred years and nobody ever called it harm because nobody ever kept the other book to compare it with.**
+He also worked out the other half of it in the same hour, standing by the door, and the half is this: **that every one of those four people was findable because somebody wrote the name down while the person was still alive to be written about, and that if the district's book had been kept the way his book is kept, the district would have known in four minutes who it ought to write to, and instead it writes to a parish that was dissolved, and that has been the whole of the method of this district's harm for about two hundred years and nobody ever called it harm because nobody ever kept the other book to compare it with.**
 
 Not a court record. He has gone and looked. The district keeps a book of works at the works office, four miles down-channel, and it has entries for the Slade in nine years out of the last nine, and they are entries of *crews sent* and *works done*, and the crew is a body, and the works done is a list, and there is no person in the district's book for the Slade Cut and there has not been one since the district was last mapped, and the district has been mapped twice since he was born.
 
@@ -96,7 +96,7 @@ Eleven names. Eleven works. And a sentence in the middle of it that Rennick Adle
 
 *And the terms are in the instrument and not here, and a copy of the instrument is with the clerk of the district and not here either.*
 
-Ninety-one years. The book has been in this store for sixty. The district was mapped twice since he was born and the parish of the Slade was dissolved in the sixth year of this century, or the century before, and the notices went to the parish, and **a notice addressed to a parish that has been dissolved is a notice about nobody, and a notice about nobody cannot be produced against a person and cannot bind a person and cannot be asked anything by anybody**, and there is not one person alive on that bank who remembers a household of ninety-one years back, and there never will be again after this winter, because the oldest person who could have been asked is eighty-one and she was four.
+Ninety-one years. The book has been in this store for sixty. The district was mapped twice since he was born and the parish of the Slade was dissolved in the sixth year of this century, or the century before, and the notices went to the parish, and **a notice addressed to a parish that has been dissolved is a notice about nobody, and a notice about nobody cannot be produced against a person and cannot bind a person and cannot be asked anything by anybody**, and there is not one person alive on that bank who remembers a household of ninety-one years back, and there never will be again after this winter, because the oldest person on that bank is eighty-one and she was not born.
 
 He wrote the eleven names out on a slip of paper and took it to the door and held it up to the light and could read ten of the eleven and could not be sure of the sixth, which is either *Cat Bellow* or *Cat Bellou*, and a name that cannot be read is a name that cannot be checked, and a name that cannot be checked is a name that cannot be found.
 
@@ -152,7 +152,7 @@ He wrote it out that evening in the book, on the first leaf at the front, which 
 >
 > *And there is one page in it from ninety-one years ago with eleven names at the foot of it, and it is the only page in ninety-one years with names at the foot of it, and there is nobody alive that any of the eleven can be asked about, and the sixth name cannot be read with certainty, and a name that cannot be read is a name that cannot be found.*
 >
-> *And the terms are in the instrument and not in this book, and the instrument is with a notary's table in a city four hundred and thirty miles away, and I do not know that for a fact, I know it because the page says a copy is with the clerk of the district and the clerk of the district was dissolved in the sixth year and the notice went to the parish.*
+> *And the terms are in the instrument and not in this book, and the instrument is with a notary's table in a city four hundred and thirty miles down the river from this store, and I do not know that for a fact, I know it because the page says a copy is with the clerk of the district and the clerk of the district was dissolved in the sixth year and the notice went to the parish.*
 >
 > *I have ruled a line under the six years I have kept it, because I was not asked to keep it and my aunt was not asked to keep it and the man before her could not write and nobody wrote that down either.*
 >

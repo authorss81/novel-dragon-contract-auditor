@@ -10,9 +10,9 @@ She has about nine years left of this, or about as many as she has had, and she 
 
 ---
 
-The sitting was on the ninth day of the second month, at about the tenth hour, in the court room, and the application was made in writing on the sixth day by nine persons, and the form is the ordinary form, and the form is called a *body of persons*, and it is about nine lines and it has a line at the top for the head of the body.
+The sitting was on the ninth day of the second month, at about the tenth hour, in the court room, and the application was made in writing on the sixth day by nine persons, and the form is the ordinary form, and the form is called a *body of persons*, and it is nine lines long and it has a line at the top for the head of the body.
 
-There is no head of the Slade Cut Company. There has never been a head of it, there is a book-keeper and a foreman and about forty people who turn up to a mill yard, and a foreman is not a head of anything and a book-keeper is not a head of anything and the Company has never elected anybody and would not know what to do with one.
+There is no head of the Slade Cut Company. There has never been a head of it, there is a book-keeper and a foreman and the forty-odd people who turn up to a mill yard, and a foreman is not a head of anything and a book-keeper is not a head of anything and the Company has never elected anybody and would not know what to do with one.
 
 So the line at the top of the form is blank and the nine names are in the body of the application, and the clerk of the court read the form, and then read the line at the top, and then looked up.
 
@@ -22,11 +22,11 @@ So the line at the top of the form is blank and the nine names are in the body o
 
 "Then I cannot admit this in that form," said the clerk, "and I have to say so in a minute, and I am sorry, and there is nothing else I can do about it, and I have said it in the form because a decision with nobody's name at the foot of it is worth about a fifth of one with a name."
 
-Marek Kest said, from the second bench, in about four seconds: "Then admit it, and enter that it is the wrong form, and read out what is in it, and let the court decide whether it is going to hear a body or nine persons."
+Then Doreth Ferrow said, without sitting down: "Then admit it, and enter that it is the wrong form, and read out what is in it, and let the court decide whether it is going to hear a body or nine persons."
 
-"**You cannot do that.**" The clerk said it without any heat at all. "I am a clerk. I do not admit things. I can admit an exhibit on my own authority and I have done it in this building about nine times in nine years and every one of those nine times is in a file and none of them is a person. **I cannot admit an application, a person, or a question. Only a magistrate can do that and only with the people in the room.**"
+"**You cannot do that.**" The clerk said it without any heat at all. "I am a clerk. I do not admit things. I can admit an exhibit on my own authority and I have done it in this building nine times in nine years and every one of those nine is in a file and none of them is a person. **I cannot admit an application, a person, or a question. Only a magistrate can do that and only with the people in the room.**"
 
-Leda Rell said, from the bench: "That is correct and it is the best thing anybody in this room has said this morning, including me. Clerk, enter that the form is the wrong form, enter why it is the wrong form, and put my finding on it now, before anybody has spoken, because **if I do it now it is my own motion and if I do it after nine people have spoken it is an answer to nine people and I do not want it to be an answer to nine people.**"
+Leda Rell said, from the bench: "That is correct and it is the best thing anybody in this room has said this morning, including me. Clerk, enter that the form is the wrong form, enter why it is the wrong form, and put my finding on it now, before anybody has said anything about the bank, because **if I do it now it is my own motion and if I do it after nine people have spoken it is an answer to nine people and I do not want it to be an answer to nine people.**"
 
 ---
 
@@ -34,7 +34,9 @@ She let them speak for two hours and a quarter, and it is worth saying what the 
 
 Nine people. A woman of sixty-four who chairs a meeting and cannot read a paragraph. A man of thirty-eight with a book. A foreman of fifty-one who can add on the back of her hand. A man of twenty-nine who said no in a mill yard. A miller of about fifty who had a piece of paper about a bank nobody had ever asked him for. Two men off the Slade who were there because the crew was not. A woman of about thirty-one with two children. And a man of twenty-nine who came from a city four hundred and thirty miles away and was not admitted, was not on any list, was not a party, was not a witness, was in the room because the magistrate let him stand at the back of it, and is not named in the minute.
 
-**About forty other people did not come.** That is the finding and the clerk entered it because nobody asked, and the reason they did not come is not that they were not told: the third week of the fourth month is about ten weeks off and the application was on the sixth of the second month, and there is no form in this district for a body of persons to be summoned, and so the application was made by nine people in a mill yard on a wet evening in the fourth week of the first month, and about nine other people told about it, and about forty came, and about forty more were not told or were told on the day.
+He said nothing at all. Not one word in two hours and a quarter, from the back, with a copyist four feet behind him who did not say it for him either, and **she entered that he said nothing, and the reason she entered it is the fourth thing she entered, which is further on.** Nothing is known about why he did it and nothing was asked him, in the room or out of it.
+
+**About forty other people did not come.** That is the finding and the clerk entered it because nobody asked, and the reason they did not come is not that they were not told: the third week of the fourth month is about ten weeks off and the application was on the sixth of the second month, and there is no form in this district for a body of persons to be summoned, and so the application was made by nine people in a mill yard on a wet evening in the fourth week of the first month, and nine other people told about it, and forty came, and forty more were not told or were told on the day.
 
 "They come for the thirty-one," said Rennick Adley, "because those are on a board above a window and you can go and look at a board, and there is no board anywhere in this district with a name on it about a bank, and we did not put one up, and **I would put one up if I had four shillings and somebody who could rule it.**"
 
@@ -42,7 +44,7 @@ There is no board. That is a fact about this district and it is entered in the m
 
 ---
 
-The four lines she entered on her own motion, at about the twelfth hour and a half, with the clerk reading them back twice, and she read them herself from the bench so that the room heard the exact words, are these. And they are the shortest minute this court has entered in nine years and it is the fourth thing Joane Tranter's colleague has entered on her own motion and asked for by nobody, and about nine people in that room understood that at the time and the rest of the empire will not.
+The four lines she entered on her own motion, at about the twelfth hour and a half, with the clerk reading them back twice, and she read them herself from the bench so that the room heard the exact words, are these. And they are the shortest minute this court has entered in nine years and it is the fourth thing Joane Tranter's colleague has entered on her own motion and asked for by nobody, and nine of the people in that room understood that at the time and the rest of the empire will not.
 
 > *Entered the ninth day of the second month, on the magistrate's own motion, asked for by nobody.*
 >
@@ -50,7 +52,7 @@ The four lines she entered on her own motion, at about the twelfth hour and a ha
 >
 > *The application is made in a form that is the wrong form and the clerk has said so in a minute of this court, and the court has heard it anyway, because the alternative was to send nine people home.*
 >
-> *It is entered that **a hearing which brings nine persons out of about ninety-one households binds nobody who was not in the room, and about forty were not in the room, and this court has no power to bring anybody, and this court has no form for a person who wishes to be heard and does not come, and that is entered and is not a finding against anybody.**
+> *It is entered that **a hearing which brings nine persons out of about ninety-one households binds nobody who was not in the room, and forty were not in the room, and this court has no power to bring anybody, and this court has no form for a person who wishes to be heard and does not come, and that is entered and is not a finding against anybody.**
 >
 > *It is entered that the district's flood sheet of the ninth of the first month names two persons and no body, and that this court is not asked to say whether that sheet is good or bad or what it means, and does not say, and **that the holder of the office that issued it is not a party to this application and is not before this court and is not examinable by it, and that this court is not going to pretend that is a difficulty it can do anything about.***
 >
@@ -64,7 +66,7 @@ On the desk of this court there is a transcript of a finding made on the ninth o
 
 "There is a reason I have never read it out and I am going to give it in about a minute and then I am going to read it out anyway, and the order is wrong on purpose and I know it is wrong.
 
-"The reason I have never read it out is that **I have no power to act on it.** That court is not above this one. It is four hundred and thirty miles away and it is a district court and this is a district court, and neither of us takes a recognition from the other, and what it found on the ninth of the eighth binds nobody in this district including me, and if I stood up in this room and read it out and said *this is the law here now* I would be doing in about four sentences the exact thing that a district of about sixty households did to about sixty households in the sixth year, and I would be doing it in a better coat.
+"The reason I have never read it out is that **I have no power to act on it.** That court is not above this one. It is four hundred and thirty miles away and it is a district court and this is a district court, and neither of us takes a recognition from the other, and what it found on the ninth of the eighth binds nobody in this district including me, and if I stood up in this room and read it out and said *this is the law here now* I would be doing in four sentences the exact thing that a district of about sixty households did to sixty households in the sixth year, and I would be doing it in a better coat.
 
 "So I have had it in a file for six months and I have not read it out, and the reason I have not read it out is not humility. **The reason is that reading it out would oblige me to say what I think about it, and I have never once in nine years written down that I do not know whether I was right, and I am not ready to do that in front of nine people and a person from a city.**
 
@@ -78,7 +80,7 @@ On the desk of this court there is a transcript of a finding made on the ninth o
 
 She put it down.
 
-"**Nine days apart. The half that says a person may be heard is nine days older than the half that says when, and the half that says when is the half that works, and neither court has read the other and neither court has been told.** And above both of them, in a city, a court sat on the eighteenth of the seventh month and read an order out to about nine people and said out loud that the order binds nobody who has not been heard, and that there is no form in this empire for compelling a person to be brought to a room.
+"**Nine days apart. The half that says a person may be heard is nine days older than the half that says when, and the half that says when is the half that works, and neither court has read the other and neither court has been told.** And above both of them, in a city, a court sat on the eighteenth of the seventh month and read an order out to nine people and said out loud that the order binds nobody who has not been heard, and that there is no form in this empire for compelling a person to be brought to a room.
 
 "I have known about the order since the third week of the eighth month. **There is no form in this empire for a magistrate of a district court to be told about a sitting in a court above her**, and there is no form for one court to ask another court what it has found, and I have tried to write the second one four times in nine years and I have never sent it, and I have written *why not* against it three times, which is a thing I do to other people's files and not to my own.
 
@@ -86,7 +88,7 @@ She put it down.
 
 ---
 
-The rest of the morning was the sentence, and it took about eleven minutes, and about four people in that room have said since that it is the best thing they have ever heard a magistrate say and about nine have said that it is the worst, and all thirteen of them are correct.
+The rest of the morning was the sentence, and it took about eleven minutes, and four people in that room have said since that it is the best thing they have ever heard a magistrate say and nine have said that it is the worst, and all thirteen of them are correct.
 
 "I have joined people to continuation clauses for nine years. There are about a hundred and forty files in a press in the back room with my hand in them and most of them are somebody's daughter or somebody's wife or somebody's boy, and I did it in flood weeks, and I did it because a flood week is a week in which a person with a paper and no money loses a roof, and I have known since I was thirty-one that a paper nobody can challenge is worth more to a landlord than a paper that can be challenged in a room, and I have used that, and about nine hundred people in this district are alive because I used it.
 
@@ -98,9 +100,9 @@ The rest of the morning was the sentence, and it took about eleven minutes, and 
 
 ---
 
-The cost entered with a figure, because she always enters the cost with a figure, and it is this: a day and a quarter of the clerk of this court's time and a shilling and fourpence for a witness, and the carriage of about five people up the river at fourpence a mile, which nobody claimed and about four of them could not afford, and a day and a half of the magistrate's own afternoon out of a court that has four clerks and about forty files a month going out and about nineteen coming in.
+The cost entered with a figure, because she always enters the cost with a figure, and it is this: a day and a quarter of the clerk of this court's time and a shilling and fourpence for a witness, and the carriage of five people up the river at fourpence a mile, which nobody claimed and four of whom could not afford, and a day and a half of the magistrate's own afternoon out of a court that has four clerks and forty files a month going out and nineteen coming in.
 
-**And the thing that came in the same minute on her own motion, about four minutes after the sentence, and nobody asked for it, is the second of the twenty-first of the fifth month of last year, and it is nine lines, and it is about a seal.**
+**And the thing that came in the same minute on her own motion, about four minutes after the sentence, and nobody asked for it, is the twenty-first of the fifth month of last year, and it is nine lines, and it is about a seal.**
 
 > *Entered the ninth of the second month, on the magistrate's own motion, asked for by nobody. It is entered that this court has read, in a minute of this court, an instrument produced before it in the matter of the north-bank works, being an instrument of about nineteen years back, in scale form, with a seat's device at the head of it and no person's name at the top of it, and a clause in the eleventh line by which the work of the north bank is to be kept by **the body of the households from time to time having the use of it**, and a further clause in the fourteenth by which the said work, if not kept, is to be provided for **by the same**, and a further clause in the nineteenth by which the cost of providing for it is to be borne **by the same, and by none other.**
 >
@@ -114,7 +116,7 @@ Then the minute ends, and there is nothing else in it, and nothing is ordered, a
 
 ---
 
-The clerk of this court read all of it back twice, at about the fourth hour, in a room with about nine people left in it out of about forty, and then she asked the one question that anybody in the room had not asked all morning, and she asked it to the magistrate and not to the man from the city, and the reason is that she is two and twenty and has been in it two years and has four files a day and about nine that do not get looked at.
+The clerk of this court read all of it back twice, at about the fourth hour, in a room with nine people left in it out of forty, and then she asked the one question that anybody in the room had not asked all morning, and she asked it to the magistrate and not to the man from the city, and the reason is that she is two and twenty and has been in it two years and has four files a day and nine that do not get looked at.
 
 "Ma'am. The balance. Do you want the number."
 
@@ -126,5 +128,5 @@ The clerk of this court read all of it back twice, at about the fourth hour, in 
 
 "Write *the amount is not owed by anybody and has not been added up*, and leave it there, and put my reason under it in the first person, and that is the last thing in this minute."
 
-The court rose at about the fourth hour and a quarter on a flood terrace nine feet above ordinary water, and about nine people went down to the embankment, and about forty people were at home, and a book in a hired grain store four miles up-channel has an entry with no resolution against it, and a form with a line at the top for the head of a body is in a file with a minute in it saying that the line is the wrong line, and nothing has been ordered and nobody is liable.
+The court rose at about the fourth hour and a quarter on a flood terrace nine feet above ordinary water, and nine people went down to the embankment, and forty people were at home, and a book in a hired grain store four miles up-channel has an entry with no resolution against it, and a form with a line at the top for the head of a body is in a file with a minute in it saying that the line is the wrong line, and nothing has been ordered and nobody is liable.
 
