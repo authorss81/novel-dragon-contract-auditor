@@ -84,7 +84,7 @@ Nobody said anything.
 
 Then she filled in the two boxes, in her own hand, with the day on it, and she read them back twice and the second reading was slower, and he did not read it and did not ask to and did not touch the page.
 
-The first box said: *Person required to be present by a court order of the twelfth month of next year. — T. Rook.*
+The first box said: *Person required to be present by a court order made in a form in four days, with a day on it. — T. Rook.*
 
 The second box said: *Person present, not being of the office that cannot be named. — T. Rook.*
 

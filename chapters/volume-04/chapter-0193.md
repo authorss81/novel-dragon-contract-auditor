@@ -68,8 +68,6 @@ The same surname is not a door and has never been one. It is a fact about her an
 
 ---
 
----
-
 On the sixth day a man of about thirty-four came up to the sill with a paper in his hand and a question, and the question was the one a person asks at a window, and she answered it in about four minutes and then could not answer the second one at all.
 
 He had been at the district works since he was seventeen and he had a fortnight's wage held and he wanted to know whether the thing holding it had a name on it.

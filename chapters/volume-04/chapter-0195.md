@@ -1,10 +1,10 @@
 # Chapter 195: About A Hundred And Thirty People, And A River Coming
 
-Leda Rell is fifty-one and she is a magistrate of the Mosswake Roll Court and she has been one for nine years and was a clerk of it for fourteen years before that, and this is the first time in nine years she has sat down in a room that is not on a flood terrace, and she had four files with her out of about a hundred and forty, and she said the number out loud in the corridor before she went in, because a number is findable and a person who says a number can be held to it.
+Leda Rell is fifty-one and she is a magistrate of the Mosswake Roll Court and she has been one for nine years and was a clerk of it for fourteen years before that, **and the files are about nineteen years old and about a third of them began in her time as a clerk, and both of those figures are true and she has never once put them in the same sentence on the page of anything,** and this is the first time in nine years she has sat down in a room that is not on a flood terrace, and she had four files with her out of about a hundred and forty, and she said the number out loud in the corridor before she went in, because a number is findable and a person who says a number can be held to it.
 
 She is about four hundred and thirty miles from her own district. The four files are on the table in front of her. The other hundred and thirty-six are in a press in a back room on a flood terrace and she is not going to get them and did not try.
 
-She is not a villain and she has never sent a person to a jail. She has a marble thing about a rule and about keeping people in roofs, and she gave it up on the third day of the fourth week of the fifth month of the year after, in about nine minutes, in front of a room, **and what she gave up was not the rule.**
+She is not a villain and she has never sent a person to a jail. She has a marble thing about a rule and about keeping people in roofs, **and in this room, in about nine minutes, in front of about thirty people and a witness who gave his name into a record, she gave up the half of it she had left, and what she gave up was not the rule.** It is not the sentence she said in open court in the sixth month of last year, which cost her a case and a district that had to be told it had lost; this one cost her nothing to say and it is the only one anybody has ever thanked her for, and she has not been thanked.
 
 ---
 
@@ -60,7 +60,7 @@ Leda Rell had it written down. She asked for it in those words and it went in wi
 
 Then she was asked the second question, which was the one that had been asked of her before, in a room on a flood terrace, and she had answered it then and the answer was a sheet of about a hundred and sixty words and she had read it back once and not twice.
 
-"In nineteen years," she said, "I have enforced continuation clauses against about nine hundred and forty people in this district. Not in one flood. In about a hundred and forty matters, I have taken an instrument, found a person, and held that person to a duty the person had inherited. **And in the same nineteen years I have not enforced them against about four hundred.**"
+"In nineteen years of files," she said, "and I have been in this chair nine of them, I have enforced continuation clauses against about nine hundred and forty people in this district. Not in one flood. In about a hundred and forty matters, I have taken an instrument, found a person, and held that person to a duty the person had inherited. **And in the same nineteen years I have not enforced them against about four hundred.**"
 
 "Four hundred what."
 
@@ -91,8 +91,6 @@ The clerk asked her whether she wished the finding recorded in those words.
 Nobody asked her the question she was waiting for, which is the one about whether a finding entered against oneself on one's own motion is worth anything, and she volunteered it, and it is the reason she came.
 
 "**A finding entered against a person by that person on that person's own motion names no person, is appealable by nobody, and is not a discovery and is not a seam.**" She said it in the room and then said it again to make sure it went in whole. "It cannot be discovered. It cannot be unseated. It cannot be carried somewhere else and used. It binds me and it helps nobody and it is entered in the record of a court that has never once in nine years been asked to enforce it against me, and I have made it mine so that it is here, and I would like it understood that I have not made anybody else's it."
-
----
 
 ---
 

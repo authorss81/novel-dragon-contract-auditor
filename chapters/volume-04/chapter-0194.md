@@ -100,8 +100,6 @@ She did not tear it out. She left the day on the sheet in her own hand, under he
 
 ---
 
----
-
 On the fifth day she did the count, because she has done it every week since she was seventeen and she is not going to stop in a week when a thing has happened to her.
 
 Pieces out on the frames on the last day of the week, by house. Vat-hours. What the mill takes and what the mill does not take. It takes her about four minutes and she does it out of her head and has never once written it down and there is nobody on that lane who knows she can do it.

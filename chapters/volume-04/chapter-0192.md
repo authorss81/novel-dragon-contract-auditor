@@ -6,6 +6,8 @@ Marn Ottery is thirty-four. She has been at the fourth counter of the Notaries' 
 
 She was not on the bench and she was not on the rail. She was in the room because a counter is a thing a room asks about, and because being asked is the one thing that has never happened to her and she had a fortnight to think about whether she wanted it.
 
+There were about thirty people in it. Two of them were there because of instruments and not because of the matter: a woman of twenty-four was at the back of the room on the ground that a court order made in a form in four days requires her in any room Marek Kest is in, which is a paper and not a preference and has been produced in a room with a rail in it about this many times this year, and she was not a witness and was not asked anything and could not be examined, and she has not been in any of those rooms for the asking.
+
 ---
 
 The record came up out of a press in a building four hundred yards from the room, in the ordinary way, wrapped, with a day on the wrapper, and it was produced by a person who is not in this and is not named in this.
@@ -56,7 +58,7 @@ Nobody thanked her and she had said in advance that nobody was to and there is n
 
 ---
 
-Then she answered the question, and she answered it in the ordinary way, and the ordinary way took about nine minutes and it is the whole of the chapter, and he was in the room for all of it and did not say one word, and she had noticed that in the second month of the year after and had said nothing about it then either.
+Then she answered the question, and she answered it in the ordinary way, and the ordinary way took about nine minutes and it is the whole of the chapter, and Marek Kest was in the room for all of it and said the four words and then nothing else at all, and she had noticed a man who does not speak standing in a room in the second month of the year after and had said nothing about it then either.
 
 "The fifth line is a question," she said. "**It is the only instrument in this empire that can hand a person the rest of what they wrote.** Not a copy. Not a register. Not a court. A question, asked in a room, out loud, by somebody who is entitled to ask it, before the thing is said, and written down with the answer on it."
 

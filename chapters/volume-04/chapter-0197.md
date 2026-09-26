@@ -1,6 +1,6 @@
 # Chapter 197: In One Breath, And In That Order
 
-The last sitting was on the fifth day of the fourth week of the sixth month of the year after and it went on until about the ninth hour, and the two sentences were said in one breath at about the seventh hour by a person with nine years of minute books behind her, and the order of them is the whole of this chapter and nobody in the room was permitted to reverse them afterwards.
+The last sitting was on the fifth day of the fourth week of the sixth month of the year after and it went on until about the ninth hour, and the two sentences were said in one breath at about the seventh hour by a person with nineteen years of minute books behind her, and the order of them is the whole of this chapter and nobody in the room was permitted to reverse them afterwards.
 
 Orla Denning is about fifty-five and she has kept the minute books of that office for nineteen years and she is not a lawyer and is not a party and is not a judge. She entered a date four years off in the first week of the fifth month of the year after and did not know what she was entering. She has never once been asked what any of it meant.
 
@@ -16,7 +16,7 @@ The finding is two sentences and they are in this order and there is no third se
 
 That is the whole of it. The first is a thing a court can do because the court found the record wrong. The second is a thing no court in this empire can do, and the reason is not that the court is unwilling and it is not that the court lacks the power, and it is that the person is not alive to be heard, and **there is no form anywhere in this empire for a person to be heard after, and the not-hearing is the finding** and it cannot be got round by anybody in this room by any instrument anybody has.
 
-The first sentence is not a consolation for the second. Orla Denning said so, out loud, before she read either of them, in the plain voice of a person who has read a thing out nineteen years' worth of.
+The first sentence is not a consolation for the second. Orla Denning said so, out loud, before she read either of them, in the plain voice of a person who has read a thing out of a minute book nineteen years' worth of and has never once been asked what any of it was for.
 
 "I am going to read two sentences and I am going to read them in this order and I am not going to stop between them," she said, "and if anybody in this room thinks the first one makes the second one better then they should leave now, because they will be here for the rest of it and there is nothing in the rest of it either."
 
@@ -33,8 +33,6 @@ It is nine lines in a woman's hand. It is on the page whole in a public document
 **The box went to a roll.** That is what happened to it and it is the only thing that has happened to it, and there is no instrument in this empire that can be asked what it was for by anybody who was in the room, because the only person who was in that room and was not the person being written about is in nine hundred books under no heading at all, and nobody is going to ask her again.
 
 The finding records that the box went to a roll, and that the person who wrote the nine lines has never been asked what any of them was for by anybody entitled to ask, and that there is no form for asking her, and that the reason there is no form is that the question is on the fifth line of a printed form and the fifth line asks a person who by definition cannot be told.
-
----
 
 ---
 
@@ -64,7 +62,7 @@ Nobody said anything.
 
 "What document," somebody said.
 
-"**A notice of a seat in six numbered lines with a device cut into the head of it and a seal at the foot of it, and under the seal there was a name once.**" That document is in this building. That is all I am going to say about it and I am not going to say the name and I am not going to describe the hand and I am not going to say which of the two notices of a seat in this matter it is, and I would like it entered that I declined to and that I was asked and that I was not pressed."
+"**A notice of a seat in six numbered lines with a device cut into the head of it and a seal at the foot of it, and under the seal there was a name once.** That document is in this building. That is all I am going to say about it, and I am not going to say the name, and I am not going to describe the hand, and I am not going to say which of the two notices of a seat in this matter it is, and I would like it entered that I declined to, and that I was asked, and that I was not pressed."
 
 It went in with the day on it.
 
@@ -94,7 +92,7 @@ A question had been put to a court in this city about nine years ago, and it was
 
 "The Cinder Clause," said Orla Denning, and she said it in a room with a rail in it, once, correctly, and then she stopped, and she did not say anything else about it, and the court recorded that the question exists.
 
-"That is all," she said. "**The question exists. It was asked nine years ago by the court that asked it. It has not been answered in nine years by the court that asked it**, and it is not going to be answered this month, and nobody in this room has been asked it and nobody in this room is going to answer it. She is not going to say one word about what it means, because she does not know, and she has looked, and there is nothing in the eleven books in this building that says."
+"That is all," she said. "**The question exists. It was asked nine years ago by the court that asked it. It has not been answered in nine years by the court that asked it**, and it is not going to be answered this month, and nobody in this room has been asked it and nobody in this room is going to answer it. I am not going to say one word about what it means, because I do not know, and I have looked, and there is nothing in the eleven books in this building that says."
 
 "Enter that it is named," said somebody, "and that naming it is not answering it."
 

@@ -42,7 +42,9 @@ The first entry is the one he came for.
 
 The hearing is a restitution hearing into which a recorded claim of property and debt is entered and marked disputed, and it has been entered and marked disputed for longer than either of them has been in a room, and it has had no day on it until this week because a seat does not put a day on a thing until the day is needed by somebody.
 
-It has a day now. It is the third day of the third week of the fifth month of the year after, at the second hour, in a room with a rail in it, and there is a notice of it in six numbered lines and a foot, and the device at the head of the notice is a seat's own and is cut into the sheet and not stamped, and it is not the fire-and-water mark.
+It has a day now. It is the fourth day of the second week of the fifth month of the year after, at the second hour, in a room with a rail in it, and the notice of it went out in the first week and there are six numbered lines on it and a foot, and the device at the head of the notice is a seat's own and is cut into the sheet and not stamped, and it is not the fire-and-water mark.
+
+**The notice is dated for the day the thing happens on.** That is what a notice is, and it is the reason it can be produced in a room by anybody holding it, and it is the whole difference between a notice and the entry it was entered from, which is in this book on a shelf and is of no use to anybody standing in a room eight days later.
 
 "There is a seal at the foot of that notice," said Marek Kest, "and there is nothing under the seal."
 
