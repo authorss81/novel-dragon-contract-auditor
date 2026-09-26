@@ -2,7 +2,7 @@
 
 The answer came to the fourth counter of the Notaries' Table in Auremar in the second hour of the fourth day of the first week of the eighth month of next year, and it was three weeks in a press and it was the answer to a question that had cost a shilling in the second week of the fifth month, and Marn Ottery read it out twice, the second reading slower.
 
-Four hundred and thirty miles down this river, in the same week, about forty-one people on a bank about four hundred and forty foot long had held a review.
+Four hundred and thirty miles down this river, in the same week, about thirty-one people had come to a review on a bank about four hundred and forty foot long.
 
 She has said out loud that there is no form in this empire that puts two dates in one box. She said it in the last week of the seventh month, at that counter, to two people, and she meant it, and it is eleven days old, and it is the finding she would like somebody to do something about and would like it not to be her.
 
@@ -82,7 +82,7 @@ Nobody said anything for a while.
 
 "No."
 
-"I am four hundred and thirty miles from the place the thing is in, on the same week that forty-one people held a review I did not go to, because I am not on the list and the list has never had me on it."
+"I am four hundred and thirty miles from the place the thing is in, on the same week that about thirty-one people sat in a bay for a review I did not go to, because I am not on the list and the list has never had me on it."
 
 "No."
 
@@ -124,7 +124,7 @@ Tamsin Rook had the application out of the bag by then and was holding it the wa
 
 "Say the fact."
 
-"**A person who has been put in a box can be served anything about that box for the rest of her life, and there is no form anywhere for taking a party back out of a box, and the size of the looking is about four minutes at a counter and not in every place.** And a press in a wall cannot be served anybody, because nobody can be made a party to a press, and **that is not a mercy.** That is a wall. And I have been in a box for four months and I have never once wanted to be in a wall and I want somebody in this room to notice that I have never once wanted to be in a wall, and to write it down, and I am not going to ask anybody to write it down."
+"**A person who has been put in a box can be served anything about that box for the rest of her life, and there is no form anywhere for taking a party back out of a box, and the size of the looking is about four minutes at a counter and not in every place.** And a press in a wall cannot be served anybody, because nobody can be made a party to a press, and that is not a mercy. That is a wall. And I have been in a box for four months and I have never once wanted to be in a wall, and I want somebody in this room to notice that I have never once wanted to be in a wall, and to write it down, and I am not going to ask anybody to write it down."
 
 ---
 

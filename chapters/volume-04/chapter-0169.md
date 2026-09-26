@@ -12,7 +12,7 @@ She is a clerk of thirty-eight and she has been in charge of it for nine years b
 
 ---
 
-The woman of twenty-four was in the corridor and not in the corridor.
+The woman of twenty-four was in the building and not in the room.
 
 That is the whole of that and it took about nine minutes to arrange and none of it was a quarrel.
 
@@ -88,7 +88,7 @@ Nobody in that corridor argued with him about it and the woman with the key shut
 
 ---
 
-The district court sits above a shop and it has a clerk's window of its own about four feet off the ground, and the clerk there is about fifty-five and has been there nineteen years, and he took the application at about the second hour of the third day of the third week of the tenth month of next year and read it and read it again.
+The district court is a low building on the flood terrace and its court room is on the ground floor, and it has a clerk's window of its own about four feet off the ground, and the clerk there is about fifty-five and has been there nineteen years, and he took the application at about the second hour of the third day of the third week of the tenth month of next year and read it and read it again.
 
 "You are asking for a direction."
 

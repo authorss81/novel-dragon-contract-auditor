@@ -58,11 +58,19 @@ He read it twice and answered it in a corridor, in words, with a date.
 
 "Because it is a day and not a choice."
 
-"Because a rule that only ever works in one direction is not a rule, it is a preference, and I have been protecting myself with it for about four months and it protected a man I work with in a city four hundred and thirty miles up this river and that is not what I wrote it for. "He gave the sheet back. "Write to Nevin Trost. He has a file of his own and a book he keeps at home with the day on it, and I have still not written to him, and the reason I have not is that a man who files a thing about his own office has to have it in a book somewhere, and if it is in that book then it is with somebody who cannot be instructed. **That is a fact and it is not advice and your third line is not broken by it, and I have been saying that sentence in rooms for about four months and I have never once had it tested like this.**"
+"Because a rule that only ever works in one direction is not a rule, it is a preference. **It is sixteen months old and it has been used six times in fourteen months and every one of the six was a piece of work or a wage or a sheet of paper, and it has not once in sixteen months been about a person,** and there is a woman in this building with a key on a string."
 
-"Write it yourself."
+"That is not the reason."
 
-"I will not. Write it yourself and put it in your book with the day on it and do not put it in his file, and do not thank me for the instruction because I have not given you one."
+"No. It is that the two of us have never once had a person to put it to, and there is one in this building now, and I am not going to spend a rule on making a woman open a door she has not been asked to open."
+
+"**A fact is not advice,** and I have been saying that in rooms for about four months and I have never once had it tested like this." She did not take the sheet back.
+
+"Then write to Nevin Trost. "He gave the sheet back. "He has a file of his own and a book he keeps at home with the day on it, and I have never written to him, and the reason I have not is that a man who files a thing about his own office has to have it in a book somewhere, and if it is in that book then it is with somebody who cannot be instructed. That is a fact and it is not advice, and your third line is not broken by it, and you are not to thank me for the instruction because I have not given you one."
+
+"You have just tested it."
+
+"Then say it in a room and not in a corridor, and write it down there if you want it written down, and I will not thank you for it. And I am not going to tell you not to write it down, because telling you not to would be advice, and I have read your third line."
 
 ---
 
@@ -112,33 +120,21 @@ Nobody thanked anybody for any of it.
 
 And here is what the last week of the tenth month of next year leaves standing, in the plainest words there are, and none of it is a question and none of it has been answered by anybody.
 
-A review held on the first week of the eighth month of next year, and it was not a hearing, and about thirty-one people were in a room and about nine of the about forty-one who had said yes did not come, and there is no column for a person who did not come.
+A review held on the first week of the eighth month of next year, and it was not a hearing, and about thirty-one people were in a room and about nine of the about forty-one who had said yes did not come, and there is no column for a person who did not come. A day walked up the length of a bank to about nine doors that cannot read a paragraph, by a girl of seventeen who is paid forty-five pence a day and is not paid for her feet, and a question asked out loud once on a platform and once in a bay, and the question was *and who is going to ask us again.*
 
-A day walked up the length of a bank to about nine doors that cannot read a paragraph, by a girl of seventeen who is paid forty-five pence a day and is not paid for her feet, and a question asked out loud once on a platform and once in a bay, and and who is going to ask us again.
+That question has not been answered. The second season is in its third week and running, agreed to by nobody, asked of nobody, and about four people who cannot read a paragraph have now not been asked twice.
 
-A second season, in its third week, running, agreed to by nobody, asked of nobody, and about four people who cannot read a paragraph never asked once and now not asked twice.
+An answer read out at a counter in a city four hundred and thirty miles up this river, twice, the second reading slower, and it is a row and not a leaf, and what was struck out was a leaf of a bound schedule, and a bound schedule does not travel. A road walked five times, thirty days, three pounds and thirteen shillings and threepence out of about forty-four pounds a year, and there is no fund and there is no form for a fund.
 
-An answer read out at a counter in a city four hundred and thirty miles up this river, twice, the second reading slower, and it is a row and not a leaf, and what was struck out was a leaf of a bound schedule, and a bound schedule does not travel.
+A form with four lines on it, given away at a lock by a man who walked, in a hand of about sixty, with his own day on it and not the day of the thing, and the second of those four lines wants a person, and a press is not a person. A first name refused at a bench, entered, findable, and a refusal is not a denial and a document is not a confirmation. A correction made in a back room on a flood terrace, in a margin, with a day on it and a name at the bottom of it, and the whole of the method is a pen and a quiet afternoon, and nothing in this empire stops anybody doing it, and that is what a record is.
 
-A road walked five times, thirty days, three pounds and thirteen shillings and threepence out of about forty-four pounds a year, and there is no fund and there is no form for a fund.
-
-A form with four lines on it, given away at a lock by a man who walked, in a hand of about sixty, with his own day on it and not the day of the thing. And the second of those four lines wants a person, and a press is not a person.
-
-A first name refused at a bench, entered, findable, and a refusal is not a denial and a document is not a confirmation.
-
-A correction made in a back room on a flood terrace, in a margin, with a day on it and a name at the bottom of it, and the whole of the method is a pen and a quiet afternoon, and there is nothing in this empire that stops anybody doing it, and that is what a record is.
-
-A person in charge of a press, who is not a party, and is served, and is asked, and holds no box and no fee and no term and no day at the end of it, and is the only position in this matter that anybody can stop, and a person cannot be compelled to be in a room and there is no form for it.
-
-A volume in a wall with nine terms in it and a tenth that has a holder and no day, and the holder is the office, and the line where the day would go is empty, and the book has no column for the person who emptied it.
-
-A copy of ten entries in four sheets in the inside of a coat, and no leaf out of a binding, and a gap in a copy is a fact about the copying and a gap in an original is a different sentence.
+A person in charge of a press, who is not a party, and is served, and is asked, and holds no box and no fee and no term and no day at the end of it, and is the only position in this matter that anybody can stop, and a person cannot be compelled to be in a room and there is no form for it. A volume in a wall with nine terms in it and a tenth that has a holder and no day, and the holder is the office, and the line where the day would go is empty, and the book has no column for the person who emptied it. A copy of ten entries in four sheets in the inside of a coat, and no leaf out of a binding, and a gap in a copy is a fact about the copying and a gap in an original is a different sentence.
 
 A refusal in a form with a day on it and a name at the foot of it and one word in the middle of the sentence that means more than it says, and no box for a why, and being right is what makes a document, and there is no way in this empire to un-ask.
 
-A notice on a nail at the end of a corridor with jobs against days and a district at the foot of it and no day at the end of it, and a room to be cleared on the fourth of the month after this one.
+And a notice on a nail at the end of a corridor with jobs against days and a district at the foot of it and no day at the end of it, and a room to be cleared on the fourth of the month after this one.
 
-**A guarantee under the fire-and-water device stands offered and unanswered at no charge on a bank about four hundred and forty foot long, and about sixty children under sixteen are inside it, and none of them is named, and nobody has answered it and nobody is going to.**
+**A guarantee under the fire-and-water device stands offered and unanswered at no charge on a bank about four hundred and forty foot long, answerable at any time afterwards by a person answering in its terms, and there is no such person and there is not going to be one, and about sixty children under sixteen are inside it, and inside a guild's blank list, and inside a rotation they have not been asked about, and have been told about none of it.**
 
 **A bill at Lowcross of nineteen pounds three and fourpence, unpaid, nobody liable, and about a penny a day the real cost of it, and no line for a bridge in that fund and there has not been one in nineteen years, and four hundred and eleven people live on the far side and the district's return for four weeks says three hundred and eighty-eight crossings, and those are two figures and they are never the same.**
 

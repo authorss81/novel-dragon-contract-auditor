@@ -50,7 +50,7 @@ Two dates in one week. Four hundred and thirty miles apart. No form in this empi
 
 The collision cost him nothing.
 
-He is not on the list of works. The list of works has never had him on it. The keeper entered him in a box on the seventh of the first month of next year without asking him and wrote on the face of her own sheet that she had done it without asking, and he refused it in front of about forty people in nine words, and she was right to enter him and he was right to refuse it, and the sheet went on the wall and neither of them has to be there. The first review was a day a person comes to. He is not a person who comes to it.
+He is not on the list of works. The list of works has never had him on it. The keeper entered him in the seat on the seventh of the first month of next year without asking him and wrote on the face of her own sheet that she had done it without asking, and he refused it in front of about forty people in nine words, and she was right to enter him and he was right to refuse it, and the sheet went on the wall and neither of them has to be there. The first review was a day a person comes to. He is not a person who comes to it.
 
 So the week cost nothing, and the only person the week cost anything to was a girl of seventeen who is paid forty-five pence a day, four days a week, on a written engagement, to read things out loud to people who cannot read a paragraph, and who walked a day up the length of a bank to every one of those doors in two days, and was not paid for her feet, and has been looked at by about nine hundred people since the second of the fifth month and has minded being thanked about four times.
 

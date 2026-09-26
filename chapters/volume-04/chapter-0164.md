@@ -102,7 +102,7 @@ The slate went back on the nail over the bench in the middle with a number on it
 
 The boy of fifteen who cannot stand on the leg was on that platform on the fifth day and was not asked to do anything he could not do and has not been asked and nobody is going to ask him, and the whole of what happened to him is that the ground was flat and somebody noticed.
 
-A girl of eleven stands on that platform every evening with a pail. She cannot read a paragraph. Nobody has ever given her a reason and nobody is going to.
+A girl of eleven stands on that platform every evening with a pail. She cannot read a paragraph, and nobody is going to give her a reason for it in a second season either, and nobody ever has.
 
 She was read to. That is the whole of it.
 
@@ -124,6 +124,6 @@ And Halla Wray, fifty-one, foreman, second on the list, wrote one line at the fo
 
 **A list of works is a list of jobs with days against them and a name at the foot of it, and that is the only kind of sentence in this empire that a person can act on the same day, and about four people in ninety-one households cannot read the one sentence that is on the rail in front of them.**
 
-**And a guarantee under the fire-and-water device stands offered and unanswered at no charge on that bank, answerable at any time afterwards by a person answering in its terms, and there is no such person and there is not going to be one, and about sixty children under sixteen are inside it, and have been told about none of it.**
+**And a guarantee under the fire-and-water device stands offered and unanswered at no charge on that bank, answerable at any time afterwards by a person answering in its terms, and there is no such person and there is not going to be one, and about sixty children under sixteen are inside it, and inside a guild's blank list, and inside a rotation they have not been asked about, and have been told about none of it.**
 
 **And a reader of seventeen is on a written engagement and is paid forty-five pence a day and is not thanked and is not going to start, and this is the last season in which anybody on that bank can ask her something and be answered for nothing, and she has worked that out herself and has not told anybody.**

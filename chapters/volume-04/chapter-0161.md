@@ -12,21 +12,23 @@ She had known the day was coming since the second of the fifth month of next yea
 
 So she went and asked a court to fix it, which is the first thing she did and the last thing she will ever do, and the court sent back a form with a reason written in it and no box anywhere on the form for a why.
 
-**That is a resolution of a kind and it is findable, and being right is what makes it a document, and there is no way in this empire to un-ask.**
+Rennick Adley had it before she had put it in the drawer in the tool shed. He writes things down. He had it in his own hand inside four minutes, and when she told him what it said he wrote nine lines, and the ninth of them is this, and she made him read it back to her, which she had not asked him to do: *a form came back with a reason in it and no box for a why.*
 
-She has it in a drawer in the tool shed. She has not read it since the day it came and she is not going to read it again in this matter, and if anybody asks her in a room she is going to say the words *it came back with a reason in it* and stop there, because the reason is a sentence about a sheet of paper that is not an instrument, and saying the rest of it out loud in a bay is how a person starts being asked about it by people who were not asking.
+"**That is a resolution of a kind and it is findable,** and being right is what makes it a document, and there is no way in this empire to un-ask, and I would rather it had come back with nothing on it."
 
-She told nobody that. She told the book-keeper, because he writes things down, and he wrote it down, and it is the ninth line on a leaf in a book with no heading.
+"It came back with a reason in it and no why," said Halla Wray. "That is the whole of what I am going to say about it in a bay, and if anybody asks me in a room that is the sentence they get, because the rest of it is a sentence about a sheet of paper that is not an instrument, and saying any more of it out loud in here is how a person starts being asked about it by people who were not asking."
 
 ---
 
 The seat would not pay it either, and she had known that too and had gone and looked anyway, because a woman of fifty-one who has been a foreman for a long time will go and look at a thing twice before she says it is not there.
 
-The district's flood authority for that reach was given to two persons in the first month of next year. The first of them put a name at the foot of the list of works in her own hand. **The second of them was entered by the keeper without asking him, on purpose, and wrote on the face of her own sheet that she had done it without asking, and he refused it in front of about forty people in nine words and was right.**
+Sefa Ild was at the west door with a lamp she was not using.
 
-So the seat is a piece of paper that says two people may do a duty and may not order anybody to do it. It has no money. It has no fund. It has no line.
+"The district's flood authority for that reach was given to two persons in the first month of next year," she said. "The first of them put a name at the foot of the list of works in her own hand. **The second of them was entered by the keeper without asking him, on purpose, and wrote on the face of her own sheet that she had done it without asking, and he refused it in front of about forty people in nine words and was right.**"
 
-The Company's whole money is four shillings a year and all of it is the rent of the building they are standing in.
+"So the seat is a piece of paper that says two people may do a duty and may not order anybody to do it. It has no money. It has no fund. It has no line."
+
+"I have looked for the line." Sefa Ild did not come off the door. "The Company's whole money is four shillings a year and all of it is the rent of the building we are standing in, and I can show you the book, and the book says the same thing in a different hand."
 
 That is the whole of the money there is for a review. Halla Wray stood in the bay and looked at that for about nine seconds and then went and found the reader.
 

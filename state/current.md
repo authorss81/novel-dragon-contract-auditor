@@ -1,3 +1,5 @@
+**VOLUME 04 BATCH 0002 WAS REVIEWED AND REPAIRED. Ten findings, six high and four medium, all fixed at the line, no chapter restarted, no plot changed, no date moved, no canon altered, no thread closed or opened. The manuscript is 616,778 words and Chapters 161–170 are 28,081. The record is `THE REVIEW REPAIR OF VOLUME 04 BATCH 0002, CHAPTERS 161–170`, the last section in `state/continuity.md`, and it is the record a Volume 04 Batch 0003 writer must read before a card. What a writer most needs from it: the Chapter 0170 corridor exchange is now seven turns with one instruction and one refusal and a stable referent, Marek keeps the Nevin Trost material and the words *I have never written to him*, the flood authority is *the seat* in both Chapters 0161 and 0165 and is not a box, the district court is a low building on a flood terrace with a court room on the ground floor and is not above a shop, about thirty-one people came to the review and about forty-one are the rotation, and the craft bounds re-measured after the repair are 4.3%–14.8% of lines and 11.1%–18.4% of prose text, ten of ten under a fifth on both.**
+
 **VOLUME 04 IS OPEN AND ITS SECOND BATCH IS FINISHED. Chapters 161–170 are finished prose, written, measured and recorded, and `outline/batches/volume-04-batch-0002.md` exists and is closed. Everything below this line about Batch 0001 and about Volume 03 is the record of what has been handed on and is not to be re-read as current; the current state is this section, and the sections further down are the archive. This file is newest-first and this section is at the top because of that.**
 
 # Volume 04 Batch 0002 Is Closed At Chapter 170
@@ -10,7 +12,7 @@
 
 **Last batch summary: Volume 04, Batch 0002, "The First Review, and the Road" (`state/batch-summary.md`).**
 
-**The manuscript: 616,477 words across one hundred and seventy chapters** — 202,117 in Volume 01, 184,039 in Volume 02, 176,097 in Volume 03, and **54,224 in Volume 04's first twenty chapters** (26,444 in Chapters 151–160 and 27,780 in Chapters 161–170). Measured with `sed 's/[[:space:]]*$//' file | wc -w`, the reproducible count governs. **Nothing in Volumes 01, 02 or 03 was touched, and nothing in Volume 04's first ten chapters was touched.**
+**The manuscript: 616,778 words across one hundred and seventy chapters** — 202,117 in Volume 01, 184,039 in Volume 02, 176,097 in Volume 03, and **54,525 in Volume 04's first twenty chapters** (26,444 in Chapters 151–160 and 28,081 in Chapters 161–170). **These are the post-repair figures; the batch closed at 616,477 and the repair added 301 words.** Measured with `sed 's/[[:space:]]*$//' file | wc -w`, the reproducible count governs. **Nothing in Volumes 01, 02 or 03 was touched, and nothing in Volume 04's first ten chapters was touched.**
 
 ## What Volume 04 Batch 0002 Did
 
