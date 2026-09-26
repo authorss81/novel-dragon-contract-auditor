@@ -4,7 +4,7 @@ The second season came into its last weeks on the third day of the last week of 
 
 Halla Wray is fifty-one. She is the foreman of the Slade Cut, which is an office with no office in it. She has been on that bank since she was nine. She can read and nobody at the district works has ever once in nine years asked her to read anything, and in the fourth week of the ninth month of this year she read six numbered lines out loud to nine men in that shed because she had decided to and nobody asked her, and it is the first time in her life that anybody in that shed has heard her read anything.
 
-There are two sheets of her own hand in a book of her own, with the day against each of them. Both of them are the words of a document. Neither of them has her in it, and she put them there on purpose, and she has read them both since and has not added her name and is not going to.
+There is one sheet of her own hand in a book of her own, with the day against it, and it is the words of a document and not the document. It has no name in it, she put it there on purpose, she has read it since and has not added her name and is not going to. The notice it was copied from is on the bench, and has been since the seventh month, and the two of them are two sheets and not one.
 
 ---
 
@@ -62,7 +62,7 @@ The shed stayed quiet for about a minute and a half and then a man of about thir
 
 "So I am not going to be the reason four other people are found. **If the four stay unasked this season then that is a decision and it is mine and I have made it and I am not going to be talked out of it by a man in a shed who thinks he has found something to do.**"
 
-She put the book with the two sheets in it on the bench and left it there, and it stayed there all night, and in the morning the shed was open and about nine men came in and looked at it and none of them asked about it and none of them will.
+She put the book with her sheet in it on the bench beside the notice and left it there, and it stayed there all night, and in the morning the shed was open and about nine men came in and looked at it and none of them asked about it and none of them will.
 
 ---
 
@@ -88,9 +88,9 @@ Not about the hold. Not about the season. Not about the nineteen reasons or the 
 
 She thought about it for the rest of that week and she has not got a better account of it than that and she has not told it to anybody.
 
-He would have said yes. That is the part she cannot get round, and she is a woman who has been right about the rate on her own wall since she was seventeen and she is not a woman who is comfortable with being right. He would have said yes, in a shed, out loud, in about two seconds, and then he would have been a man who had been asked, and a man who has been asked can be asked again by whoever comes next, and she would have started it. And that is not a reason, and she knows it is not a reason, and she gave it out loud in a shed in the second week of the eleventh month to a room as though it were.
+He would have said yes. That is the part she cannot get round. He would have said yes, in a shed, out loud, in about two seconds, and then he would have been a man who had been asked, and a man who has been asked can be asked again by whoever comes next, and she would have started it. And that is not a reason, and she knows it is not a reason, and she gave it out loud in a shed in the second week of the eleventh month to a room as though it were.
 
-"It is a bad reason," she said. "**I have said in this shed that I would rather be asked than not, and about the bank I have been asked five times and said no five times and about this I have not been asked once, and the reason is that nobody has thought of it, and I have thought of it, and I have not asked, and that is the whole of what I have done in a year of standing in rooms. I would like somebody to put that on a slate and read it back to me, and there is nobody here who is going to, and I am not going to ask one of the four men in this shed to do it either, for the reason I have just given, and I know exactly how that sounds.**"
+"It is a bad reason," she said. "**I have said in this shed that I would rather be asked than not, and the district has put the bank to me five times and I have said no five times, and about the four in that bay I have not been asked once, and the reason is that nobody has thought of it, and I have thought of it, and I have not asked, and that is the whole of what I have done in a year of standing in rooms. I would like somebody to put that on a slate and read it back to me, and there is nobody here who is going to, and I am not going to ask one of the four men in this shed to do it either, for the reason I have just given, and I know exactly how that sounds.**"
 
 ---
 

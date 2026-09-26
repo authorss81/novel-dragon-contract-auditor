@@ -40,7 +40,7 @@ Then she answered it, and it took about four minutes, and she answered it the wa
 
 "And what does it let them do?"
 
-"Nothing you would recognise," said Marn Ottery. "It lets a form put your name in a place where a name is a thing that can be asked about. That is all. There is no hand behind it. There is no man behind it. The wage of yours that is held is held under a heading with nothing under the heading, and this box is the same, and the two of them are the same act done by the same machinery in the same year, and about four hundred and thirty miles apart."
+"Nothing you would recognise," Marn Ottery answered. "It lets a form put your name in a place where a name is a thing that can be asked about. That is all. There is no hand behind it. There is no man behind it. The wage of yours that is held is held under a heading with nothing under the heading, and this box is the same, and the two of them are the same act done by the same machinery in the same year, and about four hundred and thirty miles apart."
 
 ---
 
@@ -54,7 +54,7 @@ Then she answered it, and it took about four minutes, and she answered it the wa
 
 "**Then say why not, and say it out loud, and I want it in the room.**"
 
-Marn Ottery put both hands flat on the oak, which she does about twice a year, and said the thing.
+Marn Ottery put both hands flat on the oak, which she does about twice a year, and told her the whole of it.
 
 "There is no form in this empire for a document about a person who did not ask to be in one. That is the reason and it is the whole of the reason and it is not a matter of taste and it is not caution. **A form is a thing that happens to a person.** Every one of them is printed, and every one of them is filled in by somebody else, and not one of them in about a hundred and forty years has had a line on it for a person to put a question on and get an answer in writing, and the reason is that a form about a person is the thing the person cannot get out of. And I have looked, at this counter, in the book of forms under it, in the ordinary course of my job, and it is not there and it has never been there, and the last time this empire came close was about a hundred and forty years ago and what it had then was a fifth line that asked the second person whether she was a party before anything else was said, and that line is dead, and it is dead because the person it asks cannot be told that there is a question."
 
@@ -62,7 +62,7 @@ The woman of twenty stood at a rail in a room and did not say anything for about
 
 "So the answer exists," she said, "and there is nowhere to put it."
 
-"**The answer exists and it is in your head now and it has a day on it because you asked it on a day**," said Marn Ottery, "and the only place in this empire it can go is a room with a person in it, and a room is not a form, and a room writes down whatever it likes and can be asked about it."
+"**The answer exists and it is in your head now and it has a day on it because you asked it on a day**," Marn Ottery told her, "and the only place in this empire it can go is a room with a person in it, and a room is not a form, and a room writes down whatever it likes and can be asked about it."
 
 ---
 
@@ -80,15 +80,15 @@ The woman of twenty did not take it.
 
 "No," said Nell Kest. "**And I am going to tell you why, and it is because a person who takes a piece of paper off a counter is a person who has been helped, and I have been helped four times this year and I can count them, and a person who is helped is a person who owes, and I have not got a figure for what I owe and I am not going to be the one who starts.**"
 
-Marn Ottery put the blank back under the counter, and wrote the day on the counter slab in pencil where it would come off, because that is what a counter does, and said, "That is not a record."
+Marn Ottery put the blank back under the counter, and wrote the day on the counter slab in pencil where it would come off, because that is what a counter does, and told her, "That is not a record."
 
 "I know what it is."
 
 ---
 
-Then she said the other thing, and she said it standing up the way she says things, and it is the sentence she has had since the second week of the first month and has not improved.
+Then she came to the other thing, and she gave it standing up the way she gives things, and it is the sentence she has had since the second week of the first month and has not improved.
 
-"**The only thing standing between you and the rest of your life is somebody asking a question out loud in a room. That is it.** There is no other instrument in this empire and there has not been one since the second person stopped being a person. And there is no post in this empire whose job is to ask. There is no post, in about nine hundred buildings, in any of the four hundred and thirty miles between this counter and your lane, in any office, at any counter, at any window, in any court in this empire, whose business is to stand in front of a heading and ask what the words on it mean. Ask for a form for it. Go round all nine hundred of them. It is not there, and it has never been there, and the one time anybody in a hundred and forty years asked a form what a word on it meant, a room asked, and it asked because a room wanted a record, and nobody chose it, and it will not happen again by itself."
+"**The only thing standing between you and the rest of your life is somebody asking a question out loud in a room. That is it.** There is no other instrument in this empire and there has not been one since the second person stopped being a person. And there is no post in this empire whose job is to ask. There is no post, in about nine hundred buildings, in any of the four hundred and thirty miles between this counter and your lane, in any office, at any counter, at any window, in any court in this empire, whose business is to stand in front of a heading and ask what the words on it mean. Ask for a form for it. Go round all nine hundred of them. It is not there, and it has never been there, and in a hundred and forty years there has been one asking of a word on a form, and the one was a person asking another person in a room that wanted a record, and nobody chose it, and it will not happen again by itself."
 
 "And you," said Nell Kest. "You have answered me. Why."
 
@@ -96,7 +96,7 @@ Then she said the other thing, and she said it standing up the way she says thin
 
 ---
 
-A man of about fifty came up while the woman of twenty was still at the rail, and he had a paper in his hand with a reference on the top of it, and he put it on the slab and said four words, and Marn Ottery looked at the reference and said fourpence and made a copy of it on a sheet of press in about a minute and a half, read the copy out, and he said it was right, and he paid fourpence and went.
+A man of about fifty came up while the woman of twenty was still at the rail, and he had a paper in his hand with a reference on the top of it, and he put it on the slab and gave four words for it, and Marn Ottery looked at the reference and told him fourpence and made a copy of it on a sheet of press in about a minute and a half, read the copy out, and he said it was right, and he paid fourpence and went.
 
 He did not ask one question. He had not come to ask one. He had come because a copy is fourpence and a copy is a thing a person can carry out of a room and put on a table at home and point at.
 
@@ -104,7 +104,7 @@ He did not ask one question. He had not come to ask one. He had come because a c
 
 "That was not the same."
 
-"It was exactly the same," said Marn Ottery, "and the reason it was not the same is that I am a person and a counter is not, and the whole of what is wrong with this room is that a person stands in it on more days than the forms do, and there is a form for the counter."
+"It was exactly the same," Marn Ottery told her, "and the reason it was not the same is that I am a person and a counter is not, and the whole of what is wrong with this room is that a person stands in it on more days than the forms do, and there is a form for the counter."
 
 Then the woman picked up her own sheet, folded it in four, and put it inside her coat, and did not take the blank, and stopped at the rail on the way out and turned round, which nobody at that counter does.
 
@@ -114,7 +114,7 @@ Then the woman picked up her own sheet, folded it in four, and put it inside her
 
 "Then write this down and put your name at the foot of it," said Nell Kest. "**Not for me. I do not want it and I will not carry it. Write it and put it in your own book, and in about four years I will not know you did it and you will not be able to give it to me, and that is not a kindness either, it is the only shape the thing has.**"
 
-And Marn Ottery said, "That is the first thing anybody has asked me for at this counter in about eleven years, and I am not going to be able to do it, and I want to be exact about why, because you will not ask me again."
+And Marn Ottery told her, "That is the first thing anybody has asked me for at this counter in about eleven years, and I am not going to be able to do it, and I want to be exact about why, because you will not ask me again."
 
 "Then say it."
 

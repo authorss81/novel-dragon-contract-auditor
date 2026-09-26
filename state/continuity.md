@@ -3167,19 +3167,19 @@ The outline binds emphasis at about a fifth of a chapter's **lines** and about a
 
 | Chapter | Words |
 |---|---|
-| 201 | 3,116 |
-| 202 | 2,809 |
-| 203 | 3,039 |
-| 204 | 2,741 |
-| 205 | 2,802 |
+| 201 | 3,109 |
+| 202 | 2,822 |
+| 203 | 3,036 |
+| 204 | 2,758 |
+| 205 | 2,872 |
 | 206 | 2,784 |
-| 207 | 2,840 |
-| 208 | 2,751 |
-| 209 | 2,879 |
-| 210 | 2,863 |
-| **Batch total** | **28,624** |
+| 207 | 2,851 |
+| 208 | 2,795 |
+| 209 | 2,898 |
+| 210 | 2,865 |
+| **Batch total** | **28,790** |
 
-**Volume 05 stands at 28,624 across ten chapters. The manuscript is 739,359 words across two hundred and ten chapters, from 710,735 across two hundred. Volumes 01, 02, 03 and 04 stand at 202,117, 184,039, 176,097 and 148,482 and are unmoved, and the whole of the manuscript that precedes Chapter 201 is unmoved.** The floor for this volume is about 2,600 a chapter and the target band is 2,700 to 3,200: **ten of ten are inside the band, the lowest is 2,741 and the highest is 3,116, and nothing was trimmed to reach a number.** The band was hit by making scenes longer — a tray-carrier in a corridor in 201, a man at a window with a fortnight of not knowing in 205, a carter at the end of a bench in 206, a woman with a slate and a woman with a chair in 208, a man with a drum in 210 — and not by a cut.
+**Volume 05 stands at 28,790 across ten chapters. The manuscript is 739,525 words across two hundred and ten chapters, from 710,735 across two hundred. Volumes 01, 02, 03 and 04 stand at 202,117, 184,039, 176,097 and 148,482 and are unmoved, and the whole of the manuscript that precedes Chapter 201 is unmoved.** The floor for this volume is about 2,600 a chapter and the target band is 2,700 to 3,200: **ten of ten are inside the band, the lowest is 2,758 and the highest is 3,109, and nothing was trimmed to reach a number.** The band was hit by making scenes longer — a tray-carrier in a corridor in 201, a man at a window with a fortnight of not knowing in 205, a carter at the end of a bench in 206, a woman with a slate and a woman with a chair in 208, a man with a drum in 210 — and not by a cut.
 
 ## The rules established on the page in this batch, which Volume 05 must then keep
 
@@ -3264,3 +3264,18 @@ Checked with `grep` over `chapters/volume-05/chapter-020{1..9}.md` and `chapter-
 5. **A man of about thirty-four at a window who said he would rather not have asked, and who is now answerable for the answer, and who does not know what the answer was.** Nobody has told him. That is the cost the batch planted and did not spend.
 6. **The river, and the four who cannot read a paragraph, and a reader of seventeen who is the wrong person to ask and the only one free to answer, and this is the last season in which anybody on that bank can ask her something and be answered for nothing.**
 7. **A calendar note that Batch 0002 must carry:** the volume's Batch 0002 is the first week of the twelfth month of the year after to the fourth week of the second month of the year after, **which crosses a year boundary**, and the relative terms shift with it on the convention fixed above, so that in a twelfth-month scene *this year* is still the year after and *next year* is still the year after next, and a scene in the first or second month of the following stretch is the first week of a new year on the page while *this year* has not yet been re-based. **A Batch 0002 writer must state the convention it is using in its own closing section and must not leave it to be inferred.**
+
+## THE INDEPENDENT REVIEW OF VOLUME 05 BATCH 0001, AND THE REPAIR THAT ANSWERED IT
+
+**A review ran against Chapters 201–210 and its repair has been applied. This section is the authority for what the repair established and it is deliberately short. The review's own record, its eighteen findings, the two that were checked against the manuscript and found to be misreadings, and the two that were declined with their reasons, are in one place only: the closing section of `outline/batches/volume-05-batch-0001.md`, headed *The Independent Review Of This Batch, And The Repair That Answered It*. A writer who wants the detail reads that file and not this one. Nothing in the twenty-two-item record above has been restated here, and nothing in this section belongs anywhere else.**
+
+**What the repair changed, in four rulings that a later writer must keep.**
+
+1. **The asking is a person, and the count is a count of people. The rule is that a form cannot be asked and only a person can, and no form is ever asked anything.** An asking is one person asking another person what a word on a form means. **The count moves with the calendar and is one as at the second week of the ninth month, two from the first week of the tenth month, and three from the second week of the eleventh month. Three chapters of the batch had let a room or a form do the asking and three had given three different totals for the same century; all five are corrected on the page and in the four active state records.** A fourth asking, if a later batch writes one, is a person asking a person, out loud, in a room, about a word on a form, and every later total must say so and must agree with these three.
+2. **Halla Wray's two sheets are two different objects and one of them is not in her hand.** The notice of six numbered lines, with the seal and nothing under it, has been on that bench since the seventh month. Her own copy of the six lines, in her own hand, with the day against it and no name on it, is in a book of her own. **Both are on the bench; only one is hers; neither has her name in it. A batch that says *two sheets of her own hand* is wrong, and a batch that says the count is one is also wrong.**
+3. **Bess Tarrant has been unfindable for nine years and for no other span.** Chapter 0207 said sixty, which would have made her three. Nine is fixed by 0208 in three places and no chapter may give her another.
+4. **The word counts are re-measured.** The batch is **28,790** and the manuscript is **739,525**; both were 28,624 and 739,359 when the writing run closed them, and the difference of 166 words is repair and not new writing. The ten chapters are 3,109 / 2,822 / 3,036 / 2,758 / 2,872 / 2,784 / 2,851 / 2,795 / 2,898 / 2,865. The table at the head of this batch's record above and the header of `state/current.md` and the *Three facts* of the Batch 0002 prompt all carry the new figures, and the pre-repair figures are in the card file so that both are on the page.
+
+**What the repair did not change, and the checks re-run over all ten files afterwards and clean.** No chapter restarted, no scene cut, no date moved, no wage, distance, count of thirty-one, Lowcross bill, guarantee, document, sealed page or lock touched, no name added, no open question resolved, and the volume's question not asked. **The five mechanical tests are clean at zero, the calendar is clean at zero month names and zero weekday names with all seven hits of *may* being the modal verb, the month-count is zero, the emphasis runs 9.0% to 18.4% on the governing text measure and 8.9% to 18.5% on the all-lines measure and ten of ten are under a fifth on both, `about nine` runs three to seven a chapter against a bound of eight, and every chapter is above the 2,600 floor at 2,758 to 3,109.** Four state rows that the repair made false were corrected rather than left to rot, which is the standing rule: **where a state row and the prose disagree, the prose is the authority and the row is the fault.**
+
+**The one open item this hands on that is not a story item.** The six state files are over 3.5 MB, `state/continuity.md` has grown every batch and now repeats five headings six times over, and `state/current.md` repeats *Next phase* six times. **A writer phase cannot fix it: the files are append-only downward by the pipeline's own rule, `state/current.md`'s own read cap forbids deleting its superseded records, and trimming either file is a change to the memory architecture and not to a chapter.** The Batch 0002 prompt routes around it by requiring `grep -n` and bounded reads, and that will not hold for Batch 0003. **It is recorded here so that the phase which is allowed to change the controller's rules can find it.**

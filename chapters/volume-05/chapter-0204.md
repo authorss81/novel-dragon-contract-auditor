@@ -28,17 +28,17 @@ She said the second line first.
 
 "That is not a threat. **That is a man telling the world in advance not to look.** And I have been doing it for forty-two years without a piece of paper and he has now put mine in writing, and he could not have known that, and it would not have mattered, because the sentence is about him and not about me and I am the only person in this shed it can be said about."
 
-Then she said the sixth line, and she said it slowly, because it took her a moment the first time.
+Then she came to the sixth line, and she took it slowly, because it took her a moment the first time.
 
 "It declines to name the holder of the office. **So the thing that put me in this cannot be named.** It refused, not answered, not produced, not held to. Named by nobody, in a document, in a hand, with a seal at the foot and nothing under the seal. A man wrote a line that says *I am not going to tell you who I am* into a piece of paper he is sending to a foreman on a bank, and he sent it to me, and I cannot do one thing about it, and I have wanted to say that out loud in a room for about eleven weeks."
 
 ---
 
-Then she refused, and it did not work, and she had known it would not, and she said so in advance and did it anyway.
+Then she refused, and it did not work, and she had known it would not, and she told them so in advance and did it anyway.
 
 "I am refusing to be served. That is the instrument. It is the only one there is in this empire and I have never had to use it and a woman about four hundred and thirty miles up this river used it in a room with a day on it in the fourth week of the fifth month and it did not work there either, and I am going to use it now, in this room, out loud, with today on it, and I would like one of you to write it down, and I do not care which."
 
-Nobody wrote it down. One of them said afterwards, in the yard, that his hands were cold and that he had wanted to, and that nobody had given him paper, and that he had not thought to fetch any.
+Nobody wrote it down. One of them told her afterwards, in the yard, that his hands were cold and that he had wanted to, and that nobody had given him paper, and that he had not thought to fetch any.
 
 "It has not worked," said Halla Wray, "and I am going to say why, and the why is the reason I have had since the seventh month and have not said, and it is not the same why as hers, and I would like that noticed, because if the two whys are the same then it is a bad system, and it is not a bad system. It is the worst system anybody has ever written down and it works."
 
@@ -48,9 +48,9 @@ Nobody wrote it down. One of them said afterwards, in the yard, that his hands w
 
 ---
 
-A man of about thirty from the second gang said, "And you have said it in here."
+A man of about thirty from the second gang put in, "And you have said it in here."
 
-"Nothing," said Halla Wray. "**That is the answer and I have had it since the first week of the seventh month and I have been carrying it about like a stone. You do nothing, and the sheet goes on being on the bench, and there is no procedure in this empire for a person to be let out of a thing that does not need her, and I have looked for one, and the reason there is not one is that in about a hundred and forty years nobody has ever needed to be let out of one.**"
+"Nothing," Halla Wray answered. "**That is the answer and I have had it since the first week of the seventh month and I have been carrying it about like a stone. You do nothing, and the sheet goes on being on the bench, and there is no procedure in this empire for a person to be let out of a thing that does not need her, and I have looked for one, and the reason there is not one is that in about a hundred and forty years nobody has ever needed to be let out of one.**"
 
 "You are in a box."
 
@@ -74,7 +74,7 @@ She took out a sheet and she wrote the six lines on it, all of them, in her own 
 
 ---
 
-Then she said why she had done it, and it was not for the record and she said so.
+Then she gave the reason she had done it, and it was not for the record and she made that plain too.
 
 "I have said in this shed that I would rather be asked than not, and I have been asked twice and said yes twice, and I have refused to be asked a third time without being asked. I have said that a person who is paid nothing is the only kind of person in this cut who can be told no by anybody, and I have said that a carriage is not a wage, and I have said it twice now, and I am not going to say it a third time.
 
@@ -86,7 +86,7 @@ She looked at the men in the shed.
 
 "**I would like to be found. I have spent forty-two years being unfindable and it is the reason I am standing in this, and if it had been any other way I would be standing somewhere else with a worse thing on me, and I am not going to be embarrassed about saying that out loud at fifty-one in front of nine men.** What I am not going to do is be the reason four other people get found, and there are four of them on that bank who cannot read a paragraph and have never been asked once, and the season is coming round again, and I have thought about it since the seventh month and this is where I have got to, and I have not told a soul until now and I am not going to be thanked for it, because there is no form anywhere in this empire that requires a person to be thanked, and I have said that in advance and I mean it."
 
-She put the sheet on the bench face up, next to the other one, and the two of them lay there side by side for anybody who came in.
+She put her own sheet on the bench face up, beside the notice, which had been lying on that bench since the seventh month, and the two of them lay there side by side for anybody who came in.
 
 There was a man at the back of the shed who had not said anything for about nine minutes, and he had a book under his arm and he had come in with the others and he had not sat down, and she had known who he was since the second day of the first week of the seventh month and had never once said so in a room.
 

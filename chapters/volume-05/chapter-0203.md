@@ -30,7 +30,7 @@ He said it out loud, and then he said it again in the other order, which is what
 
 "That is the answer to something," said Tamsin Rook.
 
-"That is the answer to a question nobody asked. That is how a company of nine families got into a box with a heading over it, and how a foreman of fifty-one got into one, and how a chapel and a poor-box and a company of watermen got into about four hundred returns in a bundle in about nine hundred buildings."
+"That is the answer to a question nobody asked. That is how a company of nine families got into a box with a heading over it, and how a foreman of fifty-one got into one, and how a chapel and a poor-box and a company of watermen got into a bundle of returns in about nine hundred buildings."
 
 "And how your sister got into one."
 

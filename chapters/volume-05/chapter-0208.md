@@ -18,7 +18,7 @@ She cannot do anything else. There is no work in this city for a woman of sixty-
 
 The copy is in her coat.
 
-It has been in her coat since the second month and she took it out once, in a room above a shop, in the fourth day of the week of that month, and she did not read it, and she cannot read it, and it is nine lines in her own hand and she has not had anybody read it to her since a doorway about four miles off the old river road where a man who cuts kindling stood and read the whole of it out loud because it was in her hand and he worked that out from the middle of it and he did not have a form.
+It has been in her coat since the second month and she took it out once, in a room above a shop, on the fourth day of the second week of that month, and she did not read it, and she cannot read it, and it is nine lines in her own hand and she has not had anybody read it to her since a doorway about four miles off the old river road where a man who cuts kindling stood and read the whole of it out loud because it was in her hand and he worked that out from the middle of it and he did not have a form.
 
 She knows what it says. She wrote it. That is the thing nobody has understood and it is the thing she has understood and there is nobody to understand it with. Knowing what you wrote and being able to read what you wrote are two different things, and the gap between them is a person's whole life, and about a hundred and forty years of this empire is the width of it.
 
@@ -38,7 +38,7 @@ She is about thirty and she does about nine rooms on that street and she has nev
 
 The woman stopped.
 
-It is about four words on a slate, four days, and a figure, and it is not a form and it is not a receipt and there is no office on it and it is scratched on with a piece of chalk because the woman cannot afford ink for nine rooms.
+It is four words on a slate, four days and a figure, and it is not a form and it is not a receipt and there is no office on it and it is scratched on with a piece of chalk because the woman cannot afford ink for nine rooms.
 
 "Four days," she said, "and so much."
 
@@ -46,11 +46,11 @@ It is about four words on a slate, four days, and a figure, and it is not a form
 
 "I have just read it."
 
-"You have told me two numbers and a word. **That is not reading it to me.** That is telling me the answer. I have been in this room since the second month and I have never been able to say the difference out loud to anybody and I have just said it to you, and you are the first person in this city who has been asked a question by me since the second month, and it is about a chalk mark on a slate."
+"You have given me one number and two words, and one of the two words is standing in for the figure on that slate. **That is not reading it to me.** That is telling me the answer. I have been in this room since the second month and I have never been able to say the difference out loud to anybody and I have just said it to you, and you are the first person in this city who has been asked a question by me since the second month, and it is about a chalk mark on a slate."
 
 The woman read it again, slowly, and put her thumb under the line while she did it, and the two of them stood in a doorway in a street for about a minute and a half.
 
-"There," she said. "That is what it says. **And that is everything, and it took about ninety seconds, and it has taken you ninety seconds and me nothing, and I could have done it in the second month and you have been here ever since.**"
+"There," she said. "That is what it says. **And that is everything, and it has taken you ninety seconds and me nothing, and I could have done it in the second month and you have been here ever since.**"
 
 ---
 
@@ -60,9 +60,9 @@ Then she said the thing, and she said it in the doorway to a woman of about thir
 
 "It works on a person. It has always worked on a person. A man stood in a doorway about four miles off this road and read nine lines of my own hand out loud to me and I have not been the same since, and there was no form and no fee and no day at the end of it.
 
-"And it has been asked once since the ninth month of this year. I do not know who asked, and I have been told that much and no more, and that is not a conspiracy and it is not a plan either. It is two accidents about four hundred and thirty miles from each other, in rooms that had nothing to do with one another, and a person who wants to know why nobody asks forms anything has now got the start of the answer and it is that it keeps not happening to the same person.
+"And it has been asked once since the ninth month of this year. I do not know who asked, and I have been told that much and no more, and that is not a conspiracy and it is not a plan either. It is two accidents and they are not four hundred and thirty miles from each other, and that is the part I have had to work out for myself, because the one I know about was in this city and the other one I have only been told was a room, and a person who wants to know why nobody asks forms anything has now got the start of an answer and it is that it keeps not happening to the same person.
 
-"And it does nothing whatever to a piece of paper. **You can ask a person until you are hoarse and the paper does not change. And a form cannot be asked at all, and I have been sitting in this room since the second month waiting for a form to change its mind, and there is no post in this empire whose job is to ask one, and the first time anybody asked one in about a hundred and forty years it was because a room wanted a record and a person happened to be in the room.**"
+"And it does nothing whatever to a piece of paper. **You can ask a person until you are hoarse and the paper does not change. And a form cannot be asked at all, and I have been sitting in this room since the second month waiting for a form to change its mind, and there is no post in this empire whose job is to ask one, and the first time anybody asked another person what a word on one meant in about a hundred and forty years it was because a room wanted a record and a person happened to be in the room.**"
 
 "And you have tried it on paper," said the woman with the slate.
 
@@ -112,7 +112,9 @@ The woman with the slate looked at her for a moment.
 
 "You could have written and asked for the room," she said. "I do not let rooms to anybody I have not had a word with."
 
-"Then that is what it is for," said Bess Tarrant. It is not for the room. It is so that a person who cannot read a paragraph is a person somebody has had a word with, and that is the only thing I have wanted since the second month and I could not have said what it was and I have said it now in about ninety seconds on a step."
+"Then that is what it is for," said Bess Tarrant.
+
+"It is not for the room. It is so that a person who cannot read a paragraph is a person somebody has had a word with, and that is the only thing I have wanted since the second month and I could not have said what it was and I have said it now in about ninety seconds on a step."
 
 ---
 

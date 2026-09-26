@@ -44,7 +44,7 @@ Then she answered it, and it took about four minutes, and she did not use a word
 
 "A return like that one goes out to a district, and this empire has about nine hundred of them, and the office sends one to every one, and each one asks the only question this empire knows how to ask a district about a person, which is *where is that person*, and each one comes back in a column with a heading over it with whatever the district had. A district's roll of households has a household in it. It does not have a person in it, and it certainly has not got a person of twenty in it, and it has not got consent in it, and it has not got a claim in it, and the form on your sheet says in its own words that the roll does not list rights, holdings or claims.
 
-"So the answer that came back is correct. The answer is a household. The box wanted a person and a household is what the roll had, and the office wrote the household down because the alternative was writing nothing, and a person who writes nothing in a box is a person who has been struck out with a pen and not a rule, and I have seen that on about four hundred of these in nine years and I could not tell you one of the people who did it.
+"So the answer that came back is correct. The answer is a household. The box wanted a person and a household is what the roll had, and the office wrote the household down because the alternative was writing nothing, and a person who writes nothing in a box is a person who has been struck out with a pen and not a rule, and I have seen that on more of these in nine years than I could put a figure on, and I could not tell you one of the people who did it.
 
 "**And the word resident means what it has always meant, which is *on the roll at a door*, and it does not mean living there, it does not mean paying anything, it does not mean anybody has agreed to anything, and a man can be resident on four rolls in four districts in this empire and be on none of them in the sense he means.**"
 
@@ -54,7 +54,7 @@ The man did not say anything for about a minute.
 
 "That is not what I asked."
 
-"It is exactly what you asked, and you asked it well, and I would like it noticed that you asked it because you were afraid, and not because a room wanted a record." She turned the return round on the sill so it was facing him. "**Nobody has ever asked one of these in this building. I have been at this window nine years and the only person who has ever asked a form what a word on it means is a man who came in afraid about his own household, and he is not a lawyer and he is not a clerk and he has no reason that is anybody else's reason.**"
+"It is exactly what you asked, and you asked it well, and I would like it noticed that you asked it because you were afraid, and not because a room wanted a record." She turned the return round on the sill so it was facing him. "**Nobody has ever asked one of these in this building. I have been at this window nine years and the only person who has ever asked me what a word on a form means is a man who came in afraid about his own household, and he is not a lawyer and he is not a clerk.** And I would like it noticed that he has no reason that is anybody else's reason, and I will tell you what I know besides, and it is not much: it is the second time in a hundred and forty years that anybody has asked another person what a word on a form meant, and the first one was a room that wanted a record, and neither of the two of them is a plan."
 
 "I would rather not have asked," he said.
 

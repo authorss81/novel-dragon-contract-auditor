@@ -111,7 +111,7 @@ He is not a clerk and he does not read a return and he has carried trays up and 
 
 And she answered him.
 
-She answered him out loud, in a corridor, in a room with a rail nowhere in it, in about four minutes, standing at the end of a table with a tray between them, and she told him what the box is and where the words come from and that the box is printed in about nine hundred buildings and that the office is the only place in this empire that fills it in and does it right, and she told him that what goes in that column is a household or a company and that nobody has ever asked which of the two a thing is, and she told him the definition, and the roll, and the four miles of road, and the day in the fifth month, without once saying the name.
+She answered him out loud, in a corridor, standing at the end of a table with a tray between them, and it took about four minutes, and she told him what the box is and where the words come from and that the box is printed in about nine hundred buildings and that the office is the only place in this empire that fills it in and does it right, and she told him that what goes in that column is a household or a company and that nobody has ever asked which of the two a thing is, and she told him the definition, and the roll, and the four miles of road, and the day in the fifth month, without once saying the name.
 
 She did not tell him her own name. He knows it. It is on a door and it is on nineteen years of books and he carries trays for the room.
 
