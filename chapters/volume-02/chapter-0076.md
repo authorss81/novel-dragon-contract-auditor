@@ -2,7 +2,7 @@
 
 The papers from the morning were on her desk at about the sixth hour in two piles, and the clerk's room was empty because the clerk was in the other pile's pile of work, and Joane Tranter has been a magistrate of that court for nine years and has never once sent anybody to fetch a thing she could go and get herself.
 
-She had read the works' return four times since the twelfth month. It is a printed sheet with forty-one returns on it and the fortieth and something is the crossing, and the figure against it, in a hand of about fifty years, is three hundred and eighty-eight.
+She had read the works' return four times since the twelfth month. It is a printed sheet with forty-one returns on it and the fortieth of them is the crossing, and the figure against it, in a hand of about fifty years, is three hundred and eighty-eight.
 
 She had never once asked what it was a number of.
 
