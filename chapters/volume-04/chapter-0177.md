@@ -28,7 +28,7 @@ Bess Tarrant was in it. She had not asked for any of it to happen and she had no
 
 The second person was a girl of about nineteen who came to the door for a bundle of kindling and was in the room a few minutes because there was nowhere to put the kindling.
 
-She was not asked her name. She did not give it. She was not thanked and she did not expect to be, and there is no form anywhere that says she was ever there, and she has a bundle of kindling and a story about a room in a house about four miles off a road, and she is not going to be a character in anything.
+She was not asked her name. She did not give it. She was not thanked and she did not expect to be, and there is no form anywhere that says she was ever there, and she has a bundle of kindling and a story about a room in a house about four miles off a road, and she will be asked about it by nobody as long as she lives.
 
 **A second person in a room and not a party to the thing.** She was nineteen and she is not a party to a dead woman's name and neither is the woman of sixty-three and neither is the man of thirty-eight standing by the shutter, because he is a party to the same instrument and there are two boxes on one form with their names in them and nobody has signed either.
 
@@ -90,11 +90,15 @@ And the girl of nineteen did not read it back to her, because the fourth line sa
 
 ---
 
-And then Marn Ottery read it back, twice, the second reading slower, to a woman of sixty-three in her own kitchen, and the girl of nineteen watched her do it and did not understand where it came from and has not since.
+And then Marn Ottery read it back, once, in the ordinary way, to a woman of sixty-three in her own kitchen, and the girl of nineteen watched her do it and did not understand where it came from and has not since.
 
-"It is not what I remember," said Bess Tarrant, the second time.
+"It is not what I remember," said Bess Tarrant.
 
-"That is the correct answer and it is the answer I gave you in the house and I am giving it again," said Marn Ottery. "**A person remembering a thing and a person reading a thing back are two different acts and only one of them is evidence.** And you have now got both of them in one room on the same afternoon and they do not agree, and that is not a fault in either of them and it is not going to be settled by anybody and there is no form for it."
+"You said that to me in the house up the lane and I gave you the answer then," said Marn Ottery, "and I am not going to give it to you twice. **A person remembering a thing and a person reading a thing back are two different acts and only one of them is evidence, and it does not change because you have now heard it a second time.** You have the words. You are not going to get any nearer to them by a second afternoon at it."
+
+"Then what am I to do with them."
+
+"Carry them," said Marn Ottery. "That is what a person does with nine lines in her own hand. It was never going to be a comfort and I am not going to stand in this kitchen and hand you one."
 
 ---
 

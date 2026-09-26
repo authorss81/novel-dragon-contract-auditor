@@ -2,7 +2,7 @@
 
 Here is what the third week of the first month of the year after leaves standing, in the plainest words there are, and none of it is a question and none of it has been answered by anybody.
 
-Tamsin Rook wrote it out at about the ninth hour on the fourth day of the third week, at a table in a room in a city about four hundred and thirty miles up this river, with about nine hundred blanks in a box under a counter on the other side of the floor and a woman of thirty-four asleep on a bench for four hours because she walked six days.
+Tamsin Rook wrote it out at about the ninth hour on the fourth day of the third week, at a table in a room in a city about four hundred and thirty miles up this river, with about four hundred blanks in a box under a counter on the other side of the floor and a woman of thirty-four asleep on a bench for four hours because she walked six days.
 
 She read it back twice, the second reading slower.
 
@@ -120,7 +120,7 @@ A woman of twenty-four has said the price of a party out loud four times and onc
 
 She has used the rule of the twelfth month of last year once in this stretch of it and been refused it in a room, in words, with a date. Her third line forbids advice and her fourth line says a fact is not advice, and she has said the words more times than she can count in four months.
 
-There is a drawer in a room in this city with four envelopes in it, one of them there since the first month of the year before last, unsent, unopened, and three others. It is the fifth time in two years she has not thought about it and she is not going to start now.
+She has not asked anybody for anything since the day she was refused in a room, and nobody has asked her for anything either, and those are two facts about the same week and only one of them is in a book.
 
 ---
 

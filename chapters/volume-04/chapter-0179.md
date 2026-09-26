@@ -1,8 +1,8 @@
 # Chapter 179: What the Blankness Is
 
-Nobody in the history of this empire has ever been told that being made poor was the way they were made safe, and the reason nobody has ever been told is that it was done correctly, and the person who did it was the person it was done to, and she was the only one in the room who could.
-
 Marek Kest worked that out at about the second hour of the fourth day of the third week of the first month of the year after, in a room in a city about four hundred and thirty miles up this river, with a roll of holdings open on a table and a woman of twenty-four standing at a window and a clerk of thirty-four sitting down because she has been on her feet for six days.
+
+He had been carrying the plain meaning of it for about a month and it had not meant anything, and at about the second hour on that fourth day it meant one thing and it meant it plainly. Nobody in the history of this empire has ever been told that being made poor was the way they were made safe, and the reason nobody has ever been told is that it was done correctly, and the person who did it was the person it was done to, and she was the only one in the room who could.
 
 It took about nine minutes. Everything after that took the rest of the week and most of him.
 
@@ -86,13 +86,15 @@ There was no forgiveness in that room and there was not going to be and everybod
 
 Marek Kest did not say his mother was right. Tamsin Rook did not put her own work down. Marn Ottery did not say she would have done the same, and did not say she would not have. **Nobody said anything at all about a dead woman except one fact.** The fact is that she was a person who could be made to answer for nothing, and she did it to herself, on purpose, with a pen, in about nine minutes, and that is a thing a record can hold and a person cannot forgive.
 
+And the witness on that line is dead, and the register has been saying in the office's name for a hundred and forty years that she was told, and the only person left in that room is in the third column under no heading at all, and she has been asked the fifth line of a printed form, once, in a kitchen, and it is the first question in a hundred and forty years that anybody was entitled to put to her, and nobody who was in that room is going to put another one to her.
+
 ---
 
 And there is one more thing in that room, and it is not part of the three, and Marn Ottery brought it herself at about the fifth hour of the same day and would not leave it where it was.
 
 She had the register out of the third gallery and she had it open on a table and her hand flat on the fifth column.
 
-"I have been sitting with this since the eighth hour yesterday," she said. "I have got about four hundred lines in it in five columns and the fifth one is wrong in every one of them, and I have got a printed form four feet away with the fifth line on it, and the fifth line is a question, and the answer to it is in about nine hundred and forty cases and none of the five columns has got a place to put it. **So I can correct it, and I want that said first.** Everybody in this room is about to hear the worst of it and the worst of it is that I can do it."
+"I have been sitting with this since the eighth hour yesterday," she said. "I have got about four hundred lines in it in five columns and the fifth one is wrong in every one of them, and I have got a printed form four feet away with the fifth line on it, and the fifth line is a question, and the answer to it is standing in the four columns either side of it, and not one of the five has got a place to put it. **So I can correct it, and I want that said first.** Everybody in this room is about to hear the worst of it and the worst of it is that I can do it."
 
 "Go on," said Marek Kest.
 

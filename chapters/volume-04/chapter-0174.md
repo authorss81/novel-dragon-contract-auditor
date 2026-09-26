@@ -82,7 +82,7 @@ And there is a second thing on the bench, and it is the only thing in the room t
 
 They stood in the lane for a while.
 
-"Offices that keep a house like this shut it," said Marek Kest. "That is what it is. It is not a house anybody lives in. It is a house a thing gets shut inside until somebody with a particular kind of standing asks for it, and the standing is not a rank, and it is the only standing in this empire that cannot be given to a person by anybody, and I have not got it and I have not any idea what it is called."
+"Offices that keep a house like this shut it," said Marek Kest. "That is what it is. It is a witness house. **That is the name of the kind of thing and I had it from a woman of twenty-four in a corridor four hundred and thirty miles up this river, and she wrote it down with the day on it, and I am not going to say where she got it either.** It is not a house anybody lives in. It is a house a thing gets shut inside until somebody with a particular kind of standing asks for it, and the standing is not a rank, and it is the only standing in this empire that cannot be given to a person by anybody, and I have not got it and I have not any idea what it is called."
 
 "Can it be shut again?"
 

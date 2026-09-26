@@ -4,7 +4,7 @@ She wanted to know what she had written down, and there was no way on earth for 
 
 Bess Tarrant is sixty-three. She keeps a house at the end of a lane about four miles off the old river road. She cannot read a paragraph and has never been able to and was not taught at a school that anybody in this lane has ever heard of. She has a bundle of kindling under her arm most days because a man at the top of the lane cuts it and sells it at every door on this side of the water and hers is the one nearest the end.
 
-She is not a device and she is not owed anything and she does not know that anything is happening.
+She has a house at the end of a lane, and not one idea that a thing she did in a room is written down about four miles up that lane in a hand she would know if she looked at it.
 
 ---
 
@@ -72,7 +72,9 @@ She read it.
 
 Not off the sheet. Off the book, on the bench, with the lamp on it and her hand flat on the page, and she read the fourth column of that line, which is in a woman's hand and not in the office's, and the column beside it is empty. She read it once and then she read it again, and the second reading was slower.
 
-Nobody in the room had decided that. It was the way the woman of thirty-four had been reading things out loud at a counter for eleven years, about nine hundred times, and the way a girl of seventeen had been reading things out loud on a platform in the cold for about a season, and neither of them has ever explained it to anybody and both of them have been asked and one of them has said out loud where she got hers and the other one has not.
+"Twice," said Marek Kest. "Why twice."
+
+"Because I have read things twice at a counter for eleven years," said Marn Ottery, "and a girl of seventeen has been reading things out loud on a platform in the cold for about a season four hundred and thirty miles down this river, and both of us have been asked about it, and I am not going to answer you in a room with a woman of sixty-three in it, and you may write that down in your own book with the day on it."
 
 **The first reading is for the words and the second reading is for the people who did not have them the first time.**
 
@@ -141,6 +143,8 @@ The lamp guttered and neither of them did anything about it.
 "I have not got one word to say about my mother," he said. "I want that written down in the room, in those words, because in about four years there is going to be somebody with a pen who is going to want to know what I thought, and he is going to find the four words and they are going to be the true ones."
 
 ---
+
+They went back up the lane after that, all three of them, and Bess Tarrant came because she was not going to be left out of the part where she found out. It is about four hundred yards and the rain had got into it, and Marn Ottery said out loud on the way up that a thing said in a kitchen about a house four miles off a road is a thing said in a kitchen, and that if the clerk of thirty-four was going to say the harder half of it then she was going to say it in the room the words were written in.
 
 "Did I do it wrong," said Bess Tarrant.
 

@@ -55,7 +55,7 @@ The register is on the bench and it is a bound book about the size of a hymn boo
 
 It has five columns.
 
-The first is a name. The second is a day. The third is the second person. The fourth is what was said, and it is the widest of the five, and it is full, and it is full in about nine hands and every hand in it is the hand of a person who was not paid.
+The first is a name, and the name is the witness. The second is a day. The third is the second person. The fourth is what was said, and it is the widest of the five, and it is full, and it is full in about nine hands and every hand in it is the hand of a person who was not paid.
 
 The fifth column has a heading over it.
 
@@ -101,7 +101,7 @@ A person misses a day.
 
 The first column has a name in it. Marek Kest read it and read it again and then put the lamp down on the bench about a foot away from the book so that the light would not be on it, which is a thing a person does with a book they are not going to steal from, and he noticed himself doing it.
 
-The name is **Ilyra Kest.**
+The name is **Ilyra Kest.** She is the witness on that line, and nothing over the column says so, and there is no form anywhere in this empire that says what a witness is, and there does not have to be one, because a witness is made by being asked and by not being made a party.
 
 The third column has a name in it and it is a different hand and it is a woman's hand and it is not the same person.
 

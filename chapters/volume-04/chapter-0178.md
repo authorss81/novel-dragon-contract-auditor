@@ -1,12 +1,12 @@
 # Chapter 178: A Column Against Its Form
 
-A copyist's trade is not writing a thing out again. It is putting a thing that is in front of her onto a thing that is not, and being exact about it, and knowing which of the two she has done.
-
 Marn Ottery came back up the old river road in six days in the first week of the first month of the year after and walked every one of them, and she got to the fourth counter of the Notaries' Table in Auremar on the sixth day at about the fourth hour, and the counter was open, and a girl of about twenty-five was at it, and the girl said the counter had been shut for four days and that nobody had told her anything and that she had been at it every day anyway.
 
 That is the whole of what she got for it, and she has said the price out loud twice, in a lane and on a towpath, and the second time she said it to a man of thirty-eight who had walked the same road five times and who told her that a day of that wage is a little over two shillings and fivepence, and she said, "Then I have spent more than you have and I have never once been in a cart, and I would like that entered somewhere."
 
 It is not entered anywhere.
+
+A copyist's trade is not writing a thing out again. It is putting a thing that is in front of her onto a thing that is not, and being exact about it, and knowing which of the two she has done.
 
 ---
 
@@ -38,7 +38,7 @@ Tamsin Rook knew it. Tamsin Rook was at the counter in the third gallery with a 
 
 Then she went and looked for her own name.
 
-She did not decide to. She was standing in a gallery with a register open and about nine hundred of the same shape in her head, and she said out loud, in the ordinary way, to nobody, that a person who has spent eleven years putting names into columns knows exactly which column she is in and exactly which hand is going to be in it, and that if she is going to say out loud that a fifth column is a copy of a heading and not an answer then the first person she has to say it to is herself.
+She did not decide to. She was standing in a gallery with a register open and a hundred and forty years of the same shape in her head, and she said out loud, in the ordinary way, to nobody, that a person who has spent eleven years putting names into columns knows exactly which column she is in and exactly which hand is going to be in it, and that if she is going to say out loud that a fifth column is a copy of a heading and not an answer then the first person she has to say it to is herself.
 
 It is a roll of persons who have been parties to instruments. It is a district roll and it is not the register of runs that is on the high shelf in this building and is not a copy of it, and the two are about four bays apart and nobody has ever compared them either.
 
