@@ -1,6 +1,6 @@
 # Chapter 116: A Rule That Certifies Itself
 
-The north bay of the store off the Slade is thirty-one foot by nineteen with the floor a foot off the ground, and it has a bench against the north wall that came with the building, and a door in the west end whose lintel has dropped about half an inch in about forty years and which has never been packed and does not shut. It holds about thirty and the miller has counted it twice with a crowd in it. It is cold at the seventh hour in the last week of the third month and it is warmer than nine kitchens, because nine kitchens have eleven people in them and this has thirty.
+The north bay of the store off the Slade is thirty-one foot by nineteen with the floor a foot off the ground, and it has a bench against the north wall that came with the building, and a door in the west end whose lintel has dropped about half an inch in about forty years and which has never been packed and does not shut. It holds about thirty and the miller has counted it twice with a crowd in it. It is cold at the seventh hour on the twenty-eighth day of the third month and it is warmer than nine kitchens, because nine kitchens have eleven people in them and this has thirty.
 
 Nobody rented it. It was given on the sixth day of the third month, for a year, in a doorway, in about four minutes, and it costs nothing, and the whole of the Slade Cut Company's money is four shillings a year and it is the rent of the other end of the same building.
 

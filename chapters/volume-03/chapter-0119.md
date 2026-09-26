@@ -42,7 +42,7 @@ Nine people said nothing at all for about four seconds, which is about nine seco
 
 "That is the condition. **I will hold the work. I will not pay for it out of him, and if nobody can pay for it out of anything then the work waits, and I would rather the work waited than that it be done free for the second time.**
 
-"And the second half of the condition is a date and I am putting the date on it myself because nobody is going to give me one. **The fourth week of the fourth month, and not one day past it, because that is the week before the water.**"
+"And the second half of the condition is a date and I am putting the date on it myself because nobody is going to give me one. **The second week of the fourth month, and not one day past it, because that is the last week before the water.**"
 
 ---
 
@@ -118,7 +118,7 @@ She sat down on the upturned bucket that has been in that shed since her father'
 
 They put her name at the foot of it at about the ninth hour, and the date against it, and Rennick Adley wrote it in the store afterwards with the day on it in his own hand, and he wrote four things and read them back.
 
-> *Held, the thirtieth day of the third month, at about the seventh hour, by H. Wray, foreman, in her own name. The ford: the two posts in their holes to the depth as they stood, the nine stones of the throat bedded, the ford looked at as a work. The fourth week of the fourth month, and not one day past it.*
+> *Held, the thirtieth day of the third month, at about the seventh hour, by H. Wray, foreman, in her own name. The ford: the two posts in their holes to the depth as they stood, the nine stones of the throat bedded, the ford looked at as a work. The second week of the fourth month, and not one day past it.*
 >
 > *To be paid out of something with a figure on it. Not out of a wage in a city. There is no such thing at present and the work waits rather than be done a second time for nothing.*
 >

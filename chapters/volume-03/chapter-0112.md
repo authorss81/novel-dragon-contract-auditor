@@ -111,7 +111,7 @@ He did not answer the letter that day either, and he answered it on the ninth, i
 >
 > *I am not asking you for anything and there is no money in this. W. Sayer.*
 
-And the two letters went up and down a four-mile road inside three days, and neither of them contained a single word that could be acted on by anybody, and both of them had a person's name at the foot of them, and the man who received the second one read it in a store and put it in the Company's book with the day on it against the entry, **and read it out loud to about thirty people in a room that was not a kitchen six days later, and it was the first thing anybody had said in nineteen years to tell a woman of sixty-four that her no had been the right one.**
+And the two letters went up and down a four-mile road inside three days, and neither of them contained a single word that could be acted on by anybody, and both of them had a person's name at the foot of them, and the man who received the second one read it in a store and put it in the Company's book with the day on it against the entry, **and read it out loud to about thirty people in a room that was not a kitchen nineteen days later, and it was the first thing anybody had said in nineteen years to tell a woman of sixty-four that her no had been the right one.**
 
 ---
 

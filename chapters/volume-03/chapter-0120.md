@@ -101,7 +101,7 @@ And there is a third date and Rennick Adley does not know it and cannot find it 
 
 "I asked," said Rennick Adley. "I have been up four roads and one towpath in three days and I asked a foreman, a book-keeper, a miller, a chairwoman, a clerk of a water office who would not answer me and a doctor, and I have asked about the water, and I have not asked about that date because I do not know it exists, and I have not asked about it because **if there is a thing in this matter that a book-keeper of a company is not to know about, then that thing is probably the only thing holding that company together.**
 
-"So there are three dates and I can move none of them. **A water in the third week of the fourth month is not a thing a court can be asked about. A sitting in the first week of the fourth month is four weeks early and there is no form for the gap. And a third thing in the fourth week of this month that I do not know about and will not try to.**
+"So there are three dates and I can move none of them. **A water in the third week of the fourth month is not a thing a court can be asked about. A sitting in the first week of the fourth month is four weeks early and there is no form for the gap. And a third thing on the last day of this month that I do not know about and will not try to.**
 
 "Nobody in this matter can move any of the three. That is the sentence and I have come four miles to have it written down by a clerk in a form with a blank line at the top of it."
 
@@ -155,6 +155,6 @@ A court clerk of the Mosswake Roll Court admitted an application on the last day
 
 The line at the top of the form is for the head of the body and it is blank and it stays blank.
 
-And nobody in this matter can move any of the three dates: **a man of twenty-nine at the far end of the cut has until the fourth week of the third month to say one word that would void the only sheet in that district which gave a flood authority to a person instead of a body, and the court will not sit about a bank until the first week of the fourth month, and in a bay in a mill yard a rule binds about thirty people out of about ninety-one households and says nothing whatever about the other about sixty, and the water is in the third week of the fourth month.**
+And nobody in this matter can move any of the three dates: **a man of twenty-nine at the far end of the cut has until the last day of the third month to say one word that would void the only sheet in that district which gave a flood authority to a person instead of a body, and the court will not sit about a bank until the first week of the fourth month, and in a bay in a mill yard a rule binds about thirty people out of about ninety-one households and says nothing whatever about the other about sixty, and the water is in the third week of the fourth month.**
 
 And about four hundred and thirty miles away, at the fourth counter of a notary's table, a shilling's worth of good paper with four lines on it is lying in a book with no office on it, and the fourth of the four lines is blank.

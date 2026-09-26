@@ -6,7 +6,7 @@ The building has a south end and a north end. The south end is where the book is
 
 It is the biggest room within two miles of the Slade end that anybody in ninety-one households can stand in.
 
-On the sixteenth of the first month, in the mill yard, in the middle of an afternoon, a man of about thirty-eight said that the north bay was empty from about the middle of the fourth month to about the middle of the ninth, and that a body could hold a meeting in it, and that he was only saying it.
+On the sixteenth of the first month, in the mill yard, in the middle of an afternoon, a man of about forty-six said that the north bay was empty from about the middle of the fourth month to about the middle of the ninth, and that a body could hold a meeting in it, and that he was only saying it.
 
 Rennick Adley said no.
 
