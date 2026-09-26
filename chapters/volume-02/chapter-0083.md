@@ -12,7 +12,7 @@ He read it twice at the desk with the file open, and then he said out loud, to t
 
 "Then write this. Refused. Cannot. The form is the form and I have no power to decline a form this court published, and a judge who declines a form her own court published has to write down why, and there is no why, and an invented reason in that minute book cannot be told in nine years from a real one. Entered by me, and I will sign it at the foot of the page and not at the end of the file."
 
-It is worth saying here, because it is the whole of the man, that **he is an ordinary official with a heavy file that has been heavy for years**, and that he has never had a document from a provincial court in four hundred applications, and that he is not frightened of anything, and that nothing in this chapter is his finding. **The finding is the file's.** He is the man who reads the file and writes down what is at the bottom of it, and he has been that for about twenty-six years, and there is nothing else about him now and there is not going to be anything else about him.
+It is worth saying here, because it is the whole of the man, that **he is an ordinary official with a heavy file that has been heavy for years**, and that he has never had a document from a provincial court in four hundred applications, and that he is not frightened of anything, and that nothing said this morning is his finding. **The finding is the file's.** He is the man who reads the file and writes down what is at the bottom of it, and he has been that for about twenty-six years, and there is nothing else about him now and there is not going to be anything else about him.
 
 ---
 
@@ -42,7 +42,7 @@ The second is an instruction sealed with the same device, standing in a matter i
 
 The third is the notice of a seat, given on the tenth of the fourth month, in six numbered lines, with the same device at the head of it and a seal and a name at the foot.
 
-The name at the foot of it is **Seryn Oris, First Seat**, and the name has been in this file for a month and a half, and in this chapter and in this room it is treated exactly as the file treats it, which is as a seal with a person written under it and nothing else. She is not in this room. She is not in this building. She is not examinable, because the second line of her own document says that no person of or belonging to that seat is examinable, and she is the First Seat, and the First Seat is the seat. She is not the author of the substituted wording, of the public-necessity sentence, of the altered witness order, or of the sealed instruction, and nothing that has been said in this chapter or in any room about the three marks above is a finding about her, and no court has found anything about her and none is going to. What she has done is what a seat's administrative wing has been doing for a hundred and forty years, and what the notice says in its sixth line, in its own words, is that the First Seat holds the old authority to call a succession convocation, stated without any claim upon the matter and without any threat.
+The name at the foot of it is **Seryn Oris, First Seat**, and the name has been in this file for a month and a half, and in this room it is treated exactly as the file treats it, which is as a seal with a person written under it and nothing else. She is not in this room. She is not in this building. She is not examinable, because the second line of her own document says that no person of or belonging to that seat is examinable, and she is the First Seat, and the First Seat is the seat. She is not the author of the substituted wording, of the public-necessity sentence, of the altered witness order, or of the sealed instruction, and nothing that has been said in this room about the three marks above is a finding about her, and no court has found anything about her and none is going to. What the seat has done is what a seat's administrative wing has been doing for a hundred and forty years, and what the notice says in its sixth line, in its own words, is that the First Seat holds the old authority to call a succession convocation, stated without any claim upon the matter and without any threat.
 
 "I am going to say a thing in a room," he said, "and it is not a finding and it is not going in the file, and I am saying it to you and not to the applicant because the applicant is not a party to any of the three and I have refused him four questions in a form in the last year and I am not going to make it five in a corridor.
 
@@ -70,7 +70,7 @@ He read out what he was going to read out first, which is the practice of that r
 
 He read all of it back to the room. He put it in the file. He shut the file.
 
-And then he did the small ordinary thing, which is the reason the whole of this chapter exists, and which is four lines long.
+And then he did the small ordinary thing, which is the reason the whole of the morning went the way it went, and which is four lines long.
 
 In the register of parties, in the column headed *this respondent to be served at*, he wrote: **no person. no address. this court cannot serve it.**
 

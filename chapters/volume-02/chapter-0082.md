@@ -30,7 +30,7 @@ And he read that and thought, for about four seconds, about the word at the top 
 
 It was served at the yard on the fourteenth of the fifth month, at about the eleventh hour, by an officer of the court who had served about four hundred notices in two years and who wrote the manner of service on the back in the ordinary form.
 
-It was served properly. He wants that on the page because everything in the second half of this chapter is about the fact that it was served properly.
+It was served properly. He wants that on the page because everything in the second half of the morning is about the fact that it was served properly.
 
 The woman took it. She is sixty-one and has signed one instrument in sixty-one years, in a yard, on the ninth of the ninth month of last year, on a box headed *the present holder* that she read at arm's length while a young man in a good coat stood in her yard and did not want to be unkind to her. She has refused a second instrument three times, and the third time she refused it before the form was put in front of her, because her granddaughter read it through first and found the second person's name line empty and said so out loud.
 
@@ -62,7 +62,7 @@ She said: "It says the holder. There isn't one. You told me the parish went in t
 
 "There isn't one," said Hester Crane.
 
-She said the rest of it in the yard, with the officer nine feet away and not moving, and she said it to a girl of eleven and not to a court, and it is the third of the four questions asked by a person of eleven in this book.
+She said the rest of it in the yard, with the officer nine feet away and not moving, and she said it to a girl of eleven and not to a court, and it is the third of the four questions a girl of eleven has asked in this matter, and the girl is not the one who said it.
 
 "You come and ask me whose name the word is for," she said, "and I am going to tell you and then you are going to have it in your head, and you are eleven, and in about six years you will be a woman and the word will still be in your head and I will not be able to take it out again. It is for the parish. The parish went in the sixth year. There has been nobody to send anything to since, and when a word has nowhere to go it stops being about a body and starts being about whoever is nearest, and I am the nearest, and I have been the nearest for about four years, and I did not know that is what had happened until a man in a good coat put his finger on a box in the ninth month of last year."
 
@@ -74,7 +74,7 @@ She said the rest of it in the yard, with the officer nine feet away and not mov
 
 The clerk came in on the twenty-first of the fifth month with the notice, and the magistrate was on the bench, and there was a man of sixty-four in the room.
 
-The clerk had a card of his own on the table and had had it for four days and had not opened his mouth about it, and the reason he had not is worth about four seconds of this chapter. He had sent a question to a stranger and had put his own name at the foot of it, and he did not know yet whether that was going to get him into trouble, and a clerk who does not know whether his own name is going to get him into trouble does not raise it in a room in front of a magistrate.
+The clerk had a card of his own on the table and had had it for four days and had not opened his mouth about it, and the reason he had not is worth about four seconds of the afternoon. He had sent a question to a stranger and had put his own name at the foot of it, and he did not know yet whether that was going to get him into trouble, and a clerk who does not know whether his own name is going to get him into trouble does not raise it in a room in front of a magistrate.
 
 The man of sixty-four was not a party, was not a witness, and had not been asked to come. He had been sent a card by the clerk himself, four days before, on the stationer's own paper with the court's nothing at the head of it, and the card had one question on it: *what does the crossing at the Lowcross cost to keep, per day.* The clerk had asked it because the bill in the file was four months old and unanswerable and he had begun to be frightened of it, and because he is the kind of clerk who asks a question in writing and puts his own name at the top of it, and the card had his name at the bottom.
 
@@ -130,7 +130,7 @@ Emrys Rudd took about a minute and a half to get started and then took about fou
 
 "That is all. I have been paid a penny a day for nineteen years to sit at the end of a bar and I have been asked two questions in nineteen years and the second one is this afternoon and both of them have been asked by a woman who came herself."
 
-He stopped. There was a longish silence and then he said the last of it, and it is the ninth sentence in the minute and it is the reason this chapter exists.
+He stopped. There was a longish silence and then he said the last of it, and it is the ninth sentence in the minute and it is the reason the whole of the day went the way it went.
 
 "And I want to say one more thing and I want it in the room. I would not have said no to a man with a paper in that yard, and I want whoever writes this down to know that, because in four years there is going to be a great many of people saying that people like me and people like her were signing things they did not understand, and about half of that is true and the other half is a man at the end of a bar who could tell you what the bar was for."
 
