@@ -42,7 +42,7 @@ And the day. And her name at the foot of it.
 
 "You are entering ours," said Tamsin Rook, "and ours is not a refusal."
 
-"No. Ours is an application, and an application is the only thing I have ever entered here that was not somebody else's paper. In eleven years this office has certified what an instrument is, and what a book is and what is written in it, and what a party is, and what a document does, and it has refused two questions, and it has sold about four hundred blanks at a shilling and kept every one of them. And it has never once had a person walk up to this counter and ask to be a party to something."
+"No. Ours is an application, and an application is the only thing I have ever entered here that was not somebody else's paper. In eleven years this office has certified what an instrument is, and what a book is and what is written in it, and what a party is, and what a document does, and it has refused two questions, and it has sold more than a hundred thousand blanks at a shilling apiece in a hundred and forty years, and the four hundred that came back to the counter are under it, and it has never found out who brings them. And it has never once had a person walk up to this counter and ask to be a party to something."
 
 ---
 
@@ -58,7 +58,7 @@ And the day. And her name at the foot of it.
 
 Nobody said anything for about nine seconds.
 
-"You could fill it," said Marek Kest. "There are about four hundred blanks in that box under you and about a hundred and forty of them have a name in it and eleven of them have two."
+"You could fill it," said Marek Kest. "There are about four hundred forms in that box under you and about a hundred and forty of them have the answer on them and eleven of them have a second name as well, underneath, where a person signs."
 
 "**I could, and every one of the eleven had no more right to than I have, and not one of them was asked, and I have had three weeks to find one of them who was, and I have not found him. And the woman standing at this counter is the twelfth, and I entered her, and I did not find her, and I have not got anything here that is better than that except a wage and a slab of oak.**"
 

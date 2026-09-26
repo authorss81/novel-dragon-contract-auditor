@@ -68,7 +68,7 @@ She said the fourth thing at about the fourth minute of the ninth and she said i
 
 "**And the cheapest party in this matter is a man of thirty-eight with a discharged bar and three pounds eleven and threepence of his own wage gone nineteen days at a time, and he is in this bay, and it is not because he is honest and it is not because he is nobody's, it is because there is nothing behind him to be liable for and nobody can serve a person who has nothing to serve.**
 
-"And that is not a discovery about him. That is a discovery about the price of him. And somebody worked that out, a long time ago, and built it into a machine, and the machine is a strip of paper about two inches by one gummed to the foot of a form so that the only line on the form that matters cannot be read without tearing the office's copy. And eleven people in a hundred and forty years have torn it, and every one of the eleven was in a hurry and every one of the eleven was going to be sent for if they did not."
+"And that is not a discovery about him. That is a discovery about the price of him. And somebody worked that out, a long time ago, and built it into a machine, and the machine is a strip of paper about two inches by one gummed to the foot of a form so that the only line on the form that matters cannot be got at without damaging the sheet, and the only names that office has ever got out of the whole of it are eleven, and it got them by asking a person to stand in front of a body, and every one of the eleven was in a hurry and every one of the eleven was going to be sent for if they had not been."
 
 Nobody said anything for about nine seconds and then the foreman of fifty-one said, "Then the gum is the offer."
 
@@ -80,7 +80,7 @@ And then she stopped, and the foreman of fifty-one asked her the obvious thing, 
 
 "I have been paid a copyist's wage for four years to be able to tell whose hand a thing is in," she said. "And in fourteen months of this I have never once been on the other end of a line of paper of my own, and I have said so at a counter in a city and it was believed in about eleven seconds, and it was true when I said it and it has stopped being true at about a quarter past the second hour of the fourth week of the fifth month of next year, and I did not tell a single person in this bay that I had said it, and I am not going to now.
 
-"So I wanted them to know. And that is the whole of the wanting and I am not going to dress it up as a service to anybody, and I have watched four people in fourteen months do exactly that with something they wanted and call it a finding.
+"So I wanted them to know. And that is the whole of the wanting and I am not going to dress it up as a service to anybody, and I have watched four people this year do exactly that with something they wanted and call it a finding.
 
 "And I cannot tell you why I wanted it. **And I am not going to pretend to a room that I can.**"
 

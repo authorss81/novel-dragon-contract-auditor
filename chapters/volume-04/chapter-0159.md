@@ -6,17 +6,17 @@ The schedule is on good paper and it is about eleven inches by nine and it has b
 
 It is on four nails and there are the holes of an earlier set in the rail, and the four old nails are still in the rail, and nobody has pulled anything down.
 
-A girl of seventeen stood on that platform at about the seventh hour in the second week of the seventh month of next year and read both sheets out in plain words, twice, the second reading slower.
+Tavi Venn, who is seventeen and has been on the Reed Cut bank since she was old enough to stand on a platform, stood on that platform at about the seventh hour in the second week of the seventh month of next year and read both sheets out in plain words, twice, the second reading slower.
 
 There is a pail on that platform every evening and there has been for years. There was a girl of eleven on it with the pail.
 
-She asked four questions. Three of them were about the work and were answered. The fourth was not a question anybody asked her and it was not answered, it was stood with, and a person of seventeen stood next to a girl of eleven on a cold platform for about eleven minutes and did not tell her why she could not read, and did not tell her that anybody owed her anything, and did not use her for anything at all.
+She asked four questions. Three of them were about the work and were answered. The fourth was not a question anybody asked her and it was not answered, it was stood with, and she stood next to the girl of eleven on a cold platform for about eleven minutes and did not tell her why she could not read, and did not tell her that anybody owed her anything, and did not use her for anything at all.
 
-She is not a symbol. She is not a device. She is owed nothing. She is not Bel Skell, who is about seventy-one and lives in the fourth house at the north of the ford and cannot read a paragraph and has asked in writing to be asked at her own door four times a year and is being. **Rosamund Crane, eleven, reads, and is not this girl, and there is no reason on this earth that the two of them should ever be compared and nobody at that gate has ever compared them.**
+The girl with the pail is a girl with a pail. She is owed nothing by anybody on that bank and she was used for nothing on that bank, and the whole of what happened to her this evening is that somebody stood next to her while a thing was read out loud. There is a woman of about seventy-one at the fourth house at the north of the ford who cannot read a paragraph and has asked in writing to be asked at her own door four times a year, and she is being asked, and the two of those women have never been in a room together and it is nobody's doing that they have not: it is that nobody has ever put them in one. There is a girl of eleven on this bank called Rosamund Crane who reads, and she was not on that platform, and nobody at that gate has ever mixed the three of them up, and the reason is that only one of the three has ever asked anybody for anything.
 
 ---
 
-And then, on the same platform, with the whole of the evening's crowd on it, the girl of seventeen asked a question.
+And then, on the same platform, with the whole of the evening's crowd on it, she asked a question.
 
 She asked it once. She did not explain it. She did not apologise for it and she did not say that anybody could go home.
 
@@ -26,11 +26,11 @@ Then she read the schedule again, the second reading slower, and the fourth nail
 
 ---
 
-A person who is not a lawyer working out a thing out loud in a room, and putting it on the back of a form, is the ordinary way this matter works. A clerk of thirty-four wrote nine lines on the back of a blank in a city four hundred and thirty miles up a road and gave them to a carrier at fourpence and did not put them in a file. A clerk of thirty-four ruled three boxes on the back of another blank. A clerk of a court on a flood terrace wrote a finding in a column with her hand against every line of it and no heading over it. And the room is worse than theirs, because theirs had a stove.
+A person who is not a lawyer working out a thing out loud in a room, and putting it on the back of a form, is how most of what anybody knows about this matter was got, and none of it was got in a room with a desk in it. A clerk of thirty-four wrote nine lines on the back of a blank in a city four hundred and thirty miles up a road and gave them to a carrier at fourpence and did not put them in a file. A clerk of thirty-four ruled three boxes on the back of another blank. A clerk of a court on a flood terrace wrote a finding in a column with her hand against every line of it and no heading over it. And the room is worse than theirs, because theirs had a stove.
 
 She wrote it on the back of a leaf in her own satchel book, where she keeps what she cannot read to whom, in her own hand, with the day against each line, and the leaf went into the book and the book went into the satchel, and it is findable, and about four years from now a person with fourpence can have a copy of it out of a book with no office on it.
 
-She said the thing about the pen at the seventh hour and she said it to a man of thirty-eight who has a wage of seventeen shillings and a penny the week, and he did not laugh, and about four people on that platform looked at her, and she has been looked at by about nine hundred people in fourteen months and has never once minded being looked at and has minded being thanked about four times.
+She said the thing about the pen at the seventh hour and she said it to a man of thirty-eight who has a wage of seventeen shillings and a penny the week, and he did not laugh, and about four people on that platform looked at her, and she has been looked at by about nine hundred people since the second of the fifth month and has never once minded being looked at and has minded being thanked about four times.
 
 ---
 
@@ -48,9 +48,9 @@ A person with a wage can be made to answer for a thing.
 
 "It is the cheapest person in the matter, and there are two kinds of nothing, and the second kind is the one that matters and nobody has named it in a room yet." Tavi Venn put her hand flat on the bench. "**Not *has no money*. Has nothing that anybody can be made to answer for. No house. No share. No claim that anybody can enforce. Nothing with a name on it that a court can take off a person and give to another person.**"
 
-"A person with four shillings a year in a book and a shop that lost its credit," said somebody.
+"A person with a shop is not the cheapest person in this matter," said the woman with the shop, who had come down off the platform to ask it and had not gone back up. "That is me. I have got a shop and the shop has lost its credit and I have been eleven months not knowing what I am, and you have told me what I am this morning and I would rather you had not."
 
-"A person with four shillings a year in a book and a shop that lost its credit," said Tavi Venn, "has got a shop. **A shop is a thing somebody can be made to answer for. I am not being unkind. I am saying that a shop is a road into a person and a wage is a road into a person, and both of those roads are open to anybody who wants to go down them, and they are open now and they are open tomorrow and they are open to about nine men in three gangs who have asked in writing for the name of the man who instructs them and have not been answered, and one of them has said out loud that asking may have cost him the contract.**"
+"**A shop is a thing somebody can be made to answer for.** I am not being unkind. I am saying that a shop is a road into a person and a wage is a road into a person, and both of those roads are open to anybody who wants to go down them, and they are open now and they are open tomorrow and they are open to about nine men in three gangs who have asked in writing for the name of the man who instructs them and have not been answered, and one of them has said out loud that asking may have cost him the contract."
 
 ---
 
@@ -70,7 +70,7 @@ A bay of about thirty did not make a sound.
 
 "So the person who arranged the first one is the only person who can say which of the two was meant. **And she is nearly always the person who arranged it, because she is the one who could.**"
 
-Nobody said the word *eligibility*. There is a clerk in a city four hundred and thirty miles up a road who has it in a book and it is not on this page and it is not going to be on this page in this matter for a long time.
+Nobody in that bay said the word *eligibility*. It is in a book in a city four hundred and thirty miles up a road, it has been in books like that book for a very long time, and no clerk who works at that counter has ever had cause to use it, and that is not because of anything anybody has done in this bay.
 
 ---
 

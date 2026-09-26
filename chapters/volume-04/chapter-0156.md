@@ -10,7 +10,7 @@ They went down it in the rain for two days and the third day was the day the ari
 
 "I have not the least idea what that is," said Tamsin Rook.
 
-"**It is a week of seventeen shillings and a penny divided into seven.** It is not divided into working days, because nobody has ever divided it into working days, and the water office divides it into working days and the working days are forty-five pence, and forty-five pence and two shillings and fivepence do not agree with one another and I have known that for fourteen months and I have never been able to make them agree, and I have stopped trying, and I have not told anybody that I have stopped trying."
+"**It is a week of seventeen shillings and a penny divided into seven.** It is not divided into working days, because nobody has ever divided it into working days, and the water office divides it into working days and the working days are forty-five pence, and forty-five pence and two shillings and fivepence do not agree with one another and I have known it for longer than I have been standing in this bay and I have never been able to make them agree, and I have stopped trying, and I have not told anybody that I have stopped trying."
 
 "Six days."
 
@@ -62,7 +62,7 @@ A girl of seventeen stood on the platform at the Reed Cut gate at about the seve
 
 Nobody gave her a reason. Nobody has ever given her a reason. **She asked four questions and three of them were about the work and were answered, and the fourth one was not a question anybody asked her and it was not answered either, it was stood with, and a person of seventeen stood next to a girl of eleven on a cold platform for about eleven minutes and did not tell her why she could not read, and did not tell her she was owed anything, and did not use her for anything, and was not thanked by her and did not ask to be.**
 
-That is the whole of what happened to that girl and it is not a symbol and it is not in a book and it has no name and it is owed nothing at all.
+That is the whole of what happened to that girl. She is not in a book, she has no name, and nobody owes her anything at all.
 
 ---
 
@@ -88,7 +88,7 @@ At about the ninth hour she was still at the bench, and about four people in tha
 
 "There is no room with nobody in it four hundred yards from this bay."
 
-"No," said Tamsin Rook. "**There is not. And that is the whole of what this bay is, and I have been in four of them this year on account of a piece of paper, and I have not been in one room in fourteen months that nobody had a right to be in, and I did not notice that until this month and I have not worked out what to do about it and I am not going to say it again.**"
+"No," said Tamsin Rook. "**There is not. And that is the whole of what this bay is, and I have been in four of them this year on account of a piece of paper, and I have not been in one room this year that nobody had a right to be in, and I did not notice that until this month and I have not worked out what to do about it and I am not going to say it again.**"
 
 She turned back the leaves.
 

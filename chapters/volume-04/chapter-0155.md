@@ -56,7 +56,7 @@ He got a sheet of foolscap out of his coat and wrote on it in his own hand, and 
 
 She read it twice, the second reading slower, and she did not need the second reading and took it anyway.
 
-"Answered in the room," she said. "In words. With a date. **I am already in it, and I have been in it since about a quarter past the second hour this morning, and the question you have put to me does not have a third answer, so the rule does not apply, and a rule that does not apply is a rule that has been used correctly, and I would like that written down as well because it is the first time in fourteen months that one of us has got a non-use out of it and I have heard of exactly one other.**"
+"Answered in the room," she said. "In words. With a date. **I am already in it, and I have been in it since about a quarter past the second hour this morning, and the question you have put to me does not have a third answer, so the rule does not apply, and a rule that does not apply is a rule that has been used correctly, and I would like that written down as well because it is the first time since that rule was written that one of us has got a non-use out of it and I have heard of exactly one other.**"
 
 "Who was the other."
 

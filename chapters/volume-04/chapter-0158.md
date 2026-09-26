@@ -100,6 +100,6 @@ A door in the west end of a hired bay that shuts, and a lintel packed with a wed
 
 **Three doors four hundred and thirty miles apart, and no form anywhere in this empire that joins them:** a clerk's window at a court on a flood terrace, which is a door with a counter in front of it; a counter at the end of a passage in a building with a plate-glass front, which is a door with a counter in front of it; and a door in the west end of a bay, which is a door.
 
-And a woman of twenty-eight who has been paid for standing in a room for about four months and has never been asked what the room is for, and has now told a room, and has not told anybody else, and does not want to be thanked, and is not going to be a foreman, and is not a device, and is owed nothing.
+And a woman of twenty-eight who has been paid for standing in a room for about four months and has never been asked what the room is for, and has now told a room, and has not told anybody else, and does not want to be thanked, and is not going to be a foreman, and is owed nothing.
 
 And about nineteen people behind that bank who said no in a doorway and are not on anything and have not been asked again and are not going to be, and about four people who cannot read a paragraph who were never asked and never will be, and a guarantee standing offered and unanswered at no charge on a bank about four hundred and forty foot long with about sixty children under sixteen inside it, and none of it is a symbol and all of it is still there.

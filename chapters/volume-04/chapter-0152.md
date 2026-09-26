@@ -72,7 +72,7 @@ Marek Kest did not look round. Tamsin Rook did not move.
 
 And on the second morning of that week he bought a blank as well, at a shilling, and did not fill it in, and she did not ask him why, and put it in the box under the counter with the other about four hundred of them.
 
-**A form bought and not filled in is four pence of proof that the question was asked.** It is not a record, it is not a step, it will not be in anybody's file, and about four hundred years of that building's small commerce is in that box and about two hundred and sixty-one of the fourth lines in it are empty.
+**A form bought and not filled in is four pence of proof that the question was asked.** It is not a record, it is not a step, it will not be in anybody's file, and about four hundred of that building's small commerce is in that box and about two hundred and sixty-one of the fourth lines in it are empty. And none of the four hundred is a record of anything either, and I have not been able to work out how to say why, and I have had eleven years.
 
 She put the shilling in the drawer and wrote the day against it in her own column on the back of the counter, which is the only honest place for a shilling she took for something that is not on the board.
 
