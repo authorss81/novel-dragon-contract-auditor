@@ -162,7 +162,7 @@ He did not say anything for a moment.
 
 "**No.** And I am going to say the rest of it and I am going to say it well, because you have come up this hill twice in two days and you are owed a straight answer and not a kind one.
 
-"It was not your fault and it was not anybody's fault and there is nobody in this building to blame and there is nobody in that one either. **It would have happened inside a month.** A form wants a person and the district had no person and it does not have a form for nobody, and the fourth week of the season is when the first memoranda go, and the first memoranda have always had something in that box.
+"It was not your fault and it was not anybody's fault and there is nobody in this building to blame and there is nobody in that one either. **It would have happened inside a month.** A form wants a person and the district had no person and it does not have a form for nobody, and the first week of a season is when the first memoranda go, and the first memoranda have always had something in that box.
 
 "And the whole of what your four words did was move it forward by about a day and a half. That is the price. I have been in this office nine years and I have never seen the price of anything come in on foot before, and I want you to understand that what is on this counter is not a punishment and it is not a warning and it is not even a consequence. **It is a form and four minutes and a clerk who was told nothing.**"
 

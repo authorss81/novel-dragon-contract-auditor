@@ -74,7 +74,7 @@ Then the turn, and it came from the bench and not from the clerk, and it was fou
 
 ---
 
-There is a form for notifying a body. There is no form for notifying a person who has refused to give a name, and there is no form for notifying a person who cannot read a paragraph, and Ivet Sarn went through the rack at the back of the window in front of about nine people and found the first of them in about two minutes and the second of them in about nine, and the second of them is not a separate form — it is a space in the ordinary form with nothing in it, and the ordinary form says *the person notified can read*, in a place where nobody has ever put a question about that word.
+There is a form for notifying a body. There is no form for notifying a person who has refused to give a name, and there is no form for notifying a person who cannot read a paragraph, and Ivet Sarn went through the rack at the back of the window in front of nine people and found the first of them in about two minutes and the second of them in about nine, and the second of them is not a separate form — it is a space in the ordinary form with nothing in it, and the ordinary form says *the person notified can read*, in a place where nobody has ever put a question about that word.
 
 "Right," said the magistrate. "**Then this court will write it out by hand, in a clerk's hand, with the day on it, and read into the record that there is no form for a person who cannot read a paragraph and no form for a person who has no name, and both of those are facts about this building and not about the people in the lane.** And clerk, you will enter the word *described* opposite the fourth person, in your own hand, in the minute, and not in a column, because a column is a list of persons who answer for something and I am not making a list of persons who answer for something."
 
@@ -100,7 +100,7 @@ The sitting was two hours and a quarter and it rose at about the quarter past tw
 
 At about the quarter to one, when the room was empty, Ivet Sarn stood at the window with the minute in her hand and read the two figures out loud to the empty room, because she counts rooms and she had counted this one.
 
-"There were four of the four in the room," she said, "and about nine of the rest of them were outside it, in the lane and on the road, and about sixty of the about ninety-one households are not anywhere, and have not been asked, and cannot be compelled, and are not parties to anything, and are not anybody's debtors, and there is no form in this empire for compelling a person to be brought to a room.
+"There were four of the four in the room," she said, "and nine of the rest of them were outside it, in the lane and on the road, and about sixty of the about ninety-one households are not anywhere, and have not been asked, and cannot be compelled, and are not parties to anything, and are not anybody's debtors, and there is no form in this empire for compelling a person to be brought to a room.
 
 "**And that is the second time in a month that those two figures have been written on the back of a person's hand together and not apart, and the other one was a woman of sixty-four doing it in a mill yard four miles up the road, and neither of us knew about the other, and neither of us is a magistrate, and I want that written down as the finding of a clerk who is counting rooms and is not a court.**"
 

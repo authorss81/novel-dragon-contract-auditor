@@ -12,7 +12,7 @@ He got up at about the fifth hour on the ninth of the fourth month, which he doe
 
 He had looked at the face of that bank for nine years and had never once written a number about it.
 
-He wrote one on the back of his own paper. The paper is a sheet of about a third of a foolscap with a man's name at the top of it and about four hundred and forty foot of outer face in it and **nine dates in his own hand on which he saw the face move, two of which he can prove and seven of which he cannot, and he has written down which is which and why.** It is the paper he wrote in the sixth year and sent to the district works four times and that came back four times, and it has been on a bench in a hired bay in his own yard since the twenty-eighth of the third month, and about thirty people have seen it and about nine of them can read it.
+He wrote one on the back of his own paper. The paper is a sheet of about a third of a foolscap with a man's name at the top of it and about four hundred and forty foot of outer face in it and **nine dates in his own hand on which he saw the face move, two of which he can prove and seven of which he cannot, and he has written down which is which and why.** It is the paper he wrote in the sixth year and sent to the district works four times and that came back four times, and it has been on a bench in a hired bay in his own yard since the twenty-eighth of the third month, and about thirty people have seen it and nine of them can read it.
 
 He put the pole in at the third-of-the-way mark on the twenty-first of the second month — no, he could not put the pole in at the third-of-the-way mark on the twenty-first of the second month, because he was not here on the twenty-first of the second month and nobody had been.
 
@@ -74,7 +74,7 @@ And the Slade Cut Company has four shillings a year.
 
 He went to the shed at the Slade end at about the ninth hour because he had been holding a figure since the seventh hour and it had been sitting on him.
 
-There were about nine men in it. Halla Wray was there with a list and her brother was there with a barrow, and Rennick Adley was there because he is always there, and the book-keeper had a sheet of foolscap out and no pen in his hand.
+There were nine men in it. Halla Wray was there with a list and her brother was there with a barrow, and Rennick Adley was there because he is always there, and the book-keeper had a sheet of foolscap out and no pen in his hand.
 
 "Miller," said Rennick Adley. "You have had a piece of paper in your yard for six years and I have had it on a bench in your yard for ten days, and I have read it four times, and there is a figure on the back of it now that I did not see on the front, and I would like to know when you wrote it."
 
@@ -102,11 +102,11 @@ Halla Wray said: "**Say the price out loud again and say it in a form, because I
 
 "Nobody in ninety-one households has got seven shillings and sixpence."
 
-"**I know that. I have four hundred yards of your store and a shilling a quarter and I know it better than you do, because that four shillings a year is the whole of the money this Company has ever had in sixty years and it goes on keeping about nine hundred and forty names dry, and I am not going to have you take three shillings and sixpence out of a store to put a ford right, because the day that book is wet is the day a hundred names go off it and there is nobody to write them out again.**"
+"**I know that. I have four hundred yards of your store and a shilling a quarter and I know it better than you do, because that four shillings a year is the whole of the money this Company has ever had in sixty years and it goes on keeping about nine hundred and forty names dry, and I am not going to have you take three shillings and sixpence out of a store to put a ford right, because the day that book is wet is the day names go off it and there is nobody to write them out again.**"
 
 ---
 
-It went on for another half hour and nothing was agreed to, and about nine men in a shed are not a decision.
+It went on for another half hour and nothing was agreed to, and nine men in a shed are not a decision.
 
 At the end of it Halla Wray said the thing that made the half hour worth having.
 
@@ -120,7 +120,7 @@ At the end of it Halla Wray said the thing that made the half hour worth having.
 
 The notice came up the road on the tenth of the fourth month, in the afternoon, and it came to the mill yard because the mill yard is where the bay is.
 
-It is a sheet in a clerk's hand, a third of a foolscap, with a day on it, and it says that four persons at the north of the ford were heard at a court on a flood terrace on the sixth of the fourth month, and that they are parties to an application and cannot be un-named, and that one of them is the person at the second house, one the person at the third, one the person at the fourth, **and one the woman at the first house who was in her own door on the last day of the third month.**
+It is a sheet in a clerk's hand, a third of a foolscap, with a day on it, and it says that four persons at the north of the ford were heard at a court on a flood terrace on the fifth of the fourth month, and that they are parties to an application and cannot be un-named, and that one of them is the person at the second house, one the person at the third, one the person at the fourth, **and one the woman at the first house who was in her own door on the last day of the third month.**
 
 It has four names or descriptions on it and no price and no office at the top of it beyond a court's, and there is no mark on it of any kind, and it is a piece of paper about four people and it is the first piece of paper in sixty years that has ever been about anybody in that lane.
 
@@ -130,7 +130,7 @@ She is seventeen and she can read and she is not paid and cannot be, and she cam
 
 She read it out once at the ordinary speed and then she read it out again slower, because about a third of the bay cannot read a paragraph and a notice about four people who cannot read it is worse than a notice about four people who can.
 
-**She did not say what it meant.** She said that when somebody asked her, and she said it in the ordinary way, in about four words, and about nine people in that room had been spoken to by a person sitting next to them without being asked whether they wanted it, and the number of people who asked her what it meant was four, and the number of people who did not ask was about twenty-six.
+**She did not say what it meant.** She said that when somebody asked her, and she said it in the ordinary way, in about four words, and nine people in that room had been spoken to by a person sitting next to them without being asked whether they wanted it, and the number of people who asked her what it meant was four, and the number of people who did not ask was about twenty-six.
 
 And then the man whose name is at the top of the paper about the bank asked her the fourth question, which is *who read this to you, and do they get paid if you sign*, and she has heard that question asked twice in her life and she has never once been asked it by anybody it was written for.
 

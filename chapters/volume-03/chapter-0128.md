@@ -20,7 +20,7 @@ There were about thirty people in the bay, in about a foot and a half of mud tha
 
 The nine pages were read out first, because a thing on a bench is findable and a thing that is read out is heard, and about a third of the people in that bay cannot read a paragraph and had not been asked in six weeks whether they wanted anything read to them.
 
-The reader was a girl of seventeen who is not paid and cannot be, and who read it out once at the ordinary speed and then again slower, and about nine people in the room were spoken to by a person sitting next to them without being asked whether they wanted it, and the number of people who asked her afterwards what it meant was four.
+The reader was a girl of seventeen who is not paid and cannot be, and who read it out once at the ordinary speed and then again slower, and nine people in the room were spoken to by a person sitting next to them without being asked whether they wanted it, and the number of people who asked her afterwards what it meant was four.
 
 She did not tell them what it meant. She said that when somebody asked her, in the ordinary way, in about four words, and then she read the fourth page a third time to about three people who wanted that page and not the other eight.
 
@@ -34,13 +34,13 @@ And then she counted the other one, at the end, and wrote the two figures on the
 
 ---
 
-She put the question at about the seventh hour and she had written it on the back of a miller's paper and she could not read what she had written and Rennick Adley had to read it out for her, and about nine people in the room could not read it either, and about nine of them were spoken to by a person sitting next to them without being asked whether they wanted it.
+She put the question at about the seventh hour and she had written it on the back of a miller's paper and she could not read what she had written and Rennick Adley had to read it out for her, and about nine people in the room could not read it either, and nine of them were spoken to by a person sitting next to them without being asked whether they wanted it.
 
 "**One question. There is a paper on that bench with nine pages on it, and it came down four miles from a man in a city four hundred and thirty miles from here, and the seventh of those pages says, and I have had that page read to me twice, that it does not make the Slade Cut Company a guarantor of any future flood on that cut.**
 
 "**I am asking the Company whether it accepts the duty. That is the question. I have put it in the ordinary way and I would like an answer before the ninth hour.**"
 
-About nine people said something. A man at the back said the Company had not asked for it. A woman near the door said it was not theirs. A man who has been coming for nineteen years said the Company was not a person and could not be asked, and that was in the room and it was right, and Doreth Ferrow let it stand for about four seconds and then she answered it.
+Nine people said something. A man at the back said the Company had not asked for it. A woman near the door said it was not theirs. A man who has been coming for nineteen years said the Company was not a person and could not be asked, and that was in the room and it was right, and Doreth Ferrow let it stand for about four seconds and then she answered it.
 
 "No," she said. "**It cannot be asked. I want that said out loud in this room and I want it said by me, because I am the chair of it and I have been the chair of it for nineteen years and I have never once been able to say this, and it took me a week to find the honest way to say it and I have been carrying it since I found it.
 
@@ -94,13 +94,13 @@ The copy was the last thing, and it was nine minutes, and it is the only part of
 
 "A copy in the hands of one man is a copy about one man," said Tamsin Rook. "**A copy sent to a body is a copy about the body. And the difference between them is about four hundred and thirty miles of carriage and a clerk's decision, and I have made that decision four times in nine years and I have got it wrong three of them and there is no form in this empire in which a clerk is asked whether she has.**
 
-"The copy of the sitting of the sixth of the fourth month, at a court on a flood terrace four miles down this road, at which four persons at the north of the ford were heard and were told they are parties — that copy was bought at a shilling by the man who filed the application, and he took it himself, and he did not send it to the Company.
+"The copy of the sitting of the fifth of the fourth month, at a court on a flood terrace four miles down this road, at which four persons at the north of the ford were heard and were told they are parties — that copy was bought at a shilling by the man who filed the application, and he took it himself, and he did not send it to the Company.
 
 "And the judge said out loud that she had never in nine years seen anybody do that, and she was right, and he is the only person in ninety-one households who can be asked about that piece of paper, and **that is not an accident and it is not a favour. It is the only way any of this is survivable, and it was decided by a man with a shilling in his own hand and nobody asked him and I have thought about that for two days and I have decided that I am not going to find a fault in it.**"
 
 Then she said the last of it, to nobody, in about nine seconds, and Doreth Ferrow wrote it on the back of her hand under the two figures.
 
-"**A rule that only binds the people in the room binds the people in the room.** That has been said out loud in this cut three times now — in this room on the twenty-eighth of the third month, in a shed on the thirtieth of the last month, and in a chamber on a flood terrace on the ninth of the second month by a magistrate who entered it on her own motion and nobody has ever joined those three together and neither shall I.
+"**A rule that only binds the people in the room binds the people in the room.** That has been said out loud in this cut three times now — in this room on the twenty-eighth of the third month, in a shed on the thirtieth of the last month, and in a chamber on a flood terrace on the ninth of the second month by a magistrate who entered in a minute, on her own motion, that a body of persons is not a person and cannot be made one by her court or any other, and nobody has ever joined those three together and neither shall I.
 
 "And a decision with nobody's name at the foot of it is worth about a fifth of one with a name, and that figure is a clerk's own, out of her own nine years, and it is the only figure on any form in this matter, and **it is the only number I have ever been able to find in this whole matter that anybody can be shown the bill for.**"
 

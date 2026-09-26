@@ -18,7 +18,7 @@ Then he did them.
 
 The first was the rule of the meeting, entered a second time, with the day on it, in his own hand, above the entry of the twenty-eighth day of the third month, because a rule a body writes for itself with a date on it is the only paper this body has ever had and it should be in the book and not only on a bench.
 
-He read it out in the bay that evening, all nine lines, and he read it out a second time, and about nine people in that room followed the second reading by watching the sheet go up and down, which is a thing people do. It is issued by nobody, binds nobody, and any person in the room may stand up and say they never agreed to it and be believed, and the denying is in the fifth line on purpose.
+He read it out in the bay that evening, all nine lines, and he read it out a second time, and nine people in that room followed the second reading by watching the sheet go up and down, which is a thing people do. It is issued by nobody, binds nobody, and any person in the room may stand up and say they never agreed to it and be believed, and the denying is in the fifth line on purpose.
 
 "I wrote it," he said, "and I did not agree to it, and I have never agreed to it, and if anybody in this room wants to stand up and say they never agreed to it they may do so now and I will write their name in the book as a person who has denied it, with the day, and that is the one column I have ever wanted to start.
 
@@ -26,7 +26,7 @@ He read it out in the bay that evening, all nine lines, and he read it out a sec
 
 The second was the water: in on the nineteenth day of the fourth month at about the second hour of the morning, down over the twentieth and part of the twenty-first, about eleven inches in the middle of the bay at the fourth hour, nobody drowned, the bank at the third-of-the-way mark eleven feet high throughout, the ford full.
 
-The third was the lapsed list. He wrote out the whole of it, in his own hand, with the day on it, and the two figures, and the word **lapsed**, and the reason, and the foreman's name at the foot of it and the date, and he read all of it back to about nine people in the bay that evening and made a second reading of it for about nine people who could not read a word of it, and the second reading is the one he did not skip and the one he would have skipped when he was thirty-one.
+The third was the lapsed list. He wrote out the whole of it, in his own hand, with the day on it, and the two figures, and the word **lapsed**, and the reason, and the foreman's name at the foot of it and the date, and he read all of it back to nine people in the bay that evening and made a second reading of it for the nine of them who could not read a word of it, and the second reading is the one he did not skip and the one he would have skipped when he was thirty-one.
 
 The fourth was a line about the ford, the stones and the two posts, and about a clerk of the Inheritance Desk in a city four hundred and thirty miles from that bank, whose name is at the foot of it with a date of the first week of this month, and whose term is a year and whose review is in the first month of next year.
 
@@ -48,7 +48,7 @@ The fifth thing was the figure. It is the only figure anybody on that cut could 
 >
 > *There is no figure on this list for what it costs and there is no figure on it for who pays it. The only figure in ninety-one households that anybody can say is a day rate of forty-five pence on five men and a boy, which is two days at seven shillings and sixpence, and the Company has four shillings a year, of which the whole is the rent of the south end of this store at a shilling a quarter, taken out of this book four times a year. **Nobody has offered to pay this and nobody is going to be asked, and this list is going to sit on that bench with nothing on it but a name and a day until somebody finds a figure, and finding one is not a thing this body can do.***
 
-Then he read that out twice as well, and about nine people in that bay could not read it and were spoken to by somebody sitting next to them without being asked whether they wanted it, which is the fourth of a rule written on the twenty-eighth day of the third month and entered in this book a second time this week.
+Then he read that out twice as well, and nine people in that bay could not read it and were spoken to by somebody sitting next to them without being asked whether they wanted it, which is the fourth of a rule written on the twenty-eighth day of the third month and entered in this book a second time this week.
 
 ---
 
@@ -64,13 +64,13 @@ The sixth, seventh and eighth things were the four records, and he wrote them on
 >
 > **These are four records. They are not copies of one another and they do not confirm one another. Any two of them can be compared and a comparison will be wrong, because they were made for four different purposes by four different people for four different reasons, and one of them has a column with no heading and one of them has no heading at all and one of them has a clerk's figure on it and one of them has a man's age on it.**
 
-He read that out twice and then he said the rest of it out loud, in the bay, standing at the west end, in about nine sentences, and about four people heard all of it.
+He read that out twice and then he said the rest of it out loud, in the bay, standing at the west end, in nine sentences, and four people heard all of it.
 
 "**A line between two things is a chain and a chain is an invention.** That is not mine. A magistrate of that court entered it in the ninth of the second month in a minute, on her own motion, about a file of about nineteen years back, and she wrote that a clerk who thinks somebody owes something is the beginning of everything that has gone wrong in that district since the sixth year.
 
 "And I am not going to line these four up. **I have wanted to since the fourteenth of this month and I have not, and the reason I have not is that the day somebody lines them up, all four of them become evidence of one thing instead of four, and about four hundred and forty foot of bank will then be a matter with a record behind it, and we have not got one and we are not going to get one by joining four things that were never joined.**"
 
-And then he said the other thing, which is the thing he has been not saying since the second of the third month, and he said it in the bay and not in a room, and about nine people heard it and about four of them understood it.
+And then he said the other thing, which is the thing he has been not saying since the second of the third month, and he said it in the bay and not in a room, and nine people heard it and four of them understood it.
 
 "There is a name in this book on a page from ninety-one years back. **Tarn Skell, of the Slade.** The eleventh of eleven names on that page, and a map of nineteen years back has him in it as the head of a household of nine at the north of the ford, and there are four houses of Skells at the north of the ford now and one of them belongs to a woman of about seventy-one who cannot read a paragraph and has a leg.
 
@@ -98,7 +98,7 @@ It came in a cart with some seed and it is addressed to **the Slade Cut Company,
 
 **A body cannot be served. A body cannot refuse. A body cannot open its own post, and there is no form in this empire in which a body may say *I have no person*, and there is no head of the Slade Cut Company and there has never been one and a magistrate has entered that one cannot be had.**
 
-So the letter is standing against the wall of a mill yard in a tarpaulin, and about nine people have looked at it and read the outside of it and about four of those can read a paragraph, and nobody has opened it, and nobody in ninety-one households can be shown why not.
+So the letter is standing against the wall of a mill yard in a tarpaulin, and nine people have looked at it and read the outside of it and four of those can read a paragraph, and nobody has opened it, and nobody in ninety-one households can be shown why not.
 
 And Rennick Adley, who has walked four miles up a towpath in the dark and four miles back to find out whose grandfather Tarn Skell was, and who asked at four doors at the north of the ford and got nothing at any of them, and who found a name on a page from ninety-one years back and did not go, and who has still not gone, and who has said out loud why and has not changed his mind —
 
@@ -108,9 +108,9 @@ Rennick Adley looked at the letter for about a minute and a half and then he wen
 
 **Nothing is agreed. Nobody is chosen. The Company is not a guarantor, not a party and not answerable, except that it is, and cannot say so, and has been told by a person in a room of about thirty people that a body that is given a duty and cannot refuse has accepted it.**
 
-There is a bench in the middle of a hired bay with a list of works on it and a foreman's name at the foot of it and a date, and there is a book in a store with a new hand in it, and about nine people in that bay heard a book-keeper read a page out twice and about nine of them could not read a word of it and were spoken to by somebody sitting next to them.
+There is a bench in the middle of a hired bay with a list of works on it and a foreman's name at the foot of it and a date, and there is a book in a store with a new hand in it, and nine people in that bay heard a book-keeper read a page out twice and nine of them could not read a word of it and were spoken to by somebody sitting next to them.
 
-And a woman of about thirty-one with two children came down a towpath on the twenty-third of the last month to be told that there was nothing, and is coming back, and a foreman of fifty-one is going to be asked a fifth time in a year and has not said what she will do about it, and a man of about fifty is going to be asked in about a year whether he will stand a ford for a second term, and a man of thirty-eight is four hundred and thirty miles away with a wage of seventeen shillings and a penny the week and a line on his wrist about two inches long.
+And a woman of about thirty-one with two children came down a towpath on the twentieth of the fourth month to be told that there was nothing, and is coming back on the twenty-third, and a foreman of fifty-one is going to be asked a fifth time in a year and has not said what she will do about it, and a man of about fifty is going to be asked in about a year whether he will stand a ford for a second term, and a man of thirty-eight is four hundred and thirty miles away with a wage of seventeen shillings and a penny the week and a line on his wrist about two inches long.
 
 **A burden moved onto ninety-one people is not shared. It is distributed. And distribution is what makes it permanent.**
 

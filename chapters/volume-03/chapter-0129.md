@@ -1,6 +1,6 @@
 # Chapter 129: What It Is For, the Second Time
 
-The bay has a bench in the middle of it and about nine people come to it, and on the first week of the fifth month there were about thirty and about twenty-one of them were standing up because the mud had come back with the rain.
+The bay has a bench in the middle of it and nine people come to it, and on the first week of the fifth month there were about thirty and about twenty-one of them were standing up because the mud had come back with the rain.
 
 **Marek Kest is thirty-eight and he is four hundred and thirty miles from the desk he is paid for, and he has been on this bank for eleven days.**
 
@@ -28,7 +28,7 @@ Nobody said anything.
 
 "A public duty with no name on it gets carried by whoever is standing nearest. **The nearest is a household. And a household that holds a duty produces a child that holds the duty.** That is what the four lines are for and what they have always been for, and I did not know it on the eleventh of this month and I knew it on the fourteenth of the third month and I did not look, because looking at it was in the only direction I have been forbidden to go for nine months, and I would rather have been asked a second time than be wrong in a room with a copyist in it.
 
-"And I have now been asked a second time, in a room with no copyist in it and about nine people in it who cannot read a paragraph, **and I am answering it to those nine, and not to the man of sixty, and he is not in this room and I have not written to him.**"
+"And I have now been asked a second time, in a room with no copyist in it and nine people in it who cannot read a paragraph, **and I am answering it to those nine, and not to the man of sixty, and he is not in this room and I have not written to him.**"
 
 It took about nine seconds and it was the right one and nobody in the room could tell.
 
@@ -62,7 +62,7 @@ It took him about twenty minutes and about four people read it over his shoulder
 >
 > *Consent of the foreman, asked and given in this room: the day — and her answer, and the day.*
 
-Then he ruled the last line and read all of it out, twice, in about eleven minutes, and about nine people who could not read a paragraph heard it a second time at the speed it is meant to be heard at.
+Then he ruled the last line and read all of it out, twice, in about eleven minutes, and nine people who could not read a paragraph heard it a second time at the speed it is meant to be heard at.
 
 ---
 

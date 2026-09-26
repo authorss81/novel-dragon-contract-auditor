@@ -16,11 +16,11 @@ On the tenth of the fourth month a miller had put a price on a list in this shed
 
 Nobody brought the money on the eleventh, the twelfth or the thirteenth.
 
-The thirteen hundred yards of ditch on the south side and the scour at the third-of-the-way place were on nobody's list then and are on nobody's list now.
+The hundred and forty feet of ditch on the south side and the scour at the third-of-the-way place were on nobody's list then and are on nobody's list now.
 
 There are about one hundred and forty feet of ditch on the south side. It is a figure off the Company's own book and it is the only figure of a ditch anybody in ninety-one households has.
 
-On the morning of the fourteenth she did the sum out loud in the shed, which she does, and there were about nine men in it and the lamp was not lit.
+On the morning of the fourteenth she did the sum out loud in the shed, which she does, and there were nine men in it and the lamp was not lit.
 
 "Right. **Two days of a crew is seven shillings and sixpence.** Five men at eight pence and a boy at five, forty-five pence a day on the five and one, ninety pence. I have said that figure out loud twice in the last four days and both times I have had to stop myself, because it is the smallest bill anybody has ever been asked to find for a public work on this cut and it is a stupid thing to be emotional about at my age.
 
@@ -28,7 +28,7 @@ On the morning of the fourteenth she did the sum out loud in the shed, which she
 
 "**That is the whole of the money this Company has had in sixty years and it is the rent of the south end of that store, at a shilling a quarter, taken out of the book four times a year, and it is there to keep about nine hundred and forty names dry.** And we are three shillings and sixpence short of a bill that would cost about a year and a quarter of the rent.
 
-"So you all know what I am going to say and I am going to say it anyway because a foreman who does not say the arithmetic out loud in a shed is a foreman who has somebody else doing it in a kitchen. **We are not going to take three shillings and sixpence out of a store to put a ford right. The day that book is wet is the day about a hundred names go off it, and there is nobody left in ninety-one households who is going to write them out again.**"
+"So you all know what I am going to say and I am going to say it anyway because a foreman who does not say the arithmetic out loud in a shed is a foreman who has somebody else doing it in a kitchen. **We are not going to take three shillings and sixpence out of a store to put a ford right. The day that book is wet is the day names go off it, and there is nobody left in ninety-one households who is going to write them out again.**"
 
 Somebody at the back said, "Then it does not get done."
 
@@ -70,7 +70,7 @@ He put the nine pages down flat on the bench and squared them, which is a forema
 
 ---
 
-She read the fourth page out, standing at the bench, at about the fifth hour, to about nine men of whom about three could read it.
+She read the fourth page out, standing at the bench, at about the fifth hour, to nine men of whom three could read it.
 
 It took about nine minutes and about four of the nine asked her what a word meant and she said the word again louder.
 
@@ -122,6 +122,6 @@ Then he went four miles back down the road in the rain.
 
 **A foreman who lets a work die rather than lie about where the money came from is a foreman somebody can be shown to have been right.**
 
-She said that out loud to the shed afterwards, to about nine men, and she wrote it on the lapsed list under the two figures — **seven shillings and sixpence**, and **four shillings a year, of which the whole is the rent** — and then she wrote the spring bank under that, **three pounds eleven and threepence, out of a wage of seventeen shillings and a penny the week, being three weeks of it, and paid in full, and there are no unpaid days in this matter**, and then she wrote **no** and put her own name at the foot of it and the date, which was the fourteenth day of the fourth month, and not one day past it, and Rennick Adley entered it in the store afterwards with the day on it and read it back.
+She said that out loud to the shed afterwards, to nine men, and she wrote it on the lapsed list under the two figures — **seven shillings and sixpence**, and **four shillings a year, of which the whole is the rent** — and then she wrote the spring bank under that, **three pounds eleven and threepence, out of a wage of seventeen shillings and a penny the week, being three weeks of it, and paid in full, and there are no unpaid days in this matter**, and then she wrote **no** and put her own name at the foot of it and the date, which was the fourteenth day of the fourth month, and not one day past it, and Rennick Adley entered it in the store afterwards with the day on it and read it back.
 
 And about one hundred and forty feet of ditch on the south side and the scour at the third-of-the-way place went on to being on nobody's list, and the ford, the stones and the two posts were on a list with a name at the foot of it and a date and two figures and the word **lapsed** on it, and the bank stood eleven feet high where a crew had left it on the twenty-first of the second month, and the water was in the third week of this month.

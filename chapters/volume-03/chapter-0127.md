@@ -1,6 +1,6 @@
 # Chapter 127: A Household That Has Just Been Helped
 
-The north bay of a miller's grain store off the Slade is thirty-one foot by nineteen with the floor a foot off the ground. It has a bench against the north wall that came with the building, a bench in the middle of it that four men and about nine other people carried in about four minutes on the twenty-eighth day of the third month, and a door in the west end whose lintel has dropped about half an inch in about forty years and which has never been packed and does not shut.
+The north bay of a miller's grain store off the Slade is thirty-one foot by nineteen with the floor a foot off the ground. It has a bench against the north wall that came with the building, a bench in the middle of it that four men and nine other people carried in about four minutes on the twenty-eighth day of the third month, and a door in the west end whose lintel has dropped about half an inch in about forty years and which has never been packed and does not shut.
 
 It holds about thirty. The miller has counted it twice with a crowd in it.
 
@@ -8,7 +8,7 @@ It holds about thirty. The miller has counted it twice with a crowd in it.
 
 The water came in on the nineteenth day of the fourth month at about the second hour of the morning and went down over the twentieth and part of the twenty-first, and nobody on that cut drowned, and the bank at the third-of-the-way mark stood eleven feet high where a crew of five men and a boy had left it on the twenty-first of the second month, and the ford filled, as a ford does, because a ford with no depth posts in it and no hard stones in the throat is a place where the water happens.
 
-She was in the bay at about the seventh hour on the morning of the nineteenth with about nine people in it, because that is what she does, and it is what she has done at the beginning of forty meetings, and nobody had thought it worth calling.
+She was in the bay at about the seventh hour on the morning of the nineteenth with nine people in it, because that is what she does, and it is what she has done at the beginning of forty meetings, and nobody had thought it worth calling.
 
 They came in about the third hour before the light came and it did not stop. It came up the lane of channel-side houses at the north of the ford and across nine feet of beaten earth and into the bay, and there were about eleven inches of it in the middle of the floor by the fourth hour and about nine inches of mud over the whole of it by the sixth hour, and about four people went out into it and got the miller's carts up off the flat and the two hundred-weight sacks off the low bench and the door off its hinges, which nobody had asked them to do and which is the sort of thing nine people do.
 
@@ -22,15 +22,15 @@ And it did not go. That is the whole of it and it took about nineteen hours.
 
 At about the seventh hour on the morning of the twentieth the water had gone down out of the bay and out of the yard and there was a foot of mud in the bay and about a hand's breadth of it in the yard, and the sun came up on the wrong side of the mill and made a thing of the mud that Doreth Ferrow looked at for a while and then stopped looking at.
 
-And she went out into the yard to count the room, the way she has counted forty meetings, and she counted about nine.
+And she went out into the yard to count the room, the way she has counted forty meetings, and she counted nine.
 
 **Nine people from the bay, standing in a mill yard at about the seventh hour in the morning, in a yard that is not theirs.**
 
-They were not doing anything. That is the thing she has not been able to put down since. They were not carrying anything and they were not fetching anything and they were not asking for anything. They were standing in about nine different places in a hundred and forty yards of beaten earth, facing the mill, the way you stand at a gate.
+They were not doing anything. That is the thing she has not been able to put down since. They were not carrying anything and they were not fetching anything and they were not asking for anything. They were standing in nine different places in a hundred and forty yards of beaten earth, facing the mill, the way you stand at a gate.
 
-The miller was out at about the fourth hour and had been out all night, and he had a lantern and about nine men and he had been on the bank at the third-of-the-way mark from about the second hour of the morning when the water came in, and he had come back down about the sixth hour and he was in his own door with his coat off and he had not slept.
+The miller was out at about the fourth hour and had been out all night, and he had a lantern and nine men and he had been on the bank at the third-of-the-way mark from about the second hour of the morning when the water came in, and he had come back down about the sixth hour and he was in his own door with his coat off and he had not slept.
 
-Doreth Ferrow counted about nine people in the yard, and then she went and got Rennick Adley out of the store, which is at the other end of the same building with a door of its own, and she did not ask him anything. She said, "Come out here and stand where I am standing," and he came out and stood where she was standing.
+Doreth Ferrow counted nine people in the yard, and then she went and got Rennick Adley out of the store, which is at the other end of the same building with a door of its own, and she did not ask him anything. She said, "Come out here and stand where I am standing," and he came out and stood where she was standing.
 
 "Count them," she said.
 
@@ -40,7 +40,7 @@ Doreth Ferrow counted about nine people in the yard, and then she went and got R
 
 "About thirty. It is a cold floor and a door that does not shut and it is the twentieth of the month and there is mud in it."
 
-"So about thirty, and about nine, and about sixty of about ninety-one households are not in that bay and are not in this yard and have not been told anything this morning and would find it out from a lane."
+"So about thirty, and nine, and about sixty of about ninety-one households are not in that bay and are not in this yard and have not been told anything this morning and would find it out from a lane."
 
 "Yes."
 
@@ -118,7 +118,7 @@ She had come down about two hours' walk with a baby and no boots and she had not
 
 "No," said Doreth Ferrow, and she said it in a way that made the woman put her hand over her mouth.
 
-"Then I am one of the four that got nothing wet, and the boy of fifteen got nothing wet, and the lane got nothing wet, and there is a bank four hundred and forty foot long with a miller on it all night, and about nine people from the bay." She stopped. "**Then why are the four of us a party.**"
+"Then I am one of the four that got nothing wet, and the boy of fifteen got nothing wet, and the lane got nothing wet, and there is a bank four hundred and forty foot long with a miller on it all night, and nine people from the bay." She stopped. "**Then why are the four of us a party.**"
 
 "**Because they wrote your lane down before the water in a building four miles away and you would not give them a name, and that is the whole of it, and it is not a reward and it is not a punishment, and I could not tell you that on the fourteenth because on the fourteenth I did not know either.**
 
@@ -146,6 +146,6 @@ He wrote it and read it back and she made him read it back twice, and then she s
 
 ---
 
-The mud was out of the bay by about the eighth hour of the twenty-first in about nine hours of work by about eleven people who were not paid for any of it.
+The mud was out of the bay by about the eighth hour of the twenty-first in nine hours of work by about eleven people who were not paid for any of it.
 
 On the twenty-second there was a list of works on the bench in the middle of the bay with a foreman's name at the foot of it and a date against that name, and about one hundred and forty feet of ditch on the south side and the scour at the third-of-the-way place and the ford, the stones and the two posts, and nobody on the Slade had any idea yet that about sixty children were in it.
