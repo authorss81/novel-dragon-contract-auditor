@@ -66,7 +66,7 @@ He got up and put the door open about nine inches, which he does not do, and sto
 
 "**End one. Somebody comes on the day.** A date, and a person at the date, and the person is findable because their name is on a list, and on the day the person is either there or is not, and if they are not, the next name goes up. Sixty names, a season, a day at the end of each of them, and a door at the end of every one of them with a person standing at it. **That is a duty that stops and there is something else standing behind it when it does.**
 
-"**End two. Nobody has to come.** A date, and if nobody is at the date then the duty ceases and nothing carries it forward, and that is on the face of the paper in nine words, and the paper is honest about it, and I have had that paper in a book on this desk since the first week of the fifth month and I did not know until this morning that I had built the wrong end of it.**"
+"**End two. Nobody has to come.** A date, and if nobody is at the date then the duty ceases and nothing carries it forward, and that is on the face of the paper in nine words, and the paper is honest about it, and I have had that paper in a book on this desk since the first week of the fifth month and I did not know until this morning that I had built the wrong end of it."
 
 "And which one is the paper on this desk."
 

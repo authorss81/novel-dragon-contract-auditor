@@ -90,7 +90,7 @@ The decision came on the ninth of the ninth month, on a morning packet, in a sin
 
 > *Received and consolidated. The request of the eighteenth of the ninth month and the supplement of the eighth of the eleventh month are received and are consolidated into one matter, and are accepted as a **limited administrative inquiry into the filing practice of the district of Mosswake**, to be conducted by the applicant in his own time and at his own wage.*
 >
-> *The scope of the inquiry is: the filing, entering, and itemising of filings made under flood authority in that district between the first month of the sixth year and the first month of this year. The applicant may compare any filing in that district against any other filing in that district, and against the district's own standing instructions, and may enter what he finds in a book of his own.**
+> *The scope of the inquiry is: the filing, entering, and itemising of filings made under flood authority in that district between the first month of the sixth year and the first month of this year. The applicant may compare any filing in that district against any other filing in that district, and against the district's own standing instructions, and may enter what he finds in a book of his own.*
 >
 > *This office has no power under this acceptance to compel any document, any office, any witness, or any return, and none is to be understood as given. This office has no power under this acceptance to touch, and this acceptance does not touch, any numbered series, any standing instruction of any district, or any return made under any instrument sealed with the fire-and-water device. The applicant is not an officer of this office and nothing in this acceptance makes him one.*
 >

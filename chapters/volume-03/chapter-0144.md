@@ -148,7 +148,7 @@ He said it in about nine seconds and it was not a frightened no and it was not a
 
 He gave a reason and it was the reason he had been carrying since the fourth month in a wagon, and it was not about the money.
 
-"I have been the man and the boy in a rate for six weeks.** And I have spent six weeks finding out what that is, and what that is, is that a person can be paid for work and does not have to be found for anything. That is the whole of the advantage of being in a phrase instead of a column and I have known it for six weeks and I have said it out loud in this bay and I have been right.
+"**I have been the man and the boy in a rate for six weeks.** And I have spent six weeks finding out what that is, and what that is, is that a person can be paid for work and does not have to be found for anything. That is the whole of the advantage of being in a phrase instead of a column and I have known it for six weeks and I have said it out loud in this bay and I have been right.
 
 "And you are asking me to be a name at the foot of a bank. **And I would like to, and I have wanted to since the fourteenth of the fifth month when a man in this room said that a name in a list is a road, and I have been carrying that sentence for nine weeks in a wagon.**
 

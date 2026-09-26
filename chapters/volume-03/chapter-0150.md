@@ -24,7 +24,7 @@ And a foreman of fifty-one read it out in a bay, in about nine sentences, and th
 
 "**It was the arrangement. It was in the paper. It said if nobody comes it stops on the day, and it stopped on the day, and there is no successor and nothing carried, and about nine of you in this room worked out four months ago that that is the only way a duty can be made to stop.**
 
-"And I want it said that nobody in this bay was under any obligation to get on a cart for four hundred and thirty miles to keep it alive, and that the person it was written for did not expect anybody to, and that he came anyway, and he is standing at the west end of my bay at about the seventh hour and I would like somebody to say something to him that is not about paper.**"
+"**And I want it said that nobody in this bay was under any obligation to get on a cart for four hundred and thirty miles to keep it alive, and that the person it was written for did not expect anybody to, and that he came anyway, and he is standing at the west end of my bay at about the seventh hour and I would like somebody to say something to him that is not about paper.**"
 
 ---
 
@@ -74,7 +74,7 @@ He did not explain it and nobody asked him to, and the book-keeper of thirty-eig
 
 "**It has not stopped. It has got worse. I am still the one watching. There is a list now and I am at the top of it and the first fortnight I am somebody's business.**
 
-"So I am taking it, and I am first and not last, and I am not asking to be last again, and I have taken a fortnight to work out how to say that and I have said it badly and it is in the book.**"
+"**So I am taking it, and I am first and not last, and I am not asking to be last again, and I have taken a fortnight to work out how to say that and I have said it badly and it is in the book.**"
 
 Somebody started to say something about thank you and about nine people in that bay looked at Doreth Ferrow, and she put her hand up, and it stopped, and nothing about it is on the page.
 

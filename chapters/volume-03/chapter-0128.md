@@ -42,7 +42,7 @@ She put the question at about the seventh hour and she had written it on the bac
 
 Nine people said something. A man at the back said the Company had not asked for it. A woman near the door said it was not theirs. A man who has been coming for nineteen years said the Company was not a person and could not be asked, and that was in the room and it was right, and Doreth Ferrow let it stand for about four seconds and then she answered it.
 
-"No," she said. "**It cannot be asked. I want that said out loud in this room and I want it said by me, because I am the chair of it and I have been the chair of it for nineteen years and I have never once been able to say this, and it took me a week to find the honest way to say it and I have been carrying it since I found it.
+"No," she said. "**It cannot be asked.** I want that said out loud in this room and I want it said by me, because I am the chair of it and I have been the chair of it for nineteen years and I have never once been able to say this, and it took me a week to find the honest way to say it and I have been carrying it since I found it.
 
 "A body cannot refuse.
 
