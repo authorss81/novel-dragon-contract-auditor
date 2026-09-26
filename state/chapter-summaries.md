@@ -122,7 +122,7 @@ Months are numbered, as they are on the page throughout. "Date span" is the chap
 
 ## The Index: All Fifty Chapters Of Volume 03 — CLOSED
 
-**Volume 01, Chapters 1–50, is closed** and its fifty-row index is the record of it. **Volume 02, Chapters 51–100, is closed** and its fifty-row index is above. **This is the Volume 03 index and it is closed at Chapter 150 and Volume 03 is closed with it.** Where a row and a per-chapter entry below it disagree, **the prose is the authority**.
+**Volume 01, Chapters 1–50, is closed** and its fifty-row index is the record of it. **Volume 02, Chapters 51–100, is closed** and its fifty-row index is above. **This is the Volume 03 index and it is closed at Chapter 150 and Volume 03 is closed with it.** Where a row and a per-chapter entry below it disagree, **the prose is the authority**. **One row was corrected in place by the Volume 03 audit, and the prose is what it was corrected to: the date span of Chapter 150 reads *1st–2nd, 5th month, next year* and not *2nd*, because the chapter opens with Marek Kest arriving on the first and the second is the day of the review and the season's beginning. The Volume 03 index is otherwise closed and is a record and was not touched.**
 
 Months are numbered, as they are on the page throughout. "Date span" is the chapter's own span, taken from the calendars in `state/continuity.md`, and **no weekday name and no calendar month name appears anywhere in Volume 03**, because none appears in the manuscript. Twelve calendar month names and six weekday names were written into the ten closing chapters and every one of them was found and corrected before the batch closed; the record is `The Corrections Made On The Page Before Volume 03 Batch 0005 Closed, And Checked Clean` in `state/continuity.md`.
 
@@ -157,7 +157,7 @@ Months are numbered, as they are on the page throughout. "Date span" is the chap
 | 147 | The Question That Is Not Hers | Halla Wray | 2nd–3rd wks, 9th month | A carter says no and gives the reason that being watched is the cost; then gives the question the rotation runs on; and a foreman of fifty-one puts her own name at the foot of a season for the first time in nine years |
 | 148 | The Choice About Forty-Nine | Marek Kest | 4th wk, 9th – 1st wk, 10th month | The sixth use of the rule, an answer that is not legal and says so twice, and a first exception withdrawn in nine sentences in a room of about thirty people |
 | 149 | The Engagement, and the Answer With No Why | Doreth Ferrow | 2nd–3rd wks, 11th month | A reader taken on in writing by a keeper who can still sign a wage and nothing else, a thanks withdrawn in a book, and a district court that will not fix a date and gives its reason |
-| 150 | A Name at the Foot of the Fourth List | Marek Kest | 2nd, 5th month, next year | A term ends because nobody came; a third exception in four lines with a cost of labour and liability; a carter named first; and a girl of eleven read to at a gate by somebody who is now paid |
+| 150 | A Name at the Foot of the Fourth List | Marek Kest | 1st–2nd, 5th month, next year | A term ends because nobody came; a third exception in four lines with a cost of labour and liability; a carter named first; and a girl of eleven read to at a gate by somebody who is now paid |
 
 ## Volume 01, Batch 0001 (Chapters 1–10) — The First Correction
 
