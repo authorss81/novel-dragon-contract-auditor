@@ -10,7 +10,7 @@ Oswin Marrow stood with his back to the register and his hands behind him.
 
 "Go on."
 
-"You are not getting a fair hearing. I am not able to give you one and neither is anybody in this building, because there are no rules for this and there have never been any rules for it, and the two people in there are going to do the best they can with what they have got, which is a form of words they will have to make up this morning." He did not move off the book. "I say that so that nobody can say afterwards that I put my thumb on it. In about nineteen hundred years of this office, the men who came in here have mostly been frightened, and I have never once had anybody tell me a thing I did not already know, and I would like it recorded that you did not."
+"You are not getting a fair hearing. I am not able to give you one and neither is anybody in this building, because there are no rules for this and there have never been any rules for it, and the two people in there are going to do the best they can with what they have got, which is a form of words they will have to make up this morning." He did not move off the book. "I say that so that nobody can say afterwards that I put my thumb on it. In about twelve hundred years of this office, the men who came in here have mostly been frightened, and I have never once had anybody tell me a thing I did not already know, and I would like it recorded that you did not."
 
 Then he went out and shut the door behind him, which is not a thing a man does who is sitting on a hearing.
 
@@ -150,7 +150,7 @@ The second was a copy.
 
 "Here," said Marek Kest, and wrote an address on a slip, and pushed it across.
 
-It was not an office. It was four rooms above a cooper's shop near the Weigh Cut side, and it was the address of a man of twenty-nine who paid rent to a woman whose name was on a lease, and there was no office in it and no seal on the door and nothing on the door at all.
+It was not an office. It was four rooms above a cooper's shop near the Weir Cut side, and it was the address of a man of twenty-nine who paid rent to a woman whose name was on a lease, and there was no office in it and no seal on the door and nothing on the door at all.
 
 "That is a lodging house," said Tamsin Rook.
 
@@ -176,7 +176,7 @@ It was a line in a book with a gap in it, and the gap had been there since the f
 
 Marek Kest went back up the stairs and wrote one line on a piece of foolscap in the Received Room, and it took him about four minutes, and it is on the page in his own hand and nobody has ever read it but her:
 
-> *Eleventh of the first month. Examined and not discharged, and I asked for no relief and meant it. What the examination told me is that I was not shut out of a room. I was never in it. There is one line in a book about how to be in it and it has been there for nine years and I did not write it, and I did not write it because I did not want to be in it, and a man who does not want to be in a room is a man who has already decided what is in it for him. I have been doing that since the ninth month of last year and I have called it prudence in four different books. It is not prudence. It is a preference and I have found it in a room with a stove in it in front of a man of twenty-five who asked me what a scale reading was.*
+> *Eleventh of the first month. Examined and not discharged, and I asked for no relief and meant it. What the examination told me is that I was not shut out of a room. I was never in it. There is one line in a book about how to be in it and it has been there for about twelve hundred years and I did not write it, and I did not write it because I did not want to be in it, and a man who does not want to be in a room is a man who has already decided what is in it for him. I have been doing that since the ninth month of last year and I have called it prudence in four different books. It is not prudence. It is a preference and I have found it in a room with a stove in it in front of a man of twenty-five who asked me what a scale reading was.*
 
 > *I am not going to write to the Docket. The bar stands and I asked for no relief and I mean that, and the copy of the record is going to a room with no office over the door because I would rather be hard to find than easy to explain. I do not know yet which of those two things is the man I want to be in nine years. I have got four months to find out and there is nothing in this building that will make me hurry.*
 

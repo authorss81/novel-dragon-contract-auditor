@@ -102,7 +102,7 @@ Tamsin Rook wrote the four lines out in a copyist's hand, standing up, with the 
 
 Then she said it out loud, in a room, to a deputy and a clerk and a man from the copying room, because that is the only way a person finds out whether they have understood a thing or only written it down.
 
-"The order on that board in Mosswake on the morning of the seventh of the ninth month of last year was the third issue of a witness order. It is not in the register. The register has two. It was drawn in the copying room of that court between noon on the ninth and the morning of the tenth, and a man went to the witness bench at half past eleven, and at half past six on the morning of the tenth the order on the board had *Certificate of the Reed Cut district* struck into the first line, pressed deep into the fibre, with the widow's own line ghosted underneath it. And nobody was struck out. A piece of paper was put in front of her."
+"The order on that board in Mosswake on the morning of the eleventh of the ninth month of last year was the third issue of a witness order. It is not in the register. The register has two. It was drawn in the copying room of that court after noon on the ninth and before it went up on the board, and a man had been at that witness bench at half past eleven on the ninth, and the order as it was posted had *Certificate of the Reed Cut district* struck into the first line, pressed deep into the fibre, with the widow's own line ghosted underneath it. And nobody was struck out. A piece of paper was put in front of her."
 
 She put her hand flat on the bench, on the book, which is a thing she does, and the deputy of the Notaries' Table did not move his book.
 

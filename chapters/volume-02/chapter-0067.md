@@ -70,7 +70,7 @@ The number is the other half of the morning and it is the reason she put the fou
 >
 > *To be in a lane with a clause in your own trade's book about a girl who leaves: **two pounds five and a quarter a quarter, four times a year, and thirty-two pounds and fourpence out of the lane in a year**, and the next four are the next four, and there is no clause in my lane's book that would do that to anybody if anybody had been asked.*
 >
-> ***Twenty times.** Being told the truth costs a twenty-fifth of what not being told costs. That is the whole of the fifth question and I have been four hundred and forty miles and nine days and six months finding it out and it is two numbers on a stone.*
+> ***Twenty times.** Being told the truth costs a twentieth of what not being told costs, and a twentieth of two shillings is two pence, and two pence is what a woman in a lane can find. That is the whole of the fifth question and I have been four hundred and forty miles and nine days and six months finding it out and it is two numbers on a stone.*
 >
 > *The four of us signed a clause about a girl leaving and we are paying two pounds five and a quarter a quarter for the privilege of having signed it, and the four of us are not the four who will be out, and the reason the four of us are not is that we signed.*
 
@@ -108,4 +108,4 @@ And Marek Kest said, "That is the worst thing anybody has said to me."
 
 Nell Kest went back to the vats at about the fourth hour. There was a pot on the third flat and there were two women from the far end of the vats who wanted to hear the whole of it and were told no, and one of them said *you have got a brother at the Roll Hall* and she said *I have got a brother who works in a room nobody can get at, and he came for four hours, and it took four minutes, and that is the whole of what I have got and I have got it in nine words in a book.*
 
-The chalk stayed on the flat of the trestle for about six weeks and nobody took it down, and it was washed off in a month of rain in the fourth, and by then the fourth month had come and gone and a public timber bridge in another district had been the subject of an application and there was a plate in a file in a district court and a number cut into the edge of a plate was about to turn into the name of a man.
+The chalk stayed on the flat of the trestle for about six weeks and nobody took it down, and it was washed off in a month of rain at the end of the third, and by then the fourth month had come and gone and a public timber bridge in another district had been the subject of an application and there was a plate in a file in a district court and a number cut into the edge of a plate was about to turn into a supervisor's hand in a column that was never designed to hold one.

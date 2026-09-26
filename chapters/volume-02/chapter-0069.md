@@ -1,6 +1,6 @@
 # Chapter 69: A Document With a Man's Name at the Top of It
 
-The press room off the Crown Kiln stair has a table in it, four chairs, a press, a shelf of cordage, and a window that looks at the wall of the light well in another building, and on the second of the third week of the second month there were two men in it and a sheet of paper on the table, and one of the men had asked for the room and one of them had not been told the room existed.
+The press room off the Crown Kiln stair has a table in it, four chairs, a press, a shelf of cordage, and a window that looks at the wall of the light well in another building, and on the twenty-fourth of the second month there were two men in it and a sheet of paper on the table, and one of the men had asked for the room and one of them had not been told the room existed.
 
 Marek Kest had asked for it in a note of about forty words that he wrote standing up in the Received Room on the fifteenth of the second month, and the note said that he was a clerk of the Roll Hall with no standing in anything, that he had been examined on the eleventh of the first month and the examination did not discharge his bar, that he had a finding in his hand that concerned a delivery stub in that room, and that he would like forty minutes and would bring the sheet himself and would not bring anybody.
 
@@ -120,7 +120,7 @@ Marek Kest stood in a press room off the Crown Kiln stair and did not say anythi
 
 Tamsin Rook had the copy by the seventh hour. She was not in the room and had not asked to be and was told nothing about the speech, which is the correct amount of notice.
 
-The second of the last week of the second month is the sitting date, and the sitting has no date, and that is the next six weeks of Marek Kest's life and it is the end of what he has been able to do with a name.
+The last week of the second month is not a date for anything, and the sitting itself has no date at all and had none given to it on the twenty-ninth of the first, and that is the next two weeks of Marek Kest's life and it is the end of what he has been able to do with a name.
 
 He wrote it out that night in the Received Room, in a book of his own, and it is the last thing he wrote in that book for six weeks:
 

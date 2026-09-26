@@ -8,13 +8,13 @@ Brammel was sixty-one or about sixty-one. He had come to the province at ninetee
 
 He has never been sorry about that and he has never once been thanked for it either, and it is the reason a piece of paper with a mark on it was ever in front of a court.
 
-The box is in his own house. It has been in his own house for over a year. Four papers in it and no more than four, and they came back to him out of a stone house two streets off the Kiln road in a leather case with a receipt on the top, and the receipt is dated the nineteenth of the eleventh month, and it is signed by a clerk, and it says the box and its contents are returned to the person from whom they were taken.
+The box is in his own house. It has been in his own house for about sixteen months. Four papers in it and no more than four, and they came back to him out of a stone house two streets off the Kiln road in a leather case with a receipt on the top, and the receipt is dated the nineteenth of the tenth month of the ninth year, and it is signed by a clerk, and it says the box and its contents are returned to the person from whom they were taken.
 
 It has his name on it. He put it there himself, with his mark, because he cannot write, and a man who cannot write signs with a mark, and his mark is a thing that has been on the end of everything he has ever signed for about fifty years and it is as good as a name to anybody who has seen it twice.
 
 The inventory is the other end of it. There is an inventory of what came out of that room on the day, in four hands, in a hand, and it runs to about sixty items, and item nine used to be his name.
 
-He asked for it to be reworded eleven months ago, in writing, at a counter, and he paid nothing for the reword and it was done in about four minutes, and he has known exactly what happened ever since.
+He asked for it to be reworded sixteen months ago, in writing, at a counter, and he paid nothing for the reword and it was done in about four minutes, and he has known exactly what happened ever since.
 
 It reads now: *Nine. One green box, four papers, of a client of eleven years.*
 
@@ -22,9 +22,9 @@ His name is not in it. That is what he wanted and he got it, and the thing he di
 
 The mark is on the wrapper. Not in the inventory. The wrapper of the inventory is a big sheet and the mark is on the wrapper where a person signs for the sheet, and the wrapper is the thing the wrapper of a box is compared against, and a man who has seen the mark twice can find the box in a room of sixty boxes in about four seconds.
 
-So: the reword took his name out of the finding and left the only thing on the wrapper that points at him, and it took eleven months and about four minutes at a counter, and both of those things were done correctly.
+So: the reword took his name out of the finding and left the only thing on the wrapper that points at him, and it took sixteen months and about four minutes at a counter, and both of those things were done correctly.
 
-He has done nothing about it for eleven months, and he can give the reason without being asked, and the reason is that the reword and the mark together are the only way he has of signing anything at all. Take the mark off the wrapper and he cannot hold a box, cannot sign for a receipt, cannot put his mark to a lease or a deed or a request, and cannot say to a clerk *this is mine* in a way anybody has to accept. He is sixty-one and he cannot write. The mark is not a signature. It is the whole of what he has instead of one.
+He has done nothing about it for sixteen months, and he can give the reason without being asked, and the reason is that the reword and the mark together are the only way he has of signing anything at all. Take the mark off the wrapper and he cannot hold a box, cannot sign for a receipt, cannot put his mark to a lease or a deed or a request, and cannot say to a clerk *this is mine* in a way anybody has to accept. He is sixty-one and he cannot write. The mark is not a signature. It is the whole of what he has instead of one.
 
 And that is the sentence he has been carrying since the fourth month of last year, and he has not said it out loud to anybody, and there are two people in this building who could not help him if he said it.
 
@@ -32,7 +32,7 @@ And that is the sentence he has been carrying since the fourth month of last yea
 
 He is in the gallery because he is one of eleven.
 
-The order of the seventeenth of the ninth month of last year names eleven people, and the order says, in a form read out and copied four times, that none of them is to be spoken to except through an officer of the court, and that a breach of it is to be entered. It is protection. He understands it as protection. He has been the beneficiary of it for a year and a half, and a man in a good coat came about a green box a year ago and went away again because somebody in this building read him a line.
+The order of the seventeenth of the ninth month of the ninth year names eleven people, and the order says, in a form read out and copied four times, that none of them is to be spoken to except through an officer of the court, and that a breach of it is to be entered. It is protection. He understands it as protection. He has been the beneficiary of it for a year and a half, and a man in a good coat came about a green box a year ago and went away again because somebody in this building read him a line.
 
 He has come this morning to be asked a question.
 
@@ -46,7 +46,7 @@ He is one of the eleven. Nobody in the building may speak to him except through 
 
 The gallery does not fill.
 
-He had expected it to fill. He had thought about it in the lane on the way in, and what he had thought was that a man who has been in a room with a mark on a wrapper for eleven months, and a mark that is going to be read out in a public minute book, would want to be in the room.
+He had expected it to fill. He had thought about it in the lane on the way in, and what he had thought was that a man who has been in a room with a mark on a wrapper for sixteen months, and a mark that is going to be read out in a public minute book, would want to be in the room.
 
 The chamber is not the size of the river courtroom at Mosswake. It seats about forty and there were nine people in it at the fourth hour, and four of the nine were court people, and the case is confined, and the count is nine leaves of a ledger and a set of figures, and the man in the dock has stopped looking at the ceiling and has begun looking at his own hands, which is what a man does at about the third hour of a trial that is going to go the way it is going to go.
 
@@ -72,15 +72,15 @@ The clerk at the back looked at him for a second and then wrote four words on a 
 
 And the question he was asked was this.
 
-"You are in the inventory at item nine. Is that your box, the green one, and did a leather case come back to your house on or about the nineteenth of the third month, and was the case returned to you or to the office it came from."
+"You are in the inventory at item nine. Is that your box, the green one, and did a leather case come back to your house on or about the nineteenth of the tenth month, and was the case returned to you or to the office it came from."
 
-It is not Brammel's question. It is not about his name, or the mark, or eleven months, or the thing he came for. It is about a receipt. It is about whether a case was handed to a man or to a building, and it is asked because somebody has found a discrepancy of about four inches in the distance between two ledgers and the only way to close it is to ask a man who was there.
+It is not Brammel's question. It is not about his name, or the mark, or sixteen months, or the thing he came for. It is about a receipt. It is about whether a case was handed to a man or to a building, and it is asked because somebody has found a discrepancy of about four inches in the distance between two ledgers and the only way to close it is to ask a man who was there.
 
 "Yes," said Brammel. "It came to me. To my house, to the door, and there was nobody with it. And it was to me and not to the office, and the receipt says to me and the receipt is the clerk's hand, and I have got the receipt in the box with the four papers and I brought it because I was told to bring anything with my mark on it and I did not know until about a quarter of an hour ago that this is what that meant."
 
-Nobody had told him that. He had brought the box's wrapper with him because a man at a counter a year ago had said *bring anything with your mark on it* and had not said why, and Brammel had spent eleven months not knowing why, and had carried the wrapper to a counter, and to a chapel, and to a lane, and had put it in his coat in the fourth hour this morning because it was a year since a man had said it and he had been in the habit ever since.
+Nobody had told him that. He had brought the box's wrapper with him because a man at a counter a year ago had said *bring anything with your mark on it* and had not said why, and Brammel had spent a year not knowing why, and had carried the wrapper to a counter, and to a chapel, and to a lane, and had put it in his coat in the fourth hour this morning because it was a year since a man had said it and he had been in the habit ever since.
 
-The officer of the door wrote the answer down. It is four lines. It is in the paper taken at the door, in a column, with a figure against it, and it is the answer to the only question Brammel has been asked in eleven months and it is about four inches of leather.
+The officer of the door wrote the answer down. It is four lines. It is in the paper taken at the door, in a column, with a figure against it, and it is the answer to the only question Brammel has been asked in sixteen months and it is about four inches of leather.
 
 "Thank you, sir."
 
@@ -96,7 +96,7 @@ And he sat down again on the second bench, and the court rose at about the fifth
 
 There were four other people in that corridor he knew by sight and had never spoken to, and they were the other four of the eleven, and they were standing about nine feet apart from each other, and they had been standing about nine feet apart from each other since the second hour, and Brammel worked out, standing at the end of it, why: a man who has been protected from being spoken to does not know whether a protection goes both ways, and a man who is on a list of eleven does not walk up to a man who is on a list of eleven in a corridor of a district court, because if he does and it is wrong then he has been eleven people's reason for a worse order.
 
-So they stood about nine feet apart, four of them, in a corridor, for three hours, and nobody said anything, and that was what the order did, and it had done it in nine months without anybody deciding to.
+So they stood about nine feet apart, four of them, in a corridor, for three hours, and nobody said anything, and that was what the order did, and it had done it in seventeen months without anybody deciding to.
 
 He thought about going up to the magistrate's clerk and asking whether a person who is not a party can be added to a record on his own initiative, and he worked the answer out himself in about nine seconds, because he is a man who has had forty years of counters and knows what happens when a person asks to be put in a book.
 
@@ -114,9 +114,9 @@ He got a question. It was asked by a person with the right to ask it, through th
 
 And the sentence he came here to have tested turned out to be true and useless in the same morning, and the reason is the reason everything in this matter is the reason: **you can be asked a question about a box and be a person, and you cannot be asked a question about a mark, because a mark is not a thing anybody in a court can put to a witness.**
 
-Nobody had ever asked him what his mark was. Not in eleven months, not at the counter, not in the order, not in the inventory. It is a mark and not a name. It goes into a record as a mark. It is, as a registrar said in open court in the sixth month of last year about a different mark entirely, going into a public minute book without altering one thing in the building except the number of people who know it is there.
+Nobody had ever asked him what his mark was. Not in sixteen months, not at the counter, not in the order, not in the inventory. It is a mark and not a name. It goes into a record as a mark. It is, as a registrar said in open court in the sixth month of last year about a different mark entirely, going into a public minute book without altering one thing in the building except the number of people who know it is there.
 
-And now, on the second of the second month, there are about forty more people in the empire who know there is a green box in a house in the province with a mark on it, and the mark is the only thing that finds it, and he asked for the name to be taken out of the inventory eleven months ago and it was taken out in four minutes by a clerk who did nothing wrong.
+And now, on the second of the second month, there are about forty more people in the empire who know there is a green box in a house in the province with a mark on it, and the mark is the only thing that finds it, and he asked for the name to be taken out of the inventory sixteen months ago and it was taken out in four minutes by a clerk who did nothing wrong.
 
 He got up at about the half hour after the fifth hour and put the wrapper back inside his coat, against his chest, where it has been since the fourth month of last year.
 

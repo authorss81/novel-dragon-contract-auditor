@@ -2,7 +2,7 @@
 
 The notice came down on the morning packet of the sixth of the third month, and it is one side of a sheet, and it is printed, because a date for a sitting in room four is printed and sent to the list, and the list is about two hundred and forty names and about nine addresses in this city, and one of the nine addresses is a room with a card in the window at the height of a man's chest.
 
-Nevin Trost read it standing up in the third room off the corridor behind the third gallery, at about the seventh hour, and read it a second time, and then went and got out of a drawer a piece of paper that had been in it since the ninth month of the ninth of the ninth year and had been the whole reason he had become the man he is.
+Nevin Trost read it standing up in the third room off the corridor behind the third gallery, at about the seventh hour, and read it a second time, and then stood there for a while with his thumb on the corner of it, which is what a man does with a notice he is going to have to act on and does not want to touch again.
 
 The notice said:
 

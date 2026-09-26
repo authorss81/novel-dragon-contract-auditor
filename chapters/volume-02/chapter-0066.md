@@ -70,13 +70,13 @@ Garren Pyle signed it. He has signed about nine thousand cards in his life with 
 
 The eight others are the real week.
 
-There are about nine certifiers in this city whose certificates were suspended on the seventeenth of the sixth. Two of them have gone to a furnace town and one of them is seventy-one and has sold his press, which means there were six left in Auremar and eight in the province, and Pyle had the addresses of seven of them, because a trade of eleven people knows where the other ten are, and the address of the eighth is the address of a house in a lane he has not been down since he was thirty.
+There are about nine certifiers in this province whose certificates were suspended on the seventeenth of the sixth. Two of them are four hundred and forty miles away in a furnace town and cannot be walked to, and one of the other seven is seventy-one and sold his press in the spring and had kept the plate, which means seven of the nine are holding a plate and those seven are the seven plates, and one of the seven is him. Pyle had three of the other six addresses in his own trade's book, because a trade of eleven people knows where the other ten are, and one of the three is a house in a lane he has not been down since he was thirty, and the last three came to him from a woman of about sixty who has cut plates for twenty-two years in a lane and who asked him which number was on one before she gave him her own.
 
 He went on foot. He did it in two days, on the tenth and the eleventh, and he did not take a case and did not take money, and of the seven doors four gave him the answer he expected and three did not, and the difference is worth about nine hundred words to nobody except the seven of them and it is the reason the week is worth having.
 
 The answer he expected was: *it is a plate, it is in a drawer, what would you like me to do with it.* He got that four times.
 
-The answer he did not expect was: *which number is on it.* He got that three times, and it was the eighth man's answer, in a lane, from a woman of about sixty who had cut plates for twenty-two years and who said, before he had got to the second sentence:
+The answer he did not expect was: *which number is on it.* He got that three times, and it was the seventh answer, in a lane, from a woman of about sixty who had cut plates for twenty-two years and who said, before he had got to the second sentence:
 
 "What number."
 

@@ -104,7 +104,7 @@ The sentence is four lines and the officer at the door counted all four.
 
 And then there were two more lines, and the magistrate made the clerk read them twice, and the reason she made the clerk read them twice is in the minute in one line and the line is that the first of the two had not been asked for by anybody.
 
-> *The eleven persons named in the order of the seventeenth of the ninth month of last year are not named in any account of this trial, in this court or in any published account of it, and their names are not to be entered in any copy of this record made for any person.*
+> *The eleven persons named in the order of the seventeenth of the ninth month of the ninth year are not named in any account of this trial, in this court or in any published account of it, and their names are not to be entered in any copy of this record made for any person.*
 >
 > *The original of the ledger of ninety-one leaves is directed to be produced to this court. — It is the clerk of the third gallery, not this court, that has certified that the copy is short by one leaf against the figure on the wrapper from which it was made, and the copy is not this court's to make, and the original is.*
 

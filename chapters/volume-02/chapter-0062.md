@@ -22,31 +22,37 @@ There is a handover list. There is always a handover list, and it is six items, 
 
 Item three was answered.
 
-Riet found that out on the nineteenth of the first month, at about the fourth hour, in the middle of a morning when he was trying to get ninety-one leaves of copy certified before the second of the second month, and he found it because the morning post had come into the gallery an hour and a half late and the clerk of the intake desk had brought it up and put it on the counter and said *that one is a roll-keeper's and it has been on this counter since the eleventh of the ninth and it is not addressed to this desk, and I do not know what to do with it, and I have written the time on it.*
+Riet found that out on the nineteenth of the first month, at about the fourth hour, in the middle of a morning when he was trying to get ninety-one leaves of copy certified before the second of the second month, and he found it by asking a question of a book.
 
-It was two thirds of a page and it was signed A. Kesk, clerk, of the district court of Glasswater, and it was dated the third week of the ninth month, and it said that the standing instructions of that district say nothing about itemising, and that the district has held a flood docket since the second year, and that this court has never had a flood-season continuity filing entered in it, not one in six years, and that the itemised filing of the tenth month that is in a provincial record was entered in a river court of the same district, which is a different office.
+The clerk of the intake desk was twenty-five and had a bad morning. *Nothing for this desk since the twelfth of the first, and nothing out of the ninth month either, if you want it in a straight line. There is a book. Anything that comes to this gallery and is not addressed to a desk goes in it, and I write the time down, because a person who works two galleries away is entitled to know the day a thing reached the building, and I write the initials of whoever takes it, because a letter that is taken and not used is the worst thing that happens in here and I would like somebody to be able to prove they took it.*
 
-Riet read it twice, which is not his habit, and then he put it face down on the counter, because it was addressed to a person and not to a desk, and then he turned it back up, because turning it face down was the same as deciding something.
+He said the last of it as though it were about somebody else. He was twenty-five and nobody had ever thanked him for the book.
 
-It had been on the counter of the intake desk since the eleventh of the ninth month. Four months. It had come in on the same packet as the custody form that Tamsin Rook signed the same morning, and it had gone into a drawer in the copying alcove at about the same time she had entered two of another person's acts into a register in her own hand.
+Riet asked him for the ninth of the ninth month.
 
-Item three said: *It is unanswered. Do not answer it for her.*
+The line is in the ordinary hand. The eleventh of the ninth. One letter, out of the district of Glasswater, addressed to this gallery and not to this desk. The time, and then, on the same line, *T. Rook*, because he writes the initials of whoever takes a thing.
 
-It had been answered on the eleventh of the ninth month by the person it was addressed to, and nobody in this gallery had ever been told, and the desk had carried a line saying it was unanswered for four months in a book that four other clerks had open and closed every working morning.
+Four months. It had come in on the same packet as the custody form that she signed the same morning, and it had gone up the corridor to the copying alcove with two letters of a name against it, and it had been read, because a letter is read when it is taken, and it had never been entered anywhere.
+
+There was no paper to find. That was the part he had not expected. She had not mislaid it and it was not on a counter and it was not in a drawer in his gallery with somebody's name on the front of it. It was two galleries away, and the only thing in this building that said so was four words and two initials in a column headed *who took it*.
+
+Then he did the other arithmetic, which was of the item and not of the letter. Item three was written into the list in the eighth month. It was true in the eighth month. It stopped being true on the eleventh of the ninth, in a building of four hundred people, in about nine minutes, and nobody told the desk, because the person who had been handed the envelope was the person the item was about, and the person who had written the item was in a room with a barred door and had not been told either.
 
 ---
 
-He did not chase it and he did not tell Marek Kest that he had read it, and he wrote down the reason for that in his own copy of the list, and the reason was not only that he had been told not to.
+He did not chase it and he did not tell Marek Kest that he had found out, and he wrote down the reason for that in his own copy of the list, and the reason was not only that he had been told not to.
 
-The reason was that a line on a list that says *unanswered* is a kind of protection. It is a reason for a person in four years to pick it up. Nobody has ever picked up a line that says *answered* and has not been asked why nobody was told. If he had put the Glasswater letter in the file on the nineteenth of the first month, then in four years somebody reading that file would come to the third item and find a note against it in a different hand saying *answered, on the counter, four months*, and the only question anybody would ask that note is why a clerk of this gallery let a letter stand on a counter for four months addressed to a person who works two galleries away.
+The reason was that a line on a list that says *unanswered* is a kind of protection. It is a reason for a person in four years to pick it up. Nobody has ever picked up a line that says *answered* and has not been asked why nobody was told. If he had entered the line out of the intake clerk's book in the file on the nineteenth of the first month, then in four years somebody reading that file would come to the third item and find a note against it in a different hand saying *answered. The eleventh of the ninth. T. Rook*, and the only question anybody would ask that note would not be about a letter that stood on a counter. It would be about a woman two galleries away who took a thing and said nothing, and the answer to that question would be in his hand, in his gallery's file, for ever, and it would be true, and being true would be the whole of the harm.
 
-So he wrote six lines and put them in an envelope and carried it down himself to the copying alcove and gave it to her, and did not leave it on a counter.
+So he wrote six lines and put them in an envelope and carried it down himself to the copying alcove and gave it to her, and did not leave it on a counter, and did not ask to see the letter, which he could have asked to see and which was hers.
 
-> *Miss Rook. — Item three of the list came into this gallery in the post at about the fourth hour of the nineteenth of the first month. It is your answer of the third week of the ninth month, from the district of Glasswater, and it was on the counter at the intake desk from the eleventh of the ninth until this morning, and the intake clerk has written the time on it in ink and initialled it and does not know what he ought to have done with it.*
+> *Miss Rook. — Item three of the list is not unanswered, and I did not chase it, and I want that in the first line and in my own words. On the nineteenth of the first month, at about the fourth hour, I asked the clerk of the intake desk what had come into this gallery out of the ninth month. He keeps a book of it. The line is the eleventh of the ninth month, one letter out of the district of Glasswater, addressed to this gallery and not to this desk, taken the same morning, with your initials against it.*
 >
-> *I have not answered anything and I have not chased anything. I have read it because it was in my post and I am a clerk and the post is what comes.*
+> *The line on the list was true when it was written. It is not true now. That is not the desk's fault and it is not mine, and in four years it will not be anybody's fault, because there is no procedure anywhere in this building for a line going out of date on a desk.*
 >
-> *I am writing to you about it because the list says it is unanswered and it is not, and a list that says a thing is not so is worse than a list that is empty, and I would rather be the man who put the correction in than the man a person found out from somebody else.*
+> *I have not read the letter and I am not asking to. It was yours when it came and it is yours now, and the only thing in this building that says so is a clerk's book and a column with your initials in it, and I would rather that were the whole of the record.*
+>
+> *I am telling you and not entering it, and I want the second half of that in your book in your own hand, because I would not have entered it either if it had been my initials in the column instead of yours.*
 >
 > *There is no answer wanted from me and I am not asking you for one.*
 >
@@ -54,7 +60,7 @@ So he wrote six lines and put them in an envelope and carried it down himself to
 
 She read it standing up, which is how she reads everything, and then she said, "You have broken the rule we made," and Halvard Riet said, "I have not read the rule and I do not know that there is one, and if there is one then I have broken it and you may put that in your book, and I would like you to put it in your book, and I would like it in your own hand and not mine."
 
-And Tamsin Rook wrote it down in her own book in her own hand, and he read it back before he went, because she made him.
+And Tamsin Rook wrote it down in her own book in her own hand, and he read it back before he went, because she made him, and what she had written down was that she had been handed a letter in the ninth month and had told nobody, and that a clerk of the Inheritance Desk had made her account for it in a room with the day on it, and that nobody had ever thought of putting that column to that use, and that she was the only person in the building who could have and had not, and that a person who wants a thing kept out of a file has to be unusually lucky about who is sitting at the desk next.
 
 ---
 

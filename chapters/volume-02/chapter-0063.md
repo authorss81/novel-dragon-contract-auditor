@@ -56,7 +56,6 @@ It was not a copy of anything. It was a transcription of the Cinder Court's firs
 
 *for the wall. it is the first. — T. R.*
 
-And then the letter to Ivet Sarn, which went down the river on the second of the second month, and it was short, and the covering line said five things and each of them was a condition.
 
 Then the packet had one more thing on it, and it was not a copy of anything, and it was a printed notice from a district works, and it was about a floor.
 
@@ -84,7 +83,7 @@ And then she sat down in the alcove with the four-line form in front of her and 
 
 > *Things I have been wrong about, and the day I found out.*
 >
-> *One. The third of the fourth month was about a province. I wanted three provinces and a pattern and I got a district that has never had one, and the reason I asked the question was that I wanted the province to be a province. I found out on the eleventh of the ninth, four months after I filed it, and I did not send it to Marek, on purpose, and I wrote down that I had done it on purpose, and the reason I wrote it down was not the reason I did it. — The eleventh of the ninth month.*
+> *One. The third of the fourth month was about a province. I wanted three provinces and a pattern and I got a district that has never had one, and the reason I asked the question was that I wanted the province to be a province. I found out on the eleventh of the ninth, four months after I filed it, and I did not send it to Marek, on purpose, and I wrote down that I had done it on purpose, and the reason I wrote it down was not the reason I did it. — The eleventh of the ninth month. — Added the nineteenth of the first month, and I am leaving the date of the finding alone: a clerk of the Inheritance Desk has made me account for the second half of this in a room, and the only reason he was able to is that he had a book with a time in it and my initials against it, and I had a drawer, and a drawer is not a record of anything except that a person put something in it and shut it.*
 >
 > *Two. I believed that a condition on the shape of a question would make a court say what the question is about. Oswin Marrow put that condition on his own finding and countersigned it and I read it as a promise that the answer would come back with a word in it that I could carry into a room. It came back with a statement that the court cannot answer a question about a record without a person to examine, and there is no person. — The twenty-ninth of the first month.*
 >
