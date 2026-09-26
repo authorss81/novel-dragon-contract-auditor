@@ -82,7 +82,7 @@ When he had gone she put the book down on the counter face up, which she does ab
 
 "That is a long time."
 
-"It is ten weeks and it is not a finding about people," said Tamsin Rook. "It is a finding about what happens when a thing happens once. **There is no way to want to know a thing you have not heard about and there is no way to hear about it, and the only way anybody found out about the first three was to be in a room where somebody else was asking.** And I have been at this counter every working day since the second day of the first week of the first month and about nine people a year want to ask me something and not one of them has opened their mouth, and I have said the reason out loud four times now, once in the ninth month of the year after and once in the eleventh and once in the first month of the year after next and once in the second, and I have not improved it once."
+"It is ten weeks and it is not a finding about people," said Tamsin Rook. "It is a finding about what happens when a thing happens once. **There is no way to want to know a thing you have not heard about and there is no way to hear about it, and the only way anybody found out about the first three was to be in a room where somebody else was asking.** And I have been at this counter every working day since the second day of the first week of the first month and about nine people a year want to ask me something and not one of them has opened their mouth. I have said the reason out loud four times now, once in the ninth month of the year after and once in the eleventh and once in the first month of the year after next and once in the second, and I have not improved it once."
 
 ---
 
@@ -98,7 +98,7 @@ Then the door at the back of the bay opened and Marn Ottery came in with her hat
 
 Marn Ottery put her hat on the counter.
 
-"Then I have come for nothing, which is the first time in eleven years I have come to this bay for nothing, and I would like it noted that I am not going to be paid for this and I am not going to be thanked for it either, and I have read the same four lines you read in the fourth week of the first month and I have got the same answer, and there is no fund in this city for either of us."
+"Then I have come for nothing, which is the first time in eleven years I have come to this bay for nothing, and I would like it noted that I am not going to be paid for this and I am not going to be thanked for it either. I have read the same four lines you read in the fourth week of the first month and I have got the same answer, and there is no fund in this city for either of us."
 
 "There is no form anywhere in this empire for a fund," said Tamsin Rook, "and I have looked for one in about nine hundred buildings and there is not one, and you have looked, and we are two people in this city who have both looked."
 
@@ -122,7 +122,7 @@ Marn Ottery went, and he had not said one word through the whole of it, and then
 
 "You did not ask her either," he said.
 
-"I did not ask her anything and she did not ask me anything and we both said the price out loud to each other for nothing," said Tamsin Rook, "and that is the second instrument anybody in this matter has built in about nine weeks and neither of us appointed the other and neither of us wrote it down, and I am not going to say what it is called, because whatever it is called it will get a form inside four years and then it will be a machine and it will need a person to be told they may come."
+"I did not ask her anything and she did not ask me anything and we both said the price out loud to each other for nothing," said Tamsin Rook, "and that is the second instrument anybody in this matter has built in about nine weeks, and neither of us appointed the other and neither of us wrote it down. I am not going to say what it is called, because whatever it is called it will get a form inside four years, and then it will be a machine, and it will need a person to be told they may come."
 
 She shut the book.
 
@@ -132,4 +132,4 @@ She shut the book.
 
 "**No. And you have never once asked me, and both of those are the same silence, and it has been going on a long time, and you were not going to ask me this morning and I was not going to be asked and there is nobody going to be disappointed about that, including me.** Two pieces of evidence is not a decision and three is not either, and I am not going to be the one who says it is."
 
-The door of the bay was open and the board over the rail had four things on it and none of them was a question, and a choice had not been put in writing in a book with no office on it, and a clerk of fifty-five had put a name on a question in about nine seconds in a room four bays and a corridor away, and there is no post in this empire whose job is to ask, and the count is four.
+The door of the bay was open and the board over the rail had four things on it and none of them was a question, and a choice had not been put in writing in a book with no office on it, and a clerk of fifty-five had put a name on a question in about nine seconds in a room four bays and a corridor away. There is no post in this empire whose job is to ask, and the count is four.

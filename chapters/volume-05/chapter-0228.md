@@ -24,7 +24,7 @@ Marn Ottery put the copy down on the slab face up, which she does about twice a 
 
 "No," she said. "**I am going to tell you the reason, and then the thing underneath the reason, and then you are going to leave, because you have a slip to collect and I have a counter to keep.**"
 
-"An office is not a person. An office is a room with a word over the door, and not one of them has ever been in a room with one of the people whose name is on the paper. There is no form in this empire for serving an office, and there is no form anywhere in this empire for making an office come and stand in a place and be asked."
+"An office is not a person. An office is a room with a word over the door, and not one of them has ever been in a room with one of the people whose name is on the paper. There is no form in this empire for serving an office, and nothing anywhere in this empire makes an office come and stand in a place and be asked."
 
 "A document that names an office is a document. It is one side of a sheet of good paper and it is not printed, and a seat's own device is cut into the head of it, and it is set out in six numbered lines and a foot. **The second of the six asks that no inference of any kind be drawn from the absence of any name, and the sixth declines to name whoever holds the office at all.** Every one of the six is about a room, and I have read that paper twice and I have never once been asked to and I have never once been shown the other one of the two, and I am not going to say a word about the other one and you did not ask me and I would like that noticed."
 
@@ -44,7 +44,9 @@ Marn Ottery put the copy down on the slab face up, which she does about twice a 
 
 "And a thing said out loud."
 
-"A thing said out loud in a room to a person with no office is not held to anything by anybody, ever, because there is no form that makes a room into a place a sentence can be got at. And I know that because a man of about thirty-eight was in a room with me in the third week of the ninth month of the year after and said a sentence out loud about four words on a form, and he has no office and no register and no fund and a bar that came off on one line he wrote himself, and nothing in this empire can put a line under his name for it, and I have checked, and a woman of twenty checked first and paid fourpence for the checking."
+"A thing said out loud in a room to a person with no office is not held to anything by anybody, ever, because there is no form that makes a room into a place a sentence can be got at. And I know that because Marek Kest was in a room with me in the third week of the ninth month of the year after and said a sentence out loud about four words on a form, and he has no office and no register and no fund and a bar that came off on one line he wrote himself, and nothing in this empire can put a line under his name for it, and I have checked, and a woman of twenty checked first and paid fourpence for the checking."
+
+"**And when a person looks at him there is less of him and not more.** I have got a day and a district and a room he rents by the week, and there is nobody in this city who could put those three side by side and get a person out of them. A woman of twenty is the only person in this matter who can be found on purpose, and I have not told her that I looked, and I am not going to, and I would like it noticed that I looked."
 
 ---
 
@@ -66,13 +68,13 @@ Marn Ottery did not answer that for about a minute and a half, and the minute an
 
 "No," said Marn Ottery, and she said it fast, and then she said it again slower, which is what she does about four times a year.
 
-"**I have a rule and I made it myself and there is no form anywhere in this empire for the rule and that is exactly why it is mine. I do not put a sentence of my own into a book with no office on it, because the moment there is a sentence of mine in there with a day on it, then in about four years there is a thing anybody can hold up against me and ask me what I meant by it, and the whole of what I have been afraid of since the second month of the year after is a document with my hand at the foot of it.** A woman of twenty-four asked me in the ninth month of the year after to write down one sentence of her own and put her name under it, and I said no, and the reason I gave her was this one, and she was right to be refused and I have not been thanked for it and I am not going to be."
+"**I have a rule and I made it myself and nothing in this empire has a form for it, and that is exactly why it is mine. I do not put a sentence of my own into a book with no office on it, because the moment there is a sentence of mine in there with a day on it, then in about four years there is a thing anybody can hold up against me and ask me what I meant by it.** And the whole of what I have been afraid of since the second month of the year after is a document with my hand at the foot of it. A woman of twenty-four asked me in the ninth month of the year after to write down one sentence of her own and put her name under it, and I said no, and the reason I gave her was this one, and she was right to be refused and I have not been thanked for it and I am not going to be."
 
 ---
 
 "So there is no record that I asked you anything."
 
-"None at all," said Marn Ottery. "You asked me one plain question on the fourth day of the fourth week of the fourth month of the year after next at about the tenth hour and I have given you nine sentences and about a minute and a half and I have written nothing down and I am not going to, and you are the only person in this empire who knows it, and I am the only other one, and **in about four years neither of us can prove a word of it, and I have wanted a thing for myself in this matter for two years and I have just not had it on purpose, and I have never once done that before and I would like it noticed that I noticed.**"
+"None at all," said Marn Ottery. "You asked me one plain question on the fourth day of the fourth week of the fourth month of the year after next at about the tenth hour and I have given you nine sentences and about a minute and a half, and I have written nothing down and I am not going to. You are the only person in this empire who knows it, and I am the only other one, and **in about four years neither of us can prove a word of it, and I have wanted a thing for myself in this matter for two years and I have just not had it on purpose, and I have never once done that before and I would like it noticed that I noticed.**"
 
 She put the copy in front of him and he paid fourpence for it and read it out to himself and went.
 
@@ -86,7 +88,7 @@ She turned it round and put her finger on a printed line near the foot of the se
 
 "And who completes it."
 
-"Whichever office the heading at the top of it names, and the heading at the top of that one names an office, and the office is in another building, and I have never seen anybody from it and I have never been sent anything from it and there is no form in this empire that says a person may send anybody anything." She gave the folder back. "**And that is the fourth time somebody has been in this room and not got what they came for**, and three of the other three were clerks, and a clerk is the cheapest person in a city to send and nobody has ever sent me, and I have been at this counter eleven years and I have been here for all four of them."
+"Whichever office the heading at the top of it names, and the heading at the top of that one names an office, and the office is in another building, and I have never seen anybody from it and I have never been sent anything from it and there is nowhere in this empire that a person may send anybody anything." She gave the folder back. "**And that is the fourth time somebody has been in this room and not got what they came for**, and three of the other three were clerks, and a clerk is the cheapest person in a city to send and nobody has ever sent me, and I have been at this counter eleven years and I have been here for all four of them."
 
 "And if the office in the other building does not do it either," said the man of about fifty.
 
@@ -94,15 +96,15 @@ She turned it round and put her finger on a printed line near the foot of the se
 
 "Then what."
 
-"Then there is no procedure for a form that nobody has completed," said Marn Ottery. "**It goes back. It sits in a tray. It is not a complaint and it is not a refusal and nobody is going to be told about it**, and there is no form anywhere in this empire that says what a person may do with a piece of paper that has come back with a line on it not completed."
+"Then there is no procedure for a form that nobody has completed," said Marn Ottery. "**It goes back. It sits in a tray. It is not a complaint and it is not a refusal and nobody is going to be told about it**, and no form in this empire says what a person may do with a piece of paper that has come back with a line on it not completed."
 
 "So I have got a piece of paper."
 
-"You have got a piece of paper with a day on it and a heading at the top of it and about nine hundred of those go out of about nine hundred buildings in this empire in a year, and one goes to every district, and a return goes to one district and not to two, and when one comes back, all that has happened is that a person somewhere has found out that an office is a word over a door with nobody behind it. That is worth knowing. It is not worth fourpence and I am not going to charge you for it, because I have not got a line on the board for it and I am not going to cut one."
+"You have got a piece of paper with a day on it and a heading at the top of it and about nine hundred of those go out of about nine hundred buildings in this empire in a year, and one goes to every district, and a return goes to one district and not to two. When one comes back, all that has happened is that a person somewhere has found out that an office is a word over a door with nobody behind it. That is worth knowing. It is not worth fourpence and I am not going to charge you for it, because I have not got a line on the board for it and I am not going to cut one."
 
 "You could put one."
 
-"I have got a knife in this drawer," said Marn Ottery, "and it is the same knife I use for the box of blanks under this counter, and I have taken it out and looked at a blank and put it back, and that was in the first week of the second month of the year after next, and I have not taken it out since, and you are not going to make me, and if you are going to keep standing there I am going to serve the next person at this rail."
+"I have got a knife in this drawer," said Marn Ottery, "and it is the same knife I use for the box of blanks under this counter, and I have taken it out and looked at a blank and put it back, and that was in the first week of the second month of the year after next, and I have not taken it out since, and you are not going to make me. If you are going to keep standing there I am going to serve the next person at this rail."
 
 
 ---
@@ -111,4 +113,4 @@ Then she wiped the slab, which takes about a minute and is the only part of the 
 
 "Four, in about a hundred and forty years, and it has not moved since the second day of the first week of the first month of the year after next. A court room in the fifth month of the year after that wanted a record. A clerk's window in the first week of the tenth, by a man afraid about his own household. A desk in the second week of the eleventh, by a woman of twenty who walked about four miles. A rented room in the first week of the first month of the year after next, by the same woman, who walked about nine miles in a day. Two of the four were accidents. The third was the first one anybody did on purpose. **And a man of about sixty has now been in this room about nine times in a fortnight of weeks wanting to ask and using about a third of it, and that is not one of the four, because it is not about a word on a form, and I have said so out loud twice this morning and I am not going to be thanked for saying it.**"
 
-The board over her head had four things on it and none of them was a question, and there is a blank in a box under the counter that she took out in the first week of the second month of the year after next and looked at and did not cut a line in, and there is no form in this empire that says a clerk of a notary's table may put a question on a fee board, and nobody has ever sent anybody anywhere, and the count is four, and the ink is dry, and the fourth day of the fourth week of the fourth month of the year after next came and went at that counter exactly as the two hundred years before it did.
+The board over her head had four things on it and none of them was a question, and the ink on the last copy she made was dry. The fourth day of the fourth week of the fourth month of the year after next came and went at that counter exactly as the two hundred years before it did, and the count is four, and it has not moved, and nobody was sent anywhere, and there is still a blank in the box under the counter that she has not cut a line in.

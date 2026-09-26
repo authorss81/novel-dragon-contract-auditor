@@ -1,6 +1,8 @@
 # Chapter 221: A Name In A Book Is Not An Answer
 
-The tray went up the corridor at about the ninth hour and came down again at about the quarter past, and the room is on the ground floor of a building off the old river road and it has a window about two feet wide with no pane in it, and a shelf against the far wall with eleven books on it, and a table, and a chair.
+The tray went up the corridor at about the ninth hour and came down again at about the quarter past.
+
+The room is on the ground floor of a building off the old river road. It has a window about two feet wide with no pane in it, and a shelf against the far wall with eleven books on it, and a table, and a chair.
 
 Orla Denning is about fifty-five. She has been at the table nineteen years and she has entered about four thousand things into those eleven books, and there is no name in any one of them, and that is not carelessness, it is the only shape a minute book has got.
 
@@ -22,7 +24,7 @@ Then she put the pen down and said it out loud, to the room, because a room is t
 
 She waited, in case the tray heard it, and the tray was on the stairs.
 
-"Naming a thing is not the same as answering it and there is no form anywhere in this empire that requires a person to answer one. I have written that in a book in about nine seconds and there is no form anywhere in this empire that requires me to do anything else about it, and I am not going to do anything else about it, and I would like it read back to me by somebody in a room and there is nobody who is going to."
+"Naming a thing is not the same as answering it and there is no form anywhere in this empire that requires a person to answer one. I have written that in a book in about nine seconds and nothing in this empire requires me to do anything else about it, and I am not going to do anything else about it, and I would like it read back to me by somebody in a room and there is nobody who is going to."
 
 ---
 
@@ -125,5 +127,11 @@ Then she said the thing that had been sitting under all of it since she had take
 He did not look as though he had understood that and she did not explain it.
 
 "A document nobody has read is a thing that can be read next week by anybody who is patient. A document that cannot be produced is a thing that can be produced next month, or next year, or never, and there is nobody in between to hurry it. And the same machinery that made the two of you is the machinery that made the absence, and it makes both in about nine seconds, and it has never once asked anybody."
+
+---
+
+Then the man of about thirty put the tray down on the table again, which he is not supposed to do twice, and said, "You have names in that book."
+
+"No," said Orla Denning. "I have got about nine hundred and forty names on a shelf and I have never once asked about one of them. There is a man of thirty-eight in this city called Marek Kest whose name is not on any of them and never has been, and nobody has ever come to that room and asked me to look for him. I am not going to either, and if you told me this morning that he had stood in it I should be surprised, and I should want to know what day."
 
 The tray went up the corridor and came down again at about the half hour, and Orla Denning wrote nothing else in the sixth book that day. The day is against the entry and her name is at the foot of the entry and the answer is not in the book, and there is no form anywhere in this empire that requires a person to answer a question once it has been written down with a day on it and a clerk's name underneath it. About nine hundred buildings in this empire have a form for asking. Not one of them has a form for waiting, and nobody has ever been appointed to the waiting, and that is the whole of what happened on the second day of the first week of the third month of the year after next in a room on the ground floor of a building off the old river road, and it was nine seconds and a tray.

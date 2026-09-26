@@ -1,6 +1,6 @@
 # Chapter 227: Nine Miles A Second Time, And The Word He Would Not Put Down
 
-She walked about nine miles on the fourth day of the third week of the fourth month of the year after next and she did it in one day and in about eleven hours with two stops, and she had the address in her head and not on a paper, and the reason she had the address in her head is that a clerk of thirty-four said it out loud at a counter in the second week of the ninth month of the year after and then said it again in the fourth week of the first month of the year after next, in about nine seconds, for nothing, and would not say why.
+She walked about nine miles on the fourth day of the third week of the fourth month of the year after next and she did it in one day and in about eleven hours with two stops, and she had the address in her head and not on a paper. The reason she had the address in her head is that a clerk of thirty-four said it out loud at a counter in the second week of the ninth month of the year after, and then said it again in the fourth week of the first month of the year after next, in about nine seconds, for nothing, and would not say why.
 
 Nell Kest is twenty. She is a dye-house worker and her wage is held and there are now sixteen books in a room two streets off a street that goes down to the river road and not one of them has an office on it. She was in the room in a rented room about nine miles from a building off that road.
 
@@ -104,7 +104,7 @@ Tamsin Rook had not moved and had not written anything down and she had said the
 
 "That is the second time somebody has said that to me about the twelfth line."
 
-"It is the first time I have said it and I have wanted to say it since the first week of the tenth month, and I am saying it now because she asked a question in a room and got an answer, and a person who gets an answer is a person somebody has answered, and there are two of us in this empire and one of us is twenty and one of us has nothing at all, and I have been the price of a party out loud ten times and nobody has thanked me once and I did not expect to be thanked once and I would like it written down that I did not."
+"It is the first time I have said it and I have wanted to say it since the first week of the tenth month, and I am saying it now because she asked a question in a room and got an answer, and a person who gets an answer is a person somebody has answered. There are two of us in this empire and one of us is twenty and one of us has nothing at all, and I have been the price of a party out loud ten times and nobody has thanked me once. I did not expect to be thanked once and I would like it written down that I did not."
 
 ---
 

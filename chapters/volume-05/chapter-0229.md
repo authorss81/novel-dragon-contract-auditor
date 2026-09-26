@@ -47,7 +47,7 @@ Then she said the thing, and she said it to him, and it was not about the works.
 
 "**If the office was meant to be temporary, who changed it into an inheritable one.**"
 
-Rennick Adley did not answer it, and he did not ask her where she had got it, and neither of those was careful. Both of them were the arrangement, and the arrangement was made in the seventh month of the year after in a shed with about nine men in it and it is that the day he asks her is the day she stops saying the half of a sentence she has got, and the half came out of her mouth in the last week of the eleventh month of the year after to a man from a district works who asked her a question about the works, and it cannot be got back, and he heard it and did not ask and did not write it down.
+Rennick Adley did not answer it, and he did not ask her where she had got it, and neither of those was careful. Both of them were the arrangement, and the arrangement was made in the seventh month of the year after in a shed with about nine men in it. It is that the day he asks her is the day she stops saying the half of a sentence she has got, and the half came out of her mouth in the last week of the eleventh month of the year after to a man from a district works who asked her a question about the works. It cannot be got back, and he heard it and did not ask and did not write it down.
 
 "That is a plain question," said Rennick Adley, after about half a minute, "and it is not about a word on a form, and I am not going to count it and neither are you."
 
@@ -73,7 +73,7 @@ He put his hand flat on the ledger and did not open it.
 
 ---
 
-"And the name of the thing is in about nine hundred documents in this empire," said Halla Wray. "I have read it nine times on a sheet of good paper on this bench and there is a seal at the foot of it and nothing under the seal, and the second line asks that no inference be drawn from the absence of any name, and there is a copy of the six lines in a book of my own with the day against it and no name on it, and neither of those two sheets is in my hand except one of them and that one is a copy and I wrote it out myself, and neither of them has my name on it and I did not put it there."
+"And the name of the thing is in about nine hundred documents in this empire," said Halla Wray. "I have read it nine times on a sheet of good paper on this bench and there is a seal at the foot of it and nothing under the seal, and the second line asks that no inference be drawn from the absence of any name. There is a copy of the six lines in a book of my own with the day against it and no name on it, and neither of those two sheets is in my hand except one of them and that one is a copy and I wrote it out myself, and neither of them has my name on it and I did not put it there."
 
 "You have read the notice nine times."
 
@@ -91,7 +91,7 @@ He put his hand flat on the ledger and did not open it.
 
 ---
 
-Then she went in and he did not follow her, and he sat on the bench with the ledger shut and the four lines on it and about nine men going up the road, and he did the second thing he had come to do, which is an entry, and it is an entry in his own hand with the day against it in a book with no heading at the top of it and a name at the foot of every line of a list of works.
+Then she went in and he did not follow her, and he sat on the bench with the ledger shut and the four lines on it and about nine men going up the road. He did the second thing he had come to do, which is an entry, and it is an entry in his own hand with the day against it in a book with no heading at the top of it and a name at the foot of every line of a list of works.
 
 He wrote: *A girl of seventeen is on this list of works at the rate the list is set at, on a written engagement, on her fourth day. She has not been thanked. Nobody has thanked her.*
 
@@ -109,7 +109,7 @@ He shut the book.
 
 He did not write the question down either. That was the second thing, and it was harder than the first, and it is the first time in about two years he has wanted to put a thing in that book and not done it, and there is no form anywhere in this empire for a thing a man wanted to write and did not.
 
-"A foreman of fifty-one said a question out loud in a shed on the second day of the first week of the fifth month of the year after next," he said, to the bench, "and about nine men heard it and not one of them will be able to repeat it, and neither can I in about four years, and the man who can repeat it is the one person in this empire that the question is about, and he is not in this room, and he cannot be in this room, and there is no form in this empire that says a man has to be in a room."
+"A foreman of fifty-one said a question out loud in a shed on the second day of the first week of the fifth month of the year after next," he said, to the bench, "and about nine men heard it and not one of them will be able to repeat it, and neither can I in about four years. The man who can repeat it is the one person in this empire that the question is about, and he is not in this room, and he cannot be in this room, and no form in this empire says a man has to be in a room."
 
 ---
 
@@ -125,4 +125,10 @@ A man of about fifty from the fourth gang came to the door at about the sixth ho
 
 ---
 
-The lamp was not lit and it was later than it ought to be, and there were four lines on a bench that are not going to be answered, and a bill at Lowcross at nineteen pounds three and fourpence with no line against it in nineteen years, and a guarantee standing offered and unanswered on about four hundred and forty foot of bank with about sixty children under sixteen inside it, and a reader of seventeen on a list of works at the rate the list is set at who was not thanked and was not spoken to about the season and is not going to start, and about four men who cannot read a paragraph who have still never been asked what the hold is, and a book-keeper of thirty-eight with a book shut on his knee and an entry in it with no reason under it, and a foreman's question in a shed at about the fifth hour that nobody answered and that he is not going to write down, and the count is four, and it has not moved, and the lamp is not lit yet.
+The lamp was not lit and it was later than it ought to be, and there were four lines on a bench that are not going to be answered, and a bill at Lowcross at nineteen pounds three and fourpence with no line against it in nineteen years.
+
+There is a guarantee standing offered and unanswered on about four hundred and forty foot of bank with about sixty children under sixteen inside it. There is a reader of seventeen on a list of works at the rate the list is set at, who was not thanked and was not spoken to about the season and is not going to start. There are about four men who cannot read a paragraph who have still never been asked what the hold is. There is a book-keeper of thirty-eight with a book shut on his knee and an entry in it with no reason under it, and a foreman's question in a shed at about the fifth hour that nobody answered and that he is not going to write down.
+
+And about four hundred and thirty miles down this river there is a man of thirty-eight with no office in a rented room, and he is not in any of those, and he is the one of them that anybody can go looking for and come back from with nothing, because there is nothing there to find. He says that out loud, in rooms, to whoever is standing in them. It is the reason nobody in this shed is going to hear a name this season.
+
+The count is four, and it has not moved, and the lamp is not lit yet.

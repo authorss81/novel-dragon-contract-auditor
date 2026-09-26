@@ -34,9 +34,9 @@ Then he did not go.
 
 "Then what are you here for."
 
-"**A man in two districts is a man in two districts, and there is no form anywhere in this empire that says a person may only be in one.** Your household is at a door, and it was at a door on a street with a shop on it, and it is at a door over the boundary, and both of those doors are real and both of them have people sleeping at them, and this court's roll has one of them in it and the other court's roll has the other one, and the two rolls are in two buildings with a street and a river between them, and there is nothing anywhere in this empire that joins them."
+"**A man in two districts is a man in two districts, and there is no form anywhere in this empire that says a person may only be in one.** Your household is at a door, and it was at a door on a street with a shop on it, and it is at a door over the boundary, and both of those doors are real and both of them have people sleeping at them. This court's roll has one of them in it and the other court's roll has the other one, and the two rolls are in two buildings with a street and a river between them, and there is nothing anywhere in this empire that joins them."
 
-"About nine hundred districts," said Ivet Sarn, "and this court sends one return to every one of them and a return goes to one district and not to two, and a man can be at a door in four districts in four rolls in this empire and be on none of them in the sense he means, and I told you that in the first week of the tenth month of the year after and it has taken you until the first week of the fourth month of the year after next to be able to do arithmetic about it."
+"About nine hundred districts," said Ivet Sarn, "and this court sends one return to every one of them, and a return goes to one district and not to two, and a man can be at a door in four districts in four rolls in this empire and be on none of them in the sense he means. I told you that in the first week of the tenth month of the year after, and it has taken you until the first week of the fourth month of the year after next to be able to do arithmetic about it."
 
 ---
 
@@ -104,14 +104,14 @@ It was, a couple of inches, on the left of the corridor about halfway along, and
 
 "You were not going to go in there when I said it."
 
-"I was not going to go in there before you said it and I am not going to go in there now, and you have not asked me to and I want that noticed, because a man who stands in a corridor and does not ask a question is doing me a favour and there is no form in this empire for that either and I have got about nine of them to my account and not one of them is a debt I can pay back."
+"I was not going to go in there before you said it and I am not going to go in there now, and you have not asked me to and I want that noticed. A man who stands in a corridor and does not ask a question is doing me a favour, and there is no form in this empire for that either, and I have got about nine of them to my account and not one of them is a debt I can pay back."
 ---
 
 Then she went up the corridor, which she does about four times a day, to the second press, because a man of about fifty had asked for a second copy of a thing he had already had and had not given a reason for and she was not entitled to one.
 
-The corridor is about four hundred yards long and there are four presses along it and the presses hold about four hundred returns a year between them, bought and filled in, and the majority of them are a household at a door and the day and the water, and about four hundred a year at this window and about four hundred a year in the presses, and none of the two four hundreds is a question and nobody has ever asked either of them for anything.
+The corridor is about four hundred yards long and there are four presses along it and the presses hold about four hundred returns a year between them, bought and filled in, and the majority of them are a household at a door and the day and the water. About four hundred a year at this window and about four hundred a year in the presses, and none of the two four hundreds is a question, and nobody has ever asked either of them for anything.
 
-And on the way back she stopped at the door a couple of inches open, halfway along, and she stood there for about four seconds, and she did not go in, and there is nothing in that room that anybody has ever told her about, and she has got a drawer in her own room with a paper in it about a winter that she has never told the court about, and she knows what it is to have opened a room nobody asked her about, and she knows what it costs in about four years.
+And on the way back she stopped at the door a couple of inches open, halfway along, and she stood there for about four seconds, and she did not go in, and there is nothing in that room that anybody has ever told her about. She has got a drawer in her own room with a paper in it about a winter that she has never told the court about, and she knows what it is to have opened a room nobody asked her about. She knows what it costs in about four years.
 
 She came back down the corridor and put the second copy on the sill and read it out and the man of about fifty said it was right and paid fourpence again and went.
 
@@ -121,7 +121,7 @@ She came back down the corridor and put the second copy on the sill and read it 
 
 "Would it tell you anything."
 
-"It would tell me that a man of about fifty wanted a second piece of paper for about fourpence, and that is a different thing, and it is the only thing it would tell me, and I have nine years of nine of those a year and not one of them has ever been worth the asking." She put the copy face down on the sill. "And I have just walked past four presses with about four hundred returns in them and I have not told you what is in the presses, and that is not an oversight and I am not going to let it be one, because I told you about nine inches under this sill and I have not told you about the four hundred yards behind you, and both of those are true, and the reason I told you the first one is that you came back and asked me nothing, and the reason I am not telling you the second one is that you came back and asked me nothing, and I have not got two different reasons and I have got one and I am using it twice."
+"It would tell me that a man of about fifty wanted a second piece of paper for about fourpence, and that is a different thing, and it is the only thing it would tell me, and I have nine years of nine of those a year and not one of them has ever been worth the asking." She put the copy face down on the sill. "And I have just walked past four presses with about four hundred returns in them and I have not told you what is in the presses, and that is not an oversight and I am not going to let it be one. I told you about nine inches under this sill and I have not told you about the four hundred yards behind you, and both of those are true. The reason I told you the first one is that you came back and asked me nothing, and the reason I am not telling you the second one is that you came back and asked me nothing, and I have not got two different reasons. I have got one and I am using it twice."
 
 ---
 
@@ -139,4 +139,8 @@ And after that, in the same book, on the same day, a second line, and it is the 
 
 ---
 
-She put the book away and looked at the corridor, which was empty, and at the door a couple of inches open halfway along it, and she did not go and close it either, and there is no form anywhere in this empire that requires a person to shut a door, and the count is four, and it has not moved since the second day of the first week of the first month of the year after next, and a woman of about thirty-five in another city has said in a room that a name in a book does not go looking, and a woman of sixty-three in the same city has said her own name out loud in a street three times to nobody, and neither of those is an asking either, and none of the three of them is a form, and none of them is a post, and there is no heading over any of them and that is the reason they have all three of them got as far as they have got, which is not far, and which is the whole of the first week of the fourth month of the year after next in a room on a flood terrace about four hundred and thirty miles down this river from where any of it was said.
+She put the book away and looked at the corridor, which was empty, and at the door a couple of inches open halfway along it, and she did not go and close it either, and nothing anywhere in this empire requires a person to shut a door.
+
+The count is four, and it has not moved since the second day of the first week of the first month of the year after next. A woman of about thirty-five in another city has said in a room that a name in a book does not go looking. A woman of sixty-three in the same city has said her own name out loud in a street three times to nobody. And four hundred and thirty miles up this river there is a man of thirty-eight in a rented room called Marek Kest, who has no office and no fund and no register and whose name is not on any of the boards in that city. He is the only one of them that could not be produced if she were asked for him.
+
+None of them is an asking, and none of them is a form, and none of them is a post, and there is no heading over any of them, and that is the reason they have got as far as they have got, which is not far. It is the whole of the first week of the fourth month of the year after next in a room on a flood terrace about four hundred and thirty miles down this river from where any of it was said.

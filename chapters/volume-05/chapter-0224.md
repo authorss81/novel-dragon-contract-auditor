@@ -1,6 +1,6 @@
 # Chapter 224: A Name In A Street Is Not A Name In A Book
 
-The room is above a shop and it is hired by the day and the woman who keeps it is about thirty-five and she has a book on the shelf behind the counter with the day against every name in it, and she is not unkind, and Bess Tarrant has watched her be kind to about nine people for no reason since the second month and knows exactly what it is when it is on the way to becoming a document.
+The room is above a shop and it is hired by the day and the woman who keeps it is about thirty-five and she has a book on the shelf behind the counter with the day against every name in it, and she is not unkind, and the woman who rents the room has watched her be kind to about nine people for no reason since the second month and knows exactly what it is when it is on the way to becoming a document.
 
 Bess Tarrant is sixty-three. She keeps a house about four miles off the old river road that is not shut and that she is the only person who knows is not shut. She can write and she cannot read a paragraph. She has a copy of nine lines in her own hand in her coat and she has not read it and cannot read it and has had it read to her once, in a doorway, in a lane about four hundred and thirty miles up this river, by a man who cuts kindling, and there was no form and no fee and no day at the end of it.
 
@@ -8,7 +8,7 @@ She came to this city in the second month of the year after. Nobody sent her. Th
 
 ---
 
-It was the fourth day of the fourth week of the third month of the year after next and she had been in the city since the second month of the year after, and she had been in that room nine nights out of fourteen since the second week of the third month, and she had a habit now of standing at the end of the street by the river road at about the sixth hour on the days she came back from the shop, which is not a habit she decided on and is one she has not decided off.
+It was the fourth day of the fourth week of the third month of the year after next and she had been in the city since the second month of the year after, and she had been in that room nine nights out of fourteen since the second week of the third month. She had a habit now of standing at the end of the street by the river road at about the sixth hour on the days she came back from the shop. It is not a habit she decided on, and she has not decided off.
 
 The woman of about thirty-five said the day out loud when Bess Tarrant came in, because she always did, and then she said something else.
 
@@ -44,19 +44,19 @@ The woman of about thirty-five looked at the book on the shelf.
 
 "Who says that?"
 
-"A woman of about fifty-five in a room off the old river road said it to me on the second day of the second week of the twelfth month of the year after, and she said it because I asked her to go and look for me in a book of about nine hundred and forty names, and she said no, and I want you to understand that she said no to the one thing I asked her for and she was right and I have not been able to think of anything better since."
+"A woman of about fifty-five in a room off the old river road said it to me on the second day of the second week of the twelfth month of the year after, and she said it because I asked her to go and look for me in a book of about nine hundred and forty names, and she said no. I want you to understand that she said no to the one thing I asked her for, and she was right, and I have not been able to think of anything better since."
 
 ---
 
-"She said the name in a book only goes looking when somebody goes looking," said Bess Tarrant, "and she is the one in that building who goes looking, and that is the whole of why she said no. And I have been sitting on that sentence for about three weeks and I have just worked out what it is, and I am going to say it and then I am going to go down to the shop and I am not going to come back up before dark."
+"She said the name in a book only goes looking when somebody goes looking," said Bess Tarrant, "and she is the one in that building who goes looking, and that is all of why she said no. And I have been sitting on that sentence for about three weeks and I have just worked out what it is, and I am going to say it and then I am going to go down to the shop and I am not going to come back up before dark."
 
-"**A name in a book does not go looking, and a name in a street does not go looking either.** A name in a street is not a name in a book, and there is no form anywhere in this empire that puts a street in a book, and a person who says their own name in a street cannot be produced, because there is no form that says a person must produce themselves on being asked. That is the first thing I have found out in about three weeks and I have found it out in a room above a shop and I have not got a use for it and I am not going to take it up with anybody."
+"**A name in a book does not go looking, and a name in a street does not go looking either.** A name in a street is not a name in a book, and no form in this empire puts a street in a book, and a person who says their own name in a street cannot be produced, because there is nothing anywhere that says a person must produce themselves on being asked. That is the first thing I have found out in about three weeks and I have found it out in a room above a shop and I have not got a use for it and I am not going to take it up with anybody."
 
 "There is one more part of it and it is the part I have not said to anybody, and I am going to say it to a woman of thirty-five because she has a book on a shelf and no reason to know what a book is."
 
 The woman of about thirty-five did not say anything for about half a minute, and then she said, "I have had that book eleven years."
 
-"I know," said Bess Tarrant. "And you have never once been asked what it is for, and I have never once been asked what my house is, and there is a form in this empire for a house and there is a form in this empire for a room and there is not one in this empire for a book of days in a lodging house, and I have looked, and I cannot read a paragraph so I looked with a clerk of thirty-four in the ninth month of the year after and she looked as well."
+"I know," said Bess Tarrant. "And you have never once been asked what it is for, and I have never once been asked what my house is, and there is a form in this empire for a house and there is a form in this empire for a room, and there is not one in this empire for a book of days in a lodging house, and I have looked. I cannot read a paragraph, so I looked with a clerk of thirty-four in the ninth month of the year after, and she looked as well."
 
 "That is the second clerk."
 
@@ -68,7 +68,7 @@ The woman of about thirty-five sat down on the edge of the counter.
 
 "You are telling me that I have been keeping a book that cannot hurt anybody."
 
-"I am telling you that you have been keeping a book that cannot hurt anybody **until somebody who is paid to look for people decides to look in it**, and that is one person in this empire and she is about fifty-five and she has already refused once, and I am telling you because you are thirty-five and you have a book on a shelf and nobody has ever told you what a book is, and I was sixty-three before anybody told me and I did not have anybody to tell me."
+"I am telling you that you have been keeping a book that cannot hurt anybody **until somebody who is paid to look for people decides to look in it**, and that is one person in this empire and she is about fifty-five and she has already refused once, and I am telling you because you are thirty-five and you have a book on a shelf and nobody has ever told you what a book is. I was sixty-three before anybody told me, and I did not have anybody to tell me."
 
 "You are telling me now."
 
@@ -90,7 +90,7 @@ Then the woman of about thirty-five asked her the thing she had not expected, an
 
 She went down at about the fifth hour and she went to the shop and she bought nothing she needed, and then she came back up the street, which is a street that goes down to the river road, and she stood at the end of it the way she stands at a wall most days.
 
-And on the fourth day of the fourth week of the third month of the year after next, at about the sixth hour, in a street that goes down to the river road, in a city about nine miles from a building off that same road, Bess Tarrant said her own name out loud. Three times. To nobody. There were about nine people going past and not one of them turned round, and one of them was a man going to a counter with four words in his head and fourpence in his hand, and he did not hear it, and he will not have heard it, and that is the whole of what happened.
+And on the fourth day of the fourth week of the third month of the year after next, at about the sixth hour, in a street that goes down to the river road, in a city about nine miles from a building off that same road, Bess Tarrant said her own name out loud. Three times. To nobody. There were about nine people going past and not one of them turned round, and one of them was a man going to a counter with four words in his head and fourpence in his hand, and he did not hear it, and he will not have heard it, and that is all that happened.
 
 **She did it on purpose, and nobody sent her, and there is no form anywhere in this empire for a person who says their own name in a street.**
 
@@ -102,7 +102,7 @@ She has been unfindable for nine years and for no other span, and she has had th
 
 **And a person who says their own name in a street is findable, and being findable is the one thing that has never once worked in her favour, and she has done it anyway, on purpose, three times, to nobody, and there is not one form in this empire that can tell her she was wrong to.**
 
-"Not for the asking," she said to the wall. "Not because anybody asked me and not because I have worked out that being found is good. Because a woman of about fifty-five has written nineteen years of minutes about a thing she has never been in a room with, and a man of about thirty-four bought a copy at fourpence and went home, and a woman of twenty has been in a box since the fifth month of the year after and does not know she is in it, and not one of them can be found by a thing anybody in this city could go and look for, and every one of them found out what had happened to them because a person said something out loud to them. Not to a book. To them."
+"Not for the asking," she said to the wall. "Not because anybody asked me and not because I have worked out that being found is good. Because a woman of about fifty-five has written nineteen years of minutes about a thing she has never been in a room with, and a man of about thirty-four bought a copy at fourpence and went home, and a woman of twenty has been in a box since the fifth month of the year after and does not know she is in it. Not one of them can be found by a thing anybody in this city could go and look for, and every one of them found out what had happened to them because a person said something out loud to them. Not to a book. To them."
 
 ---
 
@@ -116,8 +116,12 @@ Then she went back up the stairs and the woman of about thirty-five had left the
 
 She cannot read a paragraph. She can write, and her hand is in a copy of nine lines in her own coat that she has never been able to read and has had read to her once, and the hand is the same hand, and she knows it is the same hand because a man who cuts kindling read it to her twice and said so the second time.
 
-She wrote to a woman of about thirty-five in a room above a shop, three streets off, in which she told her that there is a date four years off in a minute book in a building off the old river road and that it is not hers and that she is not going to find out, and that the woman of about fifty-five who wrote it down is right not to look for anybody and would be right to look for one person, and that the one person is her.
+She wrote to a woman of about thirty-five in a room above a shop, three streets off. In it she told her that there is a date four years off in a minute book in a building off the old river road and that it is not hers and that she is not going to find out, and that the woman of about fifty-five who wrote it down is right not to look for anybody and would be right to look for one person, and that the one person is her.
+
+And she wrote one more thing in the same letter, and it is four lines. The first line is a name, and the name is Marek Kest, and she wrote it out of her own head in the hand that has not changed since a copy of nine lines. The second line is that the woman of about fifty-five has never looked for him and never will, and the third line is that a woman of sixty-three who cannot read a paragraph is saying that name to a woman with a book on purpose. The fourth line is that she would rather the woman of about thirty-five did not write it down, and she is going to say so in the room as well on her way down.
 
 She put the day against it in her own hand and read it back to herself out loud, once, and it is nine words and she got all of them right the first time.
 
-Then she put it in her coat with the copy of nine lines, and did not take it down to the shop, and did not give it to the woman of about thirty-five, and did not go out in the street and say anything else, and there is no form anywhere in this empire for a woman of sixty-three to take a piece of paper down a street, and she has about three weeks before the lamp is a thing she cannot afford, and she has a house about four miles off the old river road that is not shut and that she is the only person who knows is not shut, and a name in a street is not a name in a book, and she said her name three times at about the sixth hour and not one of about nine people heard it, and that is the whole of the fourth week of the third month of the year after next and it is not the end of anything.
+Then she put it in her coat with the copy of nine lines, and did not take it down to the shop, and did not give it to the woman of about thirty-five, and did not go out in the street and say anything else. There is no form anywhere in this empire for a woman of sixty-three to take a piece of paper down a street, and she has about three weeks before the lamp is a thing she cannot afford.
+
+She has a house about four miles off the old river road that is not shut and that she is the only person who knows is not shut. A name in a street is not a name in a book, and she said her name three times at about the sixth hour and not one of about nine people heard it, and that is the whole of the fourth week of the third month of the year after next and it is not the end of anything.

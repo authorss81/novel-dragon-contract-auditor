@@ -20,17 +20,17 @@ Nobody said anything, and the men in that shed filled it and the lamp was not li
 
 ---
 
-"Because I am the foreman," said Halla Wray, "and a foreman who is found is a foreman somebody can be asked to be a guarantor. There is no form in this empire for asking a woman of fifty-one on a bank to be a guarantor, and there never has been one, and that is not an accident. It is why the third reason is worse than the other two, and I have known it since the second day of the first week of this month and I have not said it until today."
+"Because I am the foreman," said Halla Wray, "and a foreman who is found is a foreman somebody can be asked to be a guarantor. Nobody in this empire has ever drawn up a form for asking a woman of fifty-one on a bank to be a guarantor, and there never has been one, and that is not an accident. It is why the third reason is worse than the other two, and I have known it since the second day of the first week of this month and I have not said it until today."
 
-"A guarantee does not ask a person whether it is a good idea. It is written so that the answer is on a line at the foot of it with a name on that line, and a foreman who has not been asked anything since the seventh month of the year after is a foreman whose name has never been on a line, and that is the only thing standing between this bank and a piece of paper with my name at the bottom of it, and it is not a wall, it is a habit, and habits can be given up in a shed at about the fourth hour of the afternoon by a person who is tired."
+"A guarantee does not ask a person whether it is a good idea. It is written so that the answer is on a line at the foot of it with a name on that line, and a foreman who has not been asked anything since the seventh month of the year after is a foreman whose name has never been on a line, and that is the only thing standing between this bank and a piece of paper with my name at the bottom of it. It is not a wall. It is a habit, and habits can be given up in a shed at about the fourth hour of the afternoon by a person who is tired."
 
-"I have given one reason about the four who cannot read a paragraph and it was a bad one. I have given a second one about a girl of seventeen in the third week of the first month of the year after next and it was the same bad reason twice. **This is the third and it is not the same and it is worse, because the other two were about four men and one girl and this one is about forty-one people and about sixty children, and if I am found then the cheapest thing anybody can do with a foreman on this bank is put a piece of paper in front of her and ask her to sign it, and nobody has asked me and nobody is going to and I have just worked out in a shed at about the fourth hour of the afternoon why nobody is going to.**"
+"I have given one reason about the four who cannot read a paragraph and it was a bad one. I have given a second one about a girl of seventeen in the third week of the first month of the year after next and it was the same bad reason twice. **This is the third and it is not the same and it is worse, because the other two were about four men and one girl and this one is about forty-one people and about sixty children, and if I am found then the cheapest thing anybody can do with a foreman on this bank is put a piece of paper in front of her and ask her to sign it.** And nobody has asked me and nobody is going to, and I have just worked out in a shed at about the fourth hour of the afternoon why nobody is going to."
 
 ---
 
 "You are saying being found is a danger."
 
-"I am saying being found is a **door**, and I have been standing in front of it for about nine years and I never knew that was what I was doing, and I have said in this shed in the fourth week of the ninth month of the year after that I would like to be found, and I meant it, and I am not going to unsay it, and I am also not going to pretend I did not know what it cost."
+"I am saying being found is a **door**, and I have been standing in front of it for about nine years and I never knew that was what I was doing, and I have said in this shed in the fourth week of the ninth month of the year after that I would like to be found, and I meant it, and I am not going to unsay it. I am also not going to pretend I did not know what it cost."
 
 She put her hand flat on the bench.
 
@@ -44,11 +44,11 @@ A man of about fifty-five came in with a chain and asked about the third link, a
 
 **And she did not ask him.** Not about the hold and not about the season and not about the two sheets on the bench in the store, the one with a seal and nothing under the seal and the one in her own hand with a day against it and no name on it, which are two sheets and only one of them is hers and neither of them has her name in it.
 
-And a book-keeper of thirty-eight read a piece of that man's own paper to him in a yard in the first week of the twelfth month of the year after and wrote nothing down and told nobody, and she knew, and she was not going to ask him about it, and the reason she was not going to ask him is the reason she was not going to ask the book-keeper in the third week of the first month of the year after next, which is that asking is the only instrument there is and she has not spent it once in about nine years and neither has anybody else on that bank.
+And a book-keeper of thirty-eight read a piece of that man's own paper to him in a yard in the first week of the twelfth month of the year after and wrote nothing down and told nobody, and she knew, and she was not going to ask him about it, and the reason she was not going to ask him is the reason she was not going to ask the book-keeper in the third week of the first month of the year after next. Asking is the only instrument there is, and she has not spent it once in nine years, and neither has anybody else on that bank.
 
 ---
 
-Then she said the thing she had come to say, and she said it to the shed and not to a person, and there is no form anywhere in this empire that requires a foreman to say a thing to a shed.
+Then she said the thing she had come to say, and she said it to the shed and not to a person, and nothing anywhere in this empire requires a foreman to say a thing to a shed.
 
 "**I have decided to stop being glad of it.**"
 
@@ -56,7 +56,7 @@ The bay was quiet for about a minute.
 
 "I said in a shed in the second week of the third month of the year after that I had been glad of not being asked about anything for nine years and I had not admitted it to anybody, and I admitted it in front of about nine men in the fourth week of the second month of the year after next, and I have not stopped and I am not going to. What I am going to stop is the second thing, and I want the two halves of that said separately because they are two facts and only one of them is a decision."
 
-"**I am not going to make myself easier to ask, and that stands.** It was decided in a room and it was said out loud and it is the wrong decision and I have named the right one and the woman who did it, and I am not going to say any of that a third time in a bay. What I am stopping is the gladness. And I have worked out this week why I was glad, and it is because a foreman who is glad of not being found is a foreman who has arranged to stay in a box, and a box is the cheapest thing anybody in this empire can put a person in, and it costs a clerk about nine seconds, and it does not need a room and it does not need a form and it does not need anybody to be told."
+"**I am not going to make myself easier to ask, and that stands.** It was decided in a room and it was said out loud and it is the wrong decision and I have named the right one and the woman who did it, and I am not going to say any of that a third time in a bay. What I am stopping is the gladness. And I have worked out this week why I was glad. It is because a foreman who is glad of not being found is a foreman who has arranged to stay in a box, and a box is the cheapest thing anybody in this empire can put a person in, and it costs a clerk about nine seconds, and it does not need a room and it does not need a form and it does not need anybody to be told."
 
 ---
 
@@ -64,11 +64,11 @@ The bay was quiet for about a minute.
 
 "Nobody," said Halla Wray. "**That is the point of it and it is the whole of what I have got and I have had since the fourth day of the first week of this month. There is no form anywhere in this empire that says a woman of fifty-one on a bank has to declare what she is not glad about, and there is no post and no wage and no instrument, and a decision that nobody can check is not a rule and it is not going to change anything on this bank and it is mine.**"
 
-"And I want the other half of it said too, because I am not going to be a woman who has found something out and keeps it to herself: **it is the wrong thing to do and the right thing to do is the thing a woman of twenty did in the second week of the eleventh month of the year after, who walked about four miles to a desk and asked how the box got filled, and nobody sent her, and she is the only reason I know what I am, and I have not asked her and I am not going to ask her this season.**"
+"And I want the other half of it said too, because I am not going to be a woman who has found something out and keeps it to herself: **it is the wrong thing to do and the right thing to do is the thing a woman of twenty did in the second week of the eleventh month of the year after, who walked about four miles to a desk and asked how the box got filled, and nobody sent her.** She is the only reason I know what I am, and I have not asked her and I am not going to ask her this season."
 
 ---
 
-A man of about thirty came in from the second gang and asked whether the hold would be on the list before the season shut, and she told him it would not and why, in a foreman's voice, in about four seconds, and he said that was not what he meant and she said it was the only meaning it has, and he went away and about nine men in that shed did not hear any of it and that is what a foreman is.
+A man of about thirty came in from the second gang and asked whether the hold would be on the list before the season shut, and she told him it would not and why, in a foreman's voice, in about four seconds, and he said that was not what he meant and she said it was the only meaning it has. He went away, and about nine men in that shed did not hear any of it, and that is what a foreman is.
 
 And a girl of seventeen was at the back of that bay on her written engagement, on her fourth day, on the same rate as everybody else on the list. **She was not thanked and she did not ask and she is not going to start, and nobody spoke to her about the season, and the foreman of fifty-one did not go over to the back of that bay and there are now three reasons for that and the third one is the guarantee and about sixty children under sixteen are inside it.**
 
@@ -90,8 +90,14 @@ He went, and the third column of that ledger has nineteen reasons in it with a d
 
 A bill at nineteen pounds three and fourpence with no line against it in nineteen years, and a foreman who will not ask a man for a better reason than he has got, and those two facts have been standing on that bank since before the woman of twenty was born and neither of them is going to be paid and neither of them is going to be forgiven.
 
-And a book-keeper of thirty-eight is sitting on a bench about four hundred yards up the road with a book shut on his knee and an entry in it with no reason under it, and he has a half of a sentence in his head that came out of a foreman's mouth in the last week of the eleventh month of the year after, and he has not asked for it, and he is not going to, and it cannot be got back.
+And a book-keeper of thirty-eight is sitting on a bench about four hundred yards up the road with a book shut on his knee and an entry in it with no reason under it. He has a half of a sentence in his head that came out of a foreman's mouth in the last week of the eleventh month of the year after, and he has not asked for it, and he is not going to, and it cannot be got back.
 
-And about nine miles off that road a clerk of about fifty-five has a name at the foot of a question in a book, with a day on it, and the answer is not in that book, and a court asked about a thing with a name nine years ago and has not been answered by the court that asked it, and a foreman of fifty-one said the first half of that out loud in a shed on the second day of the first week of the fifth month of the year after next and nobody answered it and nobody is going to.
+And about nine miles off that road a clerk of about fifty-five has a name at the foot of a question in a book, with a day on it, and the answer is not in that book, and a court asked about a thing with a name nine years ago and has not been answered by the court that asked it. A foreman of fifty-one said the first half of that out loud in a shed on the second day of the first week of the fifth month of the year after next, and nobody answered it and nobody is going to.
 
-Four askings in about a hundred and forty years, and the count has not moved since the second day of the first week of the first month of the year after next, and there is no post in this empire whose job is to ask, and a guarantee is standing on about four hundred and forty foot of bank with about sixty children under sixteen inside it, and a reader of seventeen is at the back of a bay on a written engagement and is not thanked, and about four people in that bay cannot read a paragraph and have never been asked anything and are not going to be, and a woman of fifty-one has said in a shed that she is going to stop being glad of a thing that nobody can check, and the lamp is not lit yet, and that is the end of the movement and it is not the end of anything.
+And about four hundred and thirty miles down that river there is a man of thirty-eight with no office in a rented room with a twelfth line in a book that he has not filled in since the third week of the ninth month of the year after. He has never been able to be served for anything. He has never once written a name down. And if he ever did want the name of a person on that bank he would have to ask a company that has no office and no fund for it, and he would do it in writing, and there is nobody in this city who could stop him, and the clerk in the room nine miles off that road would put the day against it in about nine seconds.
+
+Four askings in about a hundred and forty years, and the count has not moved since the second day of the first week of the first month of the year after next, and there is no post in this empire whose job is to ask.
+
+A guarantee is standing on about four hundred and forty foot of bank with about sixty children under sixteen inside it. A reader of seventeen is at the back of a bay on a written engagement and is not thanked. About four people in that bay cannot read a paragraph and have never been asked anything and are not going to be. A woman of fifty-one has said in a shed that she is going to stop being glad of a thing that nobody can check.
+
+The lamp is not lit yet, and that is the end of the movement and it is not the end of anything.

@@ -20,7 +20,7 @@ Then he sat down and did the thing he had been putting off since the seventh mon
 
 There is not one.
 
-Not *holder*. Not *office*. Not *person*. Not *seat*. There is a word for a family and a word for a claim and a word for a dispute and a word for a thing that is recorded, and there is a person of that family who is of age and resident, and there is a person who may be entered, and there is a person who is not to be entered, and not one of the four definitions has a word in it for a person who holds an office and does a thing in the name of it.
+Not *holder*. Not *office*. Not *person*. Not *seat*. There is a word for a family and a word for a claim and a word for a dispute and a word for a thing that is recorded, and there is a person of that family who is of age and resident, and there is a person who may be entered, and there is a person who is not to be entered. Not one of the four definitions has a word in it for a person who holds an office and does a thing in the name of it.
 
 **He wrote that down, in the fourth week of the ninth month of the year after, in a book with no office on it, in one line, and he read it back, and it is the eleventh line, and it has not been a question since the fourth week of the first month of the year after next.**
 
@@ -32,7 +32,7 @@ He put the sheet down on the table and looked at the four feet of wall.
 
 Then he opened the book with no office on it and looked at the twelve lines in it, and there is a day against the sheet and not against the lines.
 
-Eleven lines with something on them and a twelfth with nothing at all, and he has not filled the twelfth and is not going to, and there is no form anywhere in this empire that requires a man to fill a twelfth line, and there is no form anywhere in this empire that requires him to leave it empty, and that is the whole of the difference between the two things and nobody in this matter can pay for it.
+Eleven lines with something on them and a twelfth with nothing at all, and he has not filled the twelfth and is not going to, and there is no form anywhere in this empire that requires a man to fill a twelfth line, and there never was one that required him to leave it empty, and that is the whole difference between the two things, and nobody in this matter can pay for it.
 
 **A fact on a line in a book with no office on it is the worst of the two, because a question can be answered and a fact can only be repeated.**
 
@@ -40,7 +40,7 @@ He said that one out loud too, and then he shut the book, and the twelfth line w
 
 ---
 
-Then he took out a pencil, which he has not done in this room since the second month of the year after, and put the point on a clean sheet of paper after the twelve lines, and there is no form anywhere in this empire for a man to be issued with a clean sheet of paper, and he has had this one in a drawer since the fourth week of the first month of the year after next, and it is the only paper in this room that is his.
+Then he took out a pencil, which he has not done in this room since the second month of the year after, and put the point on a clean sheet of paper after the twelve lines. Nobody has ever been issued with a clean sheet of paper in this empire, and he has had this one in a drawer since the fourth week of the first month of the year after next, and it is the only paper in this room that is his.
 
 He has a word in his head that a clerk of about fifty-five said once, in a room with a rail in it, in the first week of the fifth month of the year after, and then stopped, and did not say anything else about it, and would not describe the hand and would not say which of two papers of the same office it was. The name is written in about nine hundred documents in this empire. It is not on any of the boards in this city. A court asked about it nine years ago in a room with a number on the door and it has not been answered by the court that asked it.
 
@@ -52,7 +52,7 @@ He put the point on the clean sheet and he did not write it, and then he put the
 
 He said the rest of it out loud because a room is the only kind of place in this empire where a thing like that can be said and he has never once said it to a person and he has said it to this table about four times.
 
-"Nine hundred documents carry that word and not one of them is mine and every one of them is a sheet of paper in a building with a door on it, and a man with a copy of the right page can have that word out of any of them in about a minute, and if it is also in my hand in a book with no office on it then there is a thing in this empire that has my name near it, and in about four years there is a person who can put the two side by side and ask me what I meant by it."
+"Nine hundred documents carry that word and not one of them is mine, and every one of them is a sheet of paper in a building with a door on it. A man with a copy of the right page can have that word out of any of them in about a minute. If it is also in my hand in a book with no office on it, then there is a thing in this empire that has my name near it, and in about four years there is a person who can put the two side by side and ask me what I meant by it."
 
 "**A man who cannot be found must not try to be found by writing down the name of a thing**, and that is the reason nobody in this matter is going to be, and he has known it since the seventh month of the year after."
 
@@ -116,8 +116,8 @@ The door stayed as it was.
 
 ---
 
-He stood in the room with the four definitions on the table and the book with no office on it shut on his knee, and he had about nine minutes before he had to be somewhere he did not want to be, and he used about four of them going through the count, because he is a person who counts and there is no form anywhere in this empire for counting anything.
+He stood in the room with the four definitions on the table and the book with no office on it shut on his knee, and he had about nine minutes before he had to be somewhere he did not want to be, and he used about four of them going through the count, because he is a person who counts and nothing anywhere in this empire has a form for counting.
 
-**Four in about a hundred and forty years, and here they are with the day against each, because I am a person who counts and there is no form anywhere in this empire for counting anything.** A court room in the fifth month of the year after that wanted a record. A clerk's window in the first week of the tenth, by a man afraid about his own household. A desk in the second week of the eleventh, by a woman of twenty who walked about four miles. A rented room in the first week of the first month of the year after next, by the same woman, who walked about nine miles in one day. Two of the four were accidents and nobody chose either of them. The third was the first one anybody did on purpose. The fourth was the same person on purpose again. And in the ten weeks since, nobody has asked anybody anything, and there is no post in this empire whose job is to ask, and a clerk of about fifty-five has put a name on the question itself in about nine seconds and a man with a tray has carried it into a street for nothing, and neither of those is an asking, and the count is still four.
+**Four in about a hundred and forty years, and here they are with the day against each, because I am a person who counts and nobody has ever drawn up a form for counting anything.** A court room in the fifth month of the year after that wanted a record. A clerk's window in the first week of the tenth, by a man afraid about his own household. A desk in the second week of the eleventh, by a woman of twenty who walked about four miles. A rented room in the first week of the first month of the year after next, by the same woman, who walked about nine miles in one day. Two of the four were accidents and nobody chose either of them. The third was the first one anybody did on purpose. The fourth was the same person on purpose again. And in the ten weeks since, nobody has asked anybody anything, and there is no post in this empire whose job is to ask, and a clerk of about fifty-five has put a name on the question itself in about nine seconds and a man with a tray has carried it into a street for nothing, and neither of those is an asking, and the count is still four.
 
-He shut the book with the twelfth line empty and put the four definitions back in the drawer with the two dead pencils, and there is no form in this empire that requires a man to fill a line and no form in this empire that requires him to leave it empty, and he has left it empty, and a woman in a bay four bays and a corridor away did not come up a stair, and a man of about thirty who carries trays said a thing in a street that a clerk of thirty-four wrote nothing down about, and that is the whole of the third week of the third month of the year after next in a room with a table in it and about four feet of a wall he does not use.
+He shut the book with the twelfth line empty and put the four definitions back in the drawer with the two dead pencils. No form in this empire requires a man to fill a line and none requires him to leave it empty, and he has left it empty, and a woman in a bay four bays and a corridor away did not come up a stair, and a man of about thirty who carries trays said a thing in a street that a clerk of thirty-four wrote nothing down about. That is the whole of the third week of the third month of the year after next in a room with a table in it and about four feet of a wall he does not use.
