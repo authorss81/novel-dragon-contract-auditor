@@ -1,6 +1,6 @@
 # Chapter 184: What Goes on a Public Board
 
-Marek Kest had no office, no fund, no register, no certification and a bar discharged on the twelfth of the ninth month of last year by a one-line application that he wrote himself, and that is the whole of the reason he could hand a dead woman's method to a printer in the third week of the second month of the year after, and the whole of the reason it cost him nothing that anybody could put a price on.
+Marek Kest had no office and no fund and no register and nothing in this empire he could certify anything with, and a bar of his own that came off him on the twelfth of the ninth month of last year on an application of one line which he wrote himself, and that is the whole of the reason he could hand a dead woman's method to a printer in the third week of the second month of the year after, and the whole of the reason it cost him nothing that anybody could put a price on.
 
 He had thought about it for about nine days. He had tried it four ways and the fourth way was the one that worked, and the fourth way was that there was nothing to protect.
 
@@ -66,7 +66,7 @@ Then she said the thing that the sheet had done and that he had known it would d
 
 Marek Kest put both hands flat on the table.
 
-"I am publishing one column of one line of a book of about four hundred lines, in a city where a copy of the form it was written against is printed in about nine hundred buildings, **and I told the room how many columns the register has, and the day is not on it, and the day not being on it is the first thing anybody will notice and I have explained it in four lines and I believe the explanation.** And every one of those four things I did on purpose and I would do them again tomorrow and I am not going to stand here and tell you it was a slip, because it was the only way to print it at all. **A copy of a form is worth exactly what a form is worth, which is that anybody may have it for nothing, and the only thing that makes a copy of a register worth having is a reader who knows there is one.**"
+"I am publishing one column of one line of a book of about four hundred lines, in a city where a copy of the form it was written against is printed in about nine hundred buildings, and I told the room how many columns the register has, and the day is not on it, and the day not being on it is the first thing anybody will notice and I have explained it in four lines and I believe the explanation. And every one of those four things I did on purpose and I would do them again tomorrow and I am not going to stand here and tell you it was a slip, because it was the only way to print it at all. **A copy of a form is worth exactly what a form is worth, which is that anybody may have it for nothing, and the only thing that makes a copy of a register worth having is a reader who knows there is one.**"
 
 ---
 
@@ -132,7 +132,7 @@ He has written down in his own book, with the day on it, that he stood there for
 
 ---
 
-He wrote four words in the margin of his own book that night, at about the eleventh hour, under the four pages, and the four words are not the only four words in a margin of that book, and he is not going to put the two of them next to each other, and the reader who comes to this in about four years will have to work out which of the two of us is talking about a family.
+He wrote four words in the margin of his own book that night, at about the eleventh hour, under the four pages, and the four words are not the only four words in a margin of that book, and he is not going to put the two of them next to each other, and in about four years there is going to be a person holding both pages who has to work out which of the two of us is talking about a family.
 
 *a person, not a column.*
 

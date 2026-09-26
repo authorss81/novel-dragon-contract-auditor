@@ -1,6 +1,6 @@
 # Chapter 181: What Four People Heard
 
-The letter came on the third day of the first week and it was four lines long and it had a district's mark at the top of it, and the mark was a district and not an office, and the person who read it standing up read it twice and then stood for about nine minutes without putting it anywhere.
+The letter was still on the sill when the shutters came down and it stayed on the sill four days, and the reason it stayed on the sill is that the counter it is asking about is this one, and the counter had been shut four days, and nobody was coming back to it sooner for a piece of paper with a district's mark on it.
 
 Marn Ottery is thirty-four. She is a copyist and not a lawyer. She came down about four hundred and thirty miles of the old river road in the third week of the first month of the year after, on her own account, having said out loud to a man in a room that a letter is a thing a person can be shown, and she had four days of a shut counter in the price of it, and the counter is open now and has been every morning since.
 
@@ -10,7 +10,7 @@ She is not thanked for any of it and did not expect to be.
 
 ---
 
-The letter came on the third day of the first week.
+The letter came on the third day of the first week of the second month.
 
 It is four lines. It is on paper that is not this building's paper and it has a district's mark at the top of it and the mark is a district and not an office, and it came by a cart that came up the road and a man who came off it and put it on the sill, and he was not paid for the carriage beyond the cart's own wages and would not have been told what was in it.
 
@@ -60,7 +60,7 @@ She put the pen down and did not read it a third time, because the third time wo
 
 Then she went and put the letter in the pigeonhole behind the counter, in the slot that is marked with a district and not with an office, because that is where a letter that has come by cart goes to be answered, and then she took it out again.
 
-That was the whole of what she did in about nine seconds and it is the only thing in three weeks of standing at this counter that she has not been able to settle. A letter in the pigeonhole is a letter a clerk will find again, and a clerk who finds it will answer it, and a clerk who answers it will say whatever the letter says to say. A letter in a book with no office on it is a thing nobody can be made to produce, and she has been at this counter eleven years and she has never before had a piece of correspondence that she could neither answer nor refuse, and there is no form for that either.
+That was the whole of what she did in about nine seconds and it is the only thing since she came down the road that she has not been able to settle. A letter in the pigeonhole is a letter a clerk will find again, and a clerk who finds it will answer it, and a clerk who answers it will say whatever the letter says to say. A letter in a book with no office on it is a thing nobody can be made to produce, and she has been at this counter eleven years and she has never before had a piece of correspondence that she could neither answer nor refuse, and there is no form for that either.
 
 She put it in the book with the day on the outside of it and the district's mark on the inside, and it went in with the rest of her own book and not into the day's book of the counter, because the day's book is for the counter's business and a clerk of thirty-eight four hundred and thirty miles down this river is not the counter's business.
 

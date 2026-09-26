@@ -36,7 +36,7 @@ Nold Prawle's is on a flood terrace a long way from here and says *the district 
 
 ---
 
-Then he stood in the bay and read it out, and that is the second thing that happened that week and it is the thing that has a name.
+Then he stood in the bay and read it out, and that is the part of the week that has a name on it.
 
 There were about thirty people in the bay when he started and about four of them cannot read a paragraph, and one of the four is a woman of sixty-four who has been in that bay since the second month of next year and who had a thing read to her three times about a word she did not want in a book, and she is not thanked and has never asked to be.
 

@@ -2,7 +2,7 @@
 
 A man with a paper came to the counting room off a dyers' lane in Greyfen in the third week of the third month of the year after, having come about something else first and said so, and he asked her three questions in about nine minutes, and every one of the three was fair, and the answer to the first two was yes.
 
-The counting room is about eleven feet by fourteen. It has a bench, a window with a broken light, a stove she does not light until the ninth month, and about forty books on shelves that were made for taller books. It is not hers. The bench is not hers. The light is broken and has been since before she came into it.
+The counting room is about eleven feet by fourteen. It has a bench, a window with a broken light, a stove she does not light until the ninth month, and shelves of about forty books that somebody made for taller books than these. It is not hers. The bench is not hers. The light is broken and has been since before she came into it.
 
 ---
 

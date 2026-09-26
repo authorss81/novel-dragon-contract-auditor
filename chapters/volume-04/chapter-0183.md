@@ -24,7 +24,7 @@ She read the words as they are on the sheet and she did not improve them and she
 >
 > *And it is provided that where a sum payable to a person of that family is entered as held, the wages of a person of that family are held at the same rate and for the same period, and a person whose wages are so held is not to be paid that held sum by any person, on account of the person of that family.*
 
-"That is the whole of what it is," she said, "and I am going to say the whole of it in one sentence and then I am going to say why it took me nine minutes, and I am going to say both of those things out loud because there is nobody in this corridor at the moment except a man going by with a barrow, and he was gone before I had finished, and I have not asked him whether he wanted to hear any of it and that is deliberate and I want it known."
+"That is the whole of what it is," she said, "and I am going to say the whole of it in one sentence and then I am going to say why it took me nine minutes, and I am going to say both of those things out loud because there is nobody in this corridor at the moment except a man going by with a barrow, and he was gone before I had finished, and the man whose schedule this is has not moved off this sill since he put it down, and I have not asked the one going by whether he wanted to hear any of it and that is deliberate and I want it known."
 
 "**A form with a heading over it and no person under it can be executed against a person who has not been told it exists.**"
 
@@ -112,10 +112,10 @@ A hard-backed book with no office on it, and her name nowhere in it, and that is
 
 ---
 
-Two things came out of that corridor that had not been said in it.
+Two things came out of that corridor that had not been said in it, and she wrote both of them down before she left the window, in her own book, with the day on it, because that is the only hand anybody is going to be able to put side by side with the four pages later.
 
 **The man of thirty-eight does not fit the description, and he has thought about why, and the reason is that the family is entered in the record as a house, and the house is empty, and a man with nothing enforceable behind him has no place of custom or of work anywhere in this empire to be entered, and that is the protection working, and it is not a coincidence, and it is the same nine lines.**
 
-And nobody has been entered. That is the second thing, and it is the one that is going to matter, and there is a person in this empire who fits the description exactly and she is on a roll because a district cannot help it, and she has not been told that there is a document, and nobody has asked her to be anything, and there is no form in this empire for asking her, because asking is being served and she has not been served and she cannot be told and so she cannot be asked.
+And nobody has been entered. That is the second thing, and there is a person in this empire who fits the description exactly and she is on a roll of households because a district cannot help it, and she has not been told that there is a document, and nobody has asked her to be anything, and there is no form in this empire for asking her, because asking is being served and she has not been served and she cannot be told and so she cannot be asked.
 
-None of it has been answered by anybody.
+She read her own two lines back once, the second reading slower, the way she reads everything, and then she shut the book and stood at the window in the dark a while. The question she is taking off this sill with her is the one nobody in that corridor could answer, which is that a form which cannot be asked can still be filled in, and there is going to be a person in this city who fills one in, and she is going to do it in her own hand with a day on the outside of it, and the day is going to be the only part of the whole thing that anybody can find.

@@ -56,7 +56,7 @@ Here is what a mason says about that, and he said it in the shed and not in the 
 
 ---
 
-The cost of it is nine sentences and he gives them in the yard because he is not a man who says a hard thing quietly.
+**He gives the cost of it in the yard, in as few sentences as it will go, because he is not a man who says a hard thing quietly.**
 
 "About four days of a shilling a day is four shillings, and a shilling a day is a shilling a day whether the wall is on the list or not, and four shillings is a fortnight of a boy's food and a fire and a barrow's wear, and the barrow's wear is the part that does not come back at the end of a fortnight because the barrow is the same barrow and it has been up a wall four more days.
 

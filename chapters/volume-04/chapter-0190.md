@@ -6,15 +6,15 @@ A certification with a clerk of thirty-four's hand at the foot of it, written in
 
 A notice of a seat in six numbered lines and a foot. The same paper as the last one, the same hand, the same device, and the device is a seat's own and is not the fire-and-water mark. **A seal at the foot of it and no name under the seal**, and the second line asks that no inference of any kind be drawn from the absence of any name.
 
-A schedule in a second hand, not signed, with four definitions in it and a provision. One of the definitions turns on a roll of households, and a roll of households lists the households in a district and does not list what anybody owns, and it is a book a district keeps because a district has to know who is in it, and nobody has ever been asked whether the family on that book holds anything at all.
+A schedule in a second hand, not signed, with four definitions in it and a provision. One of the definitions turns on a roll of households, and a roll of households is a list of households and not a list of what anybody owns, and it is a book a district keeps because a district has to know who is in it, and nobody has ever been asked whether the family on that book holds anything at all.
 
-**And one person in this empire fits that definition, and she is on a roll because a district cannot help it.** She has not been entered and nobody has asked her to be.
+**And one person in this empire fits that definition, and she is on a roll because a district cannot help it.** A roll of households is a roll of households and it says who sleeps where and nothing else, and she has not been entered into anything and nobody has asked her to be.
 
-A wage stopped in a household of one person, by a form with a heading over it and no person under it, and the person who filled the box in filled in the name of a thing, and the thing is a household, and a household of one is a person, and there is no column on anything in this empire that says which person a household is.
+A wage stopped in a household of one person, by a form with a heading over it and no person under it, and the name that went into the box was the name of a thing and not the name of a person, and there is nothing anywhere on the hold that says which person the thing is.
 
-A refusal entered in the fourth book of an association of dyers in a furnace town about four hundred and thirty miles down this river, in a woman's own hand, with the day on it, and **no name in it, and the reason the name is not in it is in the book in her own hand, four words long.** It is the second refusal in that column that carries no name, and the first of the two is six years old and is not hers, and this is the first time anybody has asked her to put one there.
+A refusal entered in the fourth book of an association of dyers in a furnace town about four hundred and thirty miles down this river, in a woman's own hand, with the day on it, and **no name in it, and the reason the name is not in it is in the book in her own hand, four words long.** It is the second time that column has held a refusal with no name under it. The first of those two is six years old and it is not hers, and in six years nobody had thought to ask a woman of twenty for her name, because in six years nobody had thought there was a question to ask it for.
 
-About seventy copies gone out of a counter in a passage at fourpence each in about nine days, and no form for asking who bought them, and nobody asked, and there is not going to be one, and the reason there is not going to be one is that a copy of a thing is bought by strangers, and strangers are the only people who pay for facts.
+About seventy copies gone out of a counter in a passage at fourpence each in about nine days, and no form anywhere for asking who bought them, and nobody asked and nobody is going to, and the reason is that strangers buy copies and strangers are the only people in this empire who pay for facts.
 
 ---
 
@@ -34,7 +34,7 @@ A man who cuts kindling and sells it at every door on that side of the water bou
 
 He can read. He is the only person in that lane who can, and he has never said so and nobody has ever asked him, and he read the whole of it standing in a doorway, and then he read the nine lines out loud in that doorway to a woman of sixty-three who cannot read a paragraph, **because they are in her own hand and he did not know that and worked it out from the middle of it, and he read them out because there was a person in front of him who could not read them.** He did not have a form for it and neither did the printer's man and there was nobody to ask.
 
-He told nobody. He has not been asked. He is not going to be asked and he does not want to be, and his name is not in this and he is not in this, and fourpence is about four days of what a man makes selling bundles at doors, and nobody has told him that and nobody is going to.
+He has told nobody else since, and not the printer and not the woman and not a soul in that lane, and nobody has asked him. He is not going to be asked and he does not want to be, and his name is not in this and he is not in this, and fourpence is about four days of what a man makes selling bundles at doors, and nobody has told him that and nobody is going to.
 
 And she got on a cart.
 
@@ -128,15 +128,15 @@ She said, "That is a very odd sentence and I do not know what to do with it," an
 
 A second season, in its fourth month, agreed to by nobody, asked of nobody, running, and the wages of about forty-one people on it held against a company whose whole money is four shillings a year and all of it is the rent of a roof.
 
-About nineteen people who said no with a reason in the first season are still behind that bank and have not been asked a second time, and nobody in this matter is going to ask them again before the season comes round, and when it comes round somebody is going to have to.
+About nineteen refusals with a reason written in them are still standing behind that bank, unasked a second time, and nobody in this matter is going to ask them again before the season comes round, and when it comes round somebody is going to have to.
 
 About four people who cannot read a paragraph were never asked once and have now not been asked twice, and there is no column for them and there is not going to be one.
 
-The thirty-one of Mosswake are thirty-one.
+The thirty-one of Mosswake are thirty-one, and there is a name and a door against every one of them in a returning officer's own hand, and there is no form anywhere in this empire for asking a returning officer what he wrote down after he had walked it.
 
 ---
 
-And here is the last of it, and it is not a cliff and it is a name.
+And here is the last of it, and it is a name.
 
 A form is printed in about nine hundred buildings and it has five lines on it and the fifth is a question that has been asked once, in pencil, in a kitchen, by somebody who said the price out loud first, and nobody is going to ask it again.
 
