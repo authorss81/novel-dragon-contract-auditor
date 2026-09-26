@@ -8,7 +8,7 @@ He is about thirty-four. In the first week of the tenth month he came to this wi
 
 **He had said afterwards that he would rather not have asked, and she had said that that was the correct answer, and that was the whole of it, and there is no form anywhere in this empire that requires anybody to be told anything after that.**
 
-He did not ask her anything. That is on the page because it is the fact the chapter is built on.
+He did not ask her anything. That is the fact the whole of the morning is built on.
 
 ---
 
@@ -46,7 +46,7 @@ Then he said, "It is worse than I thought."
 
 ---
 
-Then he asked whether anybody had found him. It was not a question about a word on a form. It was a plain question, in a room, out loud, and it is on the page because she has never had one of those at that window either, and the count of those is a different count and is not three and is not printed here.
+Then he asked whether anybody had found him. It was not a question about a word on a form. It was a plain question, in a room, out loud, and she has never had one of those at that window either, and the count of those is a different count and is not three of them.
 
 "Yes," said Ivet Sarn. "**You have, and there is no undoing it and no form anywhere in this empire to undo it with.** And you are the second of the three. The first was a room that wanted a record, in the fifth month, in a court. The third is a woman of twenty who walked about four miles in the second week of the eleventh month and asked a clerk to explain how the box got filled, and she was the first one anybody did on purpose, and nobody sent her. Three, and none of the three of you is a plan."
 
@@ -70,13 +70,13 @@ The man stood at the sill for about a minute and a half and did not say anything
 
 "That is what I was afraid of," he said.
 
-"That is the opposite of what you were afraid of, and I told you that in the first week of the tenth month in about four minutes and you went out of here and thought about it for a fortnight and came back and bought a copy, and I would like it noticed that the answer you got was an ordinary answer and it cost you the only thing you have."
+"That is the opposite of what you were afraid of, and I told you that in the first week of the tenth month in about four minutes and you went out of here and thought about it for about nine weeks and came back and bought a copy, and I would like it noticed that the answer you got was an ordinary answer and it cost you the only thing you have."
 
 "I have not got anything," said the man. "That is what I have been finding out since the first week of the tenth month."
 
 ---
 
-Then he asked about the basket, and she had known he would before she answered the first thing, and that is on the page too.
+Then he asked about the basket, and she had known he would before she answered the first thing.
 
 "There is a basket under that sill," he said. "It has been there every time I have come. I have never once asked anybody about it and I have thought about it four times."
 
@@ -122,11 +122,11 @@ It was, a couple of inches, on the left of the corridor about halfway along, and
 
 He nodded at it and did not ask her what was in it, and that was the second time in about ten minutes that a person had stood in front of her and failed to ask her a question, and it is the whole of the reason she has said as much as she has said.
 
-Then she said the thing that has cost her the most this year, and it is on the page because she said it out loud in a room with one other person in it, and a room is the only kind of place in this empire where a thing like that can be said.
+Then she said the thing that has cost her the most this year, and she said it out loud in a room with one other person in it, and a room is the only kind of place in this empire where a thing like that can be said.
 
 "**You asked me in the first week of the tenth month and I answered you, and the answer was true, and the answer was that nothing has been done to you,** and you have been carrying the price of a true answer for about nine weeks, and I am not going to be the reason that is a strange thing to be carrying, so I am going to give you the other half of it and then I am going to shut the window on this.
 
-"The other half is that I did not write it down. Not on the sheet, and there is no place on the sheet, and not in the court's book, because a return that cannot be copied is a return with nothing in it that this court is the person to copy. And I have not written it in my own book either, and I have written eleven things in my own book in nine years and I read every one of them back twice with the second reading slower, and **I did not write this one, because nothing was asked, and a rule that was made by a girl of seventeen about four hundred and thirty miles away in a bay does not cover the case where a man comes back and buys a copy.**
+"The other half is that I did not write it down. Not on the sheet, and there is no place on the sheet, and not in the court's book, because a return that cannot be copied is a return with nothing in it that this court is the person to copy. And I have not written it in my own book either, and I have written eleven things in my own book in nine years and I read every one of them back twice with the second reading slower, and **I did not write this one, because nothing was asked, and a rule that was made by a book-keeper of thirty-eight about four hundred and thirty miles up this river does not cover the case where a man comes back and buys a copy.**
 
 "So there is no document in this empire that says you asked me anything, and you asked me something, and I answered you, and you are the only person who knows it, and I am the only other one, and in about four years neither of us can prove a word of it, and I would like that written down somewhere and I am not going to write it anywhere, and that is the last thing I have got."
 

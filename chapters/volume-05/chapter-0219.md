@@ -42,7 +42,7 @@ She put the copy down on the slab face up.
 
 "Have you had this before."
 
-"No. **Three times, in about a hundred and forty years, in this empire.** A court room in the fifth month of the year after that wanted a record, and a clerk's window in the first week of the tenth month, and a desk in the second week of the eleventh month that a woman of twenty walked about four miles to. Two of the three were accidents and nobody chose either of them and one was on purpose and nobody sent her, **and there is no post in this empire whose job is to ask, and it will not happen again by itself.**"
+"No. **Four times, in about a hundred and forty years, in this empire.** A court room in the fifth month of the year after that wanted a record, and a clerk's window in the first week of the tenth month, and a desk in the second week of the eleventh month that a woman of twenty walked about four miles to, and a rented room in the first week of the first month that the same woman walked nine miles to. Two of the four were accidents and nobody chose either of them, and the third was the first one anybody did on purpose, and nobody sent her, and there is no post in this empire whose job is to ask, and it will not happen again by itself."
 
 He said, "Then I had better not."
 
@@ -50,7 +50,7 @@ He said, "Then I had better not."
 
 ---
 
-Then she did the thing she had worked out on the fourth day, and it is the whole of this chapter, and she did it standing up the way she gives things.
+Then she did the thing she had worked out on the fourth day, and it is the whole of the finding, and she did it standing up the way she gives things.
 
 "You may ask me anything. **Not because of anything that has happened in another county, and not because a woman of twenty asked me a question in the ninth month of the year after and I answered it and could not write it down.** Ask me because I have been at this counter eleven years and I have said that sentence to two people since the ninth month, and there has been a hundred and forty years of a board over my head with four things on it and none of them is a question, and I have never once had the nerve to say out loud that a person may stand here and use up a minute of my time for nothing."
 
@@ -80,7 +80,7 @@ He stopped.
 
 "No," said the man, and put his hat on, and did not say thank you, and was not thanked, and went.
 
-**And he did not ask her a single question. She had told him in about nine sentences that he could, and he had used none of it,** and he had found the shape of the whole thing out loud in a room in about four minutes, and she has thought about that for a fortnight and she is not going to improve on it."
+**And he did not ask her a single question, and she had told him in about nine sentences that he could and he had used none of it,** and he had found the shape of the whole thing out loud in a room in about four minutes, and she has thought about it since he put his hat on and she is not going to improve on it.
 
 ---
 
@@ -110,4 +110,4 @@ She put the blank back in the box, and there are about four hundred of them in i
 
 ---
 
-A man of about fifty came in at about the eleventh hour and gave her four words for a copy and she made it in about a minute and a half and read it out and he said it was right and paid fourpence and went, and the board over her head had four things on it and none of them was time, and none of them was a question, and she was not going to make it one, and a man of sixty had been in a room and had been told in nine sentences that he might ask and had not asked, and about four hundred blanks sat under her hand in a box, and a woman of twenty in a city about four hundred and thirty miles up this river had a book of eleven houses in it that nobody paid her to keep, and there is no post in this empire whose job is to ask, and the count is four, and it will not happen again by itself.
+A man of about fifty came in at about the eleventh hour and gave her four words for a copy and she made it in about a minute and a half and read it out and he said it was right and paid fourpence and went, and the board over her head had four things on it and none of them was time, and none of them was a question, and she was not going to make it one, and a man of sixty had been in a room and had been told in nine sentences that he might ask and had not asked, and about four hundred blanks sat under her hand in a box, and a woman of twenty in this city had a book of eleven houses in it that nobody paid her to keep and the eleven houses were four hundred and thirty miles up this river, and there is no post in this empire whose job is to ask, and the count is four, and it will not happen again by itself.

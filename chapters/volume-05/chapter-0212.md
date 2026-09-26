@@ -40,7 +40,7 @@ The clerk of about fifty-five put her pen down, which she does about twice a yea
 
 ---
 
-The next part took about four minutes and there were two other people in the room the whole of it, and neither of them said anything, and that is on the page because it is a fact and not because it is a way of writing.
+The next part took about four minutes and there were two other people in the room the whole of it, and neither of them said anything, and that is a fact and not a way of writing.
 
 A woman of about fifty-five asked a woman of sixty-three what her name was.
 
@@ -74,15 +74,15 @@ And Bess Tarrant told her, and she told it in nine sentences, standing, because 
 
 "I have come to stand in a room where boxes are filled in. I have had that since the second month of this year to make a better plan of and there is not one. **I have read in my own coat a thing I cannot read, and I have had it read to me once in a doorway by a man who cuts kindling, and I have worked out since that asking works on a person and has never once worked on a piece of paper, and a form cannot be asked at all.** And I came on my own account and nobody sent me and there is no form anywhere in this empire for a person who comes on her own account, and I have looked for one and there is not one, and I am sixty-three and I have a house about four miles off that road and no money and that is the whole of what I have."
 
-She stopped, and then she said the thing she had come four days' walking to say, and she said it to a woman of about fifty-five and not to a room.
+She stopped, and then she said the thing she had come nine miles to say, and she said it to a woman of about fifty-five and not to a room.
 
 "And I know why nobody ever came to find me and I have had it the wrong way round for nine years, and it is that the machinery does not need me. It needs a person who writes. And you are that person, and you are at this table every day of your life, and you have written nineteen years of minutes and about four thousand things into them and nobody has ever once asked you what a box on a form is for. **Including me, until about four minutes ago, and I am sixty-three and I have come nine miles to say a thing to a person instead of to a building, and I would like it noticed that I did not write it down, and I cannot, and that is why I am standing here and not sitting down.**"
 
 ---
 
-Orla Denning did not answer it at once, and it is on the page that she did not answer it at once.
+Orla Denning did not answer it at once, and the silence went on for about a minute and a half, and she has thought about the length of it since.
 
-**A person who is not asked has not been given a duty, and she had known that since about the seventh month of next year.** And then, in the first week of the seventh month of this year, a woman of twenty walked about four miles to this door and asked her a question about a form out loud in this room and she answered it in about four minutes, and she has not been asked one thing since.
+**A person who is not asked has not been given a duty, and she had known that since about the seventh month of next year.** And then, in the first week of the seventh month of this year, a woman of twenty walked about four miles to this door and asked her a question about a form out loud in this room and she answered it in about four minutes, and it was not a question about a word on a form and it is not one of the three, and she has not been asked one thing since.
 
 "There is no form for a document about a person who did not ask to be in one," she said, "**and I know that better than anybody in this empire, and I have had a woman of twenty stand in this room and refuse to be thanked for an answer she came four miles for, and she was right to refuse and I am not going to thank her.** And I have not thanked you and I am not going to and there is no form anywhere in this empire that requires a person to be thanked."
 

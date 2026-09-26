@@ -2,7 +2,7 @@
 
 She walked about nine miles on the second day of the first week of the first month of the year after next, and she did it in one day and in about eleven hours with two stops, and she had the address in her head and not on a paper, because there is a form in this empire for the address of a place a person may be served at and there is not one for the address of a person who is not in a matter.
 
-Nell Kest is twenty. She is a dye-house worker, which is what she is paid for, and she keeps the books of eleven houses on a lane in a furnace town about four hundred and thirty miles up this river and of four other houses in three other districts, which is what she is not paid for. Her wage stopped in the second week of the third month of the year after and it is stopped now and the word for it is *held*.
+Nell Kest is twenty. She is a dye-house worker, which is what she is paid for, and she keeps the books of eleven houses on a lane in a furnace town about four hundred and thirty miles up this river and of four other houses in three other districts, and she keeps every one of them from this city and has not been up that river since she came down it, which is what she is not paid for. Her wage stopped in the second week of the third month of the year after and it is stopped now and the word for it is *held*.
 
 She decided this in the second week of the eleventh month of the year after, in a room about nine miles from a counter, standing up, in front of a woman of about fifty-five, and what she decided was: **I cannot get out of the box, and I am going to be the person who knows how it was filled, and I am not going to be a person who knows it alone.** There were four people. She has asked one.
 
@@ -102,7 +102,7 @@ He looked at her for about a second and a half.
 
 "I did not know that," he said.
 
-"You have been in rooms with about four thousand entries in eleven minute books and you did not know that," said Nell Kest. "And I have known it since the second week of the ninth month, standing at a counter, where a clerk of thirty-four told me what a representative is and would not write it down, and she was right, and I have been carrying it since, and this morning I have found somebody else who is carrying the same thing for the same reason."
+"You have been in rooms with about four thousand entries in eleven minute books and you did not know that," said Nell Kest. "And I have known it since the second week of the ninth month, standing at a counter, where a clerk of thirty-four told me what a representative is and would not write it down, and she was right, and I have been carrying it since, and then in the second week of the eleventh month I walked four miles to a desk and asked a clerk of fifty-five how the box got filled, and nobody sent me, and this morning I have found somebody else who is carrying the same thing for the same reason."
 
 ---
 

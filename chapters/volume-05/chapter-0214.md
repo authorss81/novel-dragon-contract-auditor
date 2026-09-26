@@ -20,7 +20,7 @@ Before the satchel came in, a man of about fifty-five was at the bench with a dr
 
 A man of about forty from the third gang asked him a question about the water, an ordinary question, standing where he was, and the man of fifty-five looked at the bench for about two seconds, and Halla Wray answered it from behind him without turning round and in about four seconds flat, in a foreman's voice, in the plainest words there are, and the man of about forty accepted it and went back to what he was doing, and nobody in that shed noticed anything at all, and that is what a foreman is.
 
-Rennick Adley noticed all of it. He stood against the north wall with the ledger under his arm and he did not understand what he had seen for about two hours afterwards and he has not entirely understood it since, and it is on the page because he wrote nothing down about it then and wrote nothing down about it afterwards and a thing nobody writes down is the only kind there is that he has ever been able to keep.
+Rennick Adley noticed all of it. He stood against the north wall with the ledger under his arm and he did not understand what he had seen for about two hours afterwards and he has not entirely understood it since, and the reason he has never got the rest of it is that he wrote nothing down about it then and wrote nothing down about it afterwards, and a thing nobody writes down is the only kind there is that he has ever been able to keep.
 
 He had been in the shed about a quarter of an hour when the satchel came in.
 
@@ -40,9 +40,9 @@ He is about thirty and he is from a district works and he had come about the lis
 
 ---
 
-The shed went quiet for about a minute and a half, and **Rennick Adley stood against the north wall with the ledger under his arm and did not move,** and there are about nine men in that shed and not one of them has ever heard a foreman of fifty-one be asked a question about the four by anybody at all, ever, including the four."
+The shed went quiet for about a minute and a half, and **Rennick Adley stood against the north wall with the ledger under his arm and did not move,** and there are about nine men in that shed and not one of them has ever heard a foreman of fifty-one be asked a question about the four by anybody at all, ever, including the four.
 
-And she answered it, in the ordinary way, standing up, in a room, with the shed behind her, and it took her about a minute and a half, and it is on the page because it is the third time and because the two men in it were the first two in this matter to hear it and neither of them was the one it was for.
+And she answered it, in the ordinary way, standing up, in a room, with the shed behind her, and it took her about a minute and a half, and it is the third time, and the two men in it were the first two in this matter to hear it and neither of them was the one it was for.
 
 "Because if I ask one of them I have asked one of them," said Halla Wray, "**and then there are three, and the three will be asked by whoever comes next, because a man who has been asked can be asked again, and that is the only door anybody has ever opened on a person who cannot read a paragraph. And the fourth will be found out by arithmetic.**"
 
@@ -76,7 +76,7 @@ He stood there for about a minute with the ledger under his arm and worked out w
 
 ---
 
-He could not write it down. He had a book with a name at the foot of every line of a list of works and a day against every line of it, and he could have put a line in the back of it, and he did not, and the reason is that a line in the back of that book is a findable thing and what is in it is a foreman's own reason for a decision she made about four men on that bank, and a man with a copy of the right page would put it beside a note of a seat and ask a person who was not in the room why the district's man was told it in a shed and not told it to the book-keeper who had been waiting nine months for it.
+He could not write it down. He had a book with a name at the foot of every line of a list of works and a day against every line of it, and he could have put a line in the back of it, and he did not, and the reason is that a line in the back of that book is a findable thing and what is in it is a foreman's own reason for a decision she made about four men on that bank, and a man with a copy of the right page would put it beside a note of a seat and ask a person who was not in the room why the district's man was told it in a shed and not told it to the book-keeper who had wanted it since the third month.
 
 He could not ask her. He had said the reason out loud in the seventh month and she had heard it, and he had been right about it then and he was right about it now, and the sentence had come out of her mouth on its own and he was not going to walk up to a woman of fifty-one and say *I heard that* and make it a thing that had been given to him.
 

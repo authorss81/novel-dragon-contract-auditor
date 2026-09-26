@@ -12,7 +12,7 @@ Then a man of about forty from the third gang asked a man of about fifty-five a 
 
 And Halla Wray answered it from behind him without turning round and in about four seconds flat, in a foreman's voice, in the plainest words there are.
 
-She has been doing that for nine years. She did it that week in the fourth week of the twelfth month, and she has done it since she was forty-two, and nobody has ever asked her to, and about nine men have seen it, and nobody has ever written it down, and she is the only person in this empire who knows it and she worked that out on the second day of the third week of the first month of the year after next at about the ninth hour standing in a bay with a list of works in front of her."
+She has been doing that for nine years. She did it that week in the fourth week of the twelfth month, and she has done it since she was forty-two, and nobody has ever asked her to, and about nine men have seen it, and nobody has ever written it down, and she is the only person in this empire who knows it and she worked that out on the second day of the third week of the first month of the year after next at about the ninth hour standing in a bay with a list of works in front of her.
 
 "There," she said, to nobody. "**There is the answer to the question. It has been here the whole time and it is not a form and it is not a post and it is not a person asking anybody anything, and it costs nothing and nobody can be told off for it, and it has been running for nine years without anybody deciding to.**"
 
@@ -22,7 +22,7 @@ A book-keeper of thirty-eight had seen the whole of it in the fourth week of the
 
 She is not going to ask him whether he is going to keep doing it. She worked that out on the second day of the third week and the reason is hers and she gave it out loud in the shed in the second week of the eleventh month of the year after and it is the bad one, and it is still the bad one, and she is not going to improve it.
 
-Asking is the only instrument there is and I have watched it cost a man of about thirty-four an afternoon and a woman of twenty about nine miles of walking, and I am not going to spend either of those on a thing I could hear about in a bay in about four minutes."
+Asking is the only instrument there is and I have watched it cost a man of about thirty-four an afternoon and a woman of twenty about nine miles of walking, and I am not going to spend either of those on a thing I could hear about in a bay in about four minutes.
 
 She is not going to do that. And the thing she is not going to do is bigger than that.
 
@@ -32,7 +32,7 @@ There was a girl of seventeen at the back of that bay.
 
 She is on a written engagement and there is a copy of it in a satchel with a date on it and nobody has ever thanked her and there is no form anywhere in this empire that requires a person to be thanked. She had been there until about the eighth hour on the two days a week she comes, and she reads better than anybody in that bay and she is at the same rate as everybody else on the list, and Halla Wray has known her since she was about eleven and has never once asked her to read anything.
 
-**And a book-keeper had worked out in the second week of the tenth month of the year after that she was the one way of reaching the four, and had said so out loud in that bay, and had not done it, and had written down that he was not going to and read it back twice, and the reason he gave was that a person who is paid to read is a person who can be told to stop.** Halla Wray credited that argument in the second week of the eleventh month without pointing at her, and has not improved it since, and is not going to."
+**And a book-keeper had worked out in the second week of the tenth month of the year after that she was the one way of reaching the four, and had said so out loud in that bay, and had not done it, and had written down that he was not going to and read it back twice, and the reason he gave was that a person who is paid to read is a person who can be told to stop.** Halla Wray credited that argument in the second week of the eleventh month without pointing at her, and has not improved it since, and is not going to.
 
 She could have said, in about four seconds, to a girl of seventeen at the back of a bay: *you are the one person here who could read that column to four men.* It would have been true. It would have been the correct thing to do in the ordinary way, and a foreman is allowed to say a correct thing in the ordinary way, and nobody would have thought twice of it.
 
@@ -52,7 +52,7 @@ The count of the works. The water, which was up about a foot since the twelfth m
 
 A bill at Lowcross at nineteen pounds three and fourpence, unpaid, nobody liable, and no line for a bridge in that fund in nineteen years. A guarantee standing offered and unanswered on about four hundred and forty foot of bank with about sixty children under sixteen inside it, and inside a guild's blank list, and inside a rotation they have not been asked about and have been told about none of it, and she has not got the terms of it in her head and is not going to read them out in a bay at about the seventh hour.
 
-And the thirty-one of Mosswake, which is thirty-one, and which is another district's figure and which she said once and moved on from, and about nine men in that bay do not know whose it is and are not going to be told, because there is no form anywhere in this empire for a foreman to explain another district's number to a room full of men who have never crossed it.
+And the thirty-one of Mosswake, which is thirty-one, and which is another district's figure and which she said once and moved on from, and the men in that bay do not know whose it is and are not going to be told, because there is no form anywhere in this empire for a foreman to explain another district's number to a room full of men who have never crossed it.
 
 ---
 
@@ -82,4 +82,4 @@ Four, she thought. **Four askings in about a hundred and forty years and no post
 
 And a book-keeper on her own bank had read a man's own paper to him in a yard and written nothing down, and she had been answering a man of about forty from behind a bench in about four seconds flat for nine years without being asked, and neither of those is one of the four, and neither of them is a form, and neither of them has anybody's name in it.
 
-**Somebody asks, or nobody asks. That is still the whole of it. And the answer that has come out of this bank since the second week of the eleventh month of the year after is not a person. It is a habit that two people have and neither of them has appointed and neither of them has written down,** and I have not decided whether that is better and I am not going to decide it in a bay at about the seventh hour with the lamp off.
+**Somebody asks, or nobody asks.** That is still the whole of it. And the answer that has come out of this bank since the second week of the eleventh month of the year after is not a person. It is a habit that two people have and neither of them has appointed and neither of them has written down, and I have not decided whether that is better and I am not going to decide it in a bay at about the seventh hour with the lamp off.

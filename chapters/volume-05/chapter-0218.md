@@ -24,7 +24,7 @@ She put her pen down.
 
 ---
 
-She did not say no straight away, and that is on the page, and she has thought about the four minutes it took since.
+She did not say no straight away, and she has thought about the four minutes it took since.
 
 "You know I am not going to be able to do it," she said.
 
@@ -54,13 +54,13 @@ She read the sheet of paper he was holding, which was a copy of four definitions
 
 ---
 
-Then she did the other thing, which is the thing this chapter is built on, and she did it because a thing which has never happened can be made to happen by a person and the reverse is also true: a thing which has happened once can be made not to happen again by nobody doing anything.
+Then she did the other thing, and she did it because a thing which has never happened can be made to happen by a person and the reverse is also true: a thing which has happened once can be made not to happen again by nobody doing anything.
 
 They counted it out on the counter between them, in about four minutes, because she is a person who counts and he is a person who counts, and there is no form anywhere in this empire for counting anything.
 
 "One, a court room in the fifth month of the year after, and the room wanted a record. Two, a clerk's window in the first week of the tenth month, and a man was afraid about his own household. Three, a desk in the second week of the eleventh month, and a woman of twenty walked about four miles and nobody sent her. Four, a rented room in the first week of this month, and the same woman walked about nine miles and nobody sent her.
 
-"**Four in about a hundred and forty years. Three of them are a year old or more. One of them is a fortnight old. Two of the four were accidents and nobody chose either of them, and the other two were on purpose, and one of the two was done by the same person as the other.** And here is the count that is the one I have to say: in the four weeks since the fourth one, nobody has asked anybody anything. Not at this counter. Not at the one four bays along. Not in a bay, not at a window, not in a shed, not in a rented room. Four, and it did not spread.
+"**Four in about a hundred and forty years, and the first three are all months back, in the fifth month and in the first week of the tenth and in the second week of the eleventh, and the fourth is three weeks old, and two of the four were accidents and nobody chose either of them, and the other two were on purpose, and one of the two was done by the same person as the other.** And here is the count that is the one I have to say: in the three weeks since the fourth one, nobody has asked anybody anything. Not at this counter. Not at the one four bays along. Not in a bay, not at a window, not in a shed, not in a rented room. Four, and it did not spread.
 
 "And that is not a finding about people," she said. "That is a finding about what happens when a thing happens once. It will not happen again by itself. **And the reason it did not spread is not that nobody wanted to know. It is that there is no way to want to know a thing you have not heard about, and there is no way to hear about it, and the only way anybody found out about the first three was to be in a room where somebody else was asking.**"
 
@@ -70,13 +70,13 @@ He nodded at that for about a minute and then said, "That is the whole of it and
 
 "I have said it because it is about a person and not about a form, and that is the only reason I have ever been able to say anything at all in a room." She closed her book. "**And I am not going to be a room that knows a thing can be asked.** I told you in the third week of the tenth month of the year after that one question from you teaches a room a thing it does not know, and that a room that knows a thing can be asked stops being a room you can ask, and you wrote a thing down afterwards in order to be refused and you were refused and the reason was a fact and not advice, and I have not improved on either of those and I am not going to.
 
-"And I have two boxes in this book with the same name in each of them, and they are the paper and the watch and they are not one instrument and they are not this piece of paper, and I have not ruled a third and I am not going to. A person who rules a box for every thing that happens to her in a year has turned a book into a form, and I would not be the first clerk in this city to do that and I would like to be the last."
+"And I have two boxes in this book that I ruled by hand and filled in with the same name, and they are not the paper and they are not the watch, and the paper and the watch are two instruments and I have never once merged them, and I have not ruled a third and I am not going to. A person who rules a box for every thing that happens to her in a year has turned a book into a form, and I would not be the first clerk in this city to do that and I would like to be the last."
 
 ---
 
 A man came in at about the ninth hour for a copy of a form at fourpence and she had to serve him, and serving him took about two minutes, and he did not ask her anything, and she has never once in this matter had a person stand at a counter she was serving and ask her a question.
 
-That is not the point of this chapter and it is the reason for half of it. A room gets a day. A person can come up to a counter, be served in it, ask in it, and walk out of it, and there is nothing on the board under the rail and no fee and no form that says what may be asked at it and none that says what may not. **And in the whole of the time this counter has stood nobody has asked at it, and the reason nobody has asked is not that they do not want to know.**
+That is not the point of any of this and it is the reason for half of it. A room gets a day. A person can come up to a counter, be served in it, ask in it, and walk out of it, and there is nothing on the board under the rail and no fee and no form that says what may be asked at it and none that says what may not. **And in the whole of the time this counter has stood nobody has asked at it, and the reason nobody has asked is not that they do not want to know.**
 
 It is that a person who wants to know something at a counter does not come to a counter. They come to a counter to buy fourpence worth of paper, and they would be ashamed to stand there and use up a minute of a clerk's time for nothing, and there is no form anywhere in this empire that a person can put in front of a clerk saying *I have a question and I have not got a shilling*, and there is no shilling's worth of nothing in the world.
 
@@ -96,4 +96,4 @@ Then she told him the price, out loud, standing, because she has never once in t
 
 "You have never once asked me whether I have decided whether to trust your judgment, and I have never told you that I have not, and both of those are the same silence and it has been going on for a long time, and I am not going to decide it in a bay at about the ninth hour, and the decision is not going to be made in a room and it is not going to be written down. **You have now been refused by me in a room in writing twice and you have not argued once, and that is two pieces of evidence, and two is not a decision, and a woman who treats two as a decision is a woman who has been alone too long.**"
 
-She served the man at the counter, and he paid fourpence, and she read his copy out, and he said it was right, and he went, and the door of the bays was open, and there is no post in this empire whose job is to ask, and the count is four, and the fourth is a fortnight old, and a piece of paper was agreed in a bay and could not be bought, and the undertaking of the fourth of the first month had been done for the sixth time and the reason was the best one either of them has ever brought her, and it is a reason about paper.
+She served the man at the counter, and he paid fourpence, and she read his copy out, and he said it was right, and he went, and the door of the bays was open, and there is no post in this empire whose job is to ask, and the count is four, and the fourth is three weeks old, and a piece of paper was agreed in a bay and could not be bought, and the undertaking of the fourth of the first month had been done for the sixth time and the reason was the best one either of them has ever brought her, and it is a reason about paper.
