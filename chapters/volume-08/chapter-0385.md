@@ -10,7 +10,7 @@ The man in the felt apron has had that end of the passage for longer than she ha
 
 The sheet came down at the second hour in a hand that was not the apron.
 
-It was the first one in a month that had come down with a ruled space on it, and the space was about two inches deep and a hand's width across, and there was a heading printed over it in a hand that was not hers, and the heading was one anybody could use. He held it out to her the way a man holds out a thing he has been told to hold out, and he did not say one word about it, and he did not have to.
+It was the first one in a month that had come down with a ruled space on it, and the space was about an inch and a half deep and a hand's width across, and there was a heading printed over it in a hand that was not hers, and the heading was one anybody could use. He held it out to her the way a man holds out a thing he has been told to hold out, and he did not say one word about it, and he did not have to.
 
 She took it and turned it so that the space was under her own eyes and read the heading. Then she read it again. **The ruled space is the size of a count and it is not the size of a name**, and a count is a figure and a name is a thing, and the two of them do not go into the same width of paper in any building in this empire, and somebody had printed a heading over the width of a figure and handed it to the only person at this end of the passage who had one.
 

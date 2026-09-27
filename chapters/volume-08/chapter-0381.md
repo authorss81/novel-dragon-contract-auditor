@@ -48,4 +48,4 @@ It is the second day of the first week of the ninth month of the year after the 
 
 He folded the sheet once, which put the crease through the four lines, and then he opened it out again and smoothed it flat with the flat of his hand from the bottom up, and he put it in the inside of his coat on the side the other paper is not on.
 
-The clerk at the other end of the joined tables wrote the last figure in her column, set the pen in its groove, and did not turn round. He put it away and shut the lid of the desk, and the clerk at the other end went on counting under her breath, and there are two people in that Company tonight who know what is at the top of that third column, and there were one the day before yesterday.
+The clerk at the other end of the joined tables wrote the last figure in her column, set the pen in its groove, and did not turn round. He put it away and shut the lid of the desk, and the clerk at the far end of the joined tables went on counting under her breath, and there are two people in that Company tonight who know whose words are at the top of that third column, and one of them did not know that this morning.

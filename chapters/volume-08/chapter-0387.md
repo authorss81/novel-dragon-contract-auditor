@@ -14,7 +14,7 @@ It is the first notice in about two years that has come to that bench. She read 
 
 On the back of the notice there is a ruled space.
 
-**No form for a space on the back of a notice**, and the difference between a form and a notice is the whole of it. A form is a thing that asks a person to put something in it. A notice is a thing that is told to a person, and somebody has printed a ruled space on the back of a notice about two inches deep, with a heading over the top of it in small type, and the heading is the one that takes the reason.
+**No form for a space on the back of a notice**, and the difference between a form and a notice is the whole of it. A form is a thing that asks a person to put something in it. A notice is a thing that is told to a person, and somebody has printed a ruled space on the back of a notice about three inches deep, with a heading over the top of it in small type, and the heading is the one that takes the reason.
 
 The heading was printed before anybody knew what was going to be left in it.
 

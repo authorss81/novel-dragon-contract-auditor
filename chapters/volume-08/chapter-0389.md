@@ -4,7 +4,7 @@ There is one piece of paper in that hall and it came through the letter slot tha
 
 Thirty-four, give or take, and paid for a fair hand: he copies other men's figures until two sets of them agree, four days a season, and only when somebody's list has his name on it. He has been on that list four days this month and came back on the second of the two days. **He is the one person anybody in this matter could put a question to, and not one has been put to him.** What he has is a figure of his own that he has never written and never handed on, and it stays his because the moment a second head holds it, it is a column, and a column wants a heading, and a heading over that would come down on him the same as on everybody else.
 
-The form is the size of a sheet of writing paper. It has a ruled space in the middle of it about two inches deep and a heading printed over the space in type, and there is a line at the foot for a day, and there is nothing at the top of it at all.
+The form is the size of a sheet of writing paper. It has a ruled space in the middle of it about an inch deep and a heading printed over the space in type, and there is a line at the foot for a day, and there is nothing at the top of it at all.
 
 ---
 
