@@ -38,7 +38,7 @@ He has not been told that there is no form. He has not been told anything.
 
 ---
 
-Then she said the third of the three, and she said it slowly, and it is the last time in this volume that any of the three gets said out loud in a room.
+Then she said the third of the three, and she said it slowly, and it is the last time any of the three is going to be said out loud in a room.
 
 "**A man of about thirty-four was in this room with him.** He came on his own two feet on a day he is not paid for, and he has no business in this building, and nobody sent him, and there was nothing here for him."
 

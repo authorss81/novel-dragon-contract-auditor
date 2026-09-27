@@ -46,9 +46,9 @@ Whether she trusts his judgment is hers, and it has not been decided this month,
 
 He is about to do a third thing. She does not know what it is and has not asked and is not going to.
 
-This is about six weeks before it, and the six weeks are made of three things and he has not told her about any of them, and she has not asked about any of them, and the not asking on her side is the same not asking and not a different one.
+What is between this and it is not made of anything she could ask about, and he has not told her one word of any of it and she has not asked one word of any of it, and the not asking on her side is the same not asking and not a different one.
 
-The first of the three is a room over a shop that sells tar, taken by the week, with four steps and a landing and a lamp that is not lit until about the seventh hour. The second is a bay about four hundred yards off that room, with a bench longer than the bay is wide and a mark in chalk on a wall at the height of the third link of a chain. The third is two people of seventeen at the back of that bay on a written engagement at the rate a list is set at, and he has been near that bay and has not gone into it.
+The three places it goes through are these. The first is a room over a shop that sells tar, taken by the week, with four steps and a landing and a lamp that is not lit until about the seventh hour. The second is a bay about four hundred yards off that room, with a bench longer than the bay is wide and a mark in chalk on a wall at the height of the third link of a chain. The third is two people of seventeen at the back of that bay on a written engagement at the rate a list is set at, and he has been near that bay and has not gone into it.
 
 **He has not said one word about any of it to her and she has not asked one word about any of it**, and about nine people in other buildings know pieces of it and not one of them has said a word either, and that is how it is done, and there is no instrument for it anywhere and there is not going to be one.
 

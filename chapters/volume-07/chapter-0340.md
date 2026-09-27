@@ -12,7 +12,7 @@ A person who cannot be read cannot be asked in writing. A person who cannot be a
 
 Two people said that out loud in ten weeks. They are about four hundred and thirty miles apart, they have never met, and neither of them knows the other exists. One said it to an empty lane off a road at the north end of a town. The other said it to a woman in a counting room at the back of a dye end, in about four minutes, and told her nothing at all about her own wage.
 
-Neither of them said it to the other, and nothing in this empire would let either of them be told the other had said it, and that is the last shape the finding takes in this volume: it takes it in two places at once and joins them nowhere.
+Neither of them said it to the other, and nothing in this empire would let either of them be told the other had said it, and that is the last shape the finding takes: it takes it in two places at once and joins them nowhere.
 
 ---
 
@@ -38,11 +38,11 @@ What the last ten weeks hand to the next ten is a room and a rail and about nine
 
 There is a passage about four hundred yards long off a flood terrace behind a building off the old river road, and the flags of it come up cold in every month of the year, and there is a door at the top end with a step worn through in front of it and nobody at that door at any hour of the day. **At the far end of that passage there is a room with a rail standing about four feet off the floor.**
 
-In that room a man of thirty-four is going to come nine miles for the third time and not ask, and to say out loud, in about four minutes before it, why he is not going to, and to be thanked by nobody, and the room is not going to have it afterwards and he is not going to tell anybody what was said in it.
+In that room a man of thirty-four is going to come nine miles for the second time and not ask, and to say out loud, in about nine sentences, why he is not going to, and to be thanked by nobody, and the room is not going to have it afterwards and he is not going to tell anybody what was said in it.
 
-In that same room a man of sixty-one will be, and he is not to be run together with the other man. **The two thirds are not one third.** He has already had his, in the second month of the year after the year after the year after next, and the whole of it has been said out loud twice at that rail, and about nine people were in the room, and a clerk of fifty-five wrote none of it.
+In that same room a man of sixty-one will be, and he is not to be run together with the other man. **Only one of the two has walked those nine miles this season.** He has already had his, in the second month of the year after the year after the year after next, and the whole of it has been said out loud twice at that rail, and about nine people were in the room, and a clerk of fifty-five wrote none of it.
 
-The third visit in that room belongs to the other man and is going to be a different morning entirely, and the two of them are not going to be in the room at the same time, and nobody is going to be in a position to arrange it if they were.
+The two of them are going to be in that room at the same time and nobody is going to be in a position to arrange it, and the room is not going to be told which of them came.
 
 A clerk of about fifty-five will be in it, and she asks nothing and writes nothing, and nobody is going to ask her why she wrote none of it, and about four other people will come, and one of them carries a scuttle and will say nothing.
 

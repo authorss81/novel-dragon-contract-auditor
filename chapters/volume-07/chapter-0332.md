@@ -48,7 +48,7 @@ The man of about fifty-five with the chain is in the bay and is not one of the f
 
 **The four are not a route and they are not going to become one**, and the reason is not that they are slow or that they are difficult or that they would say no. The reason is that a question has to be put to a person, and each of those four is a person, and there is no instrument in this empire that will put a question to one of them without putting it into a record, and a record is a thing that follows a man about for the rest of his life and gets him served at. She has known all of that for about four years and has never once been tempted to break it, and she has also never once been in a position to be asked why not.
 
-She is fifty-one and has been in a box for about four years. She has kept nine men saying nothing, and a man with a fair hand four hundred yards off wanting half a sentence, and a foreman in a coat on a different lane saying three things he has said four times, and none of it can be put in front of a person as a question at any hour of the day.
+She is fifty-one and has been in a box for about four years. She has kept nine men saying nothing, and a man four hundred yards up the same lane who keeps the books wanting the rest of a sentence, and a foreman in a coat on a different lane saying three things he has said four times, and none of it can be put in front of a person as a question at any hour of the day.
 
 **She has stopped thinking of it as a thing that has happened to her and started thinking of it as the price of the house she lives in**, and the house is a bay about nine foot by eleven with a bench in it that is longer than the bay is wide.
 

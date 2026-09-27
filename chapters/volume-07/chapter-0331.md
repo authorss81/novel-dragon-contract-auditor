@@ -18,7 +18,7 @@ From where he stood he could see into the bay, because the door was open. He cou
 
 Four hundred yards further up that same lane there is a counting room with a roof on it, and on a day with any light in the weather a man at one end of the lane can see the roof of the other end of it. He has been in that room and he was not going up it this morning and he did not go up it.
 
-What is at the far end of that lane is a foreman of fifty-one who went into a box about four years ago without anybody putting a question to her about it, and half of a sentence of hers is all he has ever had. He has wanted the rest of it since the third month of the year after and he has not asked, and he is not going to, and the asking is not a thing that can be done from four hundred yards by a man with no office in a building that is not hers.
+What is at the far end of that lane is a foreman of fifty-one who went into a box about four years ago without anybody putting a question to her about it. The half of a sentence of hers that anybody holds is held by the man who keeps the books four hundred yards further up that same lane, and he has wanted the rest of it since the third month of the year after and has not asked and is not going to. He has never had any of it at all. The asking is not a thing that can be done from a hundred yards by a man with no office in a building that is not hers, and it is not a thing that can be done from four hundred yards either, and that is the whole of the difference between the two of them.
 
 **Nothing in that lane would have stopped a man walking up it.** He could have done it in about seven minutes and there is not one gate between here and the door.
 
