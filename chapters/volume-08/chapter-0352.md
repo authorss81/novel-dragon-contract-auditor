@@ -1,53 +1,57 @@
-# Chapter 352: A Counting Room At The Back Of A Dye End About Eleven Feet By Fourteen, A Stove Somebody Lit And Let Go Out, Sixteen Books On Shelves Made For Taller Books, And A Wage Held By A Man Who Cannot Say What It Is Held Against
+# Chapter 352: A Counting Room At The Back Of A Dye End About Eleven Feet By Fourteen, A Bench, A Window With A Broken Light In It, About Forty Books On Shelves Made For Taller Books, A Stove Somebody Lit And Let Go Out, And A Woman Who Is Not Being Paid And Is Not Going To Ask
 
-The counting room is at the back of a dye end in a lane and it is about eleven feet by fourteen, and there is a bench in it and a window with a broken light in it and about forty books on shelves that were made for taller books than the ones that are on them.
+Behind a dye end, at the end of a lane in a furnace town about four hundred and thirty miles up this river, there is a counting room about eleven feet by fourteen. It holds a bench along one wall, a window with a broken light in it, and about forty books standing on shelves that were built for books a foot taller than the ones that are on them.
 
-She is twenty. Her name is Nell Kest, and there are sixteen of those books that are hers and fifteen of them belong to somebody else, and the sixteenth has her own name at the head of it and has never had a question against it.
+Whoever gets in first on a cold morning lights the stove behind the bench. Today that was not her, and whoever it was went down the lane again before she came in, and the stove is out and the room is the temperature of the yard outside it.
 
-This is the second day of the second week of the first month of the year after the year after the year after the year after next, and it is about the second hour, and whoever got in first on the cold morning lit the stove behind the bench and was down the lane again before she came in.
+She is twenty. **Her name is Nell Kest, and sixteen of the books in that room came to her, and fifteen of the sixteen are on loan from elsewhere**, and the sixteenth carries her own name at the head of it and has never had a question put against it.
 
----
-
-The fifteen are not hers and none of them has an office on the cover, and that is not a fault in the making of them. That is how a book comes to a counting room.
-
-**If somebody came up those stairs this week with a sheet and a seal she could not show a soul the fourth of them**, and she knows which four and she has never told anybody which four, and the not telling is not concealment and is not a rule anybody laid down. It is that a book with somebody else's name at the head of it is a thing a person can be served out of, and she is not a person anybody in this lane has anything to serve.
-
-The sixteenth is different and she is not going to be asked about it and nobody asked. She has never had a key offered for it and has not asked for one.
-
-**There is no form for keeping a book of your own**, and that is not a hardship. It is the reason she can put four things in it on a Wednesday without writing down which Wednesday, and it is the reason nobody can tell her that she wrote them.
+This is the second day of the second week of the first month of the year after the year after the year after the year after next, and it is about the second hour.
 
 ---
 
-Her wage has been held since the second week of the third month of the year after.
+The fifteen are other people's books and not one of them has an office on the cover, and that is not a fault in the making of them. That is how a book comes to be in a counting room at the back of a dye end.
 
-The man who holds it cannot say what it is held against. He said so to her, in a coat, in a room, once, and she believed him, and believing him is not the same as agreeing that a thing cannot be said.
+If anybody came up those stairs this week with a sheet and a seal on it, she could not show a soul the fourth of them. She knows which four. She has never told anybody which four, and the not telling is not concealment and is not a rule anybody laid down, because a book with another person's name at the head of it is a thing you can be served out of, and nobody in this lane has anything to serve her with.
 
-**She is not going to ask him what it is held against and that decision is hers and it was made before this week and it is not moving this week.** If she asked him there would be a question and there would be an answer, and the two of them would be parties, and a party is the only person a thing can be told what it is going to be used for. Then the answer would go into a coat, and a notice says a sum and does not say against what, and an answer is a record, and a record is what a sheet goes in.
-
-**There is no form for noticing a wage that has not come**, which sounds like nothing at all and is the whole of what a lane of eleven houses is built out of. Nobody in the dyers' lane has remarked on it to her and nobody would, because a remark is a question you have put to somebody and a question you have put to somebody is a thing that has started.
+**Nothing in this empire has a form for a book a person keeps for herself.** That is not a hardship either. It is the reason she can put four things in that book on a morning without writing down which morning, and it is the reason nobody could ever come at her afterwards and say she wrote them.
 
 ---
 
-She has told one woman of four that she is not paid.
+The second week of the third month of the year after is the week her wage stopped arriving, and it has not arrived since, and the man who is sitting on it cannot say what it is sitting against. He told her so himself, in a coat, in a room, once, and she believed him, and believing a man is not the same as agreeing that the thing cannot be said.
 
-She said the whole of a rule to a second of the four, in about four minutes, in this room, to a woman who came in out of the cold and went back out to a shift. **The two she cannot reach are still two she cannot reach**, and saying it to the first two has not made the other two reachable, and she knew that when she said it, and saying it anyway is the whole of what she has to show for about three weeks.
+**She is not going to ask him what it is held against, and that decision is hers and it was made before this week and it is not moving this week.** If she asked him there would be a question and then there would be an answer, and the pair of them would be parties, and a party is the only kind of person a thing can be told what it is going to be used for. The answer would go into a coat. A notice says a sum and never says against what, and an answer is a record, and a record is what a sheet goes in.
 
-**There is no form for keeping a thing to the two people it was said to and not to the other two**, and the not having one is not what stops her. What stops her is that the third of the four comes in at about the sixth hour and is not in today, and the fourth is at the far end of a lane, and she is not going to walk to either of them with a rule in her mouth to find out whether it holds.
+**There is no form for noticing a wage that has not come, and a lane of eleven houses is built out of exactly that.** Nobody in the dyers' lane has remarked on it to her and nobody would, because a remark is a question a person has put to somebody, and a question a person has put to somebody is a thing that has started.
+
+---
+
+She told one woman of four that she is not paid.
+
+She said the whole of a rule out loud to a second of the four, in about four minutes, in this room, to a woman who came in out of the cold and went back out to a shift. **The two she cannot reach are the same two she could not reach before she said anything**, and saying it to the first two has not made the other two reachable, and she knew all of that at the time, and she said it anyway, and that is the whole of what she has to show for it.
+
+What stops her is not the lack of a form, because the lack of a form has never been what stopped her. What stops her is that the third of the four comes in at about the sixth hour and was not in today, and the fourth is at the far end of a lane, and she is not going to walk to either of them with a rule in her mouth to find out whether it holds.
 
 ---
 
 A foreman off a dye end has a notice in a coat.
 
-It says a sum and it does not say against what. He said out loud that the day he wants it to exist he will send it, and the day has not been one of the days he has said so far, and she is not going to be the reason it becomes one.
+It says a sum. It does not say against what. He has said out loud that he will send it on the day he decides he wants it to exist, and no such day has arrived yet, and she is not going to be what makes it arrive.
 
-It is nineteen days of a crew's money and it is called held where it is held and it is the same kind of holding as hers and he is in the coat about four miles off, and neither of the two of them is going to be the first.
+It is nineteen days of a crew's money and where it sits it is called held, and it is held the same way hers is, and he is four miles off in a coat, and neither of the two of them is going to be the first.
 
 ---
 
-The eleven houses off the dyers' lane came in with their numbers again on the Monday and eleven numbers went out on the Tuesday, and the eleven numbers are the same eleven numbers, and the coming in and the going out is the whole of what that lane is and it is not going to be anything else this year.
+The eleven houses off the dyers' lane came in with their numbers on the first of the two days and eleven numbers went out on the second, and the eleven numbers are the same eleven numbers they were the week before, and the coming in and the going out is the whole of what that lane is.
 
-**The sixteenth book was not asked for by anybody this week.** Nobody came up those stairs for it and nobody sent for it and nobody has ever sent for it, and she is not going to be standing ready for a person who does not come.
+She set them out in a hand that does not vary, and there is a figure in the fourth column she has never been able to account for and has never altered, because a counting room that alters a figure is a counting room that has become an opinion.
 
-She is not going up this river this season. That is not the same as never and she has not said never and nobody has asked her either thing, and the difference between the two is still hers and is still a difference, and there is no form anywhere in this empire for a woman to enter a difference of her own in and it does not need entering in.
+**Nobody came up those stairs for the sixteenth book this week, and nobody has sent for it, and nobody ever has.** She is not going to be standing ready for a person who does not come.
 
-"Is that light still broken?" she said it out loud at about the fourth hour, to the window, about the light, and it is broken and has been since before she came, and nothing in this empire lets a broken light be said to a person, and she is a woman nobody has asked anything, and the count of things anybody has asked out loud in this matter is the same as it was when the stove was let go out and it is going to be the same in ten weeks.
+She is not going up this river this season. That is not the same as never, and she has not said never, and nobody has asked her either thing, and the difference between the two is still hers and is still a difference.
+
+---
+
+The stove went out some time before the fourth hour and she did not light it again, and the broken light in the window has been broken since before she came, and the books on the shelves made for taller books go on being the wrong height.
+
+"Is that light still out?" she said it out loud at about the fourth hour, to the window, about the light. It is out and it has been out since before she came, and nothing in this empire will let a broken light be said to a person, and a woman nobody has asked anything about is a woman nobody has asked anything about, and the count of things anybody has asked out loud in this matter is the same as it was when she came in and it is going to be the same in ten weeks.
