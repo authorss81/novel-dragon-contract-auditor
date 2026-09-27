@@ -22,7 +22,7 @@ The man of about twenty-eight was at the front of that bench and had been on it 
 
 "It is both and you knew that when you said it."
 
-"I did. **There was a man at that gate four minutes ago and I said one word to him, and that is the whole of what I have to say about it.**" He turned his hands over. "So either the gate is shut or about nine men in this bay have to be careful every time a stranger stops at it. There is no form anywhere for shutting a gate, and none for putting a name into the open air where a stranger happens to be standing."
+"I did. **There was a man at that gate four minutes ago and I said one word to him, and that is the whole of what I have to say about it.**" He turned his hands over. "So either the gate is shut or about nine men in this bay have to be careful every time a stranger stops at it. There is no form anywhere for shutting that gate, and none for putting a name into the open air where a stranger happens to be standing."
 
 "You have worked out in seven years the thing I have been saying out loud for two, and I am not going to be flattered by it and I am not going to tell you to stop."
 

@@ -10,9 +10,9 @@ This is the fourth day of the fourth week of the fourth month of the year after 
 
 **He has never once sat down with the four of them and never once pretended to read what they cannot read, and he stands up in that bay and says so out loud, to whoever wants to hear it.** He has given the reason four times, in about four sentences each, and the reason is arithmetic. Four is a number that can be leaned on. Five is a number that gets a heading, and a heading is how four men stop being four men and become a thing this empire can put a letter to.
 
-**For about four years now he has known that the one thing he can do will not reach him, and in four years he has not so much as turned it over to look.** Nobody at the front of that bay knows that he knows it. He has never told a soul, and that is between him and the wall and not a thing nine men have standing to raise.
+**The one thing he can do reached him once, four years ago, at a shut gate at the end of a lane, and it has not reached him since, and he has not so much as turned it over to look at it.** Nobody at the front of that bay knows that he knows it. He has never told a soul, and that is between him and the wall and not a thing nine men have standing to raise.
 
-He used it once. That was about four years ago, at a shut gate at the end of a lane, and it worked, and he told nobody then and has told nobody since, and a thing that worked once in a life is not a thing anybody is going to try in front of nine men over a slate.
+He has never once been in a room with a thing he wanted to do and nine men watching, and a thing that worked once in a life, at a gate, with a man at it and nothing else in the world, is not a thing anybody is going to try in front of nine men over a slate.
 
 ---
 
@@ -34,7 +34,7 @@ The man of about twenty-eight, who is at the front of that bench and has been on
 
 "It has got a question on it."
 
-"It has got something on it, and you cannot read it, and neither can I, and that is two people out of about nine hundred that cannot read what is on a slate in this bay." The man of about twenty-eight turned a hand over and looked at it. "**You have got the one thing that would find out what is on it, and it would not find out what is on it.** I have known you seven years and this is the first time I have said that out loud."
+"It has got something on it, and you cannot read it, and neither can I, and there are four men behind you who cannot make a paragraph out of anything, which is a different complaint from mine, and I have never worked out which of us would come off worse." The man of about twenty-eight turned a hand over and looked at it. "**You have got the one thing that would find out what is on it, and it would not find out what is on it.** I have known you seven years and this is the first time I have said that out loud."
 
 "I know that better than you do."
 
@@ -48,7 +48,9 @@ He said the shape of it out loud. Not the words on the slate, which he has not g
 
 "That is four sentences about a thing you cannot read."
 
-"It is four sentences about a thing nine men in this bay cannot read, and I have said it in a room." He sat down on the bench in the place he sits in. "A thing said out loud in a room is the only instrument in this empire that costs the man who says it nothing and reaches nobody at all. **No form for trying a thing that worked once and no form for handing a question to a person.** Four hundred yards up this lane there is a counter in a room and four people a day go up a stair to be told what a form means, and none of the four of them can read what is on a slate."
+"It is four sentences about a thing that you and I cannot read, and it is not four sentences about a number, and I have said it in a room." He sat down on the bench in the place he sits in. "A thing said out loud in a room is the only instrument in this empire that costs the man who says it nothing and reaches nobody at all. **No form for trying a thing that worked once and no form for handing a question to a person.** Four hundred yards up this lane there is a counter in a room and four people a day go up a stair to be told what a form means, and none of the four of them can read what is on a slate."
+
+Twice that afternoon he put two fingers on the bench beside the slate, the way a hand goes to a bench it has been going to for years, and twice the bay went on being a bay, and the second time he took his fingers off and looked at the chalk on them and did not put them back.
 
 Nobody in that bay said one word back. The man of about twenty-eight went on with his hands, and the two of them at the back went on sitting at the back, and the lamp over the middle of the bench did not get lit until the seventh hour, and it got lit at the seventh hour, and the chalk on that end wall still stands exactly level with the third link of what he is carrying, and it means nothing and it is nobody's.
 

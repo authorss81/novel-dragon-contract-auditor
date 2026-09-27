@@ -50,6 +50,6 @@ The woman of about thirty-five next door came out on her own step at the same ho
 
 ---
 
-Neither of them said thank you for it. The two of them stood at their own doors with about four feet of wet lane between them and nine feet of air, and neither of them said one word about the man who had just gone inside, and there is no form anywhere in this empire for two women saying a thing out loud about a man, and neither of them wanted to.
+Neither of them said thank you for it. The two of them stood at their own doors with about four feet of wet lane between them and nine feet of air, and neither of them said one word about the man who had just gone inside, and there is no form anywhere in this empire for speaking about him out loud, and neither of them wanted to.
 
 **That is the arrangement in the next house worked in the other direction.** The two of them have never once compared notes about it, and both of them would be inside four feet of the other one inside a minute if either said one word out loud, and neither of them did.

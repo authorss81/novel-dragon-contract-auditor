@@ -32,7 +32,7 @@ This is the second day of the second week of the fifth month of the year after t
 
 ---
 
-So she said it over again. It took about four minutes, the stove was dead the whole of it, and not one word came out differently the second time than it had the first. The second woman took out nothing to write with, because **that room has never had a place ruled for a rule and does not have one now.**
+So she said it over again. It took about four minutes, the stove was dead the whole of it, and not one word came out differently the second time than it had the first. No form for saying a rule again, and none for a woman carrying it alone on the strength of having been told it once, and the whole of what those four minutes bought was a second pair of hands that cannot let go of it. The second woman took out nothing to write with, because **that room has never had a place ruled for a rule and does not have one now.**
 
 "It is in two heads in one lane now instead of one," the second woman said, at the end of it. "**That is what your four minutes bought.** I am not going to say it to a third one and you are not going to either, and a person who says a rule twice is a person who says rules."
 

@@ -30,6 +30,10 @@ Marn Ottery is at the other end of that counter. She is thirty-four and she has 
 
 She said that out loud to him and not to the room, and then she went on with the counter, and he stayed where he was.
 
+She has about four hundred bought and unfilled blanks under that counter and has had them eleven years, and she told him so on the second day without being asked, in the flat voice she keeps for stock. "None of them has ever been filled in and there is no word on the lid of that box, and it was like that before you came up those stairs, and I am not starting it with a man who stands at a rail and buys nothing."
+
+He had not asked her about the box. She had told him about the box, and the telling had cost her the length of one sentence and had put it in a room, and there is nowhere on a sales counter to enter a thing like that even if a person wanted to.
+
 He had not come for a shape. He had come because a counter is the only room in this empire where a man can stand for a week and be in it and be spoken to and not be asked one thing, and because the weather would keep him off a lane for an hour and would not keep him off four flights.
 
 He did not tell her that and she did not ask him for it, and those are two different facts and only one of them is an arrangement.

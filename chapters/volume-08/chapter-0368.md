@@ -12,7 +12,7 @@ This is the fourth day of the fourth week of the fifth month of the year after t
 
 There was one in front of him this week and it was not what the man above wrote it, and he could not have told anybody how he knew, and nobody asked him, and he put his hand at the foot of it.
 
-There is no form for disagreeing with the person above in your own hand, and there is none anywhere that would let a man who cannot read a paragraph set his mark beside a figure and call the two of them a quarrel. He has known that since the fourth year of it. **What he wants is about four minutes: to go through the ones he can remember and say no to about half and yes to the rest, and there is nobody to ask.**
+There is no form for disagreeing with the person above in your own hand, and there is none anywhere that would let a man who cannot read a paragraph set his mark beside a figure and call the two of them a quarrel. No form for being told that a sheet was not as written either, and none for the man who has been told and has to go on signing it, and a thing said across a basket at the fourth hour is not a record of anything except that somebody said it. He has known that since the fourth year of it. **What he wants is about four minutes: to go through the ones he can remember and say no to about half and yes to the rest, and there is nobody to ask.**
 
 ---
 

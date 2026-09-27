@@ -12,6 +12,8 @@ The box weighs what a thing full of paper weighs. He is thirty-eight and his nam
 
 She put her hand out for the box and he took hold of the other end of it before she had finished asking for it with her face, and they carried it up four steps and set it down on the floor of that room, and neither of them said anything at all.
 
+There was a man with a tray on that floor who had to come up those steps to get past the two of them, and he stood in the doorway with it in both hands until they were clear. There was a woman at the far end of that floor who came in for a stamp and went straight back out without stopping and did not look at the box at all. Neither of the two of them said one word about it, and both of them were in that doorway while it happened, and one of them has a reason to remember it and the other one has not been asked for a reason.
+
 "There," she said. "**That is four people who have seen a thing happen, and there is no form anywhere with a line on it for that.**"
 
 "There is a line for a clerk's name at the foot of it," he said. "That is what the line would be for. You would put your name under the box and then a column with a heading over it, and a heading over that is a way of finding out that a clerk kept paper nobody asked about for eleven years, and there is about four hundred sheets in here and not one of them has ever been filled in by anybody."
@@ -36,7 +38,7 @@ She set her hands on the box and then took them off it, which she has not done i
 
 "You are not going to open it."
 
-"I am not going to open it, and I am not going to rule anything on the lid, and I am not going to tell a single person in this building that it came up those stairs today." She put her chin on it. "**No form for four people seeing a thing happen, and a thing four people have seen cannot be un-seen.** There is nobody in this empire I could tell it to and be thanked for telling."
+"I am not going to open it, and I am not going to rule anything on the lid, and I am not going to tell a single person in this building that it came up those stairs today." She put her chin on it. "**No form for witnessing a thing and having nowhere afterwards to say that you were in the room, and a thing four people have seen cannot be un-seen.** There is nobody in this empire I could tell it to and be thanked for telling."
 
 "You are a man who came up four flights to buy fourpence worth of paper and is now carrying a box," she said. "**That is the whole of what a man on no list is for, and I have not said thank you and nobody has.**"
 
@@ -44,6 +46,6 @@ She set her hands on the box and then took them off it, which she has not done i
 
 He went down the four flights at about the fourth hour without his copy, and paid nothing, and was not served, and was not asked for anything, and the stair has no door at the foot of it so that going down is easier than coming up and he has never worked out why that is.
 
-About four people saw that box go up those four steps, and three of them work in that room, and **one of them is a man of thirty-eight who is on no list and carries nothing except a labour a man is free to turn down.**
+About four people saw that box go up those four steps, and two of them work on that floor and one of them carries the trays up it, and **one of them is a man of thirty-eight who is on no list and carries nothing except a labour a man is free to turn down.**
 
 **The box is on the floor of the received room with the lid where it was.** The four shelves are against the wall. The count of things anybody has asked out loud in this matter is the same as it was when he came up that stair, and it is not going to be a different number on the way down.

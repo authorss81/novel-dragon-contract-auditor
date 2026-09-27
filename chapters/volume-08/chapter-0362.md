@@ -8,7 +8,7 @@ This is the second day of the second week of the fourth month of the year after 
 
 ---
 
-**Nobody in this empire has a form for asking a woman who stood in a room what was said in it**, and she is the only one of them, and the two facts are the same arrangement and not two things.
+**Nobody in this empire has a form for hearing what was said in a room after the room is emptied**, and she is the only one of them it would ever apply to, and those two facts are the same arrangement and not two things.
 
 She goes into that room in an ordinary week the way she goes into any room. About four people stood in it before a man of thirty-four did, and he talked for nine minutes with his coat open, and she was one of the four, and she kept her mouth shut at the rail and she has kept it shut ever since.
 
