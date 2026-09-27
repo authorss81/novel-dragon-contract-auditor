@@ -1,10 +1,10 @@
 # Chapter 283: A Day-Book Coming Back Up Four Steps With A Figure Under A Ruled Line In A Hand That Is Neither His Nor The Old Man's, And The First Thing He Has Ever Written For Nothing That Has Come Back At Him
 
-The room is over a chandler's shop off a lane four miles from the bay on the Slade Cut, and he rents it by the week, and there is a landing outside it with four steps and a door with a bolt across it and a window about a foot wide. The shop below keeps tar and rope and lamp oil, and the smell of it comes up through the boards all day, and it has done for about eleven years.
+He has rented the same room over a chandler's shop for about eleven years and he takes it by the week. There is a landing outside the door with four steps up to it, a bolt across the door, and one window about a foot wide. The shop underneath keeps tar and rope and lamp oil, and the smell comes up between the boards all day, and nobody on that lane has ever said a word to him about it.
 
-He is thirty-four or thereabouts, and his trade is a hand that writes other men's figures out fair, and he is paid by the day for it, and he is on the list of works four times a season. He has a house with a door on it and a wife. In one doorway in his life he said he was not going to do a thing again, and that is the only sentence he has ever said twice, and he is not going to say it a third time.
+He is thirty-four or thereabouts, and what he does for money is write out other men's sums so that they come out even, and he gets a day's pay for the day, and there are four days a season he is on somebody's list for. He has a house with a door on it and a wife. In one doorway in his life he said a thing out loud twice and the second time cost him more than the first, and he is not going to stand in a third.
 
-This is the second day of the first week of the eighth month of the year after the year after next, and it is about the fifth hour, and the light goes off that lane at about the sixth hour in that month.
+This is the second day of the first week of the eighth month of the year after the year after next, and it is about the fifth hour, and the dark comes up that lane by six.
 
 ---
 
@@ -18,13 +18,15 @@ The man of about sixty had brought it in twice in about four weeks before that a
 
 "Is it wrong?" he said, to the day-book, at about the fourth hour, and it was not a question to anybody.
 
-The line is still there. A short line ruled across the space with a pen, at about four minutes' work, on a page where a figure goes, in a column that has been taking figures for about thirty years. Under that line there is now a sum, and the sum is in a hand that is not the man of about sixty's and is not his.
+The line is still there. A short line ruled across the space with a pen, at about four minutes' work, on a page where a word had been standing, in a column that has been taking figures for about thirty years. Under that line there is now a sum, and the sum is in a hand that is not the man of about sixty's and is not his.
 
 ---
 
-**It is a correct sum, and it is the sum his line was standing in the place of, and the old man has carried it forward and nobody has checked it against anything.**
+**It is a correct sum, and it is the sum his line was standing in the place of, and a column cannot be read, and the old man has carried it forward and nobody has checked it against anything.**
 
-He looked at it for about four minutes. Then he did the only two things there are to do with a figure in a column, which are to add it and to see whether it comes out, and it comes out, and it comes out the same way it would have come out if he had put a zero there in his own hand on the second day of the first week of the seventh month.
+He looked at it for about four minutes. Then he did the only two things there are to do with a figure in a column, which are to add it and to see whether it comes out. It comes out, and it comes out the same way it would have come out if he had put a zero there in his own hand on the second day of the first week of the seventh month.
+
+And nobody is ever going to know which of the two things is under the mark, because the mark is under both of them and the mark is not a word.
 
 A column takes an answer. It has never taken a refusal and it has never taken a third thing either. A ruled line is neither an answer nor a refusal.
 
@@ -32,7 +34,7 @@ And it is going to be read as an answer by anybody who reads that book in about 
 
 **A column cannot tell the difference between a refusal and an answer, and it cannot tell the difference between a third thing and a refusal, and it is not going to learn.**
 
-The only thing standing between those two is a person standing next to the column saying which one it is, and there is not one form anywhere in this empire that says a man who is on a list of works four times a season may say which one it is.
+The only thing standing between those two is a person standing next to the column saying which one it is, and there is not one form anywhere in this empire that lets a man who is on a list of works four times a season say which one it is.
 
 ---
 
@@ -66,18 +68,18 @@ It is going to be added to, and carried forward in a ledger, and put in a return
 
 She was at the bottom of the four steps when he looked out of the window about a foot wide, and she did not come up, and he did not go down.
 
-They have been about eleven years in a house with a door on it, and there is not one thing in it that has been said in a room by the two of them. About four weeks ago she came up those steps and told him out loud that she had never once asked him why anybody wanted to know where he is, and that she was not asking now, and that it is a different thing, and she wanted it said in that order.
+They have been about eleven years in a house with a door on it, and almost nothing has ever been said in a room in it by the two of them, and the one that was, he said in a kitchen without asking her first, and it cost him and he has not done it since. About four weeks ago she came up those steps and told him out loud that she had never once asked him why anybody wanted to know where he is, and that she was not asking now, and that it is a different thing, and she wanted it said in that order.
 
-And there is not one form anywhere in this empire for asking a person whether they will mind being told something, and she has not asked him that either, and neither of them is going to, and he has thought about that for about twenty-five weeks and has not once asked her to.
+And there is not one form anywhere in this empire that would let her ask him first whether she ought to, and neither of them is going to, and he has been turning that over for about twenty-five weeks and has not once gone to the bottom of the stair with it.
 
 ---
 
-**The count of things that have been asked out loud in this matter in about a hundred and forty years has not moved, and he does not know what it is this month, and there is not one form anywhere in this empire that would let a man on a list of works four times a season be told a count.**
+**The figure of about a hundred and forty years has been said out loud in a room twice and both of the times were by him, and nobody in this empire has ever counted it, and there is not one form anywhere that would let a man who is on a list four times a season be handed the number of them.**
 
 He heard a number at second hand about twenty-five weeks ago and has carried it since, and has not said it out loud to anybody once. It is not his number. He has a day and a sum and a line and four steps and a bolt, and none of that is a count of anything.
 
-The four men in a bay about four hundred yards up that road who cannot read a paragraph have still never been asked one question, and were not asked one on any of the four days this season. There is a finding about them in a ledger in that road in a book-keeper's own hand which is not his to improve and which he has not thought about improving.
+The four men in a bay about four hundred yards up that road who cannot read a paragraph have still never been asked one question, and were not asked one on any of the four days this season. There is a finding about them sitting in a ledger in that road in a book-keeper's own hand, and it is not his to improve and he has not tried.
 
 Nobody thanked him. The man of about sixty did not thank him and did not say a word, and the woman at the bottom of the four steps did not come up.
 
-The book went back down to a room four miles off with a figure in it and a ruled line above it, and nobody alive knows that the two of them are in the same column, and the light went off the lane at about the sixth hour and he lit the lamp himself, which he does about four times a season, and the lamp is the only thing in that room anybody pays for.
+The book went back down to a room four miles off with a figure in it and a ruled line above it, and nobody alive knows that the two of them are in the same column, and by the time the lane went dark he had put a match to the wick with his own fingers, which is a thing he does four times in a season at most, and the lamp is the only thing in that room anybody pays for.

@@ -1,20 +1,20 @@
 # Chapter 285: A Room About Eleven Feet By Fourteen Off A Dyers' Lane In A Furnace Town About Four Hundred And Thirty Miles Up This River, Four Questions That Come Every Week, And A Third Question She Has Never Put To Herself Until This Afternoon
 
-It is hers by the week and it is about eleven feet by fourteen and it is off a dyers' lane, and there is a bench along one wall and a window with a broken light in it. The books are on shelves that were built for taller books, so that a woman of twenty has to reach up for the top of every one of them, and there are about forty on the shelves and sixteen of them are the ones she keeps and nobody pays her for. The light went out of that window before she came into the room, and she knows which of the forty is which by where her arm goes, and she has not looked at a shelf in about sixteen weeks.
+It is hers by the week and it is about eleven feet by fourteen and it is off a dyers' lane, and there is a bench along one wall and a window with a broken light in it. The shelves were made for men with longer arms than hers, so the top of every one of them is a stretch, and there are about forty books on them and sixteen of them are the ones she keeps and nobody pays her for keeping any of them. The light went out of that window before she came into the room, and she knows which of the forty is which by where her arm goes, and she has not looked at a shelf since the fourth day of the fourth week of the fifth month.
 
-She has kept them since she was seventeen. Eleven houses on that lane and four houses in three other districts, and not one of the fifteen has ever been asked what it costs her to keep it.
+She has kept them since she was seventeen. Eleven houses on that lane and four houses in three other districts, and nobody in fifteen households has ever asked her what it costs her to hold on to their numbers.
 
-This is the fourth day of the third week of the eighth month of the year after the year after next. Her wage stopped in the second week of the third month of the year after and it is stopped now, and the word for it is held.
+This is the fourth day of the third week of the eighth month of the year after the year after next, and her pencil is on the bench where she left it this morning. Her wage stopped in the second week of the third month of the year after. It has not come since, and the word for that is held.
 
 ---
 
-Two houses on that lane want a day a sum was wanted by, and about four of the nine want something by the end of the week, and she will do those four, and nobody has thanked her for any of it this month and she would not know what to do with it.
+Two houses on that lane want a day a sum was wanted by, and about four of the fifteen want something by the end of the week, and she will do those four, and nobody has thanked her for any of it this month and she would not know what to do with it.
 
 The four that come every week are the same four, and the four questions are the same four, and a day a sum was wanted by is the first of them and it is the only one of the four that ever has an answer in it.
 
-Whether a thing wanted in a district is wanted in the lane. Whether the third house down has paid, which she can say yes to because the third house down is the one that pays. And **whether the second one is still holding her book open at a page with a knotted string in it**, which is the oldest of the four and has been asked about four times and has not changed in about thirty-nine weeks.
+Whether a thing wanted in a district is wanted in the lane. Whether the third house down has paid, which she can say yes to because the third house down is the one that pays. And **whether the second one is still holding her book open at a page with a knotted string in it**, which is the oldest of the four and has been asked about four times and has not changed in about fifty weeks.
 
-The second one is a woman of about thirty-five who came to the door once about a year ago and stood on the step and would not come inside, and who has not been inside a room since.
+The second of those four is a woman of about thirty-five who keeps numbers of her own on that lane, and who was at this bench about twenty-one weeks ago, and would not sit down, and has not been back.
 
 ---
 
@@ -44,7 +44,7 @@ A woman of twenty who keeps fifteen other households' numbers and is not paid on
 
 **And the reason nobody has told her is that she has not been asked, and a person who is not asked has not been given a duty, and the duty of telling her what the money is held for was never given to anybody.**
 
-She told the second of the four women in the last week of the twelfth month, on a step, standing, in about four minutes, and she was not asked to. She told the third of them in the third week of the third month, in this room, over about four minutes, and the third one asked her a question about herself and Nell Kest answered it, and she was not asked to do that either.
+She told the second of the four women on the second day of the second week of the twelfth month, on a step, standing, in about four minutes, and she was not asked to. She told the third of them on the fourth day of the second week of the third month, in this room, over about four minutes, and the third one asked her a question about herself and Nell Kest answered it, and she was not asked to do that either.
 
 Nobody asked her to do either of those things and she did both of them, and it has cost her the thing nobody in that lane can see.
 
@@ -52,7 +52,7 @@ There is not one form anywhere in this empire that says a person who has not bee
 
 ---
 
-A woman of about thirty-five put a knotted string in a page in a book of her own eleven weeks ago and asked four questions in this room that were not about the money, and one of them was how a person would go about looking another person up, and she was told.
+A woman of about thirty-five put a knotted string in a page in one of the nine books herself, and she has not come up the lane since she was last at that bench, and the one question she is written down as having asked in this room was how a person goes about finding another person out, and she was told.
 
 She has not come up the lane since. There is not one form anywhere in this empire that says a person has to be found, and there is not one form that would let Nell Kest go and find her, and she is not going to. The reason is not restraint and has never been restraint: a woman of thirty-five who keeps nine houses' numbers unpaid has no standing in this empire to go and look anybody up, and the one time she was asked a question about herself she said no in a room and meant it.
 
@@ -60,9 +60,9 @@ The fourth of the four women is in a district and Nell Kest has not walked to he
 
 ---
 
-**The second shelf down on the left has her own name at the head of it in her own hand, three years old, and it is the only one of the sixteen that is anybody's.**
+**The second shelf down on the left carries her own name at the head of it in her own hand, put there three years ago, and it is the only one of the sixteen that belongs to anybody.**
 
-A column with no heading over it is a person, and she has got one, and it is not a wall and it is not a door and it is not going to get her out of anything, and she would say that again in front of anybody and has said it in front of about nine people.
+A column with no heading over it is a person, and she has got one, and it is not a wall and it is not a door and it will not get her out of anything, and she would say so again in front of anybody and has said it in front of about nine people.
 
 And this afternoon she added a clause to it, standing at the bench, and the clause is that it is not a wall and it is not a door and it is also not a wage, and that a book with her own name at the head of it is the only one of the sixteen anybody could call hers, and it is worth nothing at all. She said it out loud to a window with a broken light in it and there was nobody in the room.
 
@@ -72,6 +72,6 @@ And this afternoon she added a clause to it, standing at the bench, and the clau
 
 Nobody thanked her and nobody was thanked. Her wage is still held and the word for it is still held, and the answer she worked out this afternoon does not put a penny back where it was, because an answer worked out by the person it is about is not a finding out, and there is not one form anywhere in this empire that would let a person be given one.
 
-About four hundred and thirty miles of road is what it would cost anybody who wanted to see the rest of this, and there is no fund and no form for a fund, and nobody is going up that road in this matter and nobody is being sent.
+About four hundred and thirty miles of road is what it would come to, one way, for anybody who wanted to see the rest of this with their own eyes, and there is no fund behind that and no form for a fund, and nobody is going up that road in this matter and nobody is being sent.
 
-The four houses that want something by the end of the week will get it by the end of the week, and the second one is still holding her book open at a page with a knotted string in it, and the third one has paid, and the window has no light in it, and the shelves are made for taller books.
+The four houses that want something by the end of the week will get it by the end of the week, and the second one is still holding her book open at a page with a knotted string in it, and the third one has paid, and the window has no light in it, and the shelves are made for longer arms than hers.

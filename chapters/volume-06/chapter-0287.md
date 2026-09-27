@@ -1,10 +1,10 @@
 # Chapter 287: Nine Books For Nine Houses, A Woman Of Thirty-Five Who Has Worked Out That She Can Put Them Under One Line In About Four Seconds And Is Not Going To, And The Reason That The Nine Have Not Agreed And Cannot Be Asked To
 
-She rents a room off the same dyers' lane and it is about eleven feet by fourteen, and it is not the room at the top of the lane with about forty books on shelves made for taller books, and she has been in that room twice. There is a bench along one wall and a table and a window that does not close. She has kept the numbers of nine houses on that lane for nine years and nobody pays her a penny for any of them.
+Her room is off the same dyers' lane and it is about eleven feet by fourteen, and it is not the one at the top of the lane where about forty books stand on shelves made for taller books, and she has been in that one twice. In hers there is a bench along one wall and a table and a window that will not shut. She has kept the numbers of nine houses on that lane for nine years and not one of the nine has ever paid her a penny for the keeping.
 
 There is a page in one of the nine with a knotted string in it, and she put it there herself, out of a piece of string off a parcel, in a warm room, in the twelfth month of the year after next.
 
-This is the second day of the first week of the ninth month of the year after the year after next, and it is about the fourth hour, and there are two houses on that lane that want a day a sum was wanted by.
+This is the second day of the first week of the ninth month of the year after the year after next, and it is about the fourth hour, and two houses on that lane have asked after a day a sum was wanted by.
 
 ---
 
@@ -12,7 +12,7 @@ This is the second day of the first week of the ninth month of the year after th
 
 She wanted to be able to be sued. It took about four days to arrive at wanting it and about four minutes to say it out loud, and it has been eleven weeks, and it has not got smaller, and she has not found anything else in the meantime that she wants.
 
-Four of the nine asked about a day this week. The other five did not, and one of the five has not asked her anything since the second week of the eighth month of the year after, and she has not asked it either.
+Four of the nine asked her about a day in the course of this week. The other five did not ask her anything, and one of those five has not asked her anything since the second week of the eighth month of the year after. She has not asked that one either.
 
 The fourth house down is the one that comes to the door and asks whether the day wanted is the day the money was wanted or the day the thing was wanted. She said it is the day the money was wanted, and the woman said she had thought so and would not have wanted to ask twice.
 
@@ -56,16 +56,16 @@ And nobody is going to be told that she wanted it. She said it out loud to a ben
 
 **And there is a woman of twenty at the top of that lane with about forty books and one of them with her own name at the head of it, and Nell Kest has not been asked anything by her and has not asked her anything, and neither of them is going to.**
 
-The knotted string went in on the third of a warm afternoon in the twelfth month of the year after next, and a woman of twenty put her own hand flat on the line that was hers and said out loud that a column with no heading over it is a person and that she had got one.
+The knotted string went in on a warm afternoon in the twelfth month of the year after next, off a parcel, and a woman of twenty laid her own hand flat on the line that belonged to her and said out loud that a column with no heading over it is a person, and that she had got one.
 
 A knotted string is not a name and it is not a form, and it is the only thing about nine houses in that lane that has ever been said out loud to the person who is keeping them.
 
 It is not a document and it cannot be produced, and there is not one instrument anywhere in this empire that would let anybody ask her what it means, and she has never once wanted anybody to ask her.
 
-"Did I want it for the houses?" she said, to the bench, at about the fifth hour, and she waited, and there was nobody in the room. "**Then I wanted it for the houses, and the houses have not asked, and that is the answer, and it took eleven weeks and about eight minutes altogether.**"
+"Did I want it for the houses?" she said, to the bench, at about the fifth hour, and she waited, and there was nobody in the room. "**Then I wanted it for the houses, and the houses have not asked, and that is the answer, and it took eleven weeks and about sixteen minutes altogether.**"
 
 ---
 
-Nobody thanked her. There is not one form anywhere in this empire that asks a person to be thanked for nine years of nine houses' numbers, and nobody on that lane has ever said the words to her, and she has never once expected them and has thought about it more than she has said.
+Nobody thanked her. There is not one form anywhere in this empire that asks to be thanked at all, let alone for nine years of nine houses' numbers, and nobody on that lane has ever said the words to her, and she has never once expected them and has thought about it more than she has said.
 
-The two houses that wanted a day got their day, and about four of the nine want something by the end of the week, and the window in that room does not close and the lamp is not lit until about the seventh hour and the day is not over.
+And she has thought about it for longer than she has said it out loud, and about four of the nine want something before the week is out, and the window in that room will not shut and the lamp stays dark until about the seventh hour and the day goes on without it.

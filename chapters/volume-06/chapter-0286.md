@@ -1,18 +1,18 @@
 # Chapter 286: About Four Feet Of Bare Wall And A Nail In It With Nothing On The Nail, A Morning At A Gate When Nobody Came Out And Looked, And The Choice Of The Fourth Week Of This Same Month Referred To And Not Taken Back
 
-He is in the same room he has been in since the sixth month, rented by the week, and there is a table in it and a chair against the wall with the bed. About four feet of that wall is bare and there is a nail in it with nothing on the nail. The window faces the back of another house. There is no board on the wall here saying anything, because there is nothing in this room that anybody rents for more than the light.
+He is in the room he has had since the sixth month and takes it by the week, and there is a table in it and a chair stood against the wall that the bed is against. Four feet or so of that wall is bare, and there is a nail driven into it and nothing has ever hung on it. The window looks at another house's back. Nothing is nailed up in this room, because there is nothing here that anybody rents for more than the light in it.
 
-He is thirty-eight. He has nothing in this empire that anybody could be shown he ought to have, and no office and no fund, and no name in anything anybody keeps. **A bar of his own came off him on the twelfth of the ninth month of last year on an application of one line which he wrote himself.**
+He is thirty-eight, and there is nothing in this empire that anybody could produce and say he ought to have been given it, and no office and no fund, and his name is not written in a book that anybody keeps. **A bar of his own came off him on the twelfth of the ninth month of last year on an application of one line which he wrote himself.** Nobody in this room knows that and nobody is going to be told it, and there is no form anywhere in this empire that would let him be examined about it.
 
 This is the fourth day of the fourth week of the eighth month of the year after the year after next, and it is about the fifth hour, and the lamp is not lit, and it is not one of the four days a season he is on anybody's list for.
 
 ---
 
-**He chose a labour he can be refused, out of his own hand, in the fourth week of the eighth month of the year after the year after next, and that is a thing that has already happened and is not happening this week.**
+**Out of his own hand, and with nobody's advice, he chose a kind of labour a man is free to refuse, and he did it in the fourth week of the eighth month of the year after the year after next, and that is a thing that has already happened and is not happening this week.**
 
 It is not being taken back this afternoon. It has not been taken back since the fourth day of this week, and about four minutes of this room have gone on not taking it back, and the not taking it back is not a decision. It is the ordinary condition of a thing a person has done.
 
-He is one of a number of men asked for at a gate in the morning. The work is a day's work and it ends when the light goes, and the man who asks for him is a man who can decide at about the seventh hour whether he wants him tomorrow. He has asked him about nine times since the beginning of the month and has not asked him about nine times in the four weeks before that.
+He is one of a number of men asked for at a gate in the morning. The work is a day's work and it ends when the light goes, and the man who asks for him is a man who can decide at about the seventh hour whether he wants him tomorrow. The man has asked for him about nine times since the beginning of the month, and he had asked him about five times in the four weeks before that.
 
 ---
 
@@ -32,17 +32,17 @@ That is the only condition in this whole matter he has ever been able to get him
 
 And the second day of the fourth month, when he was nine, is gone.
 
-It is not coming back, and there is not one form anywhere in this empire for a person to have a day back, not a day of his own and not a day of anybody else's.
+It is not coming back, and nothing in this empire will give a person a day back, not one of his own and not one of anybody else's.
 
-He is not going to say this week what it cost him. He said it once, in this room, about four weeks ago, and saying a thing about a day twice is the first step of a practice, and he has watched a man build one of those out of a single doorway in about eleven years.
+He is not going to say this week what it cost him. He said it once, in this room, about six weeks ago, and saying a thing about a day twice is the first step of a practice, and he has watched a man build one of those out of a single doorway in about eleven years.
 
 That is the whole of it. It took about four seconds, and the four seconds are the part he is not going to repeat.
 
 ---
 
-The mark on the inside of his left wrist is about two inches long. It reads nothing and it decides nothing and it does not know where the ford is, and the mark is not the price and the wage is the price.
+The mark on the inside of his left wrist is about two inches long. It has never said anything and it has never settled anything, and it does not know where the ford is, and it is not what he paid. What he paid is the wage.
 
-He looked at it for about four seconds at about the fifth hour and it did not do anything, and it has never done anything, and there is no form anywhere in this empire that says a mark has to.
+He looked at it for about four seconds at about the fifth hour and nothing happened, and nothing has ever happened, and no paper anywhere in this empire calls on a mark like that to do anything at all.
 
 It did not tell him whether a day's work was going to be asked for this morning, and it would not have told him if it could, and he has not once in about two years wished that it would.
 
@@ -50,21 +50,21 @@ He is not at a stage and he is not going to get to one this month, and there is 
 
 ---
 
-Nobody sent him anywhere and nobody is going to. The road is about four hundred and thirty miles and about six days, and he has not walked a step of it, and there is not one form anywhere in this empire that would let anybody send him.
+Nobody sent him anywhere and nobody is going to. Four hundred and thirty miles of road and about six days of it, and not one step of that has he walked, and there is not one form anywhere in this empire that would let anybody send him.
 
 There is nothing anybody could send him about. That is the whole of what he has, and it is the first thing in about two years that has been true of a room he is in.
 
 A woman of twenty-four in a rented room two streets off a street that goes down to the river road has a book with two things in it. She has not been told one word of this morning and is not going to be, and she has not asked, and there is not one form anywhere in this empire that says a clerk at a counter is to be told what a man did or did not do at a gate.
 
-A clerk of about fifty-five in a room with a pane out of the window has a line in a book of her own and is not going to hear about the fourth day of this month either.
+A clerk of about fifty-five, nine miles off, with a pane gone out of her window, has one line with her own name at the foot of it in the second of eleven books, and is not going to hear about the fourth day of this month either.
 
-Neither of them knows the other exists, and there is not one instrument anywhere in this empire that would put any of the three of them in a room, and he is the only one of the three who has been in two of the other places, and he has not been in the third, and he is not going.
+Neither of the other two knows that the other one is findable, and there is not one instrument anywhere in this empire that would put any of the three of them in a room, and he is the only one of the three who has been in neither of the other two, and he is not going.
 
 ---
 
 Nobody thanked him. There is not one form anywhere in this empire that requires a person to be thanked for not being asked for.
 
-The count of things that have been asked out loud in this matter in about a hundred and forty years is not his number, and he has not asked anybody anything in about thirty-six weeks and is not going to, and a man who is on nobody's paper is not told a count and is not going to be told one.
+The figure of about a hundred and forty years was said out loud twice and both of the times were said by the man of about thirty-four, and nobody has ever counted it, and it is not his number, and he has not put a question to anybody in about thirty-six weeks and is not going to, and a man who is on nobody's paper is not handed a count and is not going to be handed one.
 
 The lamp in that room is not lit until about the seventh hour and it is about the fifth. The nail is in about four feet of bare wall and there is nothing on the nail, and the table has nothing on it either, and the chair is against the wall with the bed, and the gate at the other end of the day is shut until the morning.
 
