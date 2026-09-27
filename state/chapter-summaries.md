@@ -245,7 +245,7 @@ They come up the road in the third week of the seventh month, the third journey 
 
 ## Chapter 184 — "What Goes on a Public Board" (3,164)
 
-**POV: Marek Kest. A rented room in Auremar, the third week of the second month of the year after, and then a passage.** He has no office, no fund, no register, no certification and a bar discharged on the twelfth of the ninth month of last year by a one-line application he wrote himself, **and that is the whole of the reason he could hand a dead woman's method to a printer, and the whole of the reason it cost him nothing that anybody could put a price on.** He thought about it for about nine days and tried it four ways and the fourth worked, and the fourth was that there was nothing to protect.
+**POV: Marek Kest. A rented room in Auremar, the third week of the second month of the year after, and then a passage.** He has no office, no fund, no register, no certification and a bar discharged on the twelfth of the ninth month of last year on an application of one line which he wrote himself, **and that is the whole of the reason he could hand a dead woman's method to a printer, and the whole of the reason it cost him nothing that anybody could put a price on.** He thought about it for about nine days and tried it four ways and the fourth worked, and the fourth was that there was nothing to protect.
 
 *The rest of this entry, and the repair note the earlier batch appended to it, are in `state/archive/chapter-summaries-closed-volume-entries.md` under the same chapter number. Nothing was deleted.*
 
@@ -479,7 +479,7 @@ They come up the road in the third week of the seventh month, the third journey 
 
 ## Chapter 223 — "Four Definitions And Not One Of Them Says Office" (2,714)
 
-**POV: Marek Kest. A rented room, the second day of the third week of the third month of the year after next.** Thirty-eight, a table, a chair, a bed against the wall he does not use, about four feet of it bare, no office, no fund, no register, a bar that came off on the twelfth of the ninth month of last year on a one-line application he wrote himself, and a line about two inches long on the inside of his left wrist that reads nothing, decides nothing and does not know where the ford is.
+**POV: Marek Kest. A rented room, the second day of the third week of the third month of the year after next.** Thirty-eight, a table, a chair, a bed against the wall he does not use, about four feet of it bare, no office, no fund, no register, a bar that came off on the twelfth of the ninth month of last year on an application of one line which he wrote himself, and a line about two inches long on the inside of his left wrist that reads nothing, decides nothing and does not know where the ford is.
 
 *The rest of this entry, and the repair note the earlier batch appended to it, are in `state/archive/chapter-summaries-closed-volume-entries.md` under the same chapter number. Nothing was deleted.*
 
