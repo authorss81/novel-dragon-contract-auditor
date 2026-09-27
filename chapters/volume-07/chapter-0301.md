@@ -82,11 +82,9 @@ Then the ordinary part of the day, which is that the woman of about forty came u
 
 He went down at about the sixth hour to a house with a door on it, and his wife was at the bottom of the steps of that house, and she did not ask him how the week had gone, and she said out loud some weeks ago that she is not going to, and he did not ask her to change her mind about that either.
 
-There is a woman of about thirty-five next door who has known him about eleven years and who is findable by that, and there is a stair four miles off where a man came up wanting nothing at all and was answered one word, and there is a woman of about forty with a scuttle who is findable by a lamp, and every one of those three is a way of being found and not one of them is on any paper of his own making.
+There is a woman of about thirty-five next door who has known him about eleven years and who is findable by that, and there is a stair four miles off where a man came up wanting nothing at all and was answered one word, and there is a woman of about forty with a scuttle who is findable by a lamp. A man findable by three people in a lane is a man whose bill for it is somebody else's, and not one of those three is on any paper of his own making.
 
-A man who is findable by three people in a lane is a man whose bill for it is not his own, and he worked that out in about four minutes on a step and told nobody.
-
-The four days a season he is on somebody's list are in about the sixth week and they are stone and cutting and a man who cannot read the figures, and this is not one of them and no body has been at this door about them.
+The four days a season he is on somebody's list are in about the sixth week and they are stone and cutting and a man who cannot read the figures, and this is not one of them and nobody has been at this door about them.
 
 There is a table and a chair and a wall with a nail in it and that is the whole of what a man of about thirty-four with a fair hand owns in this empire, and none of it is findable except by the woman who carries the scuttle.
 

@@ -22,7 +22,7 @@ She has written none of them down because there is nowhere in this building to p
 
 A foreman off a dye end is a different man and he is about forty, and he is the only person in that city who can pick up or put down the whole of a woman's money, and he has said out loud to men who were working that he cannot say what a wage is held against, and he has said it four times and once to a boy of about nine with a slate.
 
-He came up the two stairs this week and put a notice in a coat on the bench and did not send it, and told her to write it and keep it and not send it, and she said out loud what he ought to do instead and gave him a reason she made up in about four seconds. **A wage-day notice in a coat on a bench in a counting room is the only piece of paper in this empire that says a woman is owed money and is not held against anybody at all**, and that is the whole of what she got out of the four visits, and she is not thanked for it and there is no form anywhere that would thank her.
+He came up the two stairs this week and put a notice in a coat on the bench and did not send it, and told her to write it and keep it and not send it, and she said out loud what he ought to do instead and gave him a reason she made up in about four seconds. **A wage-day notice in a coat on a bench in a counting room says a woman is owed money, and there is nothing in this empire that can hold a notice against anybody at all**, and that is the whole of what she got out of the four visits, and she is not thanked for it and there is no form anywhere that would thank her.
 
 ---
 

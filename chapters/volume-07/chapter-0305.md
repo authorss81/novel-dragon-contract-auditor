@@ -36,7 +36,7 @@ He is not going to get to one, and there is no form in this empire that would le
 
 The mark is about three inches long and it is on the inside of his left wrist and it is a symptom and not a power and it is not the price. **It reads nothing and it decides nothing and it does not know where the ford is.** It has not settled anything in about two years and it is not going to, and he has never once looked at it to find out what it was going to do, and he turned the sleeve back this week about as often as he turns a sleeve back, which is to say for the water.
 
-The price of the thing he did in the second week of the twelfth month of the year after the year after the year after next was a shilling and sixpence and this. The shilling and sixpence was a day he was not stood at a gate for, and the man at the gate said nothing and he did not ask him to say nothing, and about four people were in a store and heard what it cost before any of it was said.
+The price of the thing he did in the store on the second day of the first week of the twelfth month of last year was a shilling and sixpence and this. The shilling and sixpence was a day he was not stood at a gate for, and the man at the gate said nothing and he did not ask him to say nothing, and about four people were in a store and heard what it cost before any of it was said.
 
 Nobody in that store was saved and he said so himself, out loud, in about four seconds, and that was the part of it that cost him the most to say. **That is the whole of what he got for it and he has not told anybody he got it and is not going to, and nobody has thanked him and there is not one form anywhere in this empire that requires a person to be thanked for not doing a thing.**
 

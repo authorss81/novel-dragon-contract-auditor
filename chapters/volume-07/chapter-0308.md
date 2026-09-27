@@ -18,7 +18,7 @@ She does not touch the rack. She has never once touched the rack. There is a she
 
 The figure has gone up since she counted it in the seventh month of the year after.
 
-She has not said by how much and she is not going to, and a number that has gone up in about nineteen weeks is a number that is still going up while a woman of about fifty-five sits at the other end of four hundred yards of cold passage copying a hand into a shelf she advises nobody about.
+She has not said by how much and she is not going to, and a number that has gone up in every year since the seventh month of the year after is a number that is still going up while a woman of about fifty-five sits at the other end of four hundred yards of cold passage copying a hand into a shelf she advises nobody about.
 
 ---
 
@@ -37,8 +37,6 @@ She has three questions for the man of about sixty-one. She has had them in her 
 He is in that building twice in a season on his own feet, about nine miles, and he is the only one of three things on a sheet that can be asked anything at all, and one person asked him one question about a seal once, in that building, and got an answer, and about nothing else.
 
 **A question put in that building is a question put into a record, and being asked is being served, and being served is a party**, and a party is the only person who can be told what a thing is going to be used for.
-
-
 
 There is no form anywhere in this empire for serving a person with a question, let alone with that one, and the three questions stay where they are, and nobody in that building is going to ask her where.
 

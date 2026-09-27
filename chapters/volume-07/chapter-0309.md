@@ -1,4 +1,4 @@
-# Chapter 309: The Same Room Over The Chandler's Shop, Ten Weeks On, And The Only Machine This Empire Has Ever Had At A Scale
+# Chapter 309: The Same Room Over The Chandler's Shop, Eight Weeks On, And The Only Machine This Empire Has Ever Had At A Scale
 
 The same four steps and the same landing, and the same table, and the same chair standing where it has stood since he came, against the wall the bed is against. The window is still about a foot wide and still looks at another house's back, and there are still about four feet of bare wall with a nail in it, and the nail has still got nothing on it.
 
@@ -8,7 +8,7 @@ He is thirty-four or thereabouts, and a fair hand is what he has got, and there 
 
 The house with a door on it is four miles off with his wife at the bottom of the steps of it, and he is on nobody's paper this week and did not put himself on it.
 
-This is the fourth day of the third week of the second month of the year after the year after the year after next, and it is about the fifth hour, and it is ten weeks since he sat at this table and went through the whole of it once, and he is going through it again and he has got further this time than he did then.
+This is the fourth day of the third week of the second month of the year after the year after the year after next, and it is about the fifth hour, and it is eight weeks since he sat at this table and went through the whole of it once, and he is going through it again and he has got further this time than he did then.
 
 ---
 
@@ -32,9 +32,9 @@ And then the second half of it, and it is about nine words and it took him the o
 
 **The only thing this empire has ever been able to put in front of nine hundred rooms at once is a class, and a class is a heading, and a heading is a company.**
 
-So the whole of the machinery of asking at a scale is the machinery of making people into companies. That is the finding, and he has been unable to say it in a room that was going to be written down for the whole of six volumes of it.
+So the whole of the machinery of asking at a scale is the machinery of making people into companies. That is the finding, and he has never once been able to say it in a room that was going to be written down.
 
-He has been at this for six volumes without being able to say it in a room that was going to be written down, and he said it out loud to about four feet of bare wall on the second day of this week, and about four feet of bare wall was the whole of the audience and the wall has not answered him and is not going to.
+He has had it for as long as he has had the list in his head and has not been able to say it in a room that was going to be written down, and he said it out loud to about four feet of bare wall on the second day of this week, and about four feet of bare wall was the whole of the audience and the wall has not answered him and is not going to.
 
 A company is a thing this empire can hold wages against and give letters to and take to law. Four men in a bay were entered by a class and can do none of the three things and can be asked nothing.
 

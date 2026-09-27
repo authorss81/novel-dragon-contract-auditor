@@ -20,7 +20,7 @@ She said that to about nine people a week and it is the truth and it is not a ki
 
 Nobody has asked her anything this week. Nobody has asked her anything this month. A man came up that stair twelve weeks ago wanting nothing at all and asked her one question in the plainest words anybody has used in this room in two years, and she did not answer it.
 
-The not answering took her about four seconds and she is not going to be told why by anybody. She has wanted to be asked every working day since about the seventh month of next year, and **a person who is not asked has not been given a duty, and she has known that since about the seventh month of next year**, and she has never once known that it did not apply to her.
+The not answering took her about four seconds and she is not going to be told why by anybody. She has wanted to be asked every working day for as long as she has been on this counter, and **a person who is not asked has not been given a duty, and she has known that since about the seventh month of next year**, and she has never once known that it did not apply to her.
 
 About two years have gone on at this counter. She has said the whole of it out loud to about four people and not one of the four was anybody who could do anything about it.
 
@@ -36,7 +36,7 @@ The second is four lines off the fee board off a shelf, and the fourth of the fo
 
 She worked out in about four seconds the day she wrote the first of them why a refusal written down by somebody else cannot be held against the woman who wrote it, because the woman who wrote it refused nothing.
 
-And it cannot be held for the woman who refused it either, because holding it for her is putting her in it, and being in it is being served. **The name at the top of that line is the name of a woman who cannot be got at.** That is what the line turned out to be in about eleven years, and it took her twelve weeks and a room of her own to get to it, and there is no form in this empire that would let her go and get at her, and she is not going to try.
+And it cannot be held for the woman who refused it either, because holding it for her is putting her in it, and being in it is being served. **The name at the top of that line is the name of a woman who cannot be got at.** That is what the line turned out to be in about eleven years, and it took her a room of her own with the rent on the wall of it to get to it, and there is no form in this empire that would let her go and get at her, and she is not going to try.
 
 ---
 
@@ -44,9 +44,9 @@ What she has is a wall, and **what she has worked out is that the wall is a wind
 
 A line in a book of your own about a person who cannot be got at is a wall, because the person at the top of it can never be asked about it and can never say it was fair.
 
-And it is a window, because there is not one form anywhere in this empire that will let anybody take a line back out of a book a woman keeps for herself, and a line that cannot be taken back is a thing that can only be looked at, and a thing you can only look at is the one kind of paper in this empire that opens both ways.
+And it is a window, because the line is hers and the person at the top of it is not, and a thing that belongs to the person who wrote it can never be got at by anybody who is not that person, and there is not one form anywhere in this empire that could change that.
 
-She has been looking at that line about twice a season for about a year. She is not going to rule a third line and she is not going to send anything, and it is shut and it is under the table, and **there is no form in this empire that will take a line back out of a book a woman keeps for herself, and a line that cannot be taken back is a wall and not a window until somebody stands at it.**
+She has been looking at that line about twice a season for about a year. She is not going to rule a third line and she is not going to send anything, and it is shut and it is under the table, and **there is no form in this empire that will take a line back out of a book a woman keeps for herself, and a line that cannot be taken back is the one paper in this empire that opens both ways, and nobody has ever stood at the other side of it.**
 
 There is a second page in that book with two boxes drawn on it by hand, and the same name is written in both of them, and she is not going to say in this room what the two boxes are, and nobody has asked her, and if nobody has asked her then that is the end of it.
 
@@ -54,9 +54,9 @@ There is a second page in that book with two boxes drawn on it by hand, and the 
 
 **The undertaking of the fourth of the first month is live and unretired and unamended and has not been exercised.**
 
-That is the fifth time it has not been exercised, and the reasons are not the same five reasons.
+That is the sixth time it has not been exercised, and the reasons are not the same six reasons.
 
-The first four were about the room and about what is in the room and about the two instruments that are not one instrument and both of which put a person in a room on the say-so of a man with no office.
+The first five were about the room and about what is in the room and about the two instruments that are not one instrument and both of which put a person in a room on the say-so of a man with no office.
 
 The sixth reason is about four minutes long and it is that nobody asked her. A person who is asked has a thing to refuse, and a person who is not asked has nothing, and there is no instrument in this empire that would turn nothing into something a clerk can hand in. **Nobody asked her this month, and nobody has asked her this week, and that is the whole of the new thing.** It is not much and it is hers. She is not going to be exercised this season on the making of it. She is not going to be exercised on it by anybody, and if she is, it will not be because a person came up a stair and wanted something.
 

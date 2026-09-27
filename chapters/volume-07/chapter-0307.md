@@ -8,7 +8,7 @@ Three clerks work in this building. The door at the top end of the passage has a
 
 He is sixty-one. He has been the second hand since he was forty-two, and he signs about nine hundred sheets a year out of that room, and he signs for people who cannot write and for people who are not in the room. **He cannot read a paragraph.**
 
-This is the second day of the first week of the second month of the year after the year after the year after next, and it is about the second hour, and the room is open and the pane is out of the window and about four hundred sheets a year go out of that room into about four hundred other rooms, and one sheet in five goes nowhere near this room at all.
+This is the second day of the first week of the second month of the year after the year after the year after next, and it is about the second hour, and the room is open and the pane is out of the window, and about nine hundred sheets a year go out of that room and not one of them comes back into it.
 
 ---
 
@@ -52,7 +52,7 @@ That is how the two of them have worked for six years. Neither of them is thanke
 
 He is not on anybody's paper. He is not on a list and he is not in an office and nobody keeps his name anywhere for the purpose of finding him, and that is the ordinary condition of a man who signs at the foot of a thing and is not the person the thing is about.
 
-About four men in a bay about four hundred and thirty miles down this river cannot read a paragraph either, and he is not one of them and is not in any list with them and does not know that they exist, and there is a mark in chalk on a wall four hundred yards from that bay that means nothing and is nobody's.
+About four men in a bay about four hundred and thirty miles down this river cannot read a paragraph either, and he is not one of them and is not in any list with them and does not know that they exist, and there is a mark in chalk on a wall in that bay that means nothing and is nobody's.
 
 He signed four sheets this morning before the light came properly. He read the day on all of them and the heading over the column on none of them, and nobody has asked him anything, and there is no form that would let anybody ask him.
 

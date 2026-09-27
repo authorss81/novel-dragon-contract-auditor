@@ -1,14 +1,14 @@
 # Chapter 303: The Fourth Counter Of A Table In Auremar, A Stair With No Other Way Up, And The Whole Of A Blank Said Out Loud
 
-The Table in Auremar runs four counters and this one is the top of the flight, and the stair it stands on has no way up it other than the stair. The hours are the second to the sixth.
+There are four counters in a Table in Auremar and this is the top of them, and the only way up to the top of them is four flights of a stair, and a stair has no door at the foot of it, which is why nobody has ever stood down there waiting to be told she was not to come up.
 
-Behind the counter there is a board with four things written on it and not one of them is a time, and about nine people come up that stair in a day, and nobody stands at the bottom of it, because a stair has no door.
+Her name is Marn Ottery and she is thirty-four and she has been on this counter eleven years and she is not a lawyer, and behind her on the wall is a board with four things written on it and not one of them is a time, and about nine people come up that flight in a day and every one of them has come up it for something they can name when they get to the top of it.
 
 There is a received room at the back with four shelves in it and three of them are full.
 
-She is thirty-four and her name is Marn Ottery and she has been at that counter eleven years and she is not a lawyer, and at the other end of it stands a woman of twenty-four who has been there about two years, and a man of about thirty does the copies at the far end, and a woman of about twenty has been there a year and is at the back and is not in this matter at all.
+At the other end of the counter stands a woman of twenty-four who has been there about two years, and a man of about thirty does the copies at the far end, and a woman of about twenty has been there a year and is at the back and is not in this matter at all.
 
-This is the second day of the first week of the first month of the year after the year after the year after next, and it is about the second hour, and the counter has been open about a minute.
+This is the second day of the first week of the first month of the year after the year after the year after the year after next, and the hours at this counter are the second to the sixth, and it is about the second hour, and the counter has been open about a minute.
 
 ---
 
@@ -36,31 +36,31 @@ The man of about forty-five said, "Is that on the board?"
 
 ---
 
-He asked her whether the figure on the paper had to be the figure on the paper in the office, and she said that it did, and he said, "Then it is a copy." And she said that it was, and he went down the stair with it, and she did not ask him one thing about the office or about the paper or about why he had come up a stair with a paper in his hand at about the second hour of a morning in the first week.
+He asked her whether the figure on the paper in his hand had to be the figure on the paper in the office, and she said that it did, and he said, "Then it is a copy." And she said that it was, and told him what a copy is, which is fourpence. He counted it out of his own hand and did not ask her for anything else, and he went down the stair with it, and she did not ask him one thing about the office, or about the paper, or about why a man carries a paper up four flights at about the second hour of a morning in the first week.
 
 She has put a coin back on a counter once in eleven years rather than take it, and **nobody has ever asked her to account for that either**, and the not taking is the whole of what she got out of it.
 
 Then there were four people, the way there are four people, and none of the four asked her anything.
 
-A woman of about thirty-two asked her about a letter and there is no such thing kept and no such thing told, and the woman said that was how it is done here and not a favour to her.
+A woman of about thirty-two came up the stair about a letter, and there is no such thing kept and no such thing told, and the woman said that was how it is done here and not a favour to her.
 
 A boy of about fifteen bought a blank for fourpence and stood at the wrong end of the counter for about eleven minutes with it in his hand and went down without filling it in, which is the whole of what a blank is for.
 
 A man of about forty wanted a thing put back three years and could not have it and was not told why.
 
-A woman of about twenty-nine asked whether a thing could be looked at again on a day, and it could not, and she said so, and the woman went down the stair.
+A woman of about twenty-nine wanted to know whether a thing could be looked at again on a day, and it could not, and she was told so, and the woman went down the stair.
 
 ---
 
 The box is under this counter and it has been under this counter for eleven years, and there are about four hundred bought and unfilled blanks in it, and **no form anywhere in this empire lets me keep them.**
 
-A blank is the only piece of paper in this empire that cannot be held against anybody.
+**A blank is the only piece of paper in this empire that cannot be held against anybody.**
 
 That is the whole of what it is for and that is the whole of what anybody uses it for, and about nine hundred of them a year leave this building unfilled, and a person buys one and carries it about and puts it in a coat, and no officer in this empire can take it off him and no office can be shown what he did with it.
 
 A Table is the only place where a person can come up, ask a question, and walk away with a piece of paper that says they asked it. The box is the nearest thing to a post that anybody has ever built in this empire, and **it is not a post, and it will not become one, and the only thing that would turn it into one is a person asking for it, and a person asking for it is told no by a person**, because it would stop on the day the first person with a form wanted it to.
 
-She said all of that out loud, to the room, at about the fourth hour, on a day when nobody had asked her anything, and there were four people in the room and one of them was the woman of twenty-four and the woman of twenty-four did not answer it and is not going to.
+She said all of that out loud, to the room, at about the fourth hour, on a day when nobody had asked her one thing about any of it, and there were four people in the room and one of them was the woman of twenty-four and the woman of twenty-four did not answer it and is not going to.
 
 ---
 

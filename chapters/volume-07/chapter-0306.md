@@ -38,7 +38,7 @@ A reader of seventeen is at the back of the same bay in the same condition, and 
 
 Neither of the two has been spoken to this week. Neither of them is going to be spoken to by anybody in this matter.
 
-Neither of them is thanked and neither of them is sent for and neither of them is going to start, and the bay is about nine foot by eleven and there is room at the back of it for two and there has been room at the back of it for about four weeks and the reason is that nobody has decided anything and nobody is going to decide anything this month. **The girl of seventeen would say yes. She has never been given the chance to say no, and there is no paper in this empire that asks a person of seventeen whether she would rather not, and the asking would be the only way to find out and the asking is the thing that cannot happen.**
+Neither of them is thanked and neither of them is sent for and neither of them is going to start, and the bay is about nine foot by eleven and there is room at the back of it for two and there has been room at the back of it for about four weeks, and the reason is that nobody has decided anything and nobody is going to decide anything this month. The girl of seventeen would say yes. **She has never been given the chance to say no, and there is no paper in this empire that asks a person of seventeen whether she would rather not, and the asking would be the only way to find out and the asking is the thing that cannot happen.**
 
 Nobody says why, and not the bay and not the foreman, and neither of the two of them has been asked and is not going to be, and there is nobody in this matter who could ask.
 

@@ -60,7 +60,7 @@ She has not entered an order in nineteen years and a minute with an answer in it
 
 She wrote it on her own motion, at nobody's request, with the day and the hour on it and her own name at the foot of it, on the fourth day of the third week of the ninth month of the year after next.
 
-It has been on that shelf about a year. It did not become an answer and it is not going to become one.
+It is still on that shelf under the window with the pane out of it. It did not become an answer and it is not going to become one.
 
 A quarter of it was answered out loud in this room in the second month of last year, by a man who came nine miles on his own two feet and told nobody what was said afterwards, and she wrote none of that down either.
 
