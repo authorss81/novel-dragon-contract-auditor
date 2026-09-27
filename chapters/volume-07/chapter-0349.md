@@ -40,4 +40,4 @@ A man of about thirty-four who stands at the top of four steps every working day
 
 ---
 
-The lamp was lit at about the seventh hour by somebody else. The table had nothing on it and the nail had nothing on it and the chair is still against the wall the bed is against, and nothing was resolved, and nobody was sent for, and nothing was forgiven, **and the count of things anybody has asked out loud in this matter is the same as it was at the fifth hour and it is going to be the same in ten weeks.**
+The lamp was lit at about the seventh hour by somebody else. The table had nothing on it and the nail had nothing on it and the chair is still against the wall the bed is against, and nothing was resolved, and nobody was sent for, and nothing was forgiven, **and the count of things anybody has asked out loud in this matter is the same as it was at the hour he came in and it is going to be the same in ten weeks.**

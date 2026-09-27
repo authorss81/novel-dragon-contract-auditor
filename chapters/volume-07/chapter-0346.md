@@ -24,7 +24,7 @@ A woman of about fifty-five is at a table with her back to the wall and there is
 
 ---
 
-Then he said it out loud, standing, in about nine sentences, to the man of sixty-one and to the woman of about fifty-five and to about four other people, and it was not a speech, and it took about nine minutes, and it is the whole of what he came nine miles for.
+Then he said it out loud, standing, in about thirteen sentences, to the man of sixty-one and to the woman of about fifty-five and to about four other people, and it was not a speech, and it took about nine minutes, and it is the whole of what he came nine miles for.
 
 "I am not going to put it, and I have had it ready since the fourth week of the second month, and I have had it ready this morning as well, and it is the only thing I have come here with."
 

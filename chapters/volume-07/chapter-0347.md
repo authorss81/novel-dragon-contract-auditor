@@ -4,7 +4,7 @@ She has had that room to herself for nineteen years. There is a shelf in it and 
 
 **About four thousand entries stand in the eleven books on that shelf and not one of them has a name in it**, which is not carelessness. It is the only shape a minute book has got and she is very good at it, and being good at it is the whole of what she is paid for.
 
-This is the second day of the first week of the twelfth month of the year after the year after the year after next, and it is the afternoon, and the nine minutes are four days behind her.
+This is the second day of the first week of the twelfth month of the year after the year after the year after next, and it is the afternoon, and the nine minutes are seven days behind her.
 
 ---
 
@@ -22,7 +22,7 @@ She has not gone near it since the middle of the last month. A quarter of it was
 
 ---
 
-A man of about thirty-four was in that room too, on that morning, and told a true thing out loud standing up in front of about nine people, and she was in that room and she wrote none of it.
+A man of about thirty-four was in that room on that morning, seven days ago, and told a true thing out loud standing up in front of about nine people, **and she was in her own room at the top end of that passage at the time of it, and she wrote none of it.**
 
 **Nobody is going to tell her that.** She said, in the ninth month, standing at her own table, that he is not coming back, and nobody is sending for him and nobody will send for him. She is not told that he was there and she is not told that he is not coming, and nothing in this empire would let a clerk of an office be told either thing. So what she said out loud in a room of her own in the ninth month stands exactly as she left it, and there is no way anywhere in it to find out whether that was true.
 

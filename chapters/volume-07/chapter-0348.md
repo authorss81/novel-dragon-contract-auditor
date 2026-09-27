@@ -44,4 +44,4 @@ The fourth thing in her drawer is where it has been and it is untouched and it i
 
 ---
 
-Nobody thanked her and nobody thanked the woman of thirty-four and nobody was sent for and nothing was resolved, and the undertaking stands, and the box stands, and the fourth item stands, **and the count of things anybody has asked out loud in this matter is the same as it was at the second hour and it is going to be the same in ten weeks.**
+Nobody thanked her and nobody thanked the woman of thirty-four and nobody was sent for and nothing was resolved, and the undertaking stands, and the box stands, and the fourth item stands, **and the count of things anybody has asked out loud in this matter is the same as it was when that counter was opened this morning and it is going to be the same in ten weeks.**

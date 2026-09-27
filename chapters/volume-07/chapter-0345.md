@@ -4,7 +4,7 @@ There is a house with a door on it about four miles off a town, and there are fo
 
 There is a woman living at the bottom of those four steps. She is at the bottom of them in the way there is of a person who lives at the bottom of them, and she has said out loud that she is not going to ask him about his week, and he has not asked her to change her position.
 
-This is the fourth day of the third week of the eleventh month of the year after the year after the year after next, and it is about the fifth hour, and it is the lamp in his own room over a chandler's shop, four miles the other way, that is not lit until about the seventh hour and was not lit then.
+This is the fourth day of the third week of the eleventh month of the year after the year after the year after next, and it is about the fifth hour, and it is the lamp in his own room over a chandler's shop, four miles the other way, that is not lit and is not going to be lit until about the seventh hour.
 
 ---
 
@@ -44,4 +44,4 @@ The woman next door came out at about the sixth hour with two things in her hand
 
 ---
 
-Nobody thanked him and nobody sent for him and nothing was resolved and nothing was forgiven. The four hundred yards of lane between his own room and a bay is not walked this week, and about four hundred and thirty miles is not walked by anybody on his account this month or in any month after it, **and the count of things anybody has asked out loud in this matter is the same as it was at the fifth hour and it is going to be the same in ten weeks.**
+Nobody thanked him and nobody sent for him and nothing was resolved and nothing was forgiven. The four hundred yards of lane between his own room and a bay is not walked this week, and about four hundred and thirty miles is not walked by anybody on his account this month or in any month after it, **and the count of things anybody has asked out loud in this matter is the same as it was when the lamp was not lit and it is going to be the same in ten weeks.**

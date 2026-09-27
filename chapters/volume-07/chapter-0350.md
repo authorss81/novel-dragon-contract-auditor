@@ -22,7 +22,7 @@ There is no column for a no and there never has been one, and the whole of what 
 
 ---
 
-Nothing has moved. A woman of fifty-one is in a box on a bank four hundred yards up a lane off the Slade, and a woman of twenty is in one about nine miles off a building off the old river road, and the form that put the two of them there has not been asked to be void by anybody. **Nothing in this empire has ever been asked to be void** and there is no procedure for asking, and the person who administers one is a clerk who is not a villain and has done about nine hundred of them correctly.
+Nothing has moved. A woman of fifty-one is in a box on a bank four hundred yards up a lane off the Slade, and a woman of twenty is in one about four hundred and thirty miles up this river in a furnace town, and the form that put the two of them there has not been asked to be void by anybody. **The nine miles off a building off the old river road is a man of about sixty-one and is neither of the two women**, and the two of them are about four hundred and thirty miles apart and neither one has ever heard of the other one. **Nothing in this empire has ever been asked to be void** and there is no procedure for asking, and the person who administers one is a clerk who is not a villain and has done about nine hundred of them correctly.
 
 The question a clerk of about fifty-five wrote into the second of eleven books on her own motion is on a shelf under a window with the pane out of it, and it is still a question, and it carries no period, **and nobody has asked her about it a second time and nobody is going to.**
 

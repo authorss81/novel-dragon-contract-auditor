@@ -42,10 +42,10 @@ The notice in the coat is not sent. It has not been sent and it is not going to 
 
 ---
 
-She is not going up this river this season, and that is not the same as never, and nobody but her knows there is a difference. It is still a difference and it is still hers, and the room she is in now is about four hundred and thirty miles from a building off a road in another town where a woman nine miles off has told a different woman a different thing, and neither of them has ever heard of the other one.
+She is not going up this river this season, and that is not the same as never, and nobody but her knows there is a difference. It is still a difference and it is still hers, and the room she is in now is about four hundred and thirty miles from a building off the old river road in a town down this river, and a woman nine miles off that lane stands at the end of a cold passage in that building and has told a different woman a different thing, and neither woman has ever heard of the other one.
 
 "Is that stove still out?" she said it out loud at about the fourth hour, to the stove, about the stove, and it is out and it will want lighting again in about a quarter of an hour, and she let it want, and nothing in this empire lets a stove be said to a person.
 
 ---
 
-The sixteen books are where the sixteen books are and the broken light is the broken light and the shelves were made for taller books. Nobody thanked her and nobody sent for her and nothing was forgiven and nothing was resolved, the two women she cannot reach are still two women she cannot reach, and the sixteenth book is shut, **and the count of things anybody has asked out loud in this matter is the same as it was at the second hour and it is going to be the same in ten weeks.**
+The sixteen books are where the sixteen books are and the broken light is the broken light and the shelves were made for taller books. Nobody thanked her and nobody sent for her and nothing was forgiven and nothing was resolved, the two women she cannot reach are still two women she cannot reach, and the sixteenth book is shut, **and the count of things anybody has asked out loud in this matter is the same as it was when the stove was let go out and it is going to be the same in ten weeks.**
