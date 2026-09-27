@@ -1,4 +1,4 @@
-# Chapter 287: Nine Books For Nine Houses, A Woman Of Thirty-Five Who Has Worked Out That She Can Put Them Under One Line In About Four Seconds And Is Not Going To, And The Reason That The Nine Have Not Agreed And Cannot Be Asked To
+# Chapter 287: Nine Books For Nine Houses, And A Woman Who Will Not Put Them Under One Line
 
 Her room is off the same dyers' lane and it is about eleven feet by fourteen, and it is not the one at the top of the lane where about forty books stand on shelves made for taller books, and she has been in that one twice. In hers there is a bench along one wall and a table and a window that will not shut. She has kept the numbers of nine houses on that lane for nine years and not one of the nine has ever paid her a penny for the keeping.
 
@@ -18,17 +18,17 @@ The fourth house down is the one that comes to the door and asks whether the day
 
 ---
 
-**And on the second day of the first week of this month she worked out how she would do it, and it took about four minutes, and it is about four seconds' work.**
+**And on the second day of the first week of this month she worked out how she would do it, and it took about four minutes, and writing it would be the work of a few seconds.**
 
 Nine houses are nine houses. A heading is the only thing standing between nine houses and one thing, and a heading is not a person and does not have to be one. It can be a line of description. It can be four words long with a street in it and a number in it and not one name anywhere in it.
 
 And under it those nine houses would be one thing, and a thing that goes on being after everybody in it is gone is a thing that can be taken to law about.
 
-She worked all of that out standing at the bench at about the fourth hour, and she has not written it down, and there is not one form anywhere in this empire that would let her, and she is not going to.
+She worked all of that out standing at the bench at about the fourth hour, and she has not written it down, and no form in this empire would let her, and she is not going to.
 
 ---
 
-And then she got to the part she has not got past, and it took the other about four minutes, and it is the whole of what this month was for.
+And then she got to the part she has not got past, and it took about as long again, and it is the whole of what this month was for.
 
 A heading is a set of people written down as though they were one line.
 
@@ -48,9 +48,9 @@ The thing she wants is to be able to be sued. The only honest way to be one thin
 
 And every sum in the nine books on that bench belongs to a household that has not asked her to keep it.
 
-So she is going to go on being nine separate houses, and she is going to go on being a woman who cannot be sued about anything, and there is not one form anywhere in this empire that would let a person be told to give that up, and there is not one form anywhere in this empire that would let anybody be given the other thing instead.
+So she is going to go on being nine separate houses, and she is going to go on being a woman who cannot be sued about anything, and there is no form in this empire that would let a person be told to give that up, and no form that would let anybody be given the other thing instead.
 
-And nobody is going to be told that she wanted it. She said it out loud to a bench in this room eleven weeks ago with nobody in it, and that is the only room it has ever been said in, and there is no form anywhere in this empire that would carry it out of this room, and it is not going to be carried.
+And nobody is going to be told that she wanted it. She said it out loud to a bench in this room eleven weeks ago with nobody in it, and that is the only room it has ever been said in, and no form in this empire would carry it out of this room, and it is not going to be carried.
 
 ---
 
@@ -60,7 +60,7 @@ The knotted string went in on a warm afternoon in the twelfth month of the year 
 
 A knotted string is not a name and it is not a form, and it is the only thing about nine houses in that lane that has ever been said out loud to the person who is keeping them.
 
-It is not a document and it cannot be produced, and there is not one instrument anywhere in this empire that would let anybody ask her what it means, and she has never once wanted anybody to ask her.
+It is not a document and it cannot be produced, and no instrument in this empire would let anybody ask her what it means, and she has never once wanted anybody to ask her.
 
 "Did I want it for the houses?" she said, to the bench, at about the fifth hour, and she waited, and there was nobody in the room. "**Then I wanted it for the houses, and the houses have not asked, and that is the answer, and it took eleven weeks and about sixteen minutes altogether.**"
 

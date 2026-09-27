@@ -1,4 +1,4 @@
-# Chapter 283: A Day-Book Coming Back Up Four Steps With A Figure Under A Ruled Line In A Hand That Is Neither His Nor The Old Man's, And The First Thing He Has Ever Written For Nothing That Has Come Back At Him
+# Chapter 283: A Day-Book Comes Back Up Four Steps With A Figure Under His Line
 
 He has rented the same room over a chandler's shop for about eleven years and he takes it by the week. There is a landing outside the door with four steps up to it, a bolt across the door, and one window about a foot wide. The shop underneath keeps tar and rope and lamp oil, and the smell comes up between the boards all day, and nobody on that lane has ever said a word to him about it.
 
@@ -18,13 +18,13 @@ The man of about sixty had brought it in twice in about four weeks before that a
 
 "Is it wrong?" he said, to the day-book, at about the fourth hour, and it was not a question to anybody.
 
-The line is still there. A short line ruled across the space with a pen, at about four minutes' work, on a page where a word had been standing, in a column that has been taking figures for about thirty years. Under that line there is now a sum, and the sum is in a hand that is not the man of about sixty's and is not his.
+The line is still there. A short line ruled across the space with a pen, the work of a single minute, on a page where a word had been standing, in a column that has been taking figures for about thirty years. Under that line there is now a sum, and the sum is in a hand that is not the man of about sixty's and is not his.
 
 ---
 
 **It is a correct sum, and it is the sum his line was standing in the place of, and a column cannot be read, and the old man has carried it forward and nobody has checked it against anything.**
 
-He looked at it for about four minutes. Then he did the only two things there are to do with a figure in a column, which are to add it and to see whether it comes out. It comes out, and it comes out the same way it would have come out if he had put a zero there in his own hand on the second day of the first week of the seventh month.
+He looked at it for a good while without touching it. Then he did the only two things there are to do with a figure in a column, which are to add it and to see whether it comes out. It comes out, and it comes out the same way it would have come out if he had put a zero there in his own hand on the second day of the first week of the seventh month.
 
 And nobody is ever going to know which of the two things is under the mark, because the mark is under both of them and the mark is not a word.
 
@@ -34,7 +34,7 @@ And it is going to be read as an answer by anybody who reads that book in about 
 
 **A column cannot tell the difference between a refusal and an answer, and it cannot tell the difference between a third thing and a refusal, and it is not going to learn.**
 
-The only thing standing between those two is a person standing next to the column saying which one it is, and there is not one form anywhere in this empire that lets a man who is on a list of works four times a season say which one it is.
+The only thing standing between those two is a person standing next to the column saying which one it is, and no paper in this empire lets a man who is on a list of works four times a season say which one it is.
 
 ---
 
@@ -42,7 +42,7 @@ He is not going to be told.
 
 Nobody asked him what the mark was for, on the day he made it, or on the day he handed the book back, or this afternoon, and he did not say anything about it either time.
 
-And there is not one form anywhere in this empire that requires a man to explain a mark he has made in a column in a book he does not keep, and he has not got anybody to ask and is not going to go and get one.
+And nothing in this empire requires a man to explain a mark he has made in a column in a book he does not keep, and he has not got anybody to ask and is not going to go and get one.
 
 A man who asks a clerk what a mark in a column was for is a man who has been in a column. He has been in eleven columns in about eleven years, and the finding is that a man who is in a column cannot get out of it, and does not know he is in it until somebody reads it out.
 
@@ -70,7 +70,7 @@ She was at the bottom of the four steps when he looked out of the window about a
 
 They have been about eleven years in a house with a door on it, and almost nothing has ever been said in a room in it by the two of them, and the one that was, he said in a kitchen without asking her first, and it cost him and he has not done it since. About four weeks ago she came up those steps and told him out loud that she had never once asked him why anybody wanted to know where he is, and that she was not asking now, and that it is a different thing, and she wanted it said in that order.
 
-And there is not one form anywhere in this empire that would let her ask him first whether she ought to, and neither of them is going to, and he has been turning that over for about twenty-five weeks and has not once gone to the bottom of the stair with it.
+And nothing in this empire lets her ask him first whether she ought to, and neither of them is going to, and he has been turning that over for about twenty-five weeks and has not once gone to the bottom of the stair with it.
 
 ---
 

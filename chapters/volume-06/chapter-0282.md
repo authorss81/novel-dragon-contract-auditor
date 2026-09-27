@@ -1,4 +1,4 @@
-# Chapter 282: Four Men At A Bench In Four Days Asking A Foreman Of Fifty-One What A Number A Third Of Them Heard Out Loud In A Bay, And The Woman Who Said It Not Being Able To Stop Answering Any Of Them
+# Chapter 282: Four Men At A Bench In Four Days, And A Foreman Who Cannot Stop Answering
 
 The north wall of that bay is all bench from the door to the water, and the lamp on it is not lit until about the seventh hour. The door is on the north side and the water has been down about where it has been all season. There is a figure painted on the end wall against four shillings a year, the whole money the Company has ever had, and it was put there in the fourth week of the fourth month of the year after, and nobody in that bay has looked at it in about sixteen weeks.
 
@@ -24,7 +24,7 @@ He said thank you and went back to the bench, and that was the first of the four
 
 A man of about twenty-eight asked the same thing on the second day and did not want to be told it was a count of things, and wanted to know what number it was.
 
-She told him. He wrote nothing down, and there is not one form anywhere in this empire that says a man may make a mark in a book at a bench on a wet afternoon.
+She told him. He wrote nothing down, and a man at a bench on a wet afternoon has no paper in front of him that says he may make a mark in a book.
 
 A man of about forty from the third gang asked it on the third day, standing with his back to the water. He wanted to know whether anybody had ever worked out where the number came from. She said she had not, and neither had the man who said it, and he said that was the most accurate thing anybody had put in that bay in about four years, and he was not being kind about it and he said so before she could.
 
@@ -50,13 +50,13 @@ And she has now had it back four times in four days from men who were not in tha
 
 ---
 
-She cannot stop answering them, and she has not tried, and the reason is about four minutes old and it is not a decision.
+She cannot stop answering them, and she has not tried, and the reason was worked out about four minutes ago and it is not a decision.
 
 A foreman answers. That is the whole of what a foreman is at a bench with nine men in it. About four of them came and asked her a question in four days, and she answered all four of them, and one of them wanted it said a second time, and the answer was the same four sentences each time and she got it right every time.
 
 **And the day she stops answering is the day she has begun to make a speech of her own job, and she has been on that bank since she was nine, and she is not going to start.**
 
-She cannot put it to the man of about thirty from the second gang either. He is a party from the day he stood in that bay and put a word out loud in it, and a party is a person a book can be true about for the rest of that person's life. There is not one form anywhere in this empire for taking a party back out of it, and asking a man to keep his mouth shut would be being the person who put him in it a second time.
+She cannot put it to the man of about thirty from the second gang either. He is a party from the day he stood in that bay and put a word out loud in it, and a party is a person a book can be true about for the rest of that person's life. Nothing in this empire has a paper for taking a party back out of it, and asking a man to keep his mouth shut would be being the person who put him in it a second time.
 
 "So he is the reason it is in here," she said, to the bench. "And I am the reason he is the one who said it, and neither of us can put it back, and that is the first arrangement in nine years I have been in that has not got a man who can be sent somewhere."
 
@@ -64,7 +64,7 @@ She cannot put it to the man of about thirty from the second gang either. He is 
 
 And then she got to the other half of the four days, which is the half she has owed since the third month of the year after, and it came up while she was standing at a bench doing arithmetic.
 
-She owes a second sentence. She has owed it since the third month of the year after and she has not given it, and nobody has asked her for it, and the half she has got is about a paper with a heading on it being thrown away twice. The half she has not got is somewhere about four hundred and thirty miles off, in a room about eleven feet by fourteen, and there is not one form anywhere in this empire that would let a man of about thirty-four with a fair hand go and stand in that room and ask her for it.
+She owes a second sentence. She has owed it since the third month of the year after and she has not given it, and nobody has asked her for it, and the half she has got is about a paper with a heading on it being thrown away twice. The half she has not got is somewhere about four hundred and thirty miles off, in a room about eleven feet by fourteen, and no instrument in this empire would put a man of about thirty-four with a fair hand in that room to ask her for it.
 
 A book-keeper of thirty-eight is four hundred yards up that road and has wanted the rest of it since the third month of the year after and has not asked and is not going to.
 
@@ -80,7 +80,7 @@ Four hundred yards down a lane off a flood terrace, a man of about fifty-five wi
 
 And nine miles off, at the end of a passage that has never once been warm, a man of about sixty-one signs at the foot of about nine hundred sheets a year, and he is the only one of three hands on any of them that can be asked.
 
-He said a thing out loud in a room in the third week of the sixth month, to one person who did not ask him. She has been told about it at second hand by a man of about thirty who cannot read it, and she does not know what it was, and there is not one form anywhere in this empire that would let a foreman of fifty-one put a question to a man in a building nine miles off.
+He said a thing out loud in a room in the third week of the sixth month, to one person who did not ask him. She has been told about it at second hand by a man of about thirty who cannot read it, and she does not know what it was, and no paper in this empire lets a foreman of fifty-one put a question to a man in a building nine miles off.
 
 There is not one form anywhere in this empire that would put any two of those three in a room together. None of the three has asked anybody anything. That is three people doing the same not doing inside about nine miles of one another, in three places, and about four hundred and thirty miles of road from anything else in this matter.
 
@@ -94,6 +94,6 @@ One went down a corridor with a lamp and came back with nothing and said nothing
 
 The second of the two was this afternoon and the first of them was twenty-five weeks ago, and both are long after the day she worked out in about four seconds that a number said out loud in a bay is worse findable than a name. **She has not been improved by knowing it.**
 
-Nobody thanked her. The four men who cannot read a paragraph were not asked anything this week and were not named, and there is not one form anywhere in this empire that calls for a foreman to ask them. A girl of seventeen at the back of that bay on a written engagement was not spoken to and was not thanked, nobody is going to send for her, and she has said she will not be started and will not be.
+Nobody thanked her. The four men who cannot read a paragraph were not asked anything this week and were not named, and nothing in this empire calls for a foreman to ask them. A girl of seventeen at the back of that bay on a written engagement was not spoken to and was not thanked, nobody is going to send for her, and she has said she will not be started and will not be.
 
 The lamp in that bay is not lit until about the seventh hour, and it was not lit when the fourth man went back to the bench, and it is not lit now.

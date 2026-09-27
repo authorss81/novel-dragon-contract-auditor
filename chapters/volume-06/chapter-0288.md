@@ -1,4 +1,4 @@
-# Chapter 288: A Shilling A Question At The Top Of A Stair And Eleven Years In Which Not One Of The Questions Has Been About A Word, And A Woman Of Thirty-Four Working Out In About Four Minutes That The Price Of A Thing She Is Not Paid For Is Standing Four Feet Away From Her At The Other End Of The Same Counter
+# Chapter 288: A Shilling A Question, And Eleven Years Of Reading A Room For Nothing
 
 There are four counters on the Notaries' Table in Auremar and this is the highest, and it is at the top of a stair with no other way up to it, and it is open from the second hour to the sixth. On the wall behind it a board carries four things, and not one of the four is time. About nine people a day come up that stair, and there is no door at the bottom of a stair to stop them.
 
@@ -8,7 +8,7 @@ This is the second day of the second week of the ninth month of the year after t
 
 ---
 
-Under that counter there is a box of about four hundred bought and unfilled blanks. Nobody has ever given it a name, there is nothing anywhere in this empire that would let anybody give it one, and not one person in that room has proposed one in eleven years.
+Under that counter there is a box of about four hundred bought and unfilled blanks. Nobody has ever given it a name, there is nothing in this empire that would let anybody give it one, and not one person in that room has proposed one in eleven years.
 
 A man of about forty-five came up this stair in the fourth week of the fifth month for the fourth time and got one word and no reason at all in it, and she did not sit down and did not look at the board, and he went down. She has not thought about it since and is not going to.
 
@@ -38,7 +38,7 @@ She has known that for eleven years and has never once had to think about it.
 
 ---
 
-And the price of it is at the other end of her own counter, and she has had about two years of it, and she worked it out in about four seconds, and she is not going to do one thing about it.
+And the price of it is at the other end of her own counter, and she has had about two years of it, and she worked it out in the time it takes to look at a person, and she is not going to do one thing about it.
 
 The woman of twenty-four at that counter reads all day as well and is paid a day for the day, and for about two years she has not been asked one question, and Marn Ottery is the reason.
 
@@ -48,7 +48,7 @@ And about four hundred and thirty miles from this stair a woman of twenty-four h
 
 ---
 
-**And the third time the man of about forty-five came up that stair he was told no, and the woman of twenty-four said out loud in this room that she was going to write it down in her own book, and Marn Ottery told her in about four seconds what she had done to herself, and did not stop her.**
+**And the third time the man of about forty-five came up that stair he was told no, and the woman of twenty-four said out loud in this room that she was going to write it down in her own book, and Marn Ottery told her, in the time it takes to look at a page, what she had done to herself, and did not stop her.**
 
 That was the third week of the third month, which is about twenty-three weeks ago. It is the only refusal in this whole matter that has ever been copied down by somebody other than the person who gave it, and the woman at the far end of the counter has not said one word about it since, and neither has Marn Ottery.
 
@@ -56,7 +56,7 @@ That was the third week of the third month, which is about twenty-three weeks ag
 
 And there is not one that would let her ask whether she did.
 
-If she did, then there is a piece of paper in this city with a clerk's name on the other side of it, and the clerk is Marn Ottery, and Marn Ottery does not know whether it exists, and has not asked, and is not going to, and there is no form anywhere in this empire that a person is to be told what is written about them in a room four feet away.
+If she did, then there is a piece of paper in this city with a clerk's name on the other side of it, and the clerk is Marn Ottery, and Marn Ottery does not know whether it exists, and has not asked, and is not going to, and nothing in this empire tells a person what is written about them in a room four feet away.
 
 ---
 
@@ -66,7 +66,7 @@ The refusal is the one she gave on a stair in the third week of the third month.
 
 Three people in this empire cannot account for that fourth line, and one of them is about four hundred and thirty miles up this river and is not in this room and does not know this stair exists.
 
-And there is not one form anywhere in this empire that would let anybody put those two things in the same question, and there has not been one for eleven years, and nobody in that room has ever wanted to.
+And no form in this empire would let anybody put those two things in the same question, and there has not been one for eleven years, and nobody in that room has ever wanted to.
 
 The first of the four lines is a copy at fourpence. The second is a question at a shilling. The third is four shillings for a thing she has never once given anybody and has never once been asked to give, and the four shillings have been on that board for the eleven years she has stood under it. The fourth is a line of writing she has never worked out what it is for, and it is in a different hand from the other three, and she has asked two people about it and both of them said they did not know.
 
@@ -74,7 +74,7 @@ The first of the four lines is a copy at fourpence. The second is a question at 
 
 "Do you know what I have just done?" she said, to the man of about thirty, at about the fifth hour, and he said no, and she said, "I have found out that a person standing at a counter is not on the counter's side of anything, and that is a thing I have known for eleven years and never once had to use."
 
-The man of about thirty did not say anything, and there is not one form anywhere in this empire that says a man who does the copies has to answer a clerk of eleven years, and she did not want him to.
+The man of about thirty did not say anything, and no paper in this empire says a man who does the copies has to answer a clerk of eleven years, and she did not want him to.
 
 Nobody thanked anybody. The woman of about twenty at that counter has been there a year and is not in this matter and read nothing at all of any of it.
 

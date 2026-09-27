@@ -1,4 +1,4 @@
-# Chapter 285: A Room About Eleven Feet By Fourteen Off A Dyers' Lane In A Furnace Town About Four Hundred And Thirty Miles Up This River, Four Questions That Come Every Week, And A Third Question She Has Never Put To Herself Until This Afternoon
+# Chapter 285: Four Questions That Come Every Week, And A Third One She Has Never Put To Herself
 
 It is hers by the week and it is about eleven feet by fourteen and it is off a dyers' lane, and there is a bench along one wall and a window with a broken light in it. The shelves were made for men with longer arms than hers, so the top of every one of them is a stretch, and there are about forty books on them and sixteen of them are the ones she keeps and nobody pays her for keeping any of them. The light went out of that window before she came into the room, and she knows which of the forty is which by where her arm goes, and she has not looked at a shelf since the fourth day of the fourth week of the fifth month.
 
@@ -26,7 +26,7 @@ She has known what the keeping costs her for about three years. She has known th
 
 The money is held against a thing. Not against her, and not against a man. The thing is a class, and the class is entered by another class, and there is no person in the chain from the room she is sitting in to the place where the money is.
 
-And there is not one form anywhere in this empire that says a person at the end of a chain of classes may be asked what the head of it is for.
+And no form in this empire says a person at the end of a chain of classes may be asked what the head of it is for.
 
 A wage held against a thing is not held by a man who can be asked. It is held by a line. A line does not get tired, and a line does not want it back, and there is nobody in it to be cross with.
 
@@ -44,17 +44,17 @@ A woman of twenty who keeps fifteen other households' numbers and is not paid on
 
 **And the reason nobody has told her is that she has not been asked, and a person who is not asked has not been given a duty, and the duty of telling her what the money is held for was never given to anybody.**
 
-She told the second of the four women on the second day of the second week of the twelfth month, on a step, standing, in about four minutes, and she was not asked to. She told the third of them on the fourth day of the second week of the third month, in this room, over about four minutes, and the third one asked her a question about herself and Nell Kest answered it, and she was not asked to do that either.
+She told the second of the four women on the second day of the second week of the twelfth month, on a step, standing, and not once in a hurry. She told the third of them on the fourth day of the second week of the third month, in this room, over about four minutes, and the third one asked her a question about herself and Nell Kest answered it, and she was not asked to do that either.
 
 Nobody asked her to do either of those things and she did both of them, and it has cost her the thing nobody in that lane can see.
 
-There is not one form anywhere in this empire that says a person who has not been asked has to be told what it is that she is paying for.
+Nothing in this empire says a person who has not been asked has to be told what it is that she is paying for.
 
 ---
 
 A woman of about thirty-five put a knotted string in a page in one of the nine books herself, and she has not come up the lane since she was last at that bench, and the one question she is written down as having asked in this room was how a person goes about finding another person out, and she was told.
 
-She has not come up the lane since. There is not one form anywhere in this empire that says a person has to be found, and there is not one form that would let Nell Kest go and find her, and she is not going to. The reason is not restraint and has never been restraint: a woman of thirty-five who keeps nine houses' numbers unpaid has no standing in this empire to go and look anybody up, and the one time she was asked a question about herself she said no in a room and meant it.
+She has not come up the lane since. There is no form in this empire that says a person has to be found, and there is not one that would let Nell Kest go and find her, and she is not going to. The reason is not restraint and has never been restraint: a woman of thirty-five who keeps nine houses' numbers unpaid has no standing in this empire to go and look anybody up, and the one time she was asked a question about herself she said no in a room and meant it.
 
 The fourth of the four women is in a district and Nell Kest has not walked to her, and a foreman off a dye end in this city has a piece of paper in the inside of his coat that says a sum and does not say against what, and he has said no once on a stair about a thing that is not his.
 
@@ -70,7 +70,7 @@ And this afternoon she added a clause to it, standing at the bench, and the clau
 
 ---
 
-Nobody thanked her and nobody was thanked. Her wage is still held and the word for it is still held, and the answer she worked out this afternoon does not put a penny back where it was, because an answer worked out by the person it is about is not a finding out, and there is not one form anywhere in this empire that would let a person be given one.
+Nobody thanked her and nobody was thanked. Her wage is still held and the word for it is still held, and the answer she worked out this afternoon does not put a penny back where it was, because an answer worked out by the person it is about is not a finding out, and nothing in this empire would let a person be given one.
 
 About four hundred and thirty miles of road is what it would come to, one way, for anybody who wanted to see the rest of this with their own eyes, and there is no fund behind that and no form for a fund, and nobody is going up that road in this matter and nobody is being sent.
 

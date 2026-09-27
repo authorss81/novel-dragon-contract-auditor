@@ -1,4 +1,4 @@
-# Chapter 289: A Rack Of Letters Going Down A Cold Passage Twenty-Two Weeks After Five Of Nine Went Into A Book And Four Went Back On A Shelf, And A Woman Of About Twenty-Six Who Has Counted In Her Head And Is Not Going To Write It Down
+# Chapter 289: A Rack Of Letters Going Down A Cold Passage, And A Number She Is Not Going To Write Down
 
 The cold comes up out of the flags of a passage about four hundred yards long and it does so in every month of the year, and at the end of it is a room with a rail standing about four feet off the floor. The other end of the passage is downstairs, and there is a shelf in that room with eleven books on it, and a window about two feet wide with a pane gone out of it.
 
@@ -24,7 +24,7 @@ She has not asked one question about it. Not of the carrier, who is paid ninepen
 
 **And not of the man of about sixty-one, who is in this building twice in a season on his own feet, and who is the only one of three hands on about nine hundred sheets a year that can be asked anything at all, and whom one person asked one question about a seal, once, in this room, and got an answer, and about nothing else.**
 
-She has three questions for him. She wrote them down in her own head about nine weeks ago and she has not asked one of them and she is not going to, and there is not one form anywhere in this empire that lets a clerk in this room put a question to somebody who has walked into it on his own two feet, and a question put in this building is a question put into a record.
+She has three questions for him. She wrote them down in her own head about nine weeks ago and she has not asked one of them and she is not going to, and no form in this empire lets a clerk in this room put a question to somebody who has walked into it on his own two feet, and a question put in this building is a question put into a record.
 
 "And which of those two is it?" she said, to the rail, at about the sixth hour.
 
@@ -36,7 +36,7 @@ The rail is about four feet high and it is about as cold as the passage, and it 
 
 Every day, at about the third hour, when it comes off the carrier's hip and goes on the shelf by the window. Not touched. Counted, in her head, the racks that go down that passage and come back with four on them and not five.
 
-She has got the number. And she is not going to write it down, and there is not one form anywhere in this empire that would let her, and there is not one anywhere that forbids a clerk setting a number she has counted in her own head down in a book afterwards either.
+She has got the number. And she is not going to write it down, and nothing in this empire would let her write it, and nothing in it forbids a clerk setting a number she has counted in her own head down in a book afterwards either.
 
 About nine hundred of them go out of that room every year into about nine hundred other rooms, and not one of them has ever been counted by anybody.
 
@@ -52,7 +52,7 @@ She worked it out at about the fourth hour, and it took about four minutes, and 
 
 A man of about sixty-one had said something in this room in about nine minutes, and she had not asked him a question about it and had not thanked him for it, and she has had the two of those for twelve weeks now, and they are the same decision, and she worked that out in about four seconds on the day.
 
-She is a person and not a thing anybody can be held to, and that is the whole of her protection, and it is exactly the thing the four people have got and not one thing more, and there is not one form anywhere in this empire that would let her make them more protected by telling them.
+She is a person and not a thing anybody can be held to, and that is the whole of her protection, and it is exactly the thing the four people have got and not one thing more, and no form in this empire would let her make them more protected by telling them.
 
 ---
 
@@ -62,12 +62,12 @@ The sheet with a heading at the top of it and a seal at the foot of it and nothi
 
 And there is a woman four feet away at the lower end of that passage, and on the fourth day of the third week of the ninth month of the year after next she wrote a question into the second of the eleven books.
 
-She entered it in her own hand, with the day and the hour on it, at nobody's request, and it has been on that shelf about fifty-two weeks, and there is not one form anywhere in this empire that would let one clerk ask another clerk whether she meant it.
+She entered it in her own hand, with the day and the hour on it, at nobody's request, and it has been on that shelf about fifty-two weeks, and nothing in this empire lets one clerk ask another clerk whether she meant it.
 
 They have worked four feet apart for four years and have never asked each other one thing about the shelf.
 
 ---
 
-Nobody has thanked her and there is not going to be, and not one form anywhere in this empire calls for a person to be thanked for signing for five things and then not asking one question about four others for twenty-two weeks.
+Nobody has thanked her and there is not going to be, and nothing in this empire calls for a person to be thanked for signing for five things and then not asking one question about four others for twenty-two weeks.
 
 The rail is still standing in that room about four feet high, and the broken pane has not been put back in the window downstairs, and the second of the eleven books is still on the shelf where it has sat since the ninth month of the year after next, and there is a man four miles off a bay who writes out other men's sums and has not been told one word of any of this and is not going to be.

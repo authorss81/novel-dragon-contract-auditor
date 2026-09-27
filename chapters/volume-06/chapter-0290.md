@@ -1,4 +1,4 @@
-# Chapter 290: A Room Over A Chandler's Shop On A Week He Is Not On Anybody's List, Three Instalments Of A Price Paid In About Forty Weeks And Not One Of Them Collected In A Room, And A Man Of About Thirty-Four Who Has Not Worked Out Why That Is New
+# Chapter 290: Three Instalments Of A Price, And Nobody Has Asked Him What It Cost
 
 The lamp is on the table and the bolt is across the door and there are four steps between the street and this room, and this is the fourth day of the fourth week of the ninth month of the year after the year after next, and it is about the sixth hour, and the light is going off the lane.
 
@@ -10,11 +10,11 @@ Downstairs the shop keeps tar and rope and lamp oil, and the smell of it works i
 
 **The number has not moved, and it is six, and it went to six thirty-two weeks ago in a bay with nine men in it, and it was not six for as long as anybody has been keeping it before that, and it is a count of things people have done and not a count of people.**
 
-He has carried that about thirty-two weeks and has not said it out loud to anybody once, and it is not his number, and there is not one form anywhere in this empire that would let a man on a list of works four times a season be told a count.
+He has carried that about thirty-two weeks and has not said it out loud to anybody once, and it is not his number, and no form in this empire would let a man on a list of works four times a season be told a count.
 
 **And the not moving is not a reason.** It never was one, and it is not the absence of a reason either, and at about thirty-two weeks it has stopped being either of those and become what it actually is, which is a figure in a column that nobody is keeping.
 
-He worked that out at about the fourth hour, standing at a table with nothing on it, and it took about four minutes, and there is nobody in the room to tell and he is not going to tell anybody, and there is not one form anywhere in this empire that says a man may hand another man a reason he has just worked out for himself.
+He worked that out at about the fourth hour, standing at a table with nothing on it, and it took about four minutes, and there is nobody in the room to tell and he is not going to tell anybody, and no paper in this empire says a man may hand another man a reason he has just worked out for himself.
 
 ---
 
@@ -26,11 +26,11 @@ One. A bay, on the fourth day of the fourth week of the eleventh month of the ye
 
 Two. A ruled line in a column in a day-book, eleven weeks ago, for nothing, because a blank in a column is read as a zero and a zero is a lie told on somebody's behalf.
 
-Three. A figure, in a hand that is not his and not the old man's, under that line, in the first week of the eighth month, in a book that came back up four steps. It was a correct sum, and nothing anywhere in this empire gives a man the right to lift a figure back out of a column once it is there.
+Three. A figure, in a hand that is not his and not the old man's, under that line, in the first week of the eighth month, in a book that came back up four steps. It was a correct sum, and nothing in this empire gives a man the right to lift a figure back out of a column once it is there.
 
 **Three instalments in about forty weeks, and not one of them was collected in a room.** An instalment is a thing somebody asks for, and nobody has asked him for one of them.
 
-And the reason nobody has asked is that asking him is being able to ask him, and there is not one form anywhere in this empire that would put a man of about thirty-four in front of a person who wants to know what a thing cost.
+And the reason nobody has asked is that asking him is being able to ask him, and no instrument in this empire would put a man of about thirty-four in front of a person who wants to know what a thing cost.
 
 ---
 
@@ -44,7 +44,7 @@ And the second asking, if there is one, is a second thing done. It does not matt
 
 A count that only counted people would be a count of men and not a count of things anybody did. That is the whole of what he has worked out this week, and he has not got past it, and he is not going to this week.
 
-He is not going to ask. **He has not given a reason and the not giving is about four hours old and is new.** The last time he said a sentence out loud twice was on a step in the second month of the year after the year after next, and he has not been near that step since, and this is the first time he has had a thing and held it, and he is not going to say it, and there is not one form anywhere in this empire that would let a man be given a question about a thing he has not said.
+He is not going to ask. **He has not given a reason and the not giving is about four hours old and is new.** The last time he said a sentence out loud twice was on a step in the second month of the year after the year after next, and he has not been near that step since, and this is the first time he has had a thing and held it, and he is not going to say it, and nothing in this empire would let a man be given a question about a thing he has not said.
 
 ---
 
@@ -52,7 +52,7 @@ He is not going to ask. **He has not given a reason and the not giving is about 
 
 In the first week of the eighth month the book was in a ledger in a building four miles off, added to, carried forward, put in a return, and sent to one district, and this empire has about nine hundred districts, and a single return goes to one of them.
 
-A man who goes and finds out what came of a figure in a column is a man who has been findable by that figure, and there is not one form anywhere in this empire that would let a man take a name back after he has said where he is.
+A man who goes and finds out what came of a figure in a column is a man who has been findable by that figure, and no form in this empire would let a man take a name back after he has said where he is.
 
 "Is that a thing I have to know?" he said, to a room, at about the sixth hour, and there was nobody in it, and he did not wait for an answer because he has not been getting any for about forty weeks.
 
@@ -62,7 +62,7 @@ She is at the bottom of the four steps and he is at the top of them and neither 
 
 It has been about eleven weeks since the last time one of them came the other half, and it was her, and she came up with a lamp in her hand that was not lit, and she said a thing about never having asked him why anybody wants to know where he is, and she wanted it said in that order and not in any other, and she went back down.
 
-He has not gone down since, and there is not one form anywhere in this empire that would let her put it to him first, and he has not put it to her, and he is not going to, and he has turned it over for about thirty-two weeks.
+He has not gone down since, and nothing in this empire would let her put it to him first, and he has not put it to her, and he is not going to, and he has turned it over for about thirty-two weeks.
 
 ---
 
@@ -72,4 +72,4 @@ A girl of seventeen at the back of that bay is on a written engagement at the ra
 
 Nobody thanked him. The man of about sixty did not thank him in the first week of the eighth month, and his wife did not thank him about eleven weeks ago, and not one person inside four miles of that room knows a thing happened in it, except the four who know a foreman's wife came up a stair once, and four people knowing a thing is not a document.
 
-He put a match to the wick himself at about the sixth hour, which is a thing he does about four times in a season, and the count is still six, and he is not going to be handed a count again, and there is not one form anywhere in this empire that calls for a person to be thanked for putting a question or for not putting one, and there never is going to be one.
+He put a match to the wick himself at about the sixth hour, which is a thing he does about four times in a season, and the count is still six, and he is not going to be handed a count again, and nothing in this empire calls for a person to be thanked for putting a question or for not putting one, and there never is going to be one.
