@@ -1,8 +1,8 @@
 # Chapter 269: A Return For One District With A Heading On It And A Column For The Answer And No Column At All For A Refusal, And A Foreman Of Fifty-One Standing Behind A Bench Watching Nine Men Fill Nine Columns In
 
-The bay is about nine foot by eleven with a bench along the north wall and a lamp in it that is not lit until about the seventh hour, and the water is down about where it has been, and the hold against a Company whose whole money is four shillings a year has not moved since the fourth week of the fourth month of the year after.
+Nine foot by eleven, a bench along the north wall, a lamp in it that is not lit until about the seventh hour. The water is down about where it has been. The hold against a Company whose whole money is four shillings a year has not moved since the fourth week of the fourth month of the year after, and nobody has asked it to.
 
-It is the second day of the third week of the fourth month of the year after the year after next. There are nine men in that bay and a foreman of fifty-one behind the bench and a girl of seventeen at the back on a written engagement at the rate the list is set at. There is a man of about twenty-eight, and a man of about twenty, and a man of about fifty who came in at about the eleventh hour, and a man of about fifty-five with a chain, and a man of about forty from the third gang, and a man of about thirty from the second gang, and Marek Kest, and a man of about thirty-four who is on that list four times a season like everybody else.
+This is the second day of the third week of the fourth month of the year after the year after next. Nine men are in that bay. A foreman of fifty-one stands behind the bench, and a girl of seventeen is at the back of it on a written engagement at the rate the list is set at. The men are a man of about twenty-eight, a man of about twenty, a man of about fifty who came in at about the eleventh hour, a man of about fifty-five with a chain, a man of about forty off the third gang, a man of about thirty off the second, Marek Kest, and a man of about thirty-four who is on that list four times a season the same as everybody else in the building.
 
 ---
 

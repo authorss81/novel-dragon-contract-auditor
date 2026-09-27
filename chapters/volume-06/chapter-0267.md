@@ -1,6 +1,6 @@
 # Chapter 267: A Rail About Four Feet High, A Rack Of Letters For One District, And A Woman Of Thirty-Two Who Has Carried About Nine Hundred Of Them And Has Never Been Asked What Any Of Them Was For
 
-A rail about four feet high runs across the hearing room at the other end of a passage that smells of cold stone whatever the season is, and the shelf with the eleven books on it is in a room on the ground floor behind you, and the window in that room is about two feet wide and has a pane out of it.
+At the end of a passage that smells of cold stone whatever the season is, there is a hearing room, and about four feet off the floor of that room there is a rail. Behind you, on the ground floor, is a room with a shelf in it and eleven books on the shelf, and a window about two feet wide with a pane out of it.
 
 She is about thirty-two and she carries letters, and she has carried them for about six years, and she is paid ninepence at a lock, and nobody has ever told her what she is carrying and nobody has ever asked her.
 

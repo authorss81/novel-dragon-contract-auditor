@@ -1,8 +1,8 @@
 # Chapter 264: The Third Of Four Women, A Book With Her Own Name At The Head Of It, And The One Page In This City Where Nobody Was Put There By A Street
 
-The room is rented by the week and it is off a dyers' lane in a furnace town about four hundred and thirty miles up this river, and it is about eleven feet by fourteen. There is a bench along one wall, a window with a broken light in it, and about forty books on shelves that were made for taller books, so that a woman of twenty has to reach up for the top of every one of them.
+She rents this room by the week. It is off a dyers' lane in a furnace town about four hundred and thirty miles up this river, and it is about eleven feet by fourteen, and it holds a bench along one wall, a window with a broken light in it, and about forty books on shelves that were made for taller books, so that a woman of twenty has to reach up for the top of every one of them.
 
-She is a dye-house worker, which is what she is paid for, and she keeps the books of eleven houses on that lane and of four houses in three other districts, and she has kept every one of them from this city since she was seventeen and has not been up the river since she came down it, and that is what she is not paid for.
+She is paid for the dye house. The books are the other thing. She keeps the accounts of eleven houses on that lane and of four houses in three other districts, and she has kept every one of them from this city since she was seventeen, and she has not been up the river since she came down it, and nobody pays her a penny for any of it.
 
 It is the fourth day of the second week of the third month of the year after the year after next. Her wage stopped in the second week of the third month of the year after and it is stopped now, and the word for it is held.
 
@@ -48,7 +48,7 @@ Nell Kest turned the book round and did not open it and did not need to, and did
 
 "You are in all of them. That is what I have been trying to tell you for a year. You are in the middle of that one and at the bottom of that one, and when I asked you for the number out of mine you said ask me and I asked you, and both times it came out of a book that had you somewhere in it."
 
-"That is what the lane is," said Nell Kest. "A column with a heading over it is the same book with the machine left in, and a column with no heading over it is the same book with the machine taken out, and the two of them look the same on a bench and the difference is whether a person can be found under one of them by somebody who has never met her."
+"That is what a lane is," said Nell Kest. "Put a heading over a column and it is the same book with the machine left in. Take the heading away and it is the same book with the machine taken out. They look identical sitting open on a bench, and the entire difference is whether somebody who has never met you can find you under one of them."
 
 "And you are under a street in eleven of them."
 

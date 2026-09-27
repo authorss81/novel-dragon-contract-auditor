@@ -1,8 +1,8 @@
 # Chapter 261: Six Weeks And Five Days After A Day On Which Nothing Was Asked, And A Woman Of Twenty-Four Who Has Worked Out What Her Own Habit Is
 
-The room is rented by the week and it is two streets off a street that goes down to the river road, and there is a table in it and a lamp on the table and a board on the wall and a window that faces the back of another house, and about nine miles off in the other direction there is a counter at the top of a stair where she has stood every working day for two years.
+A woman rents this room by the week and the landlord has never once been inside it, and about nine miles off, two streets from a street that goes down to the river road, there is a counter at the top of a stair where she has stood every working day for two years. A table. A lamp on the table, lit. A board on the wall with the rent on it and nothing else. A window that looks at the back of another house and has nothing to look at.
 
-She is twenty-four and she is a clerk at the fourth counter of the Notaries' Table in Auremar, and she is not a lawyer, and the room is where she keeps a book of her own that nobody knows about and that has no office on it.
+Twenty-four. A clerk at the fourth counter of the Notaries' Table in Auremar, which is the one for scale instruments, and not a lawyer. The book that is on the table is hers. It is not a copy of anything, there is no office on it, and nobody has ever asked her what it is for.
 
 It is the second day of the third week of the second month of the year after the year after next, and it is about the seventh hour, and the lamp is lit, and the day is over.
 
@@ -10,13 +10,13 @@ It is the second day of the third week of the second month of the year after the
 
 Nobody asked her one thing, and it is the eleventh time in a row, and she has stopped keeping count of what that does to a person.
 
-About nine people came up that stair and about four of them wanted something out of her and got it. A man wanted to know whether a copy made in a room with a broken window carried the same weight as one made anywhere else, and it does, and she told him so, and he paid fourpence and said thank you and went off down four flights without hurrying.
+Nine people came up that stair that day and four of them wanted something out of her and got it. A man asked whether a copy made in a room with a broken window carried the same weight as one made anywhere else, and it does, and she told him so, and he paid fourpence, said thank you, and went off down four flights without hurrying.
 
 A woman of about forty wanted a blank and asked whether she had to hand it in filled, and she does not.
 
 "Do I have to hand it in filled?"
 
-"You do not. I have never once had to and there is no form anywhere in this empire that says you do." The woman said that the last one she had was from a man who told her the opposite, and Marn Ottery said then that that man was wrong about two things.
+"You do not. I have never once had to and there is no form anywhere in this empire that says you do." The woman said that the last one she had was from a man who told her the opposite, and Tamsin Rook said then that that man was wrong about two things.
 
 And a boy of about fifteen stood at the wrong end of the counter for about eleven minutes with a copy in his hand, and read it, and did not buy anything, and went down again.
 
@@ -38,15 +38,15 @@ And the wall is not in the room either. The wall is that nobody has ever wanted 
 
 She has had two years of being the only person in a room who knows what a question is, and there is not one form anywhere in this empire that says a person may be promoted for it.
 
-There are three people in that room and she is the youngest of the three and the only one of the three who came to it on purpose. A man of about thirty does the copies and has been there four years. A woman of about twenty has been there a year and is not in this matter at all. Neither of them has ever asked her what she is working out at about the seventh hour, because they are not there at about the seventh hour, because the counter shuts at the sixth.
+Four people work at that counter, and the room shuts at the sixth hour, so at about the seventh hour there is nobody in it but her. A clerk of thirty-four has the counter itself and has been there eleven years. A man of about thirty does the copies and has been there four years. A woman of about twenty has been there a year and is not in this matter at all. Not one of the three has ever asked her what she is working out at about the seventh hour, and not one of them is going to, because none of them is ever in the room at about the seventh hour.
 
-That is the arrangement and it has been the arrangement for two years and it is the whole of what she has got, and the whole of what she has got is that two people in a room are not in a room at the seventh hour.
+That is the arrangement and it has been the arrangement for two years and it is the whole of what she has got, and the whole of what she has got is that three people at a counter are not at a counter at the seventh hour.
 
 The book of her own is on the table and one page of it is ruled by hand in her own hand, and on that page there are two boxes.
 
 Both of the boxes have the same name in them.
 
-She has not ruled a third and she is not going to, and the reason is the reason she gave in the twelfth month of the year after next and it is the same reason and not a new one, and it has not moved, and it is that a day will come when she wants to and it has not been one of them, and she is not going to tell anybody how many there are going to be.
+There is no third box and she is not going to rule one. The reason is the reason she gave in the twelfth month of the year after next, and it is the same reason and not a new one, and it has not moved: a day will arrive on which she wants to, and it has not been one of them, and she is not going to say in advance how many there are going to be.
 
 She looked at the two of them for about four minutes and then she did the thing she has been not doing, which is that she put the open book face down on the table with her hand flat on the back of it, and left it there while she ate.
 
@@ -54,9 +54,9 @@ She looked at the two of them for about four minutes and then she did the thing 
 
 And the two things that require her in any room he is in are two things, and she has never once put them together, and she is not going to.
 
-One is a paper that puts her in his rooms. It is dated and it has her name on it and it is a document and it can be produced.
+The first is a paper. It puts her in his rooms, it is dated, it has her name on it, and it can be produced.
 
-The other is a watch, and the watch requires a person who is not from the office that cannot be named to be in any room he is in, and she is that person, and the watch has no name on it and no seal and no place it can be sent to.
+The other is a watch, and it puts a person who is not out of the office that cannot be named into every room he stands in, and for about four years that person has been her. It is not a document. It has no name on it, no seal, nothing under the seal, and nowhere in this empire it could be sent.
 
 She went at it from a different end this week, which is the only thing that is new, and the end she went at it from was the money, because the money is the part nobody argues about.
 
@@ -96,7 +96,7 @@ And then, out loud, to a table and a lamp, in a room that is rented by the week:
 
 ---
 
-There is a rule from the fourth of the first month that she made for herself and it is live and it has not been retired and it has not been amended, and tonight she looked at it for about four minutes and she did not exercise it. There is another one, older, from the twelfth month of last year, and it says that if she uses a thing then it needs a reason, and she has not used it, and a correct non-use is as good as a use.
+The one she made for herself on the fourth of the first month is still live, still unretired and still unamended, and tonight she took it out of her head and looked at it for about four minutes and did not exercise it. The other is older and it is from the twelfth month of last year and it says that if she uses a thing then it needs a reason, and she has not used it, and a correct non-use is as good as a use.
 
 The reason is a reason and it is a new one and she checked that it was new before she used it. A thing exercised because a woman has worked something out in a room is a thing exercised to feel better, and that is the first step of a practice, and she has just spent a week learning what a practice is and she is not going to build one out of the only instrument she has.
 

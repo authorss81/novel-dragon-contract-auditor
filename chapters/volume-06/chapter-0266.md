@@ -1,24 +1,24 @@
 # Chapter 266: A Hired Stone Store, A Fold That Has Gone Soft Under Two Fingers, And The First Date In This Matter That Nobody Set
 
-The hired stone store stands off a lane about four hundred yards up the road from a bay in which nine men work, and it is locked, and it is hired by a Company whose whole money is four shillings a year and all of it is the rent of this building, at a shilling a quarter. There is a bench in it along one wall. There are three pieces of paper on that bench.
+There is a stone building off a lane four hundred yards up the road from that bay, and it is hired, and it is locked, and the key hangs on a nail inside it where anybody walking in can reach it. A bench runs along one wall. Three pieces of paper lie on that bench, and they have lain there since the summer.
 
-She is a foreman of fifty-one and she has been in a box since the first week of the seventh month of the year after, entered by a class, and nobody has asked her about it. About four hundred yards away there are nine men who know she is in one, and that is nine mouths and it is not a document and it is not going to be turned into one by anybody in this matter.
+A Company rents the building at a shilling a quarter. Four shillings a year is the whole of that Company's money and the whole of it goes on the rent of this room, and there is not one other thing that money does. Nine men work four hundred yards away and every one of them knows the foreman of fifty-one has been in a box since the first week of the seventh month of the year after, entered by a class, and that nine men know it is nine mouths, which is not a document and is not going to be made into one by anybody in this matter.
 
-It is the second day of the fourth week of the third month of the year after the year after next, and it is about the sixth hour, and it has not rained for four days, and she is in a store with the key because the key hangs on a nail inside and there is nobody to hand it to.
+It is the second day of the fourth week of the third month of the year after the year after next, and it is about the sixth hour, and it has not rained for four days.
 
 ---
 
 The first of the three is a notice of six numbered lines with a seal at the foot of it and nothing under the seal. She has read the second line about nine hundred times and it asks that no inference of any kind be drawn from the absence of any name. She has read the sixth line about nine hundred times and it declines to name whoever holds the office at all.
 
-There is a name at the foot of the first of those notices that this office put there once, and it is not on this copy, and she has never said that name out loud in a room and she is not going to on a dry afternoon in a hired building.
+Somewhere under this office there is a copy with a name at the foot of it. This copy has not got one, and she has never said that name aloud in a room, and she is not going to on a dry afternoon in a hired building.
 
-**A document that proves the absence of a name is a thing an office can use, and about nine hundred entries a year in about nine hundred buildings would be very easy to stop if anybody in any one of them could be shown what is written at the bottom of it.**
+**An office can put a paper to work proving there is no name on it, and about nine hundred such papers a year come in under about nine hundred separate headings to about nine hundred separate rooms, and every one of them could be stopped inside a year by one person showing anybody in any one of them what is written at the bottom of it.**
 
 And the walk up the lane is the whole of what there is of it, four hundred yards of a lane that does not go anywhere, and she has done it about nine times since the summer and has never once had a reason better than the rain, and she has looked for a better one about four times a week and has not found one.
 
 A foreman runs a bay. She has run one for about nine years and she is good at it, and there is not one thing in the nine years that a hired building is for, and she has been going up this lane as though there were.
 
-The second of the three is a factor's letter of four lines. She has been in here about nine times since the summer and she has not been able to get one single answer out of it, and she is not a woman who sends letters anywhere, and there is no fund behind her and no form for a fund.
+Paper, four lines, from a factor. She has had it in this room about nine times since the summer and not one answer has come out of it, and she is not a woman who sends letters anywhere, and there is no fund behind her and no form for a fund.
 
 ---
 
@@ -28,9 +28,9 @@ Not the middle. Not the top. A man carrying a sheet folds it so he can get at it
 
 She is the only person alive who could say that, and she has told nobody, and there is not one form anywhere in this empire that would let anybody ask her about it.
 
-The third of the three is a sheet of clean paper with a day in it and no name at either end of it, folded with the crease at the bottom.
+The third of the three is clean paper. A day is written on it. There is no name at either end of it, and the crease is at the bottom.
 
-She has not opened it. She could not open it, and there is not one form anywhere in this empire that would let her, and a woman who opens it has nothing to show anybody afterwards.
+It is still folded. She still cannot open it, no form anywhere in this empire would let her, and a woman who opens it is a woman with nothing left to show anybody afterwards.
 
 In the third week of the first month of the year after the year after next, on a wet afternoon, she put her hand flat on the outside of that fold and held it there for about four minutes. She said out loud to a bench that it was a fold and not a name, and that it was going to go in about a year, and that there is not one form anywhere in this empire that would let anybody say that was wrong.
 
@@ -80,11 +80,11 @@ And she cannot write it down, and there is no form anywhere in this empire that 
 
 Two pieces of paper with nothing on them cannot be produced against a man who has not been named in either of them. A sheet with a day in it and no name at either end of it cannot be produced against anybody either, and that is why it has sat on a bench since the summer, and the coming apart does not improve that and does not make it worse.
 
-He will not find out that it arrived. He is about four hundred and thirty miles up this river and he cannot find out without being findable himself, and a man who asks a question in a room is a party from that day on, and being a party is the only way anybody in this empire can be told what a thing is going to be used for. About four years is how long anything about him can be found for, and he has not asked, and he is not going to be asked, and nobody is going to be sent.
+He is about four hundred and thirty miles up this river and he is not going to hear that the paper got here, because hearing it would mean being findable, and a man who has put a question in a room is a party from that day forward. Being a party is the only way anybody in this empire is ever told what a thing is going to be used for. About four years is how long anything about him can be reached for at all. He has not asked. He is not going to be asked. Nobody is going to be sent.
 
 ---
 
-She is a foreman of fifty-one and she settled three things about herself in the ninth month of the year after next, and none of the three has moved since, and there is nothing on that bench that could move one of them, and she has not moved one of them in a hired building on a dry afternoon and she is not going to.
+Three things about herself were settled in the ninth month of the year after next and all three are still settled. Nothing on that bench can move any of them, and she has not tried to move one in a hired building on a dry afternoon, and she is not going to.
 
 She is not going to open it. She is not going to answer the factor's letter. She is not going to say the name at the foot of the first notice.
 
@@ -94,12 +94,12 @@ And about nineteen people are still behind that bank, and a guarantee stands off
 
 ---
 
-She has a list of works in her own hand with nine names on it, and four of the nine cannot read a paragraph. She has not written one line about that on any piece of paper in this building or in that bay or in her own house, and there is a finding in a ledger four hundred yards up that road that says something about it, and it is not hers and she is not going to improve it and she is not going to add to it. There is no fifth reason. There is not going to be one.
+Nine names in a list of works in her own hand, and four of the nine cannot read a paragraph. Not one line about that has ever been written on paper in this building or in that bay or in her own house. Four hundred yards up the road a ledger holds a finding that has something to do with it. The ledger is not hers. She will not improve it and she will not add to it, and there is no fifth reason coming, and there never is going to be one.
 
-She put the sheet back on the bench with the crease at the bottom, because that is the way it came, and she has never been able to find out since whether that is the way it should be or only the way it was.
+She laid it down on the bench again with the fold where the fold was, and there is a difference between a fold being the way a thing should be and a fold being only the way it happened to arrive, and she has not found out which of the two this is and has been unable to find out for about nine weeks.
 
 **On the way back she went the other way, which adds about four minutes and takes her past a gate she has nothing to do with.** There were two men about forty yards off doing a thing to a post. They did not stop and she did not stop, and one of them said good evening in the ordinary way about four hundred yards from a building with three pieces of paper in it, and she said it back, and that is the whole of what passed between them.
 
-She put the key back on the nail inside and pulled the door to, and a hired stone store has a door that does not shut. Nobody was sent, and the road is not being walked, and the only person alive who could give evidence about that fold is standing in a lane telling nobody that the paper is going.
+She went back down the lane with the key and hung it on its nail and pulled the door to behind her, and the door of a building like this one does not shut. Nobody was sent, and the road is not being walked, and the only person alive who could give evidence about that fold is standing in a lane telling nobody that the paper is going.
 
 She has about a week. There is not one form anywhere in this empire that would let anybody stop weather, and there is not one form anywhere in this empire that would let a foreman write down the day a piece of paper comes apart, and she is going to be in this building about nine times before it does, and she is not going to be in here on the day.

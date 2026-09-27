@@ -1,8 +1,8 @@
 # Chapter 263: A Day-Book, A Sum That Does Not Come Out, A Fair Hand That Is Not A Correct Hand, And A Woman With A Wet Hood At A Door On The Day He Worked Out She Would Come
 
-The room he works in is over a chandler's shop off a lane about four miles from a bay on the Slade Cut, and the landing outside it has four steps and a door with a bolt on it and a window about a foot wide. He is on the list of works four times a season and this is not one of the four days and he is here anyway, because a man of about sixty has a hand that shakes and cannot do a fair one.
+Over a chandler's shop, off a lane four miles from the bay on the Slade Cut, there is a room he works in and a landing outside it, and the landing has four steps, a door with a bolt across it, and a window about a foot wide. He is on the list of works four times a season, and this is not one of the four days, and he is here anyway, because a man of about sixty has a hand that shakes and cannot make a fair one.
 
-He is a man of about thirty-four and he has a trade, and the trade is a hand that writes other people's figures out fair, and he is paid by the day for it, and he has a house with a door on it and a wife, and he has said in one doorway in his life that he was not going to do a thing again.
+Thirty-four or thereabouts, and a trade, and the trade is a hand that writes other people's figures out fair. He is paid by the day for it. He has a house with a door on it and a wife, and in one doorway in his life he said he was not going to do a thing again.
 
 It is the fourth day of the first week of the third month of the year after the year after next, and it is about the fifth hour, and the light goes off the lane at about the sixth hour in that month.
 

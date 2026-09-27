@@ -2,7 +2,7 @@
 
 It is the same room. It is rented by the week, it is two streets off a street that goes down to the river road, and the table is the same table and the lamp is on the same table and the board on the wall says the rent and nothing else. The window still faces the back of another house, and the window is black and there is a dog about four miles off that goes and stops and starts.
 
-She is twenty-four and she is a clerk at the fourth counter of the Notaries' Table in Auremar, and she is not a lawyer, and the room is where she keeps a book of her own that nobody knows about and that has no office on it.
+Twenty-four still, a clerk at that counter still, not a lawyer still, and the book on the table is the one with no office on it, and it has gained a line since she was last in this room.
 
 It is the second day of the fourth week of the fourth month of the year after the year after next, and it is about the seventh hour, and the lamp is lit, and the day is over.
 

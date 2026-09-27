@@ -1,6 +1,6 @@
 # Chapter 268: A List Of Works In A Foreman's Own Hand On A Bench Nine Foot By Eleven, A Letter With A Heading On It And No Name, And The Difference Between A Wall And A Hole
 
-The tool shed is at the Slade end and it is about nine foot by eleven, with a bench along the north wall and a lamp in it that is not lit until about the seventh hour. It is about four hundred yards from a bay in which nine men work, and that is the whole of the distance between the only person in this empire you can say anything to and a bay full of men who can hear every word of it.
+A tool shed stands at the Slade end, nine foot by eleven, with a bench along its north wall and a lamp in it that is not lit until about the seventh hour. A bay in which nine men work is about four hundred yards away. That is the entire distance between the only person in this empire you can say anything to and nine men who can hear every word of it.
 
 He is about fifty-five and he has a chain, and the chain is on him, and he cannot read a paragraph.
 
@@ -14,7 +14,7 @@ The four seconds are not a wage and they are not a favour and they are not a job
 
 He has about four hours before the lamp and he has had about nine years of them.
 
-There is a cut in the wall at the height of his chest where he used to sit, and it is a cross with a bar through it, and it was cut by a man who worked in this shed nine years ago and who is dead, and it is not a mark anybody uses and it is not about anything and it belongs to nobody who is alive. It is not about the chain either. He has looked at it about four hundred times and has never once been able to work out why a man who cannot read a paragraph would cut a mark like that, and he has never asked, because there is nobody left who was here when it was cut.
+Where he used to sit there is a cut in the wall at the height of his chest. A cross with a bar through it. Whoever cut it worked in this shed nine years ago and is dead now, and it is not a mark that anybody uses, and it is not about anything at all, and it belongs to nobody alive. It is not about the chain either. He has looked at it about four hundred times and it has never once told him why a man who cannot read a paragraph would want a mark like that cut where his hand could find it, and he has never asked, because there is nobody left who was standing here when it was made.
 
 ---
 
@@ -30,7 +30,7 @@ There is a bit of paper in the band of his hat with four marks on it and no name
 
 ---
 
-There are four in that bay who cannot read a paragraph and he knows all four and he has not asked one of them one thing in nine years and he is not going to start in a shed at the Slade end at the sixth hour on a dry afternoon. He has said why, in about four sentences, about four times, and it is that writing him down as one of them would be a way for a list of four to go wrong. There are four, and there are going to be four, and that is the whole of what he can do about it.
+Four of the men in that bay cannot read a paragraph. He knows which four. In nine years he has not put a single question to any of them and he is not going to begin on a dry afternoon at the sixth hour in a shed at the Slade end. He has given his reason for that, in about four sentences, about four times, and the reason is that putting one of them in writing would be the first step toward a list of five going wrong somewhere four hundred yards from here. Four. And going on being four. That is the whole of what he can do about it, and he has stopped expecting it to be more.
 
 And there is a finding in a ledger four hundred yards up that road in a book-keeper's own hand that says something about it, and he has never been in the room where it was entered, and he does not know what it says beyond the shape of it, and there is not one form anywhere in this empire that would let a man off a list of works go and read a ledger in a book-keeper's own hand. There is no fifth reason. There is not going to be one.
 
@@ -90,7 +90,7 @@ A hole lets them through.
 
 **He is not a wall.**
 
-Three people in this matter have tried to make use of that in about four years. Two of them found out that it is not a service. The third has not found out yet and is going to find out the same way, in about four minutes, and a man who is not findable is a man nobody can ask.
+About four years back, three people tried to make something out of what he is. Two of them learned in about four minutes that it is not a service. The third has not learned it and is going to learn it the same way, in about four minutes, and the reason they all fail is the same one: a man who cannot be found is a man nobody has standing to ask.
 
 And this afternoon a man with a cart used him in about ninety seconds without knowing there was anything to use, and the only reason the man with a cart used him is that he was the first one in a shed, and about four hundred years of this empire have worked out that a man who cannot be found will do a thing for nothing and will not be asked to account for it.
 

@@ -1,14 +1,14 @@
 # Chapter 262: Eleven Books On A Shelf, A Window With A Pane Out Of It, And A Hand At The Foot Of A Sheet That She Has Been Entering For Nineteen Years Without Once Looking At
 
-The office keeps eleven books on a shelf in a room on the ground floor of a building off the old river road, and the room has a window about two feet wide with a pane out of it, and at the other end of a passage that smells of cold stone whatever the season is there is a hearing room with a rail in it.
+Eleven books stand on a shelf in a room on the ground floor of a building off the old river road. The room has one window, about two feet wide, and a pane is out of it, and the wind comes in at whichever corner it likes. At the other end of a passage that smells of cold stone whatever the season is, there is a hearing room with a rail in it.
 
-She is about fifty-five and she has been a clerk here nineteen years and she writes the minutes of this office and advises nobody and asks nothing, and she has never once been asked a question by anybody who was not a person who wanted something out of her.
+Fifty-five or thereabouts. Nineteen years in that room, keeping the minutes of an office, advising nobody, asking nothing, and never once asked a question by anybody who was not a person who wanted something out of her.
 
-It is the second day of the fourth week of the second month of the year after the year after next. There are three clerks in this building and she is the oldest, and the other two are a man of about thirty who has been in that room four years and a woman of about twenty-six who came in about four years ago and is not in this matter and has not been in it.
+This is the second day of the fourth week of the second month of the year after the year after next. Three clerks work in this building and she is the oldest of them. The other two are a man of about thirty who has been in that room four years and a woman of about twenty-six who came in about four years ago and is not in this matter and has not been in it.
 
 ---
 
-A man of about forty came in at about the fourth hour with a sheet he had been handed, and he wanted to know what a word in the body of it meant, and she told him she could not tell him that and told him why, and he said thank you, and she said that was the ordinary way and not a favour, and he went out and did not come back.
+A man of about forty came in at about the fourth hour holding a sheet somebody else had given him, and wanted to know what a word in the body of it meant. She told him she could not tell him that, and told him why, and he said thank you, and she said that was the ordinary way and not a favour, and he went out and did not come back.
 
 And then she did the thing she has not done in nineteen years, which took her about four seconds and is the whole of this day.
 
@@ -108,12 +108,12 @@ She is also not going to tell anybody what a man of sixty-one said at a rail, an
 
 "A thing you said out loud in a room with four people in it is in four people and not in a book, and I have got the only one that is in a book, and I am not going to put a second one in beside it, and there is nobody I can hand this to, and I am going to be carrying it."
 
-There is a copy of a notice in the second book in that room, with a day against it, and the notice itself is on a bench about four hundred and thirty miles down that river with a seal at the foot of it and nothing under the seal. Its second line asks that no inference of any kind be drawn from the absence of any name. Its sixth line declines to name whoever holds the office at all.
+Second book, second shelf down: a copy of a notice, with a day entered against it. The notice itself is lying on a bench four hundred and thirty miles down that river with a seal at the foot of it and nothing under the seal. Line two of it asks that no inference of any kind be drawn from the absence of any name. Line six declines to name whoever holds the office at all.
 
-She has read the second of those lines about nine hundred times and she has never once said the name and she is not going to, and that is not discretion and she will not let anybody in this building call it that.
+Line two of that notice, about nine hundred times now, and the name has never once come out of her mouth and is not going to. Do not call it discretion in this building. It is that a clerk who puts a name into a room where a paper proves there is not one has used the only thing the office has against itself, and about nine hundred of these a year would be very easy to stop.
 
-It is that about nine hundred entries a year would be very easy to stop if anybody in any one of them could be shown what is written at the bottom of it, and she has just spent a day finding out what is written at the bottom of about four hundred of them, and she is not going to be the one who says it out loud in a room with a rail in it.
+And it is that she has just spent a day finding out what is written at the bottom of about four hundred of them, and she is not going to be the one who says it out loud in a room with a rail in it.
 
-The woman of about twenty-six came in at about the sixth hour to ask whether the room wanted shutting, and read nothing at all on her way past, and she is not in this matter and has not been in it, and she has been in that room for the whole of that time and has asked about four hundred questions in it and not one of them has been about the foot of a sheet.
+At about the sixth hour the woman of about twenty-six came to the door to ask whether that room wanted shutting, went past the shelf without stopping at it, and read nothing at all on her way. She is not in this matter and never has been. Four years of asking about four hundred things in that room, and not one of the four hundred has been about the foot of a sheet.
 
 **Nobody thanked anybody.** The man of about thirty did not thank her and she did not expect to be thanked, and a man of sixty-one who walked out of a building off the old river road two weeks ago is nine miles off in a lane and is not going to be told that a clerk of about fifty-five has been copying his hand into a book for nineteen years without looking at it.

@@ -1,22 +1,24 @@
 # Chapter 265: A Man Of About Forty-Five Up A Stair For The Third Time, Four Hundred Bought And Unfilled Blanks Under A Counter, And The First Time In This Matter That Anybody Has Written Down That A Clerk Said No
 
-The fourth counter of the Notaries' Table in Auremar is at the top of a stair, and the stair is the only way up, and about nine people a day come up it, and the counter is open from the second hour to the sixth and the fee board is on the wall behind it with four things written on it and none of the four of them is time.
+The fourth counter of the Notaries' Table in Auremar stands at the top of a stair, and there is no other way up to it. It is open from the second hour to the sixth. Behind the counter there is a fee board with four things written on it, and not one of the four is time, and about nine people a day come up that stair.
 
-She is thirty-four and she has been a clerk here eleven years and she is not a lawyer and does not want to be one, and about nine people a day come up that stair and find out that a clerk is a person who can be asked things.
+Marn Ottery is thirty-four, has been at that counter eleven years, is not a lawyer, and has never wanted to be one. Nine people a day go back down that stair knowing something they did not know when they came up, which is the ordinary product of a counter and the only thing this room sells.
 
-It is the second day of the third week of the third month of the year after the year after next. There are about four people in that room: Marn Ottery at the counter, a woman of twenty-four at the other end of it, a man of about thirty who does the copies, and a woman of about twenty who has been there a year and who is not in this matter at all.
+This is the second day of the third week of the third month of the year after the year after next, and the second hour, and there are about four people in that room. Marn Ottery is at the counter. A woman of twenty-four is at the other end of it, and a man of about thirty does the copies, and a woman of about twenty has been there a year and is not in this matter at all.
 
 ---
 
-About four hundred bought and unfilled blanks are in a box under that counter, and there is no form anywhere in this empire that says she may keep them, and she keeps them, and nobody has ever asked her to account for them.
+Under that counter there is a box of about four hundred bought and unfilled blanks. No form anywhere in this empire lets her keep them. She keeps them. Nobody has ever asked her to account for them.
 
-**A blank is not a document, because a document is a thing somebody can be held to, and a blank has nothing on it, and a person can walk into a room holding one and say plainly that they never filled it in.** That is the whole of what is in that box, and it is worth about four hundred blanks' worth of nothing, and it is fourpence a time to the people who buy them, and it has never once been explained to her by anybody.
+Nobody has ever explained the box to her either, and a person who cannot account for a thing and cannot be asked about it is in the ordinary position, and the price of a blank is fourpence to whoever buys one, which is the whole of what anybody knows about them.
+
+**A blank carries no document, because a document is something a person can be held to and a blank is nothing written on paper at all. A man can walk into a room holding one and say in plain words that he never filled it in, and then there is nothing left to hold him with.**
 
 ---
 
 He came up the stair for the third time and he had been in the room twice before and had not bought anything either time, and he came up it at about the fourth hour and he did not look at the board first, which was a change, and she noticed the change.
 
-He was about forty-five and he was not a carter and not a clerk, and in the fourth day of the third week of the twelfth month of the year after the year after next he had stood at that counter for about nine minutes and asked her what the fourth line on that board was for. She had said the shape of the question out loud before she answered it, and she had told him the truth, and he had said out loud that he was not going to do anything about it.
+About forty-five. Not a carter, not a clerk, and the sort of man who will stand and study a board a long while before he looks at a person. He had stood at that counter once before, on the fourth day of the third week of the twelfth month of the year after next, and asked her what the fourth line on that board was for. She had said the shape of the question out loud before she answered it, and she had told him the truth, and he had said out loud that he was not going to do anything about it.
 
 He had been in the room twice before and bought nothing either time, and on both of those two times he had looked at the fee board first and then at her, and on this third time he had not looked at the board at all, and she has watched people walk into that room for eleven years and she knows what it means when a man comes up a stair not looking at the wall.
 
@@ -124,7 +126,7 @@ And the woman of twenty-four at the other end of that counter asked her, at abou
 
 **And it is the first time in this matter that a refusal has been written down by a person who was not the person refusing.** Neither of them is going to thank the other for it, and the woman of about twenty who has been there a year and is not in this matter read nothing at all of it.
 
-The fourth line was still on the wall behind her when the counter shut at the sixth hour, and it will be on it next week, and there are three people in this empire who cannot account for it, and one of them is a dye-house worker about four hundred and thirty miles up this river, and there is not one instrument anywhere in this empire that would put any two of those three in a room together.
+When the counter shut at the sixth hour the fourth line was still on the wall behind her, and it will be on it next week. Three people in this empire cannot account for it. One of them is a dye-house worker about four hundred and thirty miles up this river, and there is not one instrument anywhere in this empire that would put any two of those three in a room together.
 
 And a woman of twenty-four in a rented room two streets off a street that goes down to the river road copied the four lines off that board into a book of her own at about the seventh hour, because nobody had ever written them down.
 
