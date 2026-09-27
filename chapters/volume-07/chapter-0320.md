@@ -1,22 +1,22 @@
 # Chapter 320: The Ground Floor, The Pane Still Out Of The Window, And About Nine Hundred Sheets Going Out With A Hand At The Foot Of Every One
 
-The room is on the ground floor of a building off the old river road and there is a shelf in it with eleven books on the shelf and a table and a chair and a window about two feet wide with a pane out of it that has not been put back in about four years.
+Downstairs of a building off the old river road there is a room with a shelf in it, and eleven books are on that shelf, and a table, and a chair, and a window about two feet wide that has had no pane in it for about four years.
 
-There is a passage about four hundred yards long off a flood terrace at the back of it and the flags of the passage come up cold underfoot in every month of the year, and there is a rail at the far end of that passage standing about four feet off the floor.
+A passage runs off a flood terrace at the back of that building for about four hundred yards, and the flags of it come up cold underfoot in every month of the year, and a rail stands at the end of it about four feet off the floor.
 
-Three clerks work in this building. The door at the top end of the passage has a step worn in front of it and there is nobody at the door at any hour of the day.
+Three clerks work in this building. There is a step worn through at the top of that passage and nobody stands at the door at the end of it at any hour of the day.
 
-He is sixty-one. He has been the second hand since he was forty-two, and he signs about nine hundred sheets a year out of that room, and he signs for people who cannot write and for people who are not in the room. **He cannot read a paragraph.**
+He is sixty-one, and he has been the second hand at the foot of a sheet since he was forty-two, and about nine hundred of them go out of that room in a year with a hand at the foot of every one, and he signs for people who cannot write and for people who are not in the room at all. **He cannot read a paragraph.**
 
 This is the second day of the second week of the fifth month of the year after the year after the year after next, and it is about the second hour, and the room is open, and the pane is out of the window, and the season is still on.
 
 ---
 
-It is an ordinary day and it is not a confession and he is not doing anything different in it.
+It is an ordinary day. Nothing in it is a confession and there is nothing in it he is not doing four times a week.
 
-She signs for five and the five go into a book under her hand. The other four go onto the shelf by the window and stay there, and a thing on a shelf is true in the way a thing nobody will ever fetch is true.
+She signs for five and those five go into a book in her own hand, and the other four go onto the shelf by the window and stay there, and a thing on a shelf is as true as a thing nobody is ever going to fetch.
 
-About nine hundred of them go out of that room every year and the number of them that anybody has ever counted is nothing at all.
+About nine hundred of them go out of that room in a year, and the number of them that any person has ever counted is nothing at all.
 
 **He signed four sheets this morning before the light came properly.** He read the day on all of them and the heading over the column on none of them, and nobody has asked him anything, and there is no form that would let anybody ask him, and he is not going to ask anybody either.
 
@@ -44,7 +44,7 @@ He would want about four minutes to say no to about half of them and yes to the 
 
 ---
 
-A carrier came up the passage at about the third hour with a rack on her hip and he signed for the four on it and the four went onto the shelf by the window.
+A carrier came up the passage at about the third hour with a rack on her hip, and he signed for the four that were on it, and the four went onto the shelf by the window.
 
 **The carrier is paid ninepence at a lock and is on a list, and has not been asked what she is carrying in about six years.** He has not asked her either, and she has not asked him what he is signing, and that is how the two of them have worked for six years.
 

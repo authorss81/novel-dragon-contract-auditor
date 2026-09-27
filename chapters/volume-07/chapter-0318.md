@@ -14,7 +14,7 @@ There is nothing over the box.
 
 There is no number on it and there is no day on it and there is no name on it and there is not one line of writing of any kind over about four hundred bought and unfilled blanks, and there has been nothing over it for eleven years, and about nine hundred of them a year go out of this building and every one of them goes out unfilled.
 
-**A blank is the only piece of paper in this empire that cannot be held against anybody.**
+**And a blank is the only piece of paper in this empire that no officer can hold against anybody.**
 
 That is what it is for and that is what everybody uses it for, and a person buys one for a shilling, or fourpence if it is a copy of a blank rather than a blank, and carries it about in a coat, and no officer in this empire can take it off him and no office can be shown what he did with it.
 
@@ -42,7 +42,7 @@ A man of about thirty-four came up the flight at that hour and wanted to know wh
 
 "Fourpence," she said.
 
-He counted it out of his own hand. She did not ask him what the page was of, and she did not ask him why he had come, and he did not tell her either, and he went down the stair.
+He counted it out of his own hand. She did not ask what the page was a copy of, and she did not ask what had brought him up four flights with it, and he told her neither, and he went down the stair.
 
 ---
 
@@ -66,6 +66,6 @@ Nobody thanked her.
 
 Nobody in that room was going to, and there is not one form anywhere in this empire that obliges anybody to. She is thirty-four and has been at that counter eleven years and has said the whole of this about nine hundred times, and was thanked for it a number of times that is nil, and she has not asked anybody why, and there is no form in this empire that would let her.
 
-The man of about thirty went on with the copies at the far end and was not spoken to once and is not a person anybody in that room is obliged to answer for anything, and fourpence a copy, and a person who brings the same figure up that stair twice is charged twice and nobody has ever been told that twice is a word in a charge.
+The man of about thirty went on with the copies at the far end and was not spoken to once and is not a person anybody in that room is obliged to answer for anything, and fourpence a copy, and the same figure brought up that stair twice is charged twice, and nobody has ever been told that twice is a word in a charge.
 
 **No form in this empire can carry a class into about nine hundred rooms and keep it a class,** and there is no form in this empire that would let a person be asked about a thing they have never been told exists. Both of those absences are the same absence, and the box under this counter is the only thing in this building that has ever got round it.

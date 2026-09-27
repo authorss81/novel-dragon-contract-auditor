@@ -14,7 +14,7 @@ This is the fourth day of the third week of the third month of the year after th
 
 A woman of about thirty-two came up the stair at about that hour about a letter and said, "Is it kept here?"
 
-"No, and there is no such thing kept and no such thing told, and that is how it is done here and not a favour to you."
+"No, and there is no such thing kept and none of it is told, and that is the way of it here and not a favour to you."
 
 She says that to about nine people a week and it is the truth and it is not a kindness, and a question at a counter about a letter is a question about the letter.
 

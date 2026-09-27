@@ -1,12 +1,12 @@
 # Chapter 314: The Room On The Ground Floor, Eleven Books And About Four Thousand Entries, And Not One Name In Any Of Them
 
-Downstairs of that building, off the old river road, there is a room with a shelf in it, and eleven books are on the shelf, and there is a table and a chair, and the window is about two feet wide and the pane has been out of it for about four years and nobody has put it back.
+Downstairs of a building off the old river road there is a room that a woman of about fifty-five has had to herself for nineteen years, and the room has a shelf in it with eleven books on the shelf, and a table, and a chair, and a window about two feet wide.
 
-Behind the building the passage runs about four hundred yards and the flags of it come up cold underfoot in every month, and a rail stands at the far end of it about four feet off the floor, and there is a step worn in front of a door and there is nobody at the door at any hour of the day.
+The pane has been out of that window for about four years. Nobody has put it back and there is nobody in that building who has been asked about the pane.
 
-She is about fifty-five and she has been in that room nineteen years and she writes the minutes and advises nobody and asks nothing.
+About four thousand entries are in the eleven books and there is not one name in any one of them, which is not carelessness and is the only shape a minute book has got.
 
-There are about four thousand entries in the eleven books and there is not one name in any one of them, which is not carelessness and is the only shape a minute book has got.
+Behind the building a passage runs about four hundred yards, and the flags of it come up cold underfoot in every month, and a rail stands at the far end of it about four feet off the floor, and a step at the top end of that passage is worn through, and there is nobody at the door at any hour of the day.
 
 This is the fourth day of the fourth week of the third month of the year after the year after the year after next, and it is about the fifth hour, and the season is still on.
 
@@ -44,17 +44,17 @@ She said the whole of what she had out loud at about the fifth hour, to the room
 
 The question she wrote into the second of the eleven books is still a question.
 
-She wrote it on her own motion, at nobody's request, with the day and the hour on it and her own name at the foot of it, on the fourth day of the third week of the ninth month of the year after next.
+She wrote it because nobody asked her to and because nobody told her not to. The day is on it and the hour is on it and her own name is at the foot of it, and the day is the fourth day of the third week of the ninth month of the year after next.
 
-It is still on that shelf under the window with the pane out of it. It did not become an answer and it is not going to become one, and a minute with an answer in it is an order, and a clerk of this office has not entered an order in nineteen years.
+It has been on that shelf under the window ever since, with the pane out of it. It did not turn into an answer and it is not going to, and a minute with an answer in it is an order, and a clerk of this office has not entered an order in nineteen years.
 
-**A quarter of it was answered out loud in this room in the second month,** by a man who came nine miles on his own two feet, and she wrote none of that down either.
+**A quarter of it was answered out loud in this room in the second month,** by a man who came nine miles on his own two feet, and none of that went into a page either.
 
-A thing said out loud in a room with people in it is in those people and not in a book, and if it goes in a book it goes back down that road to a district that does not have to be told anything at all.
+A thing said out loud in a room with people in it is in those people and not in a book, and put in a book it goes back down that road to a district that does not have to be told anything at all.
 
 The last time anything of that shape was done to about four hundred people, what they had went back to them.
 
-Nobody is going to ask her a second time. She said that out loud in the third week of the eleventh month and nobody has, and **there is no form in this empire that would let a clerk of this office write down that a person had been in this room**, and there never has been one, and she is not going to be asked it and is not going to ask it of anybody else.
+Nobody is going to ask her a second time. She said so out loud in the third week of the eleventh month and nobody has, and **there is no form in this empire that would let a clerk of that office enter that a person had been in this room**, and there never has been one, and she is not going to be asked it and is not going to ask it of anybody else.
 
 ---
 
@@ -70,4 +70,4 @@ About four hundred of those forms have gone out of that room in nineteen years a
 
 **Nothing was written down this afternoon except four entries with no name in any of them,** and about four hundred of that form have gone out of that room in nineteen years and every one of them went to a class.
 
-Nobody thanked her and nobody sent for her, and Nobody was thanked this afternoon and nobody sent for her, and the question in the second of the eleven books is on the shelf under the window with the pane out of it, and the pane is still out, and the question is still a question.
+Nobody thanked her this afternoon and nobody sent for her, and the question in the second of the eleven books is on the shelf under the window with the pane out of it, and the pane is still out, and the question is still a question.

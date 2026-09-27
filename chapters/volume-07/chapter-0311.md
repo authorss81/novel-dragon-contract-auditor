@@ -22,7 +22,7 @@ He put his hand back in his coat and left it there.
 
 She said the shape of it first, the way she has said the shape of a thing before she has said the thing about nine hundred times in eleven years and the way she has said it to a person twice.
 
-"I am going to say a thing out loud in this room and it is not in a book and I am not asking you anything, and I would like it noticed that I said the shape of it before I said the thing."
+"I am going to say a thing out loud in this room. It is not going in a book and I am not asking you one thing, and I would like it noticed that I said the shape of it before I said the thing."
 
 The room went on the way a room goes. The man of thirty at the far end did three copies and a half of a fourth. The woman of twenty-four turned a page over and put it back the way it was.
 
@@ -30,15 +30,15 @@ The room went on the way a room goes. The man of thirty at the far end did three
 
 "That is three things in one sentence."
 
-"It is three things in one sentence and the third of them is the whole of it, and I will come back to the third of them, and I am not going to hurry it, because you have come up four flights for a copy and you can stand there."
+"It is three things in one sentence and the third of them is the whole of it, and I am not going to hurry it, because you have come up four flights for a copy and you can stand there."
 
 ---
 
-The first of the three things is that it must be answered, and the second is that the answer must be written down, and **the third of the three is that the writing down must be a form and not a letter.**
+**The third of the three things is that the writing down must be a form and not a letter,** and I am going to be a while on that one, and you did not come up four flights to be hurried, and fourpence is what the standing costs.
 
 A letter can be answered or not answered and nobody is hurt by that. A form has a space in it with a line ruled under the space, and the line is there before anybody has written anything. **A thing with a line ruled under it in advance is a thing this empire knows how to finish.**
 
-"It got an answer in about three weeks," she said. "All at once, and the answer came back in three weeks, and the households refused it, and the refusals are entered because that law says a refusal is entered. **It is the only time in this empire that anything has been answered by that many rooms at once,** and it is also the only time anybody has ever tried."
+"It got an answer in about three weeks," she said. "All at once, and the households refused it, and the refusals are entered because that law says a refusal is entered. **It is the only time in this empire that anything has been answered by that many rooms at once,** and it is also the only time anybody has ever tried."
 
 "And this is a copy of it."
 
@@ -47,6 +47,10 @@ A letter can be answered or not answered and nobody is hurt by that. A form has 
 ---
 
 A woman of about twenty-nine came up the flight at about that hour about a day she had been given for something in the first month, and she said the day had passed and the thing had not been done, and she said out loud that she would like to know which of them had not done it.
+
+She had come up the stair twice before, both times over the same thing, and had been told both times to come back on the day, and the day was in the first month and this is the first week of the third.
+
+There is a book on the shelf behind that counter that it would be in. She did not open it and was not asked to, and there is no form in this empire that would make anybody ask her to.
 
 She was told at the counter that a day is a day and it goes past and it is not this counter's day to bring back, and the woman went down the stair.
 
@@ -70,13 +74,19 @@ She did not ask who had not done it a second time, and nobody told her, and bein
 
 "That is the whole of it and it is about nine words long and I have had it since the second month."
 
+"Then why is it me you are telling."
+
+He said it without any heat in it. He had the copy under his hand and he had been in that room eleven minutes, and she had said a great deal in it.
+
+"Because **you carried it up four flights instead of reading it at the bottom of them,** and because you put it on the wood and then you put your hand back in your coat, and because I have been at this counter eleven years and I am not going to get another morning like it."
+
 ---
 
-She said one more thing and she said it to the room and not to him.
+She said the last of it to the room and not to him, and the man of thirty at the far end heard all of it and went on with the copies.
 
 "There is no form in this empire that has ever been put in front of about nine hundred rooms and asked a person anything," she said, "and there is no form in this empire that has ever been copied out of one House's border law and used in that many rooms, and **both of those are the same absence,** and I have known it for two years and I have said it out loud twice."
 
-Nobody thanked her for it. Nobody in that room was going to, and there is not one form in this empire that would oblige anybody to, and the man of about thirty-four was not thanked and was not going to be and did not expect to be.
+Nobody thanked her for it and nobody in that room was going to, and there is not one form in this empire that would oblige anybody to, and the man of about thirty-four was not thanked and did not expect to be.
 
 He took his hand out of his coat and put it flat on the copy on the counter and then took it off again.
 
@@ -86,7 +96,7 @@ He took his hand out of his coat and put it flat on the copy on the counter and 
 
 ---
 
-At about the fifth hour a man of about forty came up and wanted three things put back a year and could not have them, and was not told why, and went down the stair.
+At about the fifth hour a man of about forty came up and wanted three things put back a year, and he had the three of them on one sheet, and he could not have them put back, and he was not told why, and he went down the stair.
 
 The fourth thing on the board behind the counter is in a hand that is not one of the hands in this room and has been on that wall longer than she has, and she and two other people have looked at it together on three occasions in eleven years and have not arrived at anything, and there is no form anywhere in this empire for accounting for a line of writing on a wall.
 
@@ -94,4 +104,4 @@ The fourth thing on the board behind the counter is in a hand that is not one of
 
 The copy went down the four flights with the man who had carried it up them. She did not ask him what he intended to do with it, and she did not ask him why he had come, and he did not tell her either of those things. **The whole of what passed between them in about eleven minutes was fourpence, a sheet of paper, and a thing said out loud in a room,** and it went in a room and not into a book.
 
-Nobody was thanked this morning and nobody was sent and nothing was written down that was not a figure about somebody else's day.
+Nothing was written down this morning except a figure about somebody else's day, and nobody was thanked and nobody was sent.

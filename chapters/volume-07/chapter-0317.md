@@ -1,10 +1,10 @@
 # Chapter 317: The Cold Passage About Four Hundred Yards Long, A Sixth Ruled Space, And About Two Hundred And Forty People
 
-The passage is off a flood terrace and it is about four hundred yards long, and the building it belongs to is about as wide as the passage is long divided by nine.
+The passage runs off a flood terrace and is about four hundred yards long, and the building it belongs to is about as wide as that length divided by nine.
 
 The flags come up cold underfoot in every month of the year and there is no fire at either end of it. A rail stands about four feet off the floor at the top end, and at the bottom end there is a shelf with a clerk's books on it and a window about two feet wide with a pane gone out of it.
 
-She is about twenty-six and she has been in that building about four years and she is not in this matter and has never been in it and is not going to be.
+She is about twenty-six, and she has been in that building about four years, and she is not in this matter and has never been in it and is not going to be.
 
 This is the fourth day of the third week of the fourth month of the year after the year after the year after next, and it is about the fourth hour, and the woman of about fifty-five is at the other end of it with a page and a hand that does not vary.
 

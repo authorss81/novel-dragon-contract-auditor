@@ -26,13 +26,13 @@ After the sixth hour she went to the room she rents two streets off a street tha
 
 **There is a table in it and a lamp on the table and a board on the wall with the rent on it and nothing else,** and the window looks at the back of another house, and about four feet of that wall has nothing on it, and she lit the lamp earlier than she lights it and she has not worked out why.
 
-What is under the table is hers and is not a copy of anything and has no office on it, and there are two things in it.
+Under that table are two things and both of them are hers, and there is no office on the table and there never has been, and neither of the two is a copy of anything.
 
-The first is a line in her own hand recording that a clerk of thirty-four said no on a stair and gave no reason, and she put it there on her own motion at nobody's request.
+One of them is a single line in her own hand, put there on her own motion at nobody's request: a clerk of thirty-four turned her down on a stair and gave no reason for it, and she wrote down the fact of the no and not one word of what went with it.
 
-The second is four lines taken off the fee board off a shelf, and the fourth of the four is in a hand that nobody at that counter can account for.
+The other is four lines copied off the fee board off a shelf at the counter, and the fourth of the four is in a hand that nobody at that counter has ever been able to account for.
 
-There is a second page with two boxes drawn on it by hand, and the same name is written in both of them, and the name in both of them is a woman of thirty-four who has been at the other end of the same counter for eleven years, and nobody has ever asked that woman about anything at all.
+A second page carries two boxes drawn on it by hand with the same name in both of them, and the name in them has been at the other end of that counter for eleven years and has never once been asked about anything at all.
 
 ---
 
@@ -44,7 +44,7 @@ She lit the lamp at about the sixth hour, which is earlier than she lights it, a
 
 "**And there is no form in this empire that would let a clerk show a page to the woman the page is about,** and that is not a defect in the page. That is the page."
 
-"That is the difference between what I have and what a form has, and it is the only advantage either of us has got, and I am not going to spend it on a heading."
+"That is the difference between what I have and what a form has, and **it is the only advantage either of us has got,** and I am not going to spend it on a heading."
 
 ---
 
@@ -54,7 +54,7 @@ The undertaking of the fourth of the first month is live and unretired and uname
 
 Nobody in this empire is going to be told when she decides whether to trust a man's judgment, and she has not decided, and there is nothing in this month to decide it out of, and there is not one form anywhere in this empire that could put it in a place where anybody else could see it.
 
-The four things in the drawer under that counter are where they were this morning. The fourth of the four is the one she has not looked at, and it is not opened, and it is not sent, and the other three have not been either.
+The four things in the drawer under that counter are where they were this morning. One of the four she has never looked at, and it has not been opened and it has not been sent, and neither have the other three.
 
 ---
 

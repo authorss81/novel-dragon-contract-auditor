@@ -8,7 +8,7 @@ There is a received room at the back with four shelves in it and three of them a
 
 At the other end of the counter stands a woman of twenty-four who has been there about two years, and a man of about thirty does the copies at the far end, and a woman of about twenty has been there a year and is at the back and is not in this matter at all.
 
-This is the second day of the first week of the first month of the year after the year after the year after the year after next, and the hours at this counter are the second to the sixth, and it is about the second hour, and the counter has been open about a minute.
+This is the second day of the first week of the first month of the year after the year after the year after next, and the hours at this counter are the second to the sixth, and it is about the second hour, and the counter has been open about a minute.
 
 ---
 
