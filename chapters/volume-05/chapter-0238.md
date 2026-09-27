@@ -1,6 +1,6 @@
 # Chapter 238: Nineteen Reasons Read Out Loud In A Bay, And A Man Who Knows His Own
 
-The list of works for the season that begins after this one was read out in the bay on the fourth day of the fourth week of the seventh month of the year after next and it took about four minutes, and nobody agreed it and nobody refused anything, and the four were on it the way the four are on every list.
+Nobody agreed the list of works for the season that begins after this one and nobody refused anything, and it was read out in the bay on the fourth day of the fourth week of the seventh month of the year after next and it took about four minutes, and the four were on it the way the four are on every list.
 
 Halla Wray is fifty-one. She is the foreman of the Slade Cut, which is an office with no office in it, and she has been on that bank since she was nine, and she has been in a box since the first week of the seventh month of the year after, and she has not been asked about it once and is not going to be asked again.
 
@@ -22,13 +22,13 @@ Halla Wray stopped.
 
 "That one is yours," she said. "I read it as I found it and I did not know it was yours and I am not going to say that I did not, and I am going to say that there is no name on any of the nineteen and I did not put one there and I am not going to put one there now."
 
-"Then it is findable now."
+"Then it is findable now?"
 
 "It is findable now," said Halla Wray. "**It has been in a book in a building four hundred and thirty miles down this river since the seventh month of the year after, and in about four years a person with a copy of the right page could put that day and that reason side by side and ask about a season a person had not been in.** For about three years nobody could have done that, because the column has no name in it and a reason does not carry a name. A man who gave one did not know that nine people in a bay were going to hear it read out."
 
 ---
 
-"You read it out."
+"You read it out?"
 
 "I read it out," said Halla Wray, "and I am not going to pretend I read it out by accident, and I am going to say why in about four sentences and then I am going to do the ordinary things, because it is the last week of a season and there are about nine men in that bay."
 
@@ -44,7 +44,7 @@ The man of about thirty sat down on the bench and did not say anything for about
 
 "That is the right way to have it."
 
-"Is it."
+"Is it?"
 
 "It is the way it is going to be for about nineteen people and I have not got a better one and I am not going to look for one this week," said Halla Wray. "And I want the other half of it said out loud in the same breath. A man who has been findable by his own reason for about four minutes is also a man who has been on a list of works and answered by a foreman out loud for nine years. About four of the men in this bay cannot read a paragraph and have never been asked anything, and being left alone is a thing that has been good to them. I have given one reason about that and three about myself and every one of them was bad, and I am not going to hand you a fifth in a bay."
 
@@ -64,7 +64,7 @@ And then a man of about forty from the third gang stood up where he had been sit
 
 "**Nineteen reasons in a column and nine men in a bay is already more than anybody on this bank has ever had put about themselves.** If a second one of you stands up then it stops being a thing a foreman did and it starts being a habit, and I have watched about nine people in this empire make a habit into a thing and every single one of them ended up with a heading over it. I am not going to be the one that puts it over about forty-one people."
 
-"So I should not say it."
+"So I should not say it?"
 
 "You should say it," she said, "and I am telling you that you are the second one and the second one is worse than the first one, and that is true and I am not going to soften it, and I am not going to ask you not to and I am not going to say anything else about it. Say it to him after I have gone out of the bay and not before."
 
@@ -122,7 +122,7 @@ Rennick Adley put his hand flat on the cover of the ledger and did not open it.
 
 "I have not asked," said Rennick Adley. "And I am not going to ask, and I would like it noticed in a doorway that I have wanted it since the third month of the year after and I have not asked, and there is no form anywhere in this empire that requires a person to ask a foreman for the rest of a sentence."
 
-**And he did not ask, and that is the arrangement, and it is a habit, and I have watched about nine people in this empire make a habit out of a habit in my time in these bays and every single one of them ended up with a heading over it.**
+**And he did not ask, and that is the arrangement, and it is a habit, and I have watched about nine people in this empire make a habit into a thing in my time in these bays and every single one of them ended up with a heading over it.**
 
 Then she went back down the road about four hundred yards, and the lamp was not lit in either building and it was later than it ought to be. **There is no form anywhere in this empire that requires a foreman to say out loud in a doorway that she has read nineteen reasons to nine men, and she said it anyway, and that is the second true thing a foreman of fifty-one has said about herself in a room, and the first was said to a bay and this one was said to one person, and neither of them is going to be asked whether it was a good idea.**
 

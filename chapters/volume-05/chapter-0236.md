@@ -37,7 +37,7 @@ She put it down and she did not pick it up again for about a minute and a half, 
 
 ---
 
-"So what am I to do with the second half."
+"So what am I to do with the second half?"
 
 "Leave it. Write nothing. It is in your own hand and there is no copy of it anywhere and I have not taken a copy and I am not going to." She picked the sheet up and gave it back to him and did not keep her hand on it. "You answer the letter on a day that is not a day you have written about yourself on. And I am not going to tell you which day, and that is not a withholding. **A person who is told which day is a person who has had the day taken off him, and I have watched that happen to a foreman of fifty-one about four hundred and thirty miles down this river and she is the only person in this matter who has had a day taken off her and she did it to herself and she has said out loud that it was the wrong thing to do."**
 
@@ -53,9 +53,9 @@ Then the man of about thirty came to the counter, **and he had four words in his
 
 "I am not going to spend it."
 
-"Then what are you here for."
+"Then what are you here for?"
 
-"I want to know one thing and it is not about a word on a form." He did not put the coin down. "**Does a thing have to happen in a building to count."**
+"I want to know one thing and it is not about a word on a form." He did not put the coin down. "**Does a thing have to happen in a building to count?"**
 
 "No."
 
@@ -91,7 +91,7 @@ There are about nine people a day up those stairs and there has been one of them
 
 "Two boxes," she said, after he had sat down again, "on a page ruled by hand in a book of my own, and both of them have your name in them, and I have not ruled a third and I am not going to, and I want you to notice that I have just said the number out loud in a room to a man and I have not said how long it is or what the two boxes are for, and that is on purpose."
 
-"What is the number."
+"What is the number?"
 
 "That is the question you are not going to get," said Tamsin Rook. "A person who is safe because nobody can instruct her and useful because somebody needs her standing in a room is a person with two boxes filled in on the same form. I said that out loud in the third week of the seventh month of the year after and about nine people have written it down since, and not one of them has asked me whether there is a third. You are the second, and you are asking me for a different reason, and I am not answering it either."
 

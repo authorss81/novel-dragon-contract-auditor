@@ -14,11 +14,11 @@ He had been in the bay at about the fourth hour of the afternoon on the second d
 
 He read it. It took about two minutes.
 
-Then he put a piece of chalk on the wall at the height of the third link of the chain, because the chain was on the wall and not on him and he wanted the mark where the paper was, and the mark was a small cross and it was not his and it was not the book-keeper's.
+Then Rennick Adley put a piece of chalk on the wall at the height of the third link of the chain, which was on the man and not on the wall, and he wanted the mark higher than the paper had been held, and the mark was a small cross, and he had made it mean nothing, and it was not his and it was not anybody's.
 
 ---
 
-"What is that for," he said.
+"What is that for?" he said.
 
 "That is a plain question and it is not about a word on a form," said Rennick Adley, "and the answer is that it is for me, and there is nothing in this empire that keeps it. In about four years a man with a copy of the right page could put that cross and that wall and this yard together and ask a question about them, and I would be the only person who could answer it, and the answer would be that a man of fifty-five asked me a question in a yard on the second day of the third week of the sixth month of the year after next. So I put a mark that means nothing on a wall that nobody looks at, and a clerk of thirty-four in this city says the same thing about hands and I did not get it from her."
 
@@ -40,9 +40,9 @@ He talked about the chain while the book-keeper wiped the chalk off his hands, a
 
 "You have not asked me the second question yet," said the man with the chain.
 
-"What second question."
+"What second question?"
 
-"Whether it costs you anything," he said. "Nine years. Somebody has been writing my name at the foot of a line four times a season for about four seasons and I have watched every one of them go on and I have never asked once and I have never asked anybody else either, and I have got a question and it is the first one I have ever asked anybody in nine years, and you have read me a piece of paper and put a mark on a wall, so here it is. Does it cost you anything."
+"Whether it costs you anything," he said. "Nine years. Somebody has been writing my name at the foot of a line four times a season for about four seasons and I have watched every one of them go on and I have never asked once and I have never asked anybody else either, and I have got a question and it is the first one I have ever asked anybody in nine years, and you have read me a piece of paper and put a mark on a wall, so here it is. Does it cost you anything?"
 
 Rennick Adley thought about it for about four seconds and he answered it properly, because it was the first question anybody had asked him in that yard that was worth the asking.
 

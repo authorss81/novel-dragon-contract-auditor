@@ -66,7 +66,7 @@ Rennick Adley put the pencil down.
 
 "The man of fifty-five with the chain. His name is on the list and it is not his hand. I have watched about four hundred names go onto about four hundred lines and every one of them is written by somebody, and I have never once seen him write his own, and I have never asked him how a man gets a name onto a line in a hand that is not his own."
 
-"Then what is your name doing on that list."
+"Then what is your name doing on that list?"
 
 "It is doing what it is doing," said the man. "That is not an answer."
 
@@ -74,7 +74,7 @@ Rennick Adley put the pencil down.
 
 ---
 
-The man went out and the lamp was not lit, and it was later than it ought to be, and Rennick Adley sat on the bench with the ledger shut on his knee and did the thing he had been not doing for about four days.
+The man went out and the lamp was not lit, and it was later than it ought to be, and Rennick Adley sat on the bench with the ledger shut on his knee and did the thing he had been not doing for about four weeks.
 
 **He is not on the list, and he has never been on the list.** A list of works is a list of works, **and a book-keeper does not do works**, and there is a name at the foot of every line of the list of works in a fair hand, and one of those names is not his and never has been. He put the list together himself, in the second month of next year, in a fair hand, one name under another, on a day, and he has kept it that way ever since, and he did it on purpose, and the reason he did it on purpose is a good one.
 
@@ -100,7 +100,7 @@ Then he opened the ledger to the entry, which was the last one he made in the se
 
 There is no reason under it. It is the first entry in that ledger since the second month of next year with no reason under it and there are about four hundred more entries in it than that, and every one of the other four hundred and some has got a reason, and the reasons are his, and he read them going back, and they are good.
 
-He had been four days trying to find one for hers.
+He had been four weeks trying to find one for hers.
 
 Then he saw why there is not one, and it took him about four seconds, and it is the simplest thing anybody has worked out in that store in about a year.
 
@@ -111,7 +111,7 @@ The third column of that bay's own ledger has about nineteen reasons in it with 
 
 ---
 
-And then he said out loud, to a store with a stove in it, the thing that is the whole of the fourth week he has been in.
+And then he said out loud, to a store with a stove in it, the thing that is the whole of the four weeks he has been in.
 
 "A thing that leaves no mark can go four hundred yards," he said. "I did it in a yard in the first week of the twelfth month of the year after and I have done it twice since and a man of fifty-five has had two pieces of his own paper read to him and nothing written down at all, and in about four years there will be a book with about nine hundred and forty names in it in nine hands and a day against one line of it and no man attached to the line."
 

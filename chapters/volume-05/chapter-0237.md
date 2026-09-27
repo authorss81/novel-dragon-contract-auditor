@@ -24,7 +24,7 @@ He had come up about four miles and it was raining and he had a satchel and he w
 
 ---
 
-"Why will you not ask him."
+"Why will you not ask him?"
 
 "He has a wage he has not been paid and the wage was stopped in the second week of the third month of the year after and I am the only person in this city who can put it back and I cannot do that for a reason nobody will give me, and he came up four miles in the rain to be told why, and I do not have it." The foreman put the pole down across the vat. "That is the whole of what I know and I have not told one person that until about half an hour ago and I am telling you because you are the fourth man in this end today and the other three already know."
 
@@ -48,13 +48,13 @@ Then a man of about thirty came in to fetch a barrow and he said it to him, beca
 
 "You have said that four times and I have counted them," said the man of about thirty, "and nobody has said one word back, and I have been in this end about eleven years and I have never once seen a foreman say a thing like that."
 
-"Nothing came of it," said the foreman. "That is what I wanted. I have been asking about that wage for about a year and I have been told to keep asking, and I have come up two stairs three times for nothing, and I have worked out in a rented room in a city about four hundred and thirty miles down this river that I am one of about four people in this matter who cannot be asked."
+"Nothing came of it," said the foreman. "That is what I wanted. I have been asking about that wage for about a year and I have been told to keep asking, and I have come up two stairs three times for nothing, and I have worked out in a rented room in a city about four hundred and thirty miles down this river, where I was told it, that I am one of about four people in this matter who cannot be asked."
 
 "I am forty. **I have been forty for most of a working life and I did not notice that until somebody told me in a room in about four seconds.**"
 
 ---
 
-"And what are you doing about it."
+"And what are you doing about it?"
 
 "I have just done it," said the foreman. "And I want to say the rest of it out loud as well because I have had it in my mouth since the second day of the second week of the fourth month of the year after next and I have never said a word of it to anybody. A thing said to one person is a document. A document is the only thing anybody in this empire can be held to, and I have never in my life been held to one thing that was true, and I would like there to be one."
 
@@ -80,13 +80,11 @@ And that is where he stopped, and he stopped because he had got to the end of it
 
 ---
 
----
-
 And the thing that made it a decision and not a thing he had said had been in him for most of a week, and it had nothing to do with the wage at all. He got it out at about the seventh hour to nine men and a boy of nine.
 
 "The sixth year of a guild's blank list," he said. "There was no list of works that year at all. The whole trade ran for a season on what people were told at the gate and on what a man said in a yard, and I was about thirty-four and I was in this end, and I was the only person in here who wrote anything down. I wrote it in a book of my own that is not here and has not been here for about nine years, and I have never once regretted throwing it out and I have thought about it about four times since, and every one of those four times has been since the second day of the second week of the fourth month of the year after next."
 
-"What was in it."
+"What was in it?"
 
 "Days," said the foreman. "Who was on and who was not, and about four names of men who said they would come and did not come, and I have not got the names and I have not got the days either, and that is the correct thing and I want it said in here that it is the correct thing. **Nobody in this empire pays a man to hold a list and everybody in this empire turns out to need one, and those two facts have never once been in the same room, and I have been in both of the rooms."**
 
@@ -106,7 +104,7 @@ It is a wage-day notice and it has a day on it and no name on it, and it says a 
 
 He had been in a house in a lane four hundred and thirty miles up this river and had said one true thing five times in about half an hour and had not put his name under it and had not asked anybody to. There is a slate in a weigh-house in that town with a number and a half-sentence on it and nine people in a room who heard it and a woman of twenty about four hundred and thirty miles down it who does not know yet.
 
-There is a man in a city about four hundred and thirty miles down this river that a woman of twenty walked about nine miles to, on her own account, to ask a question, and nobody sent her, and there is not one form in this empire for a person who comes on her own account, and about four hundred and thirty miles of road is what it costs anybody who wants to go and be asked a question. He is a man of thirty-eight with no office and no fund and a bar of his own that came off him on the twelfth of the ninth month of last year on a line of his own writing, and the foreman of a dye end has heard about him twice in about a year and does not know what he is called and is not going to find out, and that is a thing he has chosen and not a thing he lacks.
+There is a man in a city about four hundred and thirty miles down this river that a woman of twenty walked about nine miles to, on her own account, to ask a question, and nobody sent her, and there is not one form in this empire for a person who comes on her own account, and about four hundred and thirty miles of road is what it costs anybody who wants to go and be asked a question. He is a man of thirty-eight with no office and no fund and a bar of his own that came off him on the twelfth of the ninth month of last year on an application of one line which he wrote himself, and the foreman of a dye end has heard about him twice in about a year and does not know what he is called and is not going to find out, and that is a thing he has chosen and not a thing he lacks.
 
 And about four hundred and thirty miles down this river there is a bank about four hundred and forty foot long with a guarantee standing on it that nobody has answered and about sixty children under sixteen inside it, and about nineteen people behind that bank who said no again and are not going to be asked. About four people in a bay who cannot read a paragraph and have never been asked anything, and a girl of seventeen on a written engagement who is not thanked and is not going to start, and a book-keeper of thirty-eight whose wage is held against a roof he put there himself, and a foreman of fifty-one who has said four reasons out loud and every one of them was bad.
 

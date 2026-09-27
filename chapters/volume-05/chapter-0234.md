@@ -78,7 +78,7 @@ He did not open it.
 
 ---
 
-"What does a person who cannot be found have that a person who can be found does not have."
+"What does a person who cannot be found have that a person who can be found does not have?"
 
 "I have got about four things and you have not come nine miles for one of them, so it is the third one."
 
@@ -86,7 +86,7 @@ He did not open it.
 
 "A person who cannot be found can be given a thing to do and cannot be charged for it, cannot be sent a paper about it, and cannot be stopped," said Marek Kest. "**Everything else about this is worse for me and none of the rest of it is in that list.** The rest of it is: I cannot be thanked, I cannot be paid, I cannot be instructed, and I cannot be cleared either, because the only paper that would clear me does not exist in a form a person can hold. Ask me the other one."
 
-"Can you be got out of your own door."
+"Can you be got out of your own door?"
 
 "No," he said. "There is nothing in this empire that gets anybody out of a door, and a person who is left alone is a person who is not served, and being served is what makes a person a party, and a party is the only person who can be told what a thing is going to be used for. I have been not-served for about a year and it is the best thing I have and I would like it written down that I have said so, because in about four years somebody is going to read that I said a number of prices out loud in rooms and assume somebody heard them."
 

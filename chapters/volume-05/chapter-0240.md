@@ -1,6 +1,6 @@
 # Chapter 240: The Twelfth Line, And Then A Day That Is Not That Day
 
-The room is rented by the week and there is a table in it and a chair and a bed that is against the wall he does not use, and about four feet of that wall is bare, and it was about the fifth hour of the morning on the fourth day of the fourth week of the eighth month of the year after next, and the lamp was not lit and he did not light it.
+He is in the same room he has been in since the sixth month, rented by the week, and the table is in it and the chair is against the wall with the bed and about four feet of that wall is bare, and it was about the fifth hour of the morning on the fourth day of the fourth week of the eighth month of the year after next, and the lamp was not lit and he did not light it.
 
 Marek Kest is thirty-eight and he has said those four things out loud in about four rooms since the third week of the third month of the year after next, and he said them again to himself at about the fifth hour of the morning because the twelfth line was going to be filled in about four seconds and a man who fills in a twelfth line ought to know what he has got. No office. No fund. No register. A bar of his own that came off him on the twelfth of the ninth month of last year on an application of one line which he wrote himself. And a line about two inches long on the inside of his left wrist that reads nothing, and decides nothing, and does not know where the ford is.
 
@@ -54,13 +54,13 @@ There was a knock at about the seventh hour and he did not open it, and it was a
 
 "It can be held to and it cannot be asked about," said Marek Kest, to about two inches of door. "Those are two instruments and they are not the same and this empire has spent two hundred years being careful about the difference and has got very good at it. A person cannot be sent a paper about a thing said in a room. A person can be sent a paper about a thing they wrote down. Everything in this matter that anybody can be held by, he wrote down himself, and one of those things is from the second week of the third month of the year after next and one of them is older, and neither of them has a name at the foot of it."
 
-"Who is the woman of about twenty-four."
+"Who is the woman of about twenty-four?"
 
 "Not somebody who is going to be told by me," he said, "and I am aware that is a sentence that only a man who is not findable can say with any comfort, and I have said it to a door twice now and I am going to stop."
 
 ---
 
-"So that is the labour," he said, to a room with a bare wall in it, at about the eighth hour. "**The other one is the shape of four years, and it costs nothing, and nobody has to pay anything, and there is no form in this empire for it.** This one is the shape of a road and the day is mine and I am going down it at about the sixth hour in the morning."
+"So that is the labour," he said, to a room with a bare wall in it, at about the eighth hour. "**The other one is the shape of four years, and it costs nothing, and nobody has to pay anything, and there is no form in this empire for it.** This one is the shape of a road, and the day is mine, and I am not going down it at about the sixth hour in the morning. I am going to put one sheet of paper on it on the last day of this week, and the sheet will go down it and I will not, and that is the whole of the difference between the two of them."
 
 And then the cost of it, out loud, because he has never in this matter made a decision and not said the price of it.
 
@@ -78,7 +78,7 @@ There is a sheet of paper in his hand. There is no name at the top of it and the
 
 And there is one person in this empire he could have told about it at about the eighth hour that morning, and he did not tell her, and the reason is not protectiveness.
 
-"There is a woman of about thirty-five who keeps a day-book in a lodging house," he said. "She came about nine miles on the fourth day of the third week of the sixth month of the year after next and stood on a step and told me not to put anything at the head of anything about me, and she was right and I have not got an answer to it. She is findable. I am not. **A person who is findable holding a fact about a man who is not is a person who can be produced with the fact, and that is the whole of the asymmetry that a woman of twenty worked out standing in a rented room in the third week of the fourth month of the year after next, and she is right and I have had since the third week of the fourth month of the year after next to find a way round it and there is not one."**
+"There is a woman of about thirty-five who keeps a day-book in a lodging house," he said. "She came about nine miles on the fourth day of the third week of the sixth month of the year after next and stood on a step and told me not to put anything at the head of anything about me, and she was right and I have not got an answer to it. She is findable. I am not. **A person who is findable holding a fact about a man who is not is a person who can be produced with the fact, and that is the whole of the asymmetry that a woman of twenty worked out standing in a rented room in the third week of the fourth month of the year after next, and she is right and I have had since the third week of the fourth month of the year after next to find a way round it, and there is not one."**
 
 ---
 
@@ -86,7 +86,7 @@ And then the last of it, and it is short, and he has not improved it and does no
 
 **A letter is the only instrument in this matter that a man nobody can find can put into a room,** he said. "A form goes to a counter. A roll goes to a building. A list of works goes into a company book four hundred and thirty miles down a river in nine hands. Nobody has ever had to think about a thing that could be put in a room by a man with nothing, because there has not been one, and there is one now and it is in about nine days on about four hundred and thirty miles of road."
 
-And it costs a day of a wage of seventeen shillings and a penny the week, and there is no fund, and there is nobody who can stop me, and I am not going to be able to say afterwards that anybody made me do it, and that is what I have bought and it is the only thing I have bought in about four years and I did not pay for it in money.""
+"And it costs a day of a wage of seventeen shillings and a penny the week, and there is no fund, and there is nobody who can stop me, and I am not going to be able to say afterwards that anybody made me do it, and that is what I have bought and it is the only thing I have bought in about four years and I did not pay for it in money."
 
 ---
 

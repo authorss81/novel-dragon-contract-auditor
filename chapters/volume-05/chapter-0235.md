@@ -80,7 +80,7 @@ Nell Kest put her pen down.
 
 ---
 
-"Then what do I do with it."
+"Then what do I do with it?"
 
 "Write it. Keep it. Do not send it." She pushed the sixteenth book aside and made a space. "Put the day on it and the word held and nothing else and no name, and keep it in the inside of that coat, and when a day comes that you want it to exist, send it, and on that day it stops being a thing you have thought and starts being a thing that has happened, and you will not be able to take it back, and that is the only reason anybody has ever had for writing one down."
 
@@ -114,7 +114,7 @@ She has not been up that river since she came down it and she is not going this 
 
 "And I am going to say one more thing about the man I asked," she said, to the sixteen books, "and then I am going to do the eleventh house."
 
-"He has nothing. No office, no fund, no register, a bar that came off on one line of his own writing, and a mark on the inside of his wrist about two inches long that reads nothing and does not know where the ford is. He is the most dangerous person in this matter and everybody who has met him has worked that out in about four minutes."
+"He has nothing. No office, no fund, no register, a bar of his own that came off him on the twelfth of the ninth month of last year on an application of one line which he wrote himself, and a mark on the inside of his wrist about two inches long that reads nothing and does not know where the ford is. He is the most dangerous person in this matter and everybody who has met him has worked that out in about four minutes."
 
 "**And I have worked out the other half and I do not think anybody else has. He cannot be found and that is the only thing he has got, and a person who cannot be found can be given a thing to do and cannot be charged for it, and I have had a wage held since the second week of the third month of the year after by a man who is the only person in this city who can pick it up or put it down and who cannot tell me why."**
 

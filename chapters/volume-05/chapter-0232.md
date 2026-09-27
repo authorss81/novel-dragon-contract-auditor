@@ -4,7 +4,7 @@ The list of works for the coming season was read out in the bay on the second da
 
 Halla Wray is fifty-one. She is the foreman of the Slade Cut, which is an office with no office in it, and she has been on that bank since she was nine, and she has been in a box since the first week of the seventh month of the year after, entered by a class, and she was not asked, and no form in this empire has ever been found for asking her.
 
-The water was up a foot and a bit where it had been in the third month, and the hold against a company whose whole money is four shillings a year and all of it the rent of a building has not moved since the fourth week of the fourth month of the year after.
+The water was about where it had been a week before, which is a foot and a bit off the mark it had in the third month, and it has not come up a foot in a week, and the hold against a company whose whole money is four shillings a year and all of it the rent of a building has not moved since the fourth week of the fourth month of the year after.
 
 ---
 
@@ -18,7 +18,7 @@ Nobody said anything. The men in that shed filled it and the lamp was not lit.
 
 ---
 
-"Why," said a man of about thirty from the second gang.
+"Why?" said a man of about thirty from the second gang.
 
 "Because I have been in one since the first week of the seventh month of the year after," said Halla Wray. "I have not been asked a single thing about it. I have not been told what it is for. I worked out in about a minute and a half in the second week of the third month of the year after next what it is for and I have not told anybody and I am not going to, and there is nobody on this bank who could tell you and there is nobody anywhere else who could tell you either."
 
@@ -42,7 +42,7 @@ Then she said the other half of it, and she said it more slowly, and it was abou
 
 "And I owe a second sentence and I have owed it since the third month of the year after," she said, "and I have not given it, and nobody has asked me for it, and a book-keeper of thirty-eight is four hundred yards up that road and has wanted it since the third month and has not asked and is not going to."
 
-"Why not."
+"Why not?"
 
 "Because of a half," said Halla Wray. "**In the last week of the eleventh month of the year after I said half a sentence to a man from the district works who asked me a question about the works, and he heard it and did not ask and did not write it down, and it cannot be got back, and the arrangement we made in the seventh month of the year after in that shed is that the day he asks me is the day I stop saying the half I have got."**
 
@@ -72,7 +72,7 @@ She was standing behind the bench and a man of about thirty-four was at the othe
 
 ---
 
-"Is that useful," said the man of about thirty-four.
+"Is that useful?" said the man of about thirty-four.
 
 "It is the only thing I have got that nobody can take off me," said Halla Wray. "It is not useful. It is nine years of a habit that started because I could read and about four men in this bay could not, and I have never told one of them and I am not going to, and I have got exactly one reason for that and I gave it in the second week of the ninth month of the year after and it was a bad one and I am not giving it a second time in a bay."
 
