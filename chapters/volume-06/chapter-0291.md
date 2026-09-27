@@ -104,7 +104,7 @@ The lamp on the table is burning about fourpence a night and the lane has gone a
 
 He had it worked out by the second hour, and it took about four minutes, and it is the second time in about eleven years that a thing he has thought out in this room has turned out to be a thing about a person and not about a machine.
 
-He does not need her name. He has been treating the name as the difficulty, and it is not the difficulty, and it is not even the price. **What he has got is a book with eleven of them on a shelf, and a second shelf down, and a line in a clerk's own hand with a day and an hour on it and her own name at the foot of it, and about fifty weeks of nobody having asked her whether she meant it.**
+He does not need her name. He has been treating the name as the difficulty, and it is not the difficulty, and it is not even the price. **What he has got is a book with eleven of them on a shelf, and a second shelf down, and a line in a clerk's own hand with a day and an hour on it and her own name at the foot of it, and about fifty-four weeks of nobody having asked her whether she meant it.**
 
 A book with eleven of them in it is a thing a person can name out loud in a room without naming anybody.
 

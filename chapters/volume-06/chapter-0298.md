@@ -20,11 +20,11 @@ He heard the figure at second hand about forty-eight weeks ago and carried it fr
 
 And the rest of the week has been the ordinary week, and the ordinary week is where the price of it is.
 
-He is findable. That is the whole of the cost of a second asking and it is the only part of it anybody can put a name on, and there is no form anywhere in this empire that puts a name on a man being findable, and the finding is nine days old and it is the finding and not the asking that is the thing that cannot be taken back.
+He is findable. That is the whole of the cost of a second asking and it is the only part of it anybody can put a name on, and there is no form anywhere in this empire that puts a name on a man being findable, and the finding is a week old and it is the finding and not the asking that is the thing that cannot be taken back.
 
 A clerk of about fifty-five in a room with a rail in it knows his face. A woman of about forty who has gone up a cold passage about four hundred yards long for about nine years knows his face. A building off the old river road has a step worn in front of the door and a woman of about thirty-five next door who saw a man standing at that step at about the sixth hour on the fourth day of the fourth week of the tenth month, and nobody has asked her anything and nobody is going to.
 
-And none of that is the price. **The price is that a man who can be found can be sent for, and there is no form in this empire that would let anybody send him, and so there is no form that would stop anybody trying, and he has spent about eleven years being a man nothing can be held to and about nine days giving the last of it away on purpose.**
+And none of that is the price. **The price is that a man who can be found can be sent for, and there is no form in this empire that would let anybody send him, and so there is no form that would stop anybody trying, and he has spent about eleven years being a man nothing can be held to and about a week giving the last of it away on purpose.**
 
 ---
 

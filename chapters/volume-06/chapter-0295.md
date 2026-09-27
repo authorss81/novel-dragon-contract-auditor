@@ -8,7 +8,7 @@ This is the second day of the first week of the eleventh month of the year after
 
 **What she has done in about forty-one weeks is looked at the rack, and every day at about the third hour, when it comes off a carrier's hip and goes on the shelf by the window, not touched, counted, in her head, the racks that go down that passage and come back light by one.**
 
-She has got the number. She is not going to write it down, and nothing in this empire would let her write it, and nothing in it forbids a clerk setting a number she has counted in her own head down in a book afterwards either, and that is the reason she has not.
+**She has got the number and she is not going to set it down.** There is no column in this empire that would take a figure like that one, and there is nothing in this empire that says a woman may not put down a number she has counted for herself, and that is not why she has not, and she knows the difference between the two reasons and is not going to pretend to it.
 
 And the number has gone up since she counted it in the seventh month, and she has not said by how much and she is not going to, and a number that has gone up in about seventeen weeks is a number that is still going up while a woman of about fifty-five sits at the other end of four hundred yards of cold passage copying a hand into a book she advises nobody about.
 
@@ -58,7 +58,7 @@ The carrier went down the passage and the cold came up after her and the rail st
 
 And then there is the other thing in her, and it is three questions long, and she has not asked one of them in forty-one weeks and she is not going to, and nobody has ever come to this room and asked her whether she meant anything either.
 
-There is a woman four feet away at the lower end of that passage. She wrote a question into the second of the eleven books on the fourth day of the third week of the ninth month of the year after next, on her own motion, at nobody's request, with the day and the hour on it. It has been on that shelf about ninety weeks, and it is the only thing in nineteen years of that shelf that anybody in this building has ever entered about what ought to have happened instead.
+There is a woman four feet away at the lower end of that passage. She wrote a question into the second of the eleven books on the fourth day of the third week of the ninth month of the year after next, on her own motion, at nobody's request, with the day and the hour on it. It has been on that shelf about fifty-eight weeks, and it is the only thing in nineteen years of that shelf that anybody in this building has ever entered about what ought to have happened instead.
 
 **And not one instrument in this empire would let one clerk ask another clerk whether she meant it, and there is no form for it, and there has not been one for four years, and the two of them have worked four feet apart for four years and have never asked each other one thing about the shelf.**
 

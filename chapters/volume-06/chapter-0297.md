@@ -22,7 +22,7 @@ He said the shape of it first, because he had listened to two people say the sha
 
 ---
 
-"There is a line in the second of the eleven books," he said, "on the second shelf down, with the day and the hour on it and your own name at the foot of it. **Did you mean it.**"
+"There is a line in the second of the eleven books," he said, "on the second shelf down, with the day and the hour on it and your own name at the foot of it. **Did you mean it?**"
 
 It took about a second and a half. She did not stand up and she did not put the page down.
 
@@ -46,7 +46,7 @@ The woman of about forty lit the lamp in that room because it is not lit until a
 
 After that it was four minutes of a clerk of about fifty-five telling him what a second shelf down in a room is, and about a hundred and a half of sheets a year, and how a man who copies a hand for nineteen years learns to read the hand and not the person, and she said all of it in the ordinary voice at about the fourth hour and none of it was about the line.
 
-**He did not ask her the second thing.** There was a second thing and it is not asked, and it is not going to be asked in any room by anybody, and the reason he did not ask it is not a reason and is that there is no form in this empire that would let him be told what the answer would be used for, and no instrument anywhere in this empire lets a man find out what a thing is going to be used for before he asks it.
+**He did not ask her the second thing.** The second thing was what she would have written, and he had it ready, and he did not ask it and is not going to ask it in any room by anybody. The reason is not a reason and is that there is no form in this empire that would let him be told what an answer would be used for, and no instrument anywhere in this empire lets a man find out what a thing is going to be used for before he asks it.
 
 "Did you put it there because somebody asked you to?"
 
@@ -64,7 +64,7 @@ Then she said the thing that is the whole of what the day had in it, and she sai
 
 And she put her hand flat on the page and went on with it, and he was still in the room.
 
-**She was not thanked. Nobody in that building thanked him and he did not thank her,** and there is not one form anywhere in this empire that requires a person to be thanked for asking a question, and there is never going to be one, and the not thanking is the ordinary condition of a thing anybody did and not a cruelty in it.
+**She was not thanked.** **Nobody in that building thanked him and he did not thank her,** and there is not one form anywhere in this empire that requires a person to be thanked for asking a question, and there is never going to be one, and the not thanking is the ordinary condition of a thing anybody did and not a cruelty in it.
 
 ---
 
@@ -78,8 +78,8 @@ He went down four hundred yards of cold passage and out into a lane and did not 
 
 ---
 
-The lamp in that room is not lit until about the seventh hour and it is now lit and the rail is standing about four feet off the floor and the second of the eleven books is on the second shelf down where it has been for about ninety-one weeks, and it is still a question, and it is not an answer and it is not an order, and a clerk of that office has not entered one in nineteen years and did not enter one today.
+The lamp in that room is not lit until about the seventh hour and it is now lit and the rail is standing about four feet off the floor and the second of the eleven books is on the second shelf down where it has been for about sixty weeks, and it is still a question, and it is not an answer and it is not an order, and a clerk of that office has not entered one in nineteen years and did not enter one today.
 
-**The two people in the boxes are in the boxes.** The form that put them there has not been asked to be void by anybody, because no form in this empire has ever been asked to be void and there is no procedure for it, and the person who administers one is a clerk who is not a villain and has done about nine hundred of them correctly and has done this one correctly as well, and nobody in that room asked her about a box or a hat or a wage.
+**The two people in the boxes are in the boxes.** The form that put them there has not been asked to be void by anybody, because no form in this empire has ever been asked to be void and there is no procedure for it. The person who administers one is a clerk who is not a villain and has done about nine hundred of them correctly and has done this one correctly as well, and nobody in that room asked her about a box or a hat or a wage.
 
 Nobody was thanked. Nobody was sent. Nothing was written down. The pane is still out of the window at the bottom of the passage and the rail is still four feet high and there is no instrument in this empire that could put four words spoken in a room on a shelf where about a hundred and a half sheets a year go, and there is not one, and there never is going to be one.
