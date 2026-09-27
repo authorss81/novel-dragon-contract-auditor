@@ -2,13 +2,13 @@
 
 Nobody has ever been in this room but her, and the rent is on a board nailed by the door in a hand that is not hers, and the board says one thing. The window looks at the back of another house and there is a dog about four miles off that goes and stops and starts, and the drawer with the four things in it is in the bed and the drawer does not lock and has never locked.
 
-Twenty-four still, a clerk at that counter still, not a lawyer still, and the book on the table is the one with no office on it, and it has had two things in it for about five weeks.
+Twenty-four still, a clerk at that counter still, not a lawyer still, and the book on the table is the one with no office on it, and it has had two things in it for about ten weeks.
 
 This is the second day of the first week of the sixth month of the year after the year after next, and it is about the seventh hour, and the lamp is lit, and the day is over.
 
 ---
 
-**The first of the two things in it is a refusal and the second is four lines off a fee board, and about five weeks ago neither of them was a thing about anybody at all.**
+**The first of the two things in it is a refusal and the second is four lines off a fee board, and about ten weeks ago neither of them was a thing about anybody at all.**
 
 The refusal is one line and it says that a clerk of thirty-four said no to a man on a stair on the second day of the third week of the third month of the year after the year after next. It is in her own hand. She wrote it in about four seconds at the other end of that counter and nobody asked her to and there is no form anywhere in this empire that says a clerk at a counter has to write down what another clerk said.
 
@@ -16,7 +16,7 @@ The four lines are off a board behind that same counter, and the first three of 
 
 ---
 
-**And about five weeks is what it took her to work out that one of those two things can be used and the other one cannot, and that it is the one she is proud of.**
+**And about ten weeks is what it took her to work out that one of those two things can be used and the other one cannot, and that it is the one she is proud of.**
 
 A thing about a person is a thing that can be produced against a person. It has a day in it and the shape of a person in it and it is in a hand, and if anybody ever wanted to know what a clerk of thirty-four refused and when, then that line is the answer, and she wrote it, and it will answer for about as long as the paper lasts.
 
@@ -28,7 +28,7 @@ She is not going to find out about the fourth one. She looked at it for about fo
 
 ---
 
-A window is not a wall. A clerk of thirty-four told her that at the end of that counter in about nine seconds about five weeks ago and it has been the truest thing anybody has said to her in two years.
+A window is not a wall. A clerk of thirty-four told her that at the end of that counter in about nine seconds about ten weeks ago and it has been the truest thing anybody has said to her in two years.
 
 **It has not stopped anything and it has not started anything, and that is what she has got out of it, and a fact is not a decision, and she is going to stop treating the two as the same thing.**
 

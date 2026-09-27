@@ -1,6 +1,6 @@
 # Chapter 271: Eleven Books On A Shelf Nine Weeks After She Looked At The Bottom Of One, And A Stack From A District In Which There Is Nothing At The Foot Of The Page And Never Has Been
 
-Eleven books stand on a shelf in a room on the ground floor of a building off the old river road. The room has one window, about two feet wide, and a pane is out of it, and the wind comes in at whichever corner it likes. There are three clerks in this building and she is the oldest of them, and the other two are a man of about thirty who has been in that room four years and a woman of about twenty-six who is not in this matter and has not been in it.
+Eleven books stand on a shelf in a ground-floor room of a building off the old river road, and it is the only window in that room, about two feet wide, with a pane out of it, and the wind comes in at whichever corner it likes and has for nineteen years. Three clerks work in this building and she is the oldest of them, and the other two are a man of about thirty who has been in that room four years and a woman of about twenty-six who is not in this matter and has not been in it.
 
 She is fifty-five or thereabouts and she has nineteen years in that room, keeping the minutes of an office, advising nobody, and being asked nothing by anybody who was not a person who wanted something out of her.
 

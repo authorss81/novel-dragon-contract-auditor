@@ -1,6 +1,6 @@
 # Chapter 272: A Corridor About Four Hundred Yards Long Off A Flood Terrace, A Lamp On A Hook At The End Of It, A Door Nine Foot From That, And A Man Of About Fifty-Five With A Chain Who Has Gone Past The Mouth Of It Twice A Day For Nine Years And Been Sent Down It Once
 
-A tool shed stands at the Slade end, nine foot by eleven, with a bench along its north wall and a lamp in it that is not lit until about the seventh hour. A bay in which nine men work is about four hundred yards away. Between the two, at the top of a cut in a flood terrace, there is a way in that is about four hundred yards long and is called a corridor by nobody who has ever been inside it.
+The shed at the Slade end is nine foot by eleven, with a bench along its north wall and a lamp in it that is not lit until about the seventh hour, and the bay where nine men work stands about four hundred yards off the door of it. Between the two is a cut in a flood terrace and a way in along the top of it, about four hundred yards of it, and nobody who has ever been inside that way has ever called it a corridor, and he has used the word himself twice, both times in his own head.
 
 He is about fifty-five and he has a chain, and the chain is on him, and he cannot read a paragraph. This is the second day of the second week of the fifth month of the year after the year after next, and it is about the fourth hour, and the lamp in the shed is not lit.
 
@@ -20,9 +20,7 @@ A foreman of fifty-one put a lamp in his hand at about the fourth hour and said 
 
 "And who looks at it."
 
-"That will be you," she said, and went back to the bench, and did not look up while she said it.
-
-"There is only the one," she said, and went back to the bench, and did not say anything else about it, and did not look at him while he was standing there, and that woman has looked at him four seconds a week for about nine years and this is the first time in all of it that she has sent him anywhere.
+"That will be you," she said, and went back to the bench, and did not look up while she said it and did not look at him while he was standing there, and that woman has looked at him four seconds a week for about nine years, and this is the first time in all of it that she has sent him anywhere.
 
 There is no form anywhere in this empire that says who looks at a lamp hook. It goes on a list of about four hundred things a year and the list does not have a column for a hook and it does not have a column for the man, and the reason a man of about fifty-five with a chain is the one who is sent is not that anybody decided he would be and it is that there is nobody else in the building anybody would be able to say they had decided it about.
 

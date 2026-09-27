@@ -52,7 +52,7 @@ She is in a box and nine men know it and there is no form anywhere in this empir
 
 There is a door about nine foot from the far end of that corridor and it has not been opened in nine years and there is no name on it and it is not on a list. He came back with the lamp not on the hook and said nothing about it and put it on a bench and stood in about nine foot by eleven while the day's tally was read out. Four seconds of a bay a week is what that man has had for nine years, and nobody has ever paid him for it, and nobody is going to ask him.
 
-She has now made two people in that cut do a thing on her behalf in about seven weeks, and neither of them was asked, and nine men know about the first and four people know about the second, and that is a worse kind of findable than a name, and she said that out loud to a lamp about four hours ago and to nobody else.
+She has now made two people in that cut do a thing on her behalf in about six weeks, and neither of them was asked, and nine men know about the first and four people know about the second, and that is a worse kind of findable than a name, and she said that out loud to a lamp about four hours ago and to nobody else.
 
 ---
 

@@ -1,8 +1,8 @@
 # Chapter 279: A Room Over A Chandler's Shop Rented By The Week, A Day-Book With A Word In It Where A Figure Goes, A Ruled Line, And A Woman Who Came Up The Stairs And Said Out Loud That She Had Never Asked Him Anything
 
-Over a chandler's shop, off a lane four miles from the bay on the Slade Cut, there is a room he rents and works in, and a landing outside it, and the landing has four steps, a door with a bolt across it, and a window about a foot wide. He is on the list of works four times a season and this is one of the four days. The shop below keeps tar and rope and lamp oil, and the smell of it comes up through the boards all day, and it has done for about eleven years.
+The room is over a chandler's shop off a lane four miles from the bay on the Slade Cut, and he rents it by the week, and there is a landing outside it with four steps and a door with a bolt across it and a window about a foot wide. He is on the list of works four times a season and this is one of the four days. The shop below keeps tar and rope and lamp oil, and the smell of it comes up through the boards all day, and it has done for about eleven years.
 
-He is thirty-four or thereabouts, and a trade, and the trade is a hand that writes other people's figures out fair. He is paid by the day for it. He has a house with a door on it and a wife, and in one doorway in his life he said he was not going to do a thing again.
+Thirty-four or thereabouts, and a trade, and the trade is a hand that writes other people's figures out fair, and he is paid by the day for it. He has a house with a door on it and a wife, and in one doorway in his life he said he was not going to do a thing again, and that was twenty-nine weeks ago and he has not taken it back.
 
 This is the second day of the first week of the seventh month of the year after the year after next, and it is about the fifth hour, and the light goes off the lane at about the sixth hour in that month.
 
@@ -36,13 +36,13 @@ He gave the book back at about the fourth hour and the man of about sixty read t
 
 ---
 
-**The number has not moved, and it is six, and it was six sixteen weeks ago, and it is a number of things people have done and not a number of people.**
+**The number has not moved, and it is six, and it was six twenty-one weeks ago, and it is a number of things people have done and not a number of people.**
 
-He has carried that about sixteen weeks and has not said it out loud to anybody in all that time, and it is not his number, and there is no form anywhere in this empire that would let a man who is on a list of works four times a season be told a count.
+He has carried that about twenty-one weeks and has not said it out loud to anybody in all that time, and it is not his number, and there is no form anywhere in this empire that would let a man who is on a list of works four times a season be told a count.
 
 And he has got the other half of it now, and it took the four steps and the rest of the afternoon.
 
-**The not moving is not a reason.** It is not a reason to go and stand in a room and it is not a reason to stay out of one, and it never was either of those, and he has known that for about sixteen weeks and has done nothing about it, and the not doing is the part he has now finished with.
+**The not moving is not a reason.** It is not a reason to go and stand in a room and it is not a reason to stay out of one, and it never was either of those, and he has known that for about twenty-one weeks and has done nothing about it, and the not doing is the part he has now finished with.
 
 The wanting was never about the number. It was about a number being a thing he could hold, and about a man being able to be proud of a thing he is holding, and about eleven years of building his own reasons out of that and calling them reasons. There was one before him and there will be one after him, and neither of those two facts is about him, and he does not know either of them and is not going to be told.
 
@@ -54,7 +54,7 @@ She had the lamp unlit in her hand and she stood in the doorway about a foot wid
 
 "**Is it the second one in about four weeks?**" she said. "**I have never once asked you why anybody wants to know where you are.**"
 
-He put the pen down. "**I know you have not,**" he said, "**and I have thought about that for about sixteen weeks and I have not once asked you to.**"
+He put the pen down. "**I know you have not,**" he said, "**and I have thought about that for about twenty-one weeks and I have not once asked you to.**"
 
 "I am not asking now," she said. "I am telling you that I have not, and that it is a different thing, and I wanted it said in that order."
 

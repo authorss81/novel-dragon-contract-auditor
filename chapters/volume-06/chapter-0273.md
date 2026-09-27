@@ -2,7 +2,7 @@
 
 The cold comes up off the flags of a passage about four hundred yards long and it ends in a room with a rail in it that stands about four feet off the floor. The room he is in most of the time is at the other end of that passage, downstairs, with a shelf in it and a window about two feet wide and a pane out of it, and that is where he works, and he has been in this room four years.
 
-He is about thirty and he has been in that building four years, and three of the other clerks are the woman of about fifty-five and the woman of about twenty-six, and for four years he has been the one of the three that nobody sends anything to.
+He is about thirty and he has been in that building four years, and the other two clerks are the woman of about fifty-five and the woman of about twenty-six, and for four years he has been the one of the three that nobody sends anything to.
 
 This is the fourth day of the third week of the fifth month of the year after the year after next, and it is about the fifth hour, and the passage is colder than the yard it comes out of and always is.
 
@@ -56,13 +56,15 @@ He is not a wall either. A rail is the only thing in that room that does not kno
 
 Nobody is to blame and he is not going to name anybody, and he said that out loud too, at about the sixth hour, to the same empty room, and it took about four seconds.
 
-"It is not the woman's doing and it is not the other woman's doing and it is not anybody's doing. **A thing that nobody decided and that goes on working is not a thing a person did to me, and the only person it is being done to is me, and I have had it four years and about nine weeks of it I thought I was being kept out of a room.**"
+"It is not the woman's doing and it is not the other woman's doing and it is not anybody's doing. **A thing that nobody decided and that goes on working is not a thing a person did to me, and the only person it is being done to is me, and I have had it four years and for a long time at the end of it I thought I was being kept out of a room.**"
 
 He said the second half of that to a rail and not to a person, and the rail is about four feet high, and he put his hand flat on it and it was cold, and he took it off again.
 
 ---
 
-Nothing was asked anybody. The count of askings in this matter is six and it was six nine weeks ago and it is six now, and it is not his number and it is not in that building, and there is not one form anywhere in this empire that says a man is told a count.
+Nothing was asked anybody. The count of askings in this matter is six and it was six fifteen weeks ago and it is six now, and it is not his number and it is not in that building, and there is not one form anywhere in this empire that says a man is told a count.
+
+He does not know that. He has not been told it and he has not asked, and there is not one form anywhere in this empire that would let a man in a room with a rail in it be told what a count in another building is, and a person who is not in the room does not get a copy of it.
 
 He went back down the passage with the copy under his arm and put it on the shelf in the second of the eleven books, second shelf down, where it was, and did not tell the woman of fifty-five that he had been in that room and did not tell her that he had asked a question of nobody, and she was at the window with the pane out of it and did not turn round and did not ask.
 

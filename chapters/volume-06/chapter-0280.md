@@ -64,7 +64,7 @@ Nobody sent him anywhere and nobody sent anybody. The road is about four hundred
 
 He was not rescued and there was nothing to rescue him from. A woman of twenty-four in a rented room two streets off a street that goes down to the river road has a book with two things in it and has not been told one word of this and is not going to be. A clerk of about fifty-five in a room with a pane out of the window has a line in a book of her own and is not going to hear about the second of the fourth month either, and neither of them knows the other exists, and there is not one instrument anywhere in this empire that would put either of them in a room with him.
 
-**The count of askings in this matter is six, and it did not move in the ten weeks behind him, and he has not asked anybody anything in about eleven weeks and is not going to.** The number is not his and there is not one form anywhere in this empire that says a man who is on nobody's paper is told a count.
+**The count of askings in this matter is six, and it did not move in the twenty-two weeks behind him, and he has not asked anybody anything in about thirty weeks and is not going to.** The number is not his and there is not one form anywhere in this empire that says a man who is on nobody's paper is told a count.
 
 Nobody thanked him. There is not one form anywhere in this empire that requires a person to be thanked for reading nine lines of their own hand four times for nothing, and there is not going to be one.
 

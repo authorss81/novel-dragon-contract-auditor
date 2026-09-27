@@ -1,6 +1,6 @@
 # Chapter 277: A Hearing Room With A Rail In It, A Single Sheet With A Heading At The Top Of It And A Seal At The Foot Of It And Nothing Under The Seal, And A Man Of About Sixty-One Who Says Out Loud The One Thing About It That Nobody In This Matter Has Ever Said
 
-The cold comes up off the flags of that passage and it is about four hundred yards long, and it ends in a room with a rail in it that stands about four feet off the floor. The room he is in most of the time is at the other end of that passage, downstairs, with a shelf in it and a window about two feet wide. There are three clerks in the building and the woman of about twenty-six works at the table at the end of the hearing room, and she has been in it about four years, and she is not in this matter.
+The cold comes up off the flags the whole length of that passage and there is no fire in either of the rooms at the end of it. The far one has a rail in it that stands about four feet off the floor. The near one is where the clerks work, with a shelf in it and a window about two feet wide. There are three clerks in this building and the third of them is a woman of about twenty-six who is not in this matter and has never been in it, and her place is at the table at the near end of that passage, and she came up it at about the second hour this morning with a day-book and has not gone back down it.
 
 He is about sixty-one and he signs at the foot of sheets, and he has signed at the foot of about nine hundred of them a year since he was young, and he is the second of three hands on every one of them, and the second is the only one of the three that can be asked anything.
 
@@ -44,7 +44,7 @@ He stopped for about four seconds. "**And that is a shield and not a road.**"
 
 ---
 
-About nine hundred of those a year come in under a heading into about nine hundred rooms, and every one of them could be stopped inside a year by one person showing anybody in any one of them what is written at the bottom of it.
+About nine hundred of these go out of this room every year into about nine hundred other rooms, and in nineteen years there has not been one of the nine hundred that anybody has shown anybody what is written at the bottom of.
 
 "I have been the bottom of it for about nineteen years. I have never shown anybody, because nobody has ever asked me, and if anybody had asked me I would have told them the truth, and I have thought about that for about nineteen years and I am not going to take it back."
 
