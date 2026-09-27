@@ -60,7 +60,7 @@ The fourth day of the fourth week of the eighth month of the year after next. A 
 
 ---
 
-"It was not for you," she said. "That was out loud and it was in the wrong room and I am not going to say it again this year."
+"It was not for you," she said. "That was out loud and it was in the wrong room and I am not going to say it again in this bay."
 
 "You have said it in a shed," said a man of about thirty from the second gang. "In the sixth month. In front of nine of us."
 
@@ -74,7 +74,7 @@ A man of about twenty-six came in at about the seventh hour and asked her, stand
 
 "Then how would anybody know?"
 
-"Nobody would know, and that is the correct arrangement, and about four people on this bank have worked that out this year and four of them are not on a list at all and there is no way in this empire to find out which four, and I am not going to help."
+"Nobody would know, and that is the correct arrangement, and about four people on this bank have worked that out since the year turned and four of them are not on a list at all and there is no way in this empire to find out which four, and I am not going to help."
 
 ---
 
@@ -108,6 +108,6 @@ A man of about twenty-six came back in at about the seventh hour and asked wheth
 
 Then she did the ordinary things, because a foreman who stops doing the ordinary things is a foreman who has begun to make a speech of her own job.
 
-A man of about fifty asked whether the hold would be on the list before the season shut and she told him it would not and why in about four seconds, and he said that was not what he meant, and she said it was the only meaning it has. A man of about fifty came in and asked about the third link of a chain, and she told him about the third link and the week before it wants oil, in about two minutes, out loud, without turning round, from behind the bench, and the men in that bay watched a foreman do a perfectly ordinary thing to a man who cannot read a paragraph and not one of them noticed anything at all.
+A man of about fifty asked whether a man who was late twice in a week lost his place on the list, and she told him that he did, and he asked her whether that was the same thing as losing his rate on the day, and she said it was not, and that he was the first person in nine years to ask her the difference between the two. Then a man of about thirty came in off the wet and asked whether a bundle could stand on a sill overnight, and she told him it could not and why, and he asked her what a man was supposed to be doing with one at about the sixth hour in that rain, and she told him that as well, and it took her about nine minutes and not one of the nine men in that bay could have said afterwards what any part of it was about.
 
-**And the lamp was not lit, and the three pieces of paper were on a bench about four hundred yards up the road**, and the guarantee is standing offered and unanswered on about four hundred and forty foot of that bank with about sixty children under sixteen inside it. About nineteen people are still behind it, and about four people in that bay have still never been asked one question, and a reader of seventeen is at the back of it and has not been thanked and is not going to start, and nobody was sent to anybody, and nobody came.
+**And the lamp was not lit, and the three pieces of paper were on a bench about four hundred yards up the road**, and one of them had been on a sill in the wet for about four weeks and had come in that morning by an accident, and a fold is not a name and there is nothing in this empire that can put a fold and a person together. That bank is four hundred and forty foot of standing offer that nobody on this earth has been able to say who it was made to, and it was not answered in the month before this one either, and nobody was sent to anybody, and nobody came.

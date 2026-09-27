@@ -52,9 +52,9 @@ The fourth is a line of writing she has never worked out what it is for, and she
 
 That woman is Tamsin Rook, and she has two boxes on a page ruled by hand in a book of her own, and both of the boxes have the same name in them, and she has not ruled a third and is not going to.
 
-There are about nine people a day up those stairs, and there has been one of them coming for about a year who has never asked her anything, and she has worked out that he is not shy, because a shy man does not come nine times.
+There are about nine people a day up those stairs, and there has been one of them coming for about a year who asked her one thing in the first week he came and has not asked her anything since, and she has worked out that he is not shy, because a shy man does not come nine times.
 
-"He came on the second day of the first week of the first month of the year after next and he asked me a question about a word on a form and it was the third of the four and it is the only time in about a year that anybody has asked me anything, and it is a day I have written down and a day I am not going to talk about." She squared a stack of copies that did not need squaring. "He is not in this matter. He is a person who came up a stair and I have thought about him about four times a week since and he has never come back and I am not going to make him."
+"He came in the last week of the ninth month of the year after and he asked me a question about a word on a form, and I said the price at him twice because he had not caught the first one, and it is the only time in about a year that anybody has asked me anything, and it is a day I have written down and a day I am not going to talk about." She squared a stack of copies that did not need squaring. "I do not know whether it counts. I have got no book here that says, and there is nobody I could ask without asking a person to look themselves up. **And a clerk who cannot say a number is not going to say a number.** He is not in this matter so far as I have been able to find out. He is a person who came up a stair and I have thought about him about four times a week since and he has never come back and I am not going to make him."
 
 ---
 
@@ -82,7 +82,7 @@ She did not answer for about a minute and a half, and Marn Ottery did not help h
 
 "That is what you told me before, in the second week of the seventh month of the year after, and you told me before you told the other one, and I have never asked either of you again because I have never asked anybody anything in eleven years and that is not a complaint, it is a fact about me and I have made my peace with it in about four minutes."
 
-"Then that is the fourth time somebody in this building has been told, and there are about four people here, and I am one of them and I have said no." She looked at the board. "**And you have just asked me a question, and nobody has asked me one since the second day of the first week of the first month of the year after next**, and you did it in eleven words and you did not charge me a shilling for it, and I have been waiting for somebody to do that every working day since about the seventh month of next year and there is not one form in this empire for a person to be asked."
+"Then that is the fourth time somebody in this building has been told, and there are about four people here, and I am one of them and I have said no." She looked at the board. "**And you have just asked me a question, and nobody has asked me one since the last week of the ninth month of the year after**, and you did it in eleven words and you did not charge me a shilling for it, and I have been waiting for somebody to do that every working day since about the seventh month of next year and there is not one form in this empire for a person to be asked."
 
 ---
 

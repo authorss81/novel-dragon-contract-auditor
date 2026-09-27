@@ -126,7 +126,7 @@ And then, because a kitchen is a room and a room gets a day, and because he was 
 
 "Then why will you not say it here?"
 
-"Because in about four years somebody is going to read that a man of about thirty-four asked a question about a word on a form, and they are going to want to know which word, and if it is in my wife's mouth then it is in two mouths. **two mouths is findable in a way one mouth is not, and I have spent six weeks working out that the only person in this house who is not findable is the one who does not know**, and I am not going to be the person who takes that away from her on a table."
+"Because in about four years somebody is going to read that a man of about thirty-four asked a question about a word on a form, and they are going to want to know which word, and if it is in my wife's mouth then it is in two mouths. **Two mouths is findable in a way one mouth is not, and I have spent six weeks working out that the only person in this house who is not findable is the one who does not know**, and I am not going to be the person who takes that away from her on a table."
 
 ---
 

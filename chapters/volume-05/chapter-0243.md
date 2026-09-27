@@ -34,7 +34,7 @@ She read it back once before she put it in the stove, because a person who does 
 
 The reason there is no procedure is the reason there is almost nothing in this empire.
 
-A procedure is a machine for making sure that the reason is not needed, and it does that by not asking. About nine hundred people were entered in a box in this office this year, and that figure is a clerk's own count off the back of about nine hundred entries, and it is roughly what a class does, and she has never been asked whether the class was right about any of them.
+A procedure is a machine for making sure that the reason is not needed, and it does that by not asking. About nine hundred people were entered in a box in this office before the year turned, and that figure is a clerk's own count off the back of about nine hundred entries, and it is roughly what a class does, and she has never been asked whether the class was right about any of them.
 
 She has administered every one of them correctly. That is not a boast and it is not a defence either. It is that the person who fills a box is a clerk and the person who signs under the box is a person, and the person who signs is the only one of the three who could have been asked, and nobody has ever asked the person who signs, and she knows why, and she knows the reason is in about nine hundred documents and not one of them is a question.
 
@@ -114,7 +114,7 @@ There is one more thing about the room, and she is the only person in this empir
 
 A document that proves the absence of a name is a thing this office can use. There is a notice on a bench about four hundred and thirty miles down a river with a seal at the foot of it and nothing under the seal, and its second line asks that no inference of any kind be drawn from the absence of any name, and its sixth line declines to name whoever holds the office at all.
 
-She has read the second of those lines about nine hundred times, because a copy of it is in the second book in this room with a day against it, and she has never once said the name, and she is not going to. **that is not discretion, it is that a clerk who puts a name into a room where a document proves there isn't one has used the only weapon the office has against itself**, and about nine hundred entries a year would be very easy to stop.
+She has read the second of those lines about nine hundred times, because a copy of it is in the second book in this room with a day against it, and she has never once said the name, and she is not going to. **That is not discretion, it is that a clerk who puts a name into a room where a document proves there isn't one has used the only weapon the office has against itself**, and about nine hundred entries a year would be very easy to stop.
 
 ---
 

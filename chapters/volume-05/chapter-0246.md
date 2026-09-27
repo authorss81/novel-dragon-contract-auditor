@@ -26,7 +26,7 @@ That was the whole of the reasoning and it took him about four seconds to say it
 
 A sheet of clean paper is a thing a person writes on. A person with a sheet of clean paper in a drawer in a rented room in a city where a woman has come about nine miles twice and stood on a step and a man of about thirty-four has knocked on this door and not been let in is a person who is waiting to be asked something, and a person who is waiting to be asked something is a person with a document, and a document is the only thing anybody in this empire can be held to.
 
-**About four years is how long anything about him can be found for**, and a clean sheet in a drawer is the only thing about him in this city that is a piece of paper, and I have been sitting on it for nine weeks waiting for a person to come and give me something to write down, and the reason I have been waiting is that I have got nothing else and I do not want to be the man who is waiting.
+**About four years is how long a thing about him can be found for**, and a clean sheet in a drawer is the only thing about him in this city that is a piece of paper, and he has been sitting on it for nine weeks waiting for a person to come and give him something to write down, and the reason he has been waiting is that he has got nothing else and he does not want to be the man who is waiting.
 
 ---
 
@@ -46,7 +46,7 @@ And then he said, out loud, to the four feet of wall and the nail with nothing o
 
 "It is not tidiness. It is that about four years is how long a piece of paper about me can be found for, and there is one piece of paper in this city that is about me and does not say so, and it has been in a drawer for about nine weeks. I have been the only person in this empire who knows that, and in about four years somebody with a copy of the right page will be able to stand in a room and say that a man who cannot be found was keeping paper."
 
-"And what does that get them?"
+"And what does that get them?" He put that one to the wall as well, and it was the fourth time in nine weeks he had asked a room something and got the room's own answer back.
 
 "Nothing," said Marek Kest. "**That is the part I have been not looking at for nine weeks, and it is the whole of it.** It gets them nothing, and it gets me nothing, and it is a piece of paper in a drawer that could have been nothing, and I have thrown away a thing that could have been nothing, and that is the whole of the decision and I made it in about four seconds and I have not improved it since and I am not going to."
 
@@ -96,7 +96,7 @@ And then he said one more thing out loud, to the floor, and it is the reason he 
 
 "**A person who is paid to read is a person who can be told to stop.** I have known that since a man of thirty-eight in a rented room nine miles off a counter worked it out in about nine minutes and stood at a window and looked at a river, and I have never been able to get past it. A foreman of fifty-one on a bank has worked it out standing in that bay since she was forty-two and has never been asked about it, and the two of them have never met and there is no instrument in this empire that would put them in a room, and a man who is a labour is a man somebody can pay for a day, and I have chosen to be that."
 
-"And what do you do with knowing it?"
+"And what do you do with knowing it?" He asked the floor that as well, and he had asked it four or five times in nine weeks and it had never once taken longer to come back than he had taken to ask it.
 
 "Nothing." He said it to the floor and it was not a shrug. "**There is nothing to do with it.** That is what it is for. A man who is not paid and cannot be instructed and cannot be stopped and cannot be thanked is the most dangerous person in this matter, and every person who has met me has worked that out in about four minutes, and the man of about thirty-four has just worked it out on a landing in about four minutes. I have got a floor with paper on it and no fund and a bare wall, and I am not going to be able to help anybody and I have known that since the third week of the fourth month of the year after next."
 
@@ -108,7 +108,7 @@ And then, because the lamp was not lit and the room was very quiet and because a
 
 "I have said four sentences out loud in nine weeks and three of them have been about other people."
 
-"Yes," said Marek Kest, "and that is the only arrangement in this matter that anybody has ever got right, and I have got nine weeks of nothing and a nail with nothing on it, and I am not going to be able to improve on it. The bread woman is going to be back at about the sixth hour tomorrow and I am going to open that door, and it is not going to be a decision about anything and it is going to be the only thing I do this week."
+"That is the arrangement," said Marek Kest, "and it is the only one in this matter that anybody has ever got right, and I have got nine weeks of nothing and a nail with nothing on it, and I am not going to be able to improve on it. The bread woman is going to be back at about the sixth hour tomorrow and I am going to open that door, and it is not going to be a decision about anything and it is going to be the only thing I do this week."
 
 ---
 

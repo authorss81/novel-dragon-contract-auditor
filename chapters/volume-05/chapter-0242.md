@@ -36,7 +36,7 @@ Nobody said anything, because about nine men in a bay do not say anything when a
 
 "Why not?" said a man of about thirty.
 
-"Because a person who is entered in a box and then asked how it feels has been asked twice, and I am not going to do it to about nine hundred people in this empire who have been entered in one this year by a class." She picked the pencil up again. "That is roughly the right number because that is what a class does. I do not know what it is like for any of them and I have not asked and I am not going to."
+"Because a person who is entered in a box and then asked how it feels has been asked twice, and I am not going to do it to about nine hundred people in this empire who have been entered in one since the seventh month of the year after by a class." She picked the pencil up again. "That is roughly the right number because that is what a class does. I do not know what it is like for any of them and I have not asked and I am not going to."
 
 ---
 
@@ -86,7 +86,7 @@ Then she did the other thing, which is the only piece of administration in a wee
 
 "Have you read it?"
 
-"I have read it and I could not tell you one thing in it that I could repeat out loud, and I have been asked to describe it four times this year by people who came four miles and I have said no four times." She put the pencil down. "And a person who is paid to read is a person who can be told to stop, and there is a girl of seventeen at the back of this bay who is paid to read and is not going to start, and I said a sentence in this bay this morning that is not mine and I am not going to say it again today, and that is twice in one day I have put a thing into a room that I cannot take out of it."
+"I have read it and I could not tell you one thing in it that I could repeat out loud, and I have been asked to describe it four times since the ninth month by people who came four miles and I have said no four times." She put the pencil down. "And a person who is paid to read is a person who can be told to stop, and there is a girl of seventeen at the back of this bay who is paid to read and is not going to start, and I said a sentence in this bay this morning that is not mine and I am not going to say it again today, and that is twice in one day I have put a thing into a room that I cannot take out of it."
 
 ---
 

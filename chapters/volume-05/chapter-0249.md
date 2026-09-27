@@ -26,7 +26,7 @@ And then he asked the fifth man, who was about forty-four and had been in that e
 
 "Then you have paid for it and you did not know you were paying."
 
-"I have paid for it and I did not know I was paying," said the man of about forty-four, "and I would like it noted that that is the whole of what a question costs in a place like this, and about four people in this town have found that out this year and two of them have stopped coming to work."
+"I have paid for it and I did not know I was paying," said the man of about forty-four, "and I would like it noted that that is the whole of what a question costs in a place like this, and about four people in this town have found that out since the year turned and two of them have stopped coming to work."
 
 ---
 
@@ -72,7 +72,7 @@ A man of about twenty-six said that the question was about four hundred and thir
 
 ---
 
-"A foreman of fifty-one said this exact question out loud in a shed in the fifth month of the year after next, and about nine men heard it, and she was a person nobody in this matter can ask anything, and she has never been asked since and is never going to be." He wiped his hands on his coat, which is a thing you do in a dye end. "And for about four years that question has been in exactly one mouth. And a thing in one mouth is a thing one person can be asked about, and a person who can be asked about a question is a person who can be told what to do with the answer, and there is no form anywhere in this empire that stops that."
+"A foreman of fifty-one said this exact question out loud in a shed in the fifth month of the year after next, and every man in that shed heard it, and she was a person nobody in this matter can ask anything, and she has never been asked since and is never going to be." He wiped his hands on his coat, which is a thing you do in a dye end. "And for about four years that question has been in exactly one mouth. And a thing in one mouth is a thing one person can be asked about, and a person who can be asked about a question is a person who can be told what to do with the answer, and there is no form anywhere in this empire that stops that."
 
 "So you have said it in nine."
 
@@ -102,7 +102,7 @@ The man of about thirty asked him about the notice in the coat, because it is in
 
 "No."
 
-"Everybody else has said no to me once this year and every one of them gave me a reason."
+"Everybody else has said no to me once and every one of them gave me a reason."
 
 "I am not giving you a reason, because a reason is a thing a man can be asked to give again, and I have given this one to nobody, and I would like it noticed that a woman of twenty told me in a rented room in the second week of the third month of the year after next to write it. Keep it and not send it, and I have not sent it, and she made that reason up in about four seconds and told me it was not a good one." He moved the coat on the hook about two inches. "**And the day I want it to exist, I will send it, and on that day it stops being a thing I have thought and starts being a thing that has happened, and I will not be able to take it back**, and that is the only reason anybody in this matter has ever had for writing one down."
 
@@ -118,8 +118,8 @@ So he asked the half about the office, and he left the other one, and he did not
 
 **The river is still running.** A second season was shut and a third one is open and nobody agreed to either. About nineteen people said no again in the last week of the seventh month of the year after with the same nineteen reasons, and they are behind a bank about four hundred and thirty miles down this river and they have not been asked again and they are not going to be. A guarantee stands offered and unanswered on about four hundred and forty foot of bank with about sixty children under sixteen inside it. A bill at Lowcross is nineteen pounds three and fourpence, unpaid, nobody liable, and there has not been a line for a bridge in that fund in nineteen years, and nobody in this room is going to pay it.
 
-**And a woman of twenty in a room two streets off a street that goes down to the river road has sixteen books** and a wage that has been held since the second week of the third month of the year after, and she has decided to go and tell four women that she is not paid. She is not going up the river this year and has not said she is never going to, and there is a difference between not going and saying she is not going and she is the only person who knows there is a difference.
+**And a woman of twenty in a room two streets off a street that goes down to the river road has sixteen books** and a wage that has been held since the second week of the third month of the year after, and she has decided to go and tell four women that she is not paid. She is not going up this season and has not said she is never going to, and there is a difference between not going and saying she is not going and she is the only person who knows there is a difference.
 
 **And a foreman of about forty in this end has a notice in a coat and has said one true thing out loud four times over to nine men who cannot read a paragraph and is not thanked and is not going to be.**
 
-A man of about thirty-four is going to ask a question about a word on a form in a bay in about two weeks, and nobody sent him, and the lamp was not lit in either building, and the question that is the largest thing anybody has said out loud this year is now in five mouths and in no book at all.
+A man of about thirty-four is going to ask a question about a word on a form in a bay in about two weeks, and nobody sent him, and the lamp was not lit in either building, and the question that is the largest thing anybody has said out loud in this matter is now in five mouths and in no book at all.

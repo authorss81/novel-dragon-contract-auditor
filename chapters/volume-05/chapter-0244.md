@@ -4,7 +4,7 @@ The room is rented by the week and it is two streets off a street that goes down
 
 Nell Kest is twenty. She is a dye-house worker, which is what she is paid for, and she keeps the books of eleven houses on a lane in this town and of four other houses in three other districts, and she has kept every one of them from this city since she was seventeen and has not been up the river since she came down it, and that is what she is not paid for.
 
-Her wage stopped in the second week of the third month of the year after and it is stopped now, and the word for it is held, and the money for the nineteen days she has worked this year is in a weigh-house ledger in this town with her wage in it and not her name under it.
+Her wage stopped in the second week of the third month of the year after and it is stopped now, and the word for it is held, and the money for the nineteen days she has worked since the year turned is in a weigh-house ledger in this town with her wage in it and not her name under it.
 
 ---
 
@@ -20,7 +20,7 @@ On the fourth day of the fourth week of the ninth month of the year after next s
 
 She had known for about three years. What she had not worked out until that day was that the knowing had a shape, and the shape was that she had been doing about four days a week of work that nobody knew about, in a room two streets off a street that goes down to a river road, for nobody, on a wage that is not hers, and **that she had been carrying it the way a person carries a bag of somebody else's shopping up a stair and has never once been asked to.**
 
-She said it out loud to the sixteen books, which she does about twice a week, and then she said the other half of it, which is the part that is actually hers.
+She said it out loud to that table, which she does about twice a week, and then she said the other half of it, which is the part that is actually hers.
 
 "A person who is paid to keep a number is a person who can be told what the number is," she said. "That is the whole of it and I have known it since I was seventeen and I have never said it out loud to a living soul, and there is no form anywhere in this empire for a book-keeper, and the four of us who do it get it done in kitchens and on steps."
 
@@ -28,7 +28,7 @@ She said it out loud to the sixteen books, which she does about twice a week, an
 
 Then she said the other things, because she had the afternoon and there was nobody in the room, and because a person who has just named a thing to an empty room has to go on and name the rest or it sounds like a speech.
 
-"A book-keeper about four hundred and thirty miles down this river has found out this year that the days he spends on other people's numbers are not paid and cannot be, and nobody had ever told him, and he has been on that bank two years and he is not on the list of works and has never been on it."
+"A book-keeper about four hundred and thirty miles down this river worked out before the year turned that the days he spends on other people's numbers are not paid and cannot be, and nobody had ever told him, and he has been on that bank two years and he is not on the list of works and has never been on it."
 
 "How do you know that?"
 
@@ -62,7 +62,7 @@ The foreman came up the two stairs at about the sixth hour, for the fourth time,
 
 "I came up that stair because I have nothing else to do at the sixth hour."
 
-"**I have never been paid for any of the sixteen.** Not one of them, not one day, not one entry, and the fourth week of the ninth month of the year after is the week I have decided to stop carrying that quietly and to go and tell them, and I have four people to tell and I have told one of them and she has offered to pay me and I have said no."
+"**I have never been paid for any of the sixteen.** Not one of them, not one day, not one entry, and the fourth week of the ninth month of the year after next is the week I have decided to stop carrying that quietly and to go and tell them, and I have four people to tell and I have told one of them and she has offered to pay me and I have said no."
 
 ---
 
@@ -70,7 +70,7 @@ The foreman took his cap off, which he had not done in three visits.
 
 "You have said no to a woman who has money."
 
-"I have said no to a woman who has money and whose door the water came to and who stood in a street and cried about a sum, and I said no because if I take her money then I am a trade and a trade can be told what to do, and she cannot be told what to do, and that is the only thing I have got." She put both hands flat on the sixteen books. "**Everything I have for money is a thing somebody else can stop and everything I have for nothing is a thing nobody can produce**, and I have sixteen books and one of them has my name at the head of it, and that is the whole of what I have got and it is not a good position to be in."
+"I have said no to a woman who has money and whose door the water came to and who stood in a street and cried about a sum, and I said no because if I take her money then I am a trade and a trade can be told what to do, and she cannot be told what to do, and that is the only thing I have got." She put both hands flat on the sixteen books. "**Everything I have for money is a thing somebody else can stop and everything I have for nothing is a thing nobody can produce**, and one of them has my name at the head of it, and that is the whole of what I have got and it is not a good position to be in."
 
 "You have said that to me before."
 
@@ -108,10 +108,10 @@ The foreman was not there for that. Nobody was there for that.
 
 She sat with the sixteenth book open in front of her for about a quarter of an hour afterwards and did not write anything, and what she was not doing was writing the reason, and there was a reason available and she has never had it written down anywhere why she did not take it.
 
-"There is a place a person can put a fact and nowhere at all a person can put a thing they would rather somebody else knew," she said. "The sixteenth book has a space under the day and a space under the space, and I have looked at both of them about four hundred times this year, and both of them are for a person, and I am not going to be one in my own hand about a thing I am not paid to be one about."
+"There is a place a person can put a fact and nowhere at all a person can put a thing they would rather somebody else knew," she said. "The sixteenth book has a space under the day and a space under the space, and I have looked at both of them about four hundred times since the year turned, and both of them are for a person, and I am not going to be one in my own hand about a thing I am not paid to be one about."
 
-There is no form anywhere in this empire that requires a person to be in a room when somebody else works out what they are, and there is no form anywhere in this empire that requires a person to be thanked for sixteen books and a refusal. Nobody in this matter has ever been thanked and there is not going to be a form for it now.
+There is no form anywhere in this empire that requires a person to be in a room when somebody else works out what they are, and there is no form anywhere in this empire that requires a person to be thanked for a table of books and a refusal. Nobody in this matter has ever been thanked and there is not going to be a form for it now.
 
-**There are about nineteen people behind a bank about four hundred and thirty miles down this river who said no again in the last week of the seventh month of the year after and are not going to be asked again**, and about four people in that bay cannot read a paragraph and have still never been asked one question, and a guarantee is standing offered and unanswered on about four hundred and forty foot of bank with about sixty children under sixteen inside it. A bill at Lowcross is nineteen pounds three and fourpence unpaid with no line against it in nineteen years, and a girl of seventeen at the back of that bay is not thanked and is not going to start, and a book-keeper about four hundred and thirty miles down that river is not on the list of works. A foreman of fifty-one in that bay is in a box, and a woman of twenty in this room is in one as well, and a foreman off a dye end in this city is holding a piece of paper in a coat and is not going to tell anybody.
+**A book-keeper about four hundred and thirty miles down this river keeps the numbers of eleven houses on a lane and of four houses in three other districts, and is not on the list of works and has never been on it.** A foreman off a dye end in this city is holding a piece of paper in a coat and is not going to tell anybody, and a woman of twenty in this room is in a box and he is in one as well, and neither of them has been asked about it by anybody at all. A bill at Lowcross is nineteen pounds three and fourpence unpaid with no line against it in nineteen years, and nobody in this room is going to be the reason it is unpaid.
 
 **And a woman of twenty has sixteen books, one of which has her own name at the head of it**, and she has decided to go and tell four women that she is not paid, and the first one has been told, and nobody is going to thank her for any of it.

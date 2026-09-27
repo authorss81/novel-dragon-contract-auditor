@@ -22,7 +22,7 @@ Then on the second day of the first week of the ninth month of the year after ne
 
 The man with the chain put the thing he had been mending down on the bench and did not pick it up again.
 
-"Four," he said. "And I am the fourth person you are talking to and I am about the fifth one that has said that number out loud this year, and I want to say the other half of it before I say any of them, and it is not a warning."
+"Four," he said. "And I am not one of the four and I have not been asked one thing in nine years, and if you put me down as one of them then you have put down a man who cannot read it back, and that is the way a list of four goes wrong. I want to say the other half of it before I say any of them, and it is not a warning."
 
 "Say it."
 
@@ -122,7 +122,7 @@ He wrote them in the order the man with the chain gave them, which was the wrong
 
 ---
 
-The bay went on. A man of about twenty-eight wanted to know whether a person could be on two lists at once, and a man of about fifty wanted to know whether the hold would be on the list before the season shut, and a foreman of fifty-one told both of them what she tells everybody, in about four seconds, out loud, without turning round, from behind the bench, and about nine men watched a foreman do a perfectly ordinary thing and not one of them noticed anything at all.
+The bay went on. A man of about thirty wanted to know whether a man could be struck off a list for being drunk and what happened to his rate on the day it happened. A man of about forty wanted to know whether a name written down at a gate was the same name as a name put on a list. A foreman of fifty-one told both of them what she tells everybody, in about four seconds, out loud, without turning round, from behind the bench, and about nine men watched a foreman do a perfectly ordinary thing and not one of them noticed anything at all.
 
 And at the back of that bay there is a girl of seventeen on a written engagement at the rate the list is set at, and she was in it, and nobody spoke to her about the season, and she was not thanked and she is not going to start, and nobody sent anybody to her and nobody is going to.
 
