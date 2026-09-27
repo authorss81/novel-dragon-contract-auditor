@@ -74,7 +74,7 @@ His wife was at the foot of the four steps at the end of it. She did not ask him
 
 **He did not ask her about any of it.** The reason is the one he gave her the last time he did a thing of this kind, six weeks before he did it, out loud and on purpose and without asking her first, and the reason was that if he had asked she would have said no or said yes and been frightened, and both of those would have been him arranging the room.
 
-The woman of about forty who carries a scuttle came up the four steps at about the seventh hour and lit the lamp, as she does twice a week. She is not in this matter and cannot be asked what she has heard, and he has never once asked her, and **there is no form in this empire that obliges anybody to ask her.**
+The woman of about forty who carries a scuttle came up the four steps at about the seventh hour and lit the lamp, as she does twice a week. She is not in this matter and cannot be asked what she sees on those steps, and he has never once asked her, and **there is no form in this empire that obliges anybody to ask her.**
 
 He did not go and look and he is not going to go and look. The four hundred and thirty miles is not walked and the nine miles is not walked by anybody on his account.
 

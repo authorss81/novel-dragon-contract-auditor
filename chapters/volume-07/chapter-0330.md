@@ -54,7 +54,7 @@ Nobody thanked him. Nobody has ever thanked him. **He is not going to be thanked
 
 The only people in this matter who cannot be reached are the people nobody has asked. That is not a defect in them and it is not a defect in this, and it is not a thing anybody has to go and fix.
 
-The price of that is that they are also the people who are never told anything. A foreman of fifty-one has been in a box for about four years and was never asked about it. About nine sheets a year went out of a room in a building off the old river road not as the person above them wrote, and the man who knows which nine cannot write one of them down and has said the whole of it out loud twice and has been thanked for it twice by nobody.
+The price of that is that they are also the people who are never told anything. A foreman of fifty-one has been in a box for about four years and was never asked about it. About nine sheets a year went out of a room in a building off the old river road not as the person above them wrote, and the man who knows which nine cannot write one of them down and has said the whole of it out loud twice, at two of his three visits, and has been thanked for it twice by nobody.
 
 There is no form in this empire that has ever let a person be found who nobody has asked, and that is not a defect in the finding. **It is the price of the finding.**
 

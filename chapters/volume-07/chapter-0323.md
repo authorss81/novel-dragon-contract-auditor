@@ -40,7 +40,7 @@ Then he put a sheet down on the rail itself.
 
 **That is a thing he has done twice now and it is not a thing any form in this empire records a person doing.** His hand went flat on it for a moment and then came off and he kept both hands at his sides, the way a man stands when he has decided he is going to say all of it and not stop in the middle.
 
-He said about nine minutes' worth of it standing up. Nine of the clerks of this building, and the woman with the scuttle, and a man of about thirty-four who had not been in the room before, and the rest of them, and the passage, and the flags of it.
+He said about nine minutes' worth of it standing up. Nine of them, and three of them the clerks of this building, and the woman with the scuttle, and a man of about thirty-four who had not been in the room before, and the rest of them, and the passage, and the flags of it.
 
 ---
 
@@ -56,9 +56,9 @@ He said about nine minutes' worth of it standing up. Nine of the clerks of this 
 
 "I would want about four minutes. To say no to about half of them and yes to the rest. I have got it down to about four minutes standing at a table with a pen in somebody else's hand on the paper in front of me."
 
-"**There is nobody to ask.** That is the whole of it. I have said it in this room once before, about a year ago, standing where you are standing, and it went into the room and not into a book, and about nine people were in it that day as well, and I have never found out who they were."
+"**There is nobody to ask.** That is the whole of it. I have said the whole of it in this room once before, in the second month, standing where you are standing, and I did not say it the first time I came here, and it went into the room and not into a book, and about nine people were in it that day as well, and I have never found out who they were."
 
-"And there is not one form anywhere in this empire in which the act of a man standing at a rail is a thing anybody is entitled to have written down afterwards. Not a name, not a day, not the nine minutes. So I come and I say it and it is the ninth or the tenth time I have said it and none of the times are written anywhere at all."
+"And there is not one form anywhere in this empire in which the act of a man standing at a rail is a thing anybody is entitled to have written down afterwards. Not a name, not a day, not the nine minutes. So I come and I say it, and it is the second of the two times I have said the whole of it, and none of the times are written anywhere at all."
 
 ---
 

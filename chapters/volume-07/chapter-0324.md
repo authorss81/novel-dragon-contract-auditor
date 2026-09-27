@@ -22,7 +22,7 @@ She said the cost out loud at about the fifth hour, to a page, and then she put 
 
 "Here is what it cost and I would like it said out loud in a room, because I have found out that nobody will say it for me and nobody can."
 
-"**A man who has said a thing twice is findable by the saying of it.** That is not my finding and I did not arrive at it. He arrived at it, on his own two feet, about nine miles, in a season, on a day he is not paid for. He has now said the whole of it out loud twice in nineteen years and both times somebody told a carrier in a lane where to come, and a carrier in a lane is the only instrument there has ever been, and a man who is findable by a carrier in a lane is a man who can be served, and being served is a party."
+"**A man who has said a thing twice is findable by the saying of it.** That is not my finding and I did not arrive at it. He arrived at it, on his own two feet, about nine miles, in a season, on a day he is not paid for. He has now said the whole of it out loud twice in nineteen years, in this room on two of his three visits, and both times somebody told a carrier in a lane where to come, and a carrier in a lane is the only instrument there has ever been, and a man who is findable by a carrier in a lane is a man who can be served, and being served is a party."
 
 "About nine people were in that room. **I wrote none of it down**, and I said out loud that writing it down would make it an order, and I have not entered an order in nineteen years and I am not going to start with a man of sixty-one."
 
