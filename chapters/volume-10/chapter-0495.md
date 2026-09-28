@@ -1,6 +1,6 @@
 # Chapter 0495: A Man Who Says Out Loud For The First Time In Ten Years What He Is Waiting For
 
-The room is taken by the week and it is two streets back from a street that runs down to the river road. There is a table, a stool, a bed against one wall and a chair against none of them. A window looks at the back of another house, and about four feet of bare wall is beside it, and the nail is in that wall, going in crooked about the height of his hand. Nothing had ever hung off it until an evening in a month that is gone.
+He has the room on a weekly bill, two streets in from a street that runs down to the river road, and the landlord has never once come inside the door of it. There is a table, a stool, a bed against one wall and a chair against none of them. A window looks at the back of another house, and about four feet of bare wall is beside it, and the nail is in that wall, going in crooked about the height of his hand. Nothing had ever hung off it until an evening in a month that is gone.
 
 Marek Kest. Thirty-eight. There is not one thing in this empire standing against his name in any column of any kind, and there is not going to be one in his lifetime. A reading was put in front of him about a year ago and he said no to it in about a second, and he has not touched the one thing he is able to do since. There is a reason for that. It is nine words long, it came out of him once in a bay a long time ago, and nothing in this building is going to get it out of him a second time.
 
@@ -40,7 +40,7 @@ He said that to the plaster beside the window and not to himself.
 
 He did not go up the four flights.
 
-He has been up that stair six times in his life, and he has not put a coin on those boards one of the six times. About four hundred people a year come down those stairs carrying a different object altogether. On a counter at the top of them a woman of twenty-four has been selling paper for fourpence for two years, and nobody has ever wanted one thing out of her.
+Six is the whole of the number of times he has ever been at the top of that stair. He has come away from it with nothing in his hands on every one of the six, and there is no occasion in this matter on which I am going to be thanked for that either. About four hundred people a year come down those stairs carrying a different object altogether. On a counter at the top of them a woman of twenty-four has been selling paper for fourpence for two years, and nobody has ever wanted one thing out of her.
 
 He stood in the middle of that floor with his hands at his sides and worked out the whole of it, and it took about as long as a floor takes to go past twice.
 

@@ -16,7 +16,7 @@ There is nothing on the rest of the sheet at all, and that is the part that took
 
 ---
 
-Marn Ottery came along the boards from the other end. She is thirty-four and she has not left that floor in eleven years, and she is the only one of the three of them who never has. She did not touch it.
+Marn Ottery came along the boards from the other end. She is thirty-four, and eleven years is the whole of her working life, and every hour of it has been spent on that one floor, and out of the three women at those two tables she is the only one who has never gone up those four flights and come back down them. She did not touch it.
 
 "**That goes back in the case, and it goes back in now. The case is open, and the case is where that stock lives, and a thing on my floor that is not in my case is the only kind of thing on my floor I cannot answer for.**"
 
@@ -34,7 +34,7 @@ Marn Ottery looked at the strip along the top of it for about as long as it take
 
 ---
 
-At the far end of the two joined tables the clerk of about twenty-nine had her book open in front of her and her pen down the middle of it, which is where it has lain every working morning for about four years.
+At the far end of the two joined tables the clerk of about twenty-nine had her book open in front of her and her pen down the middle of it, which is where it has lain for four years of working mornings.
 
 She is the one person on that floor who could have taken a sheet in her hand and said out loud what it was a second of. She has said one thing in that room in about four years and it was said to another person. She has not said a second one and she is not going to say one this morning.
 

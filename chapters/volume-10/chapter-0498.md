@@ -14,7 +14,7 @@ He came down the flags at about that hour with the rack over his hip and there w
 
 "I have noticed it. I stand at the end of it."
 
-"**Then here is why, and I have not said it to anybody, and I am not going to say it again after this. A run that has carried nothing for four weeks is a run that could carry something. A thing that comes down it could not be shown back to anybody who sent it, because there is no form anywhere in this empire in which a person is entered as the one who sent a thing down a run. I have known that since a week that is gone, and I have never done anything about it, and I decided in a month that is gone not to make a rule about one, and I have not changed my mind this week.**"
+"**Then here is why, and I have not said it to anybody, and I am not going to say it again after this. A run that has carried nothing for four weeks is a run that could carry something. A thing that comes down it could not be shown back to anybody who sent it, because there is no form anywhere in this empire in which a person is entered as the one who sent a thing down a run. I have known that since a week that is gone, and I have never done anything about it, and there was a month not long after that in which I settled in my own head not to make a rule about one, and nothing has come up since to make me settle it again.**"
 
 ---
 
@@ -26,7 +26,7 @@ She did not say anything for a while, and the flags were doing what they do, and
 
 "Then it goes to the flags and not to me, and it goes once, and I am not going to be thanked for hearing it."
 
-"**The second half is that a thing which came down this run would not have a person at the end of it who could be shown refusing it.** There is no form in this empire for a person who has been given nothing and does not want it, and not wanting a thing is not a thing that can be put down anywhere. You have been standing in that gap for about four years, and I have watched you stand in it every working day of them. That gap was the safest place in this building until a month that is gone. It stopped being the safest place the day a woman put fourpence on a set of boards four hundred miles away. I have worked that out this month, and I am saying it to you because you are the person it is about, and because saying it makes me a person who knows."
+"**The second half is that a thing which came down this run would not have a person at the end of it who could be shown refusing it.** Nobody in this empire can be entered as a person who was handed a thing and turned it down, because turning a thing down is not a fact that will sit in a column anywhere. You have been standing in that gap for about four years, and I have watched you stand in it every working day of them. That gap was the safest place in this building until a month that is gone. It stopped being the safest place the day a woman put fourpence on a set of boards four hundred miles away. I have worked that out this month, and I am saying it to you because you are the person it is about, and because saying it makes me a person who knows."
 
 ---
 

@@ -6,7 +6,7 @@ Halla Wray. Fifty-one. A foreman, standing inside a box that a class put her in,
 
 The two of seventeen are at the back where they have been all week, and the girl has not been asked anything in about a year and is not going to be asked anything this month, and the boy with the book is a person nobody in that lane has addressed in a long time and is not going to be addressed this week either.
 
-The man at the other side of the chain is about fifty-five, and a paragraph has never once been beyond him, and he is not the clerk of about fifty-three and no week is going to make him that. Set him down beside the four people in this matter who cannot get sense out of a paragraph and he walks out of that shed and does not come back to it, and he told her so years ago, and it is the only thing he has ever threatened anybody with.
+The man at the other side of the chain is about fifty-five, and a paragraph has never once been beyond him, and he is not the clerk of about fifty-three and no week is going to make him that. Put that man down among the four in this matter who have never got a working sentence out of a paragraph and he is out of that shed and back into it is not going to happen, and he told her so years ago, and it is the only thing he has ever threatened anybody with.
 
 It is the fourth day of the third week of the first month of the year after the year after the year after the year after the year after the year after the year after next, and it is the fourth hour.
 
@@ -30,7 +30,7 @@ She let that sit, and the chain went a small way and came back, and the two of s
 
 He said nothing for about as long as a sheet takes to be squared, which in that shed is about nine seconds and is the only clock in it.
 
-He is the only person in this matter who can read out of a printed strip and say out loud whose hand it is, and no sheet is going to be put in front of him in this lane, and nobody in this city is going to put one there either. When he spoke in that bay, four sentences, about a year ago, nobody took one of them up, and he had not wanted anybody to. Everything since has gone to the floor rather than to her, and she has noticed all of it, and he has never once noticed her noticing.
+He is the only person in this matter who can read out of a printed strip and say out loud whose hand it is, and no sheet is going to be put in front of him in this lane, and nobody in this city is going to put one there either. When he spoke in that bay, four sentences, about a year ago, nobody took one of them up, and he had not wanted anybody to. Everything he has said in that shed since has gone to the floor rather than to her, and she has taken in every hour of it, and he has not once looked up out of that bay long enough to see that she has.
 
 "I have not said that it is right," he said, to the flags.
 

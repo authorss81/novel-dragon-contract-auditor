@@ -1,8 +1,8 @@
 # Chapter 0492: A Stair That Keeps Nothing, And A Man Who Will Not Say Which Week It Was
 
-A lamp burns at the bottom of that stair from the sixth hour, and a man with a strap across him goes up the four flights at about the fourth hour with a satchel on his shoulder, and he has been going up them since before the woman at the far end of the boards came to that floor.
+A lamp burns at the bottom of that stair from the sixth hour, and a man with a strap across him goes up the four flights at about the fourth hour with a satchel on his shoulder, and he has been going up them since before she came to that floor.
 
-Nobody has ever told him what is in the satchel. He has never asked and he is not going to start, and it has never once been a courtesy between the two of them. There is no form anywhere in this empire in which a courier is entered as a person who was told. There is no form in it in which he could be told anything. Those are one absence wearing two words, and it is why that stair is still carrying paper up it in a city that has no form for the man.
+Nobody has ever told him what is in the satchel. He has never asked and he is not going to start, and it has never once been a courtesy between the two of them. This empire has no form in which a man who carries paper up a stair can be entered as a man anybody ever told anything to, and it has none either for a man anybody could tell. Those are the same gap described twice, and it is why that stair is still carrying paper up it in a city that has no form for the man.
 
 It is the second day of the second week of the first month of the year after the year after the year after the year after the year after the year after the year after next, and it is the fourth hour.
 
@@ -48,7 +48,7 @@ He stopped on the fourth step from the top going down and turned round, and he d
 
 "**You told me a man came up in the last week of the year and did not buy anything. A woman who sells paper for fourpence has been standing at that end of the boards for two years and has just told me that. I have put the two of them together and I am not going to be thanked for it, and I am not going to say it to anybody, and I am not going to carry it down these stairs in that satchel either. That is a thing with a man in it. This is a thing with paper in it.**"
 
-He went down four flights and out of that street, and the lamp at the foot of it was not lit when he went past, and nobody followed him and nobody was sent after him.
+He went down and out of that street, and the lamp at the foot of the stair had not come on yet when he went past it, and nobody followed him and nobody was sent after him.
 
 ---
 

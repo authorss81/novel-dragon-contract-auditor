@@ -2,9 +2,9 @@
 
 The counter is where it has always been, at the bottom of that stair, and the day-book is where it always is on the shelf behind her, and the lamp on that table is not lit until the sixth hour.
 
-About four rooms go by the week in that house, and a girl in the back room is in her second season. She is about thirty-five and she keeps that book in her own hand. Four headings stand over four columns in it, and a fifth has never been ruled in nine years of keeping it. Ruling one is the single thing in that house she would have given anything for, and she has never once put a pen to it.
+That house turns over about four rooms a week, and the girl in the one at the back is into her second season of it. She is about thirty-five and she keeps that book in her own hand. Four headings stand over the first four columns of it, and in nine years of keeping it she has never drawn a line and set a fifth above that. Ruling one is the single thing in that house she would have given anything for, and she has never once put a pen to it.
 
-He is about thirty-four, and the hand he is paid for is a better one than the work requires, and he is on a list four days a season, and the list is the whole of why a search in this city can be relied on to hand him back. Findable was the safest thing about him for two years. It has not been the safest thing about him for about a month. His rate is a rate and not a kindness, and he works eight hours at it, and the pile in that building has been a hand's width thinner than it should be since a week that is gone.
+He is about thirty-four, and the hand he is paid for is a better one than the work requires. A list of four days a season is the whole of the reason a search in this city can be relied on to hand him back. Findable was the safest thing about him for two years. It has not been the safest thing about him for about a month. His rate is a rate and not a kindness, and he works eight hours at it, and the pile in that building has been a hand's width thinner than it should be since a week that is gone.
 
 It is the fourth day of the fourth week of the first month of the year after the year after the year after the year after the year after the year after the year after next, and it is the fourth hour.
 
@@ -16,7 +16,7 @@ He stood about nine foot off it for a while with his hand in the inside of his c
 
 Not the book. The page.
 
-It is a page of that week's work, and the figures in the second column do not agree with the figures in the first one, by about the width of a thumbnail, on three lines. He has closed that kind of gap with a pen in about four seconds since he was nineteen. There is no column anywhere in this empire for a job a person has refused.
+It is a page of that week's work, and the figures in the second column do not agree with the figures in the first one, by about the width of a thumbnail, on three lines. He has shut a gap of that width with the point of a pen in about four seconds ever since he was nineteen. There is no column anywhere in this empire for a job a person has refused.
 
 "There is a second one of those," she said.
 
@@ -28,7 +28,7 @@ It is a page of that week's work, and the figures in the second column do not ag
 
 He did not pick it back up.
 
-"I have got a number in my head," he said, "and it has been in my head since a spring that is gone. I am not going to tell you what it is. I am not going to put it on anything. I am not going to be in a room where anybody says one word about whether it is right. Nobody in that house is confirming it and nobody in that house is denying it, and that is not politeness. A number that stays in a man's head is a fact about that man. The day it is on paper it stops being about him and starts being about a thing, and a thing can be carried down a stair and put inside a coat, and I have watched that happen to a person who was careful about it."
+"I have got a number in my head," he said, "and it has been in my head since a spring that is gone. I am not going to tell you what it is. I am not going to put it on anything. I am not going to be in a room where anybody says one word about whether it is right. Nobody in that house has confirmed it and nobody in that house has denied it, and that is not politeness. A figure a man keeps in his head is a fact about that man and about nothing whatever outside him. The day it is on paper it stops being about him and starts being about a thing, and a thing can be carried down a stair and put inside a coat, and I have watched that happen to a person who was careful about it."
 
 "That is a thing you have said to me once already. I did not take it up then and I am not taking it up now."
 
@@ -48,7 +48,7 @@ She put the page in the shelf and put the book back down on top of it, spine flu
 
 He went up the stair and did not turn round at the top of it.
 
-He is a man who can be found, and he has been found by a person with four headings over four columns and a fifth that is not going to be ruled. The bill for being findable is on an account he has still never been told the name of. This month it has come to about a page with three wrong lines in it, and a woman at the bottom of a stair who will not thank him and will not open the book.
+He is a man who can be found, and he has been found by a person with four headings over four columns and a fifth that is not going to be ruled. What findability costs goes on an account he has still never been given the name of, and he has known that for two years and has not once asked to see it. This month it has come to about a page with three wrong lines in it, and a woman at the bottom of a stair who will not thank him and will not open the book.
 
 Nobody asked either of them one thing. Nobody at that counter is owed anything by anybody. No column has been ruled. Nothing has been written down. The pile in that building is a hand's width thinner than it should be, and the third page of it is in a shelf in another house, and two people in this matter are now in it together and neither of them can be shown the other.
 

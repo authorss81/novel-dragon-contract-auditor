@@ -10,7 +10,7 @@ It is the fourth day of the third week of the second month of the year after the
 
 He bought nothing and he said nothing, and he stood at the corner for about the length of time a person stands who has not come for anything and has decided beforehand that he is not going to leave with anything either.
 
-Tamsin Rook had her hand on the lid of the case. She is twenty-four and she has stood at that end for two years, and nobody on that floor has ever wanted a single thing out of her. Her undertaking is live and unretired and unexercised, and its date is not said out loud, and nobody in this building has ever wanted to know when it is.
+Tamsin Rook had her hand on the lid of the case, the way she has had it every working morning since she came up to that end of it two years ago. She is twenty-four. Two years is the whole of what she is, and it is all that anybody on that floor could produce, and not one of them has ever wanted a thing out of her. Her undertaking is live and unretired and unexercised, and its date is not said out loud, and nobody in this building has ever wanted to know when it is.
 
 He did not look at the boards and she did not look at the corner, and the whole of that hour went by with two people in one room not once having put their eyes on each other, and anybody standing at the far end of those two joined tables who had been paid attention for four years would have been able to tell you that neither of the two of them was pretending.
 
@@ -50,7 +50,7 @@ At the far end of the two joined tables the clerk of about twenty-nine had the p
 
 It has lain in the middle of that book every working morning for about four years, and it was in her hand, and nobody was waiting on her, and nobody asked her, and there is no form anywhere in this empire in which a person is asked whether they have read a page.
 
-She is the one person on that floor who could have said out loud what a sheet under a floor of that room was a second of. She has said one thing in that room in about four years, and it was said to another person, and she is not going to say a second one, and she did not say one this morning.
+Nobody on that floor has ever had it said out loud that a sheet under the floor of that room is a second of anything, and she is the one of them who could have said it, and in the four years she has had that end of the tables she has spoken in that room once, and the once was to somebody standing beside her. She is not going to speak a second time, and she did not speak this morning.
 
 She put the pen down in the middle of the book, where it lies, and squared the book against the table with the side of her hand, and that is the whole of what she did about it, and nobody on that floor knows that she has not been waiting for it.
 
@@ -58,6 +58,6 @@ She put the pen down in the middle of the book, where it lies, and squared the b
 
 He went down the four flights at about the sixth hour with nothing in his hands, and he did not stop on any of the landings, and nobody followed him and nobody was sent after him, and he is not going to be found, and he said so out loud in a room in this city a month ago and meant it.
 
-At the sixth hour the case went in behind the boards and the four items went back up onto the wall above it in the places they go. The room was shut. There is a sheet under the floor of it, against the back wall, that is in no case and no drawer and no hand. There is a man outside this building who does not know whether it is still there, and a woman inside it who does not know whose it was, and one of them is the only holder of it and it is not lost.
+At the sixth hour the case went in behind the boards, and the four of them were lifted up onto the wall above it, each one to its own nail. The room was shut. There is a sheet under the floor of it, against the back wall, that is in no case and no drawer and no hand. There is a man outside this building who does not know whether it is still there, and a woman inside it who does not know whose it was, and one of them is the only holder of it and it is not lost.
 
 They were in the same room for an hour and neither of them found out anything.

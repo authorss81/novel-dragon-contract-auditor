@@ -46,11 +46,11 @@ She did not write it down.
 
 That is the whole of what she did about it, and it was a decision, and there is no column anywhere in this empire for a person who has looked at a thing and not written it down. A thing that is not written down cannot be produced against anybody, and a person who has chosen not to write a thing down is a person who could be shown having chosen, and she is nineteen, and she has not said one word to anybody about it and is not going to.
 
-She went back into that room with the armful, and she did not say one word, and the book went with her, and it was shut.
+She carried the armful back into that room without saying one word, and the book went with her, and it was shut.
 
 ---
 
-About nine hundred sheets went out of that building that day, one at a time, and his mark is at the foot of every one, and about four hundred of them came down that wire with the top edge open, and not one of the people who carried any of them off that floor has the faintest idea what is printed along the top of what is now in their hand.
+About nine hundred sheets went out of that building that day, one at a time, and his mark is at the foot of every one, and somewhere near four hundred of them came off that wire with the top edge open, and not one of the people who carried any of them off that floor has the faintest idea what is printed along the top of what is now in their hand.
 
 A pot on a sill took nothing back all day that it had not taken back for nineteen years before it. A man of about sixty-one has made one decision this month that no person in that building knows about, and no person in that building can read the reason for. A woman of about nineteen saw it and left her book shut. The two of them have not said one word to each other and are not going to, and there is nothing to be thanked for in either half of it.
 

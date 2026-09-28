@@ -14,7 +14,7 @@ The man came the length of the floor at about that hour and said something that 
 
 Then there was a third man at the end of it, and none of the three of them had said one word to each other.
 
-He had come down four flights from a room he has lived in for about two years, and he had put nothing in anybody's hands, and he is not on a book anywhere in this city. There is no office, no fund, no list, no leave, no certification, no post, no commission, no warrant and no heading over his name in any building in this empire. A man with nothing against his name is the only kind of man a search in this city reliably comes back holding.
+He had come down four flights from a room he has lived in for about two years, and he had put nothing in anybody's hands, and he is not on a book anywhere in this city. The nine things that were set out against him at the other end of those boards are the nine things there still, and none of them is in his hands, and there is no heading over his name in any building in this empire. A man with nothing against his name is the only kind of man a search in this city reliably comes back holding.
 
 Marek Kest came about nine foot off the end of that floor and stopped. He did not go any nearer. He did not touch the box, and he did not look at the lid.
 
@@ -24,7 +24,7 @@ Marek Kest came about nine foot off the end of that floor and stopped. He did no
 
 "I came to stand at the end of a floor I have never stood at."
 
-"Then stand at the end of it. **And here is the thing I am going to say to the floor and not to you, and I am saying it once. Two men in a lane with nothing in it, who have both been shown to be the kind of man who keeps a thing to himself, is a worse thing than one. I have had one at my age and I am not going to pretend to you that I have not. Now there are three. One of the three is the only person in this matter that a search in this city reliably comes back holding, and he has come down four flights to stand nine foot off a box he has not opened, and I do not know what that is, and I am not going to be told.**"
+"Then stand at the end of it. **And here is the thing I am going to say to the floor and not to you, and I am saying it once. A man who keeps a thing to himself is a number I can work beside. Two of them standing in a lane with nothing else in it is a number I cannot, and it is the worse of the two, and I have had the loading end of this floor for nineteen years and I am not going to stand here and tell you I have never been one at my age. There are three of them now. The third of the three is the only person in this matter that a search in this city reliably comes back holding, and he has come down four flights to stand nine foot off a box he has not opened, and I do not know what that is, and I am not going to be told.**"
 
 ---
 
