@@ -14,7 +14,7 @@ A folded leaf has been in the inside pocket of that coat for about two years. A 
 
 He has one of those two and has never had the other. **There is no form anywhere in this empire in which a man with nothing behind him can put down a disputed claim**, and he is not going to go looking for one, and looking would be the beginning of being a person who can be found.
 
-**The space at the foot of a sheet is the exact width of a name.** A woman told him that at a counter four months ago, in the ordinary voice, and he did not buy a copy of anything that week and he is not going to buy one this week either, and there is no other counter he knows of that would sell him one.
+**The space at the foot of a sheet is the exact width of a name.** A woman told him that at a counter about six months ago, in the ordinary voice, and he did not buy a copy of anything that week and he is not going to buy one this week either, and there is no other counter he knows of that would sell him one.
 
 ---
 

@@ -46,7 +46,7 @@ He was right about the day. He was wrong about the room and he was not going to 
 
 Then he said it, and he said it to the wall above the sill and not to a man, and it was nine words and none of them was about paper.
 
-"**It will not be the only one. That is what I am saying.**"
+"**More of them. That is what I am saying.**"
 
 Then he said the other part, and this one was longer and he said it faster, and the man of about sixty-one did not turn round for either.
 

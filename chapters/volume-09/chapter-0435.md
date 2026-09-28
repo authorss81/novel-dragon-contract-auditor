@@ -18,7 +18,7 @@ He said it the way he says the thing about the cold. He has said it to a counter
 
 ---
 
-**And the clerk of about twenty-nine did not say the thing she said in that room three weeks ago about a sheet with no column, and she had it ready, and she had had it ready since about the fourth hour, and she did not say it.**
+**And the clerk of about twenty-nine did not say the thing she said in that room five weeks ago about a sheet with no column, and she had it ready, and she had had it ready since about the fourth hour, and she did not say it.**
 
 Marn Ottery at the near end of those boards turned about a foot and looked at the form and then looked at the wall behind her own shoulder.
 
@@ -40,7 +40,7 @@ Tamsin Rook was at the near end with her back to the case and both hands flat on
 
 "It has not got a column either."
 
-Nobody thanked her for it. **Marn Ottery did not take it, did not answer it, and did not look round, and the clerk of about twenty-nine at the far end of the two joined tables wrote none of it down, and that is the second of those in about seven weeks, and this empire has no form in which the one who stayed quiet can be entered as the one who stayed quiet.**
+Nobody thanked her for it. **Marn Ottery did not take it, did not answer it, and did not look round, and the clerk of about twenty-nine at the far end of the two joined tables wrote none of it down, and that is the second of those in about eleven weeks, and this empire has no form in which the one who stayed quiet can be entered as the one who stayed quiet.**
 
 "You are all going to be very quiet now," Marn Ottery said. "The two of you. There is a man standing at a counter and he is not one of us and he is not going to be in a room with a thing said in it, and there is not one blank in this building that could keep him out of it."
 

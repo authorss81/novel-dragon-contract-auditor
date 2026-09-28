@@ -16,9 +16,11 @@ She was in at twenty minutes to the fifth, which is what she has done every work
 
 Then the stair, and a man came up it at about the sixth hour and he had nothing in his hands.
 
+**It was the third time in his life he had come up those four flights and the stair has no door at the foot of it, and the stair was empty from the bottom landing to the top, and he did not knock on it, and he has never knocked on that stair.**
+
 He stood at the near end of the boards the way a man stands at the end of a counter he has no business at, for about the length of a sheet being squared, and nobody said one word to him.
 
-**She put her hand flat on the boards about a foot from his and not touching them, the way she did in the third week of the third month, and she did not say anything, and he did not say anything, and there is no form anywhere in this empire for two people to be recorded as the ones who did not say anything in a room on a Wednesday afternoon.**
+**She put her hand flat on the boards about a foot from his and not touching them, the way she did in the third week of the third month, and she did not say anything, and he did not say anything, and there is no form anywhere in this empire for two people to be recorded as the ones who did not say anything in a room on a working afternoon.**
 
 He did not buy a copy of anything. He was not served. He was not asked for anything and he asked for nothing, and he went back down four flights and there is no door at the foot of that stair and the stair has no other way up it.
 

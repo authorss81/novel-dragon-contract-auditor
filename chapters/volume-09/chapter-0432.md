@@ -30,7 +30,7 @@ He can see a man put a hand on a coat and take it off again. He has no way at al
 
 The man of about sixty-one signed the third one and the fourth one and the hand did not do anything different on either of them, and then he squared them against the edge with the side of his hand, which he does.
 
-"I heard you and I am not going to ask you what is in your pocket and you knew that when you opened your coat, and I have never asked anybody anything in this corridor in nineteen years and I am not starting on a Tuesday."
+"I heard you and I am not going to ask you what is in your pocket and you knew that when you opened your coat, and I have never asked anybody anything in this corridor in nineteen years and I am not starting this week."
 
 "You have not asked me anything in two years either and I have not been up here in a month."
 
