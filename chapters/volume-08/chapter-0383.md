@@ -1,8 +1,8 @@
 # Chapter 0383: The Counter At The Top Of Four Flights, A Thing Out Of The Drawer, And Two Women
 
-The board on that wall has four things on it and not one of them is a time, and it has not had a time on it in two years. The drawer is under the board. There are four things in it and none of them has been opened, and the drawer is not locked, and it has not been locked in eleven years.
+The counter is the one at the top of those four flights and the board on the wall behind it has four things on it and not one of them is a time, and it has not had a time on it in two years. The drawer is under the board. **There are four things in it and none of them has ever been opened, and nobody at that counter has ever offered anybody a key to it, and the drawer has not been locked in eleven years.**
 
-She is twenty-four. **Her name is Tamsin Rook, she is at that counter for the second year, and she is not a lawyer, and nobody has asked her anything in about two years.** She has gone over that more than once on slow afternoons with the woman at the other end of the same counter, and she has never been able to make it anything other than a choice that was made for her and not by her. Wanting is not owing, and owing is not asking, and there is no form in this empire for the wanting.
+She is twenty-four. **Her name is Tamsin Rook, she has stood at that counter two years, and nobody has asked her one thing in that time.** She has taken the other end of it apart more than once on a slow afternoon with the woman who works there, and what she has never been able to arrive at is whether the wanting was put into her or grew there. A person can want a thing that nobody has agreed to give her, and a thing a person wants is not a debt that anybody can be called on for.
 
 **The fourth of the four things in that drawer has a date at the top of it and nobody at that counter has said that date out loud in two years.** The date is the fourth of the first month. It is live, and it has never been retired, and it has never been exercised, and the two of them at those two ends of that counter have between them never once said it to each other, least of all this week.
 

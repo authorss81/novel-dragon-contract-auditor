@@ -1,8 +1,8 @@
 # Chapter 0385: A Sheet Down Four Hundred Yards Of Cold Flags And A Woman Who Sends It Back
 
-About four hundred yards of cold flags run out of the back of that building off a flood terrace, and the cold comes up off the stone whatever the season is, and no fire is lit at either end of them. There is a lock at this end of the passage. At the other end there is a room with a rail in it standing about four feet off the floor, and there is nothing on that rail, and nobody has ever put the passage's work through that room.
+Four hundred yards of cold flags run out of the back of that building, the same four hundred as last week and the week before, and the cold comes up off the stone whatever the season is, and no fire is lit at either end of them. There is a lock at this end. The rail is four hundred yards off at the other one and there is nothing on it and nothing has ever been on it. Everything else about that passage is the same as it was the week before that, and it will be the same as it was the week after, and she has two years of knowing that to go on.
 
-She is twenty-six and four years of that building are behind her and she has never been one of the three clerks in it. **Nobody has ever asked her anything: in four years she has not been sent for, has not been handed a sheet, has not been thanked, and has never once put a hand on a rack.** She keeps a count in her head of how many people are sitting inside a thing nobody can be asked about. **There is no form for a figure nobody can be made to give up**, and there has not been one in four years, and the count is not written down anywhere: not on a rack, not on a sheet, and not going to be handed to anybody this month or in any month after it.
+She is twenty-six and four years of that building are behind her and she has never been one of the three clerks in it. **Nobody has ever asked her anything: in four years she has not been sent for, has not been handed a sheet, has not been thanked, and has never once put a hand on a rack.** She keeps the count of how many people are sitting inside a thing nobody can be asked about, and that count is the only figure she has got that belongs to nobody else, and it has gone up again since the turn of the year. **There is no form for a figure nobody can be made to give up**, and there has not been one in four years, and the count is not written down anywhere: not on a rack, not on a sheet, and not going to be handed to anybody this month or in any month after it.
 
 The man in the felt apron has had that end of the passage for longer than she has stood at it. He brings one sheet back on a rack at about the fourth hour and the number on the rack has been one for as long as either of them has been here.
 
@@ -24,7 +24,7 @@ She handed it back without a mark on it.
 
 "I can see that you have not written in it. I am talking about the other thing." He turned the sheet over and back again. "**A number under a heading is a number that belongs to whoever printed the heading.** That is not a threat and it is not a rule, it is how a piece of paper works. The heading is on it before you ever see the space, and the space is ruled to the heading and not to you, and whoever comes back for that space in six months is going to come back with the heading in their hand and not with any interest in what you thought the figure was."
 
-"Suppose I did not know what the number was."
+"It would not help if I did not know what the number was."
 
 "Then you write a dash in it and the dash is a figure as well, and a dash in a ruled space under a heading is a figure that is wrong, and wrong is a thing a person can be asked about afterwards by somebody who has never met you." He put the sheet under his arm. "**And you have been the only person at this end of these flags that could be made to give one up, and I have watched the racks go up and down four hundred yards for four years and there has not been one other at this end that anybody could have asked a number off.**"
 
@@ -34,7 +34,7 @@ She handed it back without a mark on it.
 
 "**There is no form for a heading with a number under it**, and that is not because nobody decided there should not be one." He shifted the rack off his hip. "I have never once wanted you to tell me anything. I have wanted you to write in about four spaces a week for two years and you have not and I have not asked, and that is the whole of what has happened between us at this end of this passage. What I do not want is for you to be the one who filled in the first one. That is all. It is not about the number. It is about who is standing at the top of it when it comes back."
 
-"Would that be different, if it were you."
+"It would be a different thing if it were you that filled one in."
 
 "It would be me, and I have not got a room to be served in, and I would be a man at a lock who filled in a space with a heading he did not print." He went to the top end of the flags. "It is a different thing. That is all it is."
 
@@ -42,7 +42,7 @@ She handed it back without a mark on it.
 
 It is the second day of the first week of the tenth month of the year after the year after the year after the year after next, and it is the second hour, and the cold at the one end of those flags had not gone up or down by a degree since the turn of the year.
 
-She said the other part of it out loud, once, to the passage, because a passage is the only thing in that building that cannot be served with anything. "**There is a room at the far end of these flags with a rail in it and nothing on it, and a man of thirty-eight has been in this building and has not been in that room, and those two things are not going anywhere together, and I am not going to be the one who walks them down there and joins them up.**"
+She said the other part of it out loud, once, with her back to the wall at this end of them, and a passage is the one thing in that building that cannot be served with anything, which is why a passage is where a person says a thing like that. "**There is a room at the far end of these flags with a rail in it and nothing on it, and a man of thirty-eight has been in this building and has not been in that room, and those two things are not going anywhere together, and I am not going to be the one who walks them down there and joins them up.**"
 
 The man in the felt apron did not answer that and did not carry it up the flags to repeat it, and a rack went down and came back and the number on it was one.
 

@@ -34,13 +34,13 @@ Halla Wray put her hand flat on the end of the bench and left it there.
 
 **The man of about fifty-five with the chain came down off his own end of the front bench and put his hand flat on the form.** He said his four sentences, and they took him as long as turning a hand over, and they were about the weight of a chain, and nobody in that shed stopped him or told him to take his hand off.
 
-"There is a thing on this paper," he said. "It is not a figure and it is not a name and I cannot read what is on it, and the four of them behind me cannot either, and that is not the part I am saying. This is the weight of a folded sheet of paper, and I have had a heavier thing round my neck since I was a young man. A man can keep his hand on a thing like this from the first hour to the seventh and nobody in this building would know that he had."
+"There is a thing on this paper," he said. "It is not a figure and it is not a name, and I have never once worked out what it is for, and the four of them behind me could not tell you either, and that is not the part I am saying. This is the weight of a folded sheet of paper, and I have had a heavier thing round my neck since I was a young man. A man can keep his hand on a thing like this from the first hour to the seventh and nobody in this building would know that he had."
 
 Nobody in that shed answered him and he has never once wanted an answer, and he did not take his hand off the form.
 
 About four men in that shed cannot make a paragraph out of anything, and not one question about a number has ever been put to any of them. The man at the front read the form out loud in the ordinary way with the chain man's hand still lying on it, and he read it at the speed he reads everything, and nobody at the front of that bench noticed anything about the four sentences at all, and that was the week.
 
-Four hundred yards up the same lane there is a room where a man of thirty-eight keeps the books of that Company, and since the third month of the year after he has wanted the rest of a sentence of hers, and she gave him half of one in a doorway in a month that is gone. The half she did not give him did not arrive in this week either, and nobody has sent for it.
+Four hundred yards up the same lane a man of thirty-eight keeps the books of that Company, and since the third month of the year after he has wanted the other half of a sentence of hers that she gave him in a doorway and then stopped halfway through. It did not come in this week. Nobody has sent anybody for it.
 
 ---
 

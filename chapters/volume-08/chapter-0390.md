@@ -12,7 +12,7 @@ It is the second day of the second week of the eleventh month of the year after 
 
 She knocked once and then she opened the door, which meant she had the key to the building and not to that room and had been let up by whoever was on the ground floor that evening.
 
-**A person who is not asked has not been given a duty, and the clerk of about fifty-five has known that since about the seventh month of next year**, and she had said it out loud in her own room three times that month, and she came about four miles to say one more thing and did not say that one in her own room at all.
+**A person who is not asked has not been given a duty, and the clerk of about fifty-five has known that since about the seventh month of next year**, and she had said it out loud in her own room three times that month, and she came the whole way to say one more thing and did not say that one in her own room at all.
 
 "You have not put the lamp in the middle," she said.
 
@@ -34,7 +34,7 @@ The lamp buzzed. He did not ask her to say it again and he did not ask her anyth
 
 "You have read that page."
 
-"I have had that line in front of me in a book of minutes when it went through, in about four of the five, and I have written the line above it four thousand times and I have never once written the line below it, and I have had the striking in my eye for about two years and I have not said it out loud in that room because being not asked has never once been a duty I was handed."
+"I have had that line in front of me in a book of minutes when it went through, in more than one of the books on that shelf, and I have written the line above it four thousand times and I have never once written the line below it, and I have had the striking in my eye for about two years and I have not said it out loud in that room because being not asked has never once been a duty I was handed."
 
 ---
 

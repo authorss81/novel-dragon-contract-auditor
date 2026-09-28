@@ -2,7 +2,7 @@
 
 The house lets about four rooms by the week and all four are let this week, which is the best week the shelf has had in a long while. There is a counter at the bottom of the stair and a shelf behind it and the day-book stands on that shelf with its spine flush to the front edge.
 
-She is about thirty-five and she has kept that book about nine years in her own hand. **There is a heading over every column in it — room, and week, and name, and what was paid — and there has never been a fifth column, and she has never once ruled one.** She came about nine miles herself two years ago, and stood on the step, and was not let in, and heard the whole of it from behind the counter, and has written none of it down and has not been asked about it and is not going to be.
+She is about thirty-five and she has kept that book about nine years in her own hand. **There is a heading over every column in it — room, and week, and name, and what was paid — and there has never been a fifth column, and she has never once ruled one.** Two years ago a woman came nine miles to that step and stood on it and was not let in, and this woman heard the whole of it from behind this counter, and she has not written one word of it down anywhere, and nobody has asked her about it, and nobody is going to.
 
 The girl of twenty-two is in the back room for her second season and pays by the week like the other three.
 

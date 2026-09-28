@@ -4,7 +4,7 @@
 
 He is about sixty-one, and the second hand on a sheet has been his work since the year he was forty-two. **He cannot read a paragraph and has never once pretended to.** A figure comes through his hands, and a name at the top of a sheet comes through, and enough of the small print that holds one to the other comes through for him to know they are both there. After that the sheet stops being words and becomes a weight, and the weight is in his hands, and his hands are what a sheet is for. His hand goes at the foot of about nine hundred of them a year.
 
-**He has wanted about four minutes for about nineteen years.** Four minutes is what it would take to go through the ones he can remember and put no to about half and yes to the rest, and there is nobody in that building who can be given four minutes, and there is nobody on that road who can be given them either.
+**He has wanted about four minutes for about nineteen years.** Four minutes is what it would take to go through the ones he can remember and put no to about half and yes to the rest. There is nobody in that building he could say that to, there has not been a person on that road in nineteen years who thought of offering them, and there is no form anywhere for a person to put four minutes on a table and be the person who put them there.
 
 ---
 
@@ -26,7 +26,7 @@ It was the fourth of the four, and he knew it the way a man knows his own hearth
 
 The young man took it back off the sill and looked at the clock at the end of the corridor, and he said it out loud, in the corridor, at a man who had said nothing.
 
-"I am paid for a corner. That is the whole of what I am paid for and I have never once been paid for a page, and if I say a word about what is on a page to a man whose hand goes at the foot of nine hundred a year then I am a man who has had a page, and there is no form for a page and I do not want one." He put the sheet flat on the sill again. "**And there is no form for a sheet in a basket that does not come back up.** You had the pen out for four seconds just then. I timed it, because there is a clock at the end of this corridor. Four seconds, and I have carried sheets for three years, and in three years a man at the foot of a sheet has had the pen out for four seconds a small number of times, and he has not signed one of them, and I have carried the basket down that corridor on every one of them, and I have never once seen an asking happen."
+"I am paid for a corner. That is the whole of what I am paid for and I have never once been paid for a page, and if I say a word about what is on a page to a man whose hand goes at the foot of nine hundred a year then I am a man who has had a page, and there is no form for a page and I do not want one." He put the sheet flat on the sill again. "**And there is no form for a basket that does not come back up.** You had the pen out for four seconds just then. I timed it, because there is a clock at the end of this corridor. Four seconds, and I have carried sheets for two years, and in two years a man at the foot of a sheet has had the pen out for four seconds a small number of times, and he has not signed one of them, and I have carried the basket down that corridor on every one of them, and I have never once seen an asking happen."
 
 The man of about sixty-one put the pen back in the pot. He did it the way a man does a thing he has done ten thousand times, which is without looking.
 
@@ -36,8 +36,8 @@ The man of about sixty-one put the pen back in the pot. He did it the way a man 
 
 "You want to tell me it was wrong."
 
-"I have never told anybody that I know which ones are wrong." He said it to the floor, and then he lifted his head, because he had heard himself say it in a corridor with a man of twenty-six in it. "**That is the first time in nineteen years I have said that out loud to another person, and I have said it to a man who is paid by the corner and who will be gone in a year.** And it is not the four minutes, and saying it here does not turn into the four minutes, and there is no form in this empire for four minutes, and there is not one for a thing said in a corridor either."
+"I have never told anybody that I know which ones are wrong." He said it to the floor, and then he lifted his head, because he had heard himself say it in a corridor with a man of twenty-six in it. "**I have said one at a time, more than once in nineteen years, and I have never once said that there was a way of telling, and this is a man who is paid by the corner and who will be gone in a year.** And it is not the four minutes, and saying it here does not turn into the four minutes, and there is no form in this empire for four minutes, and there is not one for a thing said in a corridor either."
 
 ---
 
-At the seventh hour the young man came back up the corridor for the three sheets that were on the sill, signed for them off the rail, put them in the basket and took the basket down, and the hook was empty inside a minute. The pen went back into the pot on the sill and has not been out of it since the fourth hour of the second day. The basket does not come back up.
+At the seventh hour the young man came back up the corridor for the three sheets that were on the sill, signed for them off the rail, put them in the basket and took the basket down, and the hook was empty inside a minute. The pen went back into the pot on the sill and has not been out of it since the fourth hour. The basket does not come back up.

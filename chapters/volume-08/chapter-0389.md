@@ -24,7 +24,7 @@ The woman of about thirty-five who lives in the next house stood on his step in 
 
 "I have knocked twice in eleven years on that door," she said, "and the other time was a stove that went out. I am not going to stand here and pretend that this is a stove."
 
-"What is it then."
+"I know what it is and you know I know, and that is the whole of why you have knocked."
 
 "It is a piece of paper on your hall floor and you have not picked it up in three hours, and I have not been able to get on with a thing at my own table." She put her hand down. "**No form for a form left where a person can find it.** That is not in the next house and it is not in this one and it is not in this lane, and I have found that out from standing on this step in the rain three times over the last month. A form left in a hall is a form somebody will come back for. They do not come back for the figure. They come back for the paper, and they look at the paper, and whatever is or is not on the paper is a fact about you by then, and you filled it in or you did not, and either way it is your fact and it is on a sheet with a heading over it."
 
@@ -40,10 +40,10 @@ He did not tell her where he had been, and she did not ask, and neither of them 
 
 "Twice in eleven years, and the other one was nine years ago, and it was a stove and I did not come in." She turned about on the step. "I am not doing that again, and I am not doing it every week, and I would like it understood that this is a thing I have done once and am not going to be a person who does it twice. And I am not going to be thanked for it, and I would rather you did not open your mouth about it, because a thank you is a debt and I have not come here to be owed one."
 
-He shut the door. He did not open it again that week, and the piece of paper stayed on the hall floor of that house until the middle of the week after, and then it was gone, and nobody in that lane knows who took it or where it went.
+He shut the door and did not open it again that week, and the piece of paper stayed on the hall floor of that house where it had come through the slot.
 
 ---
 
 It is the second day of the first week of the eleventh month of the year after the year after the year after the year after next, and it is the third hour, and the weather is coming off the eaves of both those doors.
 
-He shut it, put his shoes away and his coat on the hook, and went down the lane at the fourth hour with his hands empty. Four months from now a person who has never been to that lane and does not know either of them will turn a sheet over, and the space on it will be empty, and the heading will not say whose it was.
+He put his shoes away and his coat on the hook and went down the lane at the fourth hour with his hands empty. The paper was still on that floor on the second day and it was gone by the middle of the week after, and nobody in that lane knows who took it or where it went. Four months from now somebody turns that sheet over at a desk. The space under the heading is blank, the heading does not say whose it was, and the man who could have written in it will be at a different counter that day.
