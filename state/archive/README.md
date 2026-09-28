@@ -113,3 +113,25 @@
 **The six rolling files are 332,481 bytes as they stand, measured with `wc -c` over the six and summed: `current.md` 24,713, `continuity.md` 65,040, `character-state.md` 55,163, `batch-summary.md` 91,493, `chapter-summaries.md` 53,847, `open-threads.md` 42,225, the last of which carries items 123 and 124 and is therefore larger than it was at the instant the move was verified. **The two figures this enforcement took and both are named and neither is deleted: 1,464,936 before the move and 321,350 immediately after it, a fall of 1,143,586 or 78.1 per cent, and 332,481 after items 123 and 124 were added, which is the figure that is current and which is 77.3 per cent below the 1,464,936.** The figure to inherit is none of them: every later state edit moves the total, so it is re-measured with `wc -c` over the six and is not inherited, which is the eighth time this directory has said that sentence and the first time it has been said about a figure that had grown without an upper bound for four volumes.** Both checks were run and both passed: every moved block was found byte-identical in the archive file it went to, and every kept block was found surviving in order in the file it was kept in.
 
 **What this pass did not move, and the reasons are the same ten enforcements' reasons.** The standing canon, the contract rules, the ending lock and the open repair items stayed in `state/continuity.md`, because they are live debts. The Volume 10 roster stayed in `state/character-state.md`, because it is the working surface for the open volume and because this project has spent a volume preventing two people it keeps apart from being merged. The live ledger and the four debts stayed in `state/open-threads.md`, for the reason item 123 gives. Volume 10's Batch 0002 and Batch 0003 records stayed in all five files, because they are the two previous batches. **And no chapter was opened, no date moved, no event changed and no figure on the page was touched, which is the test a compaction of this kind should be held to and the only one that matters here.**
+
+---
+
+## The eleventh compaction of the rolling files, on the review repair of `workspace/volume-10/batch-0004`, and the table measured fresh at it
+
+**`state/archive/rolling-volume-10-batch-0003.md` was created here and holds the Batch 0003 blocks lifted whole out of the live rolling files, verbatim and unedited, each under a provenance heading naming its source file and its character span as read at the moment of the move.** Nothing in it was summarised, condensed or paraphrased, and every figure inside a moved block stands as the run that wrote it measured it at the time and is not inherited.
+
+*Why Batch 0003 and not Batch 0002.* The bound is that a rolling file holds the open volume, the two previous batches and the standing locks. Batch 0002 was already gone, moved by the previous enforcement into `state/archive/rolling-volume-10-batch-0002.md`. **The phase that wrote Batch 0004 grew the six rolling files from 332,481 bytes to 430,433 before it compacted them, and it did that by writing a full per-batch record into every one of the six, which is the failure the bound exists to stop and which the phase's own prompt names.** The batch is 14,904 words and the addition was 97,952 bytes, and a record the size of the thing it records is a record nobody can open. **What survived the move and why: the four debts, the standing canon, the protagonist-floor method, the calendar standing and the class of the re-print instrument, all of which are restated in Batch 0004's own blocks, because an open repair item is a live debt and a live debt belongs in the rolling layer.**
+
+*The table, measured by `wc -c` one file at a time at the moment of the enforcement, and printed because a reader holding one of these files needs to know which object each figure is about:*
+
+| file | bytes |
+|---|---|
+| `state/batch-summary.md` | 75,192 |
+| `state/chapter-summaries.md` | 39,169 |
+| `state/character-state.md` | 70,360 |
+| `state/continuity.md` | 66,992 |
+| `state/current.md` | 24,221 |
+| `state/open-threads.md` | 50,244 |
+| **the six, summed** | **326,178** |
+
+**326,178 against 332,481 before this enforcement: the six are smaller than they were, and the batch they describe is 14,904 words.** The blind spot beside the number is the standing one and this is its third demonstration: a byte count cannot see whether the bytes are the same bytes, and the live files still carry a hedge series and a sentence mean that the next phase should re-derive from the chapters rather than read out of a state file.
