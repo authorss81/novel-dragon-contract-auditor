@@ -2,7 +2,7 @@
 
 She put the coin down before she opened her mouth, which is not the order most of them do it in, and the boards at the top of four flights were up and the case was standing out from behind the near end of them with its lid up on its edge.
 
-**Marek Kest was at the other end of those boards with his hands at his sides and nothing in either of them.** He is thirty-eight. He holds nothing: no office, no fund, no list, no leave, no certification, no post, no commission, no warrant, and no heading over his name in any building in this empire. He is not at a stage and he is not going to arrive at one. He has refused the reading and he does not exercise the thing he is able to do, and nobody on that floor is going to get the reason for that out of him again this month, and nobody at that counter is going to ask him for it.
+**Marek Kest was at the other end of those boards with his hands at his sides and nothing in either of them.** He is thirty-eight. He holds nothing: no office, no fund, no list, no leave, no certification, no post, no commission, no warrant, and no heading over his name in any building in this empire. He has never once stood at a stage and nothing on that floor is going to put him on one. He turned the reading down when it was put in front of him and he keeps his hands off the one thing he can do, and the reason for that came out of his mouth once and has not come back since, and nobody at that counter is going to ask him for it this month.
 
 It is the second day of the first week of the eighth month of the year after the year after the year after the year after the year after the year after next, and it is the fourth hour.
 
@@ -46,7 +46,7 @@ The three of them could not have said in words what that woman was. She was a cu
 
 ---
 
-He went down the four flights at about the fifth hour with the two things in that coat where they had been at the fourth hour, and nobody counted them, because there is no line anywhere in this empire for the person who counts what another person is carrying.
+He went down the four flights at about the fifth hour with the two things in that coat where they had been at the fourth hour, and there was nobody in that building with a reason to count what a man was carrying, and there is no line anywhere in this empire for the person who does it.
 
 The woman next door was about four hundred yards ahead of him by then and going the other way. She did not turn round and he did not go after her. The woman who stands at the foot of the four steps in that lane and the woman who lives beside him are two women about four feet of wet apart and neither of them has ever said a word to the other about the man who lives between them, and they did not begin it in a week when one of them came down a stair with a second of a thing in her coat.
 

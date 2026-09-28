@@ -1,4 +1,4 @@
-# Chapter 0472: Eleven Words On A Shipping Floor, A Man Who Went Up The Four Flights Himself, And A Box Still At The End Of It
+# Chapter 0472: Ten Words On A Shipping Floor, A Man Who Went Up The Four Flights Himself, And A Box Still At The End Of It
 
 He had stopped going to the end of that floor and he had not told anybody he had stopped, and it had been about a month, and this morning was the first working day since that he had had a reason to.
 

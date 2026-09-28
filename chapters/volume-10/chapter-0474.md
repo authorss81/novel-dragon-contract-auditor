@@ -2,7 +2,7 @@
 
 He came up the four flights at about the fourth hour and put nothing on the boards and stood at the end of them for about an hour, and the coat stayed on and the two things in the inside pocket of it stayed where they have been, and nobody at that counter looked at him any differently from the way they look at a man with an empty pair of hands.
 
-**Marek Kest. Thirty-eight, holding nothing, and he is not at a stage and he is not going to arrive at one.** He has refused the reading and he does not exercise the thing he is able to do, and the reason he gave for it out loud was given once, in about nine words, and nothing on that floor is going to get it out of him a second time this month. Every morning he has come up that stair he has left the boards empty-handed, and he has never told one person in this city that he is carrying two things, and he did not tell anybody this morning and he is not going to this month.
+**Marek Kest. Thirty-eight, holding nothing, and no stage in this empire has ever had him standing on it.** He put the reading down when it was offered and he keeps his hands off the one thing he is able to do, and about nine words came out of him once about why, and that is the whole of what there is on the subject. Every morning he has come up that stair he has left the boards empty-handed, and he has never told one person in this city that he is carrying two things, and he did not tell anybody this morning and he is not going to this month.
 
 It is the fourth day of the fourth week of the eighth month of the year after the year after the year after the year after the year after the year after next, and it is the fifth hour.
 

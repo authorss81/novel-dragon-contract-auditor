@@ -4,7 +4,7 @@ The lock end of that run has been hers since the fourth hour and it is the same 
 
 **She is about twenty-six and she has been at this end four years and she is not one of the clerks in that building and has never been one of them, and nobody in it has wanted a single thing out of her in any of that time, and no sheet has ever been put into her hands to take this stone with, and that building has never yet thanked her for it.** Four hundred yards from where she stands there is a shut room that belongs to somebody else, and nobody has been down there this week, and nothing has been set down in that room since before the year she came.
 
-A figure has been in her head since the spring of her fourth year at that lock. It is written down nowhere at all, it is never going to be written down, it has gone up already, and it will not get a caption over it, and there is no room in this empire in which a person could set one.
+A figure has been in her head since the spring of her fourth year at that lock. No piece of paper in this empire has it on it and none ever will, it has already gone up, and nobody in that building is in a position to set a heading over it, and there is no room in this empire in which a person could set one.
 
 It is the second day of the second week of the ninth month of the year after the year after the year after the year after the year after the year after next, and it is the fourth hour.
 
@@ -40,12 +40,12 @@ He did not come down the stone for it.
 
 He got the rack up off his hip and stood with it and looked at her for about as long as a rack takes to be lifted.
 
-"**You did not do it for me and neither of us is getting thanked for it, and there is nobody at either end of that run who is going to hear one word of it this week.**"
+"**You did not do it for me and neither of us is getting thanked for it, and that run goes four hundred yards in each direction and there is not one pair of ears at either of its two ends that is going to get a word of it out of this week.**"
 
 ---
 
 Nothing came down that run of stone in that week and nothing went up it either.
 
-**Nothing arriving in a week is not the same thing as a thing being held back, and those two sit close enough together that a person standing at a lock can lose a month in the space between them, and she lost one in the spring.** The figure stayed where it is. It is on no paper, it did not go on any this week, it did not get a caption, and it did not go up the four hundred yards to anybody, and the room at the far end of that run was shut and had nothing stood in it and was not opened.
+**Nothing arriving in a week is not the same thing as a thing being held back, and those two sit close enough together that a person standing at a lock can lose a month in the space between them, and she lost one in the spring.** The figure is where it was at the fourth hour. Nothing in that building carries it, nothing went onto anything this week, no heading was set over it, and it never went the length of that run to anybody at the far end of it, and the room at the far end of that run was shut and had nothing stood in it and was not opened.
 
-He went up that stone four more times and down it four more times, and the eight of them carried nothing at all, and she was still at the lock at the seventh hour. Nobody thanked anybody and nobody was asked anything. The four hundred yards of that run went on being four hundred yards of it, with a shut room at the far end, no rule on any of it, and a figure in a woman's head at the near end of it that nobody in that building has ever been given.
+He made that stone eight more passes before the light went, four each way, and every one of them went by with the rack empty, and she was still at the lock at the seventh hour. Nobody thanked anybody and nobody was asked anything. The four hundred yards of that run went on being four hundred yards of it, with a shut room at the far end, no rule on any of it, and a figure in a woman's head at the near end of it that nobody in that building has ever been given.

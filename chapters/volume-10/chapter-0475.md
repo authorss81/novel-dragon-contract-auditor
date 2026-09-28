@@ -4,7 +4,7 @@ Nothing that happened at the end of that lane this week happened in a lit room. 
 
 **Halla Wray. Fifty-one. A foreman, standing inside a box that a class put her in, and nobody in that lane has ever tried to have the form behind that class set aside, and there is nowhere to stand and try.** The form that is on the board by the door has not been filled in since before she came to that bench and it is not going to be filled in this week, and it has one job and the job is to go on existing.
 
-The two of seventeen are at the back of that shed where they have been all week. **Nobody in that shed put an offer to her this week and nobody put a condition to her, and that is the whole of what happened to her, and the not being offered anything is not the same thing as being asked and nobody in that lane has ever found a way to tell the difference in writing.** The reader of seventeen turned a page at about the fourth hour and put his hand flat on the open one and nobody said one word to him, and nobody has said one word to him in a long time, and nobody is going to start this month.
+The two of seventeen are at the back of that shed where they have been all week. **Nobody in that shed put an offer to her this week and nobody put a condition to her, and that is the whole of what happened to her, and the not being offered anything is not the same thing as being asked and nobody in that lane has ever found a way to tell the difference in writing.** The reader of seventeen turned a page at about the fourth hour and put his hand flat on the open one, and the shed said nothing to him at all, and it has gone on saying nothing to him for a long time now, and it is not going to start this month.
 
 It is the second day of the first week of the ninth month of the year after the year after the year after the year after the year after the year after next, and it is the fourth hour, and the lamp is not lit.
 
@@ -18,7 +18,7 @@ He said it to the floor and not to her and he did not look up while he said it.
 
 ---
 
-She put the form back on the board at the angle it goes on at and squared the bottom of it with the side of her hand, and her hand was not steady and she did not try to make it steady.
+She put the form back on the board at the angle it goes on at and pushed its bottom edge true with the edge of her palm, and the palm was not steady and she did not trouble to make it steady.
 
 "That is the second time anybody in that shed has handed me the whole of the answer and the first time it was me handing it over." She went the length of the floor and put her back to the front bench. "**You have it the wrong way round and you have had it the wrong way round since about the fourth hour and it took you nine years on that bench to be wrong in a new direction. A class is entered by a form. A copy is not a form, and there is no space on a copy for a hand, and a second of anything I stand in is not a second entrance into the class, it is a piece of paper that says a thing which was never entered anywhere and cannot be entered anywhere and never will be.**"
 

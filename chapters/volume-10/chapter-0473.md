@@ -2,7 +2,7 @@
 
 She was in the room at twenty minutes to the fifth and the boards were not up yet and the case was still behind them, and that is the twenty minutes, and it has been the twenty minutes every working morning for two years, and nothing that has happened on that floor since has turned it into a decision.
 
-**Tamsin Rook. Twenty-four. At the fourth counter, two years, and not a lawyer.** Nobody on that floor has ever wanted one single thing out of her, and there is nowhere in this empire to put down a thing anybody wanted out of a person, and that is the whole of what the twenty minutes are and it is not going to be entered anywhere. What she made two years ago is live and unretired and has never once been used, and it has not been given up either, and its date is not spoken out loud on that floor and was not spoken out loud in any mouth this week.
+**Tamsin Rook. Twenty-four, at the fourth counter two years, and no more than that.** Nobody working on that floor has ever wanted one single thing out of her, and there is nowhere in this empire to put down a thing anybody wanted out of a person, and that is the whole of what the twenty minutes are and it is not going to be entered anywhere. What she made two years ago has never once been used and has never once been handed in, and it is not dead and it is not spent, and its date is not spoken out loud on that floor and was not spoken out loud in any mouth this week.
 
 It is the fourth day of the third week of the eighth month of the year after the year after the year after the year after the year after the year after next, and it is the fourth hour and forty minutes.
 
@@ -16,7 +16,7 @@ He went to the end of the boards and stood where he stands. He put nothing on th
 
 ---
 
-At about twenty past the fifth the clerk of about twenty-nine turned her head as far as it goes, which is not far, and said one thing, and there is only going to be one this month and it had been a month since she said anything at all.
+At about twenty past the fifth the clerk of about twenty-nine turned her head the amount of turning that head does, which is not a lot, and put one thing into the room, and there is only going to be one this month and it had been a month since she said anything at all.
 
 "**A sheet that has been bought twice by two people is the only object in this empire that is not a party to anything and is not a record of anything, and there is no heading anywhere over it, and it cannot be entered and it cannot be produced.**"
 
