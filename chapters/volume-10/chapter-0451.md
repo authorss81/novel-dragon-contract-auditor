@@ -1,12 +1,12 @@
 # Chapter 0451: Four Things Along The Top Of A Blank, A Knife In A Drawer, And About Four Seconds
 
-The boards came down at the second hour, and the case came out from behind the near end of them and stood on the counter with its lid up. About four hundred of those go out of that room in a year, in the hand of somebody who is not doing anything anybody asked for.
+The boards came down at the second hour and the case came up out from behind the near end of them and stood on the counter with its lid up, and about four hundred of the things inside it go out of that room in a week in the hand of somebody who is not doing anything anybody asked them to do.
 
-There is a stair at the back of the room with no door at the foot of it, and a board is on the wall at the top of that stair with four items on it and not one of them is a time, and a hundred feet or so of floor run between the near end of the boards and the top step. A drawer under that board has been shut for eleven years, and there are four things in it and two of those have never once been opened. Under the far end of the boards, out of sight of the door, there is about four hundred bought and unfilled blanks in a box.
+The stair at the back of that room has no door at the foot of it, and there is a hundred feet or so of floor between the near end of the boards and the top step, and a board is on the wall at the top of that stair with four items on it and not one of them a time. **A drawer under that board has been shut for eleven years and there are four things in it and two of those have never once been opened.** Under the far end of the boards, out of sight of the door, there is a box holding about four hundred blanks that were bought in a quantity and never filled in by anybody.
 
 **The box is not the supply. The case on the counter is the supply, and not one of the three people on that floor has ever been told where the case is filled.**
 
-**Marn Ottery has the other end of those boards. She is thirty-four, she is not a lawyer, and she has been at them for eleven years, and she is the oldest of the three of them and the only one who has never left that floor.** The other two are a woman of about twenty-nine at the far end of two joined tables and a man who comes in on the second of the two days and is not a lawyer either.
+**Marn Ottery has the other end of those boards. She is thirty-four, she is not a lawyer, and she has been at them for eleven years, and she is the oldest of the three of them and the only one who has never left that floor.** Across the room from her, at the far end of two tables that have been pushed together, a woman of about twenty-nine keeps a book open with a pen lying in the middle of it, and on the second of the two days there is a man in as well who is not a lawyer and has never said he is.
 
 It is the second day of the first week of the third month of the year after the year after the year after the year after the year after the year after next, and it is the second hour, and the hours at that counter are the second to the sixth.
 
@@ -14,7 +14,7 @@ It is the second day of the first week of the third month of the year after the 
 
 She took one out of the case and turned it over in her hand, and there was nothing to unfold.
 
-**There is a printed strip along the top of every blank that counter has ever sold. The strip is the same strip. The four things printed along the top of it are the same four things, and they are on every one of the about four hundred that go out of that case in a year, and no week in this matter has ever produced one of them coming back with a fifth thing on it.**
+**There is a printed strip along the top of every blank that counter has ever sold. The strip is the same strip. The four things printed along the top of it are the same four things, and they are on every one of the about four hundred that go out of that case in a week, and no week in this matter has ever produced one of them coming back with a fifth thing on it.**
 
 "There is a knife in that drawer," Marn Ottery said, to the boards.
 
@@ -48,11 +48,11 @@ She had put them there three times in eleven years, two of the three had been fo
 
 ---
 
-A man from the yard was on the stairs at half past the second with a strap across him and a satchel hanging off it. He has been going up and down those four flights longer than anybody at that counter has been standing at them.
+A man from the yard was on the stairs at half past the second, a strap across him and a satchel off it, and he has been up and down that stair since before the woman at the far end of the boards came to it.
 
 He put the satchel down on the wood, took a folded thing out of it, set that down as well, and stood there while Marn Ottery wrote the word and the number at the top of it in the ordinary way and put them on that and on nothing else.
 
-A courier is a person who carries a thing and is not the person the thing is about and did not make it. **He could have been told what any of it was for and there is nowhere on that floor to tell him.** He has not asked her one thing in eleven years, he was not told about the knife, and he was not told about the four things printed along the top of a blank. He went down those four flights with nothing in his hands, and there is no form anywhere in this empire in which a man is entered as the one who carried a thing up a stair and was not told what it was.
+A courier is nobody's man in a matter like this one. **He could have been told what was on that folded thing and there is no place on that floor where a person tells a courier anything, and that is the whole of the trade and it is why the trade has lasted as long as the stair.** He has not asked her one thing in eleven years, he was not told about the knife, and he was not told what the four things along the top of a blank are. He went down those four flights with the satchel on his shoulder and nothing in his hands, and there is no form anywhere in this empire in which a man is entered as the one who carried a thing up a stair and was not told what it was.
 
 ---
 
@@ -64,11 +64,11 @@ He bought nothing and he said nothing, Marn Ottery did not tell him what she had
 
 ---
 
-Tamsin Rook was at the near end with the case behind her, and she had been in twenty minutes before the hour, and the twenty minutes are the twenty minutes and they are not a decision and have not been a decision for two years.
+Tamsin Rook was at the near end with the case behind her, and she had been in twenty minutes before the hour, and nobody on that floor has ever put the twenty minutes on anything, and there is no form in this empire that would take them.
 
-**She is twenty-four, and nobody on that floor has ever put a question to her in the whole of the two years she has stood at that counter, and her undertaking is live and unretired and unused, and the day and the month of it are not said out loud on that floor and are not said out loud anywhere anybody can be shown.**
+**She is twenty-four, and nobody on that floor has ever put a question to her in the whole of the two years she has stood at that counter. She made an undertaking two years ago and has not brought it into use on a single day since, and it has not been retired either, and the day and the month of it are not said out loud on that floor and are not said out loud anywhere anybody can be shown.**
 
-She did the eleven things in the order she does them. At about the third hour she took a blank out of the case and set it on the boards in front of a woman of about thirty-five, who folded it and put it inside her coat and went down. Nobody said anything to that woman, the woman said nothing to anybody, then a young man of about nineteen did the same, and then a man of about fifty did the same. That is the ordinary morning of that counter, and it has been the ordinary morning of that counter for as long as anybody standing at it can remember.
+She did the eleven things in the order she does them. At about the third hour she took a blank out of the case and set it on the boards in front of a woman of about thirty-five, who folded it and put it inside her coat and went down. Nobody said anything to that woman, the woman said nothing to anybody, then a young man of about nineteen did the same, and then a man of about fifty did the same. That is an ordinary morning at that counter, and it has been an ordinary morning there for as long as anybody standing at it can remember.
 
 ---
 

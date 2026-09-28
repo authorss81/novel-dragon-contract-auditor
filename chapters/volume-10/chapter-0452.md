@@ -2,7 +2,7 @@
 
 Tamsin Rook was in at twenty minutes to the fifth, and the twenty minutes are the twenty minutes.
 
-There is no form anywhere in this empire in which the woman who sits at that counter alone for a fifth of an hour is entered as the one who sat there. **She is twenty-four and she has stood at that counter for two years, and nobody on that floor has ever put a question to her in that time.** Her undertaking is live and unretired and unused. In two years it has not been brought into use on a single day of them, and the day and the month of it are not said out loud here.
+**Nobody on that floor has ever wanted anything out of her.** She is twenty-four, she has stood at that counter for two years, and not one person in this building has put a question to her in any of it. Her undertaking is live and unretired and unused, and in two years it has not been brought into use on a single day, and the day and the month of it are not said out loud here and are not said out loud in a state record either.
 
 It is the second day of the second week of the third month of the year after the year after the year after the year after the year after the year after next, and it is the fourth hour and forty minutes.
 
@@ -22,7 +22,7 @@ Then Marn Ottery said it, and she said it out loud in the ordinary voice, and sh
 
 Tamsin Rook did not say anything.
 
-She had the same thing and she had had it for about a week. She had got at it from the other end, and it had taken her until the fifth hour of a Tuesday to be sure of the shape of it. A woman at the other end of the same boards had just put the identical thing into the air in about forty words before she could put it into hers.
+She had the same thing and she had had it for about a week. She had got at it from the other end, and it had taken her until the fifth hour of a working morning to be sure of the shape of it. A woman at the other end of the same boards had just put the identical thing into the air in about forty words before she could put it into hers.
 
 **That is what nobody in that room has ever done to her, and it is not a kindness, and she knew that inside about two seconds of hearing it.**
 
@@ -40,7 +40,7 @@ She had the same thing and she had had it for about a week. She had got at it fr
 
 "No."
 
-"**I have watched about four hundred people go out of this room with one object in a year, and I could not tell you now which of them were carrying the second of a thing and which were carrying the first. Neither could you. Neither could the woman at the far end of those two tables. The reason is that they are the same object.** The strip along the top is the same strip. The four things printed on it are the same four things. The case gives out the one thing, and there is nothing in this building that can tell a first of a thing from a second of a thing."
+"**I have watched about four hundred people go out of this room with one object in them and I could not tell you this morning which of them were carrying the second of a thing and which were carrying the first. Neither could you. Neither could the woman at the far end of those two tables. The reason is that they are the same object.** The strip along the top is the same strip. The four things printed on it are the same four things. The case gives out the one thing, and there is nothing in this building that can tell a first of a thing from a second of a thing."
 
 "That is the answer and not a complaint, and I have not got nine words for it, and I am not going to stand here and be the second person in one morning who says something I cannot get back."
 

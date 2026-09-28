@@ -30,11 +30,11 @@ He did not say anything.
 
 She put her hand back on the boards.
 
-"**A person who has a name that fits in the space at the foot of a sheet is not a person whose thing is missing. You are the only person in nine years I have been able to say that to, and I said it to a different woman at this counter in a month that is gone.**"
+"**A person who has a name that fits in the space at the foot of a sheet is not a person whose thing is missing.** The woman at the other end of those boards worked that out in front of you in a month that is gone, and she said it once and nobody has asked her one thing about it since, and I have not been able to get at it in nine years because every way I have had of saying it is a sentence."
 
 He did not say anything to that either.
 
-"You want a heading over your name and there is not one in this building that would take it, and there is not going to be one. I have not got one to give you and neither has anybody on this floor, and I am not going to be thanked by you for that, and you are not going to thank me, and I would like it entered that neither of us is going to."
+"You want a heading over your name and there is not one in this building that would take it, and there is not going to be one. I have not got one to give you and neither has anybody on this floor, and you will not be thanking me for that, and I will not expect it of you, and neither of us is going to say so out loud again this week."
 
 ---
 
@@ -48,10 +48,10 @@ Tamsin Rook put her hand flat on the lid of the case at the near end and left it
 
 ---
 
-A courier came up at about the fifth hour with a satchel and put a folded thing on the wood, and nobody told him what it was. The man of about thirty-four who comes in on the second of the two days looked at the boards and did not look at any of them. There were three people at that counter and a man in the middle of the floor and a courier on the stairs, and not one question was put to anybody in the whole of that hour.
+A courier came up at about the fifth hour with a satchel and put a folded thing on the wood, and nobody told him what it was. The man of about thirty-four who comes in on the second of the two days stood at the near end and looked at the counter and at nothing else on that floor. There were three people behind that counter and a man in the middle of the floor and a courier on the stairs, and not one question was put to anybody in the whole of that hour.
 
 Then Marn Ottery wrote the word and the number at the top of the courier's thing in the ordinary way, and put them on that and on nothing else, and the courier went down the four flights with the satchel on his shoulder.
 
 He went down the four flights a little after the sixth hour with two things in a coat and neither of them out of the pocket, and nobody counted them. There is no form anywhere in this empire in which a person is entered as the one who counted what another person was carrying. Nobody sent for him and nobody was sent, and he was not thanked.
 
-**The boards came down at the sixth hour. The case went in behind them, and the four went up on the wall board in the places they have held for eleven years, and the drawer underneath stayed shut, and the box at the far end was where it was.** The strip along the top of a blank is the same strip it was at the second hour and it was not cut this week. There is still no column anywhere in this building that a man of thirty-eight with nothing behind him can be entered in, and there is not going to be one. The fourth of those four items is the one none of the three of them can account for, and it is still in Marn Ottery's own hand.
+**The boards came down at the sixth hour. The case went in behind them, the four went back up on the wall where they have hung for eleven years, the drawer underneath stayed shut, and the box at the far end of those boards was exactly where it had been at the second hour.** The strip along the top of a blank is the same strip it was at the second hour and it was not cut this week. There is still no column anywhere in this building that a man of thirty-eight with nothing behind him can be entered in, and there is not going to be one. The fourth of those four items is the one none of the three of them can account for, and it is still in Marn Ottery's own hand.

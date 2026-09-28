@@ -1,14 +1,14 @@
 # Chapter 0458: About Nine Hundred Sheets A Year, A Pen That Goes Into A Pot, And A Mark Nobody In That Corridor Can Point At
 
-Between the third hour and the sixth that morning he put his mark at the foot of about two hundred of them. The pen did what it does, and it has done what it does on every working day of his life since he was forty-two years old.
+He stood at that sill for the whole of the morning and did the only thing there is for him to do at it, which is put a mark at the foot of a sheet and go on to the next one, and he did that on about two hundred of them between the third hour and the sixth, and the pen went into the pot after every single one and came out again.
 
-He cannot read a paragraph. He has never once pretended to, and the people who work that floor are not the sort to have stayed long enough to have found out either way, and nobody has ever made it their business to find out. **He is not one of the four in this empire who cannot make sense of a paragraph, and he has never been one of them, and the woman who keeps the minutes in that building has never asked him one question about a number, and he has never asked her one either.**
+He cannot read a paragraph. Nobody who works that floor knows that he cannot, and he has never given any of them the chance to find out, and he is sixty-one and has been the second hand at that sill for longer than anybody on that floor has been standing on it. **He is not one of the four in this empire who cannot make sense of a paragraph, and he has never been one of them, and the woman who keeps the minutes in that building has never asked him one question about a number, and he has never asked her one either.**
 
 It is the fourth day of the fourth week of the fourth month of the year after the year after the year after the year after the year after the year after next, and it is the third hour.
 
 ---
 
-**About nine hundred sheets a year go out of that building and he signs at the foot of every one of them.** And about nine of them a year are not what the person above him wrote, and he knows which, and he has known since the spring, and he has never once written one of them down and there is nowhere in this empire to write one down. That is the ninth of the nine. It is not on anything and it is not going on anything, and the pot on that sill is for a pen.
+**About nine hundred sheets a year go out of that building and he signs at the foot of every one of them.** And about nine of them a year are not what the person above him wrote. He knows which ones, he has known since the spring, and he has not written one of them down in any of that time and there is no place in this empire where he could put one down. That is the ninth of the nine. It is not on anything and it is not going on anything, and the pot on that sill is for a pen.
 
 A second mark is a different thing and it is still there. One sheet in about two years comes up that stair with the same mark on it twice. The one underneath is the one he signed the day before, and it was dated a day before the day it was put there, and he signed the top of it and did not look up while he did it, and he has not lifted his eyes off a sill since he was forty-two. **Nobody in that corridor can point at it and nobody in that building can point at it, and he is the one who would not be able to find it if he went looking for it, and he has not gone looking.**
 
@@ -24,7 +24,7 @@ He did not look up.
 
 She did not say anything else for about as long as a sheet takes to be squared. Then she put the armful down on the ledge at the end of the sill where the hook is, and she said it to the corridor and not to the man.
 
-"**A copy asks you no more than a blank asks you.** A blank asks you for nothing because it has no column over it. A copy asks you for nothing because it is not the thing. I worked that out this morning and it took me about a minute and a half, and I worked it out in this corridor because I could not work it out at the table. **And there is a man at the end of a lane who could read either one of them. He can read a paragraph. He has always been able to read a paragraph and he is not one of the four and he never was. He has never been asked and he is not going to be.**"
+"**A copy asks you no more than a blank asks you.** A blank asks you for nothing because there is no column over it. A copy asks you for nothing because it is not the thing. I worked that out this morning and it took me about a minute and a half, and I worked it out in this corridor because I could not work it out at the table. **And there is a man at the end of a lane who could read either one of them. He can read a paragraph. He has always been able to read a paragraph and he is not one of the four and he never was. He has never been asked and he is not going to be.**"
 
 ---
 
@@ -38,11 +38,11 @@ The corridor gave the last of that back off the wall on the other side, and neit
 
 ---
 
-The young man from the shipping floor came up at about the fourth hour with the four under his arm, and the two of them have not said a thing to each other in two years and neither of them is going to start.
+At about the fourth hour a young man off the shipping floor came up to that sill with the four of them under his arm, and neither of the two of them has said one word to the other in two years, and neither of them is going to start this week either.
 
-He got as far as the sill and then he stopped, and he looked at the bottom of the bundle for about as long as a sheet takes to be squared. He can see a mark the way anybody can see a mark, which is the whole of what is wrong with what he has just seen.
+He got as far as the sill and stopped there, and he looked at the bottom of the bundle for about as long as it takes to get a thing square, and anybody can see a mark who has two eyes and no reason not to, and that is the whole of the trouble with what was on the top of that bundle.
 
-The two words stayed where they were. **He did not say them a third time, and the man of about sixty-one did not say the other two back and did not look up, and there is no form anywhere in this empire in which a person is entered as the one who said a thing about a sheet on a sill.** The sheet went down that corridor in the young man's own arms, and the man never once lifted his head off that sill for any part of it.
+The two words stayed where they were. **He did not say them a third time, and the man of about sixty-one did not say the other two back and did not look up, and nothing in this empire will ever hold a piece of paper against the man who put a sentence into the air beside it.** The sheet went down that corridor in the young man's own arms, and the man never once lifted his head off that sill for any part of it.
 
 ---
 

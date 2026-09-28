@@ -22,7 +22,7 @@ Then she said the thing. She said it in the ordinary voice, and it came out shap
 
 Marn Ottery did not turn round and did not answer it.
 
-"I heard that, and I am leaving it lying where you put it, and nothing is going to happen to either of us this morning because of it. I am not treating it as a question and I am not going to treat it as one later this week. If you had put it to me as one there would have been about four things to do about it before noon, and I have not done any of them and I am not going to."
+"I heard that, and I am leaving it lying where you put it, and nothing is going to happen to either of us this morning because of it. I am not treating it as a question and I am not going to treat it as one later this week. Put it to me as a question and there would have been four things to do about it before noon, and I have done none of them and I am not going to."
 
 ---
 
@@ -36,7 +36,7 @@ Marn Ottery did not turn round and did not answer it.
 
 "I have been early for two years and nobody has done one thing about it."
 
-"**Not doing one thing about it was not a courtesy to you. Doing nothing is a thing that gets done. There is no form anywhere in this empire for a thing that has been done to a person and not written down, so the not writing was all there was, and you have been the fourth of those four items on that wall for about two years. What has changed this morning is that I have said out loud which one you are, and I did not do it for you and you did not ask me for it.**"
+"**Doing nothing about you was not a courtesy. Doing nothing is a thing that gets done, and not writing it down is the whole of what there is of it, because there is nowhere in this empire to put a thing that has been done to a person and never written down anywhere.** What is different this morning is only that I have said out loud that you are the one it was done to, and I did not do it for you and you did not ask me for it, and that is all the difference it makes and it is not a rescue.**"
 
 ---
 
@@ -46,4 +46,4 @@ At about the third hour and twenty minutes a man of about twenty-six came up tho
 
 Nobody was thanked in that room this week. Nobody was forgiven. Nobody was sent for. Nothing was resolved, the arrangement is still standing, and the drawer under that board stayed shut with four things in it and two of them never opened, and the box at the far end of the boards is where it was with the dust on it that was on it at the third hour.
 
-**The man of about twenty-six went down those four flights at the sixth hour. The case went in behind the boards, and the four went up on the wall board in the places they have held for eleven years, and the fourth of them is the one none of the three of them can account for. It was in Marn Ottery's own hand about four years ago and it is still in her own hand, and nobody in that room has asked her about it and she has not asked herself about it either.**
+**The man of about twenty-six went down those four flights at the sixth hour. The case went in behind the boards, and the four went up on the wall board and were in the same places on it that they have held for eleven years, and the fourth of them is the one none of the three of them can account for. It was in Marn Ottery's own hand about four years ago and it is still in her own hand, and nobody in that room has asked her about it and she has not asked herself about it either.**

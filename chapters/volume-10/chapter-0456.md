@@ -2,9 +2,9 @@
 
 The lamp on the table by the front door was lit at the sixth hour, and it has been lit at the sixth hour for about twenty years. The ground floor is the ground floor: a passage, a stair off it, a door at the top of that stair that she has never been at, and about twenty years of nobody going up it and nobody coming down it.
 
-**She has been at the bottom of that stair about twenty years and has never once been above the second step. She takes a rent. The rent goes out of a hand into a hand once a week, and nothing about it has ever been written down anywhere in that house, and there is no form in this empire for a woman at the bottom of a stair to be asked what she carries.** There is a tin behind the boiler with about nine years of a man's rent in it in coin, and the lid of it does not shut the way it used to, and she has never counted it and there is no reason on earth to count it.
+**She has been at the bottom of that stair about twenty years and has never once been above the second step. She takes a rent. The rent goes out of a hand into a hand once a week, and nothing about it has ever been written down anywhere in that house, and nobody has ever come to that ground floor to be told one thing about what she is holding.** There is a tin behind the boiler with about nine years of a man's rent in it in coin, and the lid of it does not shut the way it used to, and she has never counted it and there is no reason on earth to count it.
 
-**She is not the clerk of about fifty-three.** She has never been inside that building off the old river road and has not been inside it in her life. She does not know what was said in it and would not know it if she were told, and nobody has ever told her, and there is nobody in this city she could ask.
+**She is not the clerk of about fifty-three.** That building off the old river road is somewhere she has never been and would not know the inside of, and if the whole of what had been said in it were put in front of her she would not be able to say which room it had been said in, and nobody has ever told her anything and there is nobody in this city she could go to for it.
 
 It is the second day of the second week of the fourth month of the year after the year after the year after the year after the year after the year after next, and it is the fifth hour.
 
@@ -34,7 +34,7 @@ Nobody said anything for about as long as it takes a person to shift a bundle of
 
 "Which of the three is the one you would put a person in."
 
-"The one at the top of the stairs. It has a window and the other two have not. I am not going to tell you that for your own good. I am telling you because I have been the cheapest person in this house for about nine years, and the rent is the only thing I have ever done, and I would rather somebody chose with a window than be the person who chose without one."
+"The one at the back of that passage. It has a window and the other two have not. I am not going to tell you that for your own good. I am telling you because I have been the cheapest person in this house for about nine years, and the rent is the only thing I have ever done, and I would rather somebody chose with a window than be the person who chose without one."
 
 He shifted the bundle and looked at the stair and did not go up it. She did not ask him to and she did not tell him to.
 

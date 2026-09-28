@@ -10,9 +10,9 @@ It is the second day of the first week of the fifth month of the year after the 
 
 **He said the thing about the box out loud in a room at the top of four flights about two years ago, and he said it to a woman who had just moved a box under the end of her own boards. The sentence was that a clerk who moves a box is a clerk who has made a statement about it.** He said the statement was hers, and she accepted that it was hers, and he has not asked her one thing about it since and he is not going to.
 
-Then he said the same sentence about the same box in a yard, to a person who did not answer him and did not go into the street again.
+Then he said the same sentence again in a yard, and there was a second person standing in that yard when he said it, and that person did not answer him and did not go into the street again.
 
-He has not said it a third time and he is not going to, and it is not going to come out of him on a Monday, and he had put it away.
+He has not said it a third time and he is not going to, and it is not going to come out of him on an ordinary morning, and he had put it away.
 
 ---
 
@@ -22,7 +22,7 @@ The man of about forty-five with the loading end of that floor had a tally of hi
 
 "I have."
 
-"Once in a room at the top of some stairs, and once in a yard, and both of them were said to a person and not to the wall, and that is two people. You have not asked either of them one thing about it since, and I am not asking you about it either. I am telling you what I have worked out, which is that a thing that can be made twice is a thing that can be said twice."
+"Once in a room at the top of some stairs, to one woman. Once in a yard, with two people standing in it. That is two people, and both of those were said out loud and not to a wall, and you have not asked one thing of either of them since, and I am not asking you about it either. I am telling you what I have worked out, which is that a thing that can be made twice is a thing that can be said twice."
 
 "That is not the same."
 
@@ -50,4 +50,4 @@ He got his four and went up those stairs, and the man at the far end of the corr
 
 **A courier from the yard was on the second landing of that stair going up with a satchel on his shoulder, and it was the fourth time that hour he had been past the same landing.** He cannot be told anything, and he has not asked anybody anything in this matter in as long as anybody in it can remember, and nobody at that counter has ever told him what a thing in a satchel is for, and he would not know what to do with it if he were told.
 
-Nobody in that lane knows anything about either of those two men, and nobody in that lane could be shown them together, and there is no form anywhere in this empire in which a person is entered as the one who was on a landing at a certain hour. The box at the end of that floor is where it has been for about nineteen years, and it is not a mystery and it has not been made one, and nobody was thanked for it, and nothing was resolved on that floor this week and nobody was sent for.
+Nobody in that lane knows anything about either of those two men, and nobody in that lane could be shown them together, and there is no list anywhere in this empire that a man can be put on as the one who was on a landing at a certain hour, and there is not going to be one. The box at the end of that floor is where it has been for about nineteen years, and it is not a mystery and it has not been made one, and nobody was thanked for it, and nothing was resolved on that floor this week and nobody was sent for.

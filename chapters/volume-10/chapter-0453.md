@@ -2,11 +2,11 @@
 
 The room is the one it was the week before, and the week before that.
 
-The chair is where it has always stood, which is against none of the walls. The four feet of plaster beside that window is bare. The nail in it went in crooked about the height of his hand, and nothing has ever hung off it and nothing is going to this week. **There is no fire in that room and there is not going to be one. The piece of paper with nothing printed on it is still standing against the base of that wall on the table, where he can see it from the stool and from the bed and from the doorway, and it is not on a form and it is not a record.**
+The chair is where it has always stood, which is against none of the walls. The four feet of plaster beside that window is bare. The nail in it went in crooked about the height of his hand, and nothing has ever hung off it. **No fire has ever been lit in that room and he is not going to be the one to start one. The piece of paper with nothing printed on it is still standing against the base of that wall on the table, where he can see it from the stool and from the bed and from the doorway, and it is not on a form and it is not a record.**
 
 Marek Kest. Thirty-eight. He holds nothing, nothing is on its way to him, and he is not at a stage and is not going to arrive at one.
 
-**He wants a name that is not in this room.** A hand that was not his mother's struck it out of a leaf about two years ago. What belonged at the end of that line is the one thing he has wanted since before the fire. The claim that travelled with it went out the same way. He has one of those two and has never had the other, and there is no form anywhere in this empire in which a man with nothing behind him can enter a claim that other people dispute.
+**He wants a name that is not in this room.** A hand that was not his mother's struck it out of a leaf about two years ago. What belonged at the end of that line is the one thing he has wanted since before the fire. The claim that travelled with it went out the same way. He has one of those two and has never had the other, and no form in this empire will take a claim off a man who has nothing standing behind him, least of all one other people are already arguing about.
 
 It is the fourth day of the third week of the third month of the year after the year after the year after the year after the year after the year after next, and it is the fifth hour.
 
@@ -14,9 +14,9 @@ It is the fourth day of the third week of the third month of the year after the 
 
 The coat is on the chair against no wall, and there are two things in the inside pocket of it, and they are on opposite sides of him.
 
-One of them is a leaf with a line through what stood at the foot of that line. The leaf has been in that pocket about two years. It has been folded and unfolded about four hundred times, and the fold at the third of it has gone through to a hole.
+One of them is a leaf with a line through what stood at the foot of that line. It came out of a bundle folded twice and it has been in that pocket about two years, and it has been opened and shut so many times in that time that the crease a third of the way down it has worn through.
 
-The other of them is a piece of paper with a strip printed along the top of it, and the same four things printed along the top of that. It came out of the case at the near end of a counter at the top of four flights on a wet morning about a year ago, and fourpence bought it, and he put it on the side the page was not on, and he went down the four flights with it.
+The other of them is a piece of paper with a strip printed along the top of it, and the same four things printed along the top of that. It came out of the case at the near end of a counter at the top of four flights on a wet morning about two years ago, and fourpence bought it, and he put it on the side the page was not on, and he went down the four flights with it.
 
 **He has never told anybody he is carrying two things.** There is no one in this matter he could tell and not be the only person who said it. There is no form anywhere in this empire in which a person is entered as the one who said it, and nobody has looked in that coat and nobody is going to.
 
@@ -72,6 +72,6 @@ Marek Kest stood in the room with his hand flat on the inside pocket of a coat o
 
 ---
 
-Nothing was sent to him that week, and nothing has ever been sent to him. Nobody knocked twice and nobody came up the stairs after him. The man who has been to that door in a different month of this year with nothing in his hands is not going to come up it again, and he said so in this room in the last week and he meant it and he is not going to be held to it by anybody, including himself.
+Nothing was sent to him that week, and nothing has ever been sent to him. Nobody knocked twice and nobody came up the stairs after him. The man who was at that door in a month that is gone, with nothing in his hands, is not going to come up it again, and he said so in this room in the last week and he meant it and he is not going to be held to it by anybody, including himself.
 
-The four feet of plaster was bare at the end of that evening and it had been bare at the start of it. The nail was in it and nothing has ever hung on it. **He is thirty-eight and he holds nothing and he is not at a stage, and he is carrying two things he has told nobody about. One of them has a name gone out of it. The other one is the exact width of a name and nothing else has ever been that size. The two of them are in the same pocket on opposite sides and neither of them can be shown to anybody, and that is the whole of what he has got and it is not going to be on anything this month.**
+The four feet of plaster was as bare at the end of that evening as it had been at the start of it, and the nail was still in it with nothing hanging off it, and it will be the same in the morning. **He is thirty-eight and he holds nothing and he is not at a stage, and he is carrying two things he has told nobody about. One of them has a name gone out of it. The other one is the exact width of a name and nothing else has ever been that size. The two of them are in the same pocket on opposite sides and neither of them can be shown to anybody, and that is the whole of what he has got and it is not going to be on anything this month.**
