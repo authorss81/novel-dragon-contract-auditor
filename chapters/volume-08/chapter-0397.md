@@ -20,7 +20,7 @@ He came down his four steps with his coat on and the lane was doing what it does
 
 "I said in the rain that I would not knock twice and I have not."
 
-"I know you have not and I have thought about it for a fortnight, and I have decided I would rather say it than not say it, and I have thought about the order of that." He did not come the four feet. "**I am not going to forget that you knocked on my door.** You knocked twice in eleven years and one of those was a stove and this one was not a stove, and I have had a fortnight of it. **There is no form for the second knock of the two, and a thing with no form on it does not get put down.**"
+"I know you have not and I have thought about it for eight weeks, and I have decided I would rather say it than not say it, and I have thought about the order of that." He did not come the four feet. "**I am not going to forget that you knocked on my door.** You knocked twice in eleven years and one of those was a stove and this one was not a stove, and I have had eight weeks of it. **There is no form for the second knock of the two, and a thing with no form on it does not get put down.**"
 
 ---
 
