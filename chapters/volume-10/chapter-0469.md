@@ -1,14 +1,14 @@
 # Chapter 0469: A Man With A Fair Hand At A Door At The Bottom Of A Stair, What That House Is For, And A Rent Taken In Coin
 
-There is a passage off that street and a stair off the passage and a door at the top of the stair, and the woman who keeps that ground floor has been at the bottom of it about twenty years. **She has not been above the second step this week and is not going to be, and the three rooms above that stair are three rooms and not one of them is hers, and the one at the back of the passage belongs to a man who pays on the same day every week, and no one in that house is owed anything by anybody, and there is no way in this empire to serve any of them with anything.**
+There is a passage off that street and a stair off the passage and a door at the top of that stair that she has never once been at, and the front door of that ground floor is at the bottom of the stair with a lamp on a table beside it, and the woman who keeps that ground floor has been at the bottom of it about twenty years. **She has not been above the second step this week and is not going to be, and the three rooms above that stair are three rooms and not one of them is hers, and the one at the back of the passage belongs to a man who pays on the same day every week, and no one in that house is owed anything by anybody, and there is no way in this empire to serve any of them with anything.**
 
-She takes a rent. The rent goes out of a hand into a hand once a week and it has never been written down anywhere and nobody has ever come to that ground floor to be told one thing about what she is holding.
+She takes a rent in coin, once a week, out of a hand and into her own, and it has never been on a piece of paper in that house and never is going to be, and a woman at the bottom of a stair cannot be asked what she carries in this empire because there is no form in it for asking, and nobody has come down that passage to ask her a single thing in twenty years.
 
 It is the fourth day of the third week of the seventh month of the year after the year after the year after the year after the year after the year after next, and it is about the sixth hour.
 
 ---
 
-He came up the street in the rain and put his hand on the frame of that door and did not knock, and she knew who it was from about four foot off and she opened it.
+He came up the street in the rain and put his hand on the frame of the front door and did not knock, and she knew who it was from about four foot off and she opened it.
 
 "You have not come up this street since a month that is gone."
 
@@ -18,7 +18,7 @@ He came up the street in the rain and put his hand on the frame of that door and
 
 ---
 
-He put his hand on the frame of the door and did not come in.
+He put his hand on the frame of the front door and did not come in.
 
 "It is not because you are careful. I have watched you do it for two years and it is not care, it is arithmetic. There is no name on anything you have. The rent is coin and the tin behind the boiler is coin and the number on the back of that key is cut into the metal of it and it says which room and not who. **A person who can be shown holding nothing can be made to take a thing in about nine seconds, and that is what this house is for and it has been for twenty years, and you have known it for about nine years and you have never said it out loud to anybody and there is nobody on this floor you could say it to.**"
 
@@ -46,4 +46,4 @@ The man behind the coal came down about nine minutes later and put a week of it 
 
 He went up. Nothing has gone down that stair in about three weeks and nothing was going to.
 
-**Nobody was thanked in that house this week. Nobody was forgiven. Nobody was sent for. The tin behind the boiler is where it is and the lid of it does not shut the way it used to and she has not counted it and there is no reason on earth to count it. Nothing was written down and nothing was resolved, and the stairs went up and nobody came down them, and the only thing that happened at that door in about a month was a man who can be found told a woman who cannot what she has been for twenty years, and neither of them was thanked, and neither of them said one word back.**
+**Nothing in that house was put down that week and nothing in it was taken back up, and the three rooms were let again on the same day to the same hands as the week before, and the lamp on the table by the front door is lit. The tin behind the boiler is where it is and the lid of it does not shut the way it used to and she has not counted it and there is no reason on earth to count it. Nothing was written down and nothing was resolved, and the stairs went up and nobody came down them, and the only thing that happened at that door in about a month was a man who can be found told a woman who cannot what she has been for twenty years, and neither of them was thanked, and neither of them said one word back.**

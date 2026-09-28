@@ -1,6 +1,6 @@
 # Chapter 0451: Four Things Along The Top Of A Blank, A Knife In A Drawer, And About Four Seconds
 
-The boards came down at the second hour and the case came up out from behind the near end of them and stood on the counter with its lid up, and about four hundred of the things inside it go out of that room in a week in the hand of somebody who is not doing anything anybody asked them to do.
+The boards came down at the second hour and the case came up out from behind the near end of them and stood on the counter with its lid up, and about four hundred of the things inside it go out of that room in a year in the hand of somebody who is not doing anything anybody asked them to do.
 
 The stair at the back of that room has no door at the foot of it, and there is a hundred feet or so of floor between the near end of the boards and the top step, and a board is on the wall at the top of that stair with four items on it and not one of them a time. **A drawer under that board has been shut for eleven years and there are four things in it and two of those have never once been opened.** Under the far end of the boards, out of sight of the door, there is a box holding about four hundred blanks that were bought in a quantity and never filled in by anybody.
 
@@ -14,7 +14,7 @@ It is the second day of the first week of the third month of the year after the 
 
 She took one out of the case and turned it over in her hand, and there was nothing to unfold.
 
-**There is a printed strip along the top of every blank that counter has ever sold. The strip is the same strip. The four things printed along the top of it are the same four things, and they are on every one of the about four hundred that go out of that case in a week, and no week in this matter has ever produced one of them coming back with a fifth thing on it.**
+**There is a printed strip along the top of every blank that counter has ever sold. The strip is the same strip. The four things printed along the top of it are the same four things, and they are on every one of the about four hundred that go out of that case in a year, and no week in this matter has ever produced one of them coming back with a fifth thing on it.**
 
 "There is a knife in that drawer," Marn Ottery said, to the boards.
 

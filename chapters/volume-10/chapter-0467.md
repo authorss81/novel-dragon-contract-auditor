@@ -46,6 +46,6 @@ The man with the fair hand did not move and did not speak.
 
 Tamsin Rook was at the near end with her hand flat on the case and she had been in twenty minutes before the hour, and she had heard all of it. **She has not been told why she is early and she is not going to be told this month, and the not being told is the one part of that which has been left alone for two years, and the reason nobody in that room has told her is that telling her would make her a person somebody can be shown knowing about a copy.** She said nothing. She did not agree and she did not disagree and she did the eleven things in the order she does them.
 
-Nobody sent for anybody. Nobody was sent for. Nobody was thanked in that room this week.
+**A name went out of that room at the fifth hour on an ordinary morning, and there is no form anywhere in this empire in which a person is entered afterwards as the one who said a man's name out loud in a working room, and nobody at that counter has thanked her for saying it and none of them is going to.**
 
 **The man with the fair hand went down the four flights at about the sixth hour with a rolled sheet inside his coat that he had not left on that counter.** About four hundred and thirty miles of this river stand above the point where that building is, and nobody at that counter has ever been up them and nobody is going to, and a man who is about four miles off was in a room that week and did not come up that stair and was not sent for and is not going to be.

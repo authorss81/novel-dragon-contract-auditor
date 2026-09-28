@@ -1,6 +1,6 @@
 # Chapter 0460: A Sentence Shaped Like A Question, A Clerk Twenty Minutes Early, And The Fourth Of Four Items On A Wall Board
 
-The fourth of the four items on that board has been on it since the third hour of an ordinary morning and nobody has asked about it. About four hundred people a week buy one of the blanks out of the case at the near end and walk out of that building and go down four flights. **She is the only person in that room who can say what one of those pieces of paper is for. She has said the shape of it out loud in that room three times, and it is three, and nobody has asked her one thing about any of the three.**
+The fourth of the four items on that board has been on it since the third hour of an ordinary morning and nobody has asked about it. About four hundred people a year buy one of the blanks out of the case at the near end and walk out of that building and go down four flights. **She is the only person in that room who can say what one of those pieces of paper is for. She has said the shape of it out loud in that room three times, and it is three, and nobody has asked her one thing about any of the three.**
 
 Marn Ottery. Thirty-four. Eleven years at the other end of those boards and not a lawyer, and she is not going to be thanked for any part of this morning, and she said so before anybody else had said anything.
 
@@ -36,11 +36,11 @@ Marn Ottery did not turn round and did not answer it.
 
 "I have been early for two years and nobody has done one thing about it."
 
-"**Doing nothing about you was not a courtesy. Doing nothing is a thing that gets done, and not writing it down is the whole of what there is of it, because there is nowhere in this empire to put a thing that has been done to a person and never written down anywhere.** What is different this morning is only that I have said out loud that you are the one it was done to, and I did not do it for you and you did not ask me for it, and that is all the difference it makes and it is not a rescue.**"
+"**Doing nothing about you was not a courtesy. Doing nothing is a thing that gets done, and not writing it down is the whole of what there is of it, because there is nowhere in this empire to put a thing that has been done to a person and never written down anywhere.** What is different this morning is only that I have said out loud that you are the one it was done to, and I did not do it for you and you did not ask me for it, and that is all the difference it makes and it is not a rescue."
 
 ---
 
-She did not answer it and she did not turn round. Tamsin Rook went and did the eleven things in the order she does them, and they took her about a quarter of an hour. About four hundred people a week went out of that room one at a time through the whole of that morning, and not one of them was asked what the thing in their hand was for.
+She did not answer it and she did not turn round. Tamsin Rook went and did the eleven things in the order she does them, and they took her about a quarter of an hour. About four hundred people went out of that room one at a time in a year, that morning being one of the ordinary ones, and not one of them was asked what the thing in their hand was for.
 
 At about the third hour and twenty minutes a man of about twenty-six came up those four flights. He stood at the near end of those boards with his hand in his coat, and he is paid for a corner and not for a page. He put nothing down, and nobody in that room told him he did not have to, and he bought nothing and he said nothing for about two hours and twenty minutes. At about the sixth hour he went down the four flights with the corner still in his coat, and there is no form anywhere in this empire in which a man is entered as the one who stood at that counter for two hours and bought nothing.
 

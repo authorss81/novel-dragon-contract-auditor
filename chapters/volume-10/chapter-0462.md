@@ -16,7 +16,7 @@ She wrote what she writes every day at the top of the page in front of her. Then
 
 Then Tamsin Rook said it, and she said it standing at the near end with her hand flat on the lid of the case, and she said it to the room and not to the woman at the far end of the tables.
 
-"**The second of a thing and the first of a thing come out of the same case this morning, and there is nothing in this building that can tell them apart, and I have watched that be true about four hundred times in a week and I have never once been able to tell which was which.** That is the true half of it and I have said it in this room before and been answered by nobody, and this morning I am going to say the other half of it once and then I am going to go back to the case."
+"**The second of a thing and the first of a thing come out of the same case this morning, and there is nothing in this building that can tell them apart, and I have watched that be true about four hundred times in a year and I have never once been able to tell which was which.** That is the true half of it and I have said it in this room before and been answered by nobody, and this morning I am going to say the other half of it once and then I am going to go back to the case."
 
 ---
 

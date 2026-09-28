@@ -36,7 +36,7 @@ Then she said it, and she said it to the boards and not to him, and it took abou
 
 "You have said that to a room."
 
-"I have said it to a room with a man standing at the end of it who is not going to be thanked for having been up that stair five times without paying for anything, and to a clerk who is not going to write it down, and to a counter with about four hundred people going out of it in a week." She put one hand flat on the boards and left it there. "**I am not going to be thanked for saying it and neither is he going to be thanked for standing in the room while I said it, and that is the arrangement and not a courtesy, and if anybody in this building thanks anybody this week the arrangement stops standing before the sixth hour.**"
+"I have said it to a room with a man standing at the end of it who is not going to be thanked for having been up that stair five times without paying for anything, and to a clerk who is not going to write it down, and to a counter with about four hundred people going out of it in a year." She put one hand flat on the boards and left it there. "**I am not going to be thanked for saying it and neither is he going to be thanked for standing in the room while I said it, and that is the arrangement and not a courtesy, and if anybody in this building thanks anybody this week the arrangement stops standing before the sixth hour.**"
 
 ---
 
@@ -50,7 +50,7 @@ The clerk of about twenty-nine turned her head as far as it goes, which is not f
 
 ---
 
-At the near end, the case came up out from behind the boards, and about four hundred people in a week went out of that room one at a time through the whole of that morning in the hand of somebody who was not doing anything anybody had asked them to do.
+At the near end, the case came up out from behind the boards, and about four hundred people in a year went out of that room one at a time in the hand of somebody who was not doing anything anybody had asked them to do, and this morning was one of the ordinary ones.
 
 Tamsin Rook put her hand flat on the lid of it and left it there while a man of about fifty put fourpence on the boards, and took a blank out for him, and watched him fold it and go down. Then a woman of about thirty did the same. Then nothing for eleven minutes, and then a young man with a cord across his chest did the same.
 
@@ -68,4 +68,4 @@ Marn Ottery put the word and the number on the top of that folded thing in the o
 
 He wanted two things when he came up. He had gone down with neither of them, and he had gone down with a third thing that had not been in the room when he came into it. That was a sentence said to the boards by a woman who was not going to be thanked for it, and he was the only other person in the room, and from the fourth hour this morning there is a woman at that counter who could be shown saying that a second holder is a person who can be shown holding a thing.
 
-Nobody sent for him. Nobody was sent for. The boards came down and the case went in behind them, and the four went back up on the wall where they have been for eleven years, and the fourth of them is the one none of the three of them has ever managed to account for, and it is still in the hand of the woman who put it there, about four years after she did it herself.
+He went down the four flights with the two things still in the inside pocket of the coat and the third one where he had no use for it, and the boards came down and the case went in behind them, and the four went back up on the wall where they have held for eleven years. **She said it to the boards and not to him and he was the only other person in that room, and a sentence said in a room with one other person in it belongs to that other person from the hour it is said, and he carried it down four flights in the open, and there is no form anywhere in this empire in which a man is entered as the one who left a building carrying a sentence he did not ask for.**

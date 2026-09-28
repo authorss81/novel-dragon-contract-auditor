@@ -30,7 +30,7 @@ He did not come down for it.
 
 The stone did not give it back. He was nine foot up it and the wind came off the terrace and the rack was still on his hip.
 
-"So I have said out loud in a passage that goes four hundred yards and comes back, in a building where about nine hundred sheets a year go out of a floor, that I am the person a copy could be put in front of without anything sticking to it. No form anywhere in this empire has a line for the one who said that, and no form anywhere in this empire has a line for the one who did not, and you have heard it and I have said it and neither of those is going to be put back.**"
+"So I have said out loud in a passage that goes four hundred yards and comes back, in a building where about nine hundred sheets a year go out of a floor, that I am the person a copy could be put in front of without anything sticking to it. No form anywhere in this empire has a line for the one who said that, and no form anywhere in this empire has a line for the one who did not, and you have heard it and I have said it and neither of those is going to be put back.""
 
 ---
 
@@ -56,4 +56,4 @@ Not one thing came down that run of stone in that week. **Nothing arriving in a 
 
 The figure stayed where it is. It is on no paper, it did not go on any this week, it did not get a caption, and it did not go up the four hundred yards to anybody. She is not going to hand it to anybody and nobody in that building is going to be handed it.
 
-Nothing was thanked in that passage and nothing was forgiven and nobody was sent for. He went up that stone four more times and down it four more times, and the eight of them carried nothing at all, and the two of them did not say one word on any of them, and the sentence she had said out loud was still in the passage at the seventh hour and it was not in it any less than it had been at the fourth.
+Nothing was said in that passage that week by anybody who was thanked for saying it. He went up that stone four more times and down it four more times, and the eight of them carried nothing at all, and the two of them did not say one word on any of them, and the sentence she had said out loud was still in the passage at the seventh hour and it was not in it any less than it had been at the fourth.

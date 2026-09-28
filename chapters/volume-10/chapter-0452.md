@@ -18,7 +18,7 @@ She had been working towards something since the previous week. Not a decision. 
 
 Then Marn Ottery said it, and she said it out loud in the ordinary voice, and she said it to the case rather than to anybody.
 
-"A copy has a queue and a time cost, and about four hundred people carry one object out of this room in a week. A person who has watched that can pick out which of them are carrying the second of a thing in about a minute. **The second of a thing costs fourpence and about ninety seconds, and it is the only object in this room that can be bought twice, and a person who has noticed that is not going to be told anything about it by anybody.**"
+"A copy has a queue and a time cost, and about four hundred people carry one object out of this room in a year. A person who has watched that can pick out which of them are carrying the second of a thing in about a minute. **The second of a thing costs fourpence and about ninety seconds, and it is the only object in this room that can be bought twice, and a person who has noticed that is not going to be told anything about it by anybody.**"
 
 Tamsin Rook did not say anything.
 
@@ -40,7 +40,7 @@ She had the same thing and she had had it for about a week. She had got at it fr
 
 "No."
 
-"**I have watched about four hundred people go out of this room with one object in them and I could not tell you this morning which of them were carrying the second of a thing and which were carrying the first. Neither could you. Neither could the woman at the far end of those two tables. The reason is that they are the same object.** The strip along the top is the same strip. The four things printed on it are the same four things. The case gives out the one thing, and there is nothing in this building that can tell a first of a thing from a second of a thing."
+"**I have watched about four hundred of them a year go out of this room with one object in them and I could not tell you this morning which of them were carrying the second of a thing and which were carrying the first. Neither could you. Neither could the woman at the far end of those two tables. The reason is that they are the same object.** The strip along the top is the same strip. The four things printed on it are the same four things. The case gives out the one thing, and there is nothing in this building that can tell a first of a thing from a second of a thing."
 
 "That is the answer and not a complaint, and I have not got nine words for it, and I am not going to stand here and be the second person in one morning who says something I cannot get back."
 

@@ -46,4 +46,4 @@ At about the fifth hour a courier from the yard came up that floor with a satche
 
 **The box was at the end of that floor at the fourth hour and it was at the end of that floor at the sixth hour and it was not opened, and it was not moved, and it was not made a mystery, and the two men who had made it chargeable went up and down the same floor all week with about nine feet of floor between them and neither of them said one word to the other on any of it.**
 
-Nobody in that lane knows anything about either of them. Nobody thanked anybody. Nobody was sent for.
+He has been on that floor about two years and he stopped at the end of it at about the fourth hour on the second day and he has not gone back to it since. The box is still standing at that end of it, and the two of them made it chargeable in a lane with nobody in it, and neither of them can put it back the way it was and neither of them is going to be asked about it by anybody.
