@@ -2,9 +2,9 @@
 
 A woman came up those four flights with a sheet in each hand and she had already decided what she was going to do about the two of them, and what she was going to do about them was going to cost fourpence and about four seconds, and it was going to leave her with two pieces of paper exactly as much alike as the two she had come in with.
 
-**She is about thirty. There is a board on the wall where she works and it is nine years on that board, and once a week she has to put one piece of paper in front of the right person and not the other one, and this week she cannot, and the reason she cannot is that the two came out of the same place and are the same object and there is nothing on either of them that says which is which.**
+She was about thirty and she had nine years on a board at the back of a room two streets off, and once a week she had to put one sheet of paper down in front of the right person and not the other one. This week she had two sheets that were the same sheet. The strip printed along the top of each of them carried four things in the same order, and not one of the four was a name, and there was nothing in the room she had come out of that could tell her which of the two she was meant to hand over.
 
-**Marek Kest was at the end of those boards. He is thirty-eight, he holds nothing, and nothing has ever been put in his hands at that counter.** He put no coin on the boards that morning and he was not asked for one and he did not offer anything to anybody, and the coat stayed on and there are two things in the inside pocket of it about two years old, and he has not told one person in this city that he is carrying either of them.
+Marek Kest was at the end of those boards. He is thirty-eight, he holds nothing, and nothing has ever been put in his hands at that counter. He put no coin on the boards that morning and he was not asked for one and he did not offer anything to anybody, and the coat stayed on and there are two things in the inside pocket of it about two years old, and he has not told one person in this city that he is carrying either of them.
 
 It is the fourth day of the third week of the tenth month of the year after the year after the year after the year after the year after the year after next, and it is the third hour, and the hours at that counter are the second to the sixth.
 
@@ -36,13 +36,13 @@ Then a man came off the end of those boards and put his hand flat on the sheet t
 
 A clerk at that counter would not have done it that way. He is not a clerk, and there is no form anywhere in this empire in which a man who has come up a stair for nothing is entered as a person who has handled somebody's paper.
 
-**Nobody had put him to it. There was no form for it and there is still no form for it, and he is now a person in this room who could be shown having touched two pieces of paper belonging to a woman he has never seen before, and he did that on his own account, and it took about four seconds, and it cannot be put back.**
+Nobody had put him to it. The four seconds had been his own and there was nothing in that room that would have written them down either way, and if the woman came up those stairs again in a week about a mark that was not the mark, there would be one other person in this city who had ever touched her sheets. That could not be put back.
 
 "**That will not tell you which one to give back.** It will tell you today, standing at this counter, and next week there are about four hundred sheets in this city with that same mark in that same place along the top of them, and not one of the four hundred is yours, and the mark is the only thing about you that there is. I have not been asked one thing by anybody on this floor this morning and I have not asked one thing and I am not going to be thanked for standing at the end of a set of boards."
 
 ---
 
-At the far end of the two joined tables the clerk of about twenty-nine had her book open and her pen lying in the middle of it, where it has lain every working morning for about four years. **There is one person in that building who could have taken a line out of a printed strip and said out loud in this room what it said, and she is that person, and she has said nothing this morning and said nothing the week before.**
+At the far end of the two joined tables the clerk of about twenty-nine had her book open and her pen lying in the middle of it, where it has lain every working morning for about four years. She is the one person in that building who could have taken a line out of a printed strip and said out loud in this room what it said, and she has said nothing this morning and said nothing the week before.
 
 She did not look up. She did not turn her head as far as it goes, and she did not put her pen down, and the pen went on lying in the middle of that book for another two hours, and that is the whole of what she did about it, and she has not said a second thing in that room in about four years and she did not start one this morning.
 
@@ -72,4 +72,8 @@ Nobody asked her which one she had cut. Nobody could have, and nobody at that co
 
 Tamsin Rook put the knife back in the drawer it came out of and shut it and pushed it under the wall board, and the drawer that is not that drawer is still shut with four things in it and two of those have never once been looked at by anybody. Those four went back onto that wall where they have hung for eleven years, and of the four the last one is the item the three of them have never managed to account for, and it went up where it goes.
 
-**Nobody thanked anybody. The man at the end of the boards bought nothing and was given nothing and was not owed anything and is not going to be thanked for four seconds with a thumb on somebody's paper. The woman of about thirty went down four flights with two sheets and a mark on one of them that about four hundred other people in this city are carrying without knowing it. There is no form anywhere in this empire in which either of those two people is entered as a person who was in a room this morning, and the twenty minutes before the hour were not a decision about anything.**
+The fourpence went into the tin when she was halfway down the third flight, which is later than she meant to do it, and it made the noise a coin makes in a tin and she kept her hand in there about a second longer than a person needs to.
+
+Nobody thanked anybody. The man at the end of the boards bought nothing and was given nothing and was not owed anything, and what he has put into the world this morning is a woman of about thirty walking down four flights of stairs holding two sheets that are the same sheet, one of which has a mark in it that about four hundred other people in this city are carrying without knowing it.
+
+There is a clerk at a counter who took a knife out of a drawer in front of a customer and put it back, and a woman at the near end who said a flat thing to a wall board and made another woman say the price, and there is no form anywhere in this empire in which any of the four of them is entered as a person who was in a room this morning. The twenty minutes before the hour were not a decision about anything.

@@ -2,9 +2,9 @@
 
 There is a page in his week where two sets of figures refuse to come out even, and they have been refusing for about a fortnight, and making two men's figures come out identical is the whole of what he is paid for.
 
-**Thirty-four, and the hand he is paid for is a better one than the work requires. He is on a list four days a season and the list is the whole of why he can be found, and being findable has been the safest thing about him for two years and he has never once said that out loud to anybody who could use it.** Nobody has put a question to him in this matter and nobody is going to put one to him this month, and he has filled in nothing and told nobody where he has been.
+He is thirty-four, and the hand he is paid for is a better one than the work requires. He is on a list four days a season and the list is the whole of why he can be found, and being findable has been the safest thing about him for two years and he has never once said that out loud to anybody who could use it. Nobody has put a question to him in this matter and nobody is going to put one to him this month, and he has filled in nothing and told nobody where he has been.
 
-**He has a number in his head that he has carried since a spring that is gone, and nobody in that house is confirming it and nobody in that house is denying it, and the reason neither of them is going to is not politeness.** A number that stays in a man's head is a fact about that man. Put the same number on paper and it stops being about him and becomes about a thing, and a thing can be carried down a lane and put inside a coat, and he has watched that happen to a person who was careful. Nobody is going to try it with him.
+He has a number in his head that he has carried since a spring that is gone, and nobody in that house is confirming it and nobody in that house is denying it, and the reason neither of them is going to is not politeness. A number that stays in a man's head is a fact about that man. Put the same number on paper and it stops being about him and becomes about a thing, and a thing can be carried down a lane and put inside a coat, and he has watched that happen to a person who was careful. Nobody is going to try it with him.
 
 It is the fourth day of the third week of the eleventh month of the year after the year after the year after the year after the year after the year after next, and it is the fourth hour.
 
@@ -38,14 +38,22 @@ Nobody asked her for the rest of it.
 
 He went up the lane and he did not turn round at the corner, and he got to a room two floors above a chandler's that has no window at all and a smell of tar under the door that he stopped noticing in his first week, and he shut the door, which is a thing he does and not a thing anybody could be shown doing.
 
-Eight hours of a fair hand at a rate that is a rate and not a kindness.
+Eight hours of a fair hand at a rate that is a rate and not a kindness, and that is how he is paid.
 
-**He did the first three pages and he came to the fourth and the fourth line did not agree with the line above it, and the whole of his trade in this empire is making the two of them agree, and he got a pen and he did not do it.** He left it as his hand came out. He went on to the fifth page and did that one and the sixth, and the fourth page went into the pile with two figures in it that do not even, and that has not happened on that page in about as long as either of them has been in that building.
+He did the first three pages and came to the fourth, and the fourth line did not agree with the line above it.
 
-**There is no column in this empire for a job a person has refused, and so nothing about that page is written down anywhere, and that is the price and it is the price he has paid by making himself a person who could be shown having left two figures not agreeing.** A man who is paid to make two figures agree and who does not do it is a man a second of a thing can be made out of, and there is no register and no column and no way of finding out that he did it.
+The figures were a column of receipts and a column of what had been paid out against them, and the whole of his trade in this empire is making the two of them agree, and they had agreed on that page every week for as long as either of them had been in that building. He read the top of the column down to the figure that should have been under it and then he read the other column across to the same line, and the two numbers were different by about the width of a thumbnail, and he has closed that kind of gap with a pen in about four seconds since he was nineteen.
+
+He got the pen up. He held it the way he holds it.
+
+Then he put it back in the pot without touching the page, and he squared the two columns with the side of his thumb, which is the one thing on that desk he has never once done on purpose.
+
+He went on to the fifth page and did that one, and the sixth, and he did the seventh, and the fourth page went into the pile with two figures in it that do not even.
+
+There is no column in this empire for a job a person has refused, and so nothing about that page is written down anywhere. A man who is paid to make two figures agree and who does not do it is a man a second of a thing can be made out of, and there is no register and no column and no way of finding out that he did it, and that is the price, and he paid it in about four seconds in a room with no window.
 
 He is a man who can be found. About four hundred sheets a year go out of this city with a mark in a strip on them that belongs to nobody, and about nine hundred go out of a floor nine miles off with a hand at the foot of every one. He is one of those hands. He is not the one at the foot of those.
 
 ---
 
-**Eight hours got done at a rate that is a rate and not a kindness, and the fourth page went into the pile with two figures in it that do not even, and nobody asked him one thing about it.** The bill for being findable is on an account he has still never been told the name of. About four hundred and thirty miles of this river stand above the point where that room is, and he is not going up there this month, and a woman of twenty is not going to be put in a room with him.
+Eight hours of a fair hand at a rate that is a rate and not a kindness, and one of them wrong, and nobody asked him a single thing about it. He will be back at that desk in a week and the pile will be a hand's width thinner than it should be by one page, and if anybody in that building ever wants to know why, there is nothing on the pile that says. The bill for being findable is on an account he has still never been told the name of. About four hundred and thirty miles of this river stand above the point where that room is, and he is not going up there this month, and a woman of twenty is not going to be put in a room with him.

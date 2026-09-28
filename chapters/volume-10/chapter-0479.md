@@ -30,7 +30,7 @@ The young man waited about four seconds.
 
 He put the thing down and it made a noise on the boards and neither of them looked at it.
 
-"**Take that off this floor.** Not off me. Off this floor. A sheet with nothing printed on it can be set beside the wrong pair of figures and there is not one man in this empire who would be able to say it was set there on purpose, and I have been the one writing the name onto things on this floor for nineteen years, and I am not going to be standing nine foot away from a sentence like that when the wrong pair of figures turns up on this lane. About two hundred things go across here a day and every one of them is somebody's, and that is the only thing I have ever been able to give anybody on this floor, and I am not giving it away to a sheet that fits anybody at all.**"
+"**Take that off this floor.** Not off me. Off this floor. A sheet with nothing printed on it can be set beside the wrong pair of figures and there is not one man in this empire who would be able to say it was set there on purpose, and I have been the one writing the name onto things on this floor for nineteen years, and I am not going to be standing nine foot away from a sentence like that when the wrong pair of figures turns up on this lane. About two hundred things go across here a day and every one of them is somebody's, and that is the only thing I have ever been able to give anybody on this floor, and I am not giving it away to a sheet that fits anybody at all."
 
 "I have not taken it back and I am not going to."
 
