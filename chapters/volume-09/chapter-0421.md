@@ -1,6 +1,6 @@
 # Chapter 0421: A Sentence In Her Head Every Working Day Since, The Form On The Board Again, And A Lamp Not Lit
 
-The shed is at the end of a lane off the Slade and it is about nine foot by eleven and the bench in it is longer than the room, and the light in it comes off the lane and off a wall standing about four foot past the open side of it. The lamp is on its bracket at the high end. It is not lit and it is not going to be lit until about the seventh hour, and there is a chain across the front of the front bench, and the chain is on the man at that bench.
+There is a shed at the end of a lane off the Slade, about nine foot by eleven, and the light in it comes off the lane and off a wall standing about four foot past the open side. The lamp is on its bracket at the high end and it is not lit until about the seventh hour. A man can lie down on the bench in it if he turns sideways. There is a chain across the front of that bench and the chain is on the man at that bench.
 
 It is the fourth day of the third week of the seventh month of the year after the year after the year after the year after the year after next, and it is the fourth hour.
 

@@ -1,8 +1,8 @@
 # Chapter 0430: A Thing With No Column At The Foot Of A Sheet, A Third Woman In The Room, And A Folded Thing Put Down At The Fifth Hour
 
-The wall board behind that counter has carried four items for eleven years and not one of the four is time, and **the fourth of the four is the one none of the three of them can account for, and it is in Marn Ottery's own hand and it is about four years old and she put it there herself.** The case stands at the near end and the box is under the far end of them where it has been for eleven years, and the drawer under that wall board is shut and there are four things in it.
+**The fourth of the four on that wall board is the one none of the three of them can account for, and it is in Marn Ottery's own hand, and it is about four years old, and she put it there herself.** The board behind that counter has carried four items for eleven years and not one of the four is time, and the three of them have between them looked at the fourth of those items and have never once agreed on what it is for.
 
-**She is thirty-four and those boards have been hers for eleven years and she is not a lawyer, and she is the only person on that floor who can say what a piece of paper with nothing printed on it is for, and she said it out loud once, in the first week of the second month, and nobody thanked her, and she said in terms that she was not going to be thanked then or later.**
+**She is thirty-four and she has stood at those boards for eleven years and she is not a lawyer, and nobody else on that floor would know what to do with one of the blanks, and that is not modesty. She said it out loud once, in the first week of the second month, and nobody thanked her, and what she said along with it was that she was not going to be thanked then or later, and that is still the arrangement on that floor.**
 
 It is the fourth day of the fourth week of the ninth month of the year after the year after the year after the year after the year after next, and it is the sixth hour, and the counter shuts at the sixth hour.
 

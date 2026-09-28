@@ -1,10 +1,10 @@
 # Chapter 0429: Four Headings Over Four Columns And A Sheet With None, A Thing Said Without Announcing It, And A Fifth Column Not Ruled
 
-There is a counter at the bottom of that stair and a shelf behind it, and the day-book stands on that shelf with its spine flush to the front edge, and it is open on the counter where it is open once a week because that is the day she does the week. There are four headings over four columns in it and they are room, and week, and name, and what was paid. **There has never been a fifth column and she has never once ruled one, and it is the only thing in that house she has wanted to do for about nine years and has not done.**
+The counter is at the bottom of the stair and the shelf is behind it, and that is where the book lives with its spine flush to the front edge of the shelf, and this is the morning of the week it is out on the boards and open at this week's page. Four columns and a heading over each of them, and she could say all four in her sleep. **There has never been a fifth one and she has never once ruled a line for it, and it is the one thing in that house she has wanted for about nine years and not done.**
 
-She is about thirty-five and she keeps that book in her own hand and about four rooms go by the week in that house and this week is a good week on the shelf. The girl in the back room is in her second season and she is not in the front of that house this morning.
+She is about thirty-five and the book is hers and the hand on it is hers, and about four rooms go by the week in that house, and this is a good week on the shelf. The girl in the back room is in her second season and she is not in the front of that house this morning.
 
-**She is the woman next door, and she has been next door to that hall for eleven years, and she is not the woman who stands at the foot of those four steps and never has been, and there are two women in that lane and neither of them has ever said a word to the other one about the man who lives in between them.**
+**She is the woman next door, and she has been next door to that hall for eleven years, and she is not the woman who stands at the foot of those four steps and never has been, and there are two women in that lane and about four feet of wet between them at this hour, and not one word has ever gone from one of them to the other about the man who lives in between them.**
 
 It is the fourth day of the third week of the ninth month of the year after the year after the year after the year after the year after next, and it is the fourth hour.
 
@@ -24,7 +24,7 @@ He came in off the lane and he was not wet and he had nothing in his hand, and h
 
 She wrote the third of that week's names into the fourth column and did not stop and did not look up.
 
-"**And a column with a heading over it is a machine, and a machine can be asked things all day long and does not mind the asking, because it cannot say no and it cannot be hurt by what comes back. That is what your four are. That is what they have been for nine years and they are good at it and I have never once seen one of them do anything else.**"
+"**And those four have been taking whatever is put under them for about nine years and they have never once objected, and the reason they have never objected is not that they agree with you. It is that a thing under a heading has no way of saying it was never asked. That is what your four are. That is what they have been for nine years and they are good at it and I have never once seen one of them do anything else.**"
 
 ---
 
@@ -58,4 +58,4 @@ He did not knock on anything. She did not knock on anything. The two of them hav
 
 ---
 
-**The day-book was not read and was not turned round and did not come off that shelf, and no fifth column was ruled in it by anybody, and the figure that lives in that man's head was not printed by him and not confirmed by her and not denied by either of them.** He told her nothing whatever about his four days a season, and she did not ask him, and there is no form in that lane in which she could have. The girl in the back room came out about half an hour later and stood at the other end of the counter with her arms folded and neither of them said a word about it, and the week went on the fourth column in her own hand with the difference not in it, and she has wanted it there for nine years and she is going to go on wanting it there and she is not going to rule it.
+**The book was not read and was not turned round and went back to the shelf where it lives, and nothing was added to it, and the thing that man is carrying about in his head is not written down anywhere by him, and she neither put it down nor rubbed it out, and it is still not down.** He told her nothing whatever about his four days a season, and she did not ask him, and there is no form in that lane in which she could have. The girl in the back room came out about half an hour later and stood at the other end of the counter with her arms folded and neither of them said a word about it, and the week went on the fourth column in her own hand with the difference not in it, and she has wanted it there for nine years and she is going to go on wanting it there and she is not going to rule it.
