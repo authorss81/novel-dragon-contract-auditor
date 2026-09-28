@@ -38,7 +38,7 @@ The clerk of about twenty-nine did not look up. A book was open in front of her 
 
 Marn Ottery had both hands flat on the wood.
 
-She had put them there three times in eleven years, two of the three had been followed by a sentence, and the third had been followed by a sentence that has been said on that floor once and has not been said since. **There is no form anywhere in this empire in which a clerk is entered as the one who has said a thing out loud on that floor a fourth time, and the thing she had in her mouth at about the third hour of that morning was the thing she said the third time.**
+She had put them there three times in eleven years, two of the three had been followed by a sentence, and the third had been followed by a sentence that has been said on that floor once and has not been said since. **There is no form anywhere in this empire in which a clerk is entered as the one who has said a thing out loud on that floor a fourth time, and the thing she had in her mouth at about the third hour of that morning was the one she has not said, and there is no form in this empire in which a sentence a person has not said is entered against her either.**
 
 "I am not going to say it."
 

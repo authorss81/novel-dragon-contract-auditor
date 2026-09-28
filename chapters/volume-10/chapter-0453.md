@@ -1,4 +1,4 @@
-# Chapter 0453: Two Sheets In One Pocket, A Young Man On That Landing, And Four Feet Of Plaster
+# Chapter 0453: Two Sheets In One Pocket, A Young Man At The Foot Of That Stair, And Four Feet Of Plaster
 
 The room is the one it was the week before, and the week before that.
 
@@ -24,15 +24,15 @@ He put his hand flat on the inside pocket and did not take either of them out.
 
 ---
 
-There was one knock on the door and it was not loud, and it came at about the fifth hour from the landing, and the door has no lock on it and has not had one since the week he took the room.
+There was no knock on that door at all that evening. What came up to it was a voice at about the fifth hour, and it came from the bottom of that stair, and the door has no lock on it and has not had one since the week he took the room.
 
-He had his hand on the pocket when he opened it. The young man from the shipping floor was on the landing with nothing in his hands. Marek Kest did not shut the door, and the young man came in as far as the table and no further and stopped there.
+He had his hand on the pocket when he opened it. The young man from the shipping floor was at the foot of that stair with nothing in his hands, and four flights of open stair carried him, and Marek Kest did not shut the door, and the young man did not come up one of them.
 
 "I have said nine words at that door before and you did not open it."
 
 "I heard both of them."
 
-"You did not open the door for either, and I have not come up for a third time. I am not here to be given anything and I am not here to hand you anything. I am going to say one thing and go down those stairs, and I am not going to say it again this week or any week after it."
+"You did not open the door for either, and I said on that step in a week that is gone that I was not going to come up these stairs a third time, and I have not come up them, and I am standing at the bottom of them. I am not here to be given anything and I am not here to hand you anything. I am going to say one thing and go out of that door and down that street, and I am not going to say it again this week or any week after it."
 
 "I am not going to stop you saying it."
 
@@ -40,31 +40,29 @@ He had his hand on the pocket when he opened it. The young man from the shipping
 
 ---
 
-He said it to the middle of the floor and not to the man.
+He said it up the stairwell and not to the man.
 
 "**A person who is carrying two things has stopped being a person who is carrying one thing. The second of them is not the first of them a second time. That is the whole of the difference and it is the only difference there is, and there is nothing else in either pocket.**"
 
-Nobody asked him where the two of them were. Nobody asked him anything at all. The young man did not look at the chair, and he said it to the floor of a room to a man in it, and there is no form anywhere in this empire in which a person is entered as the one who was told a thing about a coat.
+Nobody asked him where the two of them were. Nobody asked him anything at all. The young man did not look at the chair and could not have seen it from where he was standing, and he said it up four flights of open stair to a man in a room with the door standing open, and there is no form anywhere in this empire in which a person is entered as the one who was told a thing about a coat.
 
 "It is a true thing," Marek Kest said.
 
-"It is. I have known it about four days and I have not said it to anybody, and you are the first person I have said it to. You did not ask me for it, and that is the whole of the price of saying it here. There is no other price, and I am not going to be thanked for it, and you are not going to thank me, and I have not come up these stairs to be thanked."
+"It is. I have known it about four days and I have not said it to anybody, and you are the first person I have said it to. You did not ask me for it, and that is the whole of the price of saying it here. There is no other price, and I am not going to be thanked for it, and you are not going to thank me, and I have not come up this street to be thanked."
 
 ---
 
-"You came four flights."
+"You did not come up."
 
-"I came four flights."
-
-"There is nothing on that stair and there is nothing on this landing. There is a lamp at the bottom of it that is lit at the sixth hour. I have not come up here to hand you anything and you have not given me anything, and that is a thing neither of us is going to be able to say out loud in a room afterwards."
+"I did not come up and I am not going to, and I know nothing whatever about that stair and nothing about that landing and I have not looked at any of it. There is a lamp at the foot of it that is lit at the sixth hour, and I have said the one thing I came up this street for standing at the bottom of it. I have not come up this street to hand you anything and you have not given me anything, and that is a thing neither of us is going to be able to say out loud in a room afterwards."
 
 Marek Kest said nothing to that.
 
-"I have said one true thing in this room tonight and it is about a coat I have not been shown and a pocket I have not been shown. I have not looked at the chair and I am not going to look at the chair. **You are not going to confirm that I am right and you are not going to tell me I am wrong, and I would rather have that than either of the other two things, and that is what I came up four flights for.**"
+"I have said one true thing tonight and it is about a coat I have not been shown and a pocket I have not been shown. I have not looked at the chair and I could not have looked at the chair. **You are not going to confirm that I am right and you are not going to tell me I am wrong, and I would rather have that than either of the other two things, and that is what I came up this street for.**"
 
 ---
 
-Then he went down. His boots were on that stair for about the length of a sheet being squared, and he did not say one word on the way, and nobody in that building said one word back to him about the door or the landing or the lamp at the bottom of it.
+Then he went out. His boots were on the flags under that door for about the length of a sheet being squared, and he did not say one word on the way out of that building, and nobody in that building said one word back to him about the door or the landing or the lamp at the foot of the stair.
 
 Marek Kest stood in the room with his hand flat on the inside pocket of a coat on a chair against no wall. He did not open the pocket. He did not take either of them out. He did not put the leaf on the table where it has been twice in two years.
 
@@ -72,6 +70,6 @@ Marek Kest stood in the room with his hand flat on the inside pocket of a coat o
 
 ---
 
-Nothing was sent to him that week, and nothing has ever been sent to him. Nobody knocked twice and nobody came up the stairs after him. The man who was at that door in a month that is gone, with nothing in his hands, is not going to come up it again, and he said so in this room in the last week and he meant it and he is not going to be held to it by anybody, including himself.
+Nothing was sent to him that week, and nothing has ever been sent to him. Nobody knocked twice and nobody came up the stairs after him. **The young man said on that step in a week that is gone that he was not going to come up those stairs a third time, and he did not come up them. He said the one true thing from the bottom of them and went out of that door and down that street, and nobody in that house held him to it, and nobody in that house thanked him for keeping it, and he is not going to be held to it by anybody, including himself.**
 
 The four feet of plaster was as bare at the end of that evening as it had been at the start of it, and the nail was still in it with nothing hanging off it, and it will be the same in the morning. **He is thirty-eight and he holds nothing and he is not at a stage, and he is carrying two things he has told nobody about. One of them has a name gone out of it. The other one is the exact width of a name and nothing else has ever been that size. The two of them are in the same pocket on opposite sides and neither of them can be shown to anybody, and that is the whole of what he has got and it is not going to be on anything this month.**

@@ -16,7 +16,7 @@ Tamsin Rook was in at twenty minutes before the hour, and the twenty minutes are
 
 "You have been early every working day for two years and I have watched about a thousand of them and I have not said one word to you about any of them. I am not going to this morning either, and I want that said in this room while it is still nothing."
 
-Then she said the thing. She said it in the ordinary voice, and it came out shaped like a question, and it was not one, and it had no mark at the end of it.
+Then Tamsin Rook said the thing. She said it in the ordinary voice, and it came out shaped like a question, and it was not one, and it had no mark at the end of it.
 
 "**Two years, and nobody in this building has ever told me what it is that I am standing ready for.**"
 

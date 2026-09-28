@@ -1,4 +1,4 @@
-# Chapter 0459: The Same Statement Made Twice In Front Of Two People, A Box At The End Of That Floor, And A Courier Going Up Four Flights
+# Chapter 0459: The Same Statement Made Twice To One Woman, A Box At The End Of That Floor, And A Courier Going Up Four Flights
 
 Two years on a shipping floor and about four sheets a week up four flights. The thing that has gone wrong on that floor in two years is one box at the end of it that has not moved an inch.
 
@@ -8,9 +8,9 @@ It is the second day of the first week of the fifth month of the year after the 
 
 ---
 
-**He said the thing about the box out loud in a room at the top of four flights about two years ago, and he said it to a woman who had just moved a box under the end of her own boards. The sentence was that a clerk who moves a box is a clerk who has made a statement about it.** He said the statement was hers, and she accepted that it was hers, and he has not asked her one thing about it since and he is not going to.
+**He said the thing about the box out loud in a yard a good many years before he came to that floor, and he said it to a woman, and the sentence was that a clerk who moves a box is a clerk who has made a statement about it.** She has carried that sentence since as a thing a man said to her out loud in a yard, and he has not asked her one thing about it since and he is not going to.
 
-Then he said the same sentence again in a yard, and there was a second person standing in that yard when he said it, and that person did not answer him and did not go into the street again.
+Then he said the same sentence again in a room at the top of four flights about six months ago, to the same woman, who had just moved a box under the end of her own boards. He said the statement was hers and she accepted that it was hers, and that was the second of the two.
 
 He has not said it a third time and he is not going to, and it is not going to come out of him on an ordinary morning, and he had put it away.
 
@@ -22,11 +22,11 @@ The man of about forty-five with the loading end of that floor had a tally of hi
 
 "I have."
 
-"Once in a room at the top of some stairs, to one woman. Once in a yard, with two people standing in it. That is two people, and both of those were said out loud and not to a wall, and you have not asked one thing of either of them since, and I am not asking you about it either. I am telling you what I have worked out, which is that a thing that can be made twice is a thing that can be said twice."
+"Once in a yard, to one woman. Once in a room at the top of some flights, to the same woman. That is two times and it is one person, and both of those were said out loud and not to a wall, and you have not asked one thing of her since, and I am not asking you about it either. I am telling you what I have worked out, which is that a thing that can be made twice is a thing that can be said twice, and that the two of those are not the same size, and you have been carrying them as though they were."
 
-"That is not the same."
+"I have not said it three times."
 
-"**It is the same, and the reason it is the same is that neither of the two of them can be undone. A statement said once in front of one person is a thing that person could have forgotten, and could be made to forget. A statement said twice in front of two people is a thing with two people attached to it, and you cannot unsay it to either of them without there being a third one in the room, and there is not going to be a third one, because you are the kind of man who stops at two.**"
+"**That is not what I am saying, and the reason I am saying it is that you have been counting the woman twice. A statement said once in front of one person is a thing that person could have forgotten, and could be made to forget. A statement said twice in front of the same person is a thing that has been said to her twice, and there is nobody standing beside her to contradict it, and there is no form anywhere in this empire in which a person is entered as the one who heard a thing said two times. Two people would have been better for you and you have got one, and you stopped at one twice.**"
 
 ---
 
