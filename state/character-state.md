@@ -59,7 +59,6 @@
 
 **AND THE ONE THING NOBODY HAS BEEN TOLD.** That the answer was a copy. **Nobody in this matter has told the woman of twenty-four that a second of a second is the only instrument this matter has ever had, that anybody may have it, and that the reason nobody has ever been thanked is that a copy has no maker left in it after it has been made once — and she made a third place under the floor of her own room on the same reasoning, and she got there from the other end, and the two of them have never met and are never going to meet, and nobody sent him.**
 ---
----
 
 # VOLUME 11 HAS AN OUTLINE OF RECORD, AND IT CHANGED NOBODY, AND NO PERSON IS ENTERED A SECOND TIME
 

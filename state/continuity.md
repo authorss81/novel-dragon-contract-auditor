@@ -106,7 +106,6 @@ Seryn Oris (distinct from Sivra Oris, the Volume 1 water keeper) remains the fin
 
 **No romance has begun in ten volumes and none begins in this one. No walk is paid twice and the four hundred and thirty miles is walked zero times in this volume. Nobody is thanked, nobody is forgiven, nobody is sent for, and nothing is resolved. The count of things asked out loud is seven and does not move. The count of times a person has said a thing in a room is not recomputed inside one movement and is not asserted in a chapter. A number that appears in three chapters of a volume is a number that cannot be recomputed inside one movement. A second hearer is never added to a closed event. An absolute about a person is not built on, and where a closed chapter holds an absolute that its own scene contradicts, the later prose wins and the earlier absolute is carried and named. A calendar month name and a weekday name go into nothing this project writes, and the one false positive is the modal verb *may*. A year name is written out in full at every occurrence and abbreviated nowhere, and a year name is checked by counting the occurrences of the word *after* inside it. The four debts are owed and this phase discharged none of them.**
 ---
----
 
 # THE VOLUME 11 OUTLINE OF RECORD, AT `outline/volume-11.md`, AND WHAT IT ADDS TO THE CANON, AND NOTHING ABOVE THIS POINT IS REWRITTEN
 
