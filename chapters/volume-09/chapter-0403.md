@@ -44,7 +44,7 @@ The counter is at the top of them and there is a board on the wall behind it and
 
 He put the sheet on the near end of the boards where it goes. He did not look at the box. **He stood at the near end of those boards for about as long as it takes to fold a coat, and he did not touch the box and did not go near the end of the boards where the box is, and neither of the two women at that counter said one word to him about where he stood, and one of them has told him out loud that she was not going to be thanked and he is not going to be thanked either.**
 
-The man of about twenty-nine was at the far end of two joined tables with her pen down and she did not look up. She had said once that she would not say a second thing in that room and has not, and she has not said a third thing to him either, and there is no form in which a person may be told what a thing on a counter is going to be used for.
+The woman of about twenty-nine was at the far end of two joined tables with her pen down and she did not look up. She had said once that she would not say a second thing in that room and has not, and she has not said a third thing to him either, and there is no form in which a person may be told what a thing on a counter is going to be used for.
 
 ---
 

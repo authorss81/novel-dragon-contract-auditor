@@ -10,7 +10,7 @@ It is the fourth day of the third week of the third month of the year after the 
 
 ---
 
-The woman of about forty-four who came in at about twenty to the hour put fourpence on the boards and put her hand out, and the clerk of twenty-four gave her a piece of paper out of a case under the near end of the counter.
+The woman of about forty-three who came in at about twenty to the hour put fourpence on the boards and put her hand out, and the clerk of twenty-four gave her a piece of paper out of a case under the near end of the counter.
 
 **Nothing was printed on it. That is the whole of what it is, and there is nothing on it to be wrong with, and the clerk did not ask her a thing and did not say one word about what it was for, and the woman did not say a word either and folded it in three and put it inside her coat and went down the four flights.**
 
@@ -54,7 +54,7 @@ Nobody thanked her for saying it.
 
 "You will not be thanked for that," Marn Ottery said from the other end of the boards, in the ordinary voice, and then stopped, which she has not done in eleven years.
 
-Marn Ottery has said the shape of a thing out loud on that floor three times and the fourth time was in the second week of this month and it was about a box. **She has not said one word this week about a space at the foot of a sheet.** There were two women on that floor and one of them said it and the other one did not, and the other one noticed that she had not, and there is no form anywhere in this empire for a clerk to be recorded as the one who did not speak.
+Marn Ottery has said the shape of a thing out loud on that floor three times and the fourth time was in the first week of the second month and it was about a box. **She has not said one word this week about a space at the foot of a sheet.** There were two women on that floor and one of them said it and the other one did not, and the other one noticed that she had not, and there is no form anywhere in this empire for a clerk to be recorded as the one who did not speak.
 
 "Take your hands off my counter," Marn Ottery said.
 
@@ -62,6 +62,6 @@ He took his hands off. He had not put them on.
 
 ---
 
-He went down the four flights before the sixth hour and did not buy a copy of anything and was not served and was not asked for anything. The piece of paper with nothing printed on it went down those stairs in the inside of a coat belonging to a woman of about forty-four, and the case it came out of is not the box under the far end of the boards, and no form anywhere in that building says where the case is filled.
+He went down the four flights before the sixth hour and did not buy a copy of anything and was not served and was not asked for anything. The piece of paper with nothing printed on it went down those stairs in the inside of a coat belonging to a woman of about forty-three, and the case it came out of is not the box under the far end of the boards, and no form anywhere in that building says where the case is filled.
 
 **The space at the foot of about nine hundred sheets a year is the width of a name and nothing was written on it this week, and the ninth of the nine is not on anything, and the count of things anybody has asked out loud in this matter is the same as it was when he started up that stair.**

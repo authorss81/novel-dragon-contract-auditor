@@ -1,6 +1,6 @@
 # Chapter 0410: The Fourth Of Four Items On A Fee Board, A Sentence Shaped Like A Question, And The Counter Shutting At The Sixth Hour
 
-The board on that wall carries four items and not one of the four is time, and the fourth of the four has been on it since the third hour of an ordinary morning and has not been asked about by anybody. **About four hundred of the blanks that come out of that counter go out of it in the hand of somebody, and about four hundred of them a year go out of the building, and the woman at that counter is the only person in that room who can say what one of them is for, and she has said it once.**
+The board on that wall carries four items and not one of the four is time, and the fourth of the four has been on it since the third hour of an ordinary morning and has not been asked about by anybody. **About four hundred of them go out of that counter in the hand of somebody every year, and not one of the three people on that floor has ever been told what a person does with one afterwards, and the woman at that counter is the only one of the three who can say what a piece of paper with nothing printed on it is for, and she has said it once.**
 
 **She is thirty-four, she has the other end of those boards, and the boards have been hers for eleven years.** Her name is Marn Ottery and she is not a lawyer and is never going to be one. The drawer under that board is shut and has been shut for eleven years and there are four things in it and two of them have never been opened. The box under the far end of those boards holds about four hundred bought and unfilled blanks. Nothing has ever been left in it, there is no form anywhere in the four hundred buildings this empire is made of that would be used to account for a box of them, and there has not been one drawn since it went under there.
 
@@ -38,13 +38,13 @@ Marn Ottery did not turn round.
 
 "You have just said the whole of it out loud and called it something else."
 
-"I have just told you what shape that sentence is and I have not touched what is in it." Marn Ottery put her hand flat on the boards. "**And I am going to tell you the thing I have been not telling you since the second week of this month, and I am not going to be thanked for it and I am not going to say it a second time. A person who is early for a reason is a person who has already been used and has not been told. The not being told is the part that cannot be put back.**"
+"I have just told you what shape that sentence is and I have not touched what is in it." Marn Ottery put her hand flat on the boards. "**And I am going to tell you the thing I have been not telling you since the second week of the second month, and I am not going to be thanked for it and I am not going to say it a second time. A person who is early for a reason is a person who has already been used and has not been told. The not being told is the part that cannot be put back.**"
 
 ---
 
 "I have not been used."
 
-"You have been early for two years, and I said out loud in the second week of this month that nobody in this building had done one thing about it, and I was pleased with the shape of that, and I have been wrong about the shape of it for a fortnight and I have been carrying it." Marn Ottery turned round. "**The not doing anything about it was not a courtesy to you. It was the using. There is no form anywhere in this empire for a thing that has been done to a person and not written down, so the not writing was all there was, and you are the only thing in that room anybody could have said a thing to and every week you came in early was a week that went on being true.**"
+"You have been early for two years, and I said out loud in the second week of the second month that nobody in this building had done one thing about it, and I was pleased with the shape of that, and I have been wrong about the shape of it for a fortnight and I have been carrying it." Marn Ottery turned round. "**The not doing anything about it was not a courtesy to you. It was the using. There is no form anywhere in this empire for a thing that has been done to a person and not written down, so the not writing was all there was, and you are the only thing in that room anybody could have said a thing to and every week you came in early was a week that went on being true.**"
 
 ---
 
@@ -56,7 +56,7 @@ The clerk of about twenty-nine did not look up. She gave that promise to him onc
 
 "So I am a fact on that board now," Tamsin Rook said.
 
-"You are the fourth item on that board and you have been the fourth item on that board for two years, and the only thing that has changed this morning is that I have said out loud which one you are, and I did not do it for you and I did not do it because you asked me." Marn Ottery took her hand off the boards. "**And I would like it noticed that I have done the one thing in this room in eleven years that I told you in the second week of this month I was not going to do, and I did it at about the fourth hour on an ordinary morning with nobody to thank me for it, and I am not sorry about that either.**"
+"You are the fourth item on that board and you have been the fourth item on that board for two years, and the only thing that has changed this morning is that I have said out loud which one you are, and I did not do it for you and I did not do it because you asked me." Marn Ottery took her hand off the boards. "**And I would like it noticed that I have done the one thing in this room in eleven years that I told you on the fourth day of the third week of the third month I was not going to do, and I did it at about the fourth hour on an ordinary morning with nobody to thank me for it, and I am not sorry about that either.**"
 
 ---
 
@@ -64,4 +64,4 @@ The counter shut at the sixth hour. Nobody had touched the drawer under the boar
 
 The clerk of twenty-four took her coat down off its hook and went out into the stair, four flights of it, one hand on the cold rail and nobody on any of the landings. A man from the yard went up and down those stairs twice between the third hour and the sixth with a satchel on his shoulder and asked nothing and was told nothing and does not know what is at the top of them.
 
-**Nobody was thanked, nobody was forgiven, nobody was sent for, nothing was resolved, and the count of things anybody has asked out loud in this matter is the same as it was on the fourth day of the second week of the second month.** The four items are on the wall and the fourth of them is the one none of the three of them can account for, and the sentence shaped like a question is in that room, and it has not been answered, and nobody was going to answer it, and that is the arrangement, and it is still standing.
+**Nobody was thanked, nobody was forgiven, nobody was sent for, nothing was resolved, and the count of things anybody has asked out loud in this matter is the same as it was on the second day of the first week of the second month.** The four items are on the wall and the fourth of them is the one none of the three of them can account for, and the sentence shaped like a question is in that room, and it has not been answered, and nobody was going to answer it, and that is the arrangement, and it is still standing.

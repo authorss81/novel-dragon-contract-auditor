@@ -14,7 +14,7 @@ The man at the door was about thirty-one and he had a book under his arm, and th
 
 "There is a person in it."
 
-"There is a person in it and she has taken that rent for about twenty years under nothing, and I have been sent here to write a name at the top of a column, and I have got a man of forty-four upstairs who will not tell me one thing about himself either, and between the two of you that address cannot be served with anything at all." He did not open the book. "**And I want to be exact, because this is the part people get wrong. A person who cannot be served is not a protected person. A person who cannot be served is a person nobody would want to.**"
+"There is a person in it and she has taken that rent for about twenty years under nothing, and I have been sent here to write a name at the top of a column, and I have got a man of about thirty-eight upstairs who will not tell me one thing about himself either, and between the two of you that address cannot be served with anything at all." He did not open the book. "**And I want to be exact, because this is the part people get wrong. A person who cannot be served is not a protected person. A person who cannot be served is a person nobody would want to.**"
 
 ---
 
@@ -26,7 +26,7 @@ The man at the door was about thirty-one and he had a book under his arm, and th
 
 ---
 
-"You think it is a protection."
+"And that is not a protection, and I have said so once in this doorway, and I am not going to say it twice."
 
 "I think you have told me it is not a protection and I have believed you, and I am going to go on acting as though it is one, and you are going to go on telling me it is not, and neither of us is going to have a form about it."
 
@@ -44,6 +44,6 @@ The man at the door was about thirty-one and he had a book under his arm, and th
 
 He went up the lane and the door stayed as it was and the lamp on the table was not lit yet.
 
-**Nobody came down those stairs. The man in the room above had a week in it and had not been in it, and the man on the floor with the book had been four feet from her and had not been able to get one thing out of that house that a person could be written about. There is no form anywhere in this empire in which a landlord asks a woman what her name is and the woman has to give it, because that would be a form, and a form is a machine, and a machine gets asked things all day and does not mind.**
+**Nobody came down those stairs. The man in the room above had that room by the week and had not been down them once in the two years he has had it, and the man on the floor with the book had been four feet from her and had not been able to get one thing out of that house that a person could be written about. There is no form anywhere in this empire in which a landlord asks a woman what her name is and the woman has to give it, because that would be a form, and a form is a machine, and a machine gets asked things all day and does not mind.**
 
 The rent was taken at about the sixth hour in the ordinary way, which is out of a hand and into a hand, and there was nothing written anywhere, and the amount was the amount it is, and the stairs went up out of that room and nobody has come down them in about twenty years and nobody came down them that night.

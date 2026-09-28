@@ -20,13 +20,13 @@ She came up once that week and she came up with nothing in her hands, which is t
 
 ---
 
-"Then tell me why nothing has ever been sent to me," he said, which is the nearest he has come to putting a thing out loud in two years, and it is not a question and it has no mark on the end of it and he did not raise his voice.
+"**Then it is not that they have decided not to send me anything.** He said it in the ordinary voice and he did not raise it, and it is the nearest he has come to putting a thing out loud in two years, and it is not a question and it has no mark on the end of it.
 
-"Because nothing has ever been sent to anybody." She said it flatly and without any weight on it, the way a person says a thing they have measured. "Not to me. Not to the woman in the room you do not know about and I have never seen. **A man nobody sends anything to is a man nobody can be shown anything about, and I have known that since about the third year of my standing at the bottom of these stairs, and I have never had anybody to say it to, and you are the first.**"
+"Because nothing has ever been sent to anybody." She said it flatly and without any weight on it, the way a person says a thing they have measured. "Not to me. Not to anybody in this row, and I have watched this row for twenty years. **A man nobody sends anything to is a man nobody can be shown anything about, and I have known that since about the third year of my standing at that door, and I have never had anybody to say it to, and you are the first.**"
 
 "You did not know me."
 
-"I have known that about a house for twenty years. I have never known a man." She did not sit down and she did not touch the table. "**And that is the whole of what you are, and you knew it in about four minutes in a bay in a year that is gone, and I have said it out loud on a floor tonight, and you cannot get it back.** I did it in this room and not in a doorway, and I want that entered, because a doorway is where I say things I have decided to say and a room is where I say things I have not."
+"I have known that about a house for twenty years. I have never known a man." She did not sit down and she did not touch the table. "**And that is the whole of what you are, and you knew it in about four minutes in a bay in a year that is gone, and I have said it out loud in a room tonight, and you cannot get it back.** I did it in this room and not in a doorway, and I want that entered, because a doorway is where I say things I have decided to say and a room is where I say things I have not."
 
 ---
 
@@ -40,4 +40,4 @@ Then he sat down in it, which he has not done, and the four feet of wall beside 
 
 ---
 
-**She went back down and nothing came up after her, because nothing was sent to her either, and that is the arrangement and it is the reason she can say things on that floor.** He was not thanked. He was not sent for. Nobody came to that room in the second half of that evening, and there was no paper anywhere in it, and a name is not a thing a person can be given either, and the four feet of wall is still bare, and the nail is still in it, and the count of things anybody has asked out loud in this matter is the same as it was when she came up those stairs.
+**She went back down and nothing came up after her, because nothing is sent to her either, and that is the arrangement and it is the reason she can say things on that floor.** He was not thanked. He was not sent for. Nobody came to that room in the second half of that evening, and there was no paper anywhere in it, and a name is not a thing a person can be given either, and the four feet of wall is still bare, and the nail is still in it, and it has been in it longer than he has, and nobody has been asked about it by anybody.

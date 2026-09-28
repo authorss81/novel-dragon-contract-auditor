@@ -44,7 +44,7 @@ Marn Ottery came up the four flights at the fourth hour and not before it, which
 
 "It has cost me two years of my life being the first one here."
 
-"That is the cheapest thing either of us has ever paid and you know it is, and if you say it out loud as a cost I will not be able to argue with the rest of what you said." Marn Ottery did not raise her voice and did not move her hands. "Say the other one. The one underneath. Say it once and I will leave you alone about it and I will never raise it again, and I will not be thanked for raising it now, and I want that on the floor before you say it and not after."
+"That is the cheapest thing either of us has ever paid and you know it is, and if you say it out loud as a cost I will not be able to argue with the rest of what you said." Marn Ottery did not raise her voice and did not move her hands. "**I am not going to ask you for it, and I have decided that this morning and not this week, and I want that on the floor before you say it and not after. If you put it down here I will leave you alone about it for good and I will never raise it again, and I will not be thanked for raising it now.**"
 
 ---
 

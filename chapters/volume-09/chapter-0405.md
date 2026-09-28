@@ -1,8 +1,8 @@
 # Chapter 0405: Four Lines At The Top Of A Column, A Sentence That Stopped In A Doorway, And A Man At The Head Of Those Tables
 
-Twelve times is the number, and every one of the twelve was done alone, and this week the twelve of them was not: there is a clerk at the other end of the two joined tables and a man at the head of them who has been in that building eleven years.
+Nine times is the number, and every one of the nine was done alone, and this week the nine of them was not: there is a clerk at the other end of the two joined tables and a man at the head of them who has been in that building eleven years.
 
-**He keeps the books of that Company and his name is Rennick Adley and he is thirty-eight, and he has no office, no fund, no list and no leave.** What is written at the top of the third column of a sheet of fool's-cap in his own hand is his copy of half a sentence a woman of fifty-one stopped giving him in a doorway in a month that is gone. Under the four lines there is nothing at all. The ruled space runs from the bottom of the four lines to the bottom of the page and it has wanted dates since the third month and has never once turned into a question. He put the three rules on that sheet himself and there is not a single word printed over any of them.
+**He keeps the books of that Company and his name is Rennick Adley and he is thirty-eight, and he has no office, no fund, no list and no leave.** What is written at the top of the third column of a sheet of fool's-cap in his own hand is his copy of half a sentence a woman of fifty-one stopped giving him in a doorway in a month that is gone. Under the four lines there is nothing at all. The ruled space runs from the bottom of the four lines to the bottom of the page and it has wanted dates since the first month and has never once turned into a question. He put the three rules on that sheet himself and there is not a single word printed over any of them.
 
 It is the second day of the first week of the third month of the year after the year after the year after the year after the year after next, and it is the second hour, and the shutter on that window is on a hinge that has not been oiled since before he came.
 
@@ -16,11 +16,11 @@ The man at the head of the two joined tables came in at about the third hour, re
 
 ---
 
-"That is the twelfth," the clerk said.
+"That is the ninth," the clerk said.
 
-"That is the twelfth."
+"That is the ninth."
 
-"It is the twelfth and it has come out the same twelve times, and I have sat at the other end of these tables for every one of them." She put her pen down. "**I am going to tell you the thing about the other half of that sentence, and I am telling you because you have not asked me, and I want it entered that you did not ask me, and I am not going to be thanked for it.**"
+"It is the ninth and it has come out the same nine times, and I have sat at the other end of these tables for every one of them." She put her pen down. "**I am going to tell you the thing about the other half of that sentence, and I am telling you because you have not asked me, and I want it entered that you did not ask me, and I am not going to be thanked for it.**"
 
 "I have not asked you."
 
@@ -60,4 +60,4 @@ A man from the yard came in with a satchel and set it on the counter along that 
 
 **He was not examinable. There is nobody in that lane who could tell anybody anything about him, and there is nobody in that lane who could tell anybody anything about the four hundred yards either, because nobody in that lane has been down it and no blank is carried up it and a carrier who is findable has stopped being cheap.**
 
-The four that come up that lane were in that Company's accounts before the fourth hour. The four lines are at the foot of a sheet of fool's-cap now, under the last ruled line, in the same four lines in the same order in the same length of handwriting, and the middle of that clause is where it has always been, and it is not going to be different this week than it was the other fifty-one weeks.
+The four that come up that lane were in that Company's accounts before the fourth hour. The four lines are at the foot of a sheet of fool's-cap now, under the last ruled line, in the same four lines in the same order in the same length of handwriting, and the middle of that clause is where it has always been, and it is not going to be different this week than it was the other eight weeks.
