@@ -1,6 +1,6 @@
 # Chapter 0444: The Lamp At The Seventh Hour, A Man At The Open Side Who Is Not The Foreman, And One Of The Two Standing Up
 
-The shed is about nine foot by eleven and the bench at the front is longer than that, and the chain is across the front of it and the chain is on him. The form is on the board by the door and the lamp is on its bracket at the high end and it is not lit before the seventh hour on any day of any week, and no fire has ever been lit in that shed.
+It is the seventh hour and the lamp on its bracket at the high end of that shed has not been lit yet, and it is not going to be before the seventh hour on any day of any week, and no fire has ever been lit in there. The chain is across the front of the bench and it is on the man at the open side and he has not gone under it, and the form is on the board by the door.
 
 She is fifty-one, she is a foreman, and the way she came to be at the end of that lane was by a class and not by her. Nobody in that lane has ever wanted the story of it, and nobody has ever stood up and tried to have the paper that did it set aside, and nobody is going to.
 
@@ -8,7 +8,7 @@ It is the second day of the second week of the first month of the year after the
 
 ---
 
-He said four sentences here in the second week of the fifth month, about eight months ago, and he gave the price of them at the same time in the same breath, and neither of them has opened it since and neither of them is going to.
+Four sentences were said in this shed in the second week of the fifth month, about eight months back, and the price of them went out in the same breath as the four, and the thing has not been opened since by anybody in this lane and is not going to be.
 
 "There is a man at the open side."
 
@@ -42,12 +42,12 @@ The other one stayed where he was on the bench at the back and did not look roun
 
 ---
 
-The man at the open side stood there until the lamp had been burning about as long as a sheet takes to be signed, and then he went back up the lane, and he did not come in, and nobody stopped him, and nobody asked him one thing, and he did not say one word to anybody in that shed.
+The man at the open side stood there until the lamp had burned for about as long as it takes to sign a bundle, and then he went back up the lane, and he did not come in, and nobody stopped him, and nobody put one thing to him, and he said nothing at all to anybody in that shed.
 
-There is no form anywhere in this empire in which a person is entered as the one who stood at an open side and was shown nothing, and there is not going to be one, and that is the arrangement and it is the whole of what that shed has.
+Nobody in this empire can be written into a record as a man who stood at an open side and was shown nothing, and there is not going to be a form for it either, and that is the arrangement, and it is everything that shed has to give anybody who stands at the open side of it.
 
 ---
 
-The form went back on the board, and it will be on it again on the second of the two days next week, and it has stood on that board two days a week for longer than anybody in that lane could put a date to.
+The form went back on the board, and it will be back on it next week on the second working day, and it has stood on that board two days a week for longer than anybody in that lane could put a date to.
 
-**The four hundred yards up that lane was not walked that week and nobody in that shed went up it in either direction.** Nobody thanked her. Nobody sent for her. Nobody forgave her and nothing was resolved, and the two of seventeen are at the back of that shed and one of them was standing in front of a board at the seventh hour with a lamp burning and nobody said one word to her, and she has not been thanked and she is not going to be, and the lamp went out when it goes out.
+**The four hundred yards up that lane was not walked that week and nobody in that shed went up it in either direction.** She was not thanked for the standing up and she is not going to be, and nobody has been forgiven in that shed and nobody has been sent for and nothing was settled, and the two of seventeen are at the back of it and one of them was in front of a board at the seventh hour with a lamp burning and nobody said one word to her, and the lamp went out when it goes out.

@@ -22,9 +22,9 @@ He had signed it the day before. It was not a guess. It was the same sheet with 
 
 ---
 
-He signed it. The hand took about the length of a breath and a half and then he put the pen back in the pot.
+He signed it. The pen went into the pot again in about the time it takes to say nothing twice, and he did not look up while he did it.
 
-His eyes did not lift off the sill at any point of that, and they have not lifted off a sill on any sheet since he was forty-two. He signed about two hundred and about six that morning instead of about two hundred, and nobody in that corridor has ever counted and nobody is going to start, and the hook was empty inside a minute after the seventh hour.
+His eyes did not lift off the sill at any point of that, and they have not lifted off a sill on any sheet since he was forty-two. He signed about two hundred and about six that morning instead of about two hundred, and nobody in that corridor has ever counted and nobody is going to start, and by a minute past the seventh hour there was nothing left on that hook to count.
 
 **And there are about nine sheets a year that are not what the person above him wrote, and he knows which and has known since the spring, and he has never once written one of them down and there is nowhere in this empire to write one down. This is a different thing. It is the first one he has had that is not a number, and it is going to stay in him for the rest of that year, and there is no pot on that sill for it.**
 
@@ -56,7 +56,7 @@ He said it to the sill and not to a man, and it is the sort of thing he is right
 
 ---
 
-He did say one more thing. He got as far as it, and it was four words long and he got through two of them, and then he stopped, and the man of about sixty-one did not look up and did not put his pen down and did not do anything at all, and the two words stayed where they were.
+He did say one more thing. He got as far as it, and it was four words long and he got through two of them, and then he stopped, and the man of about sixty-one kept his eyes on that sill and kept his pen in his hand and did nothing at all about any part of it, and the two words stayed where they were.
 
 "Put them down."
 
@@ -68,12 +68,12 @@ He put them down.
 
 ---
 
-The four went down the corridor in his own arms because they were not finished, and the piece of paper in the inside pocket of his coat stayed in the inside pocket of his coat, and he has not taken it out since the morning he filled it in and he is not going to, and the man of about sixty-one did not see him go and was not looking.
+He carried the four down that corridor in his own arms because nobody had finished with them, and the piece of paper in the inside pocket of that coat went down with him and has not been out of it since the morning he filled it in. The man of about sixty-one never once lifted his head off that sill for any part of it, and there is nobody on that floor who would be able to say afterwards that he had.
 
 **The second mark is on a sheet about four hundred yards of corridor and nine miles of road from any room in this matter, and it is under a hand that cannot read a paragraph, and it is dated a day before the day it was put there, and nothing anywhere in this empire can lay one of those two things beside the other and say which of them is out of time.**
 
 ---
 
-Nobody thanked him. Nobody has been forgiven here either. Nobody has been sent for, nothing has been settled, and the two who are in boxes are in the boxes they were in, and the form that put them there is not being asked to be void by anybody.
+No thanks went anywhere in that corridor, no forgiveness either, and nobody has been sent for from it, and nothing was settled at that sill, and the two who are in boxes are in the boxes they were in, and nobody has ever put it to the form that put them there.
 
 The year ran out at the end of that week. Nobody in that corridor said one word about it and there is no form anywhere that a year has to be said anything about when it has gone.

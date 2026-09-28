@@ -54,6 +54,6 @@ He put the key on the table, which is the only thing on the table in that room a
 
 ---
 
-The piece of paper with nothing printed on it that he put fourpence into the case for is still on him and he has not taken it out and he is not going to, and he is not going to fill it in, and there is nobody in that building who has been told any of that and there is nobody in that building who could be shown it.
+The piece of paper with nothing printed on it that he put fourpence into the case for is still on him and he has not taken it out and he is not going to, and he is not going to fill it in, and nobody in that building has been told any of that, and nobody in it could be shown it either.
 
-Nobody thanked him. Nobody was forgiven and nobody was sent for and nothing was resolved, and a box that has been under a counter for eleven years is four miles off in a room with about four hundred blanks in it and nothing on the top of it, and nobody in this empire has been told that the two of those are the same box.
+**Nobody at either end of that road thanked him and nobody has been forgiven and nobody was sent for, and nothing was settled anywhere on that road, and a box that has been under a counter for eleven years is four miles off in a room with about four hundred blanks in it and nothing on the top of it, and nobody in this empire has been told that the two of those are the same box.**

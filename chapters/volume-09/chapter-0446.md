@@ -1,6 +1,6 @@
 # Chapter 0446: Somebody Going Up Who Is Not The Man Whose Rent It Is, And A Woman At The Bottom Of Four Steps For Twenty Years
 
-The ground floor has not changed in about twenty years and neither has the passage off it, and the four steps go up off that passage, and she has not once in twenty years put her hand on the door at the top of them. At the sixth hour every evening she sets a lamp down on the table by the front door, and she has done that at that hour every evening for about twenty years. Nothing else in that room has ever been moved.
+The lamp went down onto the table by the front door at the sixth hour, the way it has gone onto that table every evening for about twenty years, and there is nothing else in that ground-floor room that has ever been moved, and there is nobody in that house who has ever moved it.
 
 **The woman who keeps minutes in a room off the old river road is not the woman at the bottom of these steps. Nothing has ever gone out of that room and down to this house, and there is nobody left alive with any reason to try it.**
 
@@ -54,6 +54,6 @@ For about twenty years the whole of what that house had was that nothing in it c
 
 She put her hand flat on the boiler for about as long as a breath and did not shift a thing. What is behind the boiler is a tin about the size of a loaf whose lid has not sat true for a good many years, and there are nine years of a man's rent in coin inside it, and she has never counted it and has no reason on earth to.
 
-She did not go up. She is never going to go up, and the door at the top of them is not a thing she has ever been at, no soul in this city has any right to put it to her about it, and not one of them would think to.
+She did not go up. She is never going to go up them, and in twenty years she has not been as far as the top of those four steps, and there is nobody in this city with any standing to put that to her about it and not one of them would think to.
 
-Nobody thanked anybody. Nobody was forgiven and nobody was sent for and nothing was resolved, and the lamp burned on the table by the front door until it went out on its own.
+Nobody thanked anybody in that house, nobody has been forgiven in it, nobody was sent for, nothing was settled, and the lamp went on burning on the table by the front door until it went out on its own.

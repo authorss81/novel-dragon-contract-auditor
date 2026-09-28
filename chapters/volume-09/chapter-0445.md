@@ -1,8 +1,8 @@
 # Chapter 0445: A Man Who Came To Look At One Of The Fifteen, A Clerk Who Is Not Going To Write A Lot Down, And A Shelf With One Volume Left On It
 
-The counting room is at the back of a dye end. There is one window in it and a length of board is nailed across the bottom of that window, and the shelving goes down both sides to a height that means the stool or it does not mean it.
+It is the same counting room she has stood at since she was seventeen, at the back of a dye end. There is one window in it and a length of board is nailed across the bottom of that window, and the shelving goes down both sides to a height that means the stool or it does not mean it.
 
-**Sixteen volumes go on those shelves. Fifteen of them are out on loan and the sixteenth carries her own name in capitals at the head of it and nobody has opened it since the day it was written, in front of anybody or otherwise, and nobody in that building has ever asked to be there when it is.**
+**Sixteen volumes have their places on those shelves and one of the sixteen is in this room. The other fifteen went out on loan on carts, and the one that is here has her own name printed across the top of it in capitals, and it has not been opened since the day it was written, in front of anybody or otherwise, and nobody in that building has ever asked to be there when it is.**
 
 She is twenty. The wage of nineteen days of a crew's money is held in a coat about four miles off, in a room she has not stood in since she was seventeen, and there is a paper in that pocket with a printed ruled space on the back of it, and that space has been clean for as long as it has been in that pocket.
 
@@ -10,7 +10,7 @@ It is the fourth day of the third week of the first month of the year after the 
 
 ---
 
-He came in off the lane at about the fourth hour with the man from the front office and neither of them knocked, because there is no door in that room worth knocking on, and he had not been in the counting room in his life and he said so in about four words before he had got his coat off.
+He came up the lane at about the fourth hour with the man from the front office and neither of them knocked, because there is no door in that room worth knocking on, and he had not been in the counting room in his life and he said so in about four words before he had got his coat off.
 
 He said it to the man from the front office and not to her. He did not come to the middle of the room. He stood at the near end of the shelves on the side the light comes in and looked along them.
 

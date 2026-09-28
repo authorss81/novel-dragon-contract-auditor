@@ -26,7 +26,7 @@ He put the four on the boards and squared them and did not say anything for abou
 
 "You are going to carry that down those four flights and then you are going to carry it about four miles, and there is nobody in this room who could carry it instead of you, and I am not asking you to, and that is the only reason I am saying it in this room at all."
 
-"You did not ask me and I am not going to stand here and say that you did not."
+"You did not ask me, and standing here saying that you did not is the last thing I am going to do with my morning."
 
 He said it to the boards, which is how the woman at the far end of those boards says everything she has ever said in that room, and he put his hand flat on the deal about a foot from hers and did not touch it, which he has done twice in two years and neither of the two times was about a box.
 
@@ -44,13 +44,13 @@ Tamsin Rook was at the near end with the case behind her. She is twenty-four, sh
 
 "You wanted it out of there before the first week of this month."
 
-"I am not going to say that in this room, and there is no form anywhere for a woman to be entered as the one who wished a thing out of a room, and nobody is going to be thanked for it in either building, and I have said the second half of that to you once and I am not going to say it a second time this month."
+"I am not going to say that where I am standing, and nothing in this empire will ever have my name against a wish of that kind, and nobody is thanked for it in either building, and I have put the second half of that in front of you once already and it is not going in front of you a second time this month."
 
 ---
 
 He said the price then, and he said it to the sill end of the boards and not to a person, and it was the fourth time he had said any part of it out loud in two years and the first time it had been about something that was not a sheet.
 
-"**A box is not a corner. I am going to carry it down four flights and about four miles and I cannot put it down anywhere on the way and I am not going to be thanked for it, and if you want to know what a man gets out of that, the answer is that for about four hours he is not the man who carries things up a stair, and that is worth more to me than the corner is, and neither of us is going to be thanked for it.**"
+"**A box is not a corner. I am going to carry it down four flights and about four miles and I cannot set it down anywhere on the way, and nobody is going to thank me for the carrying of it either. If you want to know what a man gets out of that, the answer is that for about four hours he is not the man who carries things up a stair, and that is worth more to me than the corner is, and neither of us is going to be thanked for it.**"
 
 He was right about that and neither of the two women at that counter found out whether it was right or wrong, and there is no form anywhere in this empire in which a person is entered as the one who said a true thing to two people who did not answer it.
 
@@ -58,7 +58,7 @@ He was right about that and neither of the two women at that counter found out w
 
 Then he went down those stairs with it, and that was the first of the three times.
 
-He came back up about a quarter of an hour afterwards, and that was the second. He stood at the near end of the boards for about the length of a sheet being squared with nothing in his hands, and neither of the two women at that counter said one word to him about it. There has never been a form in this empire for the woman who is entered as the one who said nothing, and the two of them have been that woman a great many times.
+He came back up about a quarter of an hour afterwards, and that was the second. He stood at the near end of the boards for about the length of a sheet being squared with nothing in his hands, and not one of the two women at that counter said a word to him about any part of it. No form in this empire has ever been drawn for the woman who is entered as the one who said nothing, and the two of them have been that woman a great many times.
 
 And then he went down again, and that was the third, and this time he had his hand shut on something that was not a corner.
 
@@ -68,8 +68,8 @@ He had put fourpence into the ordinary place at the near end before he went down
 
 ---
 
-The boards were squared at the sixth hour and the case went behind them and the board came off the wall and went back on it with the four items on it and not one of the four being time.
+The boards were squared at the sixth hour and the case went in behind them, and the four of them went back up on the wall board in the places they have been in for eleven years, and not one of the four is a time, and the board went on the wall again and nobody in that room counted it going up.
 
 **The box was not put back under the end of those boards. It was on its side against the wall behind the far end, out of sight of the door, where it has been out of sight of a door for eleven years and is now out of sight of a floor, and the dust that came off it is on the deal and nobody swept it up and nobody is going to and there is no form for a woman to be entered as the one who left a thing where it was.**
 
-Nobody thanked anybody. Nobody was forgiven. Nobody was sent for and nothing was resolved, and the drawer under the wall board was shut, and the fourth of the four items on that board is still the one that none of the three of them can account for, and a man went down four flights three times in one morning and nobody on that floor can say why a man would do that.
+**Nobody in that building was thanked and nobody was forgiven and nobody was sent for, and the arrangement at the sixth hour is the arrangement it was at the fourth. The drawer under the wall board stayed shut, and the fourth of the four things on that board is still the one that has never been accounted for by any of the three of them, and a man went down four flights three times in one morning and nobody on that floor can say why a man would do that.**

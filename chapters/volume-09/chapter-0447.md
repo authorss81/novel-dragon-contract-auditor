@@ -1,8 +1,8 @@
 # Chapter 0447: A Piece Of Paper With Nothing Printed On It Folded In One, A Man Who Cannot Say Where He Got It, And A Door Nobody Knocked On
 
-It is the same room, two streets back from a street that runs down to the river road, and there has never been anything on that table and there is nothing on it now. The nail in the wall went in crooked at about the height of his hand and nothing has hung off it. The window looks at the back of another house. There is no fire in that room and there is not going to be one.
+He has been in that room about two years and it is the same room it has been every week of them, two streets back from a street that goes down to the river road, and the table in it is bare and has been bare for the whole of that, and the only thing outside that window is the back of somebody else's house, and there is no fire in it and none is coming.
 
-**Marek Kest. Thirty-eight. He holds nothing this week and nothing is on its way to him — no office, no fund, no list, no leave, no certification, and not one of those five has so much as one step on its way to him, and there is no second copy of anything in that building.**
+**Marek Kest. Thirty-eight. He holds nothing this week and nothing is on its way to him — no fund, no certification, no list, no leave and no office behind his name, and not one of the five has so much as one step on its way to him, and there is no second copy of anything in that building.**
 
 It is the second day of the first week of the second month of the year after the year after the year after the year after the year after the year after next, and it is the fifth hour.
 
@@ -12,15 +12,15 @@ He opened the door because he was going out, and there was a man on the step wit
 
 "**I have brought you a piece of paper.**"
 
-He said it in the ordinary way and he did not come in and he did not ask to come in, and Marek Kest stood aside about a foot, which is not an invitation and is not an exclusion, and the man came about half of that far and stopped, and neither of them said one word for about nine seconds.
+He said it in the ordinary way and he stayed on the step and he did not ask to come in, and Marek Kest moved about a foot sideways out of the way of the door, which was neither a welcome nor a keeping out, and the man came half of that and stopped, and neither of them said one word for about nine seconds.
 
 ---
 
 "It has not got a heading on it."
 
-"It has not got a heading on it and it has not got anything else on it, and it came out of a case at the near end of a counter at the top of four flights, and I put fourpence down for it in the fourth hour of the fourth day of the third week of the last month of last year."
+"It has not got a heading on it and it has not got anything else on it, and it came out of a case at the near end of a counter at the top of four flights, and I put fourpence down for it on the fourth day of the third week of the last month of last year, at about the fourth hour of that morning."
 
-He said all of that to the middle of the floor of the room and not to the man in it, and then he held it out and did not put it down until Marek Kest had taken it, and then he put it on the table, which is the only thing on the table in that room and has been for two years.
+He said all of that to the middle of the floor of the room and not to the man in it, and then he held it out and did not let go of it until Marek Kest had it in his hand, and then he put it down on the table, which has had nothing on it for two years and has a thing on it now.
 
 ---
 
@@ -44,7 +44,7 @@ He went down. The stair has nothing to do with a door on any floor and is on nob
 
 ---
 
-**Nobody sent him. That is the whole of it and he has not got over it and he is not going to get over it, and there is no form anywhere in this empire for a man to have been sent a piece of paper, and no form for one to have been sent one without it, and there is nobody in that building, or in that street, or in this matter, who could be shown having sent it.**
+**Nobody sent him. That is the whole of it and he has not got over it and he is not going to get over it, and nothing in this empire can be filled in by a man who has been handed a piece of paper, or by a man who was handed one and did not know it, and there is nobody in that building, or in that street, or in this matter, who could be shown having sent it.**
 
 The paper was not addressed. It is not in a book with an office on the cover of it and it is not a record and it is not a copy of anything, and about four hundred of them a year come out of a case at the top of four flights in the hand of somebody, and not one of the four hundred is in a room with the person it was carried to.
 
@@ -54,4 +54,4 @@ The paper was not addressed. It is not in a book with an office on the cover of 
 
 ---
 
-Nobody thanked him. Nobody has been forgiven. Nobody has been sent for, nothing has been settled, and the two of them who are in boxes are still in the boxes they are in and the form that put them there is not being asked to be void by anybody. A piece of paper with nothing printed on it is on a table in a room taken by the week, and nobody in this empire knows it is there except the two men who have been in that room and one of them is not going to say so.
+**He is not going to be thanked for it and nothing was settled in that room and nobody was sent for, and there has been no forgiveness anywhere in this matter for two years. The two of them who are in boxes are still in the boxes they are in, and the form that put them there is not being asked to be void by anybody. A piece of paper with nothing printed on it is on that table in a room paid for by the seven days, and nobody in this empire knows it is there except the two men who have been in that room and one of them is not going to say so.**
