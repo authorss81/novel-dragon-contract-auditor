@@ -2,7 +2,7 @@
 
 The room is off the old river road and there is a window in it about a foot wide with no pane in any part of it, and the light that comes through that window in the middle of the day is the light off a wall four foot off. There is a shelf under that window and about four feet of wall beside it. There are two tables and they are not joined, and a chair at each, and a third chair against the wall that nobody has sat in since the woman who keeps this room came into it.
 
-She has been in this room nineteen years. She is about fifty-five. Her name is on a thing on that shelf and there is nothing else on that shelf with a name at the foot of it, and she put it there herself, on purpose, in a month that is gone.
+She has been in this room nineteen years. She is about fifty-three. Her name is on a thing on that shelf and there is nothing else on that shelf with a name at the foot of it, and she put it there herself, on purpose, in a month that is gone.
 
 **That thing does not end.** It has no full stop at the end of it and it never has had one, and she has looked at it about four hundred times without deciding whether that was the point of it or whether she simply did not finish.
 
@@ -10,7 +10,7 @@ It is the second day of the first week of the fifth month of the year after the 
 
 ---
 
-The woman who keeps the minutes has been in the job since a week that is gone, and she is about nineteen, and she is not on any list in that building, and no room in that building has her name on the door, and there is no paper anywhere with her name at the top of it.
+The woman who keeps the minutes has been in the job since a week that is gone, and she is about nineteen, and she is not on any list in that building, and no room in that building has her name on the door, and there is no paper anywhere with her name at the top of it. **She has the book because it was lying on the table when she came into the room and the woman of about fifty-three pushed it across the wood without a word, and it had been that woman's own for about eighteen years before that, and the two of them have never once put the change on the page and are not going to.**
 
 She has been in that room six weeks and she has written the minutes for every one of those weeks, and the minutes are one line long, and the line is a sentence that says which room stood empty and at which hour and for how long.
 
@@ -28,7 +28,7 @@ The woman at the other table did not look up, which is what she has done for nin
 
 She waited about as long as it takes to square a sheet.
 
-"**About nine hundred.** Nineteen years, and about nine hundred minutes, and every one of them says a room stood empty." She squared the sheet in front of her without looking at it. "**And there is not one of the nine hundred with an answer in it. A minute with an answer in it is not a minute. A minute with an answer in it is an order, and an order has a name at the end of it, and I have not put a name at the end of one of these in nineteen years, and that is not a thing I did. It is a thing that could not be done.**"
+"**About nine hundred.** Nineteen years, and about nine hundred minutes, and every one of them says a room stood empty." She squared the sheet in front of her without looking at it. "**And there is not one of the nine hundred with an answer in it. A minute with an answer in it is not a minute. A minute with an answer in it is an order, and an order has a name at the end of it, and I have not put a name at the end of one of these in eighteen years, and that is not a thing I did. It is a thing that could not be done.**"
 
 ---
 
@@ -36,7 +36,7 @@ The nineteen-year-old did not write it down. She had a sheet in front of her and
 
 "You have just told me the number."
 
-"I have told you the number and I have told you the shape of the thing and I have told you neither of them twice, and I am not going to." The woman at the table took her hands off the paper. "**And I want it understood in this room, in the plainest words either of us is going to use today, that I am not going to be told what a carrier is. I have worked that out in about two seconds and I would like it entered that I worked it out, and I am not going to be asked and I am not going to be told and if anybody in this building starts telling people what a carrier is I will hand the book to the woman who takes it and I will not sign the last page of it.**"
+"I have told you the number and I have told you the shape of the thing and I have told you neither of them twice, and I am not going to." The woman at the table took her hands off the paper. "**And I want it understood in this room, in the plainest words either of us is going to use today, that I am not going to be told what a carrier is. I have worked that out in about four minutes and a half and I would like it entered that I worked it out, and I am not going to be asked and I am not going to be told and if anybody in this building starts telling people what a carrier is I will hand the book to the woman who takes it and I will not sign the last page of it.**"
 
 "You have not worked out anything. You have decided not to be told."
 
@@ -54,7 +54,7 @@ Nobody said anything for a while.
 
 "You have said that out loud."
 
-"I have said it out loud once, in a room, to one person, and I have been in this job six weeks and I have said nothing else out loud in it, and I am not going to be thanked for it and I am not going to be told it was useful, and I would like both halves of that said now while it is in the room."
+"I have said it out loud once, in a room, to one person, and I have been in this job six weeks and I have said nothing else out loud in it, and nobody thanks me for it and nobody is going to tell me it was useful, and I would like both halves of that said now while it is in the room."
 
 "I am not going to thank you," the woman said. "**I am not going to thank you because you have just handed me a thing I refused four minutes ago, and I did not refuse it before you said it, and I am not going to pretend to you that I did.**"
 
@@ -66,7 +66,7 @@ Nobody said anything for a while.
 
 A man of about sixty-one went past the door of that room twice in that hour with a bundle of sheets under his arm, and he did not stop, and he did not look in, and nobody in that room put one thing to him, and he did not ask either. **He is not one of the four people in this empire who cannot make sense of a paragraph, and he has never been, and no one in that building has ever asked him one question about a number.**
 
-The woman of about nineteen wrote her line. The woman of about fifty-five went on with what she was doing.
+The woman of about nineteen wrote her line. The woman of about fifty-three went on with what she was doing.
 
 **And the line was the same line. The room stood empty. The hour was the hour and the length of time was the length of time, and there was nothing at the foot of it, and the woman of about nineteen has not written a name at the end of a minute in her life and there is not going to be one in this room while the two of them are in it.**
 

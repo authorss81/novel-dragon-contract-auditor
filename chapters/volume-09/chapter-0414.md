@@ -12,7 +12,7 @@ It is the fourth day of the fourth week of the fifth month of the year after the
 
 **She has knocked on that door twice in eleven years.** One of the two was a stove of his that went out about nine years ago, and she did not go in, and that was a decision she made and has not revised. The other was a sheet lying on the floor of his hall in a week that is gone, and she knocked once, and she said out loud in the rain that she would not knock twice, and she has not. Nobody has thanked her for either of the two, and there is no form anywhere in this empire for the person who knocks, and there never has been one.
 
-He came in off the lane at about the fourth hour and he was not wet, which meant he had come a way that had cost him thought rather than weather. **He was not on anybody's list today.** He is on one four days a season and this was not one of the four, and she knows the shape of his week the way she knows the shape of her own shelves, and she had never once said so.
+He came in off the lane at about the fourth hour and he was not wet, which meant he had come a way that had cost him thought rather than weather. **He is about thirty-four and he is paid for a fair hand, and a fair hand is the whole of what he is on any list for, and he copies out other men's figures until two sets of them come out even.** **He was not on anybody's list today.** He is on one four days a season and this was not one of the four, and she knows the shape of his week the way she knows the shape of her own shelves, and she had never once said so.
 
 He had nothing in his hand.
 
@@ -20,7 +20,7 @@ He had nothing in his hand.
 
 "You have not brought anything."
 
-"I have not brought anything and I have not come for anything, and I am not going to be thanked for standing here, and I want that settled before I say anything else." He put both his hands flat on the wood either side of nothing. "**I am going to say one true thing and then I am going to go, and I am not going to say it twice and I am not going to say it to anybody else, and there is no form anywhere for a thing said once on a counter, so it will not be written down, and that is the reason I have come to a counter and not to a room.**"
+"I have not brought anything and I have not come for anything, and I am not going to be thanked for standing here, and I want that settled before I say anything else." He put both his hands flat on the wood either side of nothing. "**I am going to say one true thing and then I am going to go, and it gets said once, and nobody else is going to get it out of me, and there is no form anywhere for a thing said once on a counter, so it will not be written down, and that is the reason I have come to a counter and not to a room.**"
 
 "All right."
 
@@ -46,7 +46,7 @@ She put her hand on the counter about a foot from his and did not turn round and
 
 "You have had it for two years and you have come up this counter to hand me the other half of it."
 
-"I have come up this counter to hand you the other half of it," he said, "and the two halves fit, and if you have worked out what is between them then you have worked it out, and I am not going to help you and I am not going to be asked to, and I am not going to be thanked."
+"I have come up this counter to hand you the other half of it," he said, "and the two halves fit, and if you have worked out what is between them then you have worked it out, and you get no help from me with it, and nobody is going to ask me for any, and I am not going to be thanked."
 
 ---
 

@@ -18,11 +18,11 @@ He put them on the sill and the man of about sixty-one signed all four without l
 
 Then he put the pen back in the pot and squared the four with the edge of the sill.
 
-"I am going to say a thing to you in this corridor," the young man said, "and I have been not saying it for about four months, and I have gone over it every working day, and I have got it down to about four sentences and I am not going to improve on them and I am not going to say them twice."
+"I am going to say a thing to you in this corridor," the young man said, "and I have been not saying it for about six months, and I have gone over it every working day, and I have got it down to about four sentences and they do not get improved on, and they are not getting said twice."
 
 "Then do not say them."
 
-"I am going to say them, and I am going to say them to you, and you are the only person in this building it is any use to say them to, and that is not a compliment, it is a fact about which of us can be held to anything." He put his hand on the sill. "**You are not going to like it and I have thought about that for four months and it has not stopped me.**"
+"I am going to say them, and I am going to say them to you, and you are the only person in this building it is any use to say them to, and that is not a compliment, it is a fact about which of us can be held to anything." He put his hand on the sill. "**You are not going to like it and I have thought about that for six months and it has not stopped me.**"
 
 ---
 
@@ -32,13 +32,13 @@ The man of about sixty-one did not take his hand off the sill.
 
 "I have not come up here to get the pen out."
 
-"You have come up here four months after telling me a second thing was in you, and I have told you what I do with a second thing, and I have not taken the pen out since and I am not going to take it out for a thing that is not in front of me." He turned the pot about a quarter turn on the stone, which is the whole of what he has ever done with it that was not work. "**And the second thing is not mine to date. It never was. You put a month on it in a corridor and that made it a thing with a day on it and not a thing in a man, and if it comes it will come on a day and I will be the one holding the pen, and I am telling you that I am not going to be the one who says it came.**"
+"You have come up here six months after telling me a second thing was in you, and I have told you what I do with a second thing, and I have not taken the pen out since and I am not going to take it out for a thing that is not in front of me." He turned the pot about a quarter turn on the stone, which is the whole of what he has ever done with it that was not work. "**And the second thing is not mine to date. It never was. You put a month on it in a corridor and that made it a thing with a day on it and not a thing in a man, and if it comes it will come on a day and I will be the one holding the pen, and I am telling you that I am not going to be the one who says it came.**"
 
 ---
 
 "Then I will say it."
 
-"You will say it and I will not be able to hear it, and that is the arrangement, and you have had it for four months and you have not understood it once." He squared the four sheets again. "**The basket is the only part of any of this you are paid for. Everything else in that corridor belongs to a man who signs it, and about nine hundred of them a year go through those hands, and not one of them is mine and not one of them is yours.**"
+"You will say it and I will not be able to hear it, and that is the arrangement, and you have had it for six months and you have not understood it once." He squared the four sheets again. "**The basket is the only part of any of this you are paid for. Everything else in that corridor belongs to a man who signs it, and about nine hundred of them a year go through those hands, and not one of them is mine and not one of them is yours.**"
 
 "About four hundred of them a year are yours."
 
@@ -52,7 +52,7 @@ The young man stood on the landing for a while with his hand on the rail and the
 
 The man of about sixty-one did not look up.
 
-"I told you in this corridor on the fourth day of the fourth week of the twelfth month of the year after the year after the year after the year after the year after next that a second true thing was in me, and that it would come out in about four months, and that this corridor with a hook in the wall was the only place it would happen. **I said four months and I said it as a guess and I said out loud at the time that I had said it as a guess, and the guess was a guess.**" He did not raise his voice. "**It has not come. It is not going to come this week. Whatever was in me on that morning is not in me now, and I am not going to sit here and work out which day it went, and I am not going to put a second date on it, and there is nobody I am going to tell that it went on any particular day, because I do not know, and because a man who does not know cannot date one.**"
+"I told you in this corridor on the fourth day of the fourth week of the twelfth month of the year after the year after the year after the year after next that a second true thing was in me, and that it would come out in about four months, and that this corridor with a hook in the wall was the only place it would happen. **I said four months and I said it as a guess and I said out loud at the time that I had said it as a guess, and the guess was a guess.**" He did not raise his voice. "**It has not come. It is not going to come this week. Whatever was in me on that morning is not in me now, and I am not going to sit here and work out which day it went, and I am not going to put a second date on it, and there is nobody I am going to tell that it went on any particular day, because I do not know, and because a man who does not know cannot date one.**"
 
 ---
 

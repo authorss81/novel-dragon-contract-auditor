@@ -18,7 +18,7 @@ She came up those stairs with nothing in her hands, which is the third time in a
 
 "You have counted them."
 
-"I have counted everything in that house for about twenty years because that is the whole of what there is to do at the bottom of a stair." She put her hand flat on the table, which she has done twice before. "**And I am going to say one thing and I am going to say it about you and not about that table, and then I am going to go back down, and I am not going to be thanked for it, and I am not going to come up about it again.**"
+"I have counted everything in that house for about twenty years because that is the whole of what there is to do at the bottom of a stair." She put her hand flat on the table, which she has done twice before. "**And I am going to say one thing and I am going to say it about you and not about that table, and then I am going to go back down, and nobody thanks me for it, and I do not come up about it again.**"
 
 "All right."
 

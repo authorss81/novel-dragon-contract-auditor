@@ -46,7 +46,7 @@ Then the man of about sixty-one laid his palm on the sill and took it off again,
 
 The young man did not go and get it. He stood on the landing for a while with his hand on the rail.
 
-"You told me a thing in this corridor a month that is gone," he said, "and you told me a second one is in you, and I have not asked you for it and I am not going to."
+"You told me a thing in this corridor five months that are gone," he said, "and you told me a second one is in you, and I have not asked you for it and I am not going to."
 
 "I know you have not."
 

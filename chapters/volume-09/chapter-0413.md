@@ -58,7 +58,7 @@ The man at the head of the tables looked at her for a while and then he picked h
 
 "You have just put the fact of it and the shape of it into the same breath and I have been taking the wrong one of the two for about nine years, and I have worked out which is which inside the last minute, and I am not going to hand you the doing of it."
 
-"The fact of it is that man is a carrier and I have said so and it is said. The shape of it is that you have to do something about it, and I withdraw that, and I withdraw it because you have just told me the price out loud in front of a third person and there is no form anywhere for taking that back."
+"The fact of it is that the man from the yard is a carrier and I have said so and it is said. The shape of it is that you have to do something about it, and I withdraw that, and I withdraw it because you have just told me the price out loud in front of a third person and there is no form anywhere for taking that back."
 
 Nobody thanked him.
 
@@ -66,7 +66,7 @@ Nobody thanked him.
 
 She said the word at the other end of those boards, once, on the way out, to the stair and not to him.
 
-"**He is a carrier and he is the cheapest party in this matter and the reason he is cheap is that nothing about him can be shown to anybody, and I have had the use of that for nineteen years and I am not going to give it up and I am not going to be thanked for having it.**"
+"**He is a carrier and he is the cheapest party in this matter and the reason he is cheap is that nothing about him can be shown to anybody, and I have had the use of that for eleven years and it is not mine to give up, and nobody thanks me for having it.**"
 
 The courier was halfway down the second flight by then, and the cold had got into the leather, and he was carrying a folded thing that nobody on that floor has ever been told about, and he was going to put it down somewhere and go away. He could not have told anybody what he had held that day if a man had stood at the bottom of that stair with a form in his hand, and there is not one form in this empire for a man at the bottom of a stair.
 

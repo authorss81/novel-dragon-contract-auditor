@@ -30,7 +30,7 @@ The clerk of about twenty-nine had been on that floor since the fourth hour and 
 
 Marn Ottery put both hands flat on the boards, which she has done four times in eleven years and three of which were followed by a sentence, and she did not say one.
 
-"I am not treating that as an answer and I am not going to thank you for it," she said. "**You have told me a reason. A reason is a thing that stops the question. I have not asked a question, and I am not going to, and you have just handed me a reason for not asking one, and I am not going to use it, and I would like it noticed that I did not use it while it was being offered.**"
+"I am not treating that as an answer and I am not going to thank you for it," she said. "**You have told me a reason. A reason is a thing that stops the question. I have not asked a question, and I am not going to, and you have just handed me a reason for not asking one, and I do not use it, and I would like it noticed that I did not use it while it was being offered.**"
 
 "I did not offer it to you to use."
 

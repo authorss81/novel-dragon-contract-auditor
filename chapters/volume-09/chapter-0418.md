@@ -62,7 +62,7 @@ Tamsin Rook watched her go down the stair and did not follow her with her eyes t
 
 "I have not asked you to decide anything."
 
-"I know you have not, and I am going to leave it exactly where you have put it, and it is going to stay there through the end of today and tomorrow and the week after, and I am not going to come in early on any of them, and that is not a decision and it is not on anything and you are not going to hear me say it was a decision." She squared the boards. "**And I am not going to be thanked for the twenty minutes, and I am not going to be told they were for anything, and both halves of that are mine to keep and not yours.**"
+"I know you have not, and I am going to leave it exactly where you have put it, and it is going to stay there through the end of today and tomorrow and the week after, and I am not going to come in early on any of them, and that is not a decision and it is not on anything and you are not going to hear me say it was a decision." She squared the boards. "**And nobody is going to thank me for the twenty minutes, and nobody is going to be told they were for anything, and both halves of that are mine to keep and not yours.**"
 
 The counter shut at the sixth hour. Nobody had touched the drawer under the board, and the four things were where the four things have been, and half of them have never once been looked at.
 
