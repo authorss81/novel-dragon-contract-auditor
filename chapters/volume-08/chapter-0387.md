@@ -1,8 +1,8 @@
 # Chapter 0387: A Notice With A Sum On It, A Space On The Back, And A Woman In A Counting Room
 
-The counting room is at the back of a dye end, about four hundred and thirty miles up this river, and there is a stove behind the bench and a broken light in the window that has been broken since long before either of the women who work in it. Eleven houses off the lane send their figures in on the first of the two days and get eleven sets back on the second.
+The counting room is at the back of a dye end, about four hundred and thirty miles up this river, and it is the same room it was the week before that, with the same stove behind the same bench and the same light out of the same window, and it has been out since long before either of the two women who work in it. The figures of eleven houses off the lane come in on the first of the two days, and eleven sets of them go back out on the second.
 
-She is twenty. **Her name is Nell Kest, and sixteen books stand in this room, and fifteen of them are on loan from elsewhere, and the sixteenth carries her name in capitals at the head of it and has never once had a question set against it anywhere.** Her pay stopped arriving in the second week of the third month of the year after and has not come since. It is nineteen days of a crew's money and it is sitting in a coat four miles off in a room she has not been inside since she was seventeen.
+She is twenty. **Her name is Nell Kest, and the books on that bench come to sixteen, fifteen of them borrowed out of other rooms, and the sixteenth the one with her name in capitals at the head of it, and nobody has ever set a question against that one anywhere.** Nineteen days of a crew's money are what she is owed, and the pay of that bench stopped coming in the second week of the third month of the year after and has not come since, and every day of it is lying in a coat four miles off in a room she has not been inside since she was seventeen.
 
 ---
 

@@ -2,7 +2,7 @@
 
 The room is rented by the week and there is a table in it and two chairs and a lamp that is off until it is wanted and a window about a foot wide with nothing in the middle of it. It is the eleventh month and the cold in that room comes off the plaster behind the chair rather than off the glass.
 
-He is thirty-eight. **His name is Marek Kest, and he has no office and no fund and no list and no leave, and he has a page in his coat that has had a line struck out of it in a hand that is not his mother's.** He has been carrying that page about two years. The name that ought to stand at the end of that line is the only thing he has wanted since before the fire and he has neither it nor the claim that goes with it, and he has looked at that page in about four lights and has never once got a better answer out of it.
+He is thirty-eight. **Marek Kest is the name, and there is no office he holds and no fund behind him and no list and no leave, and in his coat there is a page with a line struck out of it in a hand that is not his mother's.** He has been carrying that page about two years. The name that ought to stand at the end of that line is the only thing he has wanted since before the fire and he has neither it nor the claim that goes with it, and he has looked at that page in about four lights and has never once got a better answer out of it.
 
 There is a mark on the inside of his left wrist about three inches long. He does not put his sleeve over it and he does not do anything else with it, and the room is not the place where either of those is a thing anybody can see.
 
