@@ -1,0 +1,61 @@
+# Chapter 0560: A Room Standing Empty Since Before The Spring That A Woman Has Begun Standing In The Middle Of Nine Times In A Fortnight, And A Fifth Column Not Ruled
+
+She had begun standing in the middle of the room she has not let, and she had been in it nine times in a fortnight, and on the second morning of that second week she put the second thing in it and stayed in the room.
+
+It is the second day of the second week of the sixth month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the second and the fourth hour.
+
+---
+
+There are two things she is not going to do and they are the same kind of thing and it took her about nine years to work out that they were.
+
+One is a fifth column in a book of her own hand with four headings over four columns in it, which has never been ruled, and which she would have given anything for, and which she has said out loud once, in a room, that she is not going to rule, and she is not.
+
+The other is a room in her own house that has been standing empty since before the spring and that she has not let and is not going to.
+
+She cannot put those two in one place, and she has known that since about the fourth year of not doing it. The only thing in this matter that can join two things is a heading standing over both of them, and nine years is what it has cost her to establish that there is not one she is allowed.
+
+---
+
+She went down the lane at about the third hour with the book shut under her arm, the way it has been shut since the fourth day somebody else shut it on her table without saying a word.
+
+"The lid is straight."
+
+"It is straight."
+
+"You have not had it crooked since before the middle of that month."
+
+"There is nothing crooked about it."
+
+That is the whole of what either of them said on that lane that morning and it is the fourth week in a row of it and neither of them has asked the other one anything and there is nowhere standing on that lane at which either of them could.
+
+The woman of about thirty-five went up the lane with the book under her arm and did not stop on the step.
+
+---
+
+The room has been empty since before the spring and it is at the back of her own house and there is nothing in it of any consequence.
+
+She went into it the first time about a fortnight ago and stood in the doorway and came out again, and the second time she went in and put a thing down and came out, and she has worked out since that a door you can stand in is not a thing anybody could show she had done, and a thing down on a floor in an unletted room is, and she has not been able to stop.
+
+That is what she has got and it is not nothing. It is nine times and two things.
+
+She is thirty-five. She keeps four rooms by the week in that house and a book in her own hand. There is a room at the back of her own house and there is a column in her own book, and she has said out loud that she is not going to do either of them, and she is not.
+
+---
+
+This morning she went in and stood in the middle of it.
+
+A room standing empty since before the spring is about as big as two of the rooms she lets, and there is nothing in it but a floor and a window and a door, and she stood in the middle of that floor for about as long as it takes to write a day down.
+
+And she worked out, standing there, the thing she has been walking towards for nine years without knowing she was walking towards it.
+
+If she put those two things in one place, that place would be a heading. And a heading stands over whatever else a person later decides to put under it. And she has not decided about anything else. And that is the reason she has not done it in nine years, and it is not the reason she gave when she said out loud that two things she is not going to do are the same kind of thing, because the reason she gave was the reason she had at the time and she has not looked at it since and there is nobody to look at it with.
+
+---
+
+**I have said that two of the things I am not going to do are the same kind of thing, and I have never once said why. The why is that a heading over two refusals is a heading over every refusal in this empire that has not been made yet, and I do not have a say in any of those. Not one of those has ever been put in front of me and been thanked for, and that is where a refusal goes when it is not a column, and that is nowhere.**
+
+She put the second thing down where the first one was and she came out and she shut the door.
+
+---
+
+She has a room at the back of her house that she has not let, and a book with four headings in it and a fifth that has not been ruled in nine years. She has put two things into the room and has not ruled the column and is not going to, and the two things are not going to be told to anybody. The woman at the bottom of that stair has a lid she shuts straight and a key she has not looked at, and neither of them has ever asked the other one a question and neither one is going to. There is no form in nine hundred buildings for a woman who has said no twice and put the no nowhere, and the whole of what happened on that lane this morning was about a lid.

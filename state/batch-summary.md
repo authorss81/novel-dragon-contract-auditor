@@ -478,3 +478,141 @@ One: an owed review of Volume 04's Batch 0005, four volumes on. Two, three and f
 ## The four debts, restated in full for the thirtieth time, and this repair discharges none of them and is not among the phases that could
 
 One: an owed review of Volume 04's Batch 0005, four volumes on. Two, three and four: owed second readings of Volume 05's Batches 0003, 0004 and 0005 and of Volume 06's own Batch 0003, which is four and not three. And the review gate, which fell back for the fifteenth time on this phase and which has never once produced a review that could be certified independent. **The number of debts has not moved in eleven volumes and the number of phases that have claimed to discharge one is zero. This repair opened four chapters, corrected one clause and seven intervals, corrected one stale Status line, and discharged nothing. Nothing in this project's records can be certified independent, and that sentence is the last thing a writing phase is allowed to say about itself, and a repair is a writing phase.**
+
+---
+
+# VOLUME 12, BATCH 0001, CHAPTERS 0551 TO 0560, MOVEMENT ONE — THE MEASUREMENTS, WITH THE METHOD NAMED BEFORE EVERY FIGURE AND THE BLIND SPOT OF EVERY RESULT WRITTEN BESIDE IT
+
+*Written by the phase that took `workspace/volume-12/batch-0001/PROMPT.md`, on 2026-09-29. **A batch and not a review, not a self-audit, not a second reading, not a close and not a repair.** Every figure below was taken at the reading named beside it, and every one is a figure about the files as they stood at that reading and not about the files as they will stand after any later phase. **The method is named before every figure and the blind spot is written beside the result and not after the table.** Where an instrument was wrong on its first run the wrong figure is named and deleted nowhere.
+
+## Zero, the instrument that has to be believed before anything else
+
+**`python3 tools/measure.py selftest` returns PASS and exits 0.** It plants nine cases whose answers are known before it runs: the date line flagged whole, a planted identical run found at twenty words and not at thirty-three, the two buckets summing to the number of runs, a file sharing only its date line not being reported as prose, case and digits surviving the tokeniser checked on *Received* and not on a count, a `**` inside a code span not being an unclosed bold, a doubled-backtick span being one span, the splitter keeping a closing mark after a full stop and the harmful rule visibly merging the two, and **a volume with no chapters in it exiting non-zero and saying so on the error stream.**
+
+**And it was run before the chapters existed, which is the ninth plant and the one this batch inherits.** `python3 tools/measure.py sentences --volume 12` on an empty `chapters/volume-12/` prints `no chapter files matched volume volume-12; nothing was measured` on the error stream and exits 1. **The exit code is the measurement and the screen is the report, and a non-zero exit from that one line before the chapters exist is the tool working and is not a finding to record.**
+
+## One, the words, one file at a time and never with a glob
+
+**Method: `sed 's/[[:space:]]*$//' file | wc -w`, run one file at a time, at 2026-09-29T19:19:22Z.**
+
+| chapter | words |
+|---|---|
+| 0551 | 1,156 |
+| 0552 | 1,350 |
+| 0553 | 1,214 |
+| 0554 | 1,271 |
+| 0555 | 1,205 |
+| 0556 | 1,146 |
+| 0557 | 1,119 |
+| 0558 | 1,251 |
+| 0559 | 1,134 |
+| 0560 | 1,083 |
+| **the batch** | **11,929** |
+
+**`python3 tools/measure.py words` at the same reading returns Volume 12 at 11,929 and the manuscript at 1,321,850 in 560 files.** *Blind spot beside this result: a word count cannot see whether the words are the same words, and the thing a word count is worst at seeing in this volume is the most repeatable object in the manuscript, which is a refusal and not words on a page.*
+
+## Two, the sentences, and the maximum, and the first draft's figures beside the ones that survived
+
+**Method: `python3 tools/measure.py sentences --volume 12`, which splits on `(?<=[.!?])["'’”)*]*\s+` so that a closing quotation mark between the full stop and the space is kept with its sentence. Taken at 2026-09-29T19:19:22Z, on the files as they stand at the end of the run.**
+
+**392 sentences, mean 29.454, median 27, maximum 78 in `chapter-0560.md`.** Per-file maxima by the same splitter, one file at a time: **67, 75, 71, 66, 76, 55, 73, 73, 75, 78.** The ceiling for this project is eighty-five to eighty-eight and the maximum is under it.
+
+**And the first draft's figure, which is the only honest measure of what the instrument did for this batch.** The same command on the same ten files before any repair returned **297 sentences, mean 39.663, median 36, maximum 144 in `chapter-0560.md`.** The difference is **a maximum of 144 against a maximum of 78**, and it is the whole of what reading the ten files for length is worth. *The wrong figure is named and deleted nowhere.* *Blind spot beside both results: a ceiling is a ceiling and not a target, and the two errors are opposite — a batch that writes everything short has over-corrected and a batch that writes a hundred-and-eighty-word sentence has under-corrected, and only one of those shows up in a sweep.*
+
+## Three, the calendar, both of its numbers, with the cycle restarted at every month boundary
+
+**Method, read directly and by hand, one file at a time, against the date line printed in each file, at 2026-09-29T19:19:22Z.** The derivation starts at the date line on line five of `chapters/volume-11/chapter-0550.md`, which reads the fourth day of the fourth week of the third month of the tenth named year, and each of the ten is one seven-day step from the one before it.
+
+| chapter | day | week | month |
+|---|---|---|---|
+| 0551 | second | first | fourth |
+| 0552 | second | second | fourth |
+| 0553 | fourth | third | fourth |
+| 0554 | fourth | fourth | fourth |
+| 0555 | second | first | fifth |
+| 0556 | second | second | fifth |
+| 0557 | fourth | third | fifth |
+| 0558 | fourth | fourth | fifth |
+| 0559 | second | first | sixth |
+| 0560 | second | second | sixth |
+
+**The day inside the week is second, second, fourth, fourth in every month and the cycle restarts three times in ten chapters, and no month in the ten comes out at three weeks.** *Blind spot beside this result: the check restarts at each month boundary on purpose, because a check that runs one global cycle across a run of chapters reports a break at the first chapter of a month, and there is no break there, and the way that reports a break is the way that is wrong.*
+
+**The instrument's own reading, `python3 tools/measure.py calendar --volume 12`, at the same moment: files read 10, chapters with a parsed date line 10, month-boundary restarts of the cycle 3, breaks inside a month 0, unparsed none.** **The false break is not reported here and that is a fact about this set and not about the instrument: the tool groups by the ordinal word and does not read the year, and the ninth named year's name is a substring of the tenth's, and a tool that cannot read the year will always report a break where a year turned. That break has now been printed nine times in this project and it is not a defect in the page, and it will appear the first time a year turns inside whatever set the next phase gives the tool.** Both readings stand beside each other.
+
+**And the year name, by the only method that can read one.** **Method: `grep -o "the year after" file | wc -l`, one file at a time.** It returns **eight on each of the ten files**, and it returns **eight on `chapters/volume-11/chapter-0550.md`**, and the prompt for this batch printed eight and the page agrees with it on all ten, **which is the first run in this project in which a figure handed to a phase in a prompt survived being carried onto ten date lines.** Item 151's standing is that a prompt is a record with fewer citations and a correct figure in one is exactly as likely to be dropped as a correct figure in a record; the difference this time is that the count was taken one file at a time at the end of the run and not once at the start of it. *Blind spot beside this result: a chapter that carries the name twice in a date line is counted once by this method and a chapter that carries none is not caught by it at all.*
+
+**And no decision about a further year name was taken in this batch, and none had to be: ten weeks beginning at the fourth week of the third month of the tenth named year run into the fourth, fifth and sixth months of the same year and do not cross a boundary.** The form of that name is in the outline of record and no phase may attach it to a chapter.
+
+## Four, the re-prints, run over the manuscript and not over the batch, and two instruments that disagreed
+
+**The instrument this phase wrote, at `/tmp/opencode/rep_12b1.py`, outside the repository, because a writing phase does not edit an instrument another phase may be relying on.** It aligns by token value and not by index, extends every match to its full maximal length, compares a file against itself as well as against every other file, filters formula by the character span of every date line before tokenising, and de-duplicates by dominated position and not by merging. Its own classifier carries no vocabulary at all, only date spans, **because a formula list that is doing the classifying must not contain a room.**
+
+**It was wrong on three of its six plants before it was right, and every failure was a number rather than a crash**, and the three failures are item 153 in `state/open-threads.md` and are not repeated here. `python3 /tmp/opencode/rep_12b1.py --selftest` returns PASS and exits 0.
+
+**Run over Volumes 11 and 12 together, so that a pair crossing the volume boundary is visible to this batch and not only to a later one, at 2026-09-29T19:17Z:**
+
+- **At a twenty-word window: prose runs touching a Volume 12 file, 0.** The two prose runs that remain across the hundred files of Volumes 11 and 12 are both inside Volume 11 and both are that volume's own recorded findings — thirty words at `chapter-0530.md` against `chapter-0539.md`, and twenty at `chapter-0525.md` against `chapter-0534.md`.
+- **At a sixteen-word window: prose runs touching a Volume 12 file, 0.**
+
+**And what the first draft of the batch held, before any repair.** At a twenty-word window over Volume 12, **three** prose runs, the largest forty-seven words at `chapter-0553.md` against `chapter-0560.md`. At a sixteen-word window, **six**, and one of them was a window occurring **twice inside `chapter-0557.md`**, which is the class this batch's own first instrument could not see and the repository's can. **The repository's tool, over the whole manuscript at a twenty-word window under the *either* classifier, returned prose 2,395 before this batch's repairs and returns 2,367 after them, and the difference is twenty-eight.**
+
+**And the two instruments disagreed about the same ten files at a sixteen-word window, and the disagreement is printed rather than subtracted.** The repository's tool returned **two** prose runs in Volume 12 and named the longest at sixteen words in `chapter-0553.md`; the detector this phase wrote returned **one** and did not name the pair. **The difference is a run the repository's merger produced and this phase's de-duplication by dominated position dropped, which is the shape item 152 is about, reproduced inside this batch's own instrument on its first run.** After the repairs both return zero over Volume 12 at sixteen and at twenty. *Blind spot beside every figure in this section: the instrument reports re-prints and not repetitions, and it cannot see two chapters that close on the same sentence written twice in different words.*
+
+**The repository's whole-manuscript figures at the same reading, for the record: at a twenty-word window, *date* classifier formula 200 and prose 2,392, *terms* classifier formula 201 and prose 2,391, *either* classifier formula 225 and prose 2,367, longest prose run 576 words in `chapter-0053.md`.** At a sixteen-word window over Volume 12 alone: formula 10, prose 0, longest 0. *Blind spot beside that: the repository's instrument has a branch that reports a window occurring twice inside one file as a run whether or not a second occurrence exists anywhere, so it over-reports at a sixteen-word window and does nothing at twenty, and its merger chains nearby runs into one span with holes in it, which is why a figure produced by it and a figure produced by dominated-position de-duplication differ by one run on a set of ten.*
+
+## Five, the ten closing lines, read in one column first and measured after
+
+**Method: the last non-empty line of each of the ten files, read as a column before any figure was taken, and only then compared pairwise by three measures — Jaccard on word sets, cosine on word counts, and Jaccard on word bigrams.**
+
+**The column was read first and it found two pairs that the measures would not have found at all.** The first reading found that Chapters 0555 and 0559 both closed on the chain going along at the front of that bench under a hand that had been on it eleven years, written twice in different words with the substitutions close enough that no n-gram measure in this repository can see it. **Chapter 0559's closing line was rewritten and the second reading of the column is clean.** The first reading also found that Chapter 0554's closing paragraph opened as an inventory of that room's furnishings and it was cut back to the plate.
+
+**The three measures over the same ten lines, after the reading: the highest pair is Chapters 0556 and 0560 at Jaccard 0.406 on word sets, 0.123 on bigrams and 0.014 on word counts.** Those two are in different rooms and their only common words are ordinary ones. *For comparison and not as a target: the highest pair in the last volume's fifty closing lines was 0.550 on the word-set measure, and the highest pair on the sum of the three was a different pair at 0.431, 0.788 and 0.286 — two rankings of the same fifty lines disagreeing about which pair is worst, which is why the reading comes first.* *Blind spot beside every figure in this section: three measures of similarity cannot see a repetition written entirely out of substitutions, and a substitution every few words satisfies all three at once. A closing line is a column and not a number.*
+
+## Six, the protagonist's floor, by reading and not by a string
+
+**The two strings in this matter are carried by other living people who are not merges, and they are carried here by nobody at all.** `grep -l 'Kest'` over the ten files returns **0** and `grep -il 'thirty-eight'` returns **2**, and the union is **2**, and those two are `chapter-0554.md` and `chapter-0556.md`. **The union is exactly the set of chapters he is in person in, and the third chapter that carries him is invisible to both strings, which is the whole of what the two sweeps cannot see and the reason the floor is counted by reading.**
+
+**The floor, built by reading, at Chapter 0560:**
+
+| chapter | how he is carried | the sentence that puts him there |
+|---|---|---|
+| 0554 | in person | *What he wanted was a room with a second person in it who had not come for him.* |
+| 0556 | in person | *The second plate was on the other side of that table on all three of those mornings and he washed it on two of them.* |
+| 0557 | absent, priced in a room he is not in | *At about the sixth hour the stair did not go up.* |
+
+**Three chapters carry him, two of them in person, and his want is visible in one of the two, which meets the movement's floor of three and its margin of one in person.** *Blind spot beside this result: a ten-file check is not a smaller version of a volume-wide check. It is a different instrument, and the one thing it is good for here is finding out what it cannot see, and what it cannot see is the third chapter of the three.*
+
+## Seven, the sweeps, and what a sweep in this project is blind to
+
+**Method, each one named, at 2026-09-29T19:19:22Z.**
+
+- **`grep -c '?'` over the ten files, one file at a time: 0 on every one of them.** *A zero taken over ten files is a fact about ten files and is not a claim about the book. And no person in these ten chapters was asked anything out loud, in a room, by anybody, and the two counts are independent — a question mark in a mouth is punctuation and is not an asking, and there is not one of either in these ten files.*
+- **A month-and-weekday sweep, case-insensitive at a word boundary over the twelve month names and the seven day names: 0.** *The known false positive for that sweep is the modal verb* may *and it did not fire here; the standing is that a sweep returns zero and a zero is not evidence until the shape of the blindness has been checked, and the shape here is that the sweep cannot see a date written in a form this project does not use.*
+- **`grep -rio 'this year'` and `grep -rio 'this volume'` over the ten files: 0 and 0.**
+- **`grep -roE '\babout\b'` over the ten files: 178, and 180 case-insensitively.** *The hedge is not a voice. About is kept where the imprecision is the point and the figure is on the page, and it is cut everywhere else, and one hundred and eighty over ten chapters of about twelve hundred words each is about one hedge in every sixty-six words, which is lower than the nine hundred and eighty-nine the last volume's fifty files carry and is a batch reading its own figures and not hiding behind them.*
+- **`grep -roE 'four hundred[^"]{0,45}week'` over the ten files: 0**, and *the standing instruction to expect zero before a volume is closed is wrong as a figure over a whole book and is printed here with the count beside it.* A figure is a word, a number and a period, and the period is the one of the three that no instrument in this project looks at. **No chapter of the ten puts a period on the wrong one of the four hundreds, and none of the four hundreds appears in the ten at all.**
+- **A sweep for the name of the protagonist, for the name at the foot of a struck line and for the phrase the last volume printed zero times across fifty files: 0 in all three.** *A fixed pattern cannot see a name it was not written for, and a name that has never been printed is the correct answer and not a clean row.*
+
+## Eight, the markup
+
+**Method: `python3 tools/measure.py markers`.** Each of the ten files carries exactly **two** real markers of `**`, being one bolded span, and no file returns an odd count. **The fifteen files the tool reports as carrying an odd count are all in `state/archive/` and none of them is a chapter and none of them is one of these ten.** *Blind spot beside this result: the tool strips code spans before counting and a marker inside one is not an unclosed bold, which is item 139 and which this run did not exercise because no file of the ten contains a code span.*
+
+## Nine, the first draft's figures beside the surviving ones, in one place, because that difference is the only honest measure
+
+| what | first draft | after | what moved it |
+|---|---|---|---|
+| sentence maximum, volume 12 | 144 in `chapter-0560.md` | 78 in `chapter-0560.md` | forty-three sentences read by hand and broken |
+| sentence count, volume 12 | 297 | 392 | the same forty-three |
+| sentence mean, volume 12 | 39.663 | 29.454 | the same |
+| prose re-prints touching volume 12, twenty words | 3 | 0 | the detector, planted, over Volumes 11 and 12 together |
+| prose re-prints touching volume 12, sixteen words | 6 | 0 | the detector and the repository's tool, and one self-run |
+| prose runs, whole manuscript, twenty words, *either* classifier | 2,395 | 2,367 | the same repairs |
+| batch words | 12,163 | 11,929 | the same forty-three sentences broken |
+| the two protagonist strings | 0 and 2 | 0 and 2 | nothing; the floor was read |
+
+**And the three instruments disagreed with each other twice in this run, and both disagreements are printed above with both figures beside them and neither is settled by subtraction.** A check that returns zero is evidence of nothing until the shape of the damage it is blind to has been checked, and a blind check is written down as blind in the same record that claims it clean.
+
+## The four debts, restated in full for the thirty-first time, and this batch discharges none of them and is not among the phases that could
+
+One: an owed review of Volume 04's Batch 0005, four volumes on. Two, three and four: owed second readings of Volume 05's Batches 0003, 0004 and 0005 and of Volume 06's own Batch 0003, which is four and not three. And the review gate, which fell back to the writing agent on Volume 11's Batch 0005 and has fallen back on every batch phase the commit history records, and has never once produced a review that could be certified independent, **and a gate that only ever falls back is not a gate that passed either.** `state/phase-ledger.json` is a controller file, no phase may edit it, and it is carried and not repaired. **The number of debts has not moved in eleven volumes and the number of phases that have claimed to discharge one is zero. This phase wrote ten chapters, wrote five state sections and one next-phase prompt, and discharged nothing. Nothing in this project's records can be certified independent, and that sentence is the last thing a writing phase is allowed to say about itself, and a batch is a writing phase.**
