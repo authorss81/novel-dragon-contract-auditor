@@ -4,7 +4,7 @@ The hours on that floor run from the second to the sixth. About four hundred peo
 
 Marn Ottery is thirty-four and has been at the far end of those boards for eleven years and has put the shape of a thing out loud in that room four times and has said in advance that there will not be a fifth.
 
-Tamsin Rook is twenty-four and has been at her own end for two years and has said three true things out loud in that room in about three months and has not said one this month and the month before.
+Tamsin Rook is twenty-four and has been at her own end for two years and has put three true things out loud into that room in about three months, and has not said one this month and has not said one the month before.
 
 There is a clerk of about twenty-nine at the far end of the two joined tables, and four years is how long she has been at that end of the room.
 
@@ -22,7 +22,7 @@ He stood half turned away from the room with both hands on the strap, and he did
 
 She wrote the day's line.
 
-The date, then the hour, then how many sheets came out of the case, in that order, the way she has written it every working morning for four years, and then she put the pen down beside the book where she has been putting it since a month that is gone instead of in the middle of the open page, and she squared it against the edge of the table and left it there.
+The date, the hour, and how many sheets came out of the case, in that order, the way she has written it every working morning for four years, and then she put the pen down beside the book where she has been putting it since a month that is gone instead of in the middle of the open page, and she squared it against the edge of the table and left it there.
 
 The strap went up over his shoulder and came off again and went up again. Tamsin Rook squared an edge at the other end of those boards. Marn Ottery did not look over.
 
@@ -38,7 +38,7 @@ He said it to the boards and he did not look up and he did not say who he was ta
 
 She had her hand on the book.
 
-It was the first time in four years that she had wanted to write something down about a person rather than about a floor. It had been there since about the middle of the fourth hour and it was the only thing she had wanted in four years, and it was not a name. It was a mark on a line that would say that a man had been on that floor at that hour with a satchel, and that is the smallest possible entry and it would fit in the middle of a line with the number of sheets on it, and a book is a record and a record is the one thing in that room that other people can be shown.
+It was the first time in four years that she had wanted to write something down about a person rather than about a floor. It had been there since about the middle of the fourth hour and it was the only thing she had wanted in four years, and it was not a name. It was a mark on a line that would say that a man had been on that floor at that hour with a satchel, and that is the smallest possible entry and it would fit in the middle of a line with the number of sheets on it, and the book is a record, and the one thing in that room anybody can ever be shown is a record.
 
 She did not write it.
 

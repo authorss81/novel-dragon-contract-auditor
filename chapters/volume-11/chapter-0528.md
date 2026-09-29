@@ -1,8 +1,8 @@
 # Chapter 0528: A Bundle Of That Shed's Own Work Put Down On The Bench At The Back Of It At About The Sixth Hour, A Man At The Front Bench Who Was Not Going To Be Asked About It, And A Lamp That Came On With Two People Standing In Different Ends Of Nine Foot By Eleven
 
-The bench in that bay runs the length of the back wall and is longer than the room is, and the far end of it goes past the edge of the light, and for eleven years there has been nothing at all at that end.
+The far end of that bench has had nothing standing at it for eleven years, and the light does not reach as far as that end until about the seventh hour, and there is a good deal of that bench that a person at the near end of it cannot see the top of.
 
-Halla Wray is fifty-one and a foreman, and a class is what she is inside of rather than a room she stands in. The form that put her in it is still on that board by the door with nothing on any line of it, and it has been that way since before she came to that bench, and the only work it has left is going on existing.
+Halla Wray is fifty-one and a foreman, and a class is what she is inside of rather than a room she stands in. The form that put her in it is still on that board by the door with nothing on any line of it, and it has been that way since long before she was anywhere near that bench, and the only work left for it is to go on being paper.
 
 She went to that doorway six times in a spring that is gone and it never got past two words, and this month she has not taken it there at all.
 
@@ -42,7 +42,7 @@ She had worked that out a month ago standing in a doorway, and she had said it o
 
 A class can also take a thing off a bench and put it at the far end of one. Doing that takes no form and no signature and no hand but hers. Nobody can afterwards be shown to have asked for it and nobody can be shown to have refused it, and a person who has not been asked anything and cannot refuse anything is the cheapest person in a room and has been it the whole time.
 
-The bundle was not a copy of anything. It was about four days of that shed's own work and it was the wrong size and the wrong kind and nobody in that shed had put one question to anybody at the far end of that bench about whether they wanted it, and there is nowhere in this empire for a person to put the fact that they did not want a thing, and that is not a thing anybody in that lane has ever refused to do anybody.
+The bundle was not a copy of anything. It was about four days of that shed's own work and it was the wrong size and the wrong kind and nobody in that shed had put one question to anybody at the far end of that bench about whether they wanted it, and there is nowhere in this empire for a person to put the fact that they did not want a thing, and that is not a thing anybody in that lane has ever refused to do to anybody.
 
 The one with the book stopped reading for about as long as it takes a sheet to be signed and then carried on with what he reads.
 
@@ -62,7 +62,7 @@ The one with the book stopped reading for about as long as it takes a sheet to b
 
 About the seventh hour the bracket came on by itself and the light came into that bay from the wrong end for the first time in about eleven years, because there was a woman standing at the far end of a bench that runs the length of the back wall in a shed that is about nine foot by eleven, and the light went past her and reached him.
 
-The chalk mark on the end wall is at the height of the third link and it is a mark in chalk and it is not evidence of anything and nobody in that lane has ever converted it into evidence and nobody is going to.
+The chalk is still on that end wall where it has always been, at the height of that chain, and it is not a thing anybody in that shed has ever been shown anything by, and nobody is going to be shown anything by it before the end of the day.
 
 The form is on the board by the door and it has not been filled in. It is not going to be filled in by the person who has been inside that class for eleven years and it is not going to be filled in by anybody else in that shed.
 

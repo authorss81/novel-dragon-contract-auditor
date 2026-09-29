@@ -46,7 +46,7 @@ The chain behind her went on being felt along.
 
 She came back in off the frame and shut nothing, because there was nothing to shut, and she stood in the middle of that floor and worked the rest of it out standing up, in about as long as it takes to cross a bay and come back.
 
-Here is what she had not seen. She had spent two years believing that the doorway was the problem, on the reasonable ground that a person who goes out of a room and stands in a lane has taken herself out of it, and a bay is nine foot by eleven and a lane is as long as it is.
+Here is what she had not seen. She had spent two years believing that the doorway was the problem, on the reasonable ground that a person who goes out of a room and stands in a lane has taken herself out of it, and the inside of that bay is smaller than a person expects a room to be and a lane is as long as it is.
 
 A class is not a room. She has known that for eleven years the way a person knows the height of a stair they go up four times a day.
 
@@ -76,6 +76,6 @@ She was at the back of that bay from about the sixth hour to about the seventh a
 
 ---
 
-About the seventh hour the bracket came on by itself and put light into the far end of the bay, and the man at the front bench got up off that bench in the ordinary way, and nobody said one word to anybody about the class and nobody said one word about the doorway, and the chalk mark on the end wall is still at the height of the third link and is still only a mark in chalk.
+About the seventh hour the bracket came on by itself and put light into the far end of the bay, and the man at the front bench got up off that bench in the ordinary way, and nobody said one word to anybody about the class and nobody said one word about the doorway, and the chalk on that end wall is where it was in the spring and will be there in the winter, and it is not going to be a thing anybody in that shed has to answer for.
 
 The form is on the board by the door and it is not filled in and it is not going to be, and the sentence she began in that frame has not arrived, and she is not going to be thanked for standing at the back of her own bay and she is not going to be asked what it was for, and there is nowhere in that lane standing at which either of those could be put.

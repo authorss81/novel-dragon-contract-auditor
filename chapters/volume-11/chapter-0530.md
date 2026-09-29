@@ -4,7 +4,7 @@ He takes that room by the week. The landlord has never once been through the doo
 
 Marek Kest. Thirty-eight. He is not in a book in this city, and that is not a hardship anybody in it has ever put to him, and he has never once wanted to be. About a year ago he put in a sheet of his own writing, a single line of it, and a rank of his own stopped standing on him in consequence, and there is no drawing a rank back off a man who was never given one, so a man in his position has nothing to hand over to anybody.
 
-In the inside pocket of that coat there are two things, one on each side of a seam, and neither has ever come out of that pocket in this building or in any other building in this city. Nobody here knows he is carrying both of them. Nobody has ever put a hand into that coat and nobody ever is going to.
+In the inside pocket of that coat there are two things, one on each side of a seam, and neither has ever come out of that pocket in this building or in any other building in this city. Nobody on this stair knows he is carrying both of them, and no hand in this city has gone into that coat, and no hand is going to.
 
 It is the fourth day of the fourth week of the tenth month of the year after the year after the year after the year after the year after the year after the year after next, and it is about the fifth hour.
 
@@ -44,11 +44,11 @@ He took his hand off the wall and the wall had nothing on it and never has.
 
 ---
 
-There is a bay at the end of a lane off the Slade about four hundred yards from that door, and it is about nine foot by eleven, and a lamp on a bracket in it is not lit until about the seventh hour, and a man who is about fifty-five has been at a bench at the front of it for eleven years with a chain across the front of that bench.
+There is a bay at the end of a lane off the Slade about four hundred yards from that door, and a man who is about fifty-five has been at the bench at the front of it for eleven years, and there is a girl of seventeen at the back of it who has not been asked a thing in about a year.
 
 That man has said four things in that bay in about a year. Nobody has answered one of them and he has never wanted an answer, and there has been somebody else standing in that bay for every one of them and about a year of it has gone somewhere that does not have a door on it.
 
-Nobody in that lane has been told that there is a man in a room two streets back from a street that runs down to the river road, and nobody in that room is going to be told about that bay, and the two of them are not going to be in a room together and neither of them is going to be asked anything by anybody.
+Nobody in that lane has been told that there is a man in a room he has held for two years a street or two back from the river road, and nobody in that room is going to be told about that bay, and the two of them are not going to be in a room together and neither of them is going to be asked anything by anybody.
 
 He did not go and look, and he is not going to, and he has not put one single thing to anybody in this matter in about two years, and this is the last hour of a week in which nothing has been asked of anybody at all, and he is the only person in it he could have asked and he is not going to.
 

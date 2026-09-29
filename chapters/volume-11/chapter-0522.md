@@ -14,9 +14,9 @@ Forty years is how long he has been going up and down that stone, four times a d
 
 He settled in his own head, a long time ago, that he was not going to make a rule out of an empty rack, and he said so out loud at the time so that somebody would know it had been settled by him and not overlooked by anybody.
 
-"**That run, ten crossings this month and an empty rack on every one of them, and four years of my standing at this end of it. I have worked out this month what I am. I am not the cheapest person in this building. I am the cheapest thing in it. A person is a thing somebody wants. I am not wanted and I cannot be served and there is nothing anywhere that could be served on me, and that is the cheapest there is.**"
-
 She said it to the bar, at about the fourth hour, to nobody in particular, the way a thing gets said out loud in a passage where nothing is wanted of anybody.
+
+"**That run, ten crossings this month and an empty rack on every one of them, and four years of my standing at this end of it. I have worked out this month what I am. I am not the cheapest person in this building. I am the cheapest thing in it. A person is a thing somebody wants. I am not wanted and I cannot be served and there is nothing anywhere that could be served on me, and that is the cheapest there is.**"
 
 He was already in that passage and had been in it since the flags came out, and he had the bar under his hand and the rack still up on his hip. He did not set the rack down anywhere and he did not turn his head towards her.
 
@@ -46,9 +46,9 @@ Her hands were in the sleeves of her coat and had been since about the half hour
 
 What had changed was the direction of the thing she had been carrying. For four years she had held the bar and thought of herself as the person nobody could reach. This month she had stood there and worked out that being out of reach is not the same as being safe and has never been the same as being safe, and that it is exactly the property that lets anything at all be done to a person for nothing, and that there is a man in this building who has said that out loud to her face in about four years and that she has been arguing with it since the spring.
 
-**The price of it is that it has to keep going. Being cheapest is not a state she is in. It is a rate, and rates do not stop on their own, and the only way to stop being the cheapest person in a building is to become a person somebody wants something from, and that is the one thing she has refused for four years and it would cost her the only thing she has ever had, and there is no way anybody could tell her that she had paid anything for refusing it.**
+The price of it was that it has to keep going. Being cheapest is not a state she is in, it is a rate, and rates do not stop on their own, and the only way out of being the cheapest person in a building is to become a person somebody wants something from, and that is the one thing she has refused for four years and it would cost her the only thing she has ever had, and there is no way anybody could ever tell her that she had paid anything for refusing it.
 
-She had worked that out at that end of that run in about the length of time a rack takes to come up and go back, and she had not said one word of it out loud, and she was not going to, and nobody in that building was going to be thanked for it and nobody was going to be told that she had worked it out.
+She had worked that out at that end of that run in the time it takes a person to walk out of a passage and back in again, and she had not said one word of it out loud, and she was not going to, and nobody in that building was going to be thanked for it and nobody was going to be told that she had worked it out.
 
 ---
 

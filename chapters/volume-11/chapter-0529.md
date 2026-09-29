@@ -34,7 +34,7 @@ He had noticed. He noticed it about a fortnight ago and had said one flat thing 
 
 ---
 
-She had got a thing. She had got it at about the length of time a rack takes to come up and go back, standing with her back to that cold. It was not a relief and it was not an answer, and it was not going into a book or a column or a heading over anything.
+She had got a thing. She had got it in about as long as it takes that bar to go into its housing and come out again, standing with her back to that cold. It was not a relief and it was not an answer, and it was not going into a book or a column or a heading over anything.
 
 There is nowhere in this empire for it to go. She was not going to say it out loud and nobody in that building was going to be thanked for it.
 
@@ -50,4 +50,4 @@ He took the flags back up again with the rack still empty on his hip. Eleven tim
 
 Nothing stands at the far end of that run and nothing has for four years, and the room with the rail at the far end of it is shut and stays shut and is not described, and the figure in her head is on no paper and has got no heading, and it has not left that building this month and nobody in it is going to be handed it.
 
-The second half of his own sentence is still the half he has not said. It is not hers and she has not asked for it and she is not going to, and the first half went nine foot up those flags a long time ago and the rest of it went down that passage and is not going anywhere, and the bar went back into its housing at the hour it goes back in with nobody's hands on it.
+The second half of his own sentence is still the half he has not said. It is not hers and she has not asked for it and she is not going to, and the first half went nine foot up those flags a long time ago and the rest of it went down that passage and is not going anywhere, and that bar went home into its housing at the hour it always goes home, with nobody's hands on it.
