@@ -1,10 +1,10 @@
 # Chapter 0509: About Four Feet Of Lane Between Two Doors, A Woman With A Book Going Past, And Nothing Put To Anybody
 
-The room is taken by the week and it is the same room, and the wall beside the window is still bare, and the nail is still in it going in crooked about the height of his hand, and the coat is on it.
+The room is the one he has been taken by the week in for longer than he has held nothing, and there are four feet of wall beside that window with nothing on any part of it, and a nail in it, and the coat is on the nail.
 
-He has a mark about three inches long on the inside of his left wrist and it reads nothing and decides nothing and does not know where the ford is, and it is not the price of anything, and a bar of his own came off him on an application of one line which he wrote himself.
+He has a mark about three inches long on the inside of that wrist and it is the same length it was the last time he looked at it, and a bar of his own came off him on a line he wrote himself, and neither of the two is the price of anything and neither of them has cost anybody in this matter but him.
 
-It is the fourth day of the third week of the fifth month of the year after the year after the year after the year after the year after the year after the year after next, and it is the morning, and it is two weeks since the last time he stood in the middle of that floor and said anything out loud to it.
+It is the fourth day of the third week of the fifth month of the year after the year after the year after the year after the year after the year after the year after next, and it is the morning, and it is six weeks since the last time he stood in the middle of that floor and said anything out loud to it.
 
 ---
 
@@ -32,9 +32,9 @@ That is the first time in ten volumes that a thing in this matter has got better
 
 ---
 
-About the fourth hour somebody put a hand on the door and said through it that there is a woman two floors down who has a thing about the window in that room and would put it in writing if anybody in the building would stand to it, and the hand went away again.
+About the fourth hour the hand was on the door again, and it was the same woman two floors down and it was the same offer put in the same words as a fortnight ago, and the thing she has about that window has been going on for about a month and is not going to be written down by anybody in that building, and the hand went away again.
 
-He did not open the door. That is the same as it was a fortnight ago and it will be the same as it is in a month, and there is nowhere in this empire for that woman's thing about a window to go, and he is not going to be thanked for it and she is not going to be thanked for it either.
+He did not open the door. That is the same as it was six weeks ago and it will be the same as it is in a month, and there is nowhere in this empire for that woman's thing about a window to go, and he is not going to be thanked for it and she is not going to be thanked for it either.
 
 ---
 
@@ -54,7 +54,7 @@ That is the whole of what happened to him that day at that point, and it is a sm
 
 He had not been asked anything. He had not been spoken to. He had not agreed to anything and he had not refused anything, and nobody knew he was on that lane and nobody is going to know. **Nothing in this empire will ever put a man of thirty-eight into a column as the one who happened to be standing on a road when a woman said a true thing.**
 
-He worked that out standing there and it took him about as long as a sheet takes to be signed, and it did not frighten him, and he is not going to let it frighten him, and it is not the same as the thing he worked out a fortnight ago and he knows that already and is not going to look at it.
+He worked that out standing there and it took him about as long as a sheet takes to be signed, and it did not frighten him, and he is not going to let it frighten him, and it is not the same as the thing he worked out six weeks ago and he knows that already and is not going to look at it.
 
 ---
 
@@ -68,7 +68,7 @@ He did not write any of it down. He did not send for anybody. Nothing has ever b
 
 ---
 
-The coat is on the nail. Two things are in its inside pocket, one either side of the seam, and they have been in there about two years, and the crease a third of the way down the leaf is worn through, and the four things printed along the top of the other one are the same four things, and not one of them is a name.
+The coat is on the nail. The two things are where they were, one on each side of that seam, and the leaf has been folded and unfolded so many times in two years that the crease a third of the way down it has gone thin enough to feel through, and the four things printed along the top of the other one are the same four things they have always been and not one of them is a name.
 
 Nobody has looked in the coat. Nobody ever has and nobody ever is going to. Nobody is ever going to be told what is at the end of that struck line, and nobody is ever going to be told which hand struck it, and neither of those is going to be printed out anywhere at all. The claim that left this empire with that name left it on the same day, and one of those two things is his and the other has never been his at all, and it is not going to arrive this month.
 

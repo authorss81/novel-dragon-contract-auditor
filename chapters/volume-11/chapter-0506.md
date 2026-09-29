@@ -56,7 +56,7 @@ Nobody has ever called it a decision. Nobody has ever called it a statement. It 
 
 About nine of the nine hundred a year are wrong and he signs all of them, and he could not put a mark beside one of them and call it a disagreement, because there is nowhere in this empire that a man who cannot read a paragraph is allowed to put a mark beside a sum. If anybody in that building could read one of them and could see the line above the one he has signed, and if that anybody then went and looked at the same nine and compared them, that anybody would know.
 
-He has wanted about four minutes of a morning like that more than once in nineteen years. He would say no to about half of them and yes to the rest. And there is nobody to ask, and nobody to be asked, and nobody who is in a position to be told what a number is, and a person who cannot read a paragraph cannot be given a paragraph to read and cannot be given a sum to disagree with and cannot be put behind a line of anybody's without becoming a party to it.
+He has wanted about four minutes of a morning like that more than once in nineteen years. He would turn about half of them down on the spot and let the rest go by, and there has not been one morning. And there is nobody to ask, and nobody to be asked, and nobody who is in a position to be told what a number is, and a person who cannot read a paragraph cannot be given a paragraph to read and cannot be given a sum to disagree with and cannot be put behind a line of anybody's without becoming a party to it.
 
 He is owed nothing and he has asked for nothing in nineteen years.
 

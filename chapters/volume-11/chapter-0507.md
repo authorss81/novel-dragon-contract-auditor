@@ -44,7 +44,7 @@ The woman at the bottom of the stair did not open the door.
 
 The stair went up after that and nobody came down it, and the ground floor of that house is not a room anybody in this matter is ever thanked in.
 
-The woman at the bottom of the stair went to the boiler and put her hand behind it and it was where it was, and the lid had not shut the way it used to since a spring that is gone.
+The woman at the bottom of the stair went to the boiler and put her hand behind it and it was where it was, and the lid came up crooked in her hand, and that was the whole of what nine years had come to.
 
 She took the coin out of her apron pocket, where it had been since about the first hour, and she held it, and she put it in the tin.
 
@@ -68,4 +68,4 @@ She has refused to remember the name a young man said in her passage in a year t
 
 She has said the thing she has never said out loud to anybody to a wall, and there is nobody in that house she could say it to twice to, and she is not going to get anybody to say it with.
 
-Nobody was thanked. Nobody was forgiven. Nobody was sent for, and the stairs went up and nothing was resolved. Nobody has come to that door in about two years, and that is the shape of his working life, and it goes back to a morning when a bundle he never opened came down a street in this city.
+Nobody was thanked. Nobody was forgiven. Nobody was sent for, and the stairs went up and nothing was resolved. Nobody has come to that door in about two years, and that is the shape of his working life, and it goes back to a wet morning when a leaf came out of a bundle folded twice and went into an inside pocket and was read, and read, and read, by a man who has not given his name to one person in that house.

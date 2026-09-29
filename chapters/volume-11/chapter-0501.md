@@ -20,7 +20,7 @@ It stands where it stands, and it is worth the standing: **a room with one perso
 
 Marn stood at the boards for about as long as a sheet takes to be squared and worked the rest of it out standing up.
 
-The number of people who go up that stair in a week is the same number as the number of people who come down it having not been spoken to. It is the same number, and it has been the same number for as long as she has been on that floor, and about four hundred of them come down those flights in a year, and not one of them has been told anything on any of the four floors and not one of them could produce a line that said so. **The two numbers are the same number for a reason and they are not the same number by accident, and the reason is that this is the only building in this matter where nothing is wanted of anybody, and a thing nothing is wanted of cannot be wanted twice.**
+The number of people who go up that stair in a week is the same number as the number of people who come down it having not been spoken to, and it is that number every week, and it has been for as long as she has been on that floor. About four hundred of them come down those flights in a year, and not one of them has been told anything on any of the four floors and not one of them could produce a line that said so. **The two numbers are the same number for a reason and they are not the same number by accident, and the reason is that this is the only building in this matter where nothing is wanted of anybody, and a thing nothing is wanted of cannot be wanted twice.**
 
 She did not say it out loud. She has four shapes of things she has said out loud in that room and there is not going to be a fifth one, and this was not a fifth one anyway, because it was a fact about a stair and not about a person.
 
@@ -28,7 +28,7 @@ She did not say it out loud. She has four shapes of things she has said out loud
 
 "I did not say it out loud."
 
-"You said it with your hands. I have been at this end of these boards for two years and I know what your hands do, and you have not looked at that stair once this morning, and I am not going to be thanked for noticing and I am not going to be asked about it, and now go back to being a person nobody wants anything out of."
+"You said it with your hands. I have been at this end of these boards for two years and I know what your hands do, and you have not looked at that stair once this morning. I have not said one word about it and I am not going to, and nobody is going to ask me what I saw, and nobody is going to thank me for having seen it either, and now go back to being a person nobody wants anything out of."
 
 Marn went back to being a person nobody wanted anything out of. She did not put the sentence down and she did not pick it up, and it is still there, and Tamsin Rook has not repeated a word of it and is not going to.
 

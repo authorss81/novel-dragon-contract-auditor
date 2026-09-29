@@ -4,7 +4,7 @@ Nothing on that bracket gives light before the seventh hour, and until it does, 
 
 Halla Wray. Fifty-one. A foreman, and for eleven years the occupant of a box that a class put her in. The paper behind the class is still nailed up by that door, and no hand has ever gone near a line of it, and it was not filled in before she came and it is not going to be filled in after.
 
-It is about nine foot by eleven and there is a bench in it that is longer than that, and a chain across the front of it, and a mark in chalk on the end wall at the height of the third link, and about four hundred yards up the lane off which this shed stands is a thing that is not walked this month and is not walked by anybody in it.
+It is nine foot by eleven, the bench in it runs the length of the back wall and is longer than the room is, and there is a chain across the front of it, and a mark in chalk on the end wall at the height of the third link, and about four hundred yards up the lane off which this shed stands is a thing that is not walked this month and is not walked by anybody in it.
 
 The two of seventeen are at the back where they have been all week, on a written engagement and on a silence, and neither of them is spoken to, neither of them is thanked, neither of them is sent for, and neither of them is going to start. The girl has not been asked one thing in about a year and is not being asked anything this month and is not being given the chance to say no about anything. The boy with the book read what he reads and has not been spoken to by anybody in that lane in a long time.
 
@@ -42,7 +42,7 @@ There is a second half of that sentence and it has not arrived in about two year
 
 What came instead was a flat fact, and it came out of her in that doorway with a second person in the shed behind her, and she said it to the end wall.
 
-"**A class can be put back into by whoever fills in the next form. Not by me. By whoever picks the pen up. And a person who can be put back into has already been made a party to it, and a party is a person, and a person is the one thing anybody can be told in advance what a thing is going to be used for. So the whole of what is on that board by the door is a hole with a shape in it, and I am standing in the shape, and nobody has to do anything at all for the shape to work.**"
+"**A class can be put back into by whoever fills in the next form. Not by me. By whoever picks the pen up. And the putting works on a person whether they lifted that pen or not, and the only kind of person in this empire that a thing can be told to is a person, and a person can be told a thing before it happens and nothing else can be. So the whole of what is on that board by the door is a hole with a shape in it, and I am standing in the shape, and nobody has to do anything at all for the shape to work.**"
 
 The chalk mark on the end wall is at the height of the third link. It is a mark in chalk, it is not evidence of anything, and nobody has ever converted it into evidence, and it is still there, and it is not going to be looked at again this month.
 
