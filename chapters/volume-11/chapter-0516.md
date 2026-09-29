@@ -6,7 +6,7 @@ Marek Kest. Thirty-eight. There is not one line in this empire standing against 
 
 In the inside pocket of the coat on the nail there are two things, one on each side of a seam, and they have been there about two years. Nobody has ever looked in the coat and nobody ever is going to, and he has never taken either of them out of that pocket and he is not going to this month.
 
-It is the second day of the second week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is the morning.
+It is the second day of the second week of the seventh month of the year after the year after the year after the year after the year after the year after the year after next, and it is the morning.
 
 ---
 

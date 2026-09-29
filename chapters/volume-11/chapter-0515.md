@@ -6,7 +6,7 @@ Marn Ottery is thirty-four, has been at the far end of them for eleven years, an
 
 Tamsin Rook is twenty-four and is at her own end with her back to the room and an edge under her hands.
 
-It is the second day of the first week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is the fourth hour.
+It is the second day of the first week of the seventh month of the year after the year after the year after the year after the year after the year after the year after next, and it is the fourth hour.
 
 ---
 

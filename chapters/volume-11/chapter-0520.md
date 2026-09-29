@@ -6,9 +6,9 @@ Marn Ottery is thirty-four and eleven years at the far end of those boards, and 
 
 Tamsin Rook is twenty-four and has stood at her own end of those boards for two years, and for the whole of the two years she has been in that room twenty minutes ahead of the hour on every working morning of it.
 
-The clerk of about twenty-nine is at the far end of the two joined tables where she has been for four years, with the book open in front of her and the pen in the middle of it.
+At the far end of the two joined tables a clerk of about twenty-nine has been sitting for four years with a book open in front of her and a pen in the middle of it, and on this morning she had it open at the same page she had it open on yesterday.
 
-It is the second day of the second week of the eighth month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is the sixth hour.
+It is the second day of the second week of the eighth month of the year after the year after the year after the year after the year after the year after the year after next, and it is the sixth hour.
 
 ---
 

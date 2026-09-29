@@ -6,7 +6,7 @@ There is a woman of about twenty-nine at the far end of the two joined tables. S
 
 The book lies open in front of her and the pen lies across the middle of the open page, and it has lain across the middle of that page every working morning since before the woman beside her came to that end of the tables.
 
-It is the fourth day of the fourth week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the third hour.
+It is the fourth day of the fourth week of the seventh month of the year after the year after the year after the year after the year after the year after the year after next, and it is about the third hour.
 
 ---
 

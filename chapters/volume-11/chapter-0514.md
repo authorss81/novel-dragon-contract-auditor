@@ -4,7 +4,7 @@ She is about twenty-six and she has stood at one end of that run for the better 
 
 Since the spring of her fourth year at that end there has been a figure in her head. Nothing has ever been written down about it and nothing is going to be, and it has already gone up out of that building once without touching a sheet of anything on the way, and there is nobody anywhere who could set a printed word above it for anybody to see.
 
-Nobody in this matter walks that run in this month. The far lock belongs to somebody else, and whatever stands beyond it is not opened and not looked into, and the woman who is at the far end of that cold is not in this passage and has not been in it for four volumes and is not going to be.
+Nobody in this matter walks that run in this month. The far lock belongs to somebody else, and whatever stands beyond it is not opened and not looked into, and the woman standing at that end of the cold is a person this passage has gone four volumes without and is not going to pick up now.
 
 It is the fourth day of the fourth week of the sixth month of the year after the year after the year after the year after the year after the year after the year after next, and it is about the fourth hour.
 

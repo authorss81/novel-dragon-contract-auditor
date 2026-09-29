@@ -6,7 +6,7 @@ She is fifty-three and not fifty-five. There are four people in this matter who 
 
 Her own question is on the shelf under that window. It is still a question. It still carries no full stop, and her own name is at the foot of it, and it is never going to be written out in any building in this empire, and nobody is going to be asked about it a second time.
 
-It is the second day of the first week of the eighth month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is the second hour.
+It is the second day of the first week of the eighth month of the year after the year after the year after the year after the year after the year after the year after next, and it is the second hour.
 
 ---
 

@@ -2,9 +2,9 @@
 
 The pen went into the pot and came out of it about nine hundred times between the second hour and about the fifth, and the pot has never once had an opinion about which hand put it in, and the man who put it in has not looked down at his own right hand once in nineteen years.
 
-He is about sixty-one. He has been the second hand at that sill since he was forty-two. There is not a working sentence in a paragraph and he has taken care for the whole of that time that nobody standing on that floor ever found out, and the taking care is the only skill he has ever added to anything.
+He is about sixty-one. He has been the second hand at that sill since he was forty-two. He cannot read a paragraph and there is nothing in that building that has ever required him to, and he has taken care for the whole of that time that nobody standing on that floor ever found out, and the taking care is the only skill he has ever added to anything.
 
-Of those nine hundred sheets in a year, about nine are not what the person above him wrote. He signs them the same as the rest. Nobody in that building can see the difference and nobody in it could put a mark beside one of them and call it a disagreement, because there is nowhere in this empire that a man who cannot read a paragraph is allowed to put a mark beside a sum.
+Of those nine hundred sheets in a year, about nine are not what the person above him wrote. He signs them the same as the rest. Nobody in that building can see the difference, and this empire has never kept a column a man like him could write in, so the nine go down that corridor with his mark at the foot of them and nothing standing beside it anywhere.
 
 It is the fourth day of the third week of the sixth month of the year after the year after the year after the year after the year after the year after the year after next, and it is between the second hour and about the fifth.
 
@@ -16,7 +16,7 @@ That is the only reason the shape of that floor was what it was, and there is no
 
 ---
 
-A true thing went out of that room in nine words on that morning and it went to the stone, in the ordinary way, at about the third hour, and it was said by a man who cannot make sense of a paragraph and who has never once said anything that anybody had to answer.
+A true thing went out of that room in nine words on that morning and it went to the stone, in the ordinary way, at about the third hour, and it was said by a man who cannot read a paragraph and who has never once said anything that anybody had to answer.
 
 "**Nine hundred sheets a year leave this room and my mark is at the foot of every one of them, and there is no way anybody could tell from that mark which of my two hands made it, and I did not arrange that and I cannot stop it.**"
 
@@ -42,7 +42,7 @@ She had the armful on the stone in front of her when he said it. She did not loo
 
 He went on with his nine hundred.
 
-He has said four things in that building in nineteen years and three of them were not sentences about anything, and one of them was a word or two said flatly into a room by somebody who works at the far end of it. He is not going to say it again and nobody in that building is going to ask him what it was and nobody is going to be thanked for the not asking.
+He has said five things in that building in nineteen years and four of them were not sentences about anything, and the fifth is the one that went to the stone this morning. The one before it was a word or two said flatly into a room by somebody who works at the far end of it, and it was not a sentence about a number and it was never about one. He is not going to say it again and nobody in that building is going to ask him what it was and nobody is going to be thanked for the not asking.
 
 She would have to be the one who told them, if anybody ever did, and she is not going to, and there is nobody in that building she could tell.
 
