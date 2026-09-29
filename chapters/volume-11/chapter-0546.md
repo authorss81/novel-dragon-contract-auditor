@@ -44,7 +44,7 @@ He stood on the turn with his hand on the rail.
 
 ---
 
-"There is a key to the top room of this house somewhere in this building," she said, to the stair. "It has not been on that board for about a month and a half and it is not in that tin any more. I have not looked for it and I am not going to, and there is a mark cut into the back of it that is the only thing in this house that has ever said anybody slept up there, and that mark is going thin at the top of it."
+"There is a key to the top room of this house somewhere in this building," she said, to the stair. "It has not been on that board for about eight weeks and it is not in that tin any more. I have not looked for it and I am not going to, and there is a mark cut into the back of it that is the only thing in this house that has ever said anybody slept up there, and that mark is going thin at the top of it."
 
 He did not go up the stair at once.
 

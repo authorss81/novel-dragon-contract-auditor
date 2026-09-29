@@ -10,7 +10,7 @@ It is the fourth day of the third week of the third month of the year after the 
 
 That was the arrangement and it had been the arrangement for four years. Four crossings a day, and the gaps between them are about two hours, and she had worked the shape of them out on her feet in about the first fortnight of being at that end of the run, and there is nothing in them that anybody could be shown she had worked out.
 
-She had the rag in her hand and the housing open and about a quarter of four years of that dust gone out of it. The tin of oil was standing on the flags about nine foot off the bar where a man had put it a month ago and where it was still standing, and she was not going to touch it. That was not a refusal of anything, and there is no form anywhere in this empire for a woman at a lock to be entered as the one who would not open a tin.
+She had the rag in her hand and the housing open and about a quarter of four years of that dust gone out of it. The tin of oil was standing on the flags about nine foot off the bar where a man had put it about five weeks ago and where it was still standing, and she was not going to touch it. That was not a refusal of anything, and there is no form anywhere in this empire for a woman at a lock to be entered as the one who would not open a tin.
 
 She worked dry. There is not a great deal in a housing that four years of a stone has put into it and a rag and about an hour will do most of it, and she was not going to be thanked for it, and she was not going to be asked what it was for, and there is nothing in this empire that takes a woman at a lock as the one who cleaned out a housing nobody asked her to clean.
 
