@@ -1,4 +1,4 @@
-# Chapter 0552: A Girl Of Nineteen Who Had Stopped Going Into The Room At The Back Of That Floor And Went In, And A Shelf With A Question On It That She Stood In Front Of And Did Not Take
+# Chapter 0552: The Room At The Back Of That Floor, And A Girl Of Nineteen Who Goes In And Does Not Take It Off The Shelf
 
 She had stopped going into the room at the back of that floor about a fortnight ago and this morning she went in and wrote out a week of minutes in her own hand because the second copy had not gone in for a fortnight and it was hers to do.
 
@@ -50,7 +50,7 @@ There is one thing on it and there has been one thing on it for about eleven yea
 
 She was in that room with the woman of fifty-three about four foot off her and she looked at it for about as long as it takes to write a day down, and she did not touch it, and she was not asked about it, and she is not going to be asked about it and would not answer if she were, which is a thing she worked out in about two seconds flat.
 
-If she touched it she would be a person who had read it. If she did not touch it she would be a person who had stood next to it. Neither of those is a thing that can be put anywhere and both of them are the same absence, and she has worked out in nineteen years that the cheapest thing in any building is to be nobody in particular, and she was somebody in particular in that room for about as long as it takes to write a day down and she cannot get it back.
+If she touched it she would be a person who had read it. If she did not touch it she would be a person who had stood next to it. Neither of those is a thing that can be put anywhere and both of them are the same absence, and she has worked out in the month she has been in that building that the cheapest thing in any building is to be nobody in particular, and she was somebody in particular in that room for about as long as it takes to write a day down and she cannot get it back.
 
 ---
 

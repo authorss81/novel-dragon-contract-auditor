@@ -1,4 +1,4 @@
-# Chapter 0554: One Plate On A Table For About Two Years And Then Two, And A Man Of Thirty-Eight Who Has Nowhere In This Empire To Put The Second
+# Chapter 0554: The Room Taken By The Week, And A Man Of Thirty-Eight Who Puts Out A Second Plate And Has Nowhere To Put It
 
 He had been putting the second plate on the other side of that table for about a fortnight, and this morning he washed it, and putting it out washed is a different thing from putting it out.
 

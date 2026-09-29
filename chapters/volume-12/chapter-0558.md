@@ -1,4 +1,4 @@
-# Chapter 0558: A Shelf Dusted Every Morning For A Fortnight And A Mark In The Dust Not Wiped Out, And A Woman Who Is Not Going To Be Asked What For
+# Chapter 0558: The Room At The Back Of That Floor, And A Woman Who Dusts Round A Mark And Does Not Wipe It Out
 
 She had been dusting that shelf every morning for about a fortnight and going round a mark in the dust about the size of one question, and she had not wiped the mark out, and on the fourth day of that run a girl of nineteen came into that room with an armful and found her standing at it with a cloth.
 

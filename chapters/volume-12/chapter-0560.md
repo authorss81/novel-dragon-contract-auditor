@@ -1,4 +1,4 @@
-# Chapter 0560: A Room Standing Empty Since Before The Spring That A Woman Has Begun Standing In The Middle Of Nine Times In A Fortnight, And A Fifth Column Not Ruled
+# Chapter 0560: The Room She Has Not Let Since Before The Spring, And A Woman Who Stands In The Middle Of It And Rules No Column
 
 She had begun standing in the middle of the room she has not let, and she had been in it nine times in a fortnight, and on the second morning of that second week she put the second thing in it and stayed in the room.
 

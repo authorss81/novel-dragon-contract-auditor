@@ -1,4 +1,4 @@
-# Chapter 0555: A Reader Of Seventeen At The End Of A Bench Who Began Reading The Top Of Every Sheet That Came To His Hands And Then Stopped, And A Girl Beside Him Who Has Not Said One Word
+# Chapter 0555: The Shed On The Slade, And A Reader Of Seventeen Who Reads The Top Of Every Sheet And Then Stops
 
 He had begun reading the top of the sheets that came to the end of that bench, the head of them and the date at the head and the line at the top, before he did anything at all with them, and it had been a fortnight, and this morning he stopped.
 

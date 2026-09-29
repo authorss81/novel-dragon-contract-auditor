@@ -1,4 +1,4 @@
-# Chapter 0557: A Lid Put Down Straight On A Tin For The First Time, And A Stair That Did Not Go Up At The Sixth Hour, And Nobody Went Up It
+# Chapter 0557: The Ground Floor Of A Rented House, And A Woman At The Bottom Of A Stair That Did Not Go Up
 
 She had been shutting the lid on that tin straight for about a fortnight, and the lid had been coming down crooked on the top of it for about a month before that, and on the fourth day of that run the stair did not go up at the sixth hour and she stood at the bottom of it.
 

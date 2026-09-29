@@ -1,4 +1,4 @@
-# Chapter 0559: A Second Bundle Left At The End Of A Bench By A Foreman Who Has Worked Out That More Of It Is Not The Same As The Chance To Say No
+# Chapter 0559: The Shed On The Slade, And A Foreman Of Fifty-One Who Takes One Of The Two Bundles Back
 
 She had begun leaving two bundles at the end of that bench instead of one, and the girl had taken both of them, and nothing had been said in that bay for nine mornings, and this morning she took one of them back.
 

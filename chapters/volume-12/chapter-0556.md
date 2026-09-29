@@ -1,4 +1,4 @@
-# Chapter 0556: A Back Room Empty At The First Hour On Two Mornings Running, And A Man Who Has Decided The Plate Is Not For Anybody Coming
+# Chapter 0556: The Back Room Empty At The First Hour Two Mornings Running, And A Man Who Decides The Plate Is Not For Anybody
 
 The back room at the other end of that air was empty at the first hour on two mornings running, and it had not been empty at the first hour for about two years, and he did not open the window about it.
 

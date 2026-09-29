@@ -1,4 +1,4 @@
-# Chapter 0551: A Foreman Who Left A Bundle At The End Of Her Own Bench And A Girl Who Put It Back Three Feet Along It, Twice
+# Chapter 0551: The Shed On The Slade, And A Foreman Of Fifty-One Who Begins Leaving The Bundle At The End Of Her Own Bench
 
 She had begun leaving the ordinary work of that shed at the end of the bench where the two of them sit, about nine mornings a month, and on the second morning of that run a girl of seventeen put it back in the middle without saying one word.
 
@@ -8,7 +8,7 @@ It is the second day of the first week of the fourth month of the year after the
 
 The reason is a sentence she said out loud in that bay about a year ago and has not said since and is not going to say again and is not going to be asked for.
 
-She said then that a girl of seventeen at the back of that shed had not been asked one thing in about a year and was not being given the chance to turn anything down. She said that anybody in this matter includes the girl at the back of that bench. She said that if a second of a second were put in front of her tomorrow there would be nowhere in this empire for her to put the fact that she did not want it.
+She said then that a girl of seventeen at the back of that shed had not been asked one thing in about a year and was not being given the chance to turn anything down. She said that anybody in this matter includes the girl at the back of that bench. She said that a second of a second put in front of that girl tomorrow would go nowhere in nine hundred buildings, and that a person who did not want a thing had no way of holding the knowing of it on to anything.
 
 Nine hundred buildings and not one column in any of them for the fact that a person did not want a thing.
 

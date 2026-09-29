@@ -1,4 +1,4 @@
-# Chapter 0553: A Woman Who Began Setting A Book Down Open On A Table In A Passage Where Another Woman Goes, And Who Left It There Four Days
+# Chapter 0553: The Passage On The Ground Floor Of A Rented House, And A Woman Who Leaves A Day-Book Open Four Days
 
 She had started taking the day-book down that lane open instead of shut, and leaving it on the table in that passage, and going back up the lane, and it had been four days and nobody had turned a page.
 
