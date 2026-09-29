@@ -1,6 +1,6 @@
-# Chapter 0544: A Man In A Felt Apron Leaving A Tin Of Oil On The Flags Nine Foot Off A Bar, Ten Weeks After Saying Out Loud In That Same Passage That He Was Not Going To Leave It For Her
+# Chapter 0544: A Man In A Felt Apron Leaving A Tin Of Oil On The Flags Nine Foot Off A Bar, Three Weeks After Saying Out Loud In That Same Passage That He Was Not Going To Leave It For Her
 
-He had said it in that passage about a month ago, in the ordinary way, to the flags, on his way up, and nobody had thanked him for it and nobody had asked him one word about it since.
+He had said it in that passage about three weeks ago, in the ordinary way, to the flags, on his way up, and nobody had thanked him for it and nobody had asked him one word about it since.
 
 He is in a felt apron. Forty years is how long he has gone up and down that stone, four times a day, and there is a rack on his hip with four prongs and there has not been anything on the prongs for four years, and the prongs have polished the stone in four short arcs that the same four arcs have been going for four years.
 
@@ -22,9 +22,9 @@ She looked at it for a while after that. Nobody had ever wanted one single thing
 
 He came down the next working morning at about the fourth hour and stopped at the last nine foot of it, and the tin was on the flags, and she was at the bar, and neither of them said anything for about as long as it takes that bar to go home.
 
-"You said in this passage about a month ago that you were not going to leave it for me."
+"You said in this passage about three weeks ago that you were not going to leave it for me."
 
-"I said a number of things in this passage about a month ago."
+"I said a number of things in this passage about three weeks ago."
 
 "You said that one about that tin. You said it to the flags on your way up and I heard it and you knew I heard it and you have not asked me whether I did."
 

@@ -1,8 +1,8 @@
-# Chapter 0547: A Woman At A Lock Putting Her Back To Four Hundred Yards Of Cold Flags Ten Weeks After She Said One Word Out Loud To A Bar, And A Man Who Is Not Going To Stop Coming Down That Run
+# Chapter 0547: A Woman At A Lock Putting Her Back To Four Hundred Yards Of Cold Flags Six Weeks After She Said One Word Out Loud To A Bar, And A Man Who Is Not Going To Stop Coming Down That Run
 
-Her two hands were on the passage side of that bar for ten weeks and this morning they were on the far side of it with her back to the cold, and that is the second time in about a year that she has moved round it, and both of the times were on purpose and neither of them was for him.
+Her two hands were on the passage side of that bar for six weeks and this morning they were on the far side of it with her back to the cold, and that is the second time in about a year that she has moved round it, and both of the times were on purpose and neither of them was for him.
 
-She is about twenty-six, and the four years she has stood at that end of that run are the whole of what she is to anybody in that building, and there is a tin of oil standing on the flags about nine foot off the bar that has been there for a month, and there are about nine foot of stone in the middle of that floor that has not been swept in a month, and neither of those two things is going to be mentioned by anybody.
+She is about twenty-six, and the four years she has stood at that end of that run are the whole of what she is to anybody in that building, and there is a tin of oil standing on the flags about nine foot off the bar that has been there for three weeks. There are about nine foot of stone in the middle of that floor that has not been swept since two months that are gone, and neither of those two things is going to be mentioned by anybody.
 
 It is the second day of the first week of the third month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the fourth hour.
 
@@ -14,7 +14,7 @@ He was at the last nine foot of that run with the empty rack against his leg bef
 
 "I have."
 
-"You were on the other side of it for ten weeks and you did not say one word to me about any part of those ten weeks, and I did not say one word to you, and I have not asked you what they were and I am not going to."
+"You were on the other side of it for six weeks and you did not say one word to me about any part of those six weeks, and I did not say one word to you, and I have not asked you what they were and I am not going to."
 
 "I have not asked you for anything."
 
@@ -26,9 +26,9 @@ He was at the last nine foot of that run with the empty rack against his leg bef
 
 She had her back to him and her hands on the cold side of the bar and she could not see the light coming down that run, and that was the whole of what she had come back for.
 
-A man coming down that run in good light gets to about two hundred yards and sees a shape, and about a hundred and fifty and sees the back of a coat, and there is nothing in it to look at until he is inside eighty. He is stopped at about ninety every time, and he has been stopped at about ninety for ten weeks, four times a day, and that is about a hundred and forty crossings of a stone with a woman in them, and she is the only second person that run has had in four years, and she has been it on purpose since the third week of a month that is gone.
+A man coming down that run in good light gets to about two hundred yards and sees a shape, and about a hundred and fifty and sees the back of a coat, and there is nothing in it to look at until he is inside eighty. He is stopped at about ninety every time, and he has been stopped at about ninety for six weeks, four times a day, and that is about a hundred and twenty crossings of a stone with a woman in them, and she is the only second person that run has had in four years, and she has been it on purpose since the third week of a month that is gone.
 
-She has put an end to it this morning, and she did it because of *a word she said to a bar ten weeks ago that he is not going to hear about, because he has not heard it and is not going to and is never going to be told.*
+She has put an end to it this morning, and she did it because of *a word she said to a bar six weeks ago that he is not going to hear about, because he has not heard it and is not going to and is never going to be told.*
 
 And if he had heard it, none of this would be happening, and he is not going to know that either, and the two of them are going to go on standing in the same passage for the rest of their working lives with the whole of this between them and neither of them able to put it anywhere.
 
@@ -56,6 +56,6 @@ And he took the rest of that run up and it was gone out of the passage, and the 
 
 ---
 
-She was the cheapest second hearer in this city for ten weeks and she has put herself back where a second hearer cannot be, and she did it in about as long as that bar takes to go home, with a man nine foot off her who could not do one thing about it. She is not going to be thanked for the ten weeks and she is not going to be asked what they were for. There is no column in this empire that a woman at a lock can be entered as the one who was in a passage, and there is none that can take her as the one who was not.
+She was the cheapest second hearer in this city for six weeks and she has put herself back where a second hearer cannot be, and she did it in about as long as that bar takes to go home, with a man nine foot off her who could not do one thing about it. She is not going to be thanked for the six weeks and she is not going to be asked what they were for. There is no column in this empire that a woman at a lock can be entered as the one who was in a passage, and there is none that can take her as the one who was not.
 
-What she has carried in her head since the spring of her fourth year is on no paper, and it went up out of that building once without touching a sheet, and it is not going anywhere this month. One word out loud at a bar in a month that is gone has not moved it and is not going to be handed to anybody. The housing wants oil about four times a year, and it went home dry again that hour for the fortieth time in a row.
+What she has carried in her head since the spring of her fourth year is on no paper, and it went up out of that building once without touching a sheet, and it is not going anywhere this month. One word out loud at a bar in a month that is gone has not moved it and is not going to be handed to anybody. The housing wants oil about four times a year, and it went home dry again that hour for the hundred and thirtieth time in a row.

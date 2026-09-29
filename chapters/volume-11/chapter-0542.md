@@ -2,7 +2,7 @@
 
 There was a strip of stone at the near end of that passage about nine foot long that she had not swept since a month that was gone, and it lay in the middle of a floor she swept every working morning of her four years at that end of the run.
 
-It is not a wide strip. It is the width of a man standing still, and it goes from the wall to about a foot and a half out from it, and it is the only piece of that floor in four years that has had dust standing on it, and on the morning of the second week of the first month she noticed that somebody had been at it with a broom.
+It is not a wide strip. It is the width of a man standing still, and it goes from the wall to about a foot and a half out from it, and it is the only piece of that floor in four years that has had dust standing on it, and on the morning of the fourth week of the first month she noticed that somebody had been at it with a broom.
 
 It is the fourth day of the fourth week of the first month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the fourth hour.
 
