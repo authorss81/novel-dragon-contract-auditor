@@ -39,6 +39,7 @@ files are the authority and the disagreement is worth more than either.
 """
 
 import argparse
+import io
 import json
 import os
 import re
@@ -423,6 +424,19 @@ def cmd_sentences(args):
     files = chapter_files()
     if args.volume:
         files = [(v, p) for v, p in files if args.volume in v]
+    if not files:
+        # The batch prompt orders this run against the volume the batch is
+        # about to write, and a writer who runs it before the first chapter
+        # exists gets no mean, no median and no maximum. Printing a traceback
+        # and exiting 0 is the case this project calls a clean number of the
+        # expensive kind: the run looks like it worked and nothing was
+        # measured. Say what was not found, on the error stream, and exit
+        # non-zero, so that a script reading the exit code and a writer
+        # reading the screen are told the same thing.
+        where = f"volume {args.volume}" if args.volume else "chapters/"
+        print(f"no chapter files matched {where}; nothing was measured",
+              file=sys.stderr)
+        return 1
     lengths = []
     worst = (0, None)
     for _volume, path in files:
@@ -430,11 +444,16 @@ def cmd_sentences(args):
             lengths.append(n)
             if n > worst[0]:
                 worst = (n, os.path.basename(path))
+    if not lengths:
+        print(f"{len(files)} files read and no sentence in any of them; "
+              f"nothing was measured", file=sys.stderr)
+        return 1
     lengths.sort()
     mean = sum(lengths) / len(lengths)
     median = lengths[len(lengths) // 2]
     print(f"files: {len(files)}; sentences: {len(lengths):,}")
     print(f"mean {mean:.3f}; median {median}; max {worst[0]} in {worst[1]}")
+    return 0
 
 
 # ---------------------------------------------------------------------------
@@ -576,6 +595,26 @@ the second half of a sentence a foreman of fifty-one began in a doorway about tw
 """
 
 
+def run_quietly(func, args):
+    """Call a command function and capture what it prints and what it returns.
+
+    A self-test that lets a command write to the terminal cannot tell a
+    passing run from a failing one by looking, and a command that raises
+    writes a traceback to the real stderr where it cannot be caught at all.
+    Both streams are swapped for the duration and put back in a finally, so
+    a plant that itself fails does not leave the rest of the run writing into
+    a buffer that is about to be thrown away.
+    """
+    out, err = io.StringIO(), io.StringIO()
+    real_out, real_err = sys.stdout, sys.stderr
+    sys.stdout, sys.stderr = out, err
+    try:
+        code = func(args)
+    finally:
+        sys.stdout, sys.stderr = real_out, real_err
+    return out.getvalue(), err.getvalue(), code
+
+
 def cmd_selftest(args):
     ok = True
 
@@ -691,6 +730,20 @@ def cmd_selftest(args):
               f"whitespace-after-full-stop splitter gives {harmful}; "
               f"the two rules differ by {len(parts) - harmful}")
 
+        print("plant 9 — a volume with no chapters is a failure and not a zero")
+        empty_out, empty_err, empty_code = run_quietly(
+            cmd_sentences, argparse.Namespace(volume="volume-00"))
+        check("a volume that matches no file exits non-zero", empty_code == 1,
+              f"exit {empty_code}")
+        check("and it says on the error stream that nothing was measured",
+              "nothing was measured" in empty_err and "Traceback" not in empty_err
+              and "Traceback" not in empty_out,
+              f"stdout {empty_out!r}, stderr {empty_err!r}")
+        full_out, _full_err, full_code = run_quietly(
+            cmd_sentences, argparse.Namespace(volume="volume-11"))
+        check("a volume that does match a file exits zero", full_code == 0,
+              f"exit {full_code}; it printed {full_out.splitlines()[0]!r}")
+
     finally:
         for path in paths.values():
             if os.path.exists(path):
@@ -738,7 +791,7 @@ def main():
     if args.cmd == "calendar":
         cmd_calendar(args)
     if args.cmd == "sentences":
-        cmd_sentences(args)
+        return cmd_sentences(args)
     if args.cmd == "markers":
         return cmd_markers(args)
     if args.cmd == "reprints":
