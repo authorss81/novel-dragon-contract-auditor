@@ -6,7 +6,7 @@ It is the second day of the second week of the seventh month of the year after t
 
 ---
 
-There are two steps and then a turn and the tin is on the top step at the turn, and she has been down that lane for seven weeks and the tin has been on that step for about twenty years, and it will be standing there on a morning when neither of them is in the house.
+There are two steps and then a turn and the tin is on the top step at the turn, and she has been down that lane for six weeks and the tin has been on that step for about twenty years, and it will be standing there on a morning when neither of them is in the house.
 
 About nine years of one man's rent went into it. Nobody has ever counted it. Nobody has ever written it down and nobody has ever asked her what is in it, which is a thing she has been grateful for for about as long as she has been able to be grateful for anything.
 
@@ -16,7 +16,7 @@ She has never once asked that woman one thing either.
 
 "I will take it up."
 
-The woman at the bottom of that stair had her back about half turned and she had a cloth in her hand and she had been at the boards by that door, which is the only cleaning in that ground floor and is done to the boards and not to the tin.
+The woman at the bottom of that stair had her back about half turned and she had a cloth in her hand and she had been at the boards at the front of that ground floor, which is the only cleaning in that ground floor and is done to the boards and not to the tin.
 
 "It goes up two steps and round a turn," she said. "It does not go up any further than that."
 
@@ -26,7 +26,7 @@ The woman at the bottom of that stair had her back about half turned and she had
 
 ---
 
-**She has said it twice in about as long as it takes a lid to stop rocking. I have come down that lane seven weeks with nothing in my hands and I have not been refused anything once and I am not going to be refused a tin, and I have not worked out yet what I would do if I were.**
+**She has said it twice in about as long as it takes a lid to stop rocking. I have come down that lane six weeks, four of them with nothing in my hands, and I have not been refused one thing out of any of them, and I am not going to be refused a tin, and I have not worked out yet what I would do if I were.**
 
 The woman at the bottom of that stair put the cloth down on the boards by that door where she had picked it up from, and she came up the two steps, and she took the tin off the top step with both hands and carried it round the turn and set it down.
 
@@ -44,12 +44,12 @@ She put her hand on the front board of the tin where the other one's hand had be
 
 ---
 
-The boards on the top step at that turn are wet on the underside of them and dry on the top, and a tin standing on nine years of a man's rent with a straight lid on it does not care which it is, and she came down that lane on seven weeks of saying nothing and one week of carrying something and this week of saying a thing in a sentence, and she has found out that the problem she came down with was about her.
+The boards on the top step at that turn are wet on the underside of them and dry on the top, and a tin standing on nine years of a man's rent with a straight lid on it does not care which it is, and she came down that lane on four weeks of saying nothing and one week of carrying something and this week of saying a thing in a sentence, and she has found out that the problem she came down with was about her.
 
 ---
 
 She stood on the step below the turn for about as long as it takes a sheet to be squared.
 
-She had come down that lane for seven weeks. She had got nothing. She had asked for the one thing she had come down for and she had got a tin carried up two steps and round a turn and put back down on the same boards in the same gap, and the sheets in that passage were dry that morning because the wind had been out of the west since the dark.
+She had come down that lane for six weeks. She had got nothing. She had asked for the one thing she had come down for and she had got a tin carried up two steps and round a turn and put back down on the same boards in the same gap, and the sheets in that passage were dry that morning because the wind had been out of the west since the dark.
 
 She went up the lane at the pace she had come down it and did not turn round on the step.

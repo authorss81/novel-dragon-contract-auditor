@@ -1,6 +1,6 @@
-# Chapter 0565: The Eighth Week Down A Lane, And A True Sentence Said Out Loud Over A Tin
+# Chapter 0565: The Seventh Week Down A Lane, And A True Sentence Said Out Loud Over A Tin
 
-She came down that lane for the eighth week to take a sheet of paper back off a top step, and the woman at the bottom of that stair was going the other way with a coin in her hand.
+She came down that lane for the seventh week to take a sheet of paper back off a top step, and the woman at the bottom of that stair was going the other way with a coin in her hand.
 
 It is the fourth day of the third week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the third hour and about the sixth.
 

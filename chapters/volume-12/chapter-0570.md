@@ -10,7 +10,7 @@ The room at the back of her own house has stood empty since before the spring an
 
 She went into it on the first morning of that fortnight and said out loud, standing in the middle of that floor, that she had not ruled a fifth column in nine years because she did not want to rule it. She said it to the floor and to a window with a catch on it and to a door she had shut behind her, and it took about as long as it takes to write a day down, and then she came out and shut the door.
 
-She did it every working morning for about a week.
+She did it on about seven mornings out of that fortnight.
 
 And what it did was nothing at all, which is the correct result and which she had worked out in about nine years without ever having to say one of them out loud to find out.
 
@@ -24,9 +24,9 @@ The whole of the instrument is the second person and the second person has to be
 
 She came down that lane at about the third hour on the tenth week of it and went through the passage and the tin was on the top step at the turn and the boards were wet again.
 
-"It has been nine days."
+"It has been a fortnight."
 
-"It has been nine days."
+"It has been a fortnight."
 
 "You have not said anything different."
 

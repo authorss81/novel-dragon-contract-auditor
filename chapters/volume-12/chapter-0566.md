@@ -1,6 +1,6 @@
 # Chapter 0566: A Coin Under A Door And A Mat With Its Corner Turned Down, And A Man Who Does Not Open It
 
-He had been putting the corner of that mat flat every morning for a week, and on the seventh morning the corner was down again and it had been trodden over rather than scuffed.
+He had been putting the corner of that mat flat every morning for about a month, and in the fourth week of it the corner was down again and it had been trodden over rather than scuffed.
 
 It is the fourth day of the fourth week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the first hour.
 
@@ -8,15 +8,15 @@ It is the fourth day of the fourth week of the seventh month of the year after t
 
 A mat on a landing takes a week to become a landing's mat and it takes a corner to say so.
 
-He had worked that out on about the fourth morning. The middle of it had gone down and gone flat and had stopped being the thing he had carried up under his arm, and the near corner had come up about two inches off the boards, and on the seventh morning that corner had been put over and flattened out of the way of a boot.
+He had worked that out on about the fourth morning. The middle of it had gone down and gone flat and had stopped being the thing he had carried up under his arm, and the near corner had come up about two inches off the boards, and in the fourth week of it that corner had been put over and flattened out of the way of a boot.
 
 Somebody in that building stands on that corner on the way past, every morning, at about the first hour, and has been doing it since before he had the mat, in the space where the mat now is.
 
 ---
 
-She came up at about the first hour and she was on the landing before her hand was down, and she stepped on the corner of it and it went over, and she lifted it, and the coin went under the door flat on the boards with the flats of two fingers.
+She came up at about the first hour and she was on that landing before her hand was down, and she stepped on the corner of it and it went over, and she lifted it, and the coin went under the door flat on the boards with the flats of two fingers.
 
-"It is the second week."
+"It is the fourth week."
 
 "I have it."
 
@@ -32,7 +32,7 @@ He had his hand flat on the door and his thumb up under the rail of it, and he n
 
 "It is a mat."
 
-"It is a mat and it is the second week of it and I come up here at the first hour and there is a coin, and that is the whole of what I do on this landing and that is all I do on this landing."
+"It is a mat and it is the fourth week of it and I come up here at the first hour and there is a coin, and that is the whole of what I do on this landing and that is all I do on this landing."
 
 The coin was under the door. She had said everything she had come up that flight to say and she had said it twice, and she stood there about as long as it takes a hand to stay flat on a thing.
 
@@ -40,7 +40,7 @@ The coin was under the door. She had said everything she had come up that flight
 
 ---
 
-**She would not let it be about the mat. I have wanted a second person in this room who had not come for me for about ten years and I have had a person on that landing twice this week who would not give me the reason I wanted, and she is right not to, and I am not going to be thanked for hearing her say it and I am not going to be asked about it.**
+**She would not let it be about the mat. I have wanted a second person in this room who had not come for me for about ten years and I have had a person on that landing twice in about a month who would not give me the reason I wanted, and she is right not to, and I am not going to be thanked for hearing her say it and I am not going to be asked about it.**
 
 Nothing in this city would take a man of thirty-eight for standing behind a door, and nothing in it would take the woman at the foot of that stair for saying what she came up that flight to say.
 
@@ -54,7 +54,7 @@ At about the first hour of every working morning for about two years there has b
 
 He has been treating those two as the same thing for about two years. They are not the same thing at all.
 
-A brush on boards through a shut window is a person who is not coming in. A coin under a door is a person who has come and gone and is not coming in either. Neither of them is a second person in the room, and the one on that landing has twice refused to be anything else, and she was right to, and the whole of what he has learned this week is that a plate and a mat are about as far apart as that.
+A brush on boards through a shut window is a person who is not coming in. A coin under a door is a person who has come and gone and is not coming in either. Neither of them is a second person in the room, and the one on that landing has twice refused to be anything else, and she was right to, and the whole of what he has learned in the last month is that a plate and a mat are about as far apart as that.
 
 ---
 

@@ -64,7 +64,7 @@ She did not ask where the sheet came from. She has not asked that woman one thin
 
 The woman of about thirty-five went back up that lane without stopping anywhere on it.
 
-The sheet is on the top step at that turn with the wet side up and the fold gone, and it is not hers any more in any way that would help her, and it is not that woman's either, and there is no form anywhere in this city in which a sheet of paper on a top step is entered as one person's or as the other's.
+The sheet is on the top step at that turn with the wet side up and the fold gone, and it is not hers any more in any way that would help her, and it is not that woman's either, and the whole of what it is now is a wet fold of paper on a step at a turn in a house where nobody has ever asked anybody anything.
 
 She has been five weeks in a passage she does not live in and she has got nothing that can be shown and she has left a thing behind.
 

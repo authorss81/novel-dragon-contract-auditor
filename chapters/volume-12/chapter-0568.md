@@ -2,7 +2,7 @@
 
 She had begun lifting that tin with her knee instead of with both hands, and she had not worked out why, and she had decided not to work out why.
 
-It is the second day of the second week of the eighth month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the first hour and about the third.
+It is the second day of the second week of the eighth month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the first hour and about the fourth.
 
 ---
 
@@ -22,25 +22,25 @@ There is a mat on that landing.
 
 ---
 
-She came up at about the first hour and the mat was square and flat with its near corner turned up about two inches where the boards had lifted at the joint, and she stepped over it, and she got her hand down and pushed the coin under the door with the flats of two fingers, and she stepped back over it and went down.
+She came up at about the first hour and the mat was square and flat with its near corner up about two inches where the boards have lifted at the joint, and it has been up more often than not for about a fortnight, and she stepped over it, and she got her hand down and pushed the coin under the door with the flats of two fingers, and she stepped back over it and went down.
 
-That was the whole of that for about a fortnight and she did not look down at the mat while she did it and she has not looked down at it once since.
+That was the whole of that for about three weeks and she did not look down at the mat while she did it and she has not looked down at it once since.
 
 On this morning she looked down at it.
 
 ---
 
-Nobody put that mat there.
+Nobody can say where that mat came from.
 
-That is not a finding, it is what a mat is. She has been at the foot of that stair for twenty years and there has never been one foot of anything on that landing, and now there is a mat, and it is the right size for a landing and it is the wrong colour for a man who has never done anything with a room.
+That is not a finding, it is what a mat is. She has been at the foot of that stair for twenty years and there was never one foot of anything on that landing, and there is a mat on it now, and it is the right size for a landing and it is the wrong colour for a man who has never done anything with a room.
 
-She has not seen him carry it. He is a door with a coin behind it and the sound of his own floor and about two years of nothing, and he has not come down that stair in all that time, and she has not been up past the second of those stairs in all that time, and there are two floors and twenty years between them and no landing in this building where the two of them have ever stood.
+She has not seen him carry it. He is a door with a coin behind it and the sound of his own floor and about two years of nothing, and he has not come down that stair in all that time, and she has not been up past the second of those stairs in all that time. There are two floors and twenty years between them, and there have been three mornings in about a month on which the two of them have been on that landing at the same time, and not one of the three was about the mat, and there is nothing in this house that could show her up those stairs or show him down them.
 
-She did not go and stand on that landing at a quarter of an hour. She went back down.
+She did not stand on that landing for a quarter of an hour. She went back down.
 
 ---
 
-**There is a mat on the landing of a man who has not come down that stair once in about two years, and he put it there, and I step over it at about the first hour of every working morning of my life, and nobody in this building is ever going to be told that I know it is his, and I am not going to ask him about it, and he is not going to come down and find out whether I know.**
+**There is a mat on the landing of a man who has not come down that stair once in about two years, and he put it there, and I step over it at about the first hour of every working morning of my life, and nobody in this building is ever going to be told that I know it is his, and I am not going to ask him about it, and he is not going to come down and find out whether I know. And if he were not behind that door this would be a mat that came from nowhere and I would have gone down that stair at the first hour the way I have gone down it for twenty years, and the whole of what I have got this morning is a man on the other side of a door who is not coming out of it.**
 
 He does not open that door. She has not knocked and she has never knocked and she is not going to, and a knock is the only thing in this empire that would put two people on a landing together and she is not going to spend it on a mat.
 
@@ -52,11 +52,11 @@ The woman of about thirty-five came down that lane at about the third hour and w
 
 "It has not moved."
 
-"It has not moved in a week and the sheets were dry at the back of it."
+"It has not moved since before the middle of that month and the sheets were dry at the back of it."
 
-The woman at the bottom of that stair had the cloth in her hand and she had been at the boards by that door and she did not turn round.
+She had the cloth in her hand and she had been at the boards by that door and she did not turn round.
 
-"I have not come up for the mat," she said, "and I have not come up for the mat for a fortnight, and that is the last of the mat."
+"I have not come up for the mat," she said, without turning round. "I have not come up for the mat for three weeks now, and that is the last of the mat."
 
 ---
 
@@ -64,18 +64,16 @@ She stayed on the step below the turn for about as long as it takes to fold a sh
 
 "There is a mat on your landing," she said.
 
-"That is not a thing you put on a landing."
-
-"No."
-
 "That is a thing a man puts on a landing."
 
-"It is the landing's now and it was the landing's by the fourth morning and you did not have to be told that by anybody."
+"That is not a thing you put on a landing."
 
-And the woman at the bottom of that stair went along the passage with the cloth in her hand and did not stop and did not look along that passage on her way, and she is not going to be asked about the mat or the tin or the wet boards or any part of it, and there is nowhere standing on that lane at which either of them could.
+"No. It is the landing's now, and it was the landing's by the fourth morning, and you did not have to be told that by anybody."
+
+And she carried on down that passage after that and did not stop, and she is not going to be asked about the mat or the tin or the wet boards or any part of it, and there is nowhere standing on that lane at which either of them could.
 
 ---
 
 The mat is on that landing and it is going to be there at about the first hour tomorrow, and there is a coin that goes under that door every working morning and it is not a receipt for anything and there has never been one for anything in twenty years.
 
-Nobody in that house is going to be told that the woman at the foot of that stair steps over it and goes down again.
+Nobody in that house is ever going to find out that she knows it is his, and that is the whole of what three weeks of a mat has come to.
