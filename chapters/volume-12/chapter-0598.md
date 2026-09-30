@@ -26,7 +26,7 @@ She came in twenty minutes early and she was in the room before anybody in it, a
 
 **There is exactly one thing I have ever wanted in this room and I have wanted it for about a fortnight, and it is to say one true sentence out loud where somebody is working, in the ordinary way, at the ordinary hour, with a second pair of ears in the air of it.**
 
-And the only person on this floor who has never once been asked anything is a man with a bag on his shoulder who has come up these stairs four times a week for eleven years and has not been told what is in the bag, and he is standing at that end of this room right now and he is not going anywhere for as long as it takes a sheet to be squared.
+And the only person on this floor who has never once been asked anything is a man with a bag on his shoulder who has come up these stairs four times a week for eleven years and has not been told what is in the bag, and he is standing at the case end of this room right now and he is not going anywhere for as long as it takes a sheet to be squared.
 
 And I am not going to do it, and the reason is the whole of what I have worked out in about a fortnight and it is not a form and it is not a column and it is not going in a book.
 
