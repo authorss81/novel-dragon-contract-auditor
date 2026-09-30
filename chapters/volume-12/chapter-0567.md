@@ -13,6 +13,7 @@ A class does not have to do a single thing to a person. It only has to leave her
 She has been leaving the ordinary work of that shed at the far end of that bench, where the count is made, about nine mornings a month, and there has been nothing on that end for about two months, and she worked out somewhere in the middle of that two months that an empty end of a bench is not a foreman's decision. It is a foreman's absence.
 
 Then on the sixth morning of that week the girl went past that end with her hands empty for the first time since the armfuls stopped, and there was nothing lying on it to take with her, and she has been working at the end by the door for about a month and has gone past that end on her way to her own every morning of it.
+The floor of that bay is boards laid the length of it and there is nothing standing on any part of it at any hour, and a foreman can walk the whole length of it twice a month and nobody in the building remarks on it at all. What light there is comes off the roof and stands up the wall about as high as a hand and no higher, and open floor under that much of it is a long walk, and she had got slower at it in eleven years than she had been at the start.
 
 ---
 
@@ -21,6 +22,7 @@ She went down the length of that floor.
 It is about ninety foot from the back of that bay to the front of that bench and she did it at the rate she walks, which is not fast, and the chain went along under a hand that has been on it eleven years and did not stop once for her.
 
 She put the flat of her hand on the wood at the front of that bench and kept it there.
+The wood at the front of the bench is about the width of a hand and it is cold at that hour, and she kept her hand flat on the wood and off the chain and on the wood and off it, at the rate the chain was going, and never once let it stay on the chain. That is a thing about a hand and not about a person. She has worked out that a foreman of fifty-one who lays her hand on the front of a bay is a foreman who wants somebody to look up, and there is no looking up in that shed at that hour and has not been for eleven years.
 
 She had not wanted to do it. She has worked out in about as long as it takes a brush on boards that the only reason she went down that floor was to be able to say that she had gone down it, and there is nothing at the front of that bench to say to.
 
@@ -33,6 +35,7 @@ The girl worked at the end by the door with her back to the whole length of that
 She did not stop and she did not turn round and there was no more of her at that end of that bench than there had been for about a month.
 
 That is the whole of what a foreman of fifty-one gets to see when she has come ninety foot down her own floor for nothing, and she stood there with her hand on the wood for about as long as a sheet takes to square, and then she took her hand off and went back up the length of the floor and did not stop at the front of anything on the way.
+Going back up at the rate she walks is twice as long as coming down it, and she did not stop anywhere on the way. The bay was quiet behind her by then and there was about as long as it takes to fold a sheet of the morning left before the count, and she spent the whole of it at the back doing the ordinary work of a foreman who is not going anywhere in that hour, and she did not look at the board by the door on her way past it either, because she has not looked at that board in eleven years.
 
 ---
 
@@ -45,6 +48,7 @@ A fortnight of standing at the back of that bay had got her down to the whole of
 She put it there and she went and stood at the back of that bay.
 
 The girl came along that bench at the ordinary rate, and she did not stop at the far end of it, and she did not look down at it, and she carried it on the nine foot to the end by the door and set it down on top of what she was already working and squared it with the heel of her hand.
+She was fifty-one and she had put a bundle at the far end of the bench with her own two hands at about the fourth hour, and it is the only thing she has put in that girl's reach in about two months and there is not going to be another one this week whatever it does.
 
 ---
 
@@ -55,3 +59,4 @@ She is not going to ask. There is nothing to ask with. A foreman of a shed is no
 Nobody has put one question to that girl in about a year and nobody is going to put one to her in this month either, and carrying a bundle past where it was put is not a thing anybody is going to thank a girl of seventeen for, and nobody is going to be sent for.
 
 The reader at the far end of that bench went on with what he was on and read nothing at all, and a reader of seventeen who can take the sense out of a page is not among the four in this matter who cannot, and nobody in that shed has ever had cause to find out.
+She is going to go down the floor again in about a fortnight and there will be nothing at the far end of the bench for her to go down it for, and she has worked out that a foreman who walks ninety foot down her own floor for nothing is a foreman who has decided to walk ninety foot down her own floor for nothing, and there is no form for it. Nobody in the shed has said a word to her about any part of it, and none of the fourteen mornings she has spent at the front of that bench is going to be the one somebody thanks her for, and she is not going to put a heading over any of it.

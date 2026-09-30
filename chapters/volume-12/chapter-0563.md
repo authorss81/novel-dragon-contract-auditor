@@ -11,6 +11,7 @@ She is seventeen and she has been at the end of that bench by the door since she
 He reads a paragraph and gets the sense of it, and there are four people in this matter who cannot get the sense of one, and he has never been one of the four and is not going to be, and nobody in that shed has ever wanted one single thing out of him.
 
 Sheets come down that lane in armfuls, come back up it at the far end, and finish on hands that are not in that shed.
+The far end of the bench is about four foot of stone and there are two frames under it, and the wood of those frames has gone grey in the middle where forearms go over it and is dark at both ends, and about nine foot of the stone along there has nothing standing on it at any hour of a working morning. Ninety foot of open floor runs from the bay back to the wall it stands against and it is the whole width of the shed, and the far end of it has been empty for four mornings.
 
 Until about four weeks ago, an armful stopped at that far end every working morning, and he read the top of them.
 
@@ -21,6 +22,7 @@ He stopped that about two weeks ago because there was nothing in the top of abou
 That was true and it was the whole of it. Not one head out of place. Nothing at the date at the head. Nothing at the line at the top. There was nothing to find and he had looked for about as long as it takes a bundle to come down a lane, and he put a sheet down square on that bench with the heel of his hand and never read the top of one again.
 
 He had worked out then that a person who reads the top of one sheet cannot afterwards be put back as the one who never read the top of anything, and he had given up the only thing in that bay that was his own over a fortnight of nothing.
+He read the top of them at the rate the bay goes, holding one in his left hand by the bottom corner so that his right hand did not stop, and he turned the corner of it over with the tip of one finger, because a sheet that has been read at the top has a corner that can be found. They were all the same corner. He worked it out inside the first fortnight and afterwards found it with his hand and did not have to look, and a person who can find a corner of a sheet without looking has said something about his own eyes that nobody in the place was ever going to ask him about.
 
 Then the armfuls stopped coming to that end.
 
@@ -33,6 +35,7 @@ The woman who puts work at that end had not put anything at that end for four mo
 He did everything there is to do about an empty end of a bench.
 
 He put his forearms on the boards. He counted the links in the chain that goes along at the front of that bench under a hand that has been on it eleven years. He looked at the bracket on the end wall, which was not on and would not be on until about the seventh hour. He looked at the chalk on that end wall, which is about the height of his own hand off the boards and which nobody has ever explained to anybody, and he has not asked and is not going to.
+He did not go out of that bay in the whole of any of those four mornings, not for water and not for the length of his own legs, and nine foot by eleven is a long way to walk when a person has already walked it. He could hear the place changing round him as the hour came on, from the sound of it and not from looking, and he worked out from that alone that there were two more people in the place and that neither of them was going to come to where he was, and that they had not on any of the four mornings either.
 
 That is the whole of it and it took about an hour.
 
@@ -53,6 +56,7 @@ And where she set it down, the top of every sheet in it was under about a foot o
 He had read the top of about a fortnight of them and found nothing and given it up, and he could have gone back to it that morning in about as long as it takes to lift a corner.
 
 She had put it down where a person could not get at the top of it without moving work that was not his, and she had done it walking, and she had not looked at him and she had not said one word, and there is no form anywhere in this city in which a girl of seventeen is entered as the one who put an armful down where a person could not reach the top of it.
+An armful of sheets is about as much as a person of seventeen can hold and still turn in a bay of nine foot by eleven, and she had turned in it that week with one, and he watched her do it out of the corner of his eye without moving his head, which is a thing a person does when another person is about nine foot off.
 
 ---
 

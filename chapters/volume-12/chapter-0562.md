@@ -9,6 +9,7 @@ It is the fourth day of the fourth week of the sixth month of the year after the
 It came off a cart at the end of a lane with four other things in it and he gave what he had for it and carried it up under his arm, and it is a mat and not a floor and not a rug and it is the only thing that has ever been on the floor of a room he takes by the week.
 
 He has been in that room about two years and there is one plate on that table and a second plate on the other side of it and a bed against a wall, and nothing has come through that door in the whole of that time except a coin.
+The table is a deal thing and its far edge is run into the wall, which is a thing a man does to a table when he is living in a room by himself and does not want his own hand behind it where he cannot see it. There is a bed along the far wall that nobody has straightened, and the blanket at the head end of it is sat up in a shape a person leaves by sitting down on the edge of one and thinking better of it. A chair stands in the middle of the room with its back to the glass, facing a piece of blank wall about the width of a man's arms, and he pulled it into the middle of the room two months ago and has left it standing in the middle of it ever since, facing the wall. Beside the door there is a press with the crockery in it and a plain earthenware jug on the floor by it, and the lamp has been on the floor by the bed since the morning he came into it.
 
 ---
 
@@ -19,6 +20,7 @@ A plate is a thing for a person to eat off and there is nobody to eat off it and
 He had it by the door for eleven mornings and he took it up again eleven times and on the twelfth he did not take it up, and the reason he did not take it up is not a reason he would give anybody if there were somebody here to give it to.
 
 There is nobody here. There has been nobody here for about two years and the man who owns that room has not come through that door in that time.
+His room is one floor above the second stair, and he has not been down the flight since the week he came into the building except once, to carry a mat up it, and there is a coin that goes up the flight every working morning at about the first hour and he has never once been on the steps when it came. The woman at the bottom of that flight has been there about twenty years and has not been one stair above the second in all that time, and that is the whole of what either of them knows about the other.
 
 ---
 
@@ -35,6 +37,7 @@ She has been doing that at about that hour every working morning for about two y
 She came up at the first hour and she was on the landing before her hand was down.
 
 The mat was square and it was flat and it was where a mat goes, and the hand had about two inches to come through.
+The light on the landing at the first hour comes down the stairwell and has got as far as the door and stopped against it, and nothing in the building is making a sound yet except the stair under her own boots and her own breathing. She has come up those steps on about as many mornings as there are working mornings in two years and has never once been up them a quarter of an hour either side of the hour.
 
 She stopped. She did not knock and she did not say anything at first. She stood on the landing with one boot about a foot off the edge of the mat and her hand up at about the height of her own knee.
 
@@ -57,10 +60,12 @@ The coin was under that door and she went down the stair behind her and her boot
 He did not open the door.
 
 His hand had been on it and about two inches of wood had been between them, and he kept it there until her boot was off the mat and on the step. There is nothing anywhere in this city that a man of thirty-eight could be entered in as the one who stood behind a door and did not open it to a person who had just moved a mat for him.
+The rest of the room was behind him and he was standing at his own door with his face to four feet of plaster, because that is where a man stands who is not opening a door. The light comes in at the third hour and lies down by the stool and does not come any further into the room, and he was not in the chair that faces the plaster, and after that he stood where the light comes in with his hands hanging at his sides until her boot was on the step and the stair had gone quiet behind her.
 
 ---
 
 A mat on a landing is not his by the fourth morning. It is the landing's. A thing that a person steps over to get at a door every morning for a month is a thing that belongs to the morning and not to the man, and there is nowhere to put that in.
+The mat takes up most of the landing and leaves a strip about a foot wide along one side of it, and the strip is where a person has to stand to get at the door, and he worked it out on the second morning and has used it every morning since.
 
 He has washed a plate about four days out of seven and put it on the other side of a table with the cup beside it, and there is no second person coming for that.
 
