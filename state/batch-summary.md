@@ -1238,3 +1238,154 @@ Per chapter, before to now: 0591 1,021 to 1,487; 0592 923 to 1,419; 0593 1,127 t
 **A repair's "before" is the commit that held the chapters before the repair, and the number of commits between then and now is not knowable from the working tree.** Three of this repair's records have now got it wrong: the first pass comparing against `HEAD` when `HEAD` was its own parent, the re-audit labelling its two baselines one commit out, and the column that mixed two. **So: write the commit hashes into the record beside the figure, not the offsets, and say which commit is which.** `0efc9c8` and `71bd594` cost nothing to name and would have made every one of these three impossible.
 
 **And the standing on the precheck the next phase is handed is now the one the review corrected: a comparison of the working tree against `HEAD` is a tautology at phase start, because they are the same tree until the phase edits something.** The next ten chapters are `chapter-0581.md` to `chapter-0590.md`; their recorded pre-repair figures are **9,925 words, 106 closed-list hits, 10.68 per 1,000, and per chapter 1,117 1,040 1,094 1,037 986 974 928 882 905 962**, and that is the comparison to make. **Twenty-nine chapters of six hundred and twenty remain repaired and five hundred and ninety-one remain unrepaired, and nothing in this pass moved that by a chapter.**
+
+---
+
+## THE PROSE REPAIR OF CHAPTERS 0581 TO 0590, MEASURED RECORD
+
+*Written by the phase that took `workspace/prose-repair-0004/PROMPT.md`. **This is a repair and not a batch, not a close, not a review, not a second reading and not an outline phase.** It opened ten chapters for edit — `chapter-0581.md` through `chapter-0590.md`, the last ten chapters of Movement Four — and opened no other chapter. It wrote no new chapter, invented no person, added nothing to any plot, resolved nothing, thanked nobody, forgave nobody and sent for nobody, and it planned no volume: **the manuscript is complete at six hundred and twenty chapters and there is no Volume 13.** `chapter-0620.md` was not opened and `git diff --stat -- chapters/volume-12/chapter-0620.md` is empty. It is not among the phases that could discharge a debt.*
+
+**The finding that was acted on is item 170 and is not restated.** Chapter length fell monotonically across twelve volumes and the demonstrative construction rose with it. **The method for every figure is printed whole below, and it is the method printed in the section headed *THE PROSE REPAIR OF CHAPTERS 0591 TO 0600* pasted rather than rebuilt, because a method printed twice is a method that gets edited in one place.**
+
+### Zero: the precheck, and why it is not a comparison against HEAD
+
+**`$BASE` was taken before a single edit: `BASE=$(git rev-parse HEAD); echo "$BASE"`, which returned `655f2721206d103e398f24f2a2f04cf9ff30122d`, and every figure below is against that hash and not against an offset.** The precheck printed in this section's prompt was run first and returned **1,117 1,040 1,094 1,037 986 974 928 882 905 962, a total of 9,925 words**, which is the recorded pre-repair figure for this range exactly, so the range was unrepaired and this phase owed a repair and not a re-audit. **The comparison the prompt warned against was not made: at phase start the working tree and `HEAD` are the same tree, so `git diff HEAD` on a chapter is empty whether the chapter is repaired or not.**
+
+### One: the word and closed-list figures, method printed whole
+
+**Word figures are `tools/measure.py`'s `m.words_in_file`, which is `sum(len(line.rstrip().split()) for line in handle)` over the whole file with the heading and the date line in it. It takes a path, so for a committed blob the same definition is applied to the text `git show` returns.** The closed list of ten named forms is `those boards`, `that lane`, `that floor`, `that table`, `that door`, `that stair`, `that room`, `that passage`, `that tin`, `that sheet`, counted over the body of each file with its date line removed, using `m.TOKEN` and a case-insensitive whole-phrase match. The widened list of twenty-three adds `that end`, `that landing`, `that bench`, `that sill`, `that corridor`, `that case`, `those stairs`, `that step`, `that bay`, `that ground`, `that jug`, `that stone`, `that board`. **This pass widened it again, to twenty-five, and the two forms it added are named here: `that building` and `that house`.** Both are in neither the closed list of ten nor the list of twenty-three, and `that building` at seventeen was the fourth-largest single form on this range before the repair. **A figure with an undisclosed method behind it is how this repository got a set of numbers that reproduced under none, so the addition is printed and the old rate is printed beside the new.**
+
+```
+python3 - <<'EOF'
+import re, importlib.util, subprocess
+spec = importlib.util.spec_from_file_location("m", "tools/measure.py")
+m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
+BASE = "655f2721206d103e398f24f2a2f04cf9ff30122d"
+TEN  = ["those boards","that lane","that floor","that table","that door",
+        "that stair","that room","that passage","that tin","that sheet"]
+ADD  = ["that end","that landing","that bench","that sill","that corridor","that case",
+        "those stairs","that step","that bay","that ground","that jug","that stone","that board"]
+NEW  = ["that building","that house"]
+W23, W25 = TEN + ADD, TEN + ADD + NEW
+def wb(t):  return sum(len(l.rstrip().split()) for l in t.split("\n"))
+def hits(t, forms):
+    body = " ".join(m.TOKEN.findall(re.sub(r"^It is.*$", "", t, flags=re.M)))
+    return {f: len(re.findall(r"\b" + re.escape(f) + r"\b", body, flags=re.I)) for f in forms}
+for lab, get in (("before", lambda p: subprocess.run(["git","show",f"{BASE}:{p}"],
+                      capture_output=True, text=True).stdout),
+                 ("now",  lambda p: open(p, encoding="utf-8").read())):
+    w = a = b = c = 0
+    for n in range(581, 591):
+        t = get(f"chapters/volume-12/chapter-{n:04d}.md")
+        w += wb(t)
+        a += sum(hits(t, TEN).values()); b += sum(hits(t, W23).values()); c += sum(hits(t, W25).values())
+    print(f"{lab}: {w:,} words | closed-ten {a} = {a*1000.0/w:.2f} per 1,000 | "
+          f"widened-23 {b} = {b*1000.0/w:.2f} per 1,000 | "
+          f"widened-25 {c} = {c*1000.0/w:.2f} per 1,000")
+EOF
+```
+
+**And the wider sweep of every demonstrative-plus-noun bigram, with a function-word tail excluded, printed whole because the list was widened.** The method and the exclusion set are the ones printed in the section headed *THE PROSE REPAIR OF CHAPTERS 0591 TO 0600* and are not reprinted; the result on this range before the repair was **274 hits in 9,925 words, 27.61 per 1,000, across 56 distinct forms**, which is the figure item 173A recorded and which this pass reproduced to the decimal.
+
+| Range 0581 to 0590, at `655f272` and now | Words | Closed list of ten | Per 1,000 | Widened list of 23 | Per 1,000 | Widened list of 25 | Per 1,000 |
+|---|---|---|---|---|---|---|---|
+| before, at `655f272` | 9,925 | 106 | 10.68 | 191 | 19.24 | 215 | 21.66 |
+| now, working tree | **15,047** | **119** | **7.91** | **217** | **14.42** | **248** | **16.48** |
+
+**Read the two rows as commits.** *`before` is the pre-repair text at `655f272`, which is the close of `prose-repair-0003`; `now` is this pass's own working tree.* `655f272` is named as a hash and not as `HEAD`, because a build commit that touches no chapter can sit between a repair and its check and turn `HEAD~1` into the wrong file.
+
+**A closed list of named forms measures the concentration this repair worked on and not the whole of item 170.** Both the twenty-three and the twenty-five columns are that concentration. The whole of the construction on this range is the 274-hit wide sweep and its 56 forms, and a reader who wants the whole of item 170 has to widen the list and print the method.
+
+**One correction to the prompt's own figures, printed rather than inherited.** The prompt says that `that sill`, `that building`, `that board`, `that stone` and `that house` are "in neither the closed list of ten nor the widened list of twenty-three". **`that board` 11, `that stone` 7 and `that ground` 7 are all three in the list of twenty-three — they earned their place on the 0591 to 0600 range — and `that building` and `that house` are the only two of the five that are in neither.** The prompt's other figures all reproduced exactly.
+
+### Two: the range, chapter by chapter, and the column that sums
+
+| Chapter | Words before | Words now | Closed ten before | now | Wid. 23 before | now | Wid. 25 before | now |
+|---|---|---|---|---|---|---|---|---|
+| 0581 | 1,117 | 1,710 | 11 | 12 | 27 | 30 | 29 | 32 |
+| 0582 | 1,040 | 1,596 | 9 | 10 | 14 | 16 | 14 | 16 |
+| 0583 | 1,094 | 1,583 | 11 | 12 | 11 | 12 | 11 | 12 |
+| 0584 | 1,037 | 1,612 | 4 | 4 | 23 | 23 | 28 | 29 |
+| 0585 | 986 | 1,439 | 8 | 13 | 16 | 22 | 22 | 31 |
+| 0586 | 974 | 1,498 | 15 | 16 | 18 | 20 | 19 | 22 |
+| 0587 | 928 | 1,403 | 19 | 20 | 23 | 24 | 24 | 25 |
+| 0588 | 882 | 1,334 | 17 | 18 | 29 | 31 | 30 | 32 |
+| 0589 | 905 | 1,387 | 7 | 7 | 20 | 24 | 24 | 29 |
+| 0590 | 962 | 1,485 | 5 | 7 | 10 | 15 | 14 | 20 |
+| **sum** | **9,925** | **15,047** | **106** | **119** | **191** | **217** | **215** | **248** |
+| **mean** | **992** | **1,505** | | | | | | | |
+
+**The four sum columns agree with the four totals in the row above them, which is the tell item 173C's finding twenty-three asks a repair to check before it publishes.** The ten went from 882 to 1,710 words, a mean of 1,505. **That mean is higher than the three ranges already repaired, which stand at 1,393, 1,458 and 1,227, and the reason is the material: five of these ten chapters are about four feet of stone, about eleven foot by fourteen of floor, and a corridor about as long as a table, and the repair's work on them was to set down rooms that already existed in six other chapters of the same volume, and setting down a room takes words. The four repaired ranges do not agree with one another and that is stated rather than smoothed.**
+
+### Three: the rate fell by a quarter and the absolute count went UP, and both are the finding
+
+**Per form, before to now, over the widened list of twenty-five.** `that floor` 34 to 37; `that room` 24 to 28; `that sill` 31 to 32; `that building` 17 to 21; `that corridor` 14 to 16; `those boards` 14 to 15; `that door` 12 to 14; `that end` 11 to 14; `that board` 11 to 12; `that stair` 10 to 10; `that stone` 7 to 11; `that house` 7 to 10; `that ground` 7 to 7; `that table` 5 to 5; `that landing` 4 to 4; `that passage` 3 to 4; `that tin` 2 to 3; `that lane` 2 to 3; `that bench` 0 to 1; `that case` 0 to 1; `those stairs` 0 to 0; `that step` 0 to 0; `that bay` 0 to 0; `that jug` 0 to 0; **sum 215 to 248.**
+
+**Every absolute count on this range is flat or higher, and the rate fell from 10.68 to 7.91 on the closed list and from 21.66 to 16.48 on the widened twenty-five for one reason and one reason only: the prose grew fifty-two per cent and the counts did not.** That is a much weaker result than the three ranges already repaired, which took the closed-list rate down by between sixteen and eighty-six per cent, and **it is printed here as the finding it is rather than as the success it is not.** The first draft of this pass was worse still and the instrument caught it: it came out at **9,925 words, 136 closed-ten hits, 8.86 per 1,000 and 277 widened-25**, and the difference between that and the figures above is the re-anchoring pass described next.
+
+**The re-anchoring pass, and the number that actually measures this repair.** A scan of this pass's own added sentences — the whole new file tokenised, every token on a line the diff touched marked, and every maximal run of twelve or more marked tokens looked up in a twelve-gram index over all six hundred and twenty chapters — found **thirty-six sentences this pass had written that carried two or more demonstrative-plus-noun constructions. All thirty-six were rewritten to a plain article, a pronoun or a fresh anchoring, and the scan now returns one.** The two lists that measure the same ten files from the two sides:
+
+| The ten files, split by who wrote the sentence | Words | Closed-list hits | Per 1,000 |
+|---|---|---|---|
+| sentences the **original** wrote, now on the page | 9,522 | 102 | 10.71 |
+| sentences **this repair** wrote | 5,220 | 13 | **2.49** |
+
+**The volume's own surviving wording runs at 10.71 per 1,000 and did not move, because not one word of it was touched. The five thousand two hundred and twenty words this repair added run at 2.49 per 1,000, a quarter of that.** Method: the sentence split is `re.split(r'(?<=[.?!])\s+', line)` on each non-heading, non-rule line of the working tree, a sentence counted as original if it appears verbatim in `git show 655f272:<file>`, and the closed-list count over each sentence with `m.TOKEN` and the same ten forms. **The two parts total 14,742 words and 115 hits, not the 15,047 and 119 of the file total, because the split drops fragments of under three words and the `---` lines; the two figures are of two different populations and both are printed rather than reconciled.**
+
+**And the range's own duplication, before and after, at a size no instrument in this repository runs.** Distinct twelve-word prose runs shared with another chapter of Volume 12, over the ten files: **183 at `655f272`, 181 now.** **That is the volume's manner and not a defect this pass introduced or could remove: it repeats its own figures and its own formulae by design, and `there is no form anywhere in this empire that takes a man for` is in nineteen chapters of this volume in the same words.** It is printed because item 173B's finding fourteen says a clean count of four on the twenty-word instrument is not evidence that nothing was copied, and this is the size of what it cannot see.
+
+### Four: three regressions this pass introduced and fixed, and one of them is the most dangerous class in the repair
+
+**They are named because a repair that reports only its successes has not been measured.**
+
+*One, and it is the most serious thing that has happened in this repair's history.* **Three of the ten date lines were wrong at some point in this phase, and all three were wrong in the same way.** These chapters were written out whole and the date line was **retyped from memory in `chapter-0587.md`, `chapter-0588.md` and `chapter-0589.md`, and each of the three came out with one *year after* fewer than the file's own line holds.** `chapter-0587.md`'s date line said the year after the year after the year after the year after the year after the year after the year after the year after, and the commit says the year after the year after the year after the year after the year after the year after the year after the year after next. **A repair that moved a date would move the calendar for the rest of the series, and a whole line retyped from memory is the easiest way in the world to do it.** All three were caught by the byte check and all three were **restored from `git show 655f272:<file> | sed -n '5p'`, not corrected by hand**, and all ten now compare byte-identical. **The standing this adds and it is short: a date line is copied out of the commit and never typed.** `chapter-0581.md` to `chapter-0586.md` were not affected and that is luck and not care.
+
+*Two.* **The first draft changed an original noun and manufactured an import out of it.** `chapter-0584.md`'s last paragraph read *about three feet of that **sill** has been empty at the far end of it for a fortnight* where the commit reads *about three feet of that **stone** has been empty at the far end of it*, and the change aligned the sentence word for word with `chapter-0591.md` over nineteen words. **It was caught by the import instrument and not by a re-read**, and the word is back. **A repair that smooths a noun for rhythm can weld a chapter onto another chapter it never opened, and the re-print instrument cannot see nineteen words.**
+
+*Three.* **The first draft revoiced original wording twice, and both were put back.** In `chapter-0581.md` it rewrote *the pot took the pen back out of his hand the same way it takes it out of the other one* into its own words, to break an eleven-word run that `chapter-0545.md` shares with the original; and in `chapter-0586.md` it turned *I have worked that out* into *I worked that out*. **Both are standing violations of item 173's fourth rule and neither was recorded when it was done.** The original wording is back in both and the pre-existing run is carried rather than broken, because **the volume's own wording outranks a repair's paraphrase, and a run the volume already had is not this repair's to remove.**
+
+### Five: what this pass imported, and how it was policed
+
+**The instrument is a twelve-word index over all six hundred and twenty chapters, run against this pass's own added wording. It was planted three ways before its answer was believed: a verbatim twenty-three-word run taken from `chapter-0617.md` was planted into `chapter-0584.md` and the instrument returned it at 62 words against 0617; a plant of eleven words returned zero; and a plant of twelve returned thirteen.** **It then reported a false result in the other direction, and the false result was in the instrument.** Its first version joined the added lines together and tokenised across the join, so it formed grams that span a paragraph boundary; it also counted original wording that a re-joined paragraph had merely moved as an import. **Both faults were found by reading its output against the files, and both are the same fault item 118 of this project records about an earlier instrument: an instrument that reports a number nobody can check is a check of consistency and not of accuracy.** The corrected version tokenises the whole new file, marks the tokens that sit on a line the diff touched, and skips any gram that is already in that file at BASE.
+
+**Every finding it raised was revoiced, in successive runs of between one and fourteen at a time across thirteen passes, and the last pass returns zero.** The classes of source were the volume's own set-pieces, and they are named here because the next range needs to know where the traps are: **the sill and the daylight, which exist in `chapter-0591.md` and `chapter-0592.md` in this volume's own words and which two earlier repairs copied out of `chapter-0581.md` and `chapter-0584.md`**; the case and its four hundred blanks, in `0592` and `0600`; the jug, the glass and the dry ring, in `0594`, `0599`, `0601` and `0603`; the bench and the hollow worn in it, in `0591`; the crooked nail and the four feet of plaster, in `0601`, `0603`, `0608` and `0616`; the boards gone soft at the edges, the skirting and its lost band of paint and the ridges under a thin sole, in `0593`, `0595` and `0605`; the mat on the landing and the boards lifted at a joint, in `0562`, `0566` and `0607`; and eight shorter idioms in Volumes 03, 05, 06, 09, 10 and 11.
+
+**Two findings inside this range were of this pass's own making and are named because the instrument saw both directions.** One was a twelve-word run between `chapter-0584.md` and `chapter-0590.md`, both of them sentences this pass had written, both of the same shape — *She came the whole length of that run at the speed she comes it and then she did not go on* and *She came along that run at the rate she comes it and then stopped*. **Both were revoiced, and the standing they confirm is that a repair's own prose is in scope of its own import check, which the instrument gives for free because it compares against every chapter including the ten being repaired.**
+
+### Six: what a read of all ten found that six instruments did not
+
+**Every chapter in the range was read against the paragraph above it and the paragraph below it, and the read found and fixed fifty-three items: 0581 three, 0582 five, 0583 ten, 0584 seven, 0585 five, 0586 five, 0587 seven, 0588 three, 0589 four, 0590 four.** They are of three classes and every one of them would have passed the self-test, the calendar scan, the re-print scan, the question-mark count, the closing-person scan and the section-break check. **An instrument in this repository looks at what a chapter is made of and not at what a chapter says, and that is now the sixth time it has been said.**
+
+*One, and it is the class the prompt names: an added sentence performing an act the paragraph above it already performed.*  `chapter-0587.md` had my sentence *the mat went down under her and came up again the way it always does* four lines under the original's *the corner went down under her boot and came back up*.  `chapter-0583.md` had my line *It lay there with the window in it and the patch by the stool* restating a patch of light already named in the paragraph above.  `chapter-0585.md` had my sentence *the lamp is on its own table and the key is on its own board* directly under the original's *a lamp on a table by it* and *the key is on the board by the door*.  `chapter-0584.md` had my *I have gone over those four inches every morning for a fortnight* under the original's *I have gone over it every morning since*.  **In every instance the added sentence is out and the original stands alone.**
+
+*Two, an added sentence restating a figure the chapter already carried.*  `chapter-0583.md` opened with my *and it is about four inches by five* and its own third paragraph carried that figure in the original's words.  `chapter-0588.md` had my *It has been there about four years* under the original's *the hand that put it there about four years ago*.
+
+*Three, one act given to two subjects in a single sentence, and a sentence that reads its own antecedent wrong.*  `chapter-0586.md` had *the strap goes over his left one*.  `chapter-0583.md` had *there is ink in the middle of one finger and a colour in the skin under it* with three pronouns in one sentence and three different antecedents.
+
+**The one figure this read checked and did not change is the sheet count in `chapter-0584.md`, and it holds.** Three signed at `:27`, the fourth going out at `:29`, eleven more at `:41`, and *He signed fifteen sheets this morning* at `:43`.  Three and one and eleven is fifteen. **And `chapter-0590.md`'s two conflicts are not this pass's and were not settled.** `:9` says the door at the back of that floor *has been shut for a fortnight* and `:41` says that same door *stood open about as long as it takes to square a sheet*.  **Both sentences are original, both stand, and the tension is recorded at item 173D for a person.**  Two more are carried the same way: the woman of nineteen says she gave up the only thing she had *in a month that is gone* at `chapter-0581.md` and *until about two months ago* at `chapter-0589.md`, and the pot's four inches are *in the last fortnight* at `chapter-0584.md`, dated in the twelfth month, and *about a fortnight ago* at `chapter-0589.md`, dated in the first month of the next year. **Three chapters, three of the volume's own recurring figures, and a prose repair has no authority to decide any of them.**
+
+### Seven: what was checked and held, with the command beside each figure
+
+`python3 tools/measure.py selftest` before anything else and at the end: **PASS on all nine plants.** `python3 tools/measure.py calendar --volume 12`: **seventy files read, seventy date lines parsed, twelve month-boundary restarts of the cycle, zero breaks inside a month, unparsed none.** `python3 tools/measure.py reprints --window 20 --volume 12`: **4 prose runs against a baseline of 4 and a ceiling of 4, longest 24 words in `chapter-0614.md`, and all four are the `chapter-0586.md` case-and-blanks passage and the `chapter-0614.md` pot sentence, in files this repair never opened.** `python3 tools/measure.py markers` over the ten files: **files with an odd count of real markers, 0.**
+
+**The date lines and the titles: ten of ten byte-identical to `655f272`.** `sed -n '5p' | md5sum` and `sed -n '1p' | md5sum` on each side, all `SAME`. **The section breaks: 6/6 6/6 5/5 4/4 5/5 4/4 4/4 4/4 4/4 4/4**, every file at its original count. **Trailing newlines: ten of ten present**, `python3 -c "print('OK' if open(f).read().endswith(chr(10)) else 'MISSING')"` per file. **Question marks across the ten: zero.** Month and weekday names: **zero**, and the only permitted hit is the modal verb *may*. `this year`, `this volume`, `this novel`: **zero**.
+
+**The closing-section person, on the scan printed in the section headed *THE PROSE REPAIR OF CHAPTERS 0601 TO 0609*, used as printed and not rebuilt, with `655f272` in place of `HEAD~1`: zero mismatches, all ten THIRD before and after.** The bold interiority and the dialogue lines were subtracted before anything was counted. **The scan was planted four ways before its answer was believed — a first-person closing section returns FIRST, a first-person bold interiority returns THIRD, a first-person dialogue line returns THIRD, and a third-person closing section returns THIRD — and run over the whole of Volume 12 it returns 69 THIRD and 1 FIRST, the split the record above states.**
+
+**Speech.** `re.findall(r'"[^"]*"', text)` per file, working tree against `655f272`: **ten files IDENTICAL and zero CHANGED, 56 quoted spans across the ten.** **The claim is printed because the command was run before the claim was written, and it is the opposite of the four records in this repair that certified a property nobody had run a command for.**
+
+**Not one word of the original was removed from any of the ten.** A word-level diff of every file against `655f272` reports **zero deleted runs and zero substitutions in all ten**, printed per chapter by the instrument used for it. **That is the check that answers item 173's fifth rule and it is the reason the figures in section Two are the whole of the change.**
+
+**The volume and the manuscript, on `python3 tools/measure.py words --volume 12`:** Volume 12 is **88,339 words** and the manuscript is **1,398,260 in 620 files**, against 83,217 and 1,393,138 before this pass.
+
+**The four figure-types that must not be confused are still four types.** About four hundred blanks *a year* out of the case and about four hundred blanks *in total* in the box that is not the case are both in `chapter-0586.md` and both are the original's, and `chapter-0586.md`'s first sentence after the date line is byte-identical to `655f272` for its first 160 characters, which is what holds Volume 12's re-print count at 4. About four hundred and thirty miles of river and about four hundred sheets a year with a line cut in the strip do not appear in these ten files and this pass printed neither.
+
+**The count of things asked out loud in this matter is seven and did not move, and the number is printed in no chapter and in no section of this record. Nobody was thanked. Nobody was forgiven. Nobody was sent for. Nothing was resolved.** The decision about whether a woman of twenty-four takes a colleague's judgment on a thing like this is unmade, was not made in either direction by this pass, and no row this section wrote may be read as having made it. **The name at the foot of the struck line is not printed. The fourth item on the wall board stays on the board in the hand that put it there about four years ago. The question on the shelf is not picked up. The drawer stays shut and no chapter of the ten says which drawer anything is in. The box under the far end of the boards is not opened.**
+
+**`chapter-0620.md` was not opened.** It carries the last line of this series. The last line stands.
+
+### Eight: what is left, and it is nearly all of it
+
+**Thirty-nine chapters of six hundred and twenty have now been through this repair: 0610 to 0619, 0601 to 0609, 0591 to 0600 and 0581 to 0590.** That is six and a quarter per cent of the manuscript and thirty-nine of the seventy chapters in the volume where the defect is worst. **Volumes 08, 09, 10 and 11 are untouched in their entirety and the first thirty chapters of Volume 12 are untouched. Five hundred and eighty-one chapters are unrepaired, and a repair continuing in this shape at ten chapters a phase is fifty-eight phases; restricted to the four volumes where the collapse is worst and the untouched thirty chapters of Volume 12 it is two hundred and thirty chapters, which is twenty-three phases.** Method: `python3 -c "import glob; print(len(glob.glob('chapters/volume-*/*.md')))"` returns 620, and the same over `chapters/volume-{08,09,10,11}/*.md` returns 200.
+
+**Ten chapters is a tenth of one volume against a defect that spans four, and the scope decision is a person's and not a phase's. Thirty-nine chapters are evidence that the work can be done and not evidence that it has been done, and no pass here may imply the job is nearly done.** The next ten chapters are named in `state/open-threads.md` at item 173D and they are `chapter-0571.md` through `chapter-0580.md`.
