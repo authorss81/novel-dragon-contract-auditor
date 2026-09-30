@@ -1,3 +1,25 @@
+# SCOPE OF THIS RUN - READ FIRST
+
+**This run writes Chapters 521 to 525 and nothing else.**
+
+Chapters 526 to 530 are a later phase's work. Ignore any
+instruction below that requires you to write them.
+
+1. **Write the chapters.** Chapters 521 through 525, in ascending order. Start with the first one in your very
+   first action. Begin the file for that chapter immediately.
+2. **Do not attempt any close, audit, or planning duty** listed below. Those
+   belong to later phases. Ignoring them is required; attempting them is a
+   failure of this run.
+3. **Do not create a next-phase prompt.** The pipeline creates it.
+4. **Update only the state files** these chapters require, and nothing else.
+
+Every rule below still binds the prose you write. But if a rule cannot be
+satisfied inside this run's chapters, write the chapters anyway and record the
+unmet rule in `state/open-threads.md` for a later phase.
+
+**Producing finished chapters is the success condition for this run. Returning
+without writing any chapter is a failure.**
+
 # VOLUME 11, BATCH 0003 — CHAPTERS 0521 TO 0530, MOVEMENT THREE, WHAT A SECOND EAR COSTS ON THREE ROOMS
 
 **You are writing ten finished chapters of fiction. Not a summary, not a chapter log, not a plan, not a review. Ten complete scenes with a person in them, another person resisting what they want, a change of situation, and an ending that is a decision or a cost. This prompt is a working surface and not a substitute for the page.**
