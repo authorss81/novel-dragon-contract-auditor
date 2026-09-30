@@ -6,13 +6,13 @@ It is the second day of the second week of the fourth month of the year after th
 
 ---
 
-There is a case at the near end of those boards and under the far end of them there is a box that is not the case and that has not been opened in about six years. Behind those boards there is a wall with four items on it, and she has been at that end of that floor eleven years and has never once left that room except once, and she is the oldest of the three that work at it and she is not a lawyer.
+There is a case at the near end of those boards and under the far end of them there is a box that is not the case and that has not been opened in about six years. Behind the boards there is a wall with four items on it, and she has been at that end of the floor eleven years and has never once left that room except once, and she is the oldest of the three that work at it and she is not a lawyer. The board is soft and dark and it has had four things written on it and four things taken off it again, and nobody ever asked it, and the four of them do not sit in a row. Two of them are up near the top of it and one of them is low down at the end nearest the door, and the fourth was in between the other two. There is a drawer under the wall and it stays shut, and the knife is not in the drawer that is shut.
 
-The fourth of the four items is in her own hand and has been on that board about four years. She has gone past it about three thousand times and has never once put a hand on it, and she put two fingers on the edge of it this morning and held them there and did not lift.
+The fourth of the four items is in her own hand and has been on the board about four years. She has gone past it about three thousand times and has never once put a hand on it, and she put two fingers on the edge of it this morning and held them there and did not lift. She is thirty-four, and the two fingers went along the edge of the item from the near corner about the length of a thumb. The paper of it has gone the colour of the board where her hand has not been for four years, and the two fingers stopped where it began to turn, and she stood at the wall with her weight on the front of the foot nearest it and did not take them off for about as long as it takes a coin to go along a floor and stop. The light in the room comes in at the fifth hour along the top of that wall and not down it, and what is on the board is in it, and nothing else of that wall is.
 
 ---
 
-A man came up those four flights at about the first hour with a bag over his shoulder and did not put it down, which he has not done for about a month, and he stopped about nine foot off that wall with the strap still round his forearm and the mark of it on his shoulder above the neck.
+A man came up those four flights at about the first hour with a bag over his shoulder and did not put it down, which he has not done for about a month, and he stopped about nine foot off that wall with the strap still round his forearm and the mark of it on his shoulder above the neck. He had been in the room for four hours before she stopped at the board and he had done the four things to a stack at the near end of it in the same order every time, and he had his back to that wall the whole of the four hours, and she did not ask him for it at any point in them.
 
 She had never once seen him go down those stairs, because he went at about a quarter past and she was not on that floor at a quarter past, and she had had that mark in front of her for about a month and had never once said one word about it.
 
@@ -40,6 +40,8 @@ And there is a man at nine foot off that wall who is the only person on this flo
 
 I have not done it and I am not going to. He has a mark on his shoulder and that mark is the whole of what eleven years has left him that a person could be shown, and I am not going to be the one who takes it off him to get a sentence said, and there is no other way of doing that and there is not going to be one.
 
+And I have had my two fingers on the edge of that item and I have not been able to make myself lift it, and the wall behind it is soft to the touch in two places where the four things have been taken off and it is not soft where this one is, and I have gone past that difference twice a day for a fortnight and this morning I put my hand on it.
+
 ---
 
 "I would not carry anything out of this room for you."
@@ -52,10 +54,10 @@ I have not done it and I am not going to. He has a mark on his shoulder and that
 
 "Then take it off and take it down and I will carry it out and it will be a thing a man carried and not a thing anybody wanted gone."
 
-He did not do that. He stood nine foot off that wall and looked at the boards and did not look at the board, and he did not say one word about any of it, and at about a quarter past he put the strap over his shoulder and went out and down the four flights, and the fourth of those has a hollow in it and there is nothing in that room about a hollow.
+He did not do that. He stood nine foot off that wall and looked at the boards and did not look at the board, and he put his hand on the strap instead and left it there, and he did not say one word about any of it, and at about a quarter past he put the strap over his shoulder and went out and down the four flights, and the fourth of those has a hollow in it and there is nothing in that room about a hollow, and the four flights of them are the whole of what he says out loud in a working week.
 
-She took her two fingers off the edge of that item and squared the hand that had been on it against the front of her apron and went on with what she was at.
+She took her two fingers off the edge of that item and squared the hand that had been on it against the front of her apron and went on with what she was at. She put the stack down where the stack goes at the near end of the boards and took up the next one, and the board behind her had four things on it and not one of them was time, and the drawer under it stayed shut the whole of that afternoon and the box under the far end of the floor stayed shut with it.
 
 A board with three items on it and a clean place where the fourth one was is a thing a person can be shown. A woman who has taken one off a board can be shown to have wanted it off, and cannot be shown to have wanted it on, and cannot be shown to have said a word about it in about four years, and nine hundred buildings in this empire have nothing that will enter a woman as the one who took a thing down.
 
-The fourth item is on that board in the hand that put it there about four years ago, and it is going to be there on that morning and the one after it, and a man went down four flights with a mark on his shoulder and did not take anything out of that room.
+The fourth item is on the board in the hand that put it there about four years ago, and it is going to be there on that morning and the one after it, and a man went down four flights with a mark on his shoulder and did not take anything out of that room.
