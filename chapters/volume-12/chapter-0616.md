@@ -1,12 +1,12 @@
 # Chapter 0616: The Leaf Out Of The Coat On That Nail, Opened Along A Crease That Is Worn Through
 
-He had not put a hand into that coat since the morning he took the sheet out of it and left the other one where it was, and this morning he took the other one out, and he did not touch the sheet.
+He had not put a hand into that coat since the morning he took the sheet out of it and left the other one where it was, and this morning he took the other one out, and he did not touch the sheet, and then he opened it along the crease that is worn through, and the name at the foot of the struck line is his own.
 
 It is the second day of the second week of the eighth month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the third hour.
 
 ---
 
-That coat is on a nail that went in crooked about the height of a hand, in the middle of about four feet of plaster, and it has been on that nail about two years. Its inside pocket carries two things either side of one seam and the seam has not been opened in about two years either. There is a jug on that table a foot back from the edge with about two inches of water in it that has been standing nine weeks, and a sheet of paper lying in the middle of that table with a strip of printing across the head of it carrying four short things along the top of that strip. The catch on that window is still turned. The door stands open about a hand's width.
+That coat is on a nail that went in crooked about the height of a hand, in the middle of about four feet of plaster, and it has been on that nail about two years. Its inside pocket carries two things either side of one seam and that seam has not been opened in about two years either. There is a jug on the table a foot back from the edge with about two inches of water in it that has been standing nine weeks, and a sheet of paper lying in the middle of the wood with a strip of printing across the head of it carrying four short things along the top of that strip, and there is nothing else on it. The catch on that window is still turned. The door stands open about a hand's width.
 
 ---
 
@@ -26,7 +26,7 @@ She came up at the first hour and came the length of that floor and stopped abou
 
 He did not put it back. He stood against that wall with it open about as long as it takes to fold a cloth once and he did not answer her, and she looked at the four feet of plaster and the nail and at the table, and then she went out through that door and took the landing and went down past the second tread, and after that there was nobody on that stair at all, and she did not knock on the way out and she has never knocked.
 
-She was right. A thing held open in a room is a thing somebody can be shown having held open, and she is the only person in this city who has ever come up that stair and spoken to me about a thing in my hands, and she spent it on telling me to stop, and she is not going to be thanked for that either.
+She was right. A thing held open in a room is a thing somebody can be shown having held open, and she is the only person in this city who has ever come up that stair and spoken to him about a thing in his hands, and she spent it on telling him to stop, and she is not going to be thanked for that either.
 
 ---
 
@@ -34,11 +34,11 @@ He opened that leaf along the crease a third of the way down it, which is the cr
 
 There is a line on it. There is a line struck through whatever used to stand at the foot of that line, and the strike is not a clean one, it is the strike of somebody going over it twice.
 
-And at the foot of that line, under the strike, there is a name, and it is his own, and it is Kest.
+And at the foot of that line, under the strike, there is a name, and it is mine, and it is Kest.
 
 He stood there with that leaf open on his two hands and the light coming off that window onto it, and nothing in that room said anything, because there was nothing in that room, and there is not a person in this empire who could be shown having read it.
 
-He folded it along the same crease, and he put it back into the inside pocket of that coat on the same side of that seam it had been on, and he hung the coat back on the nail.
+He folded it along the same crease, and put it back into the inside pocket of that coat on the same side of that seam it had been on, and hung the coat back on the nail.
 
 ---
 

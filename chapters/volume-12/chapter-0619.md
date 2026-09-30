@@ -1,22 +1,22 @@
 # Chapter 0619: Two Sheets On That Table With A Blank Line Under Both Of Them, And Nobody Asked
 
-Two sheets were on that table at about the fourth hour and neither of them has a heading on it, and the last line of each of them was left empty on purpose.
+Two sheets were on the table at about the fourth hour and neither of them has a heading on it, and the last line of each of them was left empty on purpose, and the two of them do not agree with one another in any line.
 
 It is the second day of the first week of the ninth month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the second hour and about the fifth.
 
 ---
 
-That table is eleven foot by six and the bed is against the wall and is not made up, and the chair has not moved off the spot a man dragged it to a spring that is gone, facing four feet of plaster with its back to that window, and the stool is back against the wall and the catch on that window is still turned. There is a jug on that table with about two inches of water in the bottom of it that has been standing twelve weeks. That table has a sheet of paper on it that has been on it eleven weeks, and across the head of that sheet there is a printed strip with four short things set along the top of the strip, and not one of the four is a name, and there is nothing else on it. The door stands open about a hand's width. The coat is on a nail that went in crooked about the height of a hand.
+That table is eleven foot by six and the bed is against the wall and is not made up, and the chair has not moved off the spot a man dragged it to a spring that is gone, facing four feet of plaster with its back to that window, and the stool is back against the wall and the catch on that window is still turned. There is a jug on it with about two inches of water in the bottom of the jug that has been standing twelve weeks. A sheet of paper has been lying there eleven weeks, and across the head of that sheet there is a printed strip with four short things set along the top of the strip, and not one of the four is a name, and there is nothing else on it. The door stands open about a hand's width. The coat is on a nail that went in crooked about the height of a hand.
 
 ---
 
 She came up those four flights with the second of her own two sheets in the front of her apron and she came in through that door without knocking, and the woman from the landing was already at the end of that floor with the pail and stayed at that end for the whole of it.
 
-"There is a sheet on that table."
+"There is a sheet on the table."
 
 "There is."
 
-"It has been on that table eleven weeks and you have not said one word about it, and I have come up that stair two hundred and some times, and this is the first time either of us has said one word about it."
+"It has been on the table eleven weeks and you have not said one word about it, and I have come up that stair two hundred and some times, and this is the first time either of us has said one word about it."
 
 "It has not moved."
 
@@ -30,7 +30,7 @@ I am not going to put a heading on it and I am not going to put a date on it, an
 
 ---
 
-"There is a case at the near end of those boards and about four hundred blanks a year come out of it, and a copy is made at the same counter for fourpence, and there is a printed strip along the head of every one of them with four things set across the top of that strip and not one of the four is a name, and the lines go into a book that is kept a year and then a year. I have been at that end of those boards two years and I came in twenty minutes early every working morning of them and there is an undertaking I made two years ago that has never been brought into use and has never been given up. That is what is mine. There is one thing about me that I have not said out loud to anybody in this building and I am not going to say it this month, and that is not one of the things you are getting this afternoon, and I am not going to be asked about it and you are not going to ask me."
+"There is a case at the near end of those boards and about four hundred blanks a year come out of it, and a copy is made at the same counter for fourpence, and there is a printed strip along the head of every one of them with four things set across the top of that strip and not one of the four is a name, and the lines go into a book that is kept a year and then a year. Two years at that end of those boards, and twenty minutes early every working morning of them, and there is an undertaking I made two years ago that has never been brought into use and has never been given up. That is what is mine. There is one thing about me that I have not said out loud to anybody in this building and I am not going to say it this month, and that is not one of the things you are getting this afternoon, and I am not going to be asked about it and you are not going to ask me."
 
 "I am not going to ask you."
 
@@ -42,7 +42,7 @@ And then he said his, and it took about as long as it takes to put a coin down.
 
 ---
 
-She put the two sheets down side by side on that table and squared them and they do not agree with one another in any line, and along the top of each of them there is that printed strip with the four things set across it and not one of the four is a name, and under the last of the four on each of them there is a line with nothing in it, and there is no fifth thing on either of them.
+She put the two sheets down side by side on the table and squared them, and along the top of each of them there is that printed strip with the four things set across it and not one of the four is a name, and under the last of the four on each of them there is a line with nothing in it, and there is no fifth thing on either of them.
 
 "I did not put a fifth thing on that strip."
 
@@ -70,4 +70,4 @@ I am not going to be told about it by anybody, and I am not going to say the thi
 
 ---
 
-Those two sheets are lying side by side on that table and the catch on that window is still turned, and the light went off that room about a quarter of an hour after the stair had gone quiet with both of them still on the table.
+Those two sheets are lying side by side on the table and the catch on the window is still turned, and the light went off that room about a quarter of an hour after the stair had gone quiet with both of them still on the table.

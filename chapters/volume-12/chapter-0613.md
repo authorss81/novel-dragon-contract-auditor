@@ -1,20 +1,20 @@
 # Chapter 0613: A Second Of A Line That Was Entered A Year And More Ago, With Nothing Written On It
 
-A sheet that has been in that shelf since before the spring that is gone came out of it this morning, and she has made a second of it, and there is nothing on the second of it at all.
+A leaf that has been in that shelf since before the spring that is gone came out of it this morning, and the woman of twenty-four made a second of the line on it, and there is nothing on the second of it at all except four printed things along the top that are not a name.
 
 It is the fourth day of the third week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the first hour and about the fourth.
 
 ---
 
-About four hundred blanks a year come out of the case at the near end of those boards and a copy is made at the same counter for fourpence, and the book the lines are entered in is kept a year and then a year, and a line a year old can still be copied and a line out of this month cannot. The woman of twenty-four has been at that end of those boards two years and came in twenty minutes early every working morning of them and the pen lies in the middle of her book where it has lain all that time.
+About four hundred blanks a year come out of the case at the near end of those boards and a copy is made at the same counter for fourpence. The book the lines go into is kept a year and then a year, and a line a year old can still be copied and a line out of this month cannot. The woman of twenty-four has been at that end of those boards two years and came in twenty minutes early every working morning of them, and the pen lies in the middle of her book where it has lain all that time.
 
-That shelf is under the boards at the near end. Something else is shut under the far end of those boards and the lid of it has not been off in six years. There are four items on the wall at the other end of that floor and the fourth of them is in the hand of the woman who wrote it, about four years ago.
+That shelf is under the boards at the near end, and a leaf folded twice has been in it since before the spring that is gone. Something else is shut under the far end of them and the lid of it has not been off in six years and nobody has counted what is in it and it is not the case. There are four items on the wall at the far end of the room and the fourth of them is in the hand of the woman who wrote it, about four years ago, and nobody has ever put it to her.
 
 ---
 
-She copied the line at about the second hour, off a leaf that has been folded twice, and she did it in about as long as it takes to square a sheet, and then she put the copy down on those boards in front of her with the printed strip along the head of it facing away from her and left it there.
+She copied the line at about the second hour off that leaf, and she did it in about as long as it takes to square a sheet, and then set the copy down in front of her on the wood with the printed strip along the head of it facing away from her and left it there.
 
-The woman of thirty-four came along those boards with the day's count in her hand and stopped at the near end of them.
+The woman of thirty-four came along the boards with the day's count in her hand and stopped at the near end.
 
 "What is that."
 
@@ -58,7 +58,7 @@ And I have a third place under the floor of my own room that I made out of a she
 
 ---
 
-The woman of thirty-four went along those boards and counted what had gone out of that case that day, out loud, at the rate she counts, which she has not done in two years, and the number of it went into that room in the air and stayed there.
+The woman of thirty-four went along the boards and counted out loud what had gone out of that case that day, at the rate she counts, which she has not done in two years, and the number of it went into that room in the air and stayed there.
 
 "There is a sheet on your boards with nothing on it and you are going to walk it down four flights."
 
@@ -68,8 +68,8 @@ The woman of thirty-four went along those boards and counted what had gone out o
 
 "It is enough for two years."
 
-The woman of twenty-four picked the second sheet up at the end of that hour and carried it down those four flights in the front of her apron, and the third of those flights has a hollow in it, and she did not stop on it.
+She went away along the boards and the woman of twenty-four picked the second sheet up at the end of that hour and carried it down those four flights in the front of her apron, and the third of those flights has a hollow in it, and she did not stop on it.
 
 ---
 
-The case at the near end of those boards gave out about four hundred blanks in that year, and one of them was a second of a line that was already a year old when it was copied, and she went down that stair without slowing at the one that has a hollow worn in it.
+The case at the near end of the boards gave out about four hundred blanks in that year, and one of them was a second of a line that was already a year old when it was copied, and there is nothing at the top of it but four printed things and not one of the four is a name.

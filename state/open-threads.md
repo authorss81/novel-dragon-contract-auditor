@@ -450,3 +450,17 @@ One: an owed review of Volume 04's Batch 0005, four volumes on. Two, three and f
 **It is a controller file. `AGENTS.md` and this project's phase prompt both forbid a writing phase from editing it, and nothing in the prose findings or the state layer can be blamed on it. It is written down here so that the first reader who meets the disagreement is not the first one to meet it, which is the same standing item 168 was written under.**
 
 **Nothing about this item is discharged by this repair and this repair did not touch the file.**
+
+---
+
+## 172. THE PROSE REPAIR IS UNDERWAY, IT IS TEN CHAPTERS, AND IT IS NOT TEN PERCENT OF THE MANUSCRIPT
+
+*Added by the phase that took `workspace/continuation/next-0004/PROMPT.md`. It is a repair and not a batch, and it did not plan a volume and it did not write a chapter.*
+
+**Item 170 is open and it is the only open item on this page that a writing phase can pay, and this phase paid ten chapters of it.** The ten are `chapter-0610.md` through `chapter-0619.md`, the last ten chapters of Movement Seven, and they were chosen because the compression is worst at the end of the volume and because the material is already on the page, so a repair of them cannot invent anything. The measured before-and-after is in `state/batch-summary.md` in the section headed for this repair, and it is not restated here. **`chapter-0620.md` was not opened and is not to be opened; it carries the last line of this series.**
+
+**What is left, and it is nearly all of it.** The finding at item 170 is about four volumes and it is a monotonic decline, and ten chapters is a tenth of one volume. **Volumes 08, 09, 10 and 11 and the first sixty chapters of Volume 12 carry the same defect and none of them has been touched.** A repair that continues in the same way, ten chapters at a time, is a repair of a hundred and forty phases and is not a thing to plan as one. *This is the honest shape of the item and it is the standing the next phase inherits: the prose repair is a scope decision and it belongs to a person, and the ten chapters are evidence that it can be done and not evidence that it has been done.*
+
+**Three things a later repair of this kind should not have to learn the hard way, and they are all of them defects this phase introduced and then caught.** *One:* copying a canon set-piece from an earlier chapter verbatim raises the re-print count against a chapter that was not touched, and the fix is to take the original wording of the passage, which is the wording the volume already had, and not to paraphrase a canon figure. *Two:* this volume's framing is third person and its interiority is first person, and the interiority section is opened by a bold line and runs to a section break, and a rewrite that converts the framing to the first person has changed the book's voice and not only its grammar. *Three:* the demonstrative-anaphora defect is concentrated, and the ten worst forms across a movement account for a large share of the total, so a repair that measures the concentration and deals with the top forms first moves the rate faster than a repair that varies sentences evenly.
+
+**Nothing about this item bears on the four debts, and this phase discharged none of them.**

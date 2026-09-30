@@ -6,7 +6,9 @@ It is the second day of the first week of the eighth month of the year after the
 
 ---
 
-She is at this end and not on any roll and has never been one of the clerks in that building, and there is a bar across the stone in front of her and a rack behind it and about four hundred yards of cold flags going away from this end, and nobody has gone the length of them in a working day in four years, including her. A number has been in her head since the spring of her fourth year and it is written down nowhere and is not going to be, and nobody in that building has asked her for it in four years and nobody is going to this month.
+She is at this end and not on any roll and has never been one of the clerks in that building. There is a bar across the stone in front of her and a rack behind it and about four hundred yards of cold flags going away from this end, and nobody has gone the length of them in a working day in four years, including her.
+
+A number has been in her head since the spring of her fourth year. It is written down nowhere and it is not going to be, and nobody in that building has asked her for it in four years and nobody is going to this month.
 
 ---
 

@@ -1,20 +1,22 @@
 # Chapter 0611: A Coin Taken Off That Second Tread, And A Sheet Left On The Top Step
 
-She had put a coin on that second tread for a week and this morning it is in the front of her apron with the rest of that week's money in it, because a place that stays a place for a week is a place a person can be shown standing on twice.
+She put the coin on that second tread for a week, and a place that stays a place for seven days is a place a person can be shown standing on twice, so on the eighth morning she had it in the front of her apron with the rest of that week's money and the second tread was bare again.
 
 It is the second day of the first week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the second hour and about the fifth.
 
 ---
 
-The tin is on the top step at that turn, lid down, corner to the wall, and the key in the tin behind that boiler has a number cut into the back of it and there are three keys on a board by that front door and not one of them has a name on it. There is a lamp on that table by the front door and it has not been lit in this run. She has been at the foot of that stair about twenty years and the marks on those boards run from the turn end of them toward the near end, about two inches apart, and she put them there.
+The tin is on the top step at that turn, lid down, corner to the wall, and about nine years of one man's rent is in it and there has never been a sheet of paper in that tin in twenty years. The key behind that boiler has a number cut into the back of it and that number is the only record anybody anywhere has kept of the three rooms it opens. Three keys hang on a board by the front door and not one of them has a name on it.
+
+There is a lamp on the table by that front door and it has not been lit in this run. The marks on those boards run from the turn end toward the near end, about two inches apart, and a woman put them there. She gets to the turn about the fourth day of a week, so on this morning she was two days short of it with a cloth in her hand, and the top step was nine foot further up than where she stands and it was in full view of anybody on the step outside the front door.
 
 ---
 
 The woman of about thirty-five came down that lane for the fifty-first week running, at about the fourth hour, and she had a sheet of paper folded once in the flat of her hand.
 
-She did not stop at the front door. She went along that passage to the turn and put the sheet down on the top step beside that tin and squared it against the nosing with two fingers, and she went out at the front door.
+She did not stop at the front door. She came the length of the passage instead, past the woman with the cloth, at the place where the boards are dry, and went to the turn, and put the sheet down on the top step beside that tin, and squared it against the nosing with two fingers, and went out at the front door without touching the tin.
 
-The woman at the foot of that stair was at the near end of that passage with a cloth in her hand.
+The woman at the foot of that stair was at the near end of the passage with the cloth.
 
 "You have put something on my step."
 
@@ -32,13 +34,15 @@ The woman at the foot of that stair was at the near end of that passage with a c
 
 **I have not been up that turn in twenty years and I am not going up it this morning, and the reason is not pride and it is not that I do not want to know what is on that sheet.**
 
-The reason is that a woman who comes up that turn and lifts a thing off that step is a woman who can be shown having been at the top of it. That is the whole of what twenty years has bought me. I do not write my name on anything and I have never once given a receipt for anything in this house and there is a number cut into the back of a key behind that boiler and I have never copied it out, and every one of those is the same work, and the work is not doing anything. It is being a person in this house that nothing can be put beside.
+The reason is that a woman who comes up that turn and lifts a thing off that step is a woman who can be shown having been at the top of it. That is the whole of what twenty years has bought me. I do not write my name on anything. I have never once given a receipt for anything in this house, and there is a number cut into the back of a key behind that boiler and I have never copied it out, and every one of those is the same work, and the work is not doing anything. It is being a person in this house that nothing can be put beside.
 
-And a thing left on my top step undoes all of it, because I will have to look at it every morning. I do the boards from the near end and I get to that turn on about the fourth day of a week, and I will come to it, and it will be there, and there is no form anywhere in this city in which I can be shown refusing it.
+And a thing left on my top step undoes all of it, because I will have to look at it every morning. I do the boards from the near end and I reach that turn about the fourth day of a week, and I will come to it, and it will be there, and there is no form anywhere in this city in which I can be shown refusing it.
 
 ---
 
-"I did not come down that lane to leave it on a step," the woman of about thirty-five said, from the front door, and she had not gone out of it yet.
+She had not gone out of the front door yet.
+
+"I did not come down that lane to leave it on a step."
 
 "Then it will have to stay on the step."
 
@@ -50,16 +54,18 @@ And a thing left on my top step undoes all of it, because I will have to look at
 
 "Then it can go soft on my step, and you can come down this lane in a wet week and look at it, and neither of us will have said one word about it."
 
-The woman of about thirty-five stood in that doorway about as long as it takes to fold a cloth once, and then she went out at it, and the door shut about as long ago as that happens.
+She stood in that doorway about as long as it takes to fold a cloth once. Then she went out at it, and the door shut, and I stood in that passage with the cloth in my hand and a sheet of paper nine foot above my head that I was not going to be allowed to touch.
 
 ---
 
-I have spent twenty years being the cheapest person in this house and I have been proud of it in a way I have never said out loud, and this month there is a sheet of paper lying on my top step that I am not allowed to touch, and the whole of what it has cost is that I will be looking at a thing I have not read for the rest of the time I am here.
+I have spent twenty years being the cheapest person in this house, and I have been proud of it in a way I have never said out loud, and this month there is a sheet of paper lying on my top step that I am not allowed to touch, and the whole of what it has cost is that I will be looking at a thing I have not read for as long as I am here.
 
-And nobody in this house is going to be told that I refused it. She came down that lane and put it there and she has gone out at the front door and she is not going to come back for it, because she has worked out in about a week what I am, and she is a person who works things out at the ordinary hour and in the ordinary way and does not say so.
+Nobody in this house is going to be told that I refused it. She put it there and she has gone out at the front door and she is not coming back for it, because she has worked out in about a week what I am, and she is a person who works things out at the ordinary hour and in the ordinary way and does not say so.
 
 There is a man on the floor above the second of those stairs whose door has been standing open about a hand's width for eight weeks now, and he is not coming down those stairs, and neither of those two facts is going to be mentioned to either of us.
 
+And she has been down that lane fifty-one times with something to say, and she has not said it, and she has not asked me one thing about the sheet, and I have not asked her one thing about the fifty-one weeks, and neither of those is going to be entered anywhere.
+
 ---
 
-The cloth comes down those boards from the near end and the tin is on the top step with about nine years of one man's rent in it, and the sheet is lying beside the tin squared against the nosing, and it is two days before she gets to that turn with the cloth in her hand.
+The cloth comes down those boards from the near end and I was two days short of that turn with it in my hand. The tin is on the top step with about nine years of one man's rent in it, and the sheet is lying beside the tin squared against the nosing with the fold along the top of it, and it is going to go soft along that fold in a wet week if the wet week comes before I do.

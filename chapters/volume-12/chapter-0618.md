@@ -6,13 +6,13 @@ It is the fourth day of the fourth week of the eighth month of the year after th
 
 ---
 
-That case is at the near end of those boards and it gives out its day early, A different box is shut under the far end of those boards and the lid has not been off it in about six years. Under that wall there is a drawer, and it stays shut, and it has held four things for eleven years and nobody has opened two of them. There are four items on the wall at that end and the fourth of them is in the hand of the woman who wrote it and nobody has ever put it to her. A man comes up those stairs four times a week with a satchel and has never once been told what is in it and has a mark on that shoulder above the neck where the strap goes in.
+That case is at the near end of those boards and it gives out its day early. A different box is shut under the far end of them and the lid has not been off it in about six years. Under that wall there is a drawer, and it stays shut, and it has held four things for eleven years and nobody has opened two of them. There are four items on the wall at that end and the fourth of them is in the hand of the woman who wrote it and nobody has ever put it to her. A man comes up those stairs four times a week with a satchel and has never once been told what is in it, and he has a mark on that shoulder above the neck where the strap goes in.
 
-The woman of twenty-four was at the near end of those boards twenty minutes early, as she is every working morning, with her book open and her hands flat on it.
+The woman of twenty-four was at the near end of them twenty minutes early, as she is every working morning, with her book open and her hands flat on it.
 
 ---
 
-He came the last of those stairs slowly and stopped at the near end of those boards about four foot off the woman of twenty-four and said nothing for about as long as it takes to put a coin down.
+He came the last of those stairs slowly and stopped about four foot off her and said nothing for about as long as it takes to put a coin down.
 
 "You have come up here."
 
@@ -22,7 +22,7 @@ He came the last of those stairs slowly and stopped at the near end of those boa
 
 "I know there is nothing here for me. I have not come for something here. I have come up four flights to stand in a room where a thing gets said out loud in the ordinary way, and I would like to be in it while it happens, and it has not happened in about two years, and you are both of you in it every working morning."
 
-The woman of thirty-four came along those boards from the far end with the day's issue in her hand and stopped.
+The woman of thirty-four came along the boards from the far end with the day's issue in her hand and stopped.
 
 "You have come up here to be in a room where a thing gets said out loud."
 
@@ -40,9 +40,9 @@ You cannot be in it. You can only be the one it is done to, and I have found tha
 
 ---
 
-"You could go and stand at the far end of those boards," the woman of thirty-four said, "if it is the end of the room you want."
+"You could go and stand at the far end," the woman of thirty-four said, "if it is the end of the room you want."
 
-"The far end of those boards is a wall with four things on it and one of them is mine and I have not said a word about it in four years."
+"That end is a wall with four things on it and one of them is mine and I have not said a word about it in four years."
 
 "Then stand where you are. It makes no difference to anybody. It never makes any difference to anybody. That is the entire use of it, and you have come up four flights to find out that it makes no difference, and I have been standing in this room for eleven years and I could have told you that at the first hour for nothing."
 
@@ -56,7 +56,7 @@ You cannot be in it. You can only be the one it is done to, and I have found tha
 
 ---
 
-The woman of thirty-four took what had come out of that case that day and counted it along those boards out loud, in the ordinary way, at the rate she counts.
+The woman of thirty-four took what had come out of that case that day and counted it out loud along the boards, in the ordinary way, at the rate she counts.
 
 That was the fifth thing she had said out loud in that room in eleven years and it was not a true thing, and she chose it on purpose, and there is nobody in that building who is going to be told which of the two things she did this morning was the one she wanted to do.
 
@@ -64,4 +64,4 @@ A man came up those stairs at about the first hour with a satchel over his shoul
 
 ---
 
-He went down those four flights at about a quarter past and a man in this city can be shown to have been at the top of them on an ordinary morning, and the case at the near end of those boards gave out its day early as it does, and the fourth of those four items was on that wall in the hand that wrote it and was not explained.
+He went down those four flights at about a quarter past, and a man in this city can be shown to have been at the top of them on an ordinary morning, and the case at the near end of the boards gave out its day early as it does, and the fourth of those four items was on that wall in the hand that wrote it and was not explained.
