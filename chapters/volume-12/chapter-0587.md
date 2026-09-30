@@ -24,7 +24,7 @@ The light goes off that window at about the fourth hour and the fourth hour is a
 
 A coin comes under that door every working morning at about the first hour and goes about four inches along the boards and stops, because there is nothing on that floor to stop it. There is one of them on that table and there is nothing in that room it can be spent on, and he put a second one back under that door about six weeks ago and did not go down that stair afterwards, and the one on the table is his and is not going to be spent.
 
-Her boot came on the fourth step at about the first hour and stopped on the mat and the corner went down under it and came back up.
+Her boot came on the second tread at about the first hour and stopped on the mat and the corner went down under it and came back up.
 
 "You have not opened that door since before the spring that is gone."
 

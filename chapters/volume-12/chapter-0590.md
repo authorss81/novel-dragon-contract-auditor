@@ -8,7 +8,7 @@ It is the fourth day of the fourth week of the first month of the year after the
 
 There is a door at the back of that floor and it has been shut for a fortnight, and a sill about four feet long runs along the near side of that corridor, and a pot is at the near end of it with two pens in it and the two of them are the same pen.
 
-That building sends about nine hundred sheets out in a year and every one of them carries his mark at the foot of it, and once in a while what stands between the head of one and the foot of it was written by somebody else altogether, and he is the only living man who has ever known which, and it is on nothing at all and has been in his head since the spring that is gone.
+That building sends about nine hundred sheets out in a year and every one of them carries his mark at the foot of it, and once in a while what stands between the head of one and the foot of it is written by somebody else altogether, and he is the only living man who has ever known which, and it is on nothing at all and has been in his head since the spring that is gone.
 
 ---
 
@@ -26,7 +26,7 @@ And that tin took the pen back out of his hand the way it has taken one out of i
 
 ---
 
-He has signed about nine hundred feet of paper in a year and about nineteen sheets on an ordinary working day, and he turns the pen round to him and signs underneath every one of them. That is the care he takes and it is the whole of it, and it is the reason he is the only man alive who knows which ones, and the knowing is on nothing at all and there is no column in this empire that will take a man for it.
+He has signed about nine hundred feet of paper in a year and about nineteen sheets on an ordinary working day, and he turns the pen round to him and signs underneath every one of them. That is the care he takes and it is the whole of it, and it is the reason he is the only living man who has ever known which ones, and the knowing is on nothing at all and there is no column in this empire that will take a man for it.
 
 Four people in this matter cannot get sense out of a paragraph and none of the four has ever been asked one question about a number. He is not one of the four and has never been, and the man of about fifty-five with a chain at the front of a bench nine miles off is not one of them either, and the woman of fifty-three who keeps the minutes in the room at the back of that floor never was, and the reader of seventeen never was either.
 
