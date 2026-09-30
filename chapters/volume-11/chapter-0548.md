@@ -10,6 +10,11 @@ There is a clerk of about twenty-nine at the far end of two joined tables with a
 
 It is the second day of the second week of the third month of the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the fourth hour.
 
+The floor is open from the second hour to the sixth and a person gets up to it by one stair only. For two years she has come up those four flights far enough ahead of her own hour to have the boards up and the shutter off the case before anybody else is in the room. This morning the case was already out, the boards were already up, and a woman of thirty-four was already standing at the far end of them.
+
+Two tables pushed end to end make one long thing that can be worked along from either side, and the join between them is a line a hand could find in the dark. She is at the far end of it. She put the pen down squared against the edge of the wood in a month that is gone and it has been squared against the same edge ever since, where anybody in the room could reach it, and nobody has.
+
+The woman of thirty-four has not walked out of the room once in eleven years, and the four times she put the shape of a thing out loud she put it standing up and to the boards, and under the boards there is a drawer that has not been moved from where it is for eleven years and that has four things shut up in it, and a knife in some other drawer in the same room, and she has never told anybody which one, and nobody has come up four flights in eleven years to look.
 ---
 
 She came in at the hour and she went to her end of the boards and she did not square anything.
@@ -28,11 +33,17 @@ That is the whole of the fourth hour. Marn Ottery had her face down over the boa
 
 "You said a sentence about me and it was a sentence about a thing I have done for two years and not about anything I did this morning, and I have noticed that, and I am not going to be thanked for the noticing."
 
+A square is something a hand does and not something a person does with a decision. She had put the near edge of the boards as straight as it can be put, it had not needed it, and she had left it, and her hands were then free for the whole of the rest of the hour, and there was nothing in the room for them to be free at.
+
 The clerk of about twenty-nine wrote the day's line. It is the date, then the hour, then how many sheets came out of the case, in that order, and it has been that line every working morning for four years. There was nothing in it about anybody this morning, because there was nothing different about that floor at all.
+
+She wrote it in the same hand and with the same care she has written it in for four years and it took as long as it always takes. Whatever goes into a book is the one thing in the building other people can be shown, and she had known what her own handwriting was worth inside the first month at the far end of the room.
 
 ---
 
 **Nobody on that floor can be shown that a woman of twenty-four has stopped coming in early, and she is not going to be asked about it. The only person on that floor who could have told the difference from the other end of the boards did not look up, and the only other person who could have told the difference is nineteen years old and keeps the minutes under a woman of fifty-three, and she is in a different building nine miles off a lane, and she is not going to be told either.**
+
+Four flights and the walk from the bottom of the stair to the end of the boards. The twenty minutes were made of about all of it, and there was nothing in any part of it a person could put a hand on, and she had done the walk a great many times without ever once putting a hand on any part of it.
 
 The twenty minutes were not a decision. She has never once worked out which morning she started doing them on and she is not going to, and a thing a person has done for two years without a morning attached to it is not a thing anybody can be shown a person stopping, and a person who has chosen to stop a thing is a person who could be shown having chosen, and she has not chosen, and this morning she came in at the hour.
 
@@ -45,6 +56,8 @@ There are two pieces of that counter's stock in this city and neither of them ha
 Nobody on that floor knows that the first of the two was ever carried out of that building by a person, and nobody is going to be told, and no form anywhere in this empire takes a woman as the one who made a third place under the floor of a room of her own, and no form anywhere takes a man as the one who bought a second of a thing at fourpence and went down four flights and did not tell anybody what for.
 
 The two of them have never met. They are never going to meet. There is no standing in this matter at which either of them could be put in the same sentence as the other one, and there is nowhere in this empire that a sheet can be traced from a counter to a floor to a coat to a room, and that has not changed in about two years and it is not going to change this month.
+
+A piece of the counter's own stock carries a printed strip along its top edge, and four things are always set along it, and not one of them is anybody. It goes into a coat, and it is the only object in this matter that nobody has ever had to think about.
 
 Nobody sent him. The undertaking of the woman of twenty-four is live and has not been exercised and is not going to be exercised this month, and the fourth item on that wall above the case is in her colleague's own hand and is about four years old and is still the one that none of the three of them can account for.
 
