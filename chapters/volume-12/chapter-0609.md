@@ -20,7 +20,7 @@ The woman of twenty-four was at that end of the room with her book open and her 
 
 A man came up those four flights at about the first hour with a satchel over his shoulder and stopped about a yard off the case with the strap still round his forearm, and he did not put it down and he did not turn round.
 
-She took the thing out of the front of her apron and opened it out along the fold with two fingers and it came out of the apron with the shape of the cloth still in it. She put it up to that board and pressed it flat along the top with the heel of her hand, and she took her hand away, and the paper was on the wall where it was, and nothing about it looked as though it had been anywhere.
+She took the thing out of the front of her apron and opened it out along the fold with two fingers and it came out with the shape of the cloth still in it. The fold had gone soft across the width of it in three weeks and there was a set in the paper where her thumbs had to take it out before it would lie down, and it came out with a smell of cloth on it and nothing else on it at all. She held it up in front of her for about as long as it takes a cloth to be folded once and she did not read it, because she had written it herself about four years ago and there is not one word on it she does not know.
 
 She put the fourth item back onto that board and squared it against the top of it with the heel of her hand.
 

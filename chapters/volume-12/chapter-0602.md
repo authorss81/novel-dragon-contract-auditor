@@ -6,7 +6,7 @@ It is the fourth day of the fourth week of the fourth month of the year after th
 
 ---
 
-That bay is about nine foot by eleven. The chain along the front of that bench goes at one rate under a woman's hand and it has not slowed for her in about eleven years. A class put her at the back of that bay eleven years ago. The count is taken at the back end of that bench, the girl works at the other end of it, the two of those are about nine foot apart, and the floor between that bay and the wall it stands against is ninety foot the length of it.
+That bay is about nine foot by eleven. The chain along the front of that bench goes at one rate under a woman's hand and it has not slowed for her in about eleven weeks. A class put her at the back of that bay eleven years ago. The count is taken at the back end of that bench, the girl works at the other end of it, the two of those are about nine foot apart, and the floor between that bay and the wall it stands against is ninety foot the length of it.
 
 The chain has a wooden handle at the end of it and it comes down on the wood with a small knock every time it is drawn back, and anybody standing anywhere else in this shed can hear it and has not heard it for a long time. The bench is a plank on two trestles, planed so often along its front edge that the edge has gone round. Nine foot of the plank is between the two women who work at it, and the two of them have never once had to speak to get an armful past one another.
 
