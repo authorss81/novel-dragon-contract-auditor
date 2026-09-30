@@ -1,6 +1,6 @@
 # Chapter 0610: A Coin Put On The Second Tread Of A Stair By A Woman Who Has Not Been Above It In Twenty Years
 
-She had left that door with nothing under it for a fortnight and this morning she put a coin on the second tread of her own stair.
+She had left that door with nothing under it for five weeks and this morning she put a coin on the second tread of her own stair.
 
 It is the fourth day of the fourth week of the sixth month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the first hour and about the fifth.
 
@@ -30,9 +30,9 @@ And then she went out at that front door and she did not go up and she did not a
 
 ---
 
-**I put that coin under that door every working morning for about two years and then I stopped, and I have thought about nothing else for a fortnight, and this morning I put one on the second tread of my own stair and that is the whole of the difference and it is a difference of about nine inches.**
+**I put that coin under that door every working morning for about two years and then I stopped, and I have thought about nothing else for five weeks, and this morning I put one on the second tread of my own stair and that is the whole of the difference and it is a difference of about nine inches.**
 
-Under that door it was a habit, and a habit is a thing a person can be shown having. I worked that out a month ago with the flat of my hand on the lid of that tin, and I would rather have twenty years of nothing that anybody could produce about me than one habit that goes four times a week. That is what I said to myself and that is what I did, and there has been nothing under that door for a fortnight.
+Under that door it was a habit, and a habit is a thing a person can be shown having. I worked that out a month ago with the flat of my hand on the lid of that tin, and I would rather have twenty years of nothing that anybody could produce about me than one habit that goes four times a week. That is what I said to myself and that is what I did, and there has been nothing under that door for five weeks.
 
 And on the second tread it is a place. A place is a thing a person cannot be shown having or not having, and a coin on a tread is a thing that is there whether anybody looks at it or not, and a person who has never been above that tread in twenty years standing on it once to put a coin down is a thing that happened and cannot be undone and does not go in anybody's book.
 

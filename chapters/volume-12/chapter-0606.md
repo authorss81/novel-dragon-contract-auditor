@@ -1,6 +1,6 @@
 # Chapter 0606: The Fourth Item Taken Down Off A Wall Board, And A Man With A Bag Who Turned Round
 
-She had put two fingers on the edge of the fourth of the four items on that wall about a fortnight ago and taken them off again, and this morning she took the whole of it off the wall and put it in the front of her apron.
+She had put two fingers on the edge of the fourth of the four items on that wall about six weeks ago and taken them off again, and this morning she took the whole of it off the wall and put it in the front of her apron.
 
 It is the fourth day of the fourth week of the fifth month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the fifth hour.
 

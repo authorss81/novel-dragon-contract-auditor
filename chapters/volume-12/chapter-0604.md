@@ -1,12 +1,12 @@
 # Chapter 0604: An Armful Put Down Three Foot Off A Tin At The Near End Of That Sill, In The Open
 
-She had stopped at the empty end of that sill every morning for about eighteen weeks and this morning she carried the armful the whole length of it and put it down at the other end.
+She had stopped at the empty end of that sill every morning for about twenty-two weeks and this morning she carried the armful the whole length of it and put it down at the other end.
 
 It is the second day of the second week of the fifth month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the third hour.
 
 ---
 
-There is a tin at the near end of that stone with two pens in it and the two of them are the same pen. About three feet of that sill has had nothing on it since a pot was moved four inches along it, and the weather comes off the lane onto that stone. The door at the back of that floor has been standing open about as long as it takes to square a sheet on a morning for three weeks now, and the second copy of that week's minutes goes in on the older woman's own hand behind it.
+There is a tin at the near end of that stone with two pens in it and the two of them are the same pen. About three feet of that sill has had nothing on it since a pot was moved four inches along it, and the weather comes off the lane onto that stone. The door at the back of that floor has been left standing open about two months now, about as long as it takes to square a sheet on a morning, and the second copy of that week's minutes goes in on the older woman's own hand behind it.
 
 About nine hundred sheets go out of that building in a year and every one of them carries that man's mark at the foot of it, and about nine of them are not what the person above him wrote, and he is the only living man who knows which nine, and it is on nothing at all.
 
@@ -16,7 +16,7 @@ She set the armful down about three foot off that tin with the near ends of it s
 
 He did not move it.
 
-She has been at that building four years and she has carried about forty armfuls down that floor in each direction in a working day and she has never once stopped at any of them until about eighteen weeks ago.
+She has been at that building four years and she has carried about forty armfuls down that floor in each direction in a working day and she has never once stopped at any of them until about twenty-two weeks ago.
 
 ---
 

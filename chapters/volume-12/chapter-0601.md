@@ -12,7 +12,7 @@ He is thirty-eight. Nothing stands over his name in this city: no office, no fun
 
 ---
 
-She came up that stair at the first hour and stood on the mat at the end of that landing and did not knock, and he did not go to the door, and the gap under that door has not changed in about two years. She has been coming up at the first hour and about the fourth hour for about sixteen weeks and she has wanted one single thing out of him for all of it, which is nothing, and the pail at the end of that landing is the only water in this house.
+She came up that stair at the first hour and stood on the mat at the end of that landing and did not knock, and he did not go to the door, and the gap under that door has not changed in about two years. She has been coming up at the first hour and about the fourth hour for about fifteen weeks and she has wanted one single thing out of him for all of it, which is nothing, and the pail at the end of that landing is the only water in this house.
 
 "The pail is fuller than it was on the second day."
 
@@ -42,6 +42,6 @@ That is what I have worked out. It has taken a fortnight and it is the only thin
 
 She stayed at that end of that landing about as long as it takes to put a coin down and take a hand away from it, and then she went down off that landing and the stair behind her emptied out and stayed empty, and the light went off that landing about a quarter of an hour afterwards and the room behind that door went dark with it.
 
-She did not come up at the fourth hour. She has come up at the fourth hour every working day for about sixteen weeks and she did not come up this afternoon, and the stair did not make any noise at all at about the fourth hour, and there is nothing in nine hundred buildings that takes a woman for a stair that stayed quiet.
+She did not come up at the fourth hour. She has come up at the fourth hour every working day for about fifteen weeks and she did not come up this afternoon, and the stair did not make any noise at all at about the fourth hour, and there is nothing in nine hundred buildings that takes a woman for a stair that stayed quiet.
 
 So the whole of what I have is a decision and no second person, and a door on a latch that I have not taken off in about two years, and one sheet of paper on the other side of a seam with nothing written on it, and I am not going to do this on my own and I am not going to ask her to come up.
