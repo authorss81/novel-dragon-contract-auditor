@@ -30,7 +30,7 @@ The woman of fifty-three came out of it, went the whole length of the corridor w
 
 "I said I was not going to stand at that end of it. I did not say I was not going to look at it."
 
-He signed two sheets and did not look up, and the tin took the pen out of his hand and gave him the other, and the two of them went down the corridor on the armful already standing at the far end of it and out of the building one at a time in the ordinary way.
+He signed two sheets and did not look up, and the tin took the pen out of his hand and gave him the other, and the two sheets went down the corridor on the armful already standing at the far end of it and out of the building one at a time in the ordinary way.
 
 ---
 

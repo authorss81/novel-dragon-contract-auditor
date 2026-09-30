@@ -26,13 +26,13 @@ She came in twenty minutes early and she was in the room before anybody in it, a
 
 **There is exactly one thing I have ever wanted in this room and I have wanted it for about a fortnight, and it is to say one true sentence out loud where somebody is working, in the ordinary way, at the ordinary hour, with a second pair of ears in the air of it.**
 
-And the only person on this floor who has never once been asked anything is a man with a bag on his shoulder who has come up these stairs four times a week for eleven years and has not been told what is in the bag, and he is standing at the far end of this room right now and he is not going anywhere for as long as it takes a sheet to be squared.
+And the only person on this floor who has never once been asked anything is a man with a bag on his shoulder who has come up these stairs four times a week for eleven years and has not been told what is in the bag, and he is standing at that end of this room right now and he is not going anywhere for as long as it takes a sheet to be squared.
 
 And I am not going to do it, and the reason is the whole of what I have worked out in about a fortnight and it is not a form and it is not a column and it is not going in a book.
 
 I have not been asked one thing in two years. That is the only thing I have that is worth anything. If I say a true thing in this room where he is working then I am a woman who wanted one single thing out of a man who has never had to give one, and there is no arrangement in this empire that separates that from a woman who put something in a man's reach. I have not asked him for anything and I am not going to start with the one thing in twelve volumes that actually costs him something.
 
-And he is at the far end of this room with his back to a case and a strap round his arm and the only thing either of us has done this morning is stand where we stand, and if I open my mouth in the next hour then that is the one time out of two years, and I am not going to spend the whole of the two years on it.
+And he is at that end of this room with his back to a case and a strap round his arm and the only thing either of us has done this morning is stand where we stand, and if I open my mouth in the next hour then that is the one time out of two years, and I am not going to spend the whole of the two years on it.
 
 ---
 
