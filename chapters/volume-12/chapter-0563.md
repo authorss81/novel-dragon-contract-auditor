@@ -56,7 +56,7 @@ And where she set it down, the top of every sheet in it was under about a foot o
 He had read the top of about a fortnight of them and found nothing and given it up, and he could have gone back to it that morning in about as long as it takes to lift a corner.
 
 She had put it down where a person could not get at the top of it without moving work that was not his, and she had done it walking, and she had not looked at him and she had not said one word, and there is no form anywhere in this city in which a girl of seventeen is entered as the one who put an armful down where a person could not reach the top of it.
-An armful of sheets is about as much as a person of seventeen can hold and still turn in a bay of nine foot by eleven, and she had turned in it that week with one, and he watched her do it out of the corner of his eye without moving his head, which is a thing a person does when another person is about nine foot off.
+An armful of sheets is about as much as a person of seventeen can hold and still turn in a bay of nine foot by eleven, and she had turned in it that week with one, and he watched her do it out of the corner of his eye without moving his head, which is a thing a person does at the far end of a bench and goes on doing what he was on.
 
 ---
 

@@ -22,7 +22,7 @@ She went down the length of that floor.
 It is about ninety foot from the back of that bay to the front of that bench and she did it at the rate she walks, which is not fast, and the chain went along under a hand that has been on it eleven years and did not stop once for her.
 
 She put the flat of her hand on the wood at the front of that bench and kept it there.
-The wood at the front of the bench is about the width of a hand and it is cold at that hour, and she kept her hand flat on the wood and off the chain and on the wood and off it, at the rate the chain was going, and never once let it stay on the chain. That is a thing about a hand and not about a person. She has worked out that a foreman of fifty-one who lays her hand on the front of a bay is a foreman who wants somebody to look up, and there is no looking up in that shed at that hour and has not been for eleven years.
+The wood at the front of it is about the width of a hand and it is cold at that hour, and there is nothing else along the front of the bench for a hand to be put on, and there was nobody at the far end of it to put a hand where somebody could have seen it. That is a thing about a hand and not about a person. She has worked out that a foreman of fifty-one at the front of a bay is a foreman who wants somebody to look up, and there is no looking up in that shed at that hour and has not been for eleven years.
 
 She had not wanted to do it. She has worked out in about as long as it takes a brush on boards that the only reason she went down that floor was to be able to say that she had gone down it, and there is nothing at the front of that bench to say to.
 
@@ -48,7 +48,7 @@ A fortnight of standing at the back of that bay had got her down to the whole of
 She put it there and she went and stood at the back of that bay.
 
 The girl came along that bench at the ordinary rate, and she did not stop at the far end of it, and she did not look down at it, and she carried it on the nine foot to the end by the door and set it down on top of what she was already working and squared it with the heel of her hand.
-She was fifty-one and she had put a bundle at the far end of the bench with her own two hands at about the fourth hour, and it is the only thing she has put in that girl's reach in about two months and there is not going to be another one this week whatever it does.
+From the back of the bay the far end of the bench is too far off to see what is on it, and a bundle going the length of a bay without stopping is a thing a person hears rather than a thing a person sees, and she had been listening for it and had not heard it stop.
 
 ---
 
@@ -59,4 +59,4 @@ She is not going to ask. There is nothing to ask with. A foreman of a shed is no
 Nobody has put one question to that girl in about a year and nobody is going to put one to her in this month either, and carrying a bundle past where it was put is not a thing anybody is going to thank a girl of seventeen for, and nobody is going to be sent for.
 
 The reader at the far end of that bench went on with what he was on and read nothing at all, and a reader of seventeen who can take the sense out of a page is not among the four in this matter who cannot, and nobody in that shed has ever had cause to find out.
-She is going to go down the floor again in about a fortnight and there will be nothing at the far end of the bench for her to go down it for, and she has worked out that a foreman who walks ninety foot down her own floor for nothing is a foreman who has decided to walk ninety foot down her own floor for nothing, and there is no form for it. Nobody in the shed has said a word to her about any part of it, and none of the fourteen mornings she has spent at the front of that bench is going to be the one somebody thanks her for, and she is not going to put a heading over any of it.
+She is going to go down the floor again in about a fortnight and there will be nothing at the far end of the bench for her to go down it for, and a foreman who walks the length of her own floor for nothing is a foreman who has decided to walk it for nothing, and there is no form for it. Nobody in the shed has said a word to her about any part of it, and no morning at the front of the bench is going to be the one somebody thanks her for, and she is not going to put a heading over any of it.
