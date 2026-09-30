@@ -2,7 +2,7 @@
 
 That tin has been standing on those flags about nine foot off that bar since two people each moved it, and this month the man in the felt apron put it back in the place he took it out of, and neither of them has opened it.
 
-It is the second day of the third week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the second hour and about the sixth.
+It is the second day of the first week of the eighth month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the second hour and about the sixth.
 
 ---
 

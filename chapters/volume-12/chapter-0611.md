@@ -58,8 +58,8 @@ I have spent twenty years being the cheapest person in this house and I have bee
 
 And nobody in this house is going to be told that I refused it. She came down that lane and put it there and she has gone out at the front door and she is not going to come back for it, because she has worked out in about a week what I am, and she is a person who works things out at the ordinary hour and in the ordinary way and does not say so.
 
-There is a man on the floor above the second of those stairs whose door has been standing open about a hand's width for five weeks now, and he is not coming down those stairs, and neither of those two facts is going to be mentioned to either of us.
+There is a man on the floor above the second of those stairs whose door has been standing open about a hand's width for eight weeks now, and he is not coming down those stairs, and neither of those two facts is going to be mentioned to either of us.
 
 ---
 
-The cloth comes down those boards from the near end and the tin is on the top step with about nine years of one man's rent in it, and the sheet is lying beside the tin squared against the nosing, and it is four days before she gets to that turn with the cloth in her hand.
+The cloth comes down those boards from the near end and the tin is on the top step with about nine years of one man's rent in it, and the sheet is lying beside the tin squared against the nosing, and it is two days before she gets to that turn with the cloth in her hand.

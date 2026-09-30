@@ -2,7 +2,7 @@
 
 He had not been at the top of those four flights in about two years and this morning he went up them, and there was no errand at the top of them and nobody had sent him.
 
-It is the fourth day of the fourth week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the first hour and about the third.
+It is the fourth day of the fourth week of the eighth month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the first hour and about the third.
 
 ---
 

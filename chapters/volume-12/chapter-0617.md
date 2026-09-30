@@ -2,7 +2,7 @@
 
 That count has been short twice a week for about six weeks and it is two out this week, and the sheet that came down the lane on the ordinary morning has a space at the foot of it for the name of the person who counted, and the foreman of fifty-one put the number in and left the space empty.
 
-It is the fourth day of the fourth week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the fourth hour.
+It is the fourth day of the third week of the eighth month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the fourth hour.
 
 ---
 
@@ -36,7 +36,7 @@ She wrote the number in the line with the flat of the nib and then she put the n
 
 ---
 
-**There is one place in this shed where a thing was said out loud about a girl, and it is the far end of that bench, and I said it myself in the third week of the seventh month and there were two people in this bay and neither of them turned round.**
+**There is one place in this shed where a thing was said out loud about a girl, and it is the far end of that bench, and I said it myself in the third week of the third month and there were two people in this bay and neither of them turned round.**
 
 A foreman who walks down to the far end of that bench to count armfuls is a foreman who has decided to look at that end. That is the whole of what it is and there is no way of doing the counting from ninety foot off. The number is either right or it is two out, and I know which one it is and I know it is the boy.
 

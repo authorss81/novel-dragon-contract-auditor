@@ -2,11 +2,11 @@
 
 Two sheets were on that table at about the fourth hour and neither of them has a heading on it, and the last line of each of them was left empty on purpose.
 
-It is the second day of the first week of the eighth month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the second hour and about the fifth.
+It is the second day of the first week of the ninth month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the second hour and about the fifth.
 
 ---
 
-That table is eleven foot by six and the bed is against the wall and is not made up, and the chair has not moved off the spot a man dragged it to a spring that is gone, facing four feet of plaster with its back to that window, and the stool is back against the wall and the catch on that window is still turned. There is a jug on that table with about two inches of water in the bottom of it that has been standing five weeks. That table has a sheet of paper on it that has been on it five weeks, and across the head of that sheet there is a printed strip with four short things set along the top of the strip, and not one of the four is a name, and there is nothing else on it. The door stands open about a hand's width. The coat is on a nail that went in crooked about the height of a hand.
+That table is eleven foot by six and the bed is against the wall and is not made up, and the chair has not moved off the spot a man dragged it to a spring that is gone, facing four feet of plaster with its back to that window, and the stool is back against the wall and the catch on that window is still turned. There is a jug on that table with about two inches of water in the bottom of it that has been standing twelve weeks. That table has a sheet of paper on it that has been on it eleven weeks, and across the head of that sheet there is a printed strip with four short things set along the top of the strip, and not one of the four is a name, and there is nothing else on it. The door stands open about a hand's width. The coat is on a nail that went in crooked about the height of a hand.
 
 ---
 
@@ -16,7 +16,7 @@ She came up those four flights with the second of her own two sheets in the fron
 
 "There is."
 
-"It has been on that table five weeks and you have not said one word about it, and I have come up that stair two hundred and some times, and this is the first time either of us has said one word about it."
+"It has been on that table eleven weeks and you have not said one word about it, and I have come up that stair two hundred and some times, and this is the first time either of us has said one word about it."
 
 "It has not moved."
 
@@ -30,11 +30,11 @@ I am not going to put a heading on it and I am not going to put a date on it, an
 
 ---
 
-"There are four rooms in this house that go by the week and there is a girl in the back room into her second season, and there is a book of my own hand with four headings over four columns in it, and there has been a fifth heading standing in that book for nine years that has never once been ruled, and there is an undertaking I made two years ago that has never been brought into use and has never been given up. That is what is mine. There is one thing about me that I have not said out loud to anybody in this building and I am not going to say it this month, and that is not one of the things you are getting this afternoon, and I am not going to be asked about it and you are not going to ask me."
+"There is a case at the near end of those boards and about four hundred blanks a year come out of it, and a copy is made at the same counter for fourpence, and there is a printed strip along the head of every one of them with four things set across the top of that strip and not one of the four is a name, and the lines go into a book that is kept a year and then a year. I have been at that end of those boards two years and I came in twenty minutes early every working morning of them and there is an undertaking I made two years ago that has never been brought into use and has never been given up. That is what is mine. There is one thing about me that I have not said out loud to anybody in this building and I am not going to say it this month, and that is not one of the things you are getting this afternoon, and I am not going to be asked about it and you are not going to ask me."
 
 "I am not going to ask you."
 
-"I have not been asked by anybody in nine years and I am not starting on a working afternoon."
+"I have not been asked by anybody in two years and I am not starting on a working afternoon."
 
 And then he said his, and it took about as long as it takes to put a coin down.
 
@@ -42,13 +42,13 @@ And then he said his, and it took about as long as it takes to put a coin down.
 
 ---
 
-She put the two sheets down side by side on that table and squared them and they do not agree with one another in any line, and on each of them the fourth heading is a line with nothing under it and the fifth heading is not there at all.
+She put the two sheets down side by side on that table and squared them and they do not agree with one another in any line, and along the top of each of them there is that printed strip with the four things set across it and not one of the four is a name, and under the last of the four on each of them there is a line with nothing in it, and there is no fifth thing on either of them.
 
-"I did not write a fifth heading."
+"I did not put a fifth thing on that strip."
 
 "No."
 
-"That is on purpose and I would like it noticed that it is on purpose and not left over. A heading with nothing under it is a thing you can put a name in in nine years' time. There is nowhere in this city to write one, so there is no fifth heading, and whatever is not written on these two sheets is not on them."
+"That is on purpose and I would like it noticed that it is on purpose and not left over. Those four things are the same four things and they are set on every one of the about four hundred that come out of that case in a year, and there has never been a fifth one on any of them and there is nowhere in this city to print one, so there is no fifth thing on either of those two sheets, and whatever is not written on them is not on them."
 
 "That is the whole of it, then."
 
@@ -60,11 +60,13 @@ She put the two sheets down side by side on that table and squared them and they
 
 Nothing is registered. That is the honest shape of it. Two sheets of the same stock as the one lying in the middle of this table, at fourpence a piece, made at a counter at the top of four flights by a person who makes about four hundred of them a year and who came up here on the ordinary morning and carried one in her own apron. There is no form in nine hundred buildings that would enter either of us as the one who said a thing in a room, or as the one who did not, and there is no heading over either sheet, and no date on either sheet.
 
-The fourth line of each of them is empty on purpose, and the woman at the end of this floor with a pail in her hand stood in this room for the whole of it and is not going to be told what was said and is not going to repeat one word of it and is not going to be thanked for standing there.
+On each of the two there is a line with nothing in it under the last of those four printed things, and that is on purpose, and neither of us has put a word on any line of either of them.
+
+The woman at the end of this floor with a pail in her hand stood in this room for the whole of it and is not going to be told what was said and is not going to repeat one word of it and is not going to be thanked for standing there.
 
 And I have to go on being a man nobody can show having been near anything, in a city of about nine hundred buildings, and so does she, and neither of us got out of this afternoon cheaper than the other.
 
-I am not going to be told about it by anybody, and I am not going to say the thing I have had ready, and it will still be there tomorrow, and she will still have a line under her fourth heading with nothing in it that nobody in this city will ever be able to put anything in.
+I am not going to be told about it by anybody, and I am not going to say the thing I have had ready, and it will still be there tomorrow, and she will still have a line with nothing in it under the last of those four things, and there is nowhere in this city to print a fifth one, and that is going to be true after both of us are out of that room.
 
 ---
 

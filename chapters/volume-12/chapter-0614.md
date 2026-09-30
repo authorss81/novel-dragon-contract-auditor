@@ -2,7 +2,7 @@
 
 The second of that week's minutes has to go down that lane in a hand before the end of the week, and the man at that sill signs about nine hundred sheets a year and did not put his other hand to that one.
 
-It is the fourth day of the second week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the fifth hour.
+It is the fourth day of the fourth week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the fifth hour.
 
 ---
 

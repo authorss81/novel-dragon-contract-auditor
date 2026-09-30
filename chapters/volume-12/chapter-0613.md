@@ -2,7 +2,7 @@
 
 A sheet that has been in that shelf since before the spring that is gone came out of it this morning, and she has made a second of it, and there is nothing on the second of it at all.
 
-It is the fourth day of the second week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the first hour and about the fourth.
+It is the fourth day of the third week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is between the first hour and about the fourth.
 
 ---
 

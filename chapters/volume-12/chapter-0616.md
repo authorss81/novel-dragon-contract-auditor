@@ -2,11 +2,11 @@
 
 He had not put a hand into that coat since the morning he took the sheet out of it and left the other one where it was, and this morning he took the other one out, and he did not touch the sheet.
 
-It is the second day of the third week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the third hour.
+It is the second day of the second week of the eighth month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the third hour.
 
 ---
 
-That coat is on a nail that went in crooked about the height of a hand, in the middle of about four feet of plaster, and it has been on that nail about two years. Its inside pocket carries two things either side of one seam and the seam has not been opened in about two years either. There is a jug on that table a foot back from the edge with about two inches of water in it that has been standing four weeks, and a sheet of paper lying in the middle of that table with a strip of printing across the head of it carrying four short things along the top of that strip. The catch on that window is still turned. The door stands open about a hand's width.
+That coat is on a nail that went in crooked about the height of a hand, in the middle of about four feet of plaster, and it has been on that nail about two years. Its inside pocket carries two things either side of one seam and the seam has not been opened in about two years either. There is a jug on that table a foot back from the edge with about two inches of water in it that has been standing nine weeks, and a sheet of paper lying in the middle of that table with a strip of printing across the head of it carrying four short things along the top of that strip. The catch on that window is still turned. The door stands open about a hand's width.
 
 ---
 

@@ -1,8 +1,8 @@
 # Chapter 0612: The Room Taken By The Week, And A Jug Neither Of Them Has Emptied
 
-She carried that jug out to the pail at the end of that landing and filled it and brought it back in four weeks ago, and this morning she came up at the first hour and did not come up at the fourth, and neither of them has emptied it since.
+She carried that jug out to the pail at the end of that landing and filled it and brought it back in five weeks ago, and this morning she came up at the first hour and did not come up at the fourth, and neither of them has emptied it since.
 
-It is the second day of the first week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the third hour.
+It is the second day of the second week of the seventh month of the year after the year after the year after the year after the year after the year after the year after the year after the year after next, and it is about the third hour.
 
 ---
 
@@ -12,7 +12,7 @@ The jug is about a foot back from that edge with about two inches of water in th
 
 ---
 
-"That water has been standing four weeks."
+"That water has been standing five weeks."
 
 "It has."
 
@@ -38,7 +38,7 @@ She came the length of that floor and stopped at the near side of that table and
 
 "You have been in this room with a thing on that table for four weeks and you have not said one word about it, and I have not asked, and that has been the arrangement of this room for as long as there has been an arrangement in it."
 
-"There has not been an arrangement in it for four weeks. There has been a jug."
+"There has not been an arrangement in it for five weeks. There has been a jug."
 
 "There has been a jug and a sheet of paper and a door that is open, and I would like one of those three explained, and I am not going to ask, and you can decide for yourself what to do with that."
 
@@ -70,4 +70,4 @@ And she went out through that door and went down past the second tread, and ther
 
 ---
 
-There is about two inches of water in that jug and it has been four weeks, and it will be five weeks tomorrow at the first hour, and both of them will be in that room looking at it.
+There is about two inches of water in that jug and it has been five weeks, and it will be six weeks tomorrow at the first hour, and both of them will be in that room looking at it.
