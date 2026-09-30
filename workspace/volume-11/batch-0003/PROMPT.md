@@ -1,3 +1,5 @@
+Retired phase. This phase's work is finished prose and is on the page: Chapters 0511 to 0520, in `chapters/volume-11/`, 13,608 words across ten files. Volume 11 is closed at Chapter 0550 and `workspace/volume-11/volume-close/` carries its `.done`. This prompt stayed selectable after its backoff expired, and both selectors in `scripts/novel_runner.sh` and `.github/workflows/novels.yml` offered it ahead of every phase in Volume 12, which would have had the next dispatch begin Chapter 0511 and overwrite ten finished chapters of a closed volume. Retired by the review repair of `workspace/volume-12/batch-0003/` on 2026-09-30, by adding this line and nothing else: the body below is unchanged and is not deleted anywhere. The reason is recorded in `state/current.md` and in `state/batch-summary.md`. Do not write these chapters.
+
 # SCOPE OF THIS RUN - READ FIRST
 
 **This run writes Chapters 521 to 525 and nothing else.**
