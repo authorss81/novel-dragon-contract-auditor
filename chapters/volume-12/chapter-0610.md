@@ -12,7 +12,7 @@ Three keys hang on a board by that front door and not one of them has a name on 
 
 The marks on those boards were put there by the woman at the foot of that stair. They run from the turn end toward the near end, about two inches apart, made with the edge of a boot heel over some number of years, and they are the only thing in that passage that is not nine years old or twenty years old, and the tin is at the far end of them and the boards are wet along the line where the cloth stops.
 
-She has been at the foot of that stair about twenty years. Her boots have never been on anything above the second tread, and the second tread is the highest thing her feet have ever reached, and she is fifty-one and there is nobody in this house who could say that out loud with any confidence, because there is nobody in this house who has ever asked her.
+She has been at the foot of that stair about twenty years. Her boots have never been on anything above the second tread, and the second tread is the highest thing her feet have ever reached, and there is nobody in this house who could say how old she is out loud, because there is nobody in this house who has ever asked her.
 
 ---
 
@@ -46,15 +46,11 @@ And on the second tread it is a place. A place is a thing a person cannot be sho
 
 He would have to come down that stair to get it.
 
----
-
 He came down those stairs twice in about two years. I know that because I am at the bottom of them twice a day, and the second time was about six months after the first, and both times he came down at an hour when the house was empty and both times he went along that passage in the dark and did not touch the boards. He has told nobody in this house that he came down either time. I am not going to be the person who tells him I know, and I am not going to tell anybody else, and there is nothing in nine hundred buildings that takes a woman for a stair that stayed quiet at four in the morning.
 
 He has said out loud that there is not going to be a third.
 
 And his door has been standing open a hand's width for a fortnight now, and I found that out because the light comes under it at the fourth hour and the stair is at the end of my own front room. I could put my hand flat on that door at the fourth hour and feel the draught off it. I have not done that and I am not going to.
-
----
 
 She stood at the foot of my stair and she did not come up.
 
@@ -66,6 +62,6 @@ Fifty weeks. She has come down that lane fifty times with something to say and s
 
 ---
 
-The cloth comes down those boards from the near end. I get to the turn about the fourth day of a week, and on this morning I got there, and the second tread is at the far end of the run and I went up it on my knees with the cloth, which is not the same as standing on it, and I put the cloth over the tread and the coin under the cloth came away under the cloth.
+The cloth comes down those boards from the near end and she gets to that turn about the fourth day of a week, and this morning was the fourth day of it. She went up the second tread of that stair once at the start of the morning and she did not go up it again after that, and the boards from the near end to where the cloth stopped were dry and the rest of them were not.
 
 About nine years of one man's rent is on the top step and it is staying there. There is a door on the floor above that stair with nothing under it for the fifth week, and there is a coin on the second tread of that stair about the middle of the tread, and the marks on the boards run from the turn end toward the near end about two inches apart, and the whole of that passage can be seen from the step at the front door, and this morning there was one woman in it and she was on her knees.

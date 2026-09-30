@@ -54,7 +54,7 @@ She had not gone out of the front door yet.
 
 "Then it can go soft on my step, and you can come down this lane in a wet week and look at it, and neither of us will have said one word about it."
 
-She stood in that doorway about as long as it takes to fold a cloth once. Then she went out at it, and the door shut, and I stood in that passage with the cloth in my hand and a sheet of paper nine foot above my head that I was not going to be allowed to touch.
+She stood in that doorway about as long as it takes to fold a cloth once. Then she went out at it, and the door shut, and the woman with the cloth stood in that passage with it in her hand and a sheet of paper nine foot above her head that she was not going to be allowed to touch.
 
 ---
 
@@ -68,4 +68,4 @@ And she has been down that lane fifty-one times with something to say, and she h
 
 ---
 
-The cloth comes down those boards from the near end and I was two days short of that turn with it in my hand. The tin is on the top step with about nine years of one man's rent in it, and the sheet is lying beside the tin squared against the nosing with the fold along the top of it, and it is going to go soft along that fold in a wet week if the wet week comes before I do.
+The cloth comes down those boards from the near end and she was two days short of that turn with it in her hand. The tin is on the top step with about nine years of one man's rent in it, and the sheet is lying beside the tin squared against the nosing with the fold along the top of it, and it is going to go soft along that fold in a wet week if the wet week comes before she gets to that turn.
