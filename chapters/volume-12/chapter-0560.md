@@ -18,6 +18,8 @@ She cannot put those two in one place, and she has known that since about the fo
 
 She went down the lane at about the third hour with the book shut under her arm, the way it has been shut since the fourth day somebody else shut it on her table without saying a word.
 
+It is shut because somebody else shut it, and nothing separates that from the way it used to be carried down there, and she has not opened it on the step and she has not opened it on the lane, and it goes down there shut every week of her own work.
+
 "The lid is straight."
 
 "It is straight."
@@ -27,6 +29,8 @@ She went down the lane at about the third hour with the book shut under her arm,
 "There is nothing crooked about it."
 
 That is the whole of what either of them said on that lane that morning and it is the fourth week in a row of it and neither of them has asked the other one anything and there is nowhere standing on that lane at which either of them could.
+
+They said it in the passage at the front of the ground floor with the cloth marks on the boards going the whole length of the front and the tin standing on the top step at the turn behind them. The passage is about as long as a table and the two of them were at the near end of it with the light off the lane in one run along the boards and both of them standing inside it.
 
 The woman of about thirty-five went up the lane with the book under her arm and did not stop on the step.
 
@@ -38,13 +42,19 @@ She went into it the first time about a fortnight ago and stood in the doorway a
 
 That is what she has got and it is not nothing. It is nine times and two things.
 
+Nine times is not a great many and two things is not a great deal, and she has kept a count of both of them because she keeps a count of everything, and there is no column in her own book for either number, and the four that are ruled have nothing whatever to do with a room at the back of her own house.
+
 She is thirty-five. She keeps four rooms by the week in that house and a book in her own hand. There is a room at the back of her own house and there is a column in her own book, and she has said out loud that she is not going to do either of them, and she is not.
+
+Her own front room has a table in it and the books are stacked on the table, and the four headings standing over the four columns are in her own hand on the top one of them, and a person going from the books to the back of her own house goes through the whole of it and does not come out into anybody else's.
 
 ---
 
 This morning she went in and stood in the middle of it.
 
 A room standing empty since before the spring is about as big as two of the rooms she lets, and there is nothing in it but a floor and a window and a door, and she stood in the middle of that floor for about as long as it takes to write a day down.
+
+There is a catch on the window and she has never once turned it, and the weather goes over the sill of it the whole year the same as it goes over every other sill in the house. She shuts the door of the room behind her when she comes out of it, and she goes on shutting it, and the window has been doing whatever it does on every working morning of the whole time she has been leaving it alone.
 
 And she worked out, standing there, the thing she has been walking towards for nine years without knowing she was walking towards it.
 
@@ -55,6 +65,8 @@ If she put those two things in one place, that place would be a heading. And a h
 **I have said that two of the things I am not going to do are the same kind of thing, and I have never once said why. The why is that a heading over two refusals is a heading over every refusal in this empire that has not been made yet, and I do not have a say in any of those. Not one of those has ever been put in front of me and been thanked for, and that is where a refusal goes when it is not a column, and that is nowhere.**
 
 She put the second thing down where the first one was and she came out and she shut the door.
+
+The door took it the way a door does. She stood on the boards outside it with her hand still on the latch and then she took her hand off it, and she could not afterwards have told anybody what she had been doing in there, and she is thirty-five and she has been not doing a thing since she was twenty-six, and nobody is going to be thanked for any part of it.
 
 ---
 

@@ -14,6 +14,8 @@ Nine hundred of those sheets go out of that building in a year and every one of 
 
 He is not one of the four who cannot make sense of a paragraph. Neither is the woman of fifty-three at the back of that floor, and the reader at the end of a lane nine miles off is not one of them either, and none of those four has ever been asked one question about a number and none of them is going to be.
 
+The floor is one corridor about as long as a table, with a sill about four feet long running along the near side of it, the stone at the height of a forearm where a man sits at the near end, and nineteen years of that man worn into a hollow in the seat of the bench. The run begins at a wall the daylight just gets over, and on the far side of that wall the light stands a foot lower than it does on the near side of it, so a person at the near end of the sill is in one brightness and a person four foot off from her is in another, and the whole of the light in it comes in from one end.
+
 ---
 
 She had worked the second half of it out standing at that sill about a fortnight ago, and it took her about as long as it takes an armful to go down a corridor.
@@ -25,6 +27,8 @@ That is all it is. It is not a trade and it is not a favour and it is not going 
 She had been not being asked since she came there and she had let that go in a month that is gone.
 
 So she stopped going into the room at the back of that floor, and she went on carrying the armfuls past that sill about forty times in each direction in every working day, and nothing in that building was different by it.
+
+She has carried armfuls past the sill for four years and she does it the way a body goes round a corner it has gone round every working day of its life, and neither the carrying nor the corner is a thing she has chosen to be doing. She came along the run this morning with the day's sheets against her hip and she had the whole of the corridor to do and nothing at the end of it that would stop her, which is a thing she has worked out about a fortnight and has not said to anybody.
 
 ---
 
@@ -42,13 +46,19 @@ The woman of fifty-three was in there. She is fifty-three and she keeps those mi
 
 She did it the way it is done.
 
+The room has one table in it at the far end under the window and the door propped off its frame, and the weather comes over a sill about two foot wide and takes the paper on the shelf straight on. The woman of fifty-three kept on with her own hand and did not put her pen down, and the girl of nineteen stood four foot off her with the armful in her arms and wrote a week out of the older one and read it back against it, and the two of them went on with their own hands.
+
 ---
 
 There is about four feet between the table and the shelf, and the shelf is under a window about two foot wide that has had no pane in it for about four years and takes the weather straight on, and the paper on that shelf has gone the colour of the stone.
 
 There is one thing on it and there has been one thing on it for about eleven years and nobody in that building has ever taken it up.
 
+It is a piece of paper, and it carries a question that does not finish, with her own name written under it in her own hand, and there is no full stop at the end of it, and the dust on the board it stands on has been going up against the edges of it for eleven years, and the weather on the sill above has been going over the whole of it the whole way through.
+
 She was in that room with the woman of fifty-three about four foot off her and she looked at it for about as long as it takes to write a day down, and she did not touch it, and she was not asked about it, and she is not going to be asked about it and would not answer if she were, which is a thing she worked out in about two seconds flat.
+
+Four feet is far enough away to have read a thing and near enough that a person coming into the room would have had her standing in there with it, and she had about as long as it takes to write a day down in which to work out that both of those were the same problem.
 
 If she touched it she would be a person who had read it. If she did not touch it she would be a person who had stood next to it. Neither of those is a thing that can be put anywhere and both of them are the same absence, and she has worked out in the month she has been in that building that the cheapest thing in any building is to be nobody in particular, and she was somebody in particular in that room for about as long as it takes to write a day down and she cannot get it back.
 
@@ -63,5 +73,7 @@ She did that on purpose and she stood there afterwards with her hand flat on the
 She did not tell the woman of fifty-three any of that and she is not going to and she is not going to be thanked for it.
 
 The minutes went in and the pen went back into the tin and the sill went on being a sill, and the woman of fifty-three kept on writing.
+
+She went out into the corridor with her hands the way she came in with them and she did not slow down at the end of the sill, and the weather going over the stone was the same weather as every other morning, and she had not touched it and she had not taken anything off it, and she has not worked out yet what the going in was for.
 
 The door of that room has been standing open about nine mornings out of twelve for a fortnight and about one person has come through it in that time. That one person is nineteen, and she went back down that corridor at the same speed she came up it, and she did not take anything off that shelf. Nobody in that building is going to be told she was in there and she is not going to be asked about it and she would not answer it if she were.

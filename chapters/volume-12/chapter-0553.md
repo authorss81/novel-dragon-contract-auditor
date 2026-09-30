@@ -8,6 +8,8 @@ It is the fourth day of the third week of the fourth month of the year after the
 
 It has four headings over four columns in it in her own hand and the fifth has never been ruled. Nine years. She has never taken a pen to that page to do it and she is not going to and she said so out loud once, in a room, to a person who is not going to be told she said it.
 
+The headings are in her own hand and not printed, and the four columns under them are ruled in the same ink and go down the page side by side, and there is nothing else on it but four columns and a day down each of them. She puts the day down and reads the week back against it, and the whole business takes about as long as squaring one sheet, and she has opened at the same place first on every working morning of nine years.
+
 What is in those four columns is four rooms going by the week in a house of hers and what goes in and out of them, and there has been a fifth thing in that house since before the spring that she has not let and has not entered and is not going to.
 
 Those two are the same kind of thing. There is no form anywhere in this empire that will take a room standing empty and a column not ruled under one heading, and a heading is the only thing in this matter that can put two things together, and she has spent nine years finding that out by not doing it.
@@ -16,7 +18,11 @@ Those two are the same kind of thing. There is no form anywhere in this empire t
 
 The woman at the bottom of that stair has been at the bottom of it for about twenty years. She has never once gone above the second of those stairs. She takes a rent in coin once a week out of a hand and into her own and has never given anybody a receipt for anything in the whole of it.
 
+Her work in the house goes the length of the passage and no further, and it is done with a cloth and a rag, and the boards are the only thing in the building anybody has ever seen her do anything to. She has been at the bottom of the stair since before the tin on the step was put where it stands today, and she has not been up it once, and there is no more of her in the house this morning than there was last week.
+
 There is a tin on the top step at the turn with the lid crooked on it and there is about nine foot of bare board by that door with an empty nail in the middle of it. Neither of those is a thing either of them has ever mentioned to anybody, and a number cut into the back of a key is the only thing that house has ever said about anybody sleeping in it.
+
+The passage goes straight ahead from the front step of the house to the end of it, and then there are two steps and a turn, and the light comes in off the lane at the near end and lays itself down along the boards as far as the turn and stops, so that the whole length of the floor by the door is in it and the two steps are not.
 
 "She has left it open again."
 
@@ -44,6 +50,8 @@ On the second day it was where it had been left.
 
 On the third day the woman at the bottom of that stair stopped on the far side of it for about as long as it takes to put a coin in an apron, and did not touch it, and did not say one word about it, and went on up the passage.
 
+The cleaning on the ground floor is done to the boards and not to anything else, and it is done with a cloth in a long stroke down the length and back again, and the marks it leaves come out of the cloth at about two inches apart and carry on the whole length of the front of the floor, so a person standing on the step below the turn can see the whole run of them from end to end.
+
 Neither of them has been asked anything by the other one about it and neither of them is going to be and there is nowhere in this lane at which either could ask.
 
 ---
@@ -52,6 +60,8 @@ On the fourth day she shut it.
 
 She did it going past and she did it with the flat of her hand on the front board, which closed it without lifting it off the table, and the sound it made was small, and she said nothing and she went on down the passage the way she goes down it every working morning.
 
+A book shut on a table by somebody else is not a thing she has ever done and she did it going past without stopping for it. She had four mornings of leaving it open to set against the few seconds of closing it, and the four mornings take up more of the time than the few seconds do.
+
 A thing that is shut on a table by somebody else is a thing that has been answered. There is no form anywhere in this empire in which a woman of thirty-five can be put as the one whose book was shut, and there is none in which she can be put as the one who wanted it opened. She has not ruled a fifth column in nine years and she did not rule one that morning. She has said out loud that she is not going to, and she was not going to be asked about it then or this week or in any year after this one.
 
 ---
@@ -59,5 +69,7 @@ A thing that is shut on a table by somebody else is a thing that has been answer
 She came down that lane at the fourth hour, and it was shut, and she picked it up.
 
 She did not open it there. She put it under her arm and went back up the lane with it shut, and she did not stop on the step and she did not stop on the lane, and the woman at the bottom of that stair was not in the passage and did not come out and is not going to be told she closed it.
+
+She had the light of the lane on her at the near end of the passage for about as long as squaring one sheet and then she was out of it, and there was nothing at all on the table by the time she was at the top of the lane.
 
 Four mornings of leaving a thing where a person goes is the whole of what that arrangement ever was. It is the only instrument in this matter that needs no maker and no carrier and no price and no form. A refusal is the most repeatable object there is, and this one repeated four times and was picked up zero times, and the fifth column is not ruled and is not going to be ruled this month, and nobody on that lane is going to be thanked for anything that happened on it.

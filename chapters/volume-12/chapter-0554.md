@@ -10,13 +10,21 @@ There has been one plate in that room for about two years. There is a press besi
 
 He does not eat at that table. He stood at it and he has stood at it for about two years and the plate goes on the boards and the cup goes on the boards and he takes them both back to the sink with the same arm, and the other side of that table is a side.
 
+The table is deal and eleven foot by six and its far edge is run up against the wall so that no hand can get round the back of it. A jug stands about a foot back from the near edge with a pale ring inside it about a finger wide where there was water, and dust in the bottom of the jug. The glass lies face up beside it with a corner gone off it and a thread of grey down the side of it, and nobody has wiped the thread and nobody has ever asked after it.
+
 The chair he dragged into the middle of that floor two months ago is still in the middle of it, facing about four feet of plaster with its back to the glass. The stool is against the wall where the stool is. Beside the window there is bare wall with a nail in it driven in crooked about the height of his hand, and his coat has been hanging on that nail for about two years. Two things are in the inside pocket of it, on opposite sides of a seam, and nothing has come out of them in this building or in any other, and no hand in this city has ever been in that coat.
+
+The bed stands along the wall with the blanket shoved up at its head end, which is what a bed looks like when somebody has sat down on the edge of it and thought better of it, and nobody has made the bed since the spring that is gone. The lamp is on the floor where the bed ends with about an inch of wick in it that has never once been lit, and under it there is a dark place on the boards about the size of a hand where somebody got a light off the iron once and gave up. Between the bed and the door the boards have gone down in a place about as long as a man's stride, and nothing in nine hundred buildings is ever going to take a man for how many times he has crossed it.
 
 ---
 
 The catch on that window is turned and the window is shut, and it has been shut for about two years.
 
+Whatever light gets through it arrives as a single shape, sets itself down by the stool, and stays about where it put itself for the rest of the morning. By the third hour it has left the floor and climbed the plaster, and by the fourth it will have worked round on to the wall and off it again, and there is no part of this room standing in the same light twice in a day.
+
 At about the first hour of every working morning there is somebody in the back of the house behind, sweeping a floor, and the sweep stops at the end of that hour, and the two of them are about as close as two people in this city who are not in the same room can be.
+
+He could put a hand round the shape of it without ever having been in the room, and it is the one hour of a working day in which anything at all happens on the other side of the wall behind.
 
 He took the whole of that in about two minutes, standing up, in the last week of the last month. Whatever he says in this room goes out of the window whether the window is open or shut. He has been saying things out loud to this room for about ten years, and he is the only person in this matter who has worked out that he has spent two years shutting the cheapest second hearer in this empire out of a room nobody else holds a key to.
 
@@ -44,11 +52,15 @@ That is what a plate does in a room where nothing is made heat and where nobody 
 
 He has been doing it about four days out of seven. On the other three it is on the table with whatever is on it and he has not worked out the three.
 
+He stands at the table to do it and he does not sit down, and he has the whole length of the room to do it in and uses about as much of it as a man needs. The boards under his feet are the boards he has been standing on for two years, and there is no part of the floor he has not gone over at some hour of a working morning.
+
 ---
 
 At about the first hour a coin came under that door from the woman two floors below, and she puts it in a tin she keeps at the top of the turn, and neither of them has ever said a word to the other about that either.
 
 The stair goes at the sixth hour and comes back at the seventh, and it does not touch his floor, and he hears every foot of it go, the way he hears everything in this building go.
+
+He has never once been out on the stair at the hour it goes, and he knows the two sounds of it going up and coming down, and he has had both of them inside this room for two years without either of them stopping for him at any point in between.
 
 Nothing in this room is ever warm and nothing is ever going to be, and the man who owns it has not come through that door in about two years.
 

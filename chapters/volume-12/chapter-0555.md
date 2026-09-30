@@ -14,11 +14,15 @@ He can make sense of a paragraph. There are four people in this matter who canno
 
 The sheets go down that lane in armfuls and come back at the other end and go on other people's hands and the two of seventeen at the end of that bench have the far end of them, which is where a bundle sits for about as long as it takes a person to look at it.
 
+He is at the end of it where the count is made and it is about four foot of stone standing on two frames, and the wood in the frames is grey in the middle where forearms have gone over it and is dark at both ends. The light off the roof comes down the wall about as high as a hand and stops there, and neither end of the bench is in any of it, so the two people at the two ends of nine foot of stone have never once been in the same light.
+
 There is a strip printed along the top of every one of them and four things printed along the top of that, and not one of the four is anybody's name, and he has read those four things about nine hundred times without once learning anything he did not know in the first week.
 
 What he began doing was reading the top.
 
 Not the work. The head of the sheet, and the date at the head of it, and the line at the top, and whether the two of them belonged to the same job.
+
+He did it without stopping what he was doing with the rest of him, and the only part of his work to alter was one finger turned over on a corner, and after about the first week of the run his hand could find the corner without his looking for it, and he had not once had to stop and go looking.
 
 ---
 
@@ -38,6 +42,8 @@ That is the whole of what was in them. Not one head out of place in about as man
 
 The girl beside him had put the bundle back three feet along that bench twice in a fortnight and neither of them had said one word about it and neither of them was going to.
 
+The far end of the bench and the end by the door are about nine foot apart with nothing at all in between them, and he is at one end of the stone and she is at the other, and neither of them has ever had to speak above the noise the chain makes in order to have a sheet handed along. That is what nine foot of stone in a bay is for.
+
 He had seen her do it. He is at the end of that bench every working day of his life and there is nowhere else for him to look, and he had seen her get her hands under the near edge of it and lift it about four inches and set it down about three feet along, in the middle, where hands go all day, without her face changing.
 
 And he had worked out what that was, at about as fast as it took him to work out the top of the sheets, and what it was is that the woman who puts work at the end of that bench wants the girl to be able to put it back, and the girl is able to put it back, and the woman is going to find out that she can.
@@ -49,5 +55,7 @@ And he worked out then, about a week ago, that he would rather the woman did not
 **A person who reads the top of a sheet is a person somebody could show having read the top of the one before, and there is nowhere to be put back as the one who never did. A reader of seventeen has given up the only thing in that bay that was his own because there was nothing wrong with a single head in about a fortnight of them. The girl beside him is putting a bundle back three feet and he is the only other person in that shed who has seen it and neither of them is going to say one word about it.**
 
 He carried the next armful down that bench at about the same speed as the last one.
+
+There is a paper on a board by the door and it has been on the board longer than he has worked at the far end of the stone, and no pen has ever gone near it, and there is no line of anybody's in it and there never has been. It is on the far side of the nine foot from where he stands, at the end where she works, and he has looked at it about as often as anybody looks at a thing in a room they are working in.
 
 He has not been spoken to this week. He is not going to be thanked for the fortnight and he is not going to be sent for. Nobody in that lane is going to be told that the two people at the end of that bench have both worked out what the other one is doing about a bundle of ordinary work. Neither of them is one of the four who cannot make sense of a paragraph, and the chain went along at the front of that bench the whole of that morning under a hand that had been on it for eleven years and did not stop once for either of them.

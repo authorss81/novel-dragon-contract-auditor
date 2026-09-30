@@ -8,9 +8,13 @@ It is the second day of the second week of the fifth month of the year after the
 
 The gap between the outside of that wall and the back of the house behind it is about as deep as a well is deep, and the light comes up out of the bottom of it on a working morning and goes flat across the floor by about the third hour.
 
+After the third hour there is nothing in the room but the shape of the furniture in it and a grey light on the boards, and the shapes do not move. There is a lamp down on the floor where the bed stops and about an inch of wick in it that nobody has ever lit, and there is no fire in there, and nothing in it is ever going to be warm.
+
 For about two years there has been a person in a back room at the other end of that air sweeping a floor for the first hour of the morning, and no longer than that, and the sound of it is not a sound anybody would describe. It is a brush on boards and it goes at the same rate and it takes about as long as it takes a plate to be washed.
 
 He heard it every working morning and he never once went to the window, and he worked out in the last week of the last month why he had not, and he is not going to open that window and nobody in that house is ever going to be told why.
+
+He has never seen the room and there is no arrangement of any kind in which he would, and there is nobody in this city who comes past that window every working morning of the year who has ever been told he is behind it.
 
 On the first of those two mornings there was no brush. On the second there was no brush.
 
@@ -22,15 +26,21 @@ He can go to the window. That is the one he is not going to do, and there is a r
 
 He can go and knock on a door at the back of that house, which means a street and a name and a question, and he holds nothing, and he goes nowhere, and he is not going to be the first person who asks after the person in the next house.
 
+He does not know what is in the room. He knows a floor gets swept in it, and the person who sweeps it is gone before the light comes flat, and he has never seen so much as the handle of anything through the window, and there is no way in nine hundred buildings to be shown wanting to know more about a room at the back of a house behind than a person is entitled to know about it.
+
 He can wait and find out on the third morning.
 
 And he can do the fourth thing, which is the one he did, and the fourth thing is nothing at all, and nothing at all is the only one of the four there is no form for.
+
+He went through the four of them standing in the middle of the floor and it took about as long as the light takes to come flat across the boards, and his weight went from one foot to the other twice while he did it, and by the end of it he had the same pair of hands he had started with and nothing at all to show for where they had been.
 
 ---
 
 The brush came back at about the first hour on the third morning, at the same rate, for about as long as it takes a plate to be washed.
 
 He was standing at the middle of that floor with his hand not on the catch and he stood there and listened to the whole of it. He had worked out in about a minute that he had been waiting for it since the first hour and had not known that, and that a man who is waiting for a brush on boards through a shut window is a man who is standing in a room with a second person in it.
+
+The catch was where it has always been and his hand was a step away from it the whole of that hour and he knew it without looking, and he did not go across to the window at any point in it, and the whole of what he had in front of him for the whole of it was the middle of a floor. It is the same rate it has gone at for about two years, and it is neither louder nor slower, and a thing that does not change is the only kind of thing a person can be certain of inside a shut window.
 
 Which is the thing he wanted. Which is the only thing he wanted in about ten years, and it had been happening every working morning for about two years on the other side of four foot of air, and he had spent every one of those two years with the catch turned.
 
@@ -49,5 +59,7 @@ A coin came under that door at about the first hour and went into a tin up the t
 Up that stair at the sixth hour and down it at the seventh, and it went past his floor without stopping, and he heard every foot of it, and there are two bare things in that building and neither of them is within anybody's reach.
 
 He did not go to the door at the fifth hour either, when it stopped on the floor below his own for about as long as it takes a coin to be counted twice.
+
+He has been in the room about two years and there is a plate on the other side of a table in it and a catch turned on a window and a lamp with a wick in it on the floor at the end of a bed, and there is nobody in this empire who knows the order of those three things except him, and the order of them has never gone out of this room.
 
 The plate was on the table when he came back to it and it had been there about an hour, and nothing in that room has ever been warm and nothing ever is going to be. He has decided that a plate is a thing that can be washed and put down and left, and nobody in nine hundred buildings is going to be told that there is a second one in that room. He is not going to be thanked for washing it either. The woman at the back of that house went back to sweeping her floor at the same rate she has swept it for about two years, and neither of them ever said one word to the other about a shut window or a plate or a morning.
