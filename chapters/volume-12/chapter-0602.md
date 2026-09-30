@@ -20,7 +20,7 @@ He did not look along nine foot of bench.
 
 ---
 
-**I have been standing at the front of that bench for eleven years and I put one true sentence out loud into this bay in the third week of the seventh month and there were two people in it and neither of them turned round, and one of them was at that end where the count is made. I worked out in a month what that armful had been doing at the other end of those nine feet and I could not put one thing about it into any form in this city, and I walked ninety foot of my own floor about a month ago to stand at that end and I put nothing anywhere.**
+**I have been standing at the front of that bench for eleven years and I put one true sentence out loud into this bay in the third week of the third month and there were two people in it and neither of them turned round, and one of them was at that end where the count is made. I worked out in a month what that armful had been doing at the other end of those nine feet and I could not put one thing about it into any form in this city, and I walked ninety foot of my own floor about a month ago to stand at that end and I put nothing anywhere.**
 
 The count has been short twice a week for about six weeks and the boy at that end has been the one carrying past it. A boy who does that has done it on purpose, and there is no form anywhere in this city that will take him for arranging that nothing should arrive in front of a girl, and nobody in this shed is going to put one word to him about it and nobody in this shed is going to give him anything for it.
 

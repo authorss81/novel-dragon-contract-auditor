@@ -24,7 +24,7 @@ Nothing was put on that bench that morning.
 
 ---
 
-**I said one true thing out loud in this bay in the third week of the seventh month, at the ordinary volume, in the ordinary way, to the boards in front of me, about a girl of seventeen at the end by the door. There were two people in that bay at that hour and neither of them turned round, and one of them was at the far end of that bench where the count is made.**
+**I said one true thing out loud in this bay in the third week of the third month, at the ordinary volume, in the ordinary way, to the boards in front of me, about a girl of seventeen at the end by the door. There were two people in that bay at that hour and neither of them turned round, and one of them was at the far end of that bench where the count is made.**
 
 And I have worked out in a month what that armful has been doing at the other end of those nine feet. He has carried every armful past the end of that bench for about a month so that there would be nothing at that end for anybody to put a thing down by, and a boy who does that has done it on purpose. No form anywhere in this city will take a boy of seventeen for having arranged that a thing should not arrive in front of a girl, and nobody in that shed is going to put it to him and nobody is going to give him anything for it.
 
@@ -32,7 +32,7 @@ And the count at his end is short twice a week, and I cannot ask him one thing a
 
 ---
 
-She went back up the ninety foot at the rate she came down it, and she did not stop at the back of that bay on the way, and she has not put a bundle at that end of that bench since the third week of the seventh month and she is not going to.
+She went back up the ninety foot at the rate she came down it, and she did not stop at the back of that bay on the way, and she has not put a bundle at that end of that bench since the third week of the third month and she is not going to.
 
 What she has instead is the ordinaryest thing in that shed and the only one that has ever cost anybody anything: a second pair of ears is the only thing in this empire that can put a sentence into the world without anybody being asked anything, and it costs that person the only thing they had, which is that nobody could ever show them having been anywhere in particular.
 
