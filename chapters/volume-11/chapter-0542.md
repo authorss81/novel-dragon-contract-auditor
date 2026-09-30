@@ -95,4 +95,3 @@ And there is no standing at which either of them can be told about it, and neith
 Dust standing up on stone does not look like much in a working passage until a boot is put down in the middle of it, and then it does. Neither of them was going to say one word about any part of that.
 
 On the last morning of that month he stood on the nine foot of it for the whole of the hour without moving his feet, which is the first time a man has stood still in that passage in about four years. The dust stayed on the stone under him the whole time, and her broom was against the wall by the housing with its handle the other way round from the way she stands it, and neither of the two of them said a word about any of it, and they are not going to say one to each other in this empire.
-
