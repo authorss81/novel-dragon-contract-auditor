@@ -6,13 +6,17 @@ It is the second day of the first week of the fifth month of the year after the 
 
 ---
 
-It is about eleven foot by fourteen. The bed is against the wall and is not made up. The window has its catch turned and has had it turned for about two years, and the stool is under it. The chair is where he dragged it a spring that is gone, its back to that window and its face to four feet of plaster, and the nail is in the middle of those four feet and the coat has been on it about two years. There is a jug on that table with a dry ring inside it and a glass face up beside the jug and one coin about four inches in from the edge of that table, and the coin came out of that door at the first hour about two years ago and it is not going to be spent on anything.
+It is about eleven foot by fourteen. The bed is against the wall and is not made up. The window has its catch turned and has had it turned for about two years, and the stool is under it. The chair is where he dragged it a spring that is gone, its back to that window and its face to four feet of plaster, and the nail is in the middle of those four feet and the coat has been on it about two years. There is a jug on a table with a dry ring inside it and a glass face up beside the jug and one coin about four inches in from the edge of that table, and the coin came out of that door at the first hour about two years ago and it is not going to be spent on anything.
 
-The door stands open about a hand's width. That is the whole of the difference between that room this morning and that room yesterday.
+The latch is an old one and it took him three goes and a knuckle, and the noise it made getting off was worse than the noise it makes going on. There is a hook on the inside of the door at about the height of a man's shoulder and there has not been a coat on it in about two years and there is nothing on it now. He stood with his back to it and his shoulder against the frame, where a man stands who is going to wait and would rather not be seen waiting.
+
+What comes in at a hand's width is a stripe of the landing across the floor, about the thickness of a board, and it lies under the table and across the coin and stops at the wall. Everything else in the room is the same in it as it was the day before.
+
+The door stands open about a hand's width. That is the whole of the difference between the room this morning and the room yesterday.
 
 ---
 
-She has come up that stair at the first hour and about the fourth hour for about seventeen weeks and she has never knocked and she is not going to.
+She has come up the stair at the first hour and about the fourth hour for about seventeen weeks and she has never knocked and she is not going to.
 
 "That door has not been open since before the spring that is gone."
 
@@ -28,18 +32,24 @@ She has come up that stair at the first hour and about the fourth hour for about
 
 ---
 
-She came in and shut it behind her, which put her on the inside of it, and then she stood in the middle of that floor and looked about four feet of plaster and the nail in the middle of it and the coat on the nail.
+She came in and shut it behind her, which put her on the inside of it, and then she stood in the middle of the floor and looked about four feet of plaster and the nail in the middle of it and the coat on the nail.
+
+The room is narrow and she is at the wrong end of it for the coat and she does not go across to the right one. She turns on the spot instead, once, the way anybody turns in a room they have not been in for two years, and reads it off the walls and reads it off the floor, and her eyes come back to the middle of that four feet of plaster and stop there.
 
 She stood in front of that coat.
 
-She did not put a hand out to it and she did not turn round and she did not go near the table, and she stood in front of a coat on a nail for about as long as it takes a coin to go along a floor and stop, and then she went out through that door again and along that passage and down past the second tread, and the stair went quiet behind her.
+She did not put a hand out to it and she did not turn round and she did not go near the table, and she stood in front of a coat on a nail for about as long as it takes a coin to go along a floor and stop, and then she went out through the door again and along the passage and down past the second tread, and the stair went quiet behind her.
 
-**I have been the only person in that room for about two years and that has been the whole of what I have. There is no form in this city that takes a man for a coat on a nail, because a coat is not a thing anybody can be shown having. And there is no form in this city that takes a woman for standing in a room either, and I have just made one of each of us in about a quarter of an hour. The whole of what it has cost is that a person has been in a room with a coat in it and cannot be shown not having been.**
+He stood with his shoulder against the frame and listened to the boards of that landing go quiet the way they go quiet, and he did not go after her down the stair, and the latch stayed off the door he had taken it off about an hour before.
 
-Ten years of being unfindable is never once standing still in a place. That is the whole mechanism and it works and it is cheap and it has never once cost me a thing, because nothing has ever been wanted out of me. And I did not stand still. I took a latch off a door, and a person came in on her own two feet because she has been coming up that stair twice a day for seventeen weeks, and she stood in front of that coat, and now there is a person in this city who can be shown to have been in a room with the two things in it.
+**I have been the only person in the room for about two years and that has been the whole of what I have. There is no form in this city that takes a man for a coat on a nail, because a coat is not a thing anybody can be shown having. And there is no form in this city that takes a woman for standing in a room either, and I have just made one of each of us in about a quarter of an hour. The whole of what it has cost is that a person has been in a room with a coat in it and cannot be shown not having been.**
 
-I wanted a second pair of eyes in that room at that table and what came in behind me was a pair of eyes that went to the wall, and she has been gone down those stairs for about as long as it takes to square a sheet, and I did not say one word, and I am not going to say one word to her about any of it.
+Ten years of being unfindable is never once standing still in a place. That is the whole mechanism and it works and it is cheap and it has never once cost me a thing, because nothing has ever been wanted out of me. And I did not stand still. I took a latch off a door, and a person came in on her own two feet because she has been coming up the stair twice a day for seventeen weeks, and she stood in front of that coat, and now there is a person in this city who can be shown to have been in a room with the two things in it.
+
+I wanted a second pair of eyes in the room at the table and what came in behind me was a pair of eyes that went to the wall, and she has been gone down those stairs for about as long as it takes to square a sheet, and I did not say one word, and I am not going to say one word to her about any of it.
 
 ---
 
 The door stood open about a hand's width for the rest of that week. The coat went back on its nail, and the nail is crooked about the height of a hand, and the two things in the inside pocket of it are on opposite sides of one seam and neither of them has come out.
+
+The stripe of landing lay across that floor all week and it went along as the light went along and it was off the boards again before the end of the afternoon, and the coin lay on the table about four inches in from the edge with the light crossing over it and carrying on. There is not one form in nine hundred buildings in which a man is entered for the width of his own door being open, or for what a woman did when she came through it, or for what she looked at first.
