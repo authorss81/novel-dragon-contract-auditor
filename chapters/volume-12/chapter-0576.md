@@ -10,7 +10,7 @@ Three weeks ago the woman who puts work at that end came down the ninety foot of
 
 He was at the far end of that bench, where the count is made. That bay is about nine foot by eleven. There was nobody else in it.
 
-There is a chain along the front of the whole of that bench and the count for the whole floor is made once a day at the far end of it, and nothing about either of those two things has ever been said out loud in that bay, and the two ends of it have been worked at by two people since before the other of us could reach the top of a stair.
+There is a chain along the front of the whole of that bench and the count for the whole floor is made once a day at the far end of it, and neither of those two things has ever been said out loud in that bay, and the two ends of that bench have been worked at by two people for longer than either of them has been able to say how long.
 
 He is seventeen and there are four people in this matter who cannot get the sense out of a paragraph and he is not one of the four and has not been asked which of anything he is, and nobody in that shed has ever wanted one single thing out of him, and that is the whole of what has ever made him safe.
 

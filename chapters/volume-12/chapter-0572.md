@@ -8,7 +8,7 @@ It is the second day of the second week of the ninth month of the year after the
 
 The lane is about as long as that table and it comes down onto the passage at the step at the front door and the passage runs the same again to the two steps and the turn, and the tin is on the top step at the turn, and the top step is bare.
 
-The tin has stood where it stands for as long as the woman at the foot of the stair has been at the foot of it, which is about twenty years. About nine years of one man's rent went into it, and to this morning it has never been counted, and nothing on paper anywhere in the house records that it is there at all. The lid comes down straight on it every morning, and a lid that comes down straight is one you can put money into without lifting it, which is a thing about a lid and not about a person.
+The tin has stood on that step for as long as the woman who cleans that ground floor has been at the bottom of the stair, which is about twenty years, and it has not been counted, and nothing on paper anywhere in that house has ever had it on it, and the lid comes down straight on it every morning, and a lid that comes down straight is one you can put money into without lifting it, which is a thing about a lid and not about a person.
 
 Her own paper is not on it. She has had it under her arm in a fold since the third week of the seventh month, which is a thing she did on a step and not a thing she has come back for.
 
@@ -50,7 +50,7 @@ The woman at the bottom of that stair came along the back of that ground floor a
 
 She was at the far end of it, past the boiler, where there are more boards, and she worked them there at the rate she works everything, and she came back along the boards and went out at the front door with the cloth, and she was on the step at the front door for about as long as it takes a cloth to be folded once.
 
-The boiler stands at the back of the ground floor and there is a tin behind it with a key in it, and somebody cut a number into the back of it. She did not go into the passage at all to get to the boards back there. She went in at the door at the far end of the run, past that boiler, and she came back the way she went, and the whole of the going was at the back of that ground floor while the front of it stood there with a bloom on it.
+The boiler stands at the back of that ground floor and there is a tin behind it with a key in it and somebody cut a number into the back of that key, and the back of that boiler is as far from the step at the turn as a person can get in that house and still be out of the sight of anybody standing on it, and the whole of the five weeks has been done from there.
 
 She did not come up the two steps. She did not come to the turn. She put her hand on the frame of that door and looked out along the lane and then she went along the passage with the cloth and out, and the sound of that door shut about as long ago as that happens.
 

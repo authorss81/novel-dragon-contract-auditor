@@ -43,6 +43,7 @@ import io
 import json
 import os
 import re
+import subprocess
 import sys
 from collections import defaultdict
 
@@ -316,6 +317,175 @@ def cmd_reprints(args):
         for path, start, end in sorted(prose, key=lambda r: (-(r[2] - r[1])))[:args.show]:
             text = " ".join(corpus[path][2][start:end])
             print(f"  [{end - start}] {name_of[path]}: {text[:200]}")
+
+
+# ---------------------------------------------------------------------------
+# lifts
+# ---------------------------------------------------------------------------
+# `reprints` above answers a different question and the difference is the whole
+# reason this section exists. `reprints` finds runs shared between two files
+# *that are both in the corpus you name*, so a window of twenty words is the
+# smallest thing it can see and any repair written in this project's own idiom
+# returns a clean figure, because the idiom is shared by definition. The prose
+# repair of chapters 0571 to 0580 was checked that way and the check passed
+# while a dozen of its added lines lifted a nine-to-eleven word span verbatim
+# out of a chapter that had already narrated the same fixture.
+#
+# `lifts` asks the other question: for one line of new prose, what is the
+# longest run of words that also stands, contiguously and in that order, in
+# some OTHER chapter? The index is built over every chapter except the ten
+# under repair, so a run has to leave the range to count and a sentence that
+# echoes its own chapter is not a lift.
+#
+# And it prints the volume's own formula baseline beside the added figure,
+# because a bare count is unreadable in a book whose sentence frames are shared
+# on purpose. On the range 0571 to 0580 the original prose carries a mean lift
+# of 9.4 words with 53% of its lines over nine, and prose written in that same
+# register cannot and should not be held to a lower bar than the prose it sits
+# beside. The added lines came in *under* the baseline. The lifts that were
+# real were the ones that re-narrated a fixture canon had already settled, and
+# those are found by reading, not by the threshold.
+
+LIFT_N = 5
+LIFT_CAP = 24
+
+
+def prose_lines(text):
+    """The lines of a chapter that carry prose, in order, with their numbers.
+
+    The heading, the section rules and the date line are out. The date line is
+    out by this module's own DATE_LINE and not by a `startswith("It is ")`, so
+    a chapter that opens its date line differently is still measured the same
+    way as one that does not.
+    """
+    out = []
+    for number, line in enumerate(text.split("\n"), 1):
+        stripped = line.strip()
+        if not stripped or stripped == "---" or stripped.startswith("#"):
+            continue
+        if DATE_LINE.match(line):
+            continue
+        out.append((number, line))
+    return out
+
+
+def build_lift_index(paths, n=LIFT_N):
+    """n-gram -> the chapters holding it, for every chapter named."""
+    index = defaultdict(set)
+    for path in paths:
+        with open(path, encoding="utf-8") as handle:
+            tokens = []
+            for line in handle:
+                stripped = line.strip()
+                if not stripped or stripped == "---" or stripped.startswith("#"):
+                    continue
+                if DATE_LINE.match(line):
+                    continue
+                tokens.extend(TOKEN.findall(line))
+            for i in range(len(tokens) - n + 1):
+                index[" ".join(tokens[i:i + n])].add(path)
+    return index
+
+
+def longest_lift(tokens, index, n=LIFT_N, cap=LIFT_CAP):
+    """The longest contiguous run of `tokens` held by one single other chapter.
+
+    Returns (length, text, path). The run is grown while the set of chapters
+    holding the run so far still intersects the set holding the next n-gram, so
+    the answer is always a run that exists whole in one chapter rather than a
+    run stitched out of several.
+    """
+    best = (0, None, None)
+    for i in range(len(tokens) - n + 1):
+        held = index.get(" ".join(tokens[i:i + n]))
+        if not held:
+            continue
+        source = held
+        j = i + n
+        while j < len(tokens) and (j - i) < cap:
+            nxt = index.get(" ".join(tokens[j - n + 1:j + 1]))
+            if not nxt:
+                break
+            both = held & nxt
+            if not both:
+                break
+            held = both
+            source = both
+            j += 1
+        if (j - i) > best[0]:
+            best = (j - i, " ".join(tokens[i:j]), sorted(source)[0])
+    return best
+
+
+def at_commit(base, path):
+    """The text of `path` at `base`, or None when that commit does not hold it."""
+    proc = subprocess.run(["git", "show", f"{base}:{os.path.relpath(path, ROOT)}"],
+                          capture_output=True, text=True, cwd=ROOT)
+    if proc.returncode != 0:
+        return None
+    return proc.stdout
+
+
+def cmd_lifts(args):
+    files = chapter_files()
+    if args.volume:
+        files = [(v, p) for v, p in files if args.volume in v]
+    if args.first or args.last:
+        lo = args.first or 0
+        hi = args.last or 10 ** 9
+        files = [(v, p) for v, p in files if lo <= chapter_number(p) <= hi]
+    if not files:
+        print("nothing was measured: no chapter matched", file=sys.stderr)
+        return 1
+
+    targets = [p for _v, p in files]
+    others = [p for _v, p in chapter_files() if p not in set(targets)]
+    print(f"range: {len(targets)} chapters; index: {len(others)} chapters "
+          f"(the range is excluded, so a run has to leave it to count)")
+    print(f"longest contiguous run held by one other chapter, n-gram seed {LIFT_N}, "
+          f"cap {LIFT_CAP}")
+
+    added = []   # (path, line number, text) not present at base
+    baseline = []  # (path, line number, text) the base held and the tree still holds
+    for path in targets:
+        current = open(path, encoding="utf-8").read()
+        old = at_commit(args.base, path) if args.base else None
+        if old is None:
+            for number, line in prose_lines(current):
+                added.append((path, number, line))
+            continue
+        old_flat = " ".join(old.split())
+        seen_old = set()
+        for number, line in prose_lines(old):
+            seen_old.add(" ".join(line.split()))
+            baseline.append((path, number, line))
+        for number, line in prose_lines(current):
+            if " ".join(line.split()) not in seen_old:
+                added.append((path, number, line))
+
+    index = build_lift_index(others)
+    report = []
+    for label, rows in (("ADDED", added), ("BASELINE", baseline)):
+        hits = []
+        for path, number, line in rows:
+            tokens = [t.lower() for t in TOKEN.findall(line)]
+            length, text, other = longest_lift(tokens, index)
+            if length >= args.min:
+                hits.append((length, os.path.basename(path), number,
+                             os.path.basename(other) if other else "-", text))
+        hits.sort(key=lambda r: (-r[0], r[1], r[2]))
+        over = sum(1 for h in hits if h[0] >= args.min)
+        mean = (sum(h[0] for h in hits) / len(hits)) if hits else 0.0
+        print(f"  {label:<8} {len(rows):>4} prose lines | >= {args.min} words: {over:>4} "
+              f"| >= 9 words: {sum(1 for h in hits if h[0] >= 9):>3} | mean {mean:.2f}")
+        report.extend((label,) + h for h in hits)
+
+    if args.show:
+        print()
+        shown = [r for r in report if r[0] == "ADDED"][:args.show]
+        for label, length, name, number, other, text in shown:
+            print(f"  {length:>2} w  {name[8:12]}:{number:<3} <- {other[8:12]}  '{text}'")
+    return 0
 
 
 # ---------------------------------------------------------------------------
@@ -594,6 +764,22 @@ PLANTED_SOLO = """# Chapter 9004: Planted D
 the second half of a sentence a foreman of fifty-one began in a doorway about two years ago has still not arrived and nobody on that floor is going to ask her for it
 """
 
+# A thirteen-word span lifted whole out of PLANTED_A into a fifth file, wrapped
+# in different words at both ends. Thirteen is the point: it is under the
+# twenty-word window `reprints` needs and over the five a lift has to be visible
+# at, so the plant is found by one instrument and not by the other, which is the
+# whole reason `lifts` exists.
+PLANTED_LIFT = (
+    "out from behind the near end of them and stood on the counter, and nobody "
+    "in the room looked at it once"
+)
+PLANTED_E = f"""# Chapter 9005: Planted E
+
+{DATE_LINE_SENTENCE}
+
+{PLANTED_LIFT}
+"""
+
 
 def run_quietly(func, args):
     """Call a command function and capture what it prints and what it returns.
@@ -630,7 +816,7 @@ def cmd_selftest(args):
     paths = {}
     try:
         for name, body in (("a", PLANTED_A), ("b", PLANTED_B), ("c", PLANTED_C),
-                           ("d", PLANTED_SOLO)):
+                           ("d", PLANTED_SOLO), ("e", PLANTED_E)):
             paths[name] = os.path.join(tmp_dir, f"chapter-900{name}.md")
             with open(paths[name], "w", encoding="utf-8") as handle:
                 handle.write(body)
@@ -744,6 +930,47 @@ def cmd_selftest(args):
         check("a volume that does match a file exits zero", full_code == 0,
               f"exit {full_code}; it printed {full_out.splitlines()[0]!r}")
 
+        print("plant 10 — a lift is found at a size `reprints` cannot see")
+        lift_index = build_lift_index([paths["a"], paths["b"], paths["c"], paths["d"]])
+        lifted = [t.lower() for t in TOKEN.findall(PLANTED_LIFT)]
+        length, text, other = longest_lift(lifted, lift_index)
+        planted_lift = len(TOKEN.findall(
+            "out from behind the near end of them and stood on the counter"))
+        check("the lifted span is returned at its full length", length == planted_lift,
+              f"longest lift {length} words, the plant is {planted_lift}; '{text}'")
+        check("and it names the chapter it came out of",
+              other is not None and os.path.basename(other) == "chapter-900a.md",
+              f"{os.path.basename(other) if other else None}")
+        pair_lift = load_cached([paths["a"], paths["e"]])
+        rep = shared_runs(pair_lift, 20)
+        rep_prose = [r for r in rep if classify(pair_lift, r) == "prose"]
+        check("the same span is invisible to a twenty-word re-print window",
+              not any((r[2] - r[1]) >= planted_lift for r in rep_prose),
+              f"reprints at 20 words returns {len(rep_prose)} prose run(s) over A and E; "
+              f"the lift is {planted_lift} words and sits under the window, so a repair "
+              f"checked only with reprints passes with the plant standing")
+
+        print("plant 11 — the range under repair is out of its own index")
+        outside = build_lift_index([paths["c"]])
+        run_tokens = [t.lower() for t in TOKEN.findall(PLANTED_RUN)]
+        solo_tokens = [t.lower() for t in TOKEN.findall(PLANTED_SOLO)]
+        inside_zero = longest_lift(run_tokens, outside)[0]
+        check("a run held only by chapters inside the range is not a lift",
+              inside_zero == 0,
+              f"PLANTED_RUN lives in chapter-900a and -900b and the index holds neither, "
+              f"so it returns {inside_zero}; a lift has to reach a chapter the range does "
+              f"not contain, or every chapter lifts from its own neighbour")
+        check("and the same run does lift once a holder is in the index",
+              longest_lift(run_tokens, build_lift_index([paths["a"], paths["c"]]))[0]
+              == min(len(TOKEN.findall(PLANTED_RUN)), LIFT_CAP),
+              f"with chapter-900a in the index the run returns {min(len(TOKEN.findall(PLANTED_RUN)), LIFT_CAP)} "
+              f"words, which is the full {len(TOKEN.findall(PLANTED_RUN))}-word plant at the "
+              f"{LIFT_CAP}-word cap; the zero above is the exclusion and not a broken matcher")
+        check("prose that shares nothing lifts nothing",
+              longest_lift(solo_tokens, outside)[0] == 0,
+              f"{longest_lift(solo_tokens, outside)[0]}; PLANTED_SOLO stands only in "
+              f"chapter-900d, which is not in the index, and a real lift is not a self-match")
+
     finally:
         for path in paths.values():
             if os.path.exists(path):
@@ -783,6 +1010,17 @@ def main():
     p_rep.add_argument("--mode", choices=("date", "terms", "either"), default="either")
     p_rep.add_argument("--show", type=int, default=0)
 
+    p_lift = sub.add_parser("lifts")
+    p_lift.add_argument("--volume", default=None)
+    p_lift.add_argument("--first", type=int, default=None)
+    p_lift.add_argument("--last", type=int, default=None)
+    p_lift.add_argument("--base", default=None,
+                        help="a commit to read the range at; the lines it does not "
+                             "hold are the added ones and the lines it does hold are "
+                             "the volume's own formula baseline")
+    p_lift.add_argument("--min", type=int, default=6)
+    p_lift.add_argument("--show", type=int, default=0)
+
     args = parser.parse_args()
     if args.cmd == "selftest":
         return cmd_selftest(args)
@@ -796,6 +1034,8 @@ def main():
         return cmd_markers(args)
     if args.cmd == "reprints":
         cmd_reprints(args)
+    if args.cmd == "lifts":
+        return cmd_lifts(args)
     return 0
 
 
