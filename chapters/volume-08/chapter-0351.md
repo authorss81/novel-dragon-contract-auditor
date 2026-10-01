@@ -14,7 +14,11 @@ The man of forty came up the four steps on the first morning with the column.
 
 He had it rolled round a stick and he unrolled it on the landing table and put his own book beside it, and the book was the same column three months back, and there was a figure at the foot of the fourth page he put his thumb on.
 
+It came off the stick about a quarter as fast as it went on, the way paper does when it has been round something long enough to have taken a set, and there was a place in the middle of it where the ruled lines crossed each other and came out straighter on one side than on the other.
+
 "The fifth line is the one I am afraid of," he said. "Everything above it is a copy of a copy. That line is mine."
+
+He did not sit down. One chair is on the landing and nobody sits in it, and it was empty the whole time he was up there. He stood at the side of the table with the near end of the paper held down under his own forearm so that it would not curl again, and he shifted his weight once and put it back where it had been.
 
 He said it the way men say a thing they have already said to themselves in the lane on the way up. The clerk read the line. He read it twice, because a fair hand reads a thing slowly the first time and cannot help reading it faster the second.
 
@@ -36,13 +40,19 @@ This week there is a sheet. It is eight hours of fair-hand work at a rate that i
 
 The column does not agree with itself. The second line does not agree with the first, and the fifth does not agree with anything, and he has been at it since the second hour and he has found where it goes wrong, and he is not the man who is to say so out loud to anybody today.
 
+Three hours of eight is not much of it, and what he had done by then was the part that went without trouble, which is the part that goes first whatever else is true about it. The ruled line he was working to had a corner lifted at the near end, and he kept his wrist off it and worked back the way the figures went.
+
 He has a number in his head. He has had it two years, and he has never written it, and he has never said it, and nobody has ever come up those four steps and asked him for it.
+
+Two years is long enough to have had it in the mouth a great many times and not said it. He has a way of getting the pen to the paper and stopping about a quarter of an inch short of it, and the stopping is quicker now than it was two years ago, and that is the only thing about it that has changed.
 
 The reason is not that he is shy it. Handing the number over would be a list. A list of persons is a company, and a company is a heading, and a heading is what a man turns into the moment the thing outgrows one room. A figure that stood over all the rooms at once would have to stand over him too, and there is no version of him that is still him underneath it.
 
 ---
 
 There is no form for putting yourself on a list, and there is no form for being reached at a counter in a room you have left, and those are one absence and not two.
+
+Below him the shop carried on the way a shop carries on, and the sound of it came up through the boards and lost most of itself before it got to the landing. He had stopped hearing it altogether and had begun hearing it again lately, without any decision on his part, and the four steps gave back the weight of anybody who came up them and kept none of it.
 
 He came into this room off a counter at the top of four flights four miles off, where he paid fourpence for a copy, and before that he paid fourpence in a third room. Neither of those rooms is this one. A person who has been findable in three rooms in two years is findable in none of them this week.
 
@@ -75,6 +85,8 @@ He has had a question ready for two years. It takes about four seconds to say, a
 ---
 
 He finished the column at the sixth hour and copied it out again clean, and the fifth line is in it exactly as the man of forty wrote it, and the fourth page is the fourth page of a book three months old with one figure in it a size the rest of the man is not.
+
+He wrote the clean one out from the top of the page, because the foot of the first had gone soft under his hand by the fourth hour. It took most of the hour, and it was the whole of the job, and the one he had been working from went under the book on the table with its face down.
 
 The man of forty will come back for it in ten days and will not know his name, and the sheet is his own paper and not the shop's.
 

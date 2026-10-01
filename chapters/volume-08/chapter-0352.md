@@ -12,6 +12,8 @@ This is the second day of the second week of the first month of the year after t
 
 The second of the four came in at the turn of the hour with her shawl up over her ears and stood at the bench to set the day's numbers out of the rack, because that is where they are set.
 
+The order they are done in is the order they had been in the rack, and the woman setting them has done it long enough that her hands go on without either of them consulting anything. She had her back to the window doing it and the window gave her nothing to do it by, and she did not need anything.
+
 She is one of the four. She is the one Nell told, the second week of the third month of the year after, in about four minutes, in this room, the whole of a rule out loud with the day and the hour on it and her own name at the foot.
 
 "Twelve came off the frame at the second hour," the second woman said. "Eleven of them are the same eleven as yesterday."
@@ -24,9 +26,13 @@ The second woman set them. She wrote the column without hurry and she wrote it t
 
 "I said it once."
 
+The room had been the temperature of the yard since before she came into it, and the broken light in the window gave nothing to the bench at all, and the two of them went on standing at it. Neither of them had their hands still.
+
 "And I have four of my own and none of them are yours, and I have had two of them stop."
 
 "Then it went nowhere."
+
+She said the whole of it to the bench about as much as to the woman, and the words came out in the order she had put them in beforehand, and Nell knew halfway through that it was going to run past the place it had been meant to stop at.
 
 "It went nowhere," said the second woman. "That is what I am telling you. I have not got the second of mine back and I did not have it before you told me, and I want that said in this room while there are two of us in it, because I am not going to be the one who says it to a third one. If I say it to a third one then I am a person who says things, and a person who says things is on a list, and I know what your list looks like because you have told me it in this room for four minutes."
 
@@ -41,6 +47,8 @@ She went out into the cold and her feet went away down the lane at the speed of 
 The fifteen are other people's books and not one of them has an office on the cover, and that is not a fault in the making of them. That is how a book comes to be in a counting room at the back of a dye end.
 
 If anybody came up those stairs this week with a sheet and a seal on it, she could not show a soul four of the sixteen. She knows which four. She has never told anybody which four, and the not telling is not concealment and is not a rule anybody laid down, because a book with another person's name at the head of it is a thing you can be served out of, and nobody in this lane has anything to serve her with.
+
+There is nothing on any of those shelves she has to reach for, and she can get at the whole of it without standing on anything, which is the one thing about them she has ever used, and nobody has ever had to be told she could not reach.
 
 **Nothing in this empire has a form for a book a person keeps for herself.** That is not a hardship either. It is the reason she can put four things in that book on a morning without writing down which morning, and it is the reason nobody could ever come at her afterwards and say she wrote them.
 
@@ -68,6 +76,8 @@ The eleven houses off the dyers' lane came in with their numbers on the first of
 
 She set them out in a hand that does not vary, and there is a figure in the fourth column she has never been able to account for and has never altered, because a counting room that alters a figure is a counting room that has become an opinion.
 
+It has been left exactly where it was every week of the time she has been working at it, and nobody has ever come to the bench and put a finger on that line, and neither has she.
+
 **Nobody came up those stairs for the sixteenth book this week, and nobody has sent for it, and nobody ever has.** She is not going to be standing ready for a person who does not come.
 
 She is not going up this river this season. That is not the same as never, and she has not said never, and nobody has asked her either thing, and the difference between the two is still hers and is still a difference.
@@ -75,5 +85,7 @@ She is not going up this river this season. That is not the same as never, and s
 ---
 
 The stove went out some time before the fourth hour and she did not light it again, and the broken light in that window has been broken since before she came, and the books go on being the wrong height for the shelves they are on.
+
+The bench was where she had left it at the turn of the hour with the day's numbers still on it, and the twelve were still the twelve. She had her hands free and she did not fill them with anything. The room got no lighter and no darker while she stood there, and it was the fourth hour going on the fifth somewhere in the building without anybody saying so.
 
 She took the sixteenth book down and did not open it, and put it back with the other fifteen and the shelves, and then she carried the four of them she could not show nobody up to the top of the stairs and set them on the landing with the light on them, because a shelf that a person cannot get at in the dark is a shelf a person does not have.

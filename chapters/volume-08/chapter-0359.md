@@ -10,6 +10,8 @@ This is the second day of the second week of the third month of the year after t
 
 He is thirty-four or thereabouts and the hand is a fair one, and the fair hand is what a man is paid for when a man wants his figures copied out until two sets of them agree. A man has to be on somebody's list for that, and he is on one four days a season, and this is not one of the four.
 
+The four steps are worn down in the middle of them rather than at the edges, which is what two people going up and down the same way for two years does to a step. There is a place on the door level with a hand where the first coat shows through the second, and neither of them has ever mentioned it.
+
 She is at the foot of those four steps the way a person is of a place they live in. She has told him out loud that she is not going to ask him his week, and he has never once asked her to change her position it, and that is a thing between them that neither of them has to be grateful for.
 
 ---
@@ -17,6 +19,8 @@ She is at the foot of those four steps the way a person is of a place they live 
 The last time he did a thing of that kind he told her six weeks before he did it.
 
 He told her out loud, on purpose, before anybody had asked him for anything, and he did not ask her first, and the reason he gave her at the time was in about as many words as it takes, and it is still the truest thing he has ever said to her.
+
+She has never asked him to do it again and he has never offered, and the not offering is not the same as the not wanting to, and neither of them has ever tried to make those two into one thing.
 
 **If he had asked her she would have said no, or said yes and been frightened, and either of those would have been him standing in a room arranging it.** He would rather be the villain of that than the man who checked first. That is the whole of his reasoning, and she has never once agreed with it, and she has never once asked him for it again.
 
@@ -36,9 +40,13 @@ And this time he is not telling her at all. He is going out of that door in an h
 
 "Not once in two years."
 
+The fire had been in since before either of them got up and it had been down to nothing twice already that week and neither of them had said anything about it either time. Nothing in the room answered her while she said it, and the steps outside took the sound of nobody at all coming down them, and neither of them moved from where they were.
+
 "No," he said, "because the day I say it is a day you have a thing from me that I cannot put back, and you have spent a long life getting yourself out of things people hand you, and I would not hand you one at the end of a week I have been out of a room in."
 
 She got up then and went to the back of the house and came back with his coat over her arm, and she did not put it on him and she did not leave it on a chair where he would find it and have a reason to refuse it. She put it on the back of the one chair in that room that is not against a wall, which is the chair he does not use, and she said that the stairs creak on the third one and that the neighbour two doors down was in her doorway for a while at the fourth hour and that neither of them said anything to each other then either.
+
+She went back to where she had been and waited, and the two of them have been good at waiting for two years and neither of them learned it anywhere. Whatever the hour was going to be it was going to be that, and both of them had known it before either of them said anything, and nothing came down the four steps that afternoon and nothing went up them either.
 
 He said nothing to any of that. The not saying was not coldness. It was the same arrangement they had in the room over the chandler's shop and it had been in this house about as long, and neither of them had arranged it and neither of them could now unarrange it without one of them making a speech, and there is no form anywhere in this empire for two people undoing an arrangement in a dead hour with a fire out.
 
@@ -62,10 +70,16 @@ The bill for being findable is not his and it stands on somebody else's account.
 
 He found that out at second hand, from a man who was told something by a man who was told something by a man who has not been in this room in two years, and he did not go and look, and he still does not know whose account it is.
 
+Three men is not many, and not one of the three put any of it on paper. He could put the three of them in a column in about four minutes and the column would be a heading and the heading would stand over him as well, and there is no version of a bill on somebody else's account that is made better by that.
+
 **The bill is not his and he is not going to find out whose it is by asking, and the not asking is not the same as not caring and it is not the same as care**, and the difference between those two has never once come up in this house.
 
 A woman of about thirty-five lives next door. She came out on her own step twice while he was standing at the bottom of the four steps and put two things down and went in again, and she did not speak to him and he did not speak to her. The two doors are about four feet apart, and nothing in this empire would let him put to her the question of whether she would mind being told a thing before she is told it.
 
+Four feet is close enough to hear a door on and far enough for a person to stand on a step out of the sight of anybody at the other one. He had been at the bottom of the steps both times when she came out and went in again, and he had not spoken and she had not come out to him, and neither of them has ever said that that was a thing they agreed on.
+
 That absence is the reason he told his wife the one time he ever told her anything, and it is the reason he is not going to tell her this, and it is one absence and not two, and it is not going to be filled.
+
+An hour is a short thing to spend in a room with another person in it, and it is a great deal when neither of them is going to say anything. He had not once offered to leave and there was nowhere else in the house he could have gone and got clear of it, and she had not once offered to leave either, and the hour went the way hours go in a house where nothing is being settled.
 
 He put the coat on at the sixth hour and went down the four steps, and the fire had been out for two hours, and she was standing at the top of them with her hands in the sleeves of her own blouse because of the cold, and neither of them said one word where he had been or where he was going, and the door at the top of the steps was painted a second time while he was gone and was not painted by him.

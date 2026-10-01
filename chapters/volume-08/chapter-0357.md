@@ -10,6 +10,8 @@ This is the fourth day of the fourth week of the second month of the year after 
 
 **He cannot read a paragraph.** He can read a figure and a name and most of the short words that hold a sheet together, and everything else in front of him is shape, and he has been working out which is which for nineteen years and has got about as far as anybody could expect a man to get.
 
+A sheet comes in and he finds the figures on it and the names on it, in that order and never in any other, and then he goes to the place at the foot of it where the hand goes. The going to the place is not reading, and nobody in the room would know the difference, and he has not tried to make the two of them into one thing.
+
 He reads what he can and signs the rest, and that is the whole of what his hand does, and it does it about nine hundred times a year.
 
 He signs for people who cannot write and he signs for people who are not in the room. **Nobody standing at a counter has ever asked him whether the person named above his own hand is in the building, and nobody could, and there is no form anywhere in this empire that lets anybody ask.**
@@ -19,6 +21,8 @@ There is a figure in his head about how many times he has come to that room in n
 It is a figure times and not distance, and the distance is about nine miles, and he knows it to about a yard because he has walked it more than once and has never once been driven.
 
 He has never written the figure down and he is not going to. He has said the whole of a thing out loud in that room more than once. On the one occasion anybody has written down, he was in a room with about nine people in it and a clerk of about fifty-five with a pen on a table, and she wrote none of it. **None of it is in the eleven books at the top end of that passage, and about four thousand entries in those books have no name in any one of them, and none of those is this.**
+
+The eleven books stand on the shelf at a height they have stood at for nineteen years, and nobody has ever come into this room and picked one of them up to find out how far it had come down at the top. He knows roughly what is in each of them and roughly is the whole of what is in any of them, and roughly has been enough to get a hand to the foot of about nine hundred sheets a year.
 
 Nobody is going to ask him what he meant by any of it, and he is not going to be asked, and the not being asked is the arrangement and not a thing that has happened to him by accident.
 
@@ -40,6 +44,8 @@ What he wants is about four minutes.
 
 In about four minutes he could go through the ones of that year he can remember and say no to about half of them and yes to the rest, and the yeses matter as much as the noes, and the two of them together are about nine minutes of a man's life once a week or so for nineteen years.
 
+Nine minutes a week is not a large part of a life and it has been available to him every week since he was forty-two, and he has not taken it once, and the not taking is not caution. He has gone over the sheets in his head instead, on the way in, and he has never got to the end of one of those years, and he knows that, and he has never told anybody that he knows it.
+
 **And there is nobody to ask.**
 
 ---
@@ -56,11 +62,15 @@ Nobody has ever thanked him.
 
 He has never asked to be thanked, and nothing anywhere in this empire calls for thanks to a person who says a true thing out loud in a room that has nobody in authority standing in it.
 
+He has said true things out loud in this room more than once and the whole of all of them would go into about four minutes, and nobody has ever asked him for the four minutes and he has never offered them. He knows why he has not done it and the reason is that a thing put together is a thing a person could want, and he has no idea at all what he would do with one.
+
 **He knows both halves of that and has never put them in one sentence**, and there is no form for putting two halves of a thing together, and the not putting them together is not modesty and is not bitterness and is the only piece of administration he has ever been able to do.
 
 ---
 
 A carrier came up the flags at the fourth hour with a rack on her hip, put four on the shelf under the window and went back down. She is paid ninepence at the lock and she is on a list, and in six years nobody has asked her what she carries. This man has not asked her either, and neither of the two of them has ever put a question to the other one in all that time.
+
+The flags run four hundred yards and a rack goes up and down them every working day of the year, and she has gone up and down them for six years and has never once been asked to stop anywhere on the way. The rack is full when she comes up and empty when she goes down, and it has gone on being that between them, and it has been enough a long while.
 
 "Four," she said, and put her hand flat on the top of the rack the way carriers do.
 
@@ -73,5 +83,7 @@ A carrier came up the flags at the fourth hour with a rack on her hip, put four 
 "Nobody has had to," she said, and shouldered the empty rack and went back down the flags, and the sound of her went out of the building the way it always does, and the shelf had four on it and the books went on standing at the height they stand at.
 
 He put his hand at the foot of four sheets between the second hour and the fourth hour, and the four went into the books, and about four thousand entries in eleven books on that shelf have not one name in any of them.
+
+The books took the four in the order they were set down, and he did not go over any of them again after he had signed the fourth. He put his hand where it goes and lifted it off again, and after that he did nothing else with it for the rest of the afternoon.
 
 The pane is still out of that window. He has said so out loud once, to the window, the pane, and nothing in this empire will let a pane be said to a person, and the count of things anybody has asked out loud in this matter is the same as it was when he sat down, and there was nobody at that door at the fourth hour that there had not been at the second.
