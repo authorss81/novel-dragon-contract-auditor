@@ -14,9 +14,15 @@ It is the fourth day of the fourth week of the twelfth month of the year after t
 
 ---
 
+The half he put no to was always the same half. Nineteen years of a man's hand being careful on a sheet and then going off somewhere else on it, and no way whatever of telling from the weight and the slant whether the careful went anywhere at all, and he had gone back over the ones he could remember so often that the ones he could remember had stopped being the ones which happened and had become the ones he had decided about.
+
+A second hand is a thing every man in a building has, and a man is paid for the second hand, and there is no standing in it and nobody has to be told about it. A second true thing is a different article altogether, and there is no name for it and no pay for it and no column, and the difference between the two runs to the width of a corridor, and nobody on the corridor has ever once managed to stand in the middle of it and say which of the two a man has got.
+
 The young man came up with four and put them on the sill and signed for them off the rail and went down the corridor with them in his own arms, because the basket is for the ones that are finished and those four were not.
 
 The man of about sixty-one signed all four without looking up. It took him the better part of a minute, and his hand did not do anything different on the fourth one than it did on the first, and he has never in nineteen years pretended to be slow at it.
+
+The young man had watched him sign those four the way he watched him sign every four, and had said the same thing about it every time for two years, and the saying of it had never once been wrong and had never once been different, and two years of a thing like that is long enough for a man to know a great deal about another man without ever once having to put any of it anywhere.
 
 "That was better than last time," the young man said from the top of the steps.
 
@@ -24,15 +30,21 @@ The man of about sixty-one signed all four without looking up. It took him the b
 
 "It was not the same as last time, and I have carried sheets for two years and I know what a man does with a pen when he has been thinking about something, and this week you did not think about anything." He came back down the corridor and put a hand on the sill. "**A man at the foot of a sheet who has told one person one true thing in nineteen years is a man who has a second one in him now**, and I would like to have said that out loud in this corridor while there is nobody else in it, because if I say it with two of us standing here then it is a thing said in a room, and I have spent two years finding out what those cost."
 
+The man of about sixty-one signed the second one while the whole of it was being said and did not look up, and the pen went on at the rate it goes at, and the speech went past at the rate a sheet goes past, and the two are one rate and always have been, and neither of them had ever once remarked on it.
+
 ---
 
 "You have not asked me for it."
+
+Only once in nineteen years had a true thing come out of him in a room, and it had not been about a sheet, and it had been said out loud in the corridor to a man who was paid by the corner, and no form had come of it, and he had never told anybody what the true thing was, including the man he had said it to, and that had been the arrangement ever since, and it had cost the two of them nothing at all, which was the part of it neither of them had ever understood.
 
 "I have not asked you for it and I am not going to." The young woman took his hand off the sill. He was twenty-six. "And I am not going to stand here and tell you what the second one is, because I do not know what it is, and a man at the foot of a sheet with a second true thing in him in four months is a man who is going to have it in a corridor with a hook in the wall at the end of it. The only person in this building who would see it happen is a man of twenty-six holding a basket, and the basket goes down and does not come back up."
 
 "You have said the month."
 
 "I have said four months and I have said it as a guess, and I would like it entered that I said it as a guess, because when it comes somebody is going to remember that I said it, and I would rather it went down the basket with everything else." He shifted his weight off the sill. "**There is no form for a second true thing**, and there is none for me having said so either, and I am paid for a corner, and the corner is the only part of any of this that I am responsible for, and I am going to stop talking about it now and not start again until it has either happened or it has not."
+The nib was in the ink and the man of about sixty-one had signed four of them in the time it takes to be certain nothing is coming. Neither of them was going to say the next thing and neither of them was going to leave, and the two of them stood on about nine feet of corridor with a pot on the sill and a hook at the corridor's far end, and every part of what was going to happen in there had been settled without either of them agreeing to any of it.
+
 
 ---
 
@@ -43,6 +55,8 @@ The man of about sixty-one put his hand flat on the sill for a moment and then t
 "That is not what I was doing."
 
 "Then it was not what you were doing and it is what I was doing." He turned the second sheet over and put it on the top of the first. "That pen has been in that pot since the fourth hour of a week ago and it is going back in it now, and you can put that in with the four and take it down, and I have not got anything else for you this week and there is nothing coming that I know of."
+
+The young man had the four against his chest and had stopped where the stair ends, and the man of about sixty-one had the pen back in the pot and his hand flat on the sill, and neither of them went first, and the two of them stayed exactly so for longer than four sheets ought to take.
 
 ---
 

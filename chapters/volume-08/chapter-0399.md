@@ -10,6 +10,8 @@ The woman who keeps the ground floor of that house has been at the bottom of tho
 
 It is the fourth day of the third week of the first month of the year after the year after the year after the year after the year after next, and it is the seventh hour, and the lamp was not lit when she knocked.
 
+The room was the same room it had been every week for two years, and the lamp was off until it was wanted, and the table had a grain in it that a foot learns and a hand learns faster, and he had been up those two flights long enough that he came up them without counting them, which is a thing a body does and a person does not decide to do. The cold came in off the plaster behind the chair instead of off the glass and he had stopped noticing it about a year ago, and it was not there this week either, and he noticed it not being there, and noticing the absence of a cold is a different thing from not noticing a cold and is worth a good deal more than it sounds.
+
 ---
 
 She came up with the lamp in one hand and a folded slip in the other and put the lamp on the table and did not sit down.
@@ -20,11 +22,15 @@ She came up with the lamp in one hand and a folded slip in the other and put the
 
 "I have come up about the lamp and about something I have been turning over on that ground floor since the middle of the week, and I am going to say it once and go back down, and I am not going to come up about it again." She put her hands flat on the table, which is a thing she has never done. "**A person who knows a thing and does not write it down has to be the person who remembers it.** Remembering is not a form, and there is no book anybody keeps for it, and there is nowhere in this empire to put a thing you have to hold in your own head for as long as you live."
 
+She had got as far as the end of what she had come up to say and had stopped, and she had said it aloud where a room was, to a man she had never put a question to, and she had already become a person who had said it, and a thing said cannot be unsaid, and she knew it and had said it anyway, and he had understood part of it, and the part he had understood was the part about the lamp.
+
 ---
 
 "I have been holding one for two years."
 
 "You have, and it did not get heavier this week, and I know that it did not get heavier because I have had one of my own going about the same length of time. I have not slept properly since I worked out that I was going to be carrying it, and I have not said one word about it to anybody, including you, and that stops tonight." She took her hands off the table. "**There is no form for a person keeping a thing.** You are one of two people in this empire doing it. I have not asked you what it is and I am never going to ask you. The other one is me, and I have had mine since the year before last and I have carried it in that building every day since, and I am not complaining, and I want it entered that I am not complaining, because I have worked out that saying it out loud is cheaper than carrying it a third year."
+
+That was the half he had not known was going to be put out loud in a room during the week. He had come up those two flights with a leaf in his coat and nothing in his head he meant to put anywhere, and here was a woman who kept a ground floor telling him at about the seventh hour that the cheapest arrangement in the world is a person talking, and that nobody has ever entered the fact of it anywhere, and that she had worked it out on a ground floor over about two years and had said nothing at all until the middle of the week. He believed every word of it and was not going to say so.
 
 ---
 
@@ -32,7 +38,11 @@ She came up with the lamp in one hand and a folded slip in the other and put the
 
 "I have come up two flights of stairs to give you the other half of it, and I have been about twenty years getting to it and it took a week." She looked at the window with nothing in the middle of it. "And I am going to say one thing back at you that is not about the thing you know, because I do not know what it is and I am not going to. It is that I have had your money for two years and I have not asked you one question about where you go or what you do, and I am not going to start, and I would like that noticed as a thing I am doing and not a thing I have been failing to do. That is the whole of what I have."
 
+Two years is a long time to go unasked in a house by a person who takes his money once a week, and she had done it without deciding to, and he had done the same in a different building for a good deal longer, and neither of them had ever been asked by anybody whether the not asking was a decision or a habit, and the not being asked was the whole reason the two of them were able to have the conversation they had just had.
+
 ---
+
+She had a folded slip in her hand the whole time she was saying it, and when she had finished she set it down where the table is and offered no account of it, and he did not look. Anything a person sets down on a table up two flights in a rented room in the cold has been carried up there on purpose, and he understood that she had brought it up to put it on the table and was going to leave it there, and that it would still be on the table on the day she next came up with a lamp, and not one word about any of it passed between them.
 
 **He stayed exactly where he was.** He sat there until about the tenth hour with the leaf on the table under both his hands, and the woman who keeps the ground floor went back down and did not come up again that night, and there is no pen in that room to write a thing with.
 
