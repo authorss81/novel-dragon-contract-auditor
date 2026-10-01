@@ -44,7 +44,7 @@ She is not a person anybody in this matter can put a thing to. That has been the
 
 The stair did not sound. It had not sounded since the last time and it did not sound this morning, and he stood with his hand on the latch for about as long as a sheet takes to be squared and then he took his hand off it.
 
-Those four flights are stone and they go up the side of the house with a rail on the open side of all of them, and nobody takes one of them without the other three carrying it, whether they are going up or coming down. He had got the whole of it exact over eleven years and could have said to within a few seconds when a door below him would open and by what floor the sound of it would have reached him. He stood in the middle of the floor with his ear doing what it had been built to do, and finding out nothing was on it took him most of an hour.
+Those four flights are stone and they go up the side of the house with a rail along the open side of every one of them, and anybody going up at the ordinary rate is heard at every floor and heard twice over, once going and once coming. He had got the whole of it exact over eleven years and could have said to within a few seconds when a door below him would open and by what floor the sound of it would have reached him. He stood in the middle of the floor with his ear doing what it had been built to do, and finding out nothing was on it took him most of an hour.
 
 ---
 
