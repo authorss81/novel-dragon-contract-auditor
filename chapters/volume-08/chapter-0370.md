@@ -6,6 +6,8 @@ It is the same ground-floor room off the old river road, and the same shelf of e
 
 This is the second day of the second week of the sixth month of the year after the year after the year after the year after next, and nothing in that room is lit at that hour, and it is about the fifth hour.
 
+The older woman sat upright at the table with her pen held ready above the page. She looked up direct when she spoke, steady and unsmiling. The younger one stood at the far end with her hands folded before her, shifting from foot to foot, trying to keep still and not quite managing it.
+
 ---
 
 **A minute with an answer in it is not a minute, it is an order, and in nineteen years she has entered none, and no form anywhere lets her.** A minute saying a room stood empty is a minute, and she has entered about nine hundred of those. A minute saying what a man said on his feet is a different animal. It is a direction, and a direction has a person at the end of it, and that person's name goes on the sheet.
@@ -14,25 +16,37 @@ This is the second day of the second week of the sixth month of the year after t
 
 Nobody has thanked her for nineteen years of entering about nine hundred sheets a year in a hand that has never varied. There is no form in this empire that thanks a person for doing a job correctly, and nobody decided to withhold it, and she has never once treated the withholding as a decision.
 
+Her hand moved across the page without hurry, each letter formed whole. The ink lay black and even between the ruled lines. She touched the last word to test it, set the pen down square, and went on to the next, and the pile of finished sheets grew at her left hand.
+
 ---
 
 "You are not going to tell me what that is," said the woman of about nineteen from the far end of the room.
 
 "No."
 
+Without looking up from her page, the clerk answered. The younger woman bit her lip and glanced toward the shelf under the window, then away again, as if the thing there had pulled her eyes against her will. She wrapped her arms around herself and said nothing more for a good while.
+
 "I have been in this room six weeks and I have come to know that there is a thing on that shelf under the window that is not in the minutes, and it is not a minute and it is not a sheet, and it has been there longer than I have been here."
 
 "You have come to know a great deal in six weeks."
+
+Her pen never lifted. She finished the line she was writing before answering, dotting the last word with a precise tap. The younger woman waited, arms wrapped around herself against the chill off the window, and did not press for more.
 
 "I have come to know that a question with no full stop on it is not a question. It is a note. A note can be thrown out, and a note that has been thrown out is a thing nobody ever wrote. I am not going to be the one who keeps it, because in about two years somebody is going to hand me a paper and ask whether this office has ever held a finding of six years standing, and I am not going to have to stand there and say it was in my hand."
 
 "You are right," said the clerk of about fifty-five, and went on with the fourth number.
 
+She entered the digits in their column without looking up. The pen scratched softly, stopped, moved on. The young woman watched the numbers take shape and said nothing further for a while, and the room held only the sound of writing.
+
 ---
 
 "I have not said a word to anybody about that and I am not going to now," the young woman said. "**I want it noticed that I said it out loud in a room and it went nowhere, and that is the second time in six weeks.**"
 
+She lifted her chin as she said it, defiant and frightened together. Her hands twisted in her skirt where she had folded them. The clerk regarded her steadily over the top of the page, and something in the older woman's face softened by a fraction, though her pen never stopped.
+
 "There is no form for a clerk kept ready on a shelf," said the clerk of about fifty-five, writing. "Not in nineteen years, and not in the six weeks before them. The difference between the two of us is that I have never once swept it off that shelf, and there is no form anywhere that lets me put a person's name against the fact that I did not."
+
+Her pen did not falter through the whole of it. The nib moved steadily on, line after line, while her voice stayed flat and certain. The younger woman listened with her head bowed, picking at a loose thread on her sleeve, and let the lesson land where it would.
 
 "You could put the day on it."
 
@@ -45,3 +59,5 @@ Nobody has thanked her for nineteen years of entering about nine hundred sheets 
 A quarter of the clerk's own finding was answered out loud, in a room at the cold end of her own passage, in the second month, by a man who came the whole of that distance on foot and was paid nothing for it. She entered none of that either, and nobody is going to ask her about it a second time, and there is no column in any of these eleven books for a quarter of an answer, because a quarter is not a thing a minute can be about and the half of it that is left is still a question. Nothing in this empire can put a clerk of an office on notice that a person is on the way, or that a person is not.
 
 Four sheets went into the eleven books inside the hour and the hour after it on that same afternoon, and the count of things anybody has asked out loud in this matter is the same as it was when she sat down. The woman of nineteen at the far end of that room has not thrown it out, and the clerk of fifty-five is not going to say out loud that the woman of nineteen has not thrown it out.
+
+Light failed early against the unpaned window, and the cold came in with the dark. The clerk lit nothing and worked on by the last of it, her hand sure on the page. The young woman sat on at the far end, silent, keeping her place in a room that required nothing of her but stillness.
