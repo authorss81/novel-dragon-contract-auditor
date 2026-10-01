@@ -10,7 +10,7 @@ It is the fourth day of the fourth week of the third month of the year after the
 
 ---
 
-The case had its shutter over it and the boards were down along the top of the two tables with the tops of them bare. The young man at the far end was going through a pile that had no order in it and was never going to get one out of the going through. A pen left in the middle of an open book is a thing two people in a room can look at for a quarter of an hour without either of them mentioning it.
+The young man at the far end was going through a pile that had no order in it and was never going to get one out of the going through. A pen left in the middle of an open book is a thing two people in a room can both look at for as long as they like without either of them mentioning it.
 
 She was still at her end of the boards at about that hour because there is nowhere in that room to go and nothing to shut, and Marn Ottery was still at the other end of them doing the thing she does at the end of a day, which is to stand at a set of boards that are already shut.
 
@@ -68,7 +68,7 @@ Whether she takes what a colleague thinks about a thing like this is a thing tha
 
 ---
 
-Going down four flights after that counter shuts is the ordinary part of it and there is nothing in it she has not done two hundred times. The going down is the same going down it has always been and is going to go on being, and nobody can tell it apart from the coming up, and nobody in there could tell you which of the two she had done that week.
+Going down four flights after that counter shuts is the ordinary part of it and there is nothing in it that is not the same four flights she has gone down about four thousand times. The going down is the same going down it has always been and is going to go on being, and nobody can tell it apart from the coming up, and nobody in there could tell you which of the two she had done that week.
 
 She went down four flights at about the sixth hour with nothing in her hands, and she did not stop on any of the landings, and nobody sent her and nobody was thanked for the going.
 

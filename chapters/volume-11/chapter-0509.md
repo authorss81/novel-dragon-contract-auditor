@@ -8,7 +8,7 @@ It is the fourth day of the third week of the fifth month of the year after the 
 
 ---
 
-The room was cold the way it is cold every morning of the year, and nothing had ever come into it that anybody came to bring him, and nothing in it was ever going to. A man living that way for two years stops noticing the room and starts noticing the two ends of the week, and about four feet of wall beside that window has nothing standing on any part of it from one working day to the next.
+The room was cold the way it is cold every morning of the year, and nothing had ever come into it that anybody came to bring him, and nothing in it was ever going to. A man living that way for two years stops noticing the room and starts noticing the two ends of the week, and the coat on that nail goes on being the one thing in that place anybody ever moved, and it was moved once.
 
 The thing he is able to do takes about four seconds, and it needs a knife and a printed strip and about half a minute of a drawer in a building at the top of four flights. It would make a mark that could go into a coat and come out of a room with nobody knowing whose it was. The knife is up there in a drawer of its own and he has never said which one, and the drawer under that wall board is not it.
 
@@ -16,7 +16,7 @@ He thought about it at about the third hour, standing up, the way he has thought
 
 He did not do it.
 
-A man thinking about a thing he is not going to do does the same three things with his hands whatever the thing happens to be. He laid one of them flat along his own thigh. He crossed the room and came back. He set the thumb of the other against the plaster beside that window, held it there long enough for the plaster to be colder under it than it is either side of it, and then took it off, and the difference went in about as fast as it came.
+A man thinking about a thing he is not going to do does the same three things with his hands whatever the thing happens to be. He laid one of them flat along his own thigh. He put the heel of the other against the boards by the wall and left it there. He turned it over once, looked at his own hand, and put it down again.
 
 There is no form anywhere in this empire in which a man not doing a thing is entered as the one who did not do it, and that is the reason and it is not a good one, and he has been living on it for about two years.
 
@@ -44,7 +44,7 @@ He did not open the door. That is the same as it was six weeks ago and it will b
 
 The woman of about thirty-five went up the lane at about that hour with a book under her arm, and she was about four feet off the other side of the way, and neither of them slowed down and neither of them said good morning.
 
-The book was under her arm and the strap of it had gone soft along its length. She came up the lane at the rate she comes up it and stopped about where she stops, and she put her weight on one foot while she said it and then on the other one after, and she did not look in his direction at any point in doing either of those things.
+She came up the lane at the rate she comes up it and stopped about where she stops, and she put her weight on one foot while she said it and then on the other one after, and she did not look in his direction at any point in doing either of those things.
 
 She said a thing out loud to the lane, in the ordinary way, the way a person says a thing out loud in a street in the middle of a morning.
 

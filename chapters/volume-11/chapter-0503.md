@@ -24,7 +24,7 @@ About four feet of bare wall is beside the window and there is nothing on any pa
 
 He got through the middle of the morning with nothing decided, which is the ordinary shape of his working life and has been since a morning a long time ago.
 
-He had a way of passing a morning in there that used no chair at all. In off the stair, across to the window, back again, and on for about as long as it takes to square a sheet. Then a while with a thumb flat on the plaster beside the window where there is nothing on any part of it. Then he started again.
+He had a way of passing a morning in there that used no chair at all. In off the stair, across to the window, back again, and on for about as long as it takes to square a sheet. Then a while with a thumb flat on the plaster beside the window where there is nothing on any part of it, and that plaster is the coldest surface in the place by a long way. Then he started again.
 
 Somebody put a hand on the door at about the fourth hour and said through it that there is a woman two floors down in that house who has a thing about the window in that room, that the thing has been going on for about a month, and that she would put it in writing if anybody in the building would stand to it.
 
@@ -62,7 +62,7 @@ He did not go up them this month and he is not going to.
 
 About the middle of the afternoon he took the coat off the nail and put it over the back of the chair, which is the only thing in that room the coat has ever been on since the evening it went up, and he had his hand inside the pocket and his hand outside the pocket and he took nothing out of it.
 
-The wool went down over the back of the chair and took the shape of the chair in about a minute, and the shoulder of it stood up where the same spot on it had been pressed every night for two years. He stood back from it and looked at that, and then he went on looking at it. A man can go into a pocket every morning for two years and take nothing out of it and still not know which of the two things in there he would take out first.
+The wool went down over the back of the chair and took the shape of the chair in about a minute, and it had lost the crease out of the shoulder where it had hung on that nail, and the back of the chair took a shape of its own that had not been in it that morning. He stood back from it and looked at that, and then he went on looking at it. A man can go into a pocket every morning for two years and take nothing out of it and still not know which of the two things in there he would take out first.
 
 The crease a third of the way down the leaf is worn through and the leaf is where it was and the four things printed along the top of the other one are where they have always been, and they are on opposite sides, and they have not moved since a wet morning about two years ago.
 
@@ -72,8 +72,8 @@ He hung the coat back on the nail.
 
 ---
 
-He went down the street in the ordinary way at about the fifth hour, and he did not buy anything, and he did not go to the top of any stair, and he did not go to the end of the lane.
-
 The street at that hour had the ordinary quiet of a street where everybody who works indoors is indoors. He went along it the way he goes along it, which is the only part of the day that is his, and about two years of a street being the same street every morning is a thing a person is relying on without ever having decided to rely on it.
+
+He went down the street in the ordinary way at about the fifth hour, and he did not buy anything, and he did not go to the top of any stair, and he did not go to the end of the lane.
 
 The four feet of bare wall was still bare and the nail was still in it and the coat was still on it, and nobody was thanked and nobody was sent for, and nothing about it is written down anywhere in this empire.

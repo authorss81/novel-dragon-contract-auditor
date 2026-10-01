@@ -10,7 +10,7 @@ It is the fourth day of the third week of the third month of the year after the 
 
 ---
 
-The working top runs the whole length of the room and there is more of it than three people need. A forearm going along the boards gets a small sound back, and the sound three people make going along wood is not the sound of three people talking, and anybody who came up four flights to that counter in the middle of a morning would have found a room going on and not a conversation in it.
+The working top runs the whole length of the room and there is more of it than three people need. A hand going along the edge of it gets a small sound back, and the sound three people make going along wood is not the sound of three people talking, and anybody who came up four flights to that counter in the middle of a morning would have found a room going on and not a conversation in it.
 
 The man with the fair hand is on the list four days a season and he is on no floor this week, and the list is the only thing in this building that anybody could enter a man on, and it has held the same four days since before she came to this end of it.
 
@@ -36,9 +36,9 @@ Marn went back to being a person nobody wanted anything out of. She did not put 
 
 ---
 
-He came up the last flight at about the fourth hour and stopped on the fourth step from the top, where he stops, and then came the rest of it and set the satchel down on the counter at the far end of those boards.
-
 Four steps is far enough down to be heard from and near enough the top for a man to stop on without having arrived anywhere. He has been stopping there for eleven years while other people went up past his back and did not put a hand on the rail because of him. Both hands stayed on the strap before the bag went down and after it had, so that for a moment he was holding on to a strap with nothing hanging off it.
+
+He came up the last flight at about the fourth hour and stopped on the fourth step from the top, where he stops, and then came the rest of it and set the satchel down on the counter at the far end of those boards.
 
 Eleven years of four times a week. Nobody has ever told him what is in it and he has never asked and it has never once been a courtesy between him and anybody in this building. He stood with his back half turned to the middle of that floor and squared the strap on his shoulder the way he does, and the strap went into the shoulder it goes in, and Marn went on with the boards and did not look at him and did not stop.
 
@@ -72,9 +72,9 @@ Nobody was thanked. Nobody was forgiven. Nobody was sent for, and nothing was re
 
 ---
 
-When the sixth hour came the case was put away behind the boards, and the four of them went up onto the wall above it on their own nails, and the door was shut behind that.
+The three of them stopped about half past of the fifth, and it was not the sixth hour that did it. The blanks ran short before the hour was anywhere near it, and there was nothing left on the boards to be worked on by the time there was half an hour of it left. A person standing at a counter with nothing to work on has to put her hands somewhere. All three of them put them down close together and none of the three said anything about it.
 
-The three of them did not go quiet at the sixth hour. They went quiet about half past of the fifth, when the blanks ran out and there was nothing left on the boards to be worked on. A person standing at a counter with nothing to work on has to put her hands somewhere. All three of them put them down within about a minute of one another, and none of them said anything about it.
+When the sixth hour came the case was put away behind the boards, and the four of them went up onto the wall above it on their own nails, and the door was shut behind that.
 
 The man with the satchel went down four flights with a thing in it that nobody in this empire has ever told him about. He did not pause anywhere on the way, and nobody went after him and nobody was sent, and he is not going to be found.
 

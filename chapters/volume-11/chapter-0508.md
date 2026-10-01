@@ -8,9 +8,9 @@ It is the second day of the second week of the fifth month of the year after the
 
 ---
 
-She had a book shut under her arm and she carried it the way a person carries a thing they have been told to carry, which is with the elbow shut against it and one hand flat on the outside. She had gone between the room at the back and the end of the stone and back about forty times a day for about a year and could have done it with her eyes shut, which is not the same as doing it with her eyes shut.
+She carried it the way a person carries a thing they have been told to carry, which is with the elbow shut against it and one hand flat on the outside. She had gone between the room at the back and the end of the stone and back about forty times a day for about a year and could have done it with her eyes shut, which is not the same as doing it with her eyes shut.
 
-The book had a strap and the strap had gone soft along its length where a hand holds it.
+The strap on it had gone soft along its length where a hand holds it and had been soft a long while.
 
 She was nineteen and she had been in that room about a year, and in that year she had said one true thing out loud in it, in a corridor off it, about a month ago, and it was the only true thing and it was not answered, and nobody has answered her since and nobody is going to.
 
@@ -50,7 +50,7 @@ The girl put her hand flat on the shut book.
 
 She stood at the end of that sill for about as long as it takes a sheet to be signed.
 
-She stood there for the length of that minute with her own weight coming forward onto the front of her feet and then going back, which is what a body does at the edge of a thing it is deciding about, and she made no sound at all while it did it. Behind her a chair moved and she heard it and did not turn round. At the near end of the run the pot went on taking a pen back and handing it out again, and the man standing at it did not know she was there.
+She stood there with her own weight coming forward onto the front of her feet and then going back, which is what a body does at the edge of a thing it is deciding about, and she made no sound at all while it did it. Behind her a chair moved and she heard it and did not turn round. At the near end of the run the pot went on taking a pen back and handing it out again, and the man standing at it did not know she was there.
 
 The pot was on the stone and the pen was in the pot. She had the book shut under her arm and the armful was on the stone in front of her and the two of them were both in her hands, and there was about a minute in which the whole of what that room has ever been for was sitting on a table in front of her with a pen four inches away from it.
 

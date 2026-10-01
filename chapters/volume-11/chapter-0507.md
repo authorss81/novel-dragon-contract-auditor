@@ -12,7 +12,7 @@ It is the second day of the first week of the fifth month of the year after the 
 
 ---
 
-The ground floor of it is one room with a stair going up out of it. The boiler is at the back and takes up the width of a person, and the tin is behind the boiler in a gap a person has to reach into sideways to get a hand into.
+The ground floor of it is one room and the boiler takes up the width of a person, and the tin is in the gap behind the boiler, which is a gap a person has to reach into sideways to get a hand into.
 
 The door is on the lane side and it does not meet its frame at the bottom, and that gap under it is the whole of the way anything has ever come into the house from outside it. There is no second door and there is nothing on this one.
 

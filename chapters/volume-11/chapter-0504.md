@@ -12,13 +12,13 @@ It is the second day of the second week of the fourth month of the year after th
 
 ---
 
-A bench that is longer than the room it stands in is a bench a person works at from one end of, and eleven years of that has taught everybody in that shed which end it is. The board with the paper nailed to it is on the wall by the door, and the four corners of the paper stand a little off the board the way old paper does.
+Eleven years of that has taught everybody in that shed which end it is. The form on that board has been up long enough that the four corners of it stand a little off the wood the way old paper does, and nobody working in that building has ever wanted it flat.
 
 The far end of the bench was given over to two of them, with a strip of wood between them about as wide as a hand. At the near end of it sat a man of about fifty-five with his hands on the chain. Between the two of them was the foreman, who had been in that shed for eleven years and who was the only pair of eyes in it.
 
 She had a sentence that was not half finished. It had been whole since a week in a spring that is gone. It needed no frame and no light and no particular hour, and she had been carrying it to that door out of a habit that stopped having anything to do with it a long time ago, and she had not gone to the doorway once this month and she was not going to.
 
-He worked with his hands and he had been working with them at the near end of the wood for eleven years, and anybody at the far end of it can read all of that without hearing a word of it. The chain goes along the stone and comes back, and goes along it and comes back, and his thumb stays where the thumb stays. Between the fourth hour and the seventh the number of times that chain comes back does not change, whatever else in the room does.
+He worked with his hands and he had been working with them at the near end of the wood for eleven years, and everything he does with them is legible to the two at the far end of it without a word being said. The chain goes along the stone and comes back, and goes along it and comes back, and his thumb stays where the thumb stays. Between the fourth hour and the seventh the number of times that chain comes back does not change, whatever else in there does. A working bench makes a different noise from an office, and this one has been making it since before the woman at the back of it came to that end.
 
 The man at the front bench said his flat thing at about half past that hour, and he said it to the floor, and it took him about nine words.
 
@@ -36,7 +36,7 @@ He is about fifty-five, and a working sentence out of a paragraph is a thing he 
 
 ---
 
-A door in a shed that opens out of a lane does not shut the lane out. It takes the edge off it and leaves the rest of it, and after about two years of standing in that doorway on a working morning she knew to within a foot how much of the lane came in and did not have to look down it to know the far end of it was there. She had the shed at her back with nine pairs of hands in it and the lane in front of her with nothing in it, and she was the only person in either place standing in both.
+A door in a shed that opens out of a lane does not shut the lane out. It takes the edge off it and leaves the rest of it, and after about two years of standing in that doorway on a working morning she knew how much of the lane came in without having to look down it to know the far end of it was there. She had the shed at her back with nine pairs of hands in it and the lane in front of her with nothing in it, and she was the only person in either place standing in both.
 
 She went to the door. She did not go through it. She stood in it with the shed behind her and the lane in front of her and she started the sentence the way she has started it about two years now, and it got as far as it has got every time.
 
@@ -70,7 +70,7 @@ The boy with the book read what he reads.
 
 ---
 
-A working shed does not empty the way an office empties. The work stops first, and then everybody who has been working in it is on its feet and has not gone, and the stretch of the day between the work stopping and the room emptying is the part in which a person can see, all at once, how many people are in a place she has walked through every morning for eleven years.
+Nobody in that shed was the first one off the bench, and the bench kept the shape of the day in the wood the way a thing keeps the shape of what has been rested on it. She had walked through that shed eleven years of working mornings and had never once come in at the back of it and stood still to count, and she counted then, in the ordinary way a person counts a room they are standing in, and she did not tell anybody the number and was not going to.
 
 About the seventh hour the lamp came on by itself, and the man at the front bench went out of that bay in the ordinary way, and nobody said one word to anybody about the four of them and nobody said one word to anybody about the sentence in the doorway and neither of them mentioned it again that night or that week or after.
 
