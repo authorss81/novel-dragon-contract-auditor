@@ -28,7 +28,7 @@ He wanted the fourth hour to be an ordinary hour.
 
 That was all. He wanted the bay to be nine foot by eleven with a bench in it and a chain across the front of the bench and nobody in the bay at all, and he wanted the hour to go along the way that hour had gone along every working day for eleven years, which is to say that he wanted to be a man in a room by himself at about the fourth hour on an ordinary morning.
 
-The boards of the floor carry a boot and carry a chain, and nothing else in the place makes a noise worth the name, which is why eleven years of the bay had taught him that a sound in it means somebody has come in off the lane and has not shut the door behind them properly, and which is also why three people already in it make very little, because three people working do not take four hours to say anything to anybody.
+Stone carries a boot and carries a chain, and nothing else in the place makes a noise worth the name, which is why eleven years of the bay had taught him that a sound in it means somebody has come in off the lane and has not shut the door behind them properly, and which is also why three people already in it make very little, because three people working do not take four hours to say anything to anybody.
 
 The bay was not that. The bay had had three other people in it since the second hour, and there was no arrangement of that morning going to change that, and he had worked all of it out at about the half hour and had gone on with the chain anyway.
 

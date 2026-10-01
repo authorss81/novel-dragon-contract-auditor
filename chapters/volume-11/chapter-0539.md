@@ -60,8 +60,6 @@ He had gone and stood at that window a fortnight ago for about four times as lon
 
 He sat on the bed with his back to the glass and looked at about four feet of plaster instead, and the plaster has nothing on it, and there is a nail in it with a coat on it, and he had chosen the plaster.
 
-The light comes in over a wall about four feet off and does not reach the glass until about the second hour, and after the fourth hour it begins to come back off the glass and go onto the plaster instead, and by the fifth hour a hand's width of daylight was standing on a wall that had nothing on it, and he looked at the hand's width instead, and it was the first thing in about two years to have happened in the room that he had not worked out beforehand.
-
 ---
 
 A woman who lives two floors down in this house came up those four flights about two months ago, said one true thing out loud on the other side of his door, and told him that was the last of it. He did not open the door then and he has not opened it since, and that stair has not stopped on his floor once in two months, and he has not gone down it, and nobody in that house is going to be told one word about any part of it.

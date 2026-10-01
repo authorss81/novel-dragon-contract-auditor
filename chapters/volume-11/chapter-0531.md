@@ -16,7 +16,7 @@ It is the second day of the first week of the eleventh month of the year after t
 
 She got up off that bench and came the length of her own floor.
 
-The boards go the length of the room and they carry a boot the whole way, so a person walking across one can be heard by everybody in it, and she had crossed them every working morning for eleven years and had got so exact about where she set a foot down that nobody in the shed ever had to look up to know where she was.
+The stone goes the length of the room and takes a boot the whole way, so a person walking across it can be heard by everybody in it, and she had crossed it every working morning for eleven years and had got so exact about where she set a foot down that nobody in the shed ever had to look up to know where she was.
 
 She had started at the near end of it in a spring that is gone and she had gone to the far end of it every working morning of the eleven years since, and about a month ago she had stopped and gone to the back of the bench and stood at the end of it behind the two of them. This morning she crossed nine foot by eleven and stopped at the near end, at the front of the bay, about four feet off the chain, with her hands loose at her sides and her weight even on both feet.
 

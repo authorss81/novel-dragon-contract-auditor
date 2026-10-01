@@ -26,8 +26,6 @@ Then she went to the board by the door and took the key to the top room down off
 
 She stood there with the key in her hand for a while after that. It is a working key and it is not a good one and it turns a lock that has not been a good lock for about two years, and the number cut into the back of it is the only thing in that house that says anybody has ever slept up there.
 
-The key is for a room at the top of a stair going up four flights of stone, and the room has a bed in it and a table and a stool and a chair that has stood against nothing at all for about two years. The whole of what the key is worth in the house is about two years of rent, and the only part of the two years anybody can be shown is the mark cut on the back of it.
-
 Going up that stair would have taken her about a minute. She has known the sound of four rooms on it for twenty years and she has never once put her foot on the third stair, and the reason is not that anybody has ever stopped her, and nobody has ever asked her for a reason, and she has not given one.
 
 That was the arrangement of the whole of that house for two years, and it was a good arrangement, and it worked. She is not a person anybody could show anything about, and that is worth as much to a woman who takes a rent once a week in coin as it is to anybody else in this matter, and there is a girl in the back room of her own house into her second season who has never once heard her mother's landlord mentioned.
@@ -72,7 +70,7 @@ The room is about as wide as the boiler is deep and about as long as a table is 
 
 The key went off that board and into the tin behind the boiler, on top of about nine years of one man's rent, and the lid came up crooked in her hand and went down crooked on the top of it.
 
-A lid that does not sit flat takes a hand about a second to settle and it never settles square, and nine years of coin under it is heavier than a tin wants to be and has to be moved a hand's width before it will move at all, and she moved it, and the coin went on top of the key, and then the coin was under the key, and that was also fine.
+A lid that does not sit flat takes a hand about a second to settle and it never settles square, and nine years of coin under it is more than any tin was ever built to take, and not one coin of it will shift until the whole of the weight is moving, and she got it moving, and the coin went on top of the key, and then the coin was under the key, and that was also fine.
 
 The coin came out of the apron pocket and went in on top of that, and the lid came down crooked a second time that morning.
 

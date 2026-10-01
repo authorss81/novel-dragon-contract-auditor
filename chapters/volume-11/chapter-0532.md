@@ -68,7 +68,7 @@ The building empties downward between the fifth and the sixth. There is a stretc
 
 She stopped on the turn above the ground floor. She was not tired. She stood there with her hand still on the rail while the boiler below her went through what it goes through, and she worked out that she had one of two things to do with the rest of that morning and that both of them were the same size.
 
-What the two of them were is not on any paper in this empire, and she worked out the pair of them standing on a half landing in about the time it takes a clerk of twenty-nine to write a line, and neither of them took her the length of the four flights she had just come down, and she went down the last of them at the rate she had gone up at the fourth hour.
+What the two of them were is not on any paper in this empire, and she worked out the pair of them standing on a landing in about the time it takes a clerk of twenty-nine to write a line, and neither of them took her the length of the four flights she had just come down, and she went down the last of them at the rate she had gone up at the fourth hour.
 
 Then she went down the last flight and out of that building, and the door of it shut on its frame behind her, and at the bottom of four flights in a building where nobody had ever been told anything, she turned, and which way she turned is not on a piece of paper in this empire and was not going to be.
 

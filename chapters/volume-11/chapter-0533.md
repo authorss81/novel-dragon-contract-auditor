@@ -34,7 +34,7 @@ The bar was cold under her hands. It had been cold every morning for four years 
 
 She put her hands on it.
 
-Iron that has stood in a cold passage for four years is not the same as iron that has not, and a person learns it in about twenty minutes and then stops being able to feel it, which is the trouble, because the twenty minutes come back the moment she steps off the flags and the thing starts being cold under her again.
+A bar that has stood in a cold passage for four years is not the same as one that has not, and a person learns it and then stops being able to feel it, which is the trouble, because it all comes back the moment she steps off the flags and the thing starts being cold under her again.
 
 It took about as long as that bar takes to go into its housing and come out again, and she did it on the passage side, where she has stood for four years with both hands on it, and the hands went on flat and did what they have always done.
 
