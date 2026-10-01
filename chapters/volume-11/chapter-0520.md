@@ -16,7 +16,7 @@ Four times a month, that stair. It had been four times a month for eleven years 
 
 The strap did not come up. There was no hand on the fourth step from the top and no satchel set down on the wood at that end, and the far end of those boards was empty from the second hour to the sixth, and it is the first time in about eleven years that anybody on that floor has noticed a thing about that end of it.
 
-The far end of the boards has had a thing set down hard on it four times a month for eleven years, and this morning it had nothing set down on it at all between the second hour and the sixth. That is the whole of what any of the three women at that top can be shown about it, and none of the three went over and looked, and the wood does not record it either way.
+That is the whole of what any of the three women up there can be shown about it, and none of the three went over and looked, and the wood does not record it either way.
 
 Nobody put anything to anybody about it. There is nowhere on that floor at which a thing about the far end could be put to a person, and the only person in that building who could have said one word about it out loud was the man who did not come.
 
@@ -24,7 +24,7 @@ Nobody put anything to anybody about it. There is nowhere on that floor at which
 
 The three of them were in that room for six hours and nothing at all was wanted of any of them, which is the arrangement and has been the arrangement for eleven years and is the only reason that floor still works.
 
-Daylight gets in off the yard through a window halfway down the stair and stands in a low bar along the treads, and by the fourth hour it has come the whole way into the room and stopped against the far wall and stayed there. A woman of about twenty-four stood at her own end with her back to the room and an edge under her hands, and a woman of thirty-four stood at the other end with hers flat, and the clerk of about twenty-nine was at her own end of the joined tables with her face over an open book, and none of the three of them looked at the fourth hour or at each other.
+The fourth hour went by the way the third one had, and the only thing that was different about it was that a strap did not go over a shoulder at the top of those four flights at any point in it. Tamsin Rook had a blank squared in front of her at her own end and Marn Ottery had the boards in front of her at the far end of them, and neither of the two of them once looked along the top at the other, and the clerk of about twenty-nine spent the whole of it over the book without once coming up out of it, and not one of the three of them looked at the hour or at each other.
 
 About halfway through the fifth hour Tamsin Rook said one flat thing out loud, to the boards, in the ordinary way, and it was the third time in three months that anybody on that floor had said a true thing with a second person standing in the room.
 

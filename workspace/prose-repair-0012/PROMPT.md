@@ -108,13 +108,41 @@ Chapter length fell monotonically across twelve volumes, from about 4,000 words 
   PY
   ```
 
-  **It found a 23-word run, an 11-word run and an 11-word run on the last range before it returned nothing. That is four lines of `difflib` and it belongs beside `lifts` in this repository.**
+  **It found a 23-word run, an 11-word run and an 11-word run on the range before it, and after that range was audited its added-against-added index stands at one run of seven words and the review found a sixteen-word lift that neither index nor `lifts` returned at all. The sixteen words were added prose lifting an ORIGINAL line out of a chapter of the same range, which is the direction neither of the two indices above can see, and that is what the third index is for.**
+
+- **And here is the second half of that finding, and it is why the index above is not enough on its own. `lifts` excludes your range; the added-line index therefore only ever compares your added prose with your added prose. Neither of them can see a sentence you wrote that lifts an ORIGINAL line out of a chapter of your own range — which is the commonest import of all, because the room you are revoicing is the room the neighbouring chapters are already describing.** **On the range before this one the review found exactly that: sixteen words of added prose in `chapter-0520.md` that are `chapter-0515.md`'s own line 7, word for word, and `lifts` returned nothing and the added-line index returned nothing. Run the third index as well, and take it as seriously as the other two:**
+
+  ```
+  python3 - <<'PY'
+  import importlib.util, difflib, subprocess, re
+  spec=importlib.util.spec_from_file_location("m","tools/measure.py"); m=importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
+  added={}; orig={}
+  for n in range(501, 511):
+      f=f'chapters/volume-11/chapter-{n:04d}.md'
+      o=subprocess.run(['git','show',f'{BASE}:{f}'],capture_output=True,text=True).stdout.split('\n')
+      w=open(f).read().split('\n')
+      added[n]=[w[j] for t,i1,i2,j1,j2 in difflib.SequenceMatcher(None,o,w,autojunk=False).get_opcodes() if t=='insert' for j in range(j1,j2)]
+      orig[n]=" ".join(o)
+  def longest(a,b):
+      A,B=m.TOKEN.findall(a.lower()),m.TOKEN.findall(b.lower()); best=(0,'')
+      for a1,b1,L in difflib.SequenceMatcher(None,A,B,autojunk=False).get_matching_blocks():
+          if L>best[0]: best=(L," ".join(A[a1:a1+L]))
+      return best
+  for a in added:
+      for b in orig:
+          if a==b: continue
+          k,seg=longest(" ".join(added[a]), orig[b])
+          if k>=8: print(k,'words ADDED',a,'<- ORIGINAL',b,':',seg[:110])
+  PY
+  ```
+
+  **Eight words is the threshold and not seven, because a shared frame like `at the far end of the` is this volume's own connective and chasing it edits the voice out of the book. Report what stands and say why it stands: a run held by four or more chapters across four or more volumes is the register's stock formula and is not yours to remove, and a run held by a chapter LATER in the volume than yours is canon echoing you, not you lifting canon. Check the month on each holder's date line before you call a run a lift.**
 
 ## The concentration on this range, measured before you open it, because the leaders have changed on eleven ranges running
 
 **This is the one instruction phases have got wrong in opposite directions.** **This range's leader, `that room` at twenty-seven, is a closed-list form and is second on the range just repaired, where `that floor` at thirty-two led it by nine; the third-placed form here is `those boards` at ten, which is the counter, and on the last range's table the counter was not mentioned at all.** On the instruments printed whole in the section headed *THE PROSE REPAIR OF CHAPTERS 0541 TO 0549* in `state/batch-summary.md`, **`chapter-0501.md` to `chapter-0510.md` stands at `8485bc8` at:**
 
-- **16,196 words, 79 hits of the closed list of ten named forms, 4.88 per 1,000** — against 6.54 on the range just repaired, 5.38 on 0521 to 0530, 5.23 on 0531 to 0540, 4.96 on 0541 to 0549, 6.41 on 0551 to 0560, 7.77 on 0561 to 0570, 8.43 on 0571 to 0580, 10.68 on 0581 to 0590, 8.78 on 0591 to 0600 and 11.18 on 0601 to 0609. **This is the second-lowest pre-repair rate of any range this repair has measured and the closed list is not the second-heaviest, so this is not the room that was already full of it and a phase that treats the range as one thing will work on the wrong chapters. A repair that lengthens prose without cutting the construction lowers the rate and raises the count at the same time, so print both and judge the range on the count.**
+- **16,196 words, 79 hits of the closed list of ten named forms, 4.88 per 1,000** — against 5.49 on the range just repaired, which was audited after it landed and which now stands at 16,213 words and 5.49 per 1,000 on the same instrument, 5.38 on 0521 to 0530, 5.23 on 0531 to 0540, 4.96 on 0541 to 0549, 6.41 on 0551 to 0560, 7.77 on 0561 to 0570, 8.43 on 0571 to 0580, 10.68 on 0581 to 0590, 8.78 on 0591 to 0600 and 11.18 on 0601 to 0609. **This is the second-lowest pre-repair rate of any range this repair has measured and the closed list is not the second-heaviest, so this is not the room that was already full of it and a phase that treats the range as one thing will work on the wrong chapters. A repair that lengthens prose without cutting the construction lowers the rate and raises the count at the same time, so print both and judge the range on the count.**
 - **Per chapter, words: 1,884 1,449 1,645 1,507 1,571 1,622 1,523 1,528 1,820 1,647. Per chapter, closed-list hits: 15 9 5 4 1 9 9 9 4 14.** **The concentration is not even across the ten and it is not two chapters this time: `chapter-0501.md` at fifteen and `chapter-0510.md` at fourteen carry twenty-nine of the seventy-nine, and `chapter-0505.md` carries one.**
 - **Per form, closed list of ten: `that room` 27, `that floor` 22, `those boards` 10, `that lane` 9, `that stair` 5, `that door` 4, `that passage` 1, `that tin` 1, `that table` 0, `that sheet` 0.** Two of the ten are at zero and one of those is at one.
 - The wider sweep of **every** demonstrative plus noun in those ten files, with a function-word tail excluded because `that is` and `that has` are subordinators, returns **259 hits in 16,196 words, 15.99 per 1,000, across 103 distinct forms**. Its leaders are **`that room` 27, `that floor` 22, `that building` 16, `that end` 11, `those boards` 10, `that house` 9, `that lane` 9, `that sill` 7, `that board` 6, `that hour` 6.** **`that room`, the leader, is a physical fixture and is the one this range must be judged on.** The widened list of twenty-three stands at **109** and the list of twenty-five at **134**.
@@ -184,7 +212,7 @@ python3 tools/measure.py lifts --volume 11 --first 501 --last 510 --base $BASE -
 - **The runs by which `terms` exceeds `either` are date lines, and this is not a defect in either classifier.** `terms` calls a run prose when fewer than half its tokens sit inside a formula *term*, and a date line is mostly prepositions, ordinals and the word *year*, so `terms` misses it; `date` catches all fifty. Print all three buckets and read the runs before you report any of them as prose duplication. **And on the range before this one an added paragraph under a date line joined it into one 58-word span and moved the volume's twenty-word count from 4 to 5; the paragraph is gone and the count is back, and if you put a paragraph under a date line the re-print scan will tell you about it before the date-line check does.**
 - Section-break count per file must equal the original's, and the command for it is printed in the list above.
 - **Trailing newline: every file must end in one.** `for n in $(seq 501 510); do f=chapters/volume-11/chapter-0$n.md; [ -n "$(tail -c 1 $f)" ] && echo "$n NO-NEWLINE"; done` must print nothing.
-- **Read your own added sentences for verbatim runs against every chapter of the volume, including chapters you are not opening, with the `lifts` command above and not with `reprints --window 20`, and read the added figure against the baseline it prints beside it. Run the added-line index printed in the traps list as well, because `lifts` cannot see a run inside your own range.**
+- **Read your own added sentences for verbatim runs against every chapter of the volume, including chapters you are not opening, with the `lifts` command above and not with `reprints --window 20`, and read the added figure against the baseline it prints beside it. Run all three indices printed in the traps list and not one: the added-against-added index, because `lifts` cannot see a run inside your own range, and the added-against-your-own-range's-original index, because neither of the other two can see a sentence of yours lifted out of a neighbouring chapter of your own range, which is how a sixteen-word lift stood through a complete pass and a review that had re-run every instrument in this repository.**
 - **Person of the final section must equal the original's, on the scan printed above, with the bold interiority and the dialogue subtracted first. Plant it five ways before you believe it, and remember that the fourth is the person of the *closing* section, so a first-person section followed by a third-person one is a third-person chapter.**
 - Question-mark count across the ten files: zero.
 - **All ten date lines byte-identical to `$BASE`, and all ten title lines likewise, and the date line on the line number it had at `$BASE`.**

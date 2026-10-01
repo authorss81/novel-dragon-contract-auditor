@@ -4,7 +4,7 @@ The ground floor of that house has been described once and is not described agai
 
 It is the fourth day of the third week of the seventh month of the year after the year after the year after the year after the year after the year after the year after next, and it is about the first hour.
 
-What is in the ground floor this month is the arrangement of it rather than the contents, and the arrangement is twenty years old: the boards swept every working morning, an edge in the swept part where the tin is not, a gap at the foot of the door where it opens on to the lane, and a coin through that gap once a week onto the boards inside.
+The hour does not change with the season or with anything else. She has come down the lane at about the first hour for about a year and every one of those weeks has begun on the same day, and the day is written down nowhere in the house, and neither is the hour, and there is no column anywhere in this empire that one of the three of them has ever been entered in for coming down a lane.
 
 The woman of about thirty-five who keeps a day-book in her own hand has been coming down that lane once a week for about a year.
 

@@ -40,7 +40,7 @@ Then he said it out loud, to the plaster beside the window, because the room is 
 
 He put his hand flat on the outside of the pocket and left it there.
 
-The coat is still on the nail and nothing in this room makes heat, and about two years of that has taken the wool at the top of it to the colour of the plaster behind it, which is the colour everything in this room is the colour of. He has never had it brushed and there is nobody in this building who would come and do it, and a man who takes a room by the week is not a man anybody brings a brush to.
+The coat is still on the nail and nothing in this room makes heat, and about two years of that has taken the wool at the top of it to the colour of the plaster behind it, which is the colour of everything else in this room. He has never had it brushed and there is nobody in this building who would come and do it, and a man who takes a room by the week is not a man anybody brings a brush to.
 
 Whatever belonged at the foot of that struck line is gone, and it was not his mother's hand that put it there. The claim that travelled out of this empire with that name went the same way, on the same day. He has one of those two things in his pocket and has never had the other one, and neither of them is coming this month, and he did not say a word of it out loud.
 

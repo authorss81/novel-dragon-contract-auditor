@@ -14,7 +14,7 @@ It is the second day of the first week of the sixth month of the year after the 
 
 The boards were up and the case was out and there was nothing on either of them, and that is what that floor looks like on every working morning of the eleven years it has been like it.
 
-By the third hour the daylight from off the yard has come the whole way in and is lying up against the far wall of the room. Two tables pushed end to end make the one long working top, and the join between them runs across it in a straight line any of the three women could find with a finger in the dark. The near half of the working top has nothing standing on it at all. The far half has a woman at it who has been sitting at the far end of the working top for four years.
+Two tables pushed end to end make the one long working top, and the join between them runs across it in a straight line any of the three women could find with a finger on it. The near half of the working top has nothing standing on it at all. The far half has a woman at it who has been sitting at the far end of the working top for four years.
 
 Tamsin squared the near edge. It did not need squaring. She squared it again about a minute later and the woman at the other end of them watched her do it and said nothing for about as long as a sheet takes to be signed.
 
@@ -54,7 +54,7 @@ Tamsin squared it. About four hundred of them go out of that case in a year and 
 
 "Then I will square it and then neither of them will have moved, and that is the whole of what I have done this morning."
 
-The light had got as far as the far edge of the working top by then and lay along it in a bar, and everything past the bar was the ordinary colour of a room at the third hour. Marn Ottery did not look at the near edge, and Marn Ottery did not look along the working top either. She was watching the corner of it where the wood meets the wall, which is a thing a person can watch for an hour and never be said to have been watching.
+Marn Ottery did not look at the near edge, and Marn Ottery did not look along the working top either. She was watching the corner of it where the wood meets the wall, which is a thing a person can watch for an hour and never be said to have been watching.
 
 ---
 
@@ -84,6 +84,6 @@ There is no form anywhere in this empire in which she can be entered as the one 
 
 The two of them at the boards got on with the fourth hour and the fifth, and the case went in behind the boards at the sixth, and the four went up onto the wall above it on their own nails, and the fourth of them is the one nobody on that floor can account for.
 
-Between the fourth hour and the sixth the light came off the far wall by slow degrees until the whole of the room was one flat colour again. Nobody in it turned round at any point in that stretch, and nobody said one word, and a woman of twenty-four who had gone over one edge twice before the third hour went over it once more and stopped for a minute and started again, exactly as she said she would.
+Between the fourth hour and the sixth nobody in the room turned round at any point in the stretch, and nobody said one word, and a woman of twenty-four who had gone over one edge twice before the third hour went over it once more and stopped for a minute and started again, exactly as she said she would.
 
 The clerk of about twenty-nine put her hand flat on the open page in front of her and left it there for about as long as a sheet takes to be signed, and then she turned the page and carried on, and the pen went back where it goes every working morning of the four years she has been at that end of the room.

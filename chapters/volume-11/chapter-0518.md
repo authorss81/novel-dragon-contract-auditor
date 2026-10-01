@@ -8,7 +8,7 @@ The book lies open in front of her and the pen lies across the middle of the ope
 
 It is the fourth day of the fourth week of the seventh month of the year after the year after the year after the year after the year after the year after the year after next, and it is about the third hour.
 
-A window halfway down those four flights lets the yard in at the height of a man's chest, and by about the third hour the light it lets in has crossed the whole of the floor and is standing up against the far wall. The two joined tables are one long working top with a seam run straight across it, and the near half carries nothing at all, and the grain there has never been marked by anything set down hard on it, so it is the same pale colour all along as the grain under the book at the far end.
+The two joined tables make one working top about nine foot long, and a person who has decided to get up out of the room has to get past the whole of it to reach the door and past two women who have not been asked one thing all morning. She had all of it worked out a long while back and had never once put it to either of them as a thing they ought to know.
 
 ---
 
@@ -26,7 +26,7 @@ Tamsin Rook was at her end with her back to the room and she squared an edge tha
 
 Marn Ottery did not turn round. She has put the shape of a thing out loud four times in that room and has said in advance there will not be a fifth, and what she said at the end of that third hour was not a shape of anything.
 
-She had both palms flat on the working top with a foot of wood under each of them when it was said and she did not lift either, and she went on working the top afterwards at the rate she works it at on any morning, and the knuckles at the near ends of her fingers had gone pale and stayed that way for the rest of the hour.
+She went on working the top at the rate she works it at on any morning, and the sound of it is the ordinary sound of the near end of the working top and carries about as far as the far end, and the only person in the room who was in a position to have said one word about the rate of it had her face down over an open book.
 
 ---
 
@@ -66,7 +66,7 @@ Tamsin Rook went on squaring the edge, and neither of them said one word to the 
 
 She came back up the four flights at about the fourth hour and came into that room and sat down at the far end of the two joined tables and opened the book and put the pen down in the middle of it, and nobody said one word to her about where she had been and she did not say one word about it either.
 
-Coming back up four flights of stone takes a person longer than going down them, and the chair had been standing where she pushed it about a foot back from the top of the tables for the better part of an hour, and she came in and sat down in it without moving it, and the light had come off the far wall by then and the whole room was one flat colour again.
+Coming back up four flights of stone takes a person longer than going down them, and the chair had been standing where she pushed it about a foot back from the top of the tables for the better part of an hour, and she came in and sat down in it without moving it, and the room was the room she had left an hour earlier with nothing whatever done to it while she was gone.
 
 There is nothing in that building that says she was in that room, and nothing in it that says she was not, and nothing in it that says she went down four flights and came back up again, and the two of them at those boards have not mentioned it and are not going to.
 

@@ -12,7 +12,7 @@ It is the second day of the first week of the seventh month of the year after th
 
 He came up that last flight and stopped on the fourth step from the top, the way he has stopped there every week for eleven years, and then finished the stair and set the bag down on the wood at that end.
 
-Four flights of stone run up the side of the building, with a rail down the open side of them, and a bag set down on wood at the top makes a noise anybody up there can hear coming for about six seconds. Nobody in the room turned round at it. The wood at the far end of the boards takes a weight nothing else on that top ever takes, and has taken it four times a week since a month that is gone.
+Four flights of stone come up the side of the building and a bag set down on wood at the top of them makes a noise anybody up there can hear coming for about six seconds. Nobody in the room turned round at it. The wood at the far end of the boards takes a weight nothing else on that top ever takes, and it has been taking one for eleven years, and not one word about the far end of it has ever been put to anybody up those four flights.
 
 Four times that month. Nobody in this building has ever told him what is in it and he has never once asked and it has never been a courtesy between him and anybody on this floor and it is not going to become one this month.
 
@@ -28,7 +28,7 @@ He is on his feet the whole of it. There is nothing for him to do up there and t
 
 Marn Ottery did not turn round.
 
-She has not turned round for anything anybody has said at the near end of the boards in two years, and she does not do it for the shape of a thing said out loud either, and the reason is not modesty. It is arithmetic. Turning round costs her one end of the room and keeps the other, and eleven years of standing where she stands has taught her which of the two she would rather be able to answer for.
+She has not turned round for anything anybody has said at the near end of the boards in two years, and she does not do it for the shape of a thing said out loud either, and the reason is not modesty. It is arithmetic. Turning round costs her one end of the room and keeps the other, and eleven years of standing where she stands has taught her which of those two she would rather be able to answer for.
 
 She had the whole of that floor in view and she had had it every working morning for eleven years, and she is the only one of the three of them who has both of the two people and the room in the same field of view at once, and she had that now, and she is not going to say one word about it to anybody and nobody is going to thank her for it.
 

@@ -8,13 +8,13 @@ In the inside pocket of the coat on the nail there are two things, one on each s
 
 It is the second day of the second week of the seventh month of the year after the year after the year after the year after the year after the year after the year after next, and it is the morning.
 
-Nothing in the room makes heat. Four feet or so of bare wall stands at the side of the window, nothing is on any part of it, and there is one nail in the plaster at about the height of a man's own hand with the coat on it. The boards carry a chair with one leg shorter than the others, which is why the chair is where it is and not anywhere else.
+Nothing in the room makes heat, and the stretch of bare wall beside the window is about four foot of it with nothing standing on any part, and the one nail in the plaster is at the height of a man's own hand with the coat on it. The chair with one leg shorter than the others is why the chair is where it is and not anywhere else.
 
 ---
 
 She came to the door for the third time in three months and she did not knock, which is a thing she has never done before, and she stood on the other side of it and did not knock and did not go.
 
-There are four flights to the door and every one of them is stone, and the rail is on the open side of the run, and a person going up at an ordinary pace can be heard twice over before she reaches a landing. He has had eleven years of her at the top of it and three months of her not being asked anything by anybody in this building, and a landing outside a shut door is where a person with nothing to say ends up standing on.
+There are four flights to the door and every one of them is stone, and a person going up them at an ordinary pace arrives at the top without having made a sound she was choosing to make, and nobody at the top of them ever hears her choose. He has had eleven years of her at the top of it and three months of her not being asked anything by anybody in this building, and a landing outside a shut door is where a person with nothing to say ends up standing on.
 
 He was in the middle of that floor. He heard her not knock, which took longer to hear than a knock would have.
 

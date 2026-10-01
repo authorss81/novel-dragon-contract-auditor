@@ -12,8 +12,6 @@ It is the second day of the first week of the eighth month of the year after the
 
 She came out into the corridor at about the second hour and stopped at the end of that sill, and about nine hundred sheets a year were going out of that building with his mark at the foot of them, and neither of the two people at that sill was looking at her.
 
-There is no window on the corridor at the near end of it, so one end of the run stands in the daylight off the room behind her and the other does not, and she stood with the light behind her the whole time. Four feet of stone run down the corridor with the sill at the end of them, and the weather comes onto the stone straight on whatever the season is doing outside the building, and it has been arriving like that for about four years.
-
 The girl of about nineteen came out under an armful at about the same moment and stopped where she always stops.
 
 They had not been in that corridor together at that hour for about a month, and the last time they had been, the woman of fifty-three had said a true thing about a book and the girl had not answered it.
