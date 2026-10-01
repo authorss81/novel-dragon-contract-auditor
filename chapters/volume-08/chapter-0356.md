@@ -10,6 +10,8 @@ This is the fourth day of the third week of the second month of the year after t
 
 **Nobody has asked her the box she is in, and nobody is going to.**
 
+It was the afternoon and the bench down the side of the room was occupied from one end of it to the other, and the sound of men working at it was the ordinary sound of a bay with men at work in it, and it was the sound she had walked into about nine years ago and had never once got used to. There is no hour of a working week in which the sound stops and no hour in which it is the only thing in the room.
+
 Not this week. Not in about two years. The men at the front of that bay have known since the day it went in, and not one of them has said a word about it since, and that is not a courtesy between them and it is not going to be lifted and it is not anybody's decision.
 
 "**Being in a box and not being asked about it are the same arrangement, and that arrangement was made in that shed by nine families and not by me.** I have had two years to find a way of saying it as though it were two things, and it is not two things, and there is not going to be a way."
@@ -22,6 +24,8 @@ Not this week. Not in about two years. The men at the front of that bay have kno
 
 She said the rest of it once, in a room with about nine people in it, in the closed part of this, and she is not going to say it again.
 
+She has not been in the room where it was said since, and she has not stood in front of nine people at once since either, and the second of those is a harder thing to have given up than the first, and she has not said which of the two she minds.
+
 What she said then was that the form had not been asking her whether she would represent anybody. It had been asking who she represents. **There is a column for the answer and there is no column for a refusal, and a person who writes nothing in it has not refused and has not agreed and is still in the class**, and that is the whole of what she has to say it, and she has said it.
 
 Nobody thanked her for saying it. There is not one form anywhere in this empire that requires a person to be thanked for telling the truth out loud in a room where nobody in charge of it is standing, and the going without being thanked is nobody's decision and is not going to become one.
@@ -31,6 +35,8 @@ Nobody thanked her for saying it. There is not one form anywhere in this empire 
 At the back of that bay sit the two of seventeen, and they have been sitting there for weeks, on an engagement in writing with terms on it and a rate set out at the foot of it, and one of the four lines of it carries the name of a person who has never been in that lane.
 
 **Neither of them was spoken to this afternoon, and not one of them was thanked, and not one of them was sent for, and not one of the two is going to start.**
+
+They had a bench of their own at the back of it, which nobody put there and which came with the writing and has stayed where it has always been, and there is a gap between their bench and the front of the room that anybody in the bay could cross without stopping work. Not one of the nine has ever counted it and not one of them has ever needed to.
 
 The reader is paid forty-five pence a day and four days a week, and one day of that comes to anywhere between four pence and a shilling, depending on what gets set on the bench that day, and the rate is there because somebody who is not in that bay and never has been put a figure into a list.
 
@@ -44,6 +50,8 @@ Nobody moved them to the front of that bay. There has been room at the back of i
 
 The man of about fifty-five with the chain is on the front bench. The chain is on him and it has been on him for years. He is not one of the four and says so out loud about once every few months to nobody in particular, and nobody has ever put him in a list of them and nobody is going to.
 
+It has never once been picked up by a person in the bay and he has never once expected it to be, and there is a form of patience in that which is not written on any of the four lines of the paper at the back.
+
 He has known for about four years that findability does not work on him. He has never once used it. Nobody knows that he knows it and he has never told anybody, and that is his business and not a thing anybody in that bay has standing to raise.
 
 ---
@@ -51,6 +59,8 @@ He has known for about four years that findability does not work on him. He has 
 The man who keeps the books of that Company is four hundred yards up the same lane, and he has wanted the second half of a sentence of hers since the third month of the year after.
 
 She gave it to him on the way down, in the doorway of the south end of the hired store, where the light is bad and there is nothing in the doorway that is hers and nothing in it that is anybody's.
+
+The doorway is not a room and there is nowhere in it to set anything down, and the two of them had stood in it long enough for the air in it to be different from the lane on either side of them. He had the book of his own under his arm and she had her hands in her pockets, and neither of them had come out of it.
 
 "The rest of it is not mine to give you," she said, "and the half I have given you has cost me a fortnight of a fortnight and I will not say that again either."
 
@@ -73,5 +83,7 @@ She is not going up the lane to say the rest of it, and she is not going to make
 ---
 
 The cross in the chalk on the end wall of the bay is at the height of the third link of that chain, and it means nothing at all. It belongs to nobody, and it stands about four years away from turning into anybody's evidence, and the chain it is level with is on a man, and nothing in that lane is ever going to turn either one of them into anything whatever, and she is not going to be the one who scrapes it off to see what is underneath.
+
+She had said all of it out loud in this building and had not been thanked for it, and the chalk has been on that wall for longer than she has been in front of it. The bench down the side of the room was warm where the men had been sitting at it and cold at the ends of it.
 
 At the sixth hour the gate at the bottom of that lane was still shut, and the two of seventeen were still at the back of the bay, and the lamp above the middle of the bench went on not being lit. The count of things anybody has asked out loud in this matter was the same as it had been when the gate was shut. There is nobody in that bay that anybody is looking for, and there was nobody in it at the sixth hour that there had not been at the second.

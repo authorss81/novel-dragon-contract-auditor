@@ -10,6 +10,8 @@ This is the fourth day of the third week of the third month of the year after th
 
 **The arrangement that has kept about nine hundred sheets a year out of every book in this empire for nineteen years is the arrangement that has kept anybody from asking the man at the foot of them one question, and those are one fact and not two.**
 
+She has her own chair and her own table and her own drawer, and the three of them are the whole of what belongs to her in the building, and she would not be able to name a fourth. Everything else in there belongs to the building and gets used by whoever comes up the passage, and she has never asked for anything of her own and has never wanted to.
+
 She got to that in about four minutes, spread over six years, in this room, with a pen on the table and nobody to say it to. It is not a discovery anybody could act on. It is a discovery about the shape of a thing.
 
 A question put in that building is a question put into a record. The record is the shelf. The shelf is what the sheet goes in. And the last time a thing of that shape happened to about four hundred people, their sheet went back to them and they did not get an answer and nobody was punished and nothing was wrong with anybody's work.
@@ -22,6 +24,8 @@ She has never been told about that. She has read about four thousand entries tha
 
 That is the whole of the second half of it, and it has held for nineteen years and there is no form that lets her enter one. A minute that records that a room stood empty is a minute. A minute that records what a man said standing up in front of about nine people, and what the man of sixty-one did with his face while it was being said, is not a minute. It is an instruction, and an instruction has to be carried out by somebody, and the somebody would have a name on it, and a name on it is a party.
 
+The whole of what that means in the ordinary way is a page, and a page is a thing a person can be shown. She has made a page nineteen years running and there has not been one of them that anybody could have been shown and got anything out of, and she has never had to decide to keep it that way, because a minute with nobody in it does not have anything in it to give anybody.
+
 **So she has not entered one in nineteen years, and not entering one is not a rule anybody made, and it is the price of the only thing anybody has ever asked her to do, which is to be right.**
 
 Nobody has thanked her for that either. Nothing anywhere in this empire calls for thanks to a person for doing a thing properly, and the going without is nobody's decision and she has never once taken it for one.
@@ -29,6 +33,8 @@ Nobody has thanked her for that either. Nothing anywhere in this empire calls fo
 ---
 
 Under that window, on that shelf, there is the finding of six years of her own motion, and it is still in the form of a question, and it has not been turned into a sentence, and there is no full stop on it anywhere.
+
+It is a page and not a bound thing and it has been on that shelf since the day she wrote it and has not been moved since, and she is not going to be asked to move it and there is nobody who could do the asking. She has read it over more than once and the temptation to finish it has never once arrived, and the not being tempted is not the same as not wanting to, and she has never worked out which of the two it is.
 
 She wrote it with nobody's request behind it, and the day and the hour are on it, and her own name is at the foot, and it is the only thing on that shelf with a name at the foot. **She is the only person in this matter anybody could serve a question on in writing**, and she is paid nothing for standing ready to have it served.
 
@@ -39,6 +45,8 @@ A quarter of it was answered out loud in a room at the far end of her own passag
 She is not told anything what a man said in a room at the far end of her own passage, and she wrote none of it down, and nobody is going to ask her why she wrote none of it.
 
 There is nothing in this empire that would let a clerk of an office be told that a person is coming, and there is nothing in it that would let one be told that a person is not.
+
+She has a table in front of her and a drawer and eleven books on a shelf behind her and four hundred yards of flags outside the door, and every one of those is a thing this empire can find and not one of them is a thing this empire can be sent for, and she has arranged them in an order that lets her work and nobody has ever looked at the order.
 
 So what she said out loud in this room, standing at her own table, is exactly as it stands, and **that is the price of the standing ready, and it is not a punishment and nobody laid it out, and she has never had the chance to find out whether she would do it again.**
 
@@ -52,11 +60,15 @@ She entered the four. She wrote the day and the hour and the four numbers, and t
 
 He did not ask her anything and she did not ask him anything.
 
+He stood in the doorway and she did not ask him to come further in and he did not come further in, and the two of them have stood it like that since the first of the two times, and neither of them ever set it out. Standing in a doorway is not the same as sitting down, and he has never once sat down in there and she has never once asked him to.
+
 "The flags are cold at this hour," said the man of about sixty-one. "They are worse after rain than they are in a dry week, and I have said that in this room twice and I have never once been asked whether it is true."
 
 "You have not," said the clerk of about fifty-five, and wrote the fourth number while she was saying it.
 
 He put his thumb on the top sheet of the four, the way a man touches a thing he has already decided about, and said that the fifth of that year was not what the person above wrote it, and that she was to enter it as it came.
+
+He said it standing in the doorway the way he says everything in it, and it went into her and she did not turn round, and the pen went on, and nothing else in the room moved at all.
 
 "I enter them as they come," said the clerk of about fifty-five. "That is the whole of what I am for and there is nobody in this building that has ever told me to do it any other way."
 
@@ -73,5 +85,7 @@ He said that he did not, and picked the four up off her table, because that is w
 Four things went into the books between the fourth hour and the fifth hour this afternoon, and they went in correctly in a hand that does not vary, and the eleven books on that shelf stand at about four thousand entries and there is not one name in any of them.
 
 That is not carelessness. A minute book has one shape and no other, and she is very good at that shape, and being good at it is the whole of what she is paid for.
+
+She has been in it nineteen years and has never wanted one that was different. She counted the four back in as four and not as a morning, because a morning is not a unit and four is, and she had the shelf squared behind her before she sat down again.
 
 The pen is still going. It has been going for nineteen years and it is the only object in that room that is on the same page every day, and nobody in this empire will let a pen be said to a person. The count of things anybody has asked out loud in this matter is the same as it was when the man of sixty-one came up the passage. The finding of six years is still a question on the shelf under the window, with her own name at the foot of it and no full stop on it, and the pane is still out of the window. She is still the only person in that building who anybody could serve a question on in writing, and nobody has served one on her, and she is paid nothing.

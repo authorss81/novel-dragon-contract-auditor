@@ -12,6 +12,8 @@ This is the fourth day of the fourth week of the first month of the year after t
 
 **A person who is not asked has not been given a duty**, and she has known that since the seventh month of next year, and she has never once known it to be untrue of her, and nothing at that counter was ever put to her to begin with.
 
+The counter is open four hours and she is at one end of it for them, and the number of people who come up to the counter in those four hours is a number she has never once kept, and there has never been a week in two years in which keeping it would have changed anything she did with it.
+
 Wanting is not owing and owing is not asking. She has gone two years with this sitting nearer a hunger than a grievance, and the distance between those two is fourpence a copy and nothing else at all, and nobody has ever put a figure on it either.
 
 ---
@@ -27,6 +29,8 @@ That is the last time anybody has put a question to her. It is a fortnight out o
 "That was not to me," said the woman at the other end of the counter, and she did not look up.
 
 "It was to the board."
+
+The pen was still not moving. She put the point of it down on the column without pressing and left it there, and the woman opposite went on with her own work and let about a minute of the room go by without putting anything into it, and a minute is a long time at a counter with one other person in it.
 
 "You are at my counter, and I have been at this counter eleven years, and there is not one form anywhere in this empire for a clerk to say to a person that a thing was said to a board, and if there were one you would be in a worse position this evening than you were at the second hour."
 
@@ -45,6 +49,8 @@ Tamsin Rook wrote a figure in the column she was working on, and the figure was 
 "He has never thanked me and I have never wanted him to, and those two are one arrangement and not two, and I would like the person at this end of the counter to stop sitting two years over a want of that shape when there is a woman four feet away who has been at the same table for eleven years and has been thanked by nobody either, including me."
 
 The woman at the other end of the counter put her pen down and turned her head and looked at the board on the wall behind Tamsin Rook, at the four items on it, and her eyes went to the fourth of them and stayed there a moment, and then she picked the pen up again.
+
+Both of them knew what the other one had looked at and not one word was said about it by either of them, and the woman opposite went back to the column in front of her, and the room went on being the room it had been all the afternoon. That is how two people at one table are, and it has been how they were for most of the time she has been there.
 
 "I wrote the fourth one," she said. "About four years ago. In my own hand. And there is a clerk at this counter who is not a fool, and I have never said so, and I am not saying it now. I am saying it because you have said a thing out loud to a board and I have been in this building for eleven years and I am tired of the two of us sitting at one table with our faces turned away from each other."
 
@@ -72,6 +78,10 @@ The box of about four hundred blanks under that counter is not hers and she has 
 
 There are four things in a drawer at her end of the counter. **The fourth of them has not been opened and has not been sent and has not been touched, and it is where it has been, with three others, and no key to that drawer has ever been offered to her and she has never asked for one.**
 
+The drawer runs in under the work at her own end of the counter and it takes most of a forearm to get at. She knows where in it the fourth of them is without looking, which is not the same as knowing what is in it, and she has never once gone in for the other three without going in for all four.
+
 She has not ruled a third line this week and is not going to. The decision about whether she trusts a man's judgment is unmade, has not been made in any of the years before this one, and is not going to be made in a dead hour at the other end of a counter with a board on the wall behind her.
+
+There is an hour between that and the sixth and she got through it with the column in front of her, and the figure in it was finished a good while before the ink was dry. She did not turn round to the drawer once in that hour and she did not go over to the other end of the counter, and she had her own book in the room and did not open it.
 
 At the sixth hour the stair was still empty, the way it had been since the second. The woman at the other end of the counter took her own shawl off the back of her chair and put it on, and going past she said out loud that the fourth item on that board was the only one of the four she had ever been able to read in a hurry. Tamsin Rook said that she had not been able to read it at all. Neither of them said anything else, and the counter shut at the sixth hour with the box still under it and the fourth of the four still in the drawer.
