@@ -6,7 +6,7 @@ Thirty-four or thereabouts, a fair hand, and a trade in copying out other men's 
 
 This is the second day of the first week of the sixth month of the year after the year after the year after the year after next, and the weather is coming off the eaves of both of those doors, and it is about the fifth hour.
 
-Water ran off both eaves in steady threads, drumming the paving below. He stood sheltered under the upper doorframe with damp seeping through his cuffs. The two front windows stared blank at each other across the narrow gap, dark with the grey of the afternoon.
+Water came off both eaves in steady threads and drummed on the paving below and the whole of the narrow strip of it was moving. He stood under the upper doorframe with the damp coming through the cuffs of his coat. Four feet of lane and the width of two doors and a half of sky, and nothing at all of the other side in it, and no door on either of them open.
 
 ---
 
@@ -28,7 +28,7 @@ He stepped up one step to meet her, closing half the distance between them. Wate
 
 "No. And I am not going to start, and if you have been waiting about two years for me to start then you have been waiting for a thing that is not going to happen, and that is not me being hard on you, that is me telling you the truth about a door that is shut."
 
-She held the cloth bunched in one fist while she said it. Her voice stayed level through to the end. He nodded slowly, taking it in, and looked past her at the wet lane rather than answering straight away.
+She said it without her voice going up on any part of it. He nodded slowly and took it in and looked past her at the wet lane rather than answer her straight, and the two of them stood on the step and in the lane with the whole of the arrangement between them and neither of them put it down.
 
 ---
 
@@ -36,13 +36,13 @@ She held the cloth bunched in one fist while she said it. Her voice stayed level
 
 That absence is why he told her the once. **It is why he is not going to tell her where he has been this week, or the week before it, or in any of the weeks in which he was on nobody's list and went and came back.**
 
-He rubbed the back of his neck where the damp had settled, and looked down at his own boots on the step. They were scuffed pale at the toes from the climb. She watched him with her arms folded, waiting him out, and the quiet between them held without breaking.
+He rubbed the back of his neck where the damp had got into it and looked down at his own boots on the step of the upper door. They were scuffed pale at the toes from the climb. She watched him with her arms folded across her and waited him out, and the quiet between the two of them held without either of them breaking it.
 
 "Then we are two people about four feet apart with the same arrangement," she said, "working it in opposite directions, and I never knew there were two sides of it until you stood on that step and told me a reason instead of asking me for a minute."
 
 "You knew there were two sides."
 
-She unwound the cloth from her arm and shook it out, then folded it over again with deliberate care. The gesture gave her hands something to do while she chose her next words. He waited, knowing better than to hurry her, and the rain filled the interval with its drumming.
+She worked the cloth about on her arm and folded it over again with more care than the folding wanted. It gave her hands the length of about a minute and she used the whole of it before she chose what to say next. He waited, knowing better than to hurry her, and the rain filled the interval in.
 
 "I knew there was a me in it. I did not know there was a you in it that had done the arithmetic." She went in, and the door was not shut behind her in a way that meant anything, and he stood on the step for the length of a coat being taken off.
 
@@ -50,7 +50,7 @@ She unwound the cloth from her arm and shook it out, then folded it over again w
 
 The woman of about thirty-five next door came out on her own step at the same hour and stood on it, the way a person stands on a step in weather.
 
-She had a shawl over her head against the drip from the eaves. Her hands were tucked into her sleeves. She looked first at the sky, then along the lane both ways, the practiced survey of a person waiting on something late.
+She had the cloth folded over her arm against the drip and her hands were pushed up into the sleeves above it. She looked at the sky first and then along the lane both ways, the way a person looks when what they are waiting for is late and is not coming from where it should.
 
 "The delivery has been late four days running," she said, across four feet of lane.
 
@@ -60,7 +60,7 @@ She had a shawl over her head against the drip from the eaves. Her hands were tu
 
 "Then it was the road."
 
-His wife nodded toward the far end of the lane where the ruts ran deep with standing water. The woman next door followed her glance and made a small sound of agreement. They stood a moment in companionable dissatisfaction, two householders against the weather, and the rain went on falling on both of them alike.
+His wife looked down the lane to where the water had been standing longest and was standing longest now. The woman next door followed where she was looking and made a small sound of agreement with it. They stood a while in that, two householders and a wet week between them, and the rain went on coming off both eaves and neither of them went in.
 
 "Then that is two of us who have been standing at a door in the same weather and neither of us is going to say thank you for it."
 
@@ -68,6 +68,7 @@ His wife nodded toward the far end of the lane where the ruts ran deep with stan
 
 Neither of them said thank you for it. The two of them stood at their own doors with about four feet of wet lane between them and nine feet of air, and neither of them said one word about the man who had just gone inside, and there is no form anywhere in this empire for speaking about him out loud, and neither of them wanted to.
 
-Rain threaded down between the houses and ran gurgling down the lane. One of them moved her feet and the step scraped underfoot. They stayed a while longer without speaking, keeping each other company in the weather, and then each went in by her own door.
+Rain came down between the two houses and found the low place in the lane and went along it. One of them moved her feet and the step went under her and came back with a noise. They stayed a while longer without saying anything, the two of them not saying anything at each other in a lane four feet wide, and then each went in by her own door.
 
+The two doors were shut and the lane went on being four feet of wet between them, and the dripping off the two eaves did not come in the same time and had never once been made to. There is no form anywhere for a person standing on her own step waiting to find out whether a thing is the road or the man, and the finding out is not on any sheet, and neither of them had said one word to the other about the one who had gone in.
 **That is the arrangement in the next house worked in the other direction.** The two of them have never once compared notes about it, and both of them would be inside four feet of the other one inside a minute if either said one word out loud, and neither of them did.

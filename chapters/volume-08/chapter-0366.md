@@ -6,7 +6,7 @@ This is the other end of the same dye end, and the counting room behind it is th
 
 This is the second day of the second week of the fifth month of the year after the year after the year after the year after next, and the stove has been out since before she came in, and it is about the second hour.
 
-She handled the loaned ones with a cloth between her fingers and the bindings, sparing them where the binding had cracked. Her own book sat apart at the end of the row, spine faded where her hand found it each day. She could tell them apart blindfold by weight alone, and often did when the light failed early.
+She handled the fifteen that were on loan with a cloth between her fingers and the bindings and went round the cracked one twice. The sixteenth stood apart at the end of the row where she could get at it without moving the others, and she could tell the sixteen apart with her hands off in the order they stood, and the broken light in the window failed early on a morning like this one and she went along the row by shape.
 
 ---
 
@@ -14,11 +14,11 @@ She handled the loaned ones with a cloth between her fingers and the bindings, s
 
 "You have not said it again," the second woman said, and set the day's numbers on the bench where they are set.
 
-Beyond the wall, dripping kept a steady time like a clock. The papers lay squared and waiting, columns of figures in a careful hand. The second woman kept her palm flat on the topmost sheet a moment longer than needed, reluctant to let go of it, then stepped back.
+Beyond the wall the dye end went on at whatever it went on at, and the room took the sound of it without doing anything with it. The day's papers lay squared where the second woman had set them, and she kept her palm flat on the topmost one a moment longer than the setting of it needed, and then took the hand away and stood and waited.
 
 "No."
 
-The word landed flat between them. The second woman drew her shawl closer at the ears where the cold worked in, and her fingers worried the frayed end of it. She looked at Nell across the bench with something between patience and reproach, and waited to be told what she already knew.
+The word landed flat between them. The second woman drew her shawl closer at the ears where the cold worked in, and her fingers worried the frayed end of it. She looked at Nell across the bench and waited to be told what she had come in to be told.
 
 "I have been carrying four of my own since the morning you said it and I have had two of them stop, and I have not got the second one back, and I did not have it before you told me either."
 
@@ -30,7 +30,7 @@ The word landed flat between them. The second woman drew her shawl closer at the
 
 "I am not going to say it again," Nell Kest said, "and the reason is about you and not about me."
 
-She folded her arms against the cold of the room. Her breath showed faint between them. The stove stood black and dead behind the bench, and neither woman looked at it directly, though both knew it was there.
+She folded her arms against the cold of the room. The stove stood black and dead behind the bench and had been out before either of them was in it, and neither woman looked at it straight on, and both of them knew exactly where it was.
 
 "Go on."
 
@@ -42,7 +42,7 @@ She folded her arms against the cold of the room. Her breath showed faint betwee
 
 So she said it over again. It took about four minutes, the stove was dead the whole of it, and not one word came out differently the second time than it had the first. No form for saying a rule again, and none for a woman carrying it alone on the strength of having been told it once, and the whole of what those four minutes bought was a second pair of hands that cannot let go of it. The second woman took out nothing to write with, because **that room has never had a place ruled for a rule and does not have one now.**
 
-Her voice stayed low and even through the whole of it, stopping at each point the way she had stopped the first time. The other woman listened without moving, hands gripping the edge before her. When it ended neither spoke at once, and the quiet held until one of them shifted her weight.
+Her voice stayed low and even through the whole of it, stopping at each point the way she had stopped the first time. The other woman listened without moving, her hands gripping the edge of the bench. When it ended neither spoke at once, and the quiet held until one of them shifted her weight.
 
 "It is in two heads in one lane now instead of one," the second woman said, at the end of it. "**That is what your four minutes bought.** I am not going to say it to a third one and you are not going to either, and a person who says a rule twice is a person who says rules."
 
@@ -50,17 +50,19 @@ Her voice stayed low and even through the whole of it, stopping at each point th
 
 "I know. That is why I am telling you that I heard it the second time and not the first."
 
-She straightened as she said it, rolling her shoulders against the stiffness. The wood creaked under the shift of her weight. Nell watched her with her hands folded tight before her, and neither reached toward the other across the space between them.
+She straightened as she said it and put her weight back onto both feet. The bench took it without a sound. Nell watched her with her own hands folded in front of her, and neither of them reached across the space between them, and the four minutes ended with the two of them exactly where the four minutes had found them.
 
 ---
 
 The eleven houses off that lane send their numbers in on the first of the two days and get eleven numbers back on the second, and she writes all of it in a hand that has not varied in three years. There is a figure in the fourth column she cannot account for and has never touched, and she will not touch it, because the day a counting room starts correcting figures is the day it starts having opinions.
 
-She ruled the morning's columns with a steady hand, measuring each line by eye. The pen moved down the page without pause, number under number in neat ranks. Outside, the lane went about its business, hooves and voices passing and fading, and she wrote through it all without lifting her head.
+She ruled the morning's columns and measured each line by eye and did not hurry any of them. The pen went down the page number under number in ranks and she did not lift it between two numbers. Outside, the lane went about its business and went past and did not stop for any of it, and she wrote the whole of the eleven through it.
+
+The shelving behind her was made for books taller than the ones on it, and the space above the row ran the length of the wall, and nothing had ever been put into it. She knew the size of the gap without measuring it and had done since her second morning in the room, when she was twenty and settled in her own mind that the filling of it was not going to be her, and she came in every morning since and the space was there and so was everything she had decided about it.
 
 Her pay stopped arriving in the second week of the third month of the year after and has not come since. It is nineteen days of a crew's money, and it is sitting in a coat four miles off, and the man holding it cannot say what it is sitting against.
 
-Her eyes stayed on the figures while she spoke of it, not lifting. The pen moved steadily across the page, forming each number with care. What she did not say hung plainer than what she said, and the other woman heard it and let it lie.
+Her eyes stayed on the figures while she was talking about it and did not come up. What she did not say took up more of the room than what she said, and the other woman heard all of it, and let it lie where it fell.
 
 **She is not going to ask him what it is sitting against, and she decided that before this week.** A question would be answered, and the two of them would then be parties, and an answer is a record, and records go into sheets. She is not going up this river this season, and this season is not never, and she has not used the word never and is not going to.
 

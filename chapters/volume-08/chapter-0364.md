@@ -6,7 +6,7 @@ He is about fifty-five, and the chain has been on him for years, and a paragraph
 
 This is the fourth day of the fourth week of the fourth month of the year after the year after the year after the year after next, and the lamp is not lit, and it is about the fifth hour.
 
-The links rested cold through his shirt where they crossed his shoulder. He shifted them once with a practiced roll, easing the rub of a morning spent standing. His hands were broad and scarred at the knuckles, nails broken short, and he kept them loose at his sides while he looked the bench over.
+The links rested cold through his shirt where they crossed his shoulder, and he had got used to that the way a man gets used to a thing he has decided to keep carrying. He shifted them once with a practised roll, easing the rub of a morning spent on his feet. His hands were broad and scarred at the knuckles and the nails were broken short, and he kept them loose at his sides while he took in the bench and the slate and the wall without going up to any of them.
 
 ---
 
@@ -16,7 +16,7 @@ The links rested cold through his shirt where they crossed his shoulder. He shif
 
 He has never once been in a room with a thing he wanted to do and nine men watching, and a thing that worked once in a life, at a gate, with a man at it and nothing else in the world, is not a thing anybody is going to try in front of nine men over a slate.
 
-He crossed his arms, tucking his hands away. The bay smelled of damp cloth and the sweat of men who labored near one another all day. A voice called somewhere out beyond the gate, steady as weather, and stopped, and started again.
+He crossed his arms and tucked his hands away, out of the way of a thing he had no part in. The bay filled and emptied on a rhythm none of the nine of them kept to, and it smelled of wet cloth and of men who laboured near one another all day and did not mind. Out past the gate a voice called a measurement and was answered from somewhere further off, and stopped, and started again, and the bay did not take it in at all.
 
 ---
 
@@ -26,7 +26,7 @@ On the bench in the middle of the bay there were two slates. They are not his an
 
 He stood over it for a while.
 
-Dust lay thick on the slate frame and along the bench edge beside it. He breathed through his nose, slow, and did not touch the surface. He bent closer, though closer showed him nothing he could use.
+It was a slate. He knew that much by the weight of it and by the way it sat down into the frame, and there was a shine on the frame where hands went, and there was writing on the other one that he would not be able to read with the lamp lit either. He breathed through his nose, slow, and did not put his fingers on it, and he bent closer, though closer showed him nothing he could use.
 
 "Is that a question?" he said it out loud, to the bench, about the slate, and it was. **There is no form for handing a question to a person, and a question with no name at the foot of it is not a thing anybody can be shown to have got wrong.**
 
@@ -38,11 +38,11 @@ The man of about twenty-eight, who is at the front of that bench and has been on
 
 "A boy of nine carries slates about this town," he said, "and I have watched him go past this gate twice this week with one under his arm, and there is nothing written at the bottom of that one, and a slate with nothing at the bottom of it is a thing nobody has ever been asked to look at in this bay in nine years."
 
-The younger man spoke with his eyes on his own hands, turning them palm up and palm down as if checking them for something. Knuckles white, then red again as the blood came back. He did not lift his head through the whole of it, and the bay went quiet around his voice.
+The man of about twenty-eight spoke without lifting his head, and he had his own hands turned over in front of him and was going through them again as if checking them for something. The knuckles went white and then came back red, and the bay went quiet around his voice while he did it, and did not come back until he had finished.
 
 "It has got a question on it."
 
-The older man said it stubborn, jutting his chin. His fingers curled against his palms at his sides. The younger man sighed through his nose and rubbed his face with one hand, and the slate lay between them on the bench, patient as stone, keeping its counsel.
+The older man said it with his chin out in front of him, and his fingers curled in against his palms at his sides. He caught himself doing it and let them go, and the man of about twenty-eight sighed through his nose and rubbed his face with one hand, and the slate lay on the bench between them with the whole of its question on it and not one of them any the better for it.
 
 "It has got something on it, and you cannot read it, and neither can I, and there are four men behind you who cannot make a paragraph out of anything, which is a different complaint from mine, and I have never worked out which of us would come off worse." The man of about twenty-eight turned a hand over and looked at it. "**You have got the one thing that would find out what is on it, and it would not find out what is on it.** I have known you seven years and this is the first time I have said that out loud."
 
@@ -50,7 +50,7 @@ The older man said it stubborn, jutting his chin. His fingers curled against his
 
 "Then you will not mind me saying that you have never once wanted to know what a thing said as much as you want to know about a number, and that is not a thing anybody in this bay has standing to argue with."
 
-A bench scraped somewhere at the back. One of the two seated there cleared his throat and thought better of speaking. The older man held his ground in the middle of the floor, jaw working, letting the words stand without answering them.
+Something moved at the back of the bay. One of the two seated there made a sound in his throat and thought better of it, because it was the fourth day of the fourth week and neither of them was going to be the one who started. The older man held his ground where he was standing, and worked his jaw, and let what had been said stand there unanswered, which was the whole of what he had come into the bay to do with it.
 
 ---
 
@@ -65,6 +65,8 @@ He said the shape of it out loud. Not the words on the slate, which he has not g
 Twice that afternoon he put two fingers on the bench beside the slate, the way a hand goes to a bench it has been going to for years, and twice the bay went on being a bay, and the second time he took his fingers off and looked at the chalk on them and did not put them back.
 
 The chalk dust sat white in the whorls of his skin. He rubbed thumb against fingertip, feeling the grit of it, and wiped his hand down his trouser leg. The mark came away in a pale smear and stayed there, and he left it.
+
+Whose mark that was on his hand, and where a man who cannot read a paragraph got chalk from when the only chalk in that place was a line up on a wall, was not a thing nine men had standing to raise. He had the one thing in him that would have settled what was written on a slate and he was not going to spend it on a mark that meant nothing to anybody including him. He sat where he sat until the lamp came on.
 
 Nobody in that bay said one word back. The man of about twenty-eight went on with his hands, and the two of them at the back went on sitting at the back, and the lamp over the middle of the bench did not get lit until the seventh hour, and it got lit at the seventh hour, and the chalk on that end wall still stands exactly level with the third link of what he is carrying, and it means nothing and it is nobody's.
 
