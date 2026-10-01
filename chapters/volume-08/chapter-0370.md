@@ -16,7 +16,7 @@ The clerk was in the chair with the pen held ready over the page, and nineteen y
 
 Nobody has thanked her for nineteen years of entering about nine hundred sheets a year in a hand that has never varied. There is no form in this empire that thanks a person for doing a job correctly, and nobody decided to withhold it, and she has never once treated the withholding as a decision.
 
-Her hand went across the page without hurry, each letter made whole before the next one started. The ink lay black and even between the ruled lines. She came to the end of a word and touched it to see that it was there, and went on, and the pile of finished sheets grew at her left hand until it reached the near edge of the table and she pushed it square with the heel of her other hand without looking at it.
+Her hand went across the page without hurry, each letter made whole before the next one started. The ink lay black and even between the ruled lines. She came to the end of a word and touched it to see that it was there, and went on, and the pile of finished sheets grew at her left hand until it reached the near edge of the table.
 
 ---
 
@@ -36,7 +36,7 @@ She came to the end of the line and put the full stop at the end of it with one 
 
 "You are right," said the clerk of about fifty-five, and went on with the fourth number.
 
-She entered the fourth number in its column and then the fifth, and the room was the sound of a pen and nothing else. The young woman watched the figures come up and did not say anything further for a while.
+The room was the sound of a pen and nothing else, and the open side of that window let the cold in against the older woman's hand, and neither of them turned round at it. The young woman watched the figures come up in a hand that had not varied in nineteen years, and did not say anything further for a while, and then did not say anything further at all that afternoon.
 
 ---
 

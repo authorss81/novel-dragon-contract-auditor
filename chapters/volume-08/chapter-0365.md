@@ -14,13 +14,13 @@ The box weighs what a thing full of paper weighs. He is thirty-eight and his nam
 
 She put her hand out for the box and he took hold of the other end of it before she had finished asking for it with her face, and they carried it up four steps and set it down on the floor of that room, and neither of them said anything at all.
 
-There is a lamp lit where they had come out of and there are four shelves and three of them are full, and the middle of the floor is the only part of it a person can get a box into. The load went up the four steps between them and neither of them could have said afterwards which of them had set the pace, and her breath was short by the third one, and she locked her elbows to keep it where it was.
+The middle of the floor was the only part of it a person can get a box into, and by the third one her breath was short and she locked her elbows to keep it where it was. A box of paper is not a heavy thing and eleven years of not asking is heavier than any box, and neither of them could have said afterwards which of them had set the pace, and it was not a question either of them was going to put.
 
 There was a man with a tray on that floor who had to come up those steps to get past the two of them, and he stood in the doorway with it in both hands until they were clear. There was a woman at the far end of that floor who came in for a stamp and went straight back out without stopping and did not look at the box at all. Neither of the two of them said one word about it, and both of them were in that doorway while it happened, and one of them has a reason to remember it and the other one has not been asked for a reason.
 
 "There," she said. "**That is four people who have seen a thing happen, and there is no form anywhere with a line on it for that.**"
 
-The words went into the room and stayed where they landed. The man with the tray looked at the floor at his feet, and when nobody said anything he carried the tray back down the four steps and out of it. The doorway stood open on the floor of that counter with the box in the middle of it and two people either side of the box, and the four shelves up the wall behind, and nothing anywhere in the room that was going to be written down.
+The words went into the room and stayed where they landed. The doorway stood open on the floor of that counter and nobody came through it, and the box stayed where two people had put it, and there was nothing anywhere in the room that was going to be written down.
 
 "There is a line for a clerk's name at the foot of it," he said. "That is what the line would be for. You would put your name under the box and then a column with a heading over it, and a heading over that is a way of finding out that a clerk kept paper nobody asked about for eleven years, and there is about four hundred sheets in here and not one of them has ever been filled in by anybody."
 
@@ -32,7 +32,7 @@ The words went into the room and stayed where they landed. The man with the tray
 
 He has not attempted the reading this month and he is not going to attempt it, and he did not give a reason in that room, and the reason is nine words long and is on a page in another year.
 
-She stood with nothing in her hands and made no move towards the shelves. The lamp burned steady behind him and threw his shadow the length of the floor, and he read the rows of stored paper without reaching for one of them, and the wanting of it sat in him, and he let it sit there.
+She stood with nothing in her hands and made no move towards the shelves, and she had stood there eleven years without needing to. The lamp burned steady behind him and threw his shadow the length of the floor. He read the rows of stored paper without reaching for one of them, and the wanting of it was what he had come up those four flights for, and he had not asked for it once.
 
 "What I came up for is in a coat," he said, "and the name I am after is not on it, and it was not on it the last time anybody looked either, and that is a different sort of thing from a box of blanks and I am not going to stand here and pretend it is the same sort of thing."
 
@@ -58,6 +58,6 @@ He went down the four flights at about the fourth hour without his copy, and pai
 
 About four people saw that box go up those four steps, and two of them work on that floor and one of them carries the trays up it, and **one of them is a man of thirty-eight who is on no list and carries nothing except a labour a man is free to turn down.**
 
-The man with the tray was well down the four flights by now and the tray was going a little on the turn, and the woman who had come for a stamp had gone out by the door she came in by and had not looked at anything on her way through. The stair took them both back down and kept neither of them, and by the time the footsteps of the tray had died there was no more of it in the building to hear.
+The man with the tray was well down the four flights by now and the tray was going a little on the turn, and the two of them were still standing either side of the box. The stair took all of them back down and kept none of them, and by the time the footsteps of the tray had died there was no more of it in the building to hear.
 
 **The box is on the floor of the received room with the lid where it was.** The four shelves are against the wall. The count of things anybody has asked out loud in this matter is the same as it was when he came up that stair, and it is not going to be a different number on the way down.

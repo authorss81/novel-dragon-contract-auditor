@@ -14,7 +14,7 @@ She handled the fifteen that were on loan with a cloth between her fingers and t
 
 "You have not said it again," the second woman said, and set the day's numbers on the bench where they are set.
 
-Beyond the wall the dye end went on at whatever it went on at, and the room took the sound of it without doing anything with it. The day's papers lay squared where the second woman had set them, and she kept her palm flat on the topmost one a moment longer than the setting of it needed, and then took the hand away and stood and waited.
+Beyond the wall the dye end went on at whatever it went on at, and the room took the sound of it without doing anything with it. The second woman kept her palm flat on the topmost paper a moment longer than the setting of it needed, and then took the hand away and stood and waited.
 
 "No."
 
@@ -50,7 +50,7 @@ Her voice stayed low and even through the whole of it, stopping at each point th
 
 "I know. That is why I am telling you that I heard it the second time and not the first."
 
-She straightened as she said it and put her weight back onto both feet. The bench took it without a sound. Nell watched her with her own hands folded in front of her, and neither of them reached across the space between them, and the four minutes ended with the two of them exactly where the four minutes had found them.
+She straightened as she said it and the bench took it without a sound. Nell watched her with her own hands folded in front of her, and neither of them reached across the space between them, and the four minutes ended with the two of them exactly where the four minutes had found them.
 
 ---
 
@@ -58,11 +58,11 @@ The eleven houses off that lane send their numbers in on the first of the two da
 
 She ruled the morning's columns and measured each line by eye and did not hurry any of them. The pen went down the page number under number in ranks and she did not lift it between two numbers. Outside, the lane went about its business and went past and did not stop for any of it, and she wrote the whole of the eleven through it.
 
-The shelving behind her was made for books taller than the ones on it, and the space above the row ran the length of the wall, and nothing had ever been put into it. She knew the size of the gap without measuring it and had done since her second morning in the room, when she was twenty and settled in her own mind that the filling of it was not going to be her, and she came in every morning since and the space was there and so was everything she had decided about it.
+The space above the row ran the length of the wall and nothing had ever been put into it. She knew the size of the gap without measuring it, and had made up her mind about it on her second morning in the room, and she came in every morning since and the space was there and so was everything she had made up about it.
 
 Her pay stopped arriving in the second week of the third month of the year after and has not come since. It is nineteen days of a crew's money, and it is sitting in a coat four miles off, and the man holding it cannot say what it is sitting against.
 
-Her eyes stayed on the figures while she was talking about it and did not come up. What she did not say took up more of the room than what she said, and the other woman heard all of it, and let it lie where it fell.
+Her eyes stayed on the figures while she was talking about it and did not come up. What she did not say took up more of the room than what she said, and the other woman took the whole of it in and gave none of it back.
 
 **She is not going to ask him what it is sitting against, and she decided that before this week.** A question would be answered, and the two of them would then be parties, and an answer is a record, and records go into sheets. She is not going up this river this season, and this season is not never, and she has not used the word never and is not going to.
 

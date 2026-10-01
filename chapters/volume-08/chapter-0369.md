@@ -6,7 +6,7 @@ Thirty-four or thereabouts, a fair hand, and a trade in copying out other men's 
 
 This is the second day of the first week of the sixth month of the year after the year after the year after the year after next, and the weather is coming off the eaves of both of those doors, and it is about the fifth hour.
 
-Water came off both eaves in steady threads and drummed on the paving below and the whole of the narrow strip of it was moving. He stood under the upper doorframe with the damp coming through the cuffs of his coat. Four feet of lane and the width of two doors and a half of sky, and nothing at all of the other side in it, and no door on either of them open.
+Water came off both eaves in steady threads and drummed on the paving below and the whole of the narrow strip of it was moving. He stood under the upper doorframe with the damp coming through the cuffs of his coat. Four feet of lane and the width of two doors, and no door on either of them open.
 
 ---
 
@@ -28,7 +28,7 @@ He stepped up one step to meet her, closing half the distance between them. Wate
 
 "No. And I am not going to start, and if you have been waiting about two years for me to start then you have been waiting for a thing that is not going to happen, and that is not me being hard on you, that is me telling you the truth about a door that is shut."
 
-She said it without her voice going up on any part of it. He nodded slowly and took it in and looked past her at the wet lane rather than answer her straight, and the two of them stood on the step and in the lane with the whole of the arrangement between them and neither of them put it down.
+She said it without her voice going up on any part of it. He took it in without answering it and looked past her at the wet lane, and the water coming off the eave above him went down the back of his coat where he could not get at it. The two of them stood on the step and in the lane with the whole of the arrangement between them, and neither of them put it down, and neither of them was going to be the one who did.
 
 ---
 
@@ -50,7 +50,7 @@ She worked the cloth about on her arm and folded it over again with more care th
 
 The woman of about thirty-five next door came out on her own step at the same hour and stood on it, the way a person stands on a step in weather.
 
-She had the cloth folded over her arm against the drip and her hands were pushed up into the sleeves above it. She looked at the sky first and then along the lane both ways, the way a person looks when what they are waiting for is late and is not coming from where it should.
+She had the cloth folded over her arm against the drip and her hands were pushed up into the sleeves above it. She looked at the sky first and then along the lane both ways, and stood on it after that.
 
 "The delivery has been late four days running," she said, across four feet of lane.
 
@@ -68,7 +68,8 @@ His wife looked down the lane to where the water had been standing longest and w
 
 Neither of them said thank you for it. The two of them stood at their own doors with about four feet of wet lane between them and nine feet of air, and neither of them said one word about the man who had just gone inside, and there is no form anywhere in this empire for speaking about him out loud, and neither of them wanted to.
 
-Rain came down between the two houses and found the low place in the lane and went along it. One of them moved her feet and the step went under her and came back with a noise. They stayed a while longer without saying anything, the two of them not saying anything at each other in a lane four feet wide, and then each went in by her own door.
+Rain came down between the two houses and found the low place in the lane and went along it. One of them moved her feet and the step went under her and came back with a noise. They stayed a while longer without saying anything, in a lane four feet wide, and then each went in by her own door.
 
-The two doors were shut and the lane went on being four feet of wet between them, and the dripping off the two eaves did not come in the same time and had never once been made to. There is no form anywhere for a person standing on her own step waiting to find out whether a thing is the road or the man, and the finding out is not on any sheet, and neither of them had said one word to the other about the one who had gone in.
+The two doors were shut and the lane went on being four feet of wet between them, and the dripping off the two eaves did not come in the same time. There is no form anywhere for a person standing on her own step waiting to find out whether a thing is the road or the man, and the finding out is not on any sheet, and neither of them would have told the other one about the man who had gone in.
+
 **That is the arrangement in the next house worked in the other direction.** The two of them have never once compared notes about it, and both of them would be inside four feet of the other one inside a minute if either said one word out loud, and neither of them did.

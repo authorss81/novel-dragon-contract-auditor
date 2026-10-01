@@ -6,7 +6,7 @@ He is about fifty-five, and the chain has been on him for years, and a paragraph
 
 This is the fourth day of the fourth week of the fourth month of the year after the year after the year after the year after next, and the lamp is not lit, and it is about the fifth hour.
 
-The links rested cold through his shirt where they crossed his shoulder, and he had got used to that the way a man gets used to a thing he has decided to keep carrying. He shifted them once with a practised roll, easing the rub of a morning spent on his feet. His hands were broad and scarred at the knuckles and the nails were broken short, and he kept them loose at his sides while he took in the bench and the slate and the wall without going up to any of them.
+The links rested cold where they crossed him, and he had got used to that the way a man gets used to a thing he has decided to keep carrying. He shifted them once with a practised roll, easing the rub of a morning spent on his feet, and kept his hands loose at his sides while he took in the bench and the slate and the wall without going up to any of them.
 
 ---
 
@@ -26,7 +26,7 @@ On the bench in the middle of the bay there were two slates. They are not his an
 
 He stood over it for a while.
 
-It was a slate. He knew that much by the weight of it and by the way it sat down into the frame, and there was a shine on the frame where hands went, and there was writing on the other one that he would not be able to read with the lamp lit either. He breathed through his nose, slow, and did not put his fingers on it, and he bent closer, though closer showed him nothing he could use.
+It was a slate. He knew that much by the weight of it and by the way it sat down into the frame, and there was a groove worn in the frame where hands went, and there was writing on the other one that he would not be able to read with the lamp lit either. He breathed through his nose, slow, and did not put his fingers on it, and he knew as much of it as the dark in there allowed him.
 
 "Is that a question?" he said it out loud, to the bench, about the slate, and it was. **There is no form for handing a question to a person, and a question with no name at the foot of it is not a thing anybody can be shown to have got wrong.**
 
@@ -50,7 +50,7 @@ The older man said it with his chin out in front of him, and his fingers curled 
 
 "Then you will not mind me saying that you have never once wanted to know what a thing said as much as you want to know about a number, and that is not a thing anybody in this bay has standing to argue with."
 
-Something moved at the back of the bay. One of the two seated there made a sound in his throat and thought better of it, because it was the fourth day of the fourth week and neither of them was going to be the one who started. The older man held his ground where he was standing, and worked his jaw, and let what had been said stand there unanswered, which was the whole of what he had come into the bay to do with it.
+Something moved at the back of the bay. One of the two seated there made a sound in his throat and thought better of it. The older man held his ground where he was standing, and worked his jaw, and let what had been said stand there unanswered, which was the whole of what he had come into the bay to do with it.
 
 ---
 
@@ -64,9 +64,9 @@ He said the shape of it out loud. Not the words on the slate, which he has not g
 
 Twice that afternoon he put two fingers on the bench beside the slate, the way a hand goes to a bench it has been going to for years, and twice the bay went on being a bay, and the second time he took his fingers off and looked at the chalk on them and did not put them back.
 
-The chalk dust sat white in the whorls of his skin. He rubbed thumb against fingertip, feeling the grit of it, and wiped his hand down his trouser leg. The mark came away in a pale smear and stayed there, and he left it.
+He wiped his hand down his trouser leg, once, the way a man wipes a hand he has not decided about. The mark came away in a pale smear and stayed there, and he left it, and he did not look at what was left on the cloth either.
 
-Whose mark that was on his hand, and where a man who cannot read a paragraph got chalk from when the only chalk in that place was a line up on a wall, was not a thing nine men had standing to raise. He had the one thing in him that would have settled what was written on a slate and he was not going to spend it on a mark that meant nothing to anybody including him. He sat where he sat until the lamp came on.
+Where a man who cannot read a paragraph got chalk from, when the only chalk in that place was a line up on a wall, was not a thing nine men had standing to raise. He had the one thing in him that would have settled what was written on a slate and he was not going to spend it on a mark that meant nothing to anybody including him. He sat where he sat until the lamp came on.
 
 Nobody in that bay said one word back. The man of about twenty-eight went on with his hands, and the two of them at the back went on sitting at the back, and the lamp over the middle of the bench did not get lit until the seventh hour, and it got lit at the seventh hour, and the chalk on that end wall still stands exactly level with the third link of what he is carrying, and it means nothing and it is nobody's.
 

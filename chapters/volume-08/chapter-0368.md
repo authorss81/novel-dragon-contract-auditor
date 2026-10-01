@@ -26,7 +26,7 @@ The young man of about twenty-six who takes the sheets away came at about the fo
 
 "That one is not what the man above wrote it," the man of about sixty-one said, out loud, to a room with a window in it.
 
-His own voice went out into the room and came back off nothing at all. He kept his eyes on the basket and not on the young man while he said it, and it sat in the room, and the young man was still standing there, and he let it sit there and picked up the next sheet.
+His own voice went out into the room and came back off nothing at all. He kept his eyes on the basket and not on the young man while he said it, and the young man was still standing there, and neither of the two of them did anything about that either.
 
 The young man did not look up. "I have initialled the corner of about nine hundred of these a year for two years and I have not read one and I am not going to start this week."
 
@@ -34,23 +34,23 @@ The young man did not look up. "I have initialled the corner of about nine hundr
 
 "I know you are telling me. **You have told me a thing about a page and I am paid for a corner and not for a page.** If you had said that to a clerk I should have had to have written it somewhere, and there is nowhere on this basket to write it."
 
-He took the weight of it up in both hands and let it settle, and the basket gave a little under him. The cuffs of his coat were ink-stained at the edges from seasons of corners and nothing else. He met the older man's eyes for as long as it lasted and then looked back down the pile, and his face gave nothing away at any point in it.
+The basket gave a little under him. The cuffs of his coat were ink-stained at the edges from seasons of corners and nothing else. He met the older man's eyes for as long as it lasted and then looked back down the pile, and gave nothing back on it.
 
 "You are the person I am talking to."
 
 "You are talking to the only person in this room, which is not the same thing, and that is not me being hard, that is me being the shape of the job." He put the sheet in the basket with the others and squared it. "It goes down that corridor and does not come back up, and I initialled the corner of it."
 
-He pressed the stack level with both hands and brought the edges into line with two taps, which is not a thing a man does because it wants doing. Then he took the handle in his left hand, put his right under the base to take the weight, and turned to the passage without saying one word about any of it.
+He took the handle in his left hand, put his right under the base to take the weight of it, and stood a moment with it before he moved, because a basket that has been picked up is a basket somebody has agreed to carry, and agreeing to carry it is the only part of the day he had any say in. Then he turned to the passage without saying one word about any of it.
 
 ---
 
 He reads the little words and signs the rest, which is the whole of the trade of that hand.
 
-Morning light came thin through the open side of the window and lay in a pale band across the table and reached the shelf and stopped. He worked down the stack one at a time, squinting at the small words where the ink had run thin, and when the draught stirred the topmost one he held it down with his own wrist and went on signing round his own hand.
+Morning light came thin through the open side of the window and lay in a pale band across the table and reached the shelf and stopped. He worked down the stack one at a time, squinting at the small words where the ink had run thin, and went on signing round his own hand.
 
 About nine hundred of those go out of that room in a year and nobody has ever counted how many, which is a different thing from nobody having counted. A carrier came up the flags at about the fourth hour with a rack on her hip, set four sheets down on the shelf under the window and went back down the flags. She is on a list and she is paid ninepence at the lock. In six years nobody has asked her what she carries, and he has not asked her either, and in all that time neither of them has ever put a question to the other.
 
-The rack went on her hip empty as she turned and stayed empty all the way down. Her boots went brisk on the flags and quicker where the slope took her. He listened to it thin out and stop, and then he was alone in there with the pen and the paper and the cold coming off the open side, and he took the next sheet off the pile.
+The rack went on her hip empty as she turned and stayed empty all the way down. Her boots went brisk on the flags and quicker as they took her away. He listened to it thin out and stop, and then he was alone in there with the pen and the paper and the cold coming off the open side, and he took the next sheet off the pile.
 
 He carried the basket out and the door at the far end of the passage was open and the flags at the top end of it were loud for a minute and then were not.
 

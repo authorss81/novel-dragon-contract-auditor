@@ -10,7 +10,7 @@ There is a figure in his head that he has never written down and has never said 
 
 This is the second day of the first week of the fourth month of the year after the year after the year after the year after next, and the weather is against the people who come up, and it is about the third hour.
 
-Rain hammered the landing window between the second flight and the third, and the water on it went on being knocked about and never came down. The stairwell held the cold the way a cup holds water, with a rim on every side of it. Four flights up in a wet morning is a thing a body notices in the fourth of them and stops noticing in the second, and the man at the rail was three days into the week and had stopped noticing a week ago.
+Rain hammered the landing window between the second flight and the third, and the water on it went on being knocked about and never came down. The stairwell held the cold on every side of him. Four flights up in a wet morning is a thing a body notices in the fourth of them and stops noticing in the second, and the man at the rail had been coming up in it long enough to have stopped.
 
 He kept his shoulders in against the damp of his coat. The cloth of it clung cold at the elbows and cuffs, and he turned himself so that the wet side of him was away from the rail. The stair under him had gone the colour of the sky and was letting go of the water a drop at a time, and he shifted his weight off the one place that had been dripping and did not look down to see which place that was.
 
@@ -30,19 +30,19 @@ Marn Ottery is at the other end of that counter. She is thirty-four and she has 
 
 "You cannot help it. You have been in the room, and being in the room is being in it." She put the sheet down. "**There is no form for occupying a counter, and a man can stand at this rail for eleven years and nobody in this empire has to account for it.**"
 
-Her hands moved the way hands move after long practice behind one stretch of wood. She stood with her weight on one hip, arms loose, watching him take the room in. A strand of hair had come loose at her temple and she left it there, blowing once sideways to shift it, and waited to see what he would do. Behind her the board on the wall carried its four things and none of the four was a time, and she had not turned round to look at them once in eleven years, and he read them from where he stood because nobody had told him not to.
+Her hands moved the way hands move after long practice behind one stretch of wood. She stood with her weight on one hip, arms loose, watching him take the room in. A strand of hair had come loose at her temple and she left it there, and waited to see what he would do. She had not turned round to look at the wall behind her once in eleven years.
 
 ---
 
 She said that out loud to him and not to the room, and then she went on with the counter, and he stayed where he was.
 
-He shifted his weight and settled in for the duration, the way a man settles who has nowhere else to be. The rail was cold under both forearms where he leaned and had been leaned on by other forearms for longer than he had been alive. He looked down the well of the stair and could see the water lying on the turn, and nothing of whoever had gone down before him. Counting nothing, waiting for nothing, content for once to stand and be unregarded.
+He stood where he was and let the morning come on. The rail was cold under both forearms where he leaned and had been leaned on by other forearms for longer than he had been alive. He looked down the well of the stair and could see the water lying on the turn, and nothing of whoever had gone down before him.
 
 She has about four hundred bought and unfilled blanks under that counter and has had them eleven years, and she told him so on the second day without being asked, in the flat voice she keeps for stock. "None of them has ever been filled in and there is no word on the lid of that box, and it was like that before you came up those stairs, and I am not starting it with a man who stands at a rail and buys nothing."
 
 He had not asked her about the box. She had told him about the box, and the telling had cost her the length of one sentence and had put it in a room, and there is nowhere on a sales counter to enter a thing like that even if a person wanted to.
 
-He nodded once and said nothing, because there was nothing on offer to answer. The rain ticked harder against the landing window for a minute, then eased. He watched her hands ink a line, lift, ink another, with the patience of a person who had stopped waiting for the weather to matter.
+He gave her nothing back, because there was nothing on offer to answer. The rain ticked harder against the landing window for a minute and then eased, and he stood at the rail through the whole of it. Four flights up, a counter is a long way to stand for nothing, and a man who has come up it twice in his life and paid fourpence each time knows what it is worth before anybody tells him.
 
 A man came up in the fourth hour with something in his hand and stood at the wrong end of the wood and said a thing about a form wanting a heading before it wanted a name, and she told him a form wanted a name, and he said a man on the flags had it the other way, and she told him a man on the flags was not a form. He said that was fair and went down with it still wrong in his hand, and she watched the whole of that go and squared the pile she had been working on.
 
@@ -58,7 +58,7 @@ He did not tell her that and she did not ask him for it, and those are two diffe
 
 "Today I have had four, and one of the four wanted nothing and left." She said it to the counter. "The ones who do not come up on a day like this are not deciding anything about the weather. They are the ones who have furthest to come. There is a woman who comes off the flood side and she does not come in this, and one of the two off the lane that goes down to the river road is at the bottom of it in the wet, deciding."
 
-The near end of that counter was worn pale where eleven years of sleeves had gone across it and the far end was not, and the difference was the whole of a working life told in one place. She turned a sheet face down without looking at it, squared the pile, and put her thumb on the edge of the drawer under the board and left it there without pulling, the way a person rests a hand on a thing they have decided not to do anything about this morning.
+She turned a sheet face down without looking at it, squared the pile, and put her thumb on the edge of the drawer under the board and left it there without pulling, the way a person rests a hand on a thing they have decided not to do anything about this morning.
 
 "You could send for them."
 
@@ -86,7 +86,7 @@ The counter shut early on the fifth day, at about the fifth hour, which is an ho
 
 He went down the four flights with his hand in his coat. There is a landing at the bottom of them and the stair has no door at the foot of it, and a man standing at the bottom of a stair with no door is standing where anybody coming up has to go round him.
 
-The treads were slick underfoot and he took them sideways, feeling his way. Cold air pressed up from below, smelling of rain and the street. At the turn he paused and listened to the building give the day back over his head, one joint after another and then nothing, and then he went on down into the wet.
+The treads were slick underfoot and he took them sideways, feeling his way. Cold air pressed up from below, smelling of rain. At the turn he paused and listened to the building give the day back over his head, one joint after another and then nothing, and then he went on down into the wet.
 
 He stood there for the length of a coat being put on and then he was not standing there.
 

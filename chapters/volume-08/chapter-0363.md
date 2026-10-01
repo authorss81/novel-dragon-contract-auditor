@@ -6,7 +6,7 @@ She is about thirty-five. She has kept that day-book for about nine years in her
 
 This is the fourth day of the third week of the fourth month of the year after the year after the year after the year after next, and it is the afternoon.
 
-The corners of the cover had gone pale from nine years of hands. She ran her thumb along the frayed edge whenever she lifted it down and felt the spine give under it the way a thing gives when it has been opened the same way a great many times. The ink stood on the shelf at the end of it and she brought the nib to it and wiped it before every entry, out of a habit that had started as somebody else's rule.
+The corners of the cover had gone pale from nine years of hands. She ran her thumb along the frayed edge whenever she lifted it down and felt the spine give under it the way a thing gives that has been opened the same way for a long time. She wiped the nib before every entry, out of a habit that had started as somebody else's rule.
 
 ---
 
@@ -26,7 +26,7 @@ The girl of about twenty-two came down off the stair with her sleeves rolled up.
 
 "You are not writing the thing," she said.
 
-The girl leaned her elbows on the counter, chin propped, watching with the frank stare of the young. Her sleeves were still damp to the elbow and there was a streak of something from the back room across one cheek that she had not thought about. She did not move or apologise for staring, and the older woman let her look.
+The girl leaned her elbows on the counter, chin propped, watching with the frank stare of the young. Her sleeves were still damp to the elbow and and there was something from the back room on one cheek that she had not thought about. She did not move or apologise for staring, and the older woman let her look.
 
 "I am not writing the thing."
 
@@ -34,7 +34,7 @@ The girl leaned her elbows on the counter, chin propped, watching with the frank
 
 "That is the arrangement and it is not yours."
 
-She turned the cup on the counter a quarter round and said it without any lift on it. The girl flushed and dropped her gaze to her own hands. A stair creaked overhead where somebody was moving about in one of the let rooms, and both of them glanced up at the sound before it settled, and neither of them went up after it.
+She said it without any lift on it. The girl flushed and dropped her gaze to her own hands. A stair creaked overhead where somebody was moving about in one of the let rooms, and both of them glanced up at the sound before it settled, and neither of them went up after it.
 
 "It is not mine and it is yours, and that is what I am trying to say to you." She put her hand flat on the counter. "**This is the only thing in the building anybody could hand anybody.** If somebody came in with a paper wanting to know about me, they would have this, and there is nothing in it but a name and a week and a penny, and that is because of you and not because of the paper."
 
@@ -42,15 +42,15 @@ She turned the cup on the counter a quarter round and said it without any lift o
 
 "And she is findable."
 
-The girl breathed the words out to see the shape of them. The older woman met her eyes and held them and let what was true of it stand in the room without doing anything to it. Upstairs a door closed, and footsteps crossed to the window and stopped, and neither of them looked up.
+The girl breathed the words out to see the shape of them. The older woman met her eyes and held them and let what was true of it stand in the room without doing anything to it. Upstairs a door closed, and footsteps crossed the floor and stopped, and neither of them looked up.
 
 "**She is findable and the man she went to is not, and that is the whole of the arithmetic.** I have had two years of it." She turned the counter's cup over and put it the other way up. "**Being findable is being usable, and I am usable, and I have worked out which end of that I am standing at.**"
 
-The two of them left the cup where the last of the talk had put it and went on with the afternoon, and it stayed on the wood through all of it without either of them touching it again. The girl looked at it once and then at the woman's face, and said no more for a while.
+The two of them went on with the afternoon and neither of them touched the cup again. The girl looked at it once and then at the woman's face, and said no more for a while.
 
 The girl of about twenty-two took her hand off the counter and picked the corner of the counter's cloth up and put it down again, which is what a person does with about four seconds they do not want to spend standing in a room.
 
-She had been reading the book upside down from the counter for nine weeks and had got four of the headings without ever once being told what they were, and she said now that she had wanted a fifth one for about as long as she had been there, and had not said so to anybody, and was not going to.
+She had got four of the headings off the shelf without ever once being told what they were, and she said now that she had wanted a fifth one for about as long as she had been there.
 
 "You are the only person I know who has worked that out and has not used it," she said. "I have been in this house nine weeks and I have worked out that I have to be able to hand somebody that book inside a minute, and I have not used it either, and I am twenty-two and I do not know yet whether using it would be wrong."
 
@@ -64,6 +64,6 @@ She took the day-book down off the shelf at the fifth hour and opened it at the 
 
 **That is what she did instead of writing it down.** It is the whole of the trade of a counter in a house with four rooms in it, and no form will let anybody serve her out of an afternoon in which she wrote nothing.
 
-Before she put it back she stood a moment with the cover in her hands and the last of the ink dried and gone brown on the nib of the pen, which is the only thing in the house anybody would ever have said was written, and is the only thing in it that is not a heading over a column. Then she squared the book against the edge of the shelf with two fingers and left it standing on its own and stepped back from it, and drew a long breath, and there was nothing at the end of the breath.
+She stood a moment with the cover in her hands before she put it back. The day-book had been on that shelf nine years and there was nothing in it this afternoon, and the four headings were where they had always been, and she drew a breath and there was nothing at the end of it, and she put the book back on the shelf with the spine square to the edge.
 
 The four rooms went on being let by the week, and there is a heading over that column too, and she has never once had to explain it to anybody in this building who has not already known what it is.

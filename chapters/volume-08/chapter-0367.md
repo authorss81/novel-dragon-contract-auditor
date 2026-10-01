@@ -6,13 +6,11 @@ The bay stands at the top of that lane, off the Slade, and it measures about nin
 
 This is the fourth day of the third week of the fifth month of the year after the year after the year after the year after next, and the gate is open, and it is about the fifth hour.
 
-She wore the sort of dress that has been washed a great many times and a coat over it buttoned to the throat, and her hair was wound plain and pinned with a few strands out at the nape where the wind got hold of them. She stood with her feet set against the slope and her arms across her and watched the front of the bay, and missed nothing in it and claimed nothing out of it.
+She had her coat buttoned to the throat against the cold coming in at the gate, and her hair was wound plain and pinned with a few strands out at the nape where she had worked at it with her fingers. She stood square on the ground in front of the bay with her arms across her and watched the front of it, and missed nothing in it and claimed nothing out of it.
 
 ---
 
 **With the gate open that bay is louder and nothing changes.** There are about nine men in the front of it and a man went past the gate twice and stopped at it the second time, and there were four minutes in which nobody at the front of that bay said anything at all, and then the noise started again and was louder than it had been.
-
-The stranger's boots scraped to a halt on the ground outside, loud in the quiet that had come over the front of the bay. Every head at the front turned by a fraction and then turned back, and there was no signal for it to have come from. The man stood at the opening a moment, saw nothing that was meant for him, and went on up the lane, and the bay let him go.
 
 Nobody has asked her about the box she is in for two years. **Every man at the front of that bay knew it by the middle of that morning and not one has ever raised it.** None of them did it as a favour to her. It is not a courtesy and it is not anybody's decision.
 
@@ -34,11 +32,11 @@ He came forward onto his knees with his forearms across them and his hands hangi
 
 "You have worked out in seven years the thing I have been saying out loud for two, and I am not going to be flattered by it and I am not going to tell you to stop."
 
-She said it dry, and the edge of her mouth went and came again. Her arms stayed where they were and her feet did not move. The man of about twenty-eight took it the way a man takes a thing that has been owed to him and does not want to hear about, and put his eyes back on his hands and left it there.
+She said it dry, and gave him nothing back with it. Her arms stayed where they were and her feet did not move. The man of about twenty-eight took it the way a man takes a thing that has been owed to him and does not want to hear about, and put his eyes back on his hands and left it there.
 
 "I am not asking you to stop. I am telling you that a shut gate does the work of about nine men and it does it for nothing, and I would rather we had nine men."
 
-He got his weight back under him while he was still talking. A gust came down the lane and went over the ground in front of both of them, and they waited it out with their eyes narrowed, and neither of them said one word about it.
+He got his weight back under him. The cold at the gate went over the two of them and neither of them moved for it, and he went on holding what he had said in front of nine men who had not shifted for it either.
 
 ---
 
@@ -46,7 +44,7 @@ The gate was shut again on the second day and the bay was quiet on the second da
 
 Four hundred yards up that same lane there is a man who keeps the books of that Company, and what he wants from her is the rest of a sentence she began in the third month of the year after and has never finished. **He has not asked and she has not sent for him, and the second half of that sentence did not arrive this week.**
 
-She had said the first half of it once already, standing in a doorway out of the wind with the two of them and nobody else, and the sentence had stood there unfinished since and neither of them had done anything about it in the weeks after. The man with the books was four hundred yards up the same lane and had kept the half of it the way he kept everything he had not finished, which was by keeping it and not by speaking. The two halves of one unfinished sentence were four hundred yards apart and both of them were still there, and about that there was nothing either of them could do.
+She had said the first half of it once already, standing in a doorway out of the weather with the two of them and nobody else, and then had not finished the sentence, and had not been asked to. Two years is long enough for a person to get used to a thing standing half said, and she had got used to it, and about the not finishing it there had never been anything either of them could do.
 
 At the back of that bay the two of seventeen sit on an engagement in writing with a rate set out at the foot of it, and neither of them was spoken to this week, and neither was thanked, and neither was sent for, and neither is going to start. Nobody has ever offered that girl a way of saying no, because not one paper in this empire puts a question to a person of seventeen about whether she would rather not be in the room, and having nothing written down about it is not the same as no.
 

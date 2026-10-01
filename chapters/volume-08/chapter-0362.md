@@ -6,13 +6,13 @@ She is about forty. She is not one of the three clerks of that building and has 
 
 This is the second day of the second week of the fourth month of the year after the year after the year after the year after next, and the lamp is not lit yet at about the fourth hour.
 
-The air hung cold enough to show her breath. She turned the lamp handle out of the crook of her arm and went on, and the cold got at the gap where the cloth was not. The walls sweated faint damp in the corners, and four hundred yards of it lay ahead of her in one piece with the two ends of it at either side of her, and nothing in the middle but the flags and the cold coming up through them.
+The air hung cold enough to show her breath. She turned the lamp handle out of the crook of her arm and went on, and the cold got at the gap where the cloth was not. Four hundred yards of it lay ahead of her in one piece, and there was nothing in the middle of it but the flags.
 
 ---
 
 **Nobody in this empire has a form for hearing what was said in a room after the room is emptied**, and she is the only one of them it would ever apply to, and those two facts are the same arrangement and not two things.
 
-She set the scuttle down to rest her arm halfway along, and the coal shifted inside with a low grinding sound. Her fingers had gone stiff around the lamp handle and she took them off it one at a time and shook them and got them back. She stood a moment in the stretch between the two ends where there is no fire and has never been one, and could not have told anybody what she was listening for, and then hefted the load again.
+She set the scuttle down to rest her arm halfway along, and the coal shifted inside against itself. Her fingers had gone stiff around the lamp handle and she took them off it one at a time and shook them and got them back. The scuttle is a thing a person learns to carry in one arm and then forgets she is carrying, and she had not got that far with it, and it was the second trip. She stood a moment in the stretch between the two ends where there is no fire and has never been one, and could not have told anybody what she was listening for, and then hefted the load again.
 
 She goes into that room in an ordinary week the way she goes into any room. About four people stood in it before a man of thirty-four did, and he talked for nine minutes with his coat open, and she was one of the four, and she kept her mouth shut at the rail and she has kept it shut ever since.
 
@@ -28,7 +28,7 @@ The clerk of about thirty was at the far table with a pen on it. He has been one
 
 "You have not told me that yet."
 
-She kept hold of the scuttle handle with both hands, letting it rest against her shin. The clerk had the pen in his hand and had not put it to anything yet. Far off in the flags a door moved on its own draught, and both of them turned their heads toward the sound and then turned back, and neither remarked on it.
+She kept hold of the scuttle handle with both hands, letting it rest against her shin. The clerk had the pen in his hand and had not put it to anything yet. Far off in the flags something went over on its own, and both of them turned their heads toward the sound and then turned back, and neither remarked on it.
 
 "I have not told anybody anything yet, and I am telling you because you are the only one of us who is not on the rota and you have been coming on my day because yours is the one you had, and that is not a reason that survives a wet week." He put the pen down. "**If you said what you heard in that room I would have to write it down or refuse to, and there is no line on this paper for either, and the not-writing would be a thing I did to you.**"
 
@@ -42,7 +42,7 @@ She kept hold of the scuttle handle with both hands, letting it rest against her
 
 She put the cloth on the rail and set the scuttle down against the leg of the table, which she has never done in that room, and stood with her hand on the wood.
 
-The tabletop carried the marks of every hour of the day and none of the marks were yesterday. She faced him square across it, chin up, and did not shift her ground while she spoke. Her breath went up over the wood and was gone before it got as far as the far edge.
+The tabletop carried the marks of every hour of the day and none of the marks were yesterday. She faced him square across it, chin up, and did not shift her ground while she spoke, and what she said went along the wood and stopped short of him.
 
 The other day of that week she is at a washhouse two streets off and there is no rail in it and nobody says a thing out loud in front of her, and the two halves of her week are not the same trade and are not the same woman and she has never tried to make them into one thing. **A person nobody can ask does not get thanked either, and nobody has ever thanked her for a lamp and four hundred yards.** Nothing in this empire sets down that anybody must be thanked for a lamp.
 
@@ -52,11 +52,11 @@ The other day of that week she is at a washhouse two streets off and there is no
 
 "You keep the rota," she said.
 
-He gave a short nod and reached for the paper, squaring it with the table edge out of restlessness rather than need. He turned the pen over once in his fingers and held it, and his shoulders came down as the thing he had come in to say went out of him, and he said nothing more about it.
+He reached for the paper without answering and turned the pen over once in his fingers. He had come in with the thing to say and it had gone out of the room now, and his shoulders came down off it as it went, and he said nothing more about it, and there was no form for that either.
 
 "I keep the rota."
 
-He folded the paper in half and creased it with his thumbnail, then unfolded it and smoothed it flat again. The gesture gave away the nerves his voice had kept hidden for about ten minutes. She watched his hands and said nothing, and the room came back to being two people and a table and a rail and a lamp that was not lit.
+He folded the paper in half and creased it with his thumbnail, then unfolded it and smoothed it flat again, and his hands went on doing that after there was nothing left for them to do. She watched and said nothing, and the room came back to being two people and a table and a rail and a lamp that was not lit.
 
 ---
 
@@ -64,6 +64,6 @@ She lit the lamp and it was a good deal brighter than it needed to be for a room
 
 Halfway down, at a place where the passage turns and the two ends of it can be heard at once if anybody in either of them raises a voice, she stopped and stood, and nothing came from either end, and she went on down.
 
-Her steps came back at her off the roof over them. The cloth slipped on her arm and she caught it. Ahead the daylight at the far end showed as a thin grey seam, widening with every pace, and she walked toward it with the empty scuttle knocking against her leg and neither end of the passage giving anything back.
+Her steps came back at her off the flags under them. The cloth slipped on her arm and she caught it. Ahead the daylight at the far end showed as a thin grey seam, widening with every pace, and she walked toward it with the empty scuttle knocking against her leg and neither end of the passage giving anything back.
 
 The lamp stayed lit behind her. It is the only thing on that bank that has ever been on purpose and gone on without her, and the door at the top end of those flags has nobody at it at any hour of the day, and that is not an arrangement anybody made either.
