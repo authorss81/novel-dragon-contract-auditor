@@ -12,7 +12,7 @@ This is the second day of the second week of the first month of the year after t
 
 The second of the four came in at the turn of the hour with her shawl up over her ears and stood at the bench to set the day's numbers out of the rack, because that is where they are set.
 
-The order they are done in is the order they had been in the rack, and the woman setting them has done it long enough that her hands go on without either of them consulting anything. She had her back to the window doing it and the window gave her nothing to do it by, and she did not need anything.
+The order they are done in is the order they had been in the rack, and the woman setting them has done it long enough that her hands go on without either of them consulting anything, and she went on setting them with her back to the window the whole of it.
 
 She is one of the four. She is the one Nell told, the second week of the third month of the year after, in about four minutes, in this room, the whole of a rule out loud with the day and the hour on it and her own name at the foot.
 
@@ -26,7 +26,7 @@ The second woman set them. She wrote the column without hurry and she wrote it t
 
 "I said it once."
 
-The room had been the temperature of the yard since before she came into it, and the broken light in the window gave nothing to the bench at all, and the two of them went on standing at it. Neither of them had their hands still.
+The two of them went on standing at the bench, the stove out behind them, and neither of them had their hands still.
 
 "And I have four of my own and none of them are yours, and I have had two of them stop."
 
@@ -76,7 +76,7 @@ The eleven houses off the dyers' lane came in with their numbers on the first of
 
 She set them out in a hand that does not vary, and there is a figure in the fourth column she has never been able to account for and has never altered, because a counting room that alters a figure is a counting room that has become an opinion.
 
-It has been left exactly where it was every week of the time she has been working at it, and nobody has ever come to the bench and put a finger on that line, and neither has she.
+It has stood exactly where it stood every week she has worked at it, and nobody has ever come to the bench and put a finger on that line, and neither has she.
 
 **Nobody came up those stairs for the sixteenth book this week, and nobody has sent for it, and nobody ever has.** She is not going to be standing ready for a person who does not come.
 

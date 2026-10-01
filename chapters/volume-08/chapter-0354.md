@@ -30,7 +30,7 @@ That is the last time anybody has put a question to her. It is a fortnight out o
 
 "It was to the board."
 
-The pen was still not moving. She put the point of it down on the column without pressing and left it there, and the woman opposite went on with her own work and let about a minute of the room go by without putting anything into it, and a minute is a long time at a counter with one other person in it.
+The pen was still not moving. She put the point of it down on the column without pressing and left it there, and the woman opposite went on with her own work, and the two of them got about a minute past with nothing put into the room at all.
 
 "You are at my counter, and I have been at this counter eleven years, and there is not one form anywhere in this empire for a clerk to say to a person that a thing was said to a board, and if there were one you would be in a worse position this evening than you were at the second hour."
 
@@ -50,7 +50,7 @@ Tamsin Rook wrote a figure in the column she was working on, and the figure was 
 
 The woman at the other end of the counter put her pen down and turned her head and looked at the board on the wall behind Tamsin Rook, at the four items on it, and her eyes went to the fourth of them and stayed there a moment, and then she picked the pen up again.
 
-Both of them knew what the other one had looked at and not one word was said about it by either of them, and the woman opposite went back to the column in front of her, and the room went on being the room it had been all the afternoon. That is how two people at one table are, and it has been how they were for most of the time she has been there.
+Both of them knew what the other one had looked at and not one word was said about it by either of them, and the woman opposite went back to the column in front of her, and the room went on being the room it had been all the afternoon. That is how two people at one table are, and it has been how they were for most of the two years.
 
 "I wrote the fourth one," she said. "About four years ago. In my own hand. And there is a clerk at this counter who is not a fool, and I have never said so, and I am not saying it now. I am saying it because you have said a thing out loud to a board and I have been in this building for eleven years and I am tired of the two of us sitting at one table with our faces turned away from each other."
 

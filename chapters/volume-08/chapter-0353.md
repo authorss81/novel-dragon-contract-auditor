@@ -10,7 +10,7 @@ This is the fourth day of the third week of the first month of the year after th
 
 One man came up in the whole of the morning. He wanted a copy, and a copy at that counter is fourpence, and he paid the fourpence, and he stood at the far end of it and did three copies and gave a half back.
 
-The stair is long enough to give a person away before he arrives, and it gave him away the way it gives everybody away. He came up it the way a man comes up a stair when he is not sure and has not decided whether he is, and she had not seen him do it before and did not let it show that she had not.
+The stair is long enough to give a person away before he arrives, and it gave him away the way it gives everybody away. She had heard him take the whole of it at one pace before and had not heard this one, and she did not let it show that she had not.
 
 Nobody put anything to him and he put nothing to her. **That is not a courtesy between the two of them; it is what a counter at the top of a stair with no other way up is.**
 
@@ -20,7 +20,7 @@ Nobody put anything to him and he put nothing to her. **That is not a courtesy b
 
 He brought it. It was a column of figures for a house four miles down the river and he wanted it in a hand that could be read at a distance, and she read it at a distance for him, and he went down the stairs with it rolled and did not say thank you, and a man who goes down a stair with a copy and does not say thank you is not a villain, he is a man with a column and a bad week.
 
-She said the three of them without taking her hands off what she was doing. One of them was on the board of the column she had open and the other was along the edge of the counter, and she shifted the one on the edge as far as it would go without her leaning over, which is what she does between one thing and the next, and she did not look up while she said any of it.
+She got through the whole of it without taking her hands off what she was doing. Her own column lay open in front of her, and along the near edge of the counter was a thing she wanted out of her way, and she worked it back with two fingers until it was square again, which is what she does between one thing and the next, and she did not look up at any of it.
 
 And then she said the thing, out loud, to the man and to the stair, standing where she stands, and it was not a speech and it was not for him, and he has never in his life wanted to know what a blank is.
 
@@ -40,7 +40,7 @@ And then she said the thing, out loud, to the man and to the stair, standing whe
 
 "A column with a heading over it is a machine. A machine can be asked things all day long and it does not mind the asking, because it cannot say no and it cannot be hurt by what comes back, and that is the whole of what makes it useful and the whole of what makes it dangerous at a certain size."
 
-She said it without turning round from the counter, and the four items on the board behind her were there to be said to, and not one of them bears on the subject. Nothing came up the stair while she was saying any of it, and she did not stop anywhere a person stops, and the hours went on round her the whole time she was at it.
+She said it without turning round from the counter, and the four items on the board behind her stayed where they have been through the whole of it, and not one of them bears on the subject. Nothing came up the stair while she was saying any of it, and she did not stop anywhere a person stops, and the hours went on round her the whole time.
 
 "A column with no heading over it is a person. **A person is only ever asked one way, and the way is out loud in a room by somebody who wants a thing out of the answer**, and about nine hundred rooms a year have a column like that standing in them, and not one of the nine hundred has ever had anybody put to it in one."
 
@@ -50,7 +50,7 @@ She said it without turning round from the counter, and the four items on the bo
 
 Under that counter there is a box of about four hundred blanks, bought and unfilled, and it has been under the counter for eleven years.
 
-The box is a plain one. It has four sides and a lid and nothing written on the lid, and the dust on the top of it belongs to the counter by now and not to the box. Nobody has ever touched that lid in her hearing and nobody has ever come at it from the other side of the counter either, and it is eleven years of the same not being done to it.
+The box is a plain one. It has four sides and a lid and nothing written on the lid, and there is dust on the front of it that nobody has ever wiped off where anybody could see it done. Nobody has ever touched that lid in her hearing and nobody has ever come at it from the other side of the counter either, and it is eleven years of the same not being done to it.
 
 **No form was ever drawn to account for it.** Nobody has ever asked her what it is for and nobody is going to, and the box is not a post and it is not an offer and nothing has ever been left in it, and it is four hundred pieces of paper that cost a district money and can be neither returned nor entered anywhere at all.
 

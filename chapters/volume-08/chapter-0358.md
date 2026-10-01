@@ -30,7 +30,7 @@ Put a number in a book and you have made a column, and every column in this empi
 
 So the figure stays where it is, which is in her, and it is not written down, and it is not going to be handed to anybody this month or in any month after it.
 
-Four hours is what a counter is open for and four hours is what a passage is, and the racks come down and go back in the middle of it. She has stood at this end through the whole of that for four years and has the whole of it by heart, and not one word of it has gone to anybody, and there is nobody here to say it to and that is not the reason.
+She has stood at this end through four years of the racks coming and going and has the whole of it by heart, the hours they come and the hours they do not, and she could put any hour of it on a page and has never put one there.
 
 "There is no form for answering three questions a person has not asked, and I have three of them for a man of about sixty-one who stands on the wrong side of a rail at the far end of these flags, and he has been in that room and I have not been in that room, and I am not going to be."
 
@@ -76,6 +76,6 @@ There is no form anywhere in this empire that would let anybody put to her the q
 
 She has three questions for him, and the fact that he came at all gave her no fourth. It has never once given her a question of any kind, and she is not a party to anything, and no paper any of it has ever been served on her.
 
-The three are in her head in an order and the order has not changed since the first of them came to her, and she has never said any of the three out loud and she is not going to. There is a person at the other end of those flags who has never once put anything to her, and there is nobody at this end who could be asked what she is going to do about the three of them, and she has been getting on with them for four years.
+The three are in her head in an order and the order has not changed since the first of them came to her, and she has never said any of the three out loud and does not intend to, and she has been getting on with them for four years.
 
 At the sixth hour the last rack of the day came up light by one, and the man in the felt apron did not say it out loud that time, and she did not say it either, and the count of things anybody has asked out loud in this matter is the same as it was when the lock was still open, and neither of the two of them had said one word to the other all day that either of them would have to remember.

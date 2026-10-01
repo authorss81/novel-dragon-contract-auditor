@@ -10,7 +10,7 @@ This is the fourth day of the third week of the third month of the year after th
 
 **The arrangement that has kept about nine hundred sheets a year out of every book in this empire for nineteen years is the arrangement that has kept anybody from asking the man at the foot of them one question, and those are one fact and not two.**
 
-She has her own chair and her own table and her own drawer, and the three of them are the whole of what belongs to her in the building, and she would not be able to name a fourth. Everything else in there belongs to the building and gets used by whoever comes up the passage, and she has never asked for anything of her own and has never wanted to.
+She has her own chair and her own table and her own drawer, and the three of them are the whole of what belongs to her in the building, and everything else in there belongs to the building and gets used by whoever comes up the passage. She has never asked for anything of her own and has never wanted to.
 
 She got to that in about four minutes, spread over six years, in this room, with a pen on the table and nobody to say it to. It is not a discovery anybody could act on. It is a discovery about the shape of a thing.
 
@@ -34,7 +34,7 @@ Nobody has thanked her for that either. Nothing anywhere in this empire calls fo
 
 Under that window, on that shelf, there is the finding of six years of her own motion, and it is still in the form of a question, and it has not been turned into a sentence, and there is no full stop on it anywhere.
 
-It is a page and not a bound thing and it has been on that shelf since the day she wrote it and has not been moved since, and she is not going to be asked to move it and there is nobody who could do the asking. She has read it over more than once and the temptation to finish it has never once arrived, and the not being tempted is not the same as not wanting to, and she has never worked out which of the two it is.
+A page and not a bound thing, and it has been on that shelf since the day she wrote it and has not been moved since, and nobody is going to ask her to move it and nobody could do the asking. She has read it over more than once and the temptation to finish it has never once arrived, and the not being tempted is not the same as not wanting to, and she has never worked out which of the two it is.
 
 She wrote it with nobody's request behind it, and the day and the hour are on it, and her own name is at the foot, and it is the only thing on that shelf with a name at the foot. **She is the only person in this matter anybody could serve a question on in writing**, and she is paid nothing for standing ready to have it served.
 

@@ -12,7 +12,7 @@ This is the second day of the first week of the second month of the year after t
 
 The gate is a bar of iron across the end of a yard with a hut at one side of it, and the man at the gate is about forty and has never once argued with anybody in his life.
 
-The man at the gate comes out from the hut to do it and goes back in afterwards, and he does it without looking at the middle of it, and a man who has done a thing every working morning for years does not look at the middle of it. There is nothing on the other side of that bar that has not been there since he last stood at it, and he stands at it anyway, and standing at it is the whole of his part.
+The man at the gate comes out of the hut to lift the bar and goes back in afterwards, and he does that without looking along it, which is not what a man does at a bar he has lifted every working morning for years. There is nothing on the other side of that bar that has not been there since he last stood at it, and he stands at it anyway, and standing at it is the whole of his part.
 
 "Two days," he said. "You have the second and the fourth this week. Two of the five are shut and I did not shut them."
 
@@ -74,6 +74,6 @@ He is not going up a stair. There is a woman four miles off at the top of one wh
 
 There is no fund and no list and no form and no carrier with a thing for him. Nobody has sent him and nobody is going to.
 
-The book on the table has been on it as long as the room has been let to him and it has no office on the cover of it, and nobody anywhere has ever asked him to keep a thing out of it. He has written in it in the mornings and he has never once carried it out of the room, and there is no rule anywhere about that and no person anywhere who would know if there were one.
+Nobody anywhere has ever asked him to keep a thing out of it. He has written in it in the mornings and he has never once carried it out of the room, and there is no rule anywhere about that and no person anywhere who would know if there were one.
 
 He folded the clean sheet and put it in the book on the table, which has no office on the cover of it, and put his hand flat on the bare wall for the length of a breath, the way a man touches a thing on his own account, and then he sat down on a stool that is not against anything and drank tea he had made too strong, because that is what he does when he is afraid.

@@ -22,7 +22,7 @@ It is a figure times and not distance, and the distance is about nine miles, and
 
 He has never written the figure down and he is not going to. He has said the whole of a thing out loud in that room more than once. On the one occasion anybody has written down, he was in a room with about nine people in it and a clerk of about fifty-five with a pen on a table, and she wrote none of it. **None of it is in the eleven books at the top end of that passage, and about four thousand entries in those books have no name in any one of them, and none of those is this.**
 
-The eleven books stand on the shelf at a height they have stood at for nineteen years, and nobody has ever come into this room and picked one of them up to find out how far it had come down at the top. He knows roughly what is in each of them and roughly is the whole of what is in any of them, and roughly has been enough to get a hand to the foot of about nine hundred sheets a year.
+The eleven books have been on that shelf the nineteen years he has been in the room and nobody has ever come in and picked one of them up off it to look at how far down they had come. He knows roughly what is in each of them and roughly is the whole of what is in any of them, and roughly has been enough.
 
 Nobody is going to ask him what he meant by any of it, and he is not going to be asked, and the not being asked is the arrangement and not a thing that has happened to him by accident.
 
@@ -62,7 +62,7 @@ Nobody has ever thanked him.
 
 He has never asked to be thanked, and nothing anywhere in this empire calls for thanks to a person who says a true thing out loud in a room that has nobody in authority standing in it.
 
-He has said true things out loud in this room more than once and the whole of all of them would go into about four minutes, and nobody has ever asked him for the four minutes and he has never offered them. He knows why he has not done it and the reason is that a thing put together is a thing a person could want, and he has no idea at all what he would do with one.
+Everything true he has said out loud in this room would go into about four minutes taken together, and nobody has ever asked him for the four minutes and he has never offered them. He knows why he has not done it and the reason is that a thing put together is a thing a person could want, and he has no idea at all what he would do with one.
 
 **He knows both halves of that and has never put them in one sentence**, and there is no form for putting two halves of a thing together, and the not putting them together is not modesty and is not bitterness and is the only piece of administration he has ever been able to do.
 

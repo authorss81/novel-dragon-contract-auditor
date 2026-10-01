@@ -18,7 +18,7 @@ It came off the stick about a quarter as fast as it went on, the way paper does 
 
 "The fifth line is the one I am afraid of," he said. "Everything above it is a copy of a copy. That line is mine."
 
-He did not sit down. One chair is on the landing and nobody sits in it, and it was empty the whole time he was up there. He stood at the side of the table with the near end of the paper held down under his own forearm so that it would not curl again, and he shifted his weight once and put it back where it had been.
+He did not sit down the whole time he was up there. One chair is on the landing and nobody sits in it. He stood at the side of the table with his forearm on the paper to hold it still, and he shifted his weight once and put it back where it had been.
 
 He said it the way men say a thing they have already said to themselves in the lane on the way up. The clerk read the line. He read it twice, because a fair hand reads a thing slowly the first time and cannot help reading it faster the second.
 
@@ -44,7 +44,7 @@ Three hours of eight is not much of it, and what he had done by then was the par
 
 He has a number in his head. He has had it two years, and he has never written it, and he has never said it, and nobody has ever come up those four steps and asked him for it.
 
-Two years is long enough to have had it in the mouth a great many times and not said it. He has a way of getting the pen to the paper and stopping about a quarter of an inch short of it, and the stopping is quicker now than it was two years ago, and that is the only thing about it that has changed.
+He has a way of getting the pen to the paper and stopping about a quarter of an inch short of it, and the stopping is quicker now than it was when the number first came to him, and nothing else about it has changed.
 
 The reason is not that he is shy it. Handing the number over would be a list. A list of persons is a company, and a company is a heading, and a heading is what a man turns into the moment the thing outgrows one room. A figure that stood over all the rooms at once would have to stand over him too, and there is no version of him that is still him underneath it.
 

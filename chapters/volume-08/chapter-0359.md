@@ -40,7 +40,7 @@ And this time he is not telling her at all. He is going out of that door in an h
 
 "Not once in two years."
 
-The fire had been in since before either of them got up and it had been down to nothing twice already that week and neither of them had said anything about it either time. Nothing in the room answered her while she said it, and the steps outside took the sound of nobody at all coming down them, and neither of them moved from where they were.
+The fire had been in since before either of them got up and had gone down to nothing twice already that week, and there was a cold spot in the middle of the room that neither of them had gone near. Nothing in the room answered her while she said it, and the steps outside took the sound of nobody at all coming down them, and neither of them moved from where they were.
 
 "No," he said, "because the day I say it is a day you have a thing from me that I cannot put back, and you have spent a long life getting yourself out of things people hand you, and I would not hand you one at the end of a week I have been out of a room in."
 
@@ -76,7 +76,7 @@ Three men is not many, and not one of the three put any of it on paper. He could
 
 A woman of about thirty-five lives next door. She came out on her own step twice while he was standing at the bottom of the four steps and put two things down and went in again, and she did not speak to him and he did not speak to her. The two doors are about four feet apart, and nothing in this empire would let him put to her the question of whether she would mind being told a thing before she is told it.
 
-Four feet is close enough to hear a door on and far enough for a person to stand on a step out of the sight of anybody at the other one. He had been at the bottom of the steps both times when she came out and went in again, and he had not spoken and she had not come out to him, and neither of them has ever said that that was a thing they agreed on.
+Four feet is close enough to hear a door on and far enough for a person to stand on a step out of the sight of anybody at the other one, and neither of them has ever said out loud that that was a thing they agreed on.
 
 That absence is the reason he told his wife the one time he ever told her anything, and it is the reason he is not going to tell her this, and it is one absence and not two, and it is not going to be filled.
 
