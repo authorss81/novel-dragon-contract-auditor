@@ -56,6 +56,10 @@ Then Marn Ottery put her chin on her hand and looked at the drawer under the boa
 
 The date is the second day of the second week of the seventh month of the year after the year after the year after the year after next, and it is the sixth hour now, and the counter is shut, and the undertaking of the fourth of the first month is live and unretired and unamended and has not been exercised and was not exercised today, and nobody has retired it.
 
+The cold at the foot of the stair did not go away when she did. It stayed where she had left it and came up the four flights behind her, and by the time she was back at the counter with her hands on the boards she had brought a good deal of it up with her and had nowhere to put it down. Coming back up a stair you have just come down takes everything a person has, and both women at the counter watched her come up the last flight without either of them saying one word about how she looked when she got there.
+
 The two of them came off the four flights together, **which is not a thing either of them decided**, and Marn Ottery said at the second landing that it was not a favour and it was not an arrangement, and Tamsin Rook said that she knew it was not, and neither of them thanked the other for walking down half a stair.
+
+They went down at the pace of two people who had agreed without agreeing, and the stair took them the way it takes everybody, one at a time in the narrow of it and both of them with a hand on the rail. Nobody standing at the bottom of them is anybody's business, and the landing on the flags is where a person coming up has to go round whoever is on it, and there was nobody on it at all, and the woman of about sixty and the boy of about eleven were not there either, and four flights had been climbed for that and nothing else.
 
 **None of the four things in the drawer has been opened, and the fourth of the four is the one with the date at the top of it, and nobody at that counter has said that date out loud in two years, and neither has she.**

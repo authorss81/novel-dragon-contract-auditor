@@ -44,4 +44,6 @@ He did not go in and pick it up. She did not tell him to and neither of them men
 
 It is the second day of the second week of the eighth month of the year after the year after the year after the year after next, and the two of them went in at about the eighth hour, and the woman of about thirty-five next door went in at about the ninth and put her own door on the latch behind her the way she has every night for eleven years.
 
+There is a slot in the door for letters and it is at the level of a man's hand, and whatever came through it went no further than the floor of the hall, and nobody had picked it up, and the picking up of it was the whole of what had to happen for it to stop being in there. It lay where it had fallen with its face up and the light off the lane came across it at whatever hour the light crossed the hall, and it had been doing it for four days now, and a house that is findable keeps a paper in it that the finder did not write and cannot take away, and neither of the two people on either side of the lane had touched it, and neither of them was going to.
+
 The bill was still on the hall floor at the end of it, and the lane was still four feet wide, and neither of the two women said one word about the man who had just gone in, and there is no form anywhere in this empire for a person to say a thing like that out loud to a person.
