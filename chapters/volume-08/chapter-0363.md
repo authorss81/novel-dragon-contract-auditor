@@ -26,7 +26,7 @@ The girl of about twenty-two came down off the stair with her sleeves rolled up.
 
 "You are not writing the thing," she said.
 
-The girl leaned her elbows on the counter, chin propped, watching with the frank stare of the young. Her sleeves were still damp to the elbow and and there was something from the back room on one cheek that she had not thought about. She did not move or apologise for staring, and the older woman let her look.
+The girl leaned her elbows on the counter, chin propped, watching with the frank stare of the young. Her sleeves were still damp to the elbow and there was something from the back room on one cheek that she had not thought about. She did not move or apologise for staring, and the older woman let her look.
 
 "I am not writing the thing."
 

@@ -70,6 +70,6 @@ Neither of them said thank you for it. The two of them stood at their own doors 
 
 Rain came down between the two houses and found the low place in the lane and went along it. One of them moved her feet and the step went under her and came back with a noise. They stayed a while longer without saying anything, in a lane four feet wide, and then each went in by her own door.
 
-The two doors were shut and the lane went on being four feet of wet between them, and the dripping off the two eaves did not come in the same time. There is no form anywhere for a person standing on her own step waiting to find out whether a thing is the road or the man, and the finding out is not on any sheet, and neither of them would have told the other one about the man who had gone in.
+The two doors were shut and the lane went on being four feet of wet between them, and the dripping off the two eaves did not come in the same time. There is no form anywhere for a person standing on her own step waiting to find out whether a thing is the road or the man, and the finding out is not on any sheet.
 
 **That is the arrangement in the next house worked in the other direction.** The two of them have never once compared notes about it, and both of them would be inside four feet of the other one inside a minute if either said one word out loud, and neither of them did.
