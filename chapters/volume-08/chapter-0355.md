@@ -74,6 +74,6 @@ He is not going up a stair. There is a woman four miles off at the top of one wh
 
 There is no fund and no list and no form and no carrier with a thing for him. Nobody has sent him and nobody is going to.
 
-Nobody anywhere has ever asked him to keep a thing out of it. He has written in it in the mornings and he has never once carried it out of the room, and there is no rule anywhere about that and no person anywhere who would know if there were one.
+Nobody anywhere has ever asked him to keep a thing out of that book. He has written in it in the mornings and he has never once carried it out of the room, and there is no rule anywhere about that and no person anywhere who would know if there were one.
 
 He folded the clean sheet and put it in the book on the table, which has no office on the cover of it, and put his hand flat on the bare wall for the length of a breath, the way a man touches a thing on his own account, and then he sat down on a stool that is not against anything and drank tea he had made too strong, because that is what he does when he is afraid.

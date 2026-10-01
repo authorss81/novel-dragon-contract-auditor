@@ -40,7 +40,7 @@ And this time he is not telling her at all. He is going out of that door in an h
 
 "Not once in two years."
 
-The fire had been in since before either of them got up and had gone down to nothing twice already that week, and there was a cold spot in the middle of the room that neither of them had gone near. Nothing in the room answered her while she said it, and the steps outside took the sound of nobody at all coming down them, and neither of them moved from where they were.
+The fire had been in since before either of them got up and had gone down to nothing twice already that week, and there was a place on the hearth neither of them had gone near. Nothing in the room answered her while she said it, and the steps outside took the sound of nobody at all coming down them, and neither of them moved from where they were.
 
 "No," he said, "because the day I say it is a day you have a thing from me that I cannot put back, and you have spent a long life getting yourself out of things people hand you, and I would not hand you one at the end of a week I have been out of a room in."
 

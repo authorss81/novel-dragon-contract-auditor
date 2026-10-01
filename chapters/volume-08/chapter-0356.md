@@ -84,6 +84,6 @@ She is not going up the lane to say the rest of it, and she is not going to make
 
 The cross in the chalk on the end wall of the bay is at the height of the third link of that chain, and it means nothing at all. It belongs to nobody, and it stands about four years away from turning into anybody's evidence, and the chain it is level with is on a man, and nothing in that lane is ever going to turn either one of them into anything whatever, and she is not going to be the one who scrapes it off to see what is underneath.
 
-The chalk on that wall was put there before she came to the bay at all. The bench down the side of the room was warm the whole length of it where the men had been sitting at them.
+The chalk was put there before she came to the bay at all, and nobody works there who can say who put it there, and she has worked nine years at the back of it and has never once asked anybody.
 
 At the sixth hour the gate at the bottom of that lane was still shut, and the two of seventeen were still at the back of the bay, and the lamp above the middle of the bench went on not being lit. The count of things anybody has asked out loud in this matter was the same as it had been when the gate was shut. There is nobody in that bay that anybody is looking for, and there was nobody in it at the sixth hour that there had not been at the second.

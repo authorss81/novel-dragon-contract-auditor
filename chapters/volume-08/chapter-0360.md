@@ -46,7 +46,7 @@ She is not told anything what a man said in a room at the far end of her own pas
 
 There is nothing in this empire that would let a clerk of an office be told that a person is coming, and there is nothing in it that would let one be told that a person is not.
 
-She has a table in front of her and a drawer and eleven books on a shelf behind her and four hundred yards of flags outside the door, and every one of those is a thing this empire can find and not one of them is a thing this empire can be sent for, and she has arranged them in an order that lets her work and nobody has ever looked at the order.
+She has a table in front of her and eleven books on a shelf behind her and four hundred yards of flags outside the door, and every one of those is a thing this empire can find and not one of them is a thing this empire can be sent for, and she has arranged them in an order that lets her work and nobody has ever looked at the order.
 
 So what she said out loud in this room, standing at her own table, is exactly as it stands, and **that is the price of the standing ready, and it is not a punishment and nobody laid it out, and she has never had the chance to find out whether she would do it again.**
 
@@ -60,7 +60,7 @@ She entered the four. She wrote the day and the hour and the four numbers, and t
 
 He did not ask her anything and she did not ask him anything.
 
-He stood in the doorway and she did not ask him to come further in and he did not come further in, and the two of them have stood it like that since the first of the two times, and neither of them ever set it out. Standing in a doorway is not the same as sitting down, and he has never once sat down in there and she has never once asked him to.
+He stood in the doorway and she did not ask him to come further in and he did not come further in, and the two of them have stood it like that since the first of the two times, and neither of them ever set it out. Standing in a doorway is not the same as sitting down, and he has sat down in there twice in nineteen years and she has never once asked him to.
 
 "The flags are cold at this hour," said the man of about sixty-one. "They are worse after rain than they are in a dry week, and I have said that in this room twice and I have never once been asked whether it is true."
 

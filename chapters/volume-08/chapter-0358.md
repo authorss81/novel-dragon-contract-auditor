@@ -18,7 +18,7 @@ The sheet goes on to a pile at the far end of them with whatever else is on it, 
 
 **Her figure has gone up since the seventh month of the year after, and she has not said by how much and is not going to.**
 
-The watching is done without any paper in front of her, which is the only way there is of watching a number. There is nothing in this empire that is felt rather than written and then put under a heading and entered, and she is the only person in the building carrying one, and she is standing at a lock when she carries it.
+The watching is done without any paper in front of her, which is the only way there is of watching a number. There is nothing in this empire that is felt rather than written and then put under a heading and entered, and she is the only person in the building carrying one.
 
 She worked that out in about four minutes, standing at a lock, one time. **The figure is the only one this empire keeps on how many people are sitting inside a thing nobody can be asked about.** Everything else anybody counts here is a count of hands, or hours, or yards, or stone, or days, or persons under a heading. Hers is a count of persons under nothing.
 
