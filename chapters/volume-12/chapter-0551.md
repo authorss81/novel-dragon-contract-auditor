@@ -44,7 +44,7 @@ She had wanted a hand on a bundle of ordinary work to be a thing a person could 
 
 ---
 
-She came along the bench from the end her own hand is on and she came at it slowly, because the whole length of it is the width of the shed and the girl was working at one end of it with nothing in between, and she stopped about a foot short of the girl's hands and stood there, having come the whole length of the floor to be a foot from somebody's hands, and there is no way to be at the end of the stone without it.
+She came along the bench from the end her own hand is on and she came at it slowly, because the whole length of it is the width of the shed and the girl was working at one end of it with nothing in between, and she stopped short of the girl's hands and stood there, having come the whole length of the floor to be within reach of somebody's hands, and there is no way to be at the end of the stone without it.
 
 She went along the bench at about the half hour on the third morning of that run and squared that bundle up with the heel of her hand and put it at the end, in front of the girl, about a foot from her hands, and she did not say one word about having moved it and she did not look at her while she did it.
 

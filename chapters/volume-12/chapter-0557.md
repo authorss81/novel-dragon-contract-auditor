@@ -36,7 +36,7 @@ The woman of about thirty-five came down that lane at about the fifth hour and w
 
 She has done that every week for longer than either of them would say, and neither of them has ever said a word to the other about the man who lives above the second stair. She keeps four rooms by the week in a house of her own and keeps a book in her own hand, and has not ruled a fifth column in nine years, and has said out loud once that she is not going to.
 
-Her own place in the lane is the whole length of the passage, and a cloth is the whole of what she does in it, and what the cloth leaves on the boards comes out at about two inches apart and carries on the whole length of the front of the ground floor. She goes along at one rate and comes back at the same rate, and that is everything either of them ever gets to see of the other one, and it has been the same for longer than either of them would say.
+Her own place in the lane is the whole length of the passage, and everything she does in it she does with a cloth, and what the cloth leaves on the boards is a run of marks about two inches from one another, all the way along the front of it. She goes along at one rate and comes back at the same rate, and that is everything either of them ever gets to see of the other one, and neither has ever put a figure on how long it has been going on.
 
 "The lid is down."
 

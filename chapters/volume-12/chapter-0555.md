@@ -14,7 +14,7 @@ He can make sense of a paragraph. There are four people in this matter who canno
 
 The sheets go down that lane in armfuls and come back at the other end and go on other people's hands and the two of seventeen at the end of that bench have the far end of them, which is where a bundle sits for about as long as it takes a person to look at it.
 
-He is at the end of it where the count is made and it is about four foot of stone standing on two frames, and the wood in the frames is grey in the middle where forearms have gone over it and is dark at both ends. The light off the roof comes down the wall about as high as a hand and stops there, and neither end of the bench is in any of it, so the two people at the two ends of nine foot of stone have never once been in the same light.
+He is at the end of it where the count is made, and it is about four foot of stone carried on two frames, and the colour has gone out of the middle of the wood where forearms have gone over it, and both ends of it are dark. The daylight comes off the roof, gives the wall up about as high as a hand, and leaves what is left of it lying along the middle of the floor between them, reaching neither end, so he and the girl working at the far end of nine foot of stone have never once been looked at in the same light.
 
 There is a strip printed along the top of every one of them and four things printed along the top of that, and not one of the four is anybody's name, and he has read those four things about nine hundred times without once learning anything he did not know in the first week.
 

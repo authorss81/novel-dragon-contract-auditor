@@ -46,7 +46,7 @@ The woman of fifty-three was in there. She is fifty-three and she keeps those mi
 
 She did it the way it is done.
 
-The room has one table in it at the far end under the window and the door propped off its frame, and the weather comes over a sill about two foot wide and takes the paper on the shelf straight on. The woman of fifty-three kept on with her own hand and did not put her pen down, and the girl of nineteen stood four foot off her with the armful in her arms and wrote a week out of the older one and read it back against it, and the two of them went on with their own hands.
+The room has one table in it at the far end under the window and the door propped off its frame, and the weather comes over the sill about two foot wide and goes straight past where the girl is standing. The woman of fifty-three kept on with her own hand and did not put her pen down, and the girl of nineteen stood four foot off her with the armful in her arms and wrote a week out of the older one and read it back against it, and the two of them went on with their own hands.
 
 ---
 

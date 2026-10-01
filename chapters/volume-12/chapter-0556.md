@@ -8,7 +8,7 @@ It is the second day of the second week of the fifth month of the year after the
 
 The gap between the outside of that wall and the back of the house behind it is about as deep as a well is deep, and the light comes up out of the bottom of it on a working morning and goes flat across the floor by about the third hour.
 
-After the third hour there is nothing in the room but the shape of the furniture in it and a grey light on the boards, and the shapes do not move. There is a lamp down on the floor where the bed stops and about an inch of wick in it that nobody has ever lit, and there is no fire in there, and nothing in it is ever going to be warm.
+After the third hour there is nothing in the room but the shape of the furniture in it and a grey light on the boards, and the shapes do not move. There is a lamp down on the floor by the end of the bed with an inch of wick in it and nobody has ever lit it, and there is no fire in there, and nothing in it is ever going to be warm.
 
 For about two years there has been a person in a back room at the other end of that air sweeping a floor for the first hour of the morning, and no longer than that, and the sound of it is not a sound anybody would describe. It is a brush on boards and it goes at the same rate and it takes about as long as it takes a plate to be washed.
 
@@ -60,6 +60,6 @@ Up that stair at the sixth hour and down it at the seventh, and it went past his
 
 He did not go to the door at the fifth hour either, when it stopped on the floor below his own for about as long as it takes a coin to be counted twice.
 
-He has been in the room about two years and there is a plate on the other side of a table in it and a catch turned on a window and a lamp with a wick in it on the floor at the end of a bed, and there is nobody in this empire who knows the order of those three things except him, and the order of them has never gone out of this room.
+The three things in the room have an order and nobody in this empire knows what it is, and he has been living inside it about two years, and the order has never gone out of it.
 
 The plate was on the table when he came back to it and it had been there about an hour, and nothing in that room has ever been warm and nothing ever is going to be. He has decided that a plate is a thing that can be washed and put down and left, and nobody in nine hundred buildings is going to be told that there is a second one in that room. He is not going to be thanked for washing it either. The woman at the back of that house went back to sweeping her floor at the same rate she has swept it for about two years, and neither of them ever said one word to the other about a shut window or a plate or a morning.

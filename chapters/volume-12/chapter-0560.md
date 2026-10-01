@@ -30,7 +30,7 @@ It is shut because somebody else shut it, and nothing separates that from the wa
 
 That is the whole of what either of them said on that lane that morning and it is the fourth week in a row of it and neither of them has asked the other one anything and there is nowhere standing on that lane at which either of them could.
 
-They said it in the passage at the front of the ground floor with the cloth marks on the boards going the whole length of the front and the tin standing on the top step at the turn behind them. The passage is about as long as a table and the two of them were at the near end of it with the light off the lane in one run along the boards and both of them standing inside it.
+They said it in the passage at the front of the ground floor with the cloth marks on the boards going the whole length of the front and the tin standing on the top step at the turn behind them. It runs about as long as a table, and both of them stood at the near end of it inside the one run of light the lane puts along the boards.
 
 The woman of about thirty-five went up the lane with the book under her arm and did not stop on the step.
 
@@ -42,7 +42,7 @@ She went into it the first time about a fortnight ago and stood in the doorway a
 
 That is what she has got and it is not nothing. It is nine times and two things.
 
-Nine times is not a great many and two things is not a great deal, and she has kept a count of both of them because she keeps a count of everything, and there is no column in her own book for either number, and the four that are ruled have nothing whatever to do with a room at the back of her own house.
+Nine times is not a great many and two things is not a great deal, and she has kept a count of both of them because she keeps a count of everything, and there is no column in her own book for either number, and the four that are ruled have nothing whatever to do with a room standing empty in a house of her own.
 
 She is thirty-five. She keeps four rooms by the week in that house and a book in her own hand. There is a room at the back of her own house and there is a column in her own book, and she has said out loud that she is not going to do either of them, and she is not.
 
