@@ -22,7 +22,7 @@ She was at the back of that bench herself now, and had been for a month, and the
 
 The man at the front bench had the chain along the stone and his thumb on it and he was at the third link and had been at it since about the fourth hour, and the lamp was not due until about the seventh and he was going to be finished before it came on or he was going to be in the same condition as he was in the morning.
 
-He had worked by feel since long before there was any light in the place to work by, and eleven years of it is not the same as being able to do it without looking. Looking is a habit, and a habit is the whole of what a working man has to hold on to, and a man who has held one for eleven years in the dark does not put it down because a woman stands four feet off his shoulder.
+He had worked by feel for eleven years in a place kept dark until about the seventh hour, and eleven years of it is not the same as being able to do it without looking. Looking is a habit, and a habit is the whole of what a working man has to hold on to, and a man who has held one for eleven years in the dark does not put it down because a woman stands four feet off his shoulder.
 
 "That end of that bench has been the end of it for eleven years," he said, to the stone. "I have not asked you why you moved and I am not going to, and I would not have asked you in any of the eleven years, and I am not going to be a person you have to explain a bench to."
 

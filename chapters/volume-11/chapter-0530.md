@@ -12,7 +12,7 @@ It is the fourth day of the fourth week of the tenth month of the year after the
 
 She did not knock, and she had not knocked in about a month, and she said one thing on the other side of that door and she said it to the door and not to him.
 
-Four flights of stone run up the side of the house and there is a rail on the open side of all of them, and anybody walking up is heard at every floor and heard twice over, once going and once coming. She had come up them about once a month for three months and had not stopped on any of the landings, and about three hours earlier he had worked out, standing in the middle of a floor, that the stair had not stopped on his floor since a month that is gone.
+Four flights of stone go up the side of the house with a rail on the open side of all of them, and a person on any one of them is carried by all the other three at once. She had come up them about once a month for three months and had not stopped on any of the landings, and about three hours earlier he had worked out, standing in the middle of a floor, that the stair had not stopped on his floor since a month that is gone.
 
 "**I have got the thing about that window settled and I am not going to tell you how I got it settled and you are not going to be asked, and I am telling you that it is settled so that you can put it down, and you are not carrying anything, and that is the whole of what I came up for.**"
 

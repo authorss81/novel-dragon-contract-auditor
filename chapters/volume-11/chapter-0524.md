@@ -18,7 +18,7 @@ Nobody in this city has been told that he is carrying two things. Nobody has eve
 
 He took it off the nail at about the second hour and put it on.
 
-Two years of a coat on one nail have pressed the shoulder of the wool out around the head of it and left the fold below hollow, and the wool where it goes over the top has taken the colour of the plaster behind, which is the colour of everything else in there. Taking it down is a matter of lifting it off with one hand and not of undoing anything, and there is no fastener on it and there has not been one for two years.
+Two years of a coat on one nail have pressed the shoulder of the wool out around the head of it and left the fold below hollow, and the wool where it goes over the top has gone the same shade as the wall behind it, so that the coat and the wall are one colour of nothing. Taking it down is a matter of lifting it off with one hand and not of undoing anything, and nothing fastens it and nothing has for two years.
 
 ---
 
@@ -44,7 +44,7 @@ She is not a person anybody in this matter can put a thing to. That has been the
 
 The stair did not sound. It had not sounded since the last time and it did not sound this morning, and he stood with his hand on the latch for about as long as a sheet takes to be squared and then he took his hand off it.
 
-Those four flights are stone and they climb the side of the house with the rail on the open side, and anybody going up at the ordinary rate is heard at every floor and heard twice over, once going and once coming. Over eleven years he had got so exact about the whole of it that he knew how long after a door opened anywhere below him the house would give him away for. He stood in the middle of the floor with his ear doing what it had been built to do, and finding out nothing was on it took him most of an hour.
+Those four flights are stone and they go up the side of the house with a rail on the open side of all of them, and nobody takes one of them without the other three carrying it, whether they are going up or coming down. He had got the whole of it exact over eleven years and could have said to within a few seconds when a door below him would open and by what floor the sound of it would have reached him. He stood in the middle of the floor with his ear doing what it had been built to do, and finding out nothing was on it took him most of an hour.
 
 ---
 

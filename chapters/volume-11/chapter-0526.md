@@ -50,7 +50,7 @@ The boiler ticked. The tin behind it did what it does. The door was not quite sh
 
 She did not open the door and she did not go up the stair.
 
-The stair goes up out of the ground floor and there are four rooms on it, and the boiler is at the back, and the board by the door carries the keys to three of them. She has stood at the foot of it for about twenty years and has not gone past the second stair once, and a person who has stood at a foot for twenty years knows exactly how many stairs there are without ever having counted them.
+There are four rooms off the stair and she has spent twenty years at the foot of it. A person who stands at a foot for twenty years knows how many steps are in it without ever having counted them, and she has never once gone past the second. Nothing in the house has ever told her what is on any of the landings above it and she has never asked it.
 
 "You came down here," the woman on the step said, "and I have not come down here to be told anything in all the time I have been coming down it, and I have never once asked you what you were going to do when you got to it."
 

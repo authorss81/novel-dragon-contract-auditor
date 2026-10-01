@@ -36,7 +36,7 @@ She got as far as the frame.
 
 The lane was out there and it was about the fourth hour of an ordinary morning and it was doing what a lane does, and she stood with the shed behind her and her hand on the frame, and about four hundred yards up the lane off which this shed stands there is a thing that nobody in that shed walks to and nobody in that shed is going to walk to this month.
 
-The bottom of the frame on the lane side was worn where a shoulder had gone past it often enough to wear it, and the frame itself was squared and had been squared once and was not square any more. The stone under the threshold is a different temperature from the stone six foot inside it, and going back over the threshold took her about as long as squaring a sheet does, and it did it every time, and she had never once stood there long enough to find out why.
+The bottom of the frame on the lane side was worn where a shoulder had gone past it often enough to wear it, and the frame itself was squared and had been squared once and was not square any more. The stone under the threshold is a different temperature from the stone six foot inside it, and going back over the threshold took her about as long as squaring a sheet does, and it has taken the same every time, and she had never once stood there long enough to find out why.
 
 She could hear the chain from where she stood. It went along the stone and came back and went along it again, and it was the same noise it had been at every hour of every working morning for eleven years, and it went on at the same rate with her out of the room as it had with her in it, which is the whole of what she learned from standing in the frame on the fourth morning of six.
 
@@ -54,7 +54,7 @@ The chain behind her went on being felt along.
 
 She came back in off the frame and shut nothing, because there was nothing to shut, and she stood in the middle of that floor and worked the rest of it out standing up, in about as long as it takes to cross a bay and come back.
 
-Her boots went on the stone and the stone told everybody in the shed where she was, which is a thing about nine foot by eleven and not about a person. Eleven years of it had put her feet down in the same four places every morning, and this morning she crossed the floor in the same four of them, and the stone told the room the same thing it had told it every morning since before the girl came to the back of it.
+Her boots went on the stone and the stone told everybody in the shed where she was, which is a thing about nine foot by eleven and not about a person. Eleven years of it had put her feet down in the same four places every morning, and this morning she crossed the floor in the same four of them, and it has told the room the same thing every working morning since she first came to it.
 
 Here is what she had not seen. She had spent two years believing that the doorway was the problem, on the reasonable ground that a person who goes out of a room and stands in a lane has taken herself out of it, and the inside of that bay is smaller than a person expects a room to be and a lane is as long as it is.
 
@@ -62,7 +62,7 @@ A class is not a room. She has known that for eleven years the way a person know
 
 A person who is in a class can be put back into it without anybody lifting a pen. Nothing has to happen. There is no form and there is no form coming and there is nobody waiting to fill one in, and the paper on that board by the door has been blank since before she came and it is going to be blank after, and it has done the whole of that work with its knees drawn up under it and nobody had to do anything at all.
 
-Nobody in there has ever seen the desk. There is nine foot by eleven at the end of a lane and a piece of paper on a board by a door, and somewhere about nine hundred rooms away somebody could put a line against either of them, and neither the shed nor the paper has ever been anything to whoever sits at that desk and never will be. She had known all of it for years and had never once found a way of feeling it, and this morning it arrived in her as the length of a floor.
+Nobody in there has ever seen the desk. It stands about nine hundred rooms off and whoever sits at it could rule a line against the shed or against the paper on the wall as easily as against the weather, and neither of them has ever been anything to the person sitting there, and never will be. She had known all of it for years and had never once found a way of feeling it, and this morning it arrived in her as the length of a floor.
 
 And a second ear is a person standing in a room. There is a man at the front bench of this one and he has said four things in it in about a year and nobody answered one of them and he never wanted an answer, and he is a man nobody in this empire has anything to enter him under, and he has not been entered.
 

@@ -28,7 +28,7 @@ The date, the hour, and how many sheets came out of the case, in that order, the
 
 The strap went up over his shoulder and came off again and went up again. Tamsin Rook squared an edge at the other end of those boards. Marn Ottery did not look over.
 
-A working floor makes a noise like a working floor and nothing in it is addressed to anybody. Four people on about nine foot of wood and two joined tables produce about the sound of nine, and the three women had been in the room long enough to hear a difference in it the way a person hears a difference in a room they sleep in.
+A working floor makes a noise like a working floor and nothing in it is addressed to anybody. Four people on about nine foot of wood and two joined tables make more of it than four people ought to, and the three women had been in the room long enough to hear a difference in it the way a person hears a difference in a room they sleep in.
 
 ---
 
@@ -42,7 +42,7 @@ He said it to the boards and he did not look up and he did not say who he was ta
 
 She had her hand on the book.
 
-Four years at that end of the room, and the hand had been on the book every single working morning of them, and it was not a hand which fidgets, and it lay flat with the fingers along the edge of the page and it had never once been anything else in anybody's field of view.
+Her hand lay flat with the fingers along the edge of the page, and it was not a hand which fidgets, and it had been in that one position every single working morning of the four years without once being anything else in anybody's field of view.
 
 It was the first time in four years that she had wanted to write something down about a person rather than about a floor. It had been there since about the middle of the fourth hour and it was the only thing she had wanted in four years, and it was not a name. It was a mark on a line that would say that a man had been on that floor at that hour with a satchel, and that is the smallest possible entry and it would fit in the middle of a line with the number of sheets on it, and the book is a record, and the one thing in that room anybody can ever be shown is a record.
 
