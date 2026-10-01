@@ -10,6 +10,10 @@ It is the second day of the first week of the fourth month of the year after the
 
 ---
 
+The table stood against one wall with nothing on it, and the stool did not go under the table, which is why the stool is where it is. The bed was along another wall and had not been made in a morning for about two years. The chair stood out in the middle of the floor against nothing at all and had stood against nothing at all since the week he came in.
+
+Nothing in the place makes heat, and a man who stands still in a room like that has to start moving. He went about the floor for most of that morning and came back to the same three or four places each time, because there is no arrangement of a room like this that makes a man want to walk to the far corner of it.
+
 The coat is on the nail and the nail went in crooked about the height of his hand about two years ago, and for about a year and a half of that time it carried nothing at all.
 
 There are two things in the inside pocket of it, one on the left of the seam and one on the right. One of them is a leaf, and a line has been struck through whatever stood at the foot of that line on it, and it came out of a bundle folded twice, and the crease a third of the way down it is worn through. The other is a piece of paper with a strip printed along the top of it and four things set along that strip, and not one of those four is anybody's name, and it came out of a case at the top of four flights for fourpence on a wet morning about two years ago and not about a month. Neither of the two has been out of that pocket in this building or in any other. Not one person in this city knows he is carrying both of them. Nobody has ever looked in the coat and nobody ever is going to.
@@ -19,6 +23,8 @@ About four feet of bare wall is beside the window and there is nothing on any pa
 ---
 
 He got through the middle of the morning with nothing decided, which is the ordinary shape of his working life and has been since a morning a long time ago.
+
+He had a way of passing a morning in there that used no chair at all. In off the stair, across to the window, back again, and on for about as long as it takes to square a sheet. Then a while with a thumb flat on the plaster beside the window where there is nothing on any part of it. Then he started again.
 
 Somebody put a hand on the door at about the fourth hour and said through it that there is a woman two floors down in that house who has a thing about the window in that room, that the thing has been going on for about a month, and that she would put it in writing if anybody in the building would stand to it.
 
@@ -56,6 +62,8 @@ He did not go up them this month and he is not going to.
 
 About the middle of the afternoon he took the coat off the nail and put it over the back of the chair, which is the only thing in that room the coat has ever been on since the evening it went up, and he had his hand inside the pocket and his hand outside the pocket and he took nothing out of it.
 
+The wool went down over the back of the chair and took the shape of the chair in about a minute, and the shoulder of it stood up where the same spot on it had been pressed every night for two years. He stood back from it and looked at that, and then he went on looking at it. A man can go into a pocket every morning for two years and take nothing out of it and still not know which of the two things in there he would take out first.
+
 The crease a third of the way down the leaf is worn through and the leaf is where it was and the four things printed along the top of the other one are where they have always been, and they are on opposite sides, and they have not moved since a wet morning about two years ago.
 
 What belonged at the foot of that line is gone, and the hand that went through it was not his mother's. The claim that went out of this empire with that name went the same way on the same day, and he holds one of those two things and has never held the other, and neither of them is coming this month. He did not say one word about it out loud. There is no word in this empire that goes with what he would have to say if he opened his mouth about it, and a room cannot be asked, and a room is the only party in this matter that has ever received anything from him.
@@ -65,5 +73,7 @@ He hung the coat back on the nail.
 ---
 
 He went down the street in the ordinary way at about the fifth hour, and he did not buy anything, and he did not go to the top of any stair, and he did not go to the end of the lane.
+
+The street at that hour had the ordinary quiet of a street where everybody who works indoors is indoors. He went along it the way he goes along it, which is the only part of the day that is his, and about two years of a street being the same street every morning is a thing a person is relying on without ever having decided to rely on it.
 
 The four feet of bare wall was still bare and the nail was still in it and the coat was still on it, and nobody was thanked and nobody was sent for, and nothing about it is written down anywhere in this empire.

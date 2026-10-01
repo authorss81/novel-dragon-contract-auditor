@@ -10,7 +10,11 @@ It is the fourth day of the third week of the fourth month of the year after the
 
 ---
 
+The flags go the length of that run and they are bedded in the way flags are bedded where they have not been lifted for a long time, and the cold comes up out of them and stops being cold at a shoe inside about twenty minutes and then becomes a thing the person is standing in. At the near end of the flags there is a bar and a housing to take it into, and the wall behind it is a wall a person has been facing for four years with nothing on it to look at.
+
 He came down out of that cold at about that hour with the rack over his hip and nothing riding on it, and it was the sixth time in a fortnight, and on five of the six it had been the same.
+
+Forty years of a run teaches a man where it is under his own feet and he does not look down at it. The only noise in the whole of it was his boots and a smaller one the prongs made in the stone. He had not been within about nine foot of her before he was beside her, and he never is. There is a stretch of it at the near end where a person can hear a man coming and still has the time to decide, and in four years she has never once used it.
 
 "**Nothing has come down that run and I have walked it six times with an empty rack behind me, and noticing that earns you nothing, and neither does telling you.**"
 
@@ -23,6 +27,8 @@ She has three questions and she is not going to put one of them to anybody, and 
 ---
 
 He put the rack down against the wall where it goes, which is the first time in four years he has put it down at her end instead of carrying it back up.
+
+It stood up on its own edge against the stone with the four prongs on the ground and nothing on them, and it took up less room standing there than it did on a hip, and a thing that has been carried four years knows the angle it is carried at and does not like being set down. He had it steady with one boot. Then he took his hand off the strap and put the hand into the front of the apron and left it in there, which is where it goes when there is nothing else to do with it.
 
 "**Here is the arrangement and not the second half, and I am giving you the arrangement because you are the person it is about and because giving it to you is the only thing I have got and I am not going to thank you for having to stand here.**"
 
@@ -59,6 +65,8 @@ She looked at him for the first time in about four years and then she looked bac
 The second half of that sentence is not the half that concerns her.
 
 She worked that out standing at that lock with her hands on the bar, and it took the length of time a rack takes to come up and go back, and she worked it out and she did not say it out loud, and it is the first thing she has worked out in four years at that end.
+
+The bar was cold under her hands in the ordinary way. She had her face to the wall and her back to the cold, and the cold is the side he comes down from, so that he has the last nine foot of the run to find her in and not a step more than that. Working a thing out standing is slower than working it out sitting down, and it does not go any faster for being the first thing in four years. She had the length of one rack coming up and going back and then she had it. There is nobody in the building she could say it to who would be able to do one single thing with it.
 
 The half that concerns her is the one he has not said. He has said the arrangement and the arrangement is for a person like him, who goes up and down four times a day and is in every room he passes, and the arrangement says such a person can be put in front of anything. **Her half is not that. Her half is that a person who is at the end of a run where something is said is in the room when it is said, and that is all, and there is nothing about it that anybody would have to be asked for, and there is no form anywhere in this empire in which she could be entered as the one who was standing at the end of that run.**
 

@@ -10,6 +10,8 @@ It is the fourth day of the third week of the third month of the year after the 
 
 ---
 
+The working top runs the whole length of the room and there is more of it than three people need. A forearm going along the boards gets a small sound back, and the sound three people make going along wood is not the sound of three people talking, and anybody who came up four flights to that counter in the middle of a morning would have found a room going on and not a conversation in it.
+
 The man with the fair hand is on the list four days a season and he is on no floor this week, and the list is the only thing in this building that anybody could enter a man on, and it has held the same four days since before she came to this end of it.
 
 That was the morning's difficulty. She had got as far as the middle of the fourth hour with nothing at all wanted of anybody, which is the ordinary condition of that room and has been the whole of the arrangement of it for eleven years, and this is the only room in this matter where that can be said at all.
@@ -36,6 +38,8 @@ Marn went back to being a person nobody wanted anything out of. She did not put 
 
 He came up the last flight at about the fourth hour and stopped on the fourth step from the top, where he stops, and then came the rest of it and set the satchel down on the counter at the far end of those boards.
 
+Four steps is far enough down to be heard from and near enough the top for a man to stop on without having arrived anywhere. He has been stopping there for eleven years while other people went up past his back and did not put a hand on the rail because of him. Both hands stayed on the strap before the bag went down and after it had, so that for a moment he was holding on to a strap with nothing hanging off it.
+
 Eleven years of four times a week. Nobody has ever told him what is in it and he has never asked and it has never once been a courtesy between him and anybody in this building. He stood with his back half turned to the middle of that floor and squared the strap on his shoulder the way he does, and the strap went into the shoulder it goes in, and Marn went on with the boards and did not look at him and did not stop.
 
 There was a piece of paper on the boards at that end. There is a printed strip along the top of every blank that comes out of that case and the same four things are set along that strip, and not one of the four is a name, and about four hundred of those go out of that case in a year in a hand that is not doing anything anybody asked it to do. The box under the far end of those boards holds about four hundred of them in total, bought in a quantity, never filled in by anybody, the lid not off it in six years, and the box is not the case and nobody in this room has ever been in a position to say why that needs saying.
@@ -45,6 +49,8 @@ There was a piece of paper on the boards at that end. There is a printed strip a
 Tamsin Rook was at her end of the boards and she said a thing out loud, to the boards, in the ordinary way, the way a person says a thing out loud in a room at about the middle of a morning when nothing is being asked of anybody.
 
 Tamsin Rook is twenty-four and has stood at that end for two years, and in two years nobody on that floor has ever wanted one single thing out of her.
+
+Her hands had been going along the near edge since before the hour and they went on going along it while the mouth did the rest of the work, and the edge had been square for most of that time. She ran two fingers back along it and then started again a foot further on, and the wood gave her back the same small sound every time, and she never once looked down at it while she was doing it.
 
 "**About four hundred of these go down those stairs in a year, and not one person who is carrying one of them knows what is printed along the top of it. I have stood at this end of these boards for two years and I have not told one of them and I am not going to start. There is nothing on any form in this building that would let me tell them, and there is nothing anywhere else either.**"
 
@@ -67,6 +73,8 @@ Nobody was thanked. Nobody was forgiven. Nobody was sent for, and nothing was re
 ---
 
 When the sixth hour came the case was put away behind the boards, and the four of them went up onto the wall above it on their own nails, and the door was shut behind that.
+
+The three of them did not go quiet at the sixth hour. They went quiet about half past of the fifth, when the blanks ran out and there was nothing left on the boards to be worked on. A person standing at a counter with nothing to work on has to put her hands somewhere. All three of them put them down within about a minute of one another, and none of them said anything about it.
 
 The man with the satchel went down four flights with a thing in it that nobody in this empire has ever told him about. He did not pause anywhere on the way, and nobody went after him and nobody was sent, and he is not going to be found.
 

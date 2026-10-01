@@ -8,6 +8,10 @@ It is the second day of the second week of the fifth month of the year after the
 
 ---
 
+She had a book shut under her arm and she carried it the way a person carries a thing they have been told to carry, which is with the elbow shut against it and one hand flat on the outside. She had gone between the room at the back and the end of the stone and back about forty times a day for about a year and could have done it with her eyes shut, which is not the same as doing it with her eyes shut.
+
+The book had a strap and the strap had gone soft along its length where a hand holds it.
+
 She was nineteen and she had been in that room about a year, and in that year she had said one true thing out loud in it, in a corridor off it, about a month ago, and it was the only true thing and it was not answered, and nobody has answered her since and nobody is going to.
 
 She has not said it out loud a second time and she is not going to, and this chapter is not going to say it either, because a sentence a person has said once in a corridor and has not said since is not a thing that gets said again for the sake of a reader, and she did not say it for a reader.
@@ -21,6 +25,8 @@ She carries an armful between that room and the sill and back about forty times 
 The woman of about fifty-three put her pen down and looked at the book that was shut on the table in front of the girl.
 
 "**I am going to say one thing about that book and then I am going to stop, and it is a fact and not a thing I am putting to you, and you are not going to be asked anything and you are not going to be thanked for anything.**"
+
+The girl did not sit down. She stood square in front of the table with the shut book on it, and a girl who has been in a room a year and has been asked nothing in it knows to within a very small margin how long a conversation she is allowed. Nobody teaches that and nobody has to tell her.
 
 The girl did not open it.
 
@@ -43,6 +49,8 @@ The girl put her hand flat on the shut book.
 ---
 
 She stood at the end of that sill for about as long as it takes a sheet to be signed.
+
+She stood there for the length of that minute with her own weight coming forward onto the front of her feet and then going back, which is what a body does at the edge of a thing it is deciding about, and she made no sound at all while it did it. Behind her a chair moved and she heard it and did not turn round. At the near end of the run the pot went on taking a pen back and handing it out again, and the man standing at it did not know she was there.
 
 The pot was on the stone and the pen was in the pot. She had the book shut under her arm and the armful was on the stone in front of her and the two of them were both in her hands, and there was about a minute in which the whole of what that room has ever been for was sitting on a table in front of her with a pen four inches away from it.
 
@@ -69,5 +77,7 @@ On the shelf under the window with no pane in it there is a question that carrie
 ---
 
 The book went back into the room shut and the armful went back on the sill and the number was said out loud at the end of that floor at the end of the day and nobody thanked her for it.
+
+She said it standing up, because a number is said out loud to a floor and not to a person, in the ordinary voice, and she did not stop what she was doing while she said it. Nobody answered her, and there has never been anybody in there who was going to.
 
 There is a thing that has happened in that building this month that two people know about and that is written down nowhere. Neither of the two has said one word to the other about it. The minute clerk has not noticed that either of them has not.

@@ -12,7 +12,13 @@ It is the second day of the first week of the fifth month of the year after the 
 
 ---
 
+The ground floor of it is one room with a stair going up out of it. The boiler is at the back and takes up the width of a person, and the tin is behind the boiler in a gap a person has to reach into sideways to get a hand into.
+
+The door is on the lane side and it does not meet its frame at the bottom, and that gap under it is the whole of the way anything has ever come into the house from outside it. There is no second door and there is nothing on this one.
+
 He put the coin through the gap in the door at about the first hour, the way he has put it there for about two years, and the door did not open, and his hand went away up the stairs.
+
+The coin came across the boards and stopped where it stopped, which was against the leg of the boiler, and she had got to the point where she did not have to look down to find it. She had swept round that leg for twenty years and the sweep goes round it now without her deciding to make it go round it, and the coin lands in the middle of a place the broom has never been.
 
 He has never given her his name. She has never given him hers. He does not know that she has his name and there is nobody in that house who could tell him and she is not going to.
 
@@ -23,6 +29,8 @@ She has said it once herself, since then, to the wall behind the boiler, out lou
 ---
 
 The woman with the day-book came down the lane at about that hour with the book under her arm and stopped at that door, which she has done for about a year, and neither of them said good evening and neither of them was going to start.
+
+She stood on the step and moved from one foot to the other, and the book went with her, because it was under her arm and not in a hand. She had come down the lane to say one thing and had not said it. The door on the other side of the gap was shut, and nothing on earth was ever going to open it, and the two of them had been doing this for about a year without it once opening.
 
 "**I am going to say one thing on this step and it is not a thing I am putting to you, and after I have said it I am going to go up the lane, and you are not going to thank me for it because I do not want to be thanked and you are not going to be asked anything because nobody is going to ask you anything.**"
 
@@ -45,6 +53,8 @@ The woman at the bottom of the stair did not open the door.
 The stair went up after that and nobody came down it, and the ground floor of that house is not a room anybody in this matter is ever thanked in.
 
 The woman at the bottom of the stair went to the boiler and put her hand behind it and it was where it was, and the lid came up crooked in her hand, and that was the whole of what nine years had come to.
+
+The tin had found the shape of the space behind that boiler and had gone into it, and it does not stand level where it stands. A lid that has not settled onto its rim for a long while comes away from the hand at a slant, and goes back on at a slant, and nobody has ever once set it straight.
 
 She took the coin out of her apron pocket, where it had been since about the first hour, and she held it, and she put it in the tin.
 

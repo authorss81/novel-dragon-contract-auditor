@@ -10,6 +10,8 @@ It is the fourth day of the fourth week of the third month of the year after the
 
 ---
 
+The case had its shutter over it and the boards were down along the top of the two tables with the tops of them bare. The young man at the far end was going through a pile that had no order in it and was never going to get one out of the going through. A pen left in the middle of an open book is a thing two people in a room can look at for a quarter of an hour without either of them mentioning it.
+
 She was still at her end of the boards at about that hour because there is nowhere in that room to go and nothing to shut, and Marn Ottery was still at the other end of them doing the thing she does at the end of a day, which is to stand at a set of boards that are already shut.
 
 "You came in early again," Marn said.
@@ -40,6 +42,8 @@ Nobody answered that, and she had not said it to anybody.
 
 Tamsin Rook stood at the end of those boards with the shutter over the case and worked out the first thing she has worked out in two years that does not have a form under it.
 
+She had come up before the hour the way she comes up before the hour, and she had put the boards down where they go and squared the near edge once, and then she stood with her hands loose in front of her and did nothing at all for a while. That is what everybody does at the end of a counter, and it is not a thing anybody has ever once put to her.
+
 The two are not the same. Being in a room and being in it are two different things, and they come apart, and the place where they come apart is a person standing in a room who has not been asked to be in it and does not know that anything has been said. **A person in a room cannot be shown having agreed to anything and cannot be shown having refused anything and cannot be asked afterwards what it was for, and there is nowhere in this empire to enter anybody as the one who was standing there.**
 
 She said none of it out loud. She is not going to say it out loud, and nobody on that floor is going to thank her for working it out, and nobody is going to ask her where she got it, and it is hers the way a thing under a floor is hers.
@@ -54,6 +58,8 @@ The twenty minutes have had a shape this week and the shape is not a plan.
 
 She has not made a decision about the shape. She came in early the way she comes in early. On three of the mornings this month she was standing at the end of those boards before the second hour with the shutter not yet off the case, and she could not have said why.
 
+Nothing about it is in her hands. They have gone on along the near edge at the rate they went along it yesterday and the morning before, and whatever is new this week is in the twenty minutes before she gets to the boards and not in anything that happens once she is standing at them. There is no way to get at that from outside a person, and she has not tried.
+
 The not being able to say why is new. For two years the earliness was a thing with no content at all, and this week it has something in it, and she has not looked at what.
 
 She is not an organiser and nobody has made her one. She is not a clerk with a title. She is not a person somebody has finally asked something, and there is nobody on that floor who wants one single thing out of her, and that has not changed this week and is not going to.
@@ -61,6 +67,8 @@ She is not an organiser and nobody has made her one. She is not a clerk with a t
 Whether she takes what a colleague thinks about a thing like this is a thing that has not been decided. It was not decided last month. It is not being decided this month, and she is not going to decide it, and no state record in this project is going to record that it was decided, and the pull to decide it is the whole of what the week feels like and she is not going to let it.
 
 ---
+
+Going down four flights after that counter shuts is the ordinary part of it and there is nothing in it she has not done two hundred times. The going down is the same going down it has always been and is going to go on being, and nobody can tell it apart from the coming up, and nobody in there could tell you which of the two she had done that week.
 
 She went down four flights at about the sixth hour with nothing in her hands, and she did not stop on any of the landings, and nobody sent her and nobody was thanked for the going.
 

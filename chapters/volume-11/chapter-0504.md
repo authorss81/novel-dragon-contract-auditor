@@ -12,7 +12,13 @@ It is the second day of the second week of the fourth month of the year after th
 
 ---
 
+A bench that is longer than the room it stands in is a bench a person works at from one end of, and eleven years of that has taught everybody in that shed which end it is. The board with the paper nailed to it is on the wall by the door, and the four corners of the paper stand a little off the board the way old paper does.
+
+The far end of the bench was given over to two of them, with a strip of wood between them about as wide as a hand. At the near end of it sat a man of about fifty-five with his hands on the chain. Between the two of them was the foreman, who had been in that shed for eleven years and who was the only pair of eyes in it.
+
 She had a sentence that was not half finished. It had been whole since a week in a spring that is gone. It needed no frame and no light and no particular hour, and she had been carrying it to that door out of a habit that stopped having anything to do with it a long time ago, and she had not gone to the doorway once this month and she was not going to.
+
+He worked with his hands and he had been working with them at the near end of the wood for eleven years, and anybody at the far end of it can read all of that without hearing a word of it. The chain goes along the stone and comes back, and goes along it and comes back, and his thumb stays where the thumb stays. Between the fourth hour and the seventh the number of times that chain comes back does not change, whatever else in the room does.
 
 The man at the front bench said his flat thing at about half past that hour, and he said it to the floor, and it took him about nine words.
 
@@ -29,6 +35,8 @@ He is about fifty-five, and a working sentence out of a paragraph is a thing he 
 "I could ask you what the four minutes are for," she said. "I am not going to and there is nowhere in this lane standing at which asking anybody anything is done."
 
 ---
+
+A door in a shed that opens out of a lane does not shut the lane out. It takes the edge off it and leaves the rest of it, and after about two years of standing in that doorway on a working morning she knew to within a foot how much of the lane came in and did not have to look down it to know the far end of it was there. She had the shed at her back with nine pairs of hands in it and the lane in front of her with nothing in it, and she was the only person in either place standing in both.
 
 She went to the door. She did not go through it. She stood in it with the shed behind her and the lane in front of her and she started the sentence the way she has started it about two years now, and it got as far as it has got every time.
 
@@ -54,11 +62,15 @@ Nobody filled in the form.
 
 That is the whole of what the week did about it. The form is on the board by the door and it was not filled in and it is not going to be, and the person who has been inside the box for eleven years is not going to fill it in and nobody else in that shed has ever shown any sign of knowing that there is a thing in the world to be filled in.
 
+Not one word had been said to either of them in there for longer than anybody in the room could remember, and there is a particular way two people sit at the end of a long bench without ever touching it. Each of them keeps to their own piece of the wood, puts a hand out to the front of it and takes the hand back again, all day. Not one hand in that shed goes past the middle of its own piece.
+
 The two at the back did not move through any of that hour. The girl did not say one word, and nobody in that shed is going to speak to her, and nobody is going to thank her, and nobody is going to send for her, and nobody has ever told her that any of that is unusual. About a year ago Halla Wray stood in that bay and said out loud, once, what it would mean for that girl to be handed a second of anything and not to want it, and she is not going to say it a second time, and it is not going to be printed out in this lane, and the girl is still not asked about any part of it.
 
 The boy with the book read what he reads.
 
 ---
+
+A working shed does not empty the way an office empties. The work stops first, and then everybody who has been working in it is on its feet and has not gone, and the stretch of the day between the work stopping and the room emptying is the part in which a person can see, all at once, how many people are in a place she has walked through every morning for eleven years.
 
 About the seventh hour the lamp came on by itself, and the man at the front bench went out of that bay in the ordinary way, and nobody said one word to anybody about the four of them and nobody said one word to anybody about the sentence in the doorway and neither of them mentioned it again that night or that week or after.
 

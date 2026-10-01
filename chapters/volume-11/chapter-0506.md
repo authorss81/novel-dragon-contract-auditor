@@ -14,9 +14,15 @@ It is the fourth day of the fourth week of the fourth month of the year after th
 
 ---
 
+The sill is one piece of stone the whole length of that wall. There is room at the working end of it for a pot to stand on and there is not room at the front edge of it for a sheet to lie flat, so that a sheet put down on the stone hangs over. It is colder than the room behind it, and it has been for the whole four years it has had nothing at all in the frame above it, and the weather arrives on the length of it at the height of a person standing there and arrives on a shelf standing against the wall behind it as well.
+
+The pot has not been looked at properly by anybody for as long as it has been standing on the stone, and there is no view of it from the doorway that is any better than the view of it from the far end of the run.
+
 The woman of about fifty-three came to the end of that sill at about the third hour and put the book down on the sill, on the stone, not on the pot side.
 
 She has kept the minutes of that room for nineteen years. She advises nobody in it. She has not put a thing to that room in about four years and she is not going to start this month, and she said so before she spoke, and she wanted it entered that she said so, and there is nowhere standing in that room at which entering anything is done.
+
+He was where he is, which is with his forearm lying along the cold length of the sill and the pot at the end of the reach of it, and he had been in that position since the second hour. Neither of them had said anything for the whole of the walk out of the room at the back and back again.
 
 "**I am going to say one flat thing about your hands and then I am going to go back and sit down, and I am not asking you anything and you are not going to answer me and I am not going to ask you twice.**"
 
@@ -54,6 +60,8 @@ Nobody has ever called it a decision. Nobody has ever called it a statement. It 
 
 ---
 
+A sheet goes out of the room the moment the mark is at the foot of it. There is nowhere in the building for one to be looked at again by anybody who is not the person whose mark is on it, and nobody in it has ever wanted one looked at again, and that is the whole of the protection a mark in the corner of a page gives anybody.
+
 About nine of the nine hundred a year are wrong and he signs all of them, and he could not put a mark beside one of them and call it a disagreement, because there is nowhere in this empire that a man who cannot read a paragraph is allowed to put a mark beside a sum. If anybody in that building could read one of them and could see the line above the one he has signed, and if that anybody then went and looked at the same nine and compared them, that anybody would know.
 
 He has wanted about four minutes of a morning like that more than once in nineteen years. He would turn about half of them down on the spot and let the rest go by, and there has not been one morning. And there is nobody to ask, and nobody to be asked, and nobody who is in a position to be told what a number is, and a person who cannot read a paragraph cannot be given a paragraph to read and cannot be given a sum to disagree with and cannot be put behind a line of anybody's without becoming a party to it.
@@ -63,6 +71,8 @@ He is owed nothing and he has asked for nothing in nineteen years.
 ---
 
 The woman of about nineteen came out at about the third hour under an armful and stopped where she always stops, at the end of that sill, and stood there for as long as she was going to stand there.
+
+She set the armful down on the stone where the sill ends and took her hand off it, and then she stood, and then she stood on the other foot and then on the first one again, and none of that took any longer than a person counting quietly to herself. Nineteen years of a woman keeping minutes in a room at the back has taught a girl of about nineteen what a minute is worth when it is spent standing at the end of a sill with nothing to do.
 
 She has been at that end of that room for about a year and she keeps the minutes under the woman of about fifty-three, and she has not said one word out loud in that room in that time, and she looked at the pot and at the pen on the stone and at the pot again and neither of them was looking at her.
 

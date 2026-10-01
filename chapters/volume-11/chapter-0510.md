@@ -10,7 +10,11 @@ It is the fourth day of the fourth week of the fifth month of the year after the
 
 ---
 
+The work up there had been open for about ten weeks without anything at all being asked of anybody in it, and ten weeks is not long enough for a room to change and is exactly long enough for three women to stop noticing what it looks like. A room with nothing in it that anybody wants is a room a person can stand in for four hours without once being asked what she is doing there.
+
 Tamsin Rook was at her end of the boards twenty minutes before the hour, which is what she has done every working morning for two years, and this week the twenty minutes have got a shape in them and she put it into a sentence at about the third hour and the sentence was shaped like a question and it was not one.
+
+She had not brought anything up with her. There was nothing in her coat and nothing on the stair and nothing in her hand at any point in those twenty minutes, and a person who has come up early for two years with nothing in her hands is either the most disciplined person in the building or has not worked out yet what she is doing. There is no way of telling which of the two from the outside.
 
 "**So which of the two of us is the one that is in the room, when the other one is.**"
 
@@ -30,6 +34,8 @@ Four times that month. Four times a week for eleven years, and nobody in this bu
 
 He stood with his shoulder to the room and his hands on the strap and looked at the far end of those boards for about as long as it takes a sheet to be squared, and then he did not look at anything for the rest of the hour.
 
+A woman standing at a counter can see a bag go down where she is without turning her head at all. Not one of the three of them turned hers, and the counter carried on doing what it was doing. Three women and a man with a bag are the whole of what there is up there at the fourth hour of an ordinary morning.
+
 ---
 
 She said it at about half past the hour, to the boards, in the ordinary way.
@@ -37,6 +43,8 @@ She said it at about half past the hour, to the boards, in the ordinary way.
 "**Nobody in this building has ever been asked what they are for. There is no form anywhere in this empire in which a person can be entered as the one who stood at this counter and sold a thing, and so nothing that has ever been said at this counter can be laid against anybody who has ever stood at it, and that is the whole of the arrangement. It is not a safety anybody in this empire built. It is what is left over.**"
 
 She said it to the boards and she went on with them, and it did not sound like a thing that had cost her anything.
+
+At that half hour the work is at its thickest, because the blanks have been going across since the second hour and there are about as many of them in front of her as there are going to be in the day. A woman saying a true thing in the middle of that is saying it with her hands full. Not one of the others stopped what she was doing, which is not a discourtesy and has not been one up there for eleven years.
 
 The man with the satchel did not look up. He had been in that room for the whole of it, and at the far end of the two joined tables the woman of about twenty-nine had her head down over her book and was not waiting on anybody, and she was never waiting on anybody.
 
@@ -59,6 +67,8 @@ There is one other thing he has worked out this month and has not said to anybod
 The sixth hour came and the case went in behind the boards, and the four of them went up onto the wall above it, one to a nail each, and the room was shut.
 
 Nobody was thanked. Nobody was forgiven. Nobody was sent for, and nothing was resolved. The fourth item on that board is still the one that none of the three of them can account for, and the drawer underneath it stays shut, and the box under the far end of those boards has not been opened and has not been moved, and the strip printed along the top of every one of those blanks is the same strip it was ten weeks ago and not one line has been cut into anything in this building in ten weeks.
+
+The three of them stood where they were for a moment after the door was shut before any of them went, which is not a practice and has never been described to anybody as one. It is four hours there is and eight hours there is not, and three women have to shut and lock and leave it, and there is nothing in that arrangement which any of them would want written down.
 
 He went down four flights with a thing in the satchel and stopped on the fourth step going down and did not come back up.
 
