@@ -10,6 +10,8 @@ It is the fourth day of the third week of the tenth month of the year after the 
 
 He came down out of that cold at about that hour with the rack riding on his hip and nothing on the rack, and it was the eleventh empty crossing of that month, and every one of the ten before it had been the same.
 
+Forty years of the same dust has gone into the felt of the apron until it is a shade darker in the middle than at the edges, and the four prongs on the rack have worn four short arcs into the stone, and there is one window high up over the run. About the fourth hour the light off it comes down at a slant and lies along the flags, pale, in a bar reaching about halfway, and past the middle of it there is no difference between one hour of the day and the next.
+
 "**Forty years is how long I have been up and down that stone, four times a day, and I told you in about four years that I settled it in my own head a long while back that I was not going to make a rule about an empty rack, and I said it out loud at the time so that somebody would know I had settled it. I have not changed that this month. There is no way in this empire for a man who goes up and down a stone four times a day to be entered as the one who declined to carry something, and I am not stopping coming down it, and I have not asked you for anything and I am not going to.**"
 
 That was not said to her. He said it to the flags, the way he has said everything to that end of that building for about four years, and she was at the lock and she is not going to say whether she heard it, and he is not going to say whether he said it in front of her.
@@ -19,6 +21,8 @@ That was not said to her. He said it to the flags, the way he has said everythin
 She had moved.
 
 The bar is at the near end of the flags and it goes back into its housing at the hour it goes back in, and for four years she has stood on the passage side of it with her hands on it, and a man coming down that run could see her from about halfway.
+
+Cold gets through a hand in about twenty minutes, and after that it is a thing being held rather than cold at all, and a person who has held the same thing four thousand times cannot tell where the cold stopped and the holding began. Step off the flags onto a floor and the whole of it comes back in one movement of a person, and this month she had not stepped off them, and it had been cold under her hand for the whole of the morning.
 
 On the fourth day of the fourth week of the eighth month she put her hands in the sleeves of her coat and did not touch it, and this was the fourth week she had been standing on the other side of it, with her back to the cold and her face to the wall, where a man coming down those flags cannot see her at all until he is in the last nine foot of the run with her.
 
@@ -36,6 +40,8 @@ He had noticed. He noticed it about a fortnight ago and had said one flat thing 
 
 She had got a thing. She had got it in about as long as it takes that bar to go into its housing and come out again, standing with her back to that cold. It was not a relief and it was not an answer, and it was not going into a book or a column or a heading over anything.
 
+Standing still is not the same as waiting and the difference shows in a body. Her shoulders went down. Her breath went short and came back where it had been without being asked. And her hands, which went into her sleeves by about the half hour, stayed in them for a length of time that had nothing to do with her and everything to do with the taking of them out being a decision, and she had got as far as being able to name all three of them and not being able to stop one of them.
+
 There is nowhere in this empire for it to go. She was not going to say it out loud and nobody in that building was going to be thanked for it.
 
 Being the cheapest person in a building was the one thing she had that nobody could take. It had taken four years to learn that the cheapest person in a building is not a person who is safe, it is a person that a thing can be put in front of for nothing, and it had taken her a month at that end of that run to learn the second half of it, which is that the cheapest second hearer there is does not even have to be in the room in a way that anybody could see her in.
@@ -45,6 +51,8 @@ She had moved round the back of a lock on purpose. There is no form anywhere in 
 She had made a decision at the end of a run in the tenth month of that year and there is nowhere standing at which a decision of a person at a lock could be put, and nobody is going to be told she made one and she is not going to be asked about it and she is not going to be thanked.
 
 ---
+
+Going up four hundred yards of stone and coming down it are two different pieces of work done by one body, and forty years of it has left him with no need to work out which of the two he is in the middle of. The last nine foot went as they always go. Beyond it was stone, and four hundred yards of it, and a box at the near end with a catch on it, and the catch has been where it is on every working morning of four years.
 
 He took the flags back up again with the rack still empty on his hip. Eleven times this month. Tomorrow makes twelve, and the twelfth will be exactly like the eleventh, and he has told her once already that he settled that a long while ago and has no intention of taking it up again.
 

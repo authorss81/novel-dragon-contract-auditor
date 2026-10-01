@@ -12,9 +12,13 @@ It is the fourth day of the fourth week of the eighth month of the year after th
 
 Forty years is how long he has been going up and down that stone, four times a day, and he came out of the cold at about that hour with the rack up on his hip and nothing on the rack. It has been the tenth empty crossing this month and nine of the ten before it were the same.
 
+He comes down slower than he goes up, and he has gone up and down the same stone four times a day for forty years without either rate ever being a decision. There is one window high up over the length of the stone and at about the fourth hour what comes off it comes down at a slant and lies along the flags, pale, in a bar the length of half the run, and past the middle of it there is no difference between the fourth hour and the other three. He comes out of the top of that light every morning and comes down into the bottom of it, and a person standing in it is standing in the only stretch of four hundred yards with anything on it.
+
 He settled in his own head, a long time ago, that he was not going to make a rule out of an empty rack, and he said so out loud at the time so that somebody would know it had been settled by him and not overlooked by anybody.
 
 She said it to the bar, at about the fourth hour, to nobody in particular, the way a thing gets said out loud in a passage where nothing is wanted of anybody.
+
+The stone carries a voice the same way it carries a foot. A passage four hundred yards long with one window in it high up is not a quiet place at the fourth hour and it is not a loud one either, and a woman who has said one true thing out loud at the near end of it this month has worked out that the stone takes a sentence and never gives it back, which is a thing about the building and not about anybody standing in it.
 
 "**That run, ten crossings this month and an empty rack on every one of them, and four years of my standing at this end of it. I have worked out this month what I am. I am not the cheapest person in this building. I am the cheapest thing in it. A person is a thing somebody wants. I am not wanted and I cannot be served and there is nothing anywhere that could be served on me, and that is the cheapest there is.**"
 
@@ -36,6 +40,8 @@ He was already in that passage and had been in it since the flags came out, and 
 
 The flags did what they do. Nothing has come down that run in a month or in the month before it, and a man going down a stone four times a day with an empty rack behind him is not a rule and is not a statement and is not on anything, and neither is a woman standing at the near end of one.
 
+She had swept the length of the stone four thousand times and could get a length down in well under the time a man needs to rule a line, and there was an edge on the swept part of it, because a person who sweeps round a thing which never moves eventually stops sweeping. The housing wants oil four times in a year and has wanted it about three times over the four years she has stood there.
+
 He worked out the rest of it standing, which took him about as long as a rack takes to come up and go back, and he said it to the flags and not to her.
 
 "**Four years you have had the bar in both hands every time you have said anything at that end of this run, and you have not said anything to me, and I have never asked you for it, and this is the first morning you have not had your hands on the bar. I noticed. I am not going to be thanked for noticing and I am not going to say what I think it means and neither are you.**"
@@ -43,6 +49,8 @@ He worked out the rest of it standing, which took him about as long as a rack ta
 ---
 
 Her hands were in the sleeves of her coat and had been since about the half hour, and that was the whole of what the morning did to her, and it was not a decision she had made, and there is no column anywhere in this empire that a woman at a lock is entered in for having put her hands in her sleeves on a morning in the eighth month.
+
+A hand in a sleeve is not a hand doing nothing. It is warm and it is bent twice and the fingers are closed on nothing, and a person who has done it once finds the second time takes no deciding at all. It costs the other thing, and what it costs is four years of a hand on a bar in the cold, and she had known the price of it since about the half hour and had not weighed it and was not going to.
 
 What had changed was the direction of the thing she had been carrying. For four years she had held the bar and thought of herself as the person nobody could reach. This month she had stood there and worked out that being out of reach is not the same as being safe and has never been the same as being safe, and that it is exactly the property that lets anything at all be done to a person for nothing, and that there is a man in this building who has said that out loud to her face in about four years and that she has been arguing with it since the spring.
 

@@ -12,6 +12,8 @@ It is the fourth day of the fourth week of the tenth month of the year after the
 
 She did not knock, and she had not knocked in about a month, and she said one thing on the other side of that door and she said it to the door and not to him.
 
+Four flights of stone run up the side of the house and there is a rail on the open side of all of them, and anybody walking up is heard at every floor and heard twice over, once going and once coming. She had come up them about once a month for three months and had not stopped on any of the landings, and about three hours earlier he had worked out, standing in the middle of a floor, that the stair had not stopped on his floor since a month that is gone.
+
 "**I have got the thing about that window settled and I am not going to tell you how I got it settled and you are not going to be asked, and I am telling you that it is settled so that you can put it down, and you are not carrying anything, and that is the whole of what I came up for.**"
 
 He did not open the door.
@@ -26,6 +28,8 @@ He stood with his hand on the inside of the door and left it there for about as 
 
 She went down. He did not go down after her, and he did not go out of that door and along the street, and he bought nothing anywhere in this city, and he went to the top of no stair and to the end of no lane.
 
+A door is shut by a hand and a hand does it whether anybody has decided anything or not, and he had been doing it that way for about eleven years. It cost the same every time and it never once got cheaper. The door stayed shut and the handle never went down, and not one column in this empire will ever take either of those for a man in a room at the top of a stair.
+
 A woman who finishes a thing about a window on her own, in a room on a floor below his, in a house he has never been below the second stair of, and then walks up four flights to say it out loud at a shut door, has done a thing there is no column in this empire for. She is not owed anything for it and nobody is going to thank her and she did not do it to be thanked and she is not going to be asked where the thing went.
 
 He cannot be shown having helped her and he cannot be shown having refused her and there is no form in this empire that takes a man for having been on the other side of a door while a woman in his own house said a true thing out loud, and she cannot be shown to have said it to him, and she is not going to be told which of the two of them is in the room.
@@ -33,6 +37,8 @@ He cannot be shown having helped her and he cannot be shown having refused her a
 ---
 
 At about the sixth hour he put his hand flat on the four feet of bare wall beside that window, which has nothing on any part of it and has had nothing on any part of it for about two years.
+
+Plaster at the height of a man's hand is colder than the plaster at the height of his shoulder and colder than the floor, because the heat in a room where nothing makes any stays low and goes out through the bottom of it first. Four feet of it had been bare for two years and it was exactly as cold on an ordinary morning of the second of them as it had been the first one, and no wall in this empire takes a mark from a hand or gives anything back to anybody who has put one on it.
 
 The plaster was cold. He had known that it would be.
 
@@ -45,6 +51,8 @@ He took his hand off the wall and the wall had nothing on it and never has.
 ---
 
 There is a bay at the end of a lane off the Slade about four hundred yards from that door, and a man who is about fifty-five has been at the bench at the front of it for eleven years, and there is a girl of seventeen at the back of it who has not been asked a thing in about a year.
+
+It is nine foot by eleven in there with a bench in it longer than the room, and about ninety foot of open floor lies between the bench and the wall it stands against. Nothing on the bracket there is lit until the seventh hour, and in the meantime a person standing at the far end of it is standing in a part of the room nothing has ever lit, and the two of seventeen at that end are about a hand's width of wood apart and neither of them has ever been asked a thing.
 
 That man has said four things in that bay in about a year. Nobody has answered one of them and he has never wanted an answer, and there has been somebody else standing in that bay for every one of them and about a year of it has gone somewhere that does not have a door on it.
 

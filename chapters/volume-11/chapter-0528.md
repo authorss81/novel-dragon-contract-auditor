@@ -8,6 +8,8 @@ She went to that doorway six times in a spring that is gone and it never got pas
 
 It is the second day of the second week of the tenth month of the year after the year after the year after the year after the year after the year after the year after next, and it is about the sixth hour.
 
+Nine foot by eleven is not much floor for nine people and one bench longer than the room, and a bench of that length is long enough for the people at the two ends of it to go a whole working morning without either of them seeing what the other has done.
+
 ---
 
 Behind her, at the far end of that bench, were the two of seventeen. They are on the terms they have been on all week and neither of those terms can be printed out, and neither of the two of them is going to be spoken to, thanked or sent for this month, and nobody in that shed has any standing at which any of those three things could be done to either of them.
@@ -20,6 +22,8 @@ She was at the back of that bench herself now, and had been for a month, and the
 
 The man at the front bench had the chain along the stone and his thumb on it and he was at the third link and had been at it since about the fourth hour, and the lamp was not due until about the seventh and he was going to be finished before it came on or he was going to be in the same condition as he was in the morning.
 
+He had worked by feel since long before there was any light in the place to work by, and eleven years of it is not the same as being able to do it without looking. Looking is a habit, and a habit is the whole of what a working man has to hold on to, and a man who has held one for eleven years in the dark does not put it down because a woman stands four feet off his shoulder.
+
 "That end of that bench has been the end of it for eleven years," he said, to the stone. "I have not asked you why you moved and I am not going to, and I would not have asked you in any of the eleven years, and I am not going to be a person you have to explain a bench to."
 
 "I am not explaining a bench to you."
@@ -31,6 +35,8 @@ The man at the front bench had the chain along the stone and his thumb on it and
 She put it down at about the sixth hour.
 
 It was a bundle of that shed's own ordinary work, tied with a length of cord, and it came off the middle of that bench where the day's work had been stacked, and she carried it to the far end and set it on the wood about four feet from the two of seventeen and she said nothing at all to either of them and she kept her eyes off both of them.
+
+Cord tied round a bundle takes a person's whole attention to get at once, and a bundle tied by somebody who has done it before can be lifted in one hand without looking. She carried it the length of the floor in one hand and set it down with the other and squared the bottom of it, and the sound it made on the wood was the sound a bundle of work makes at the end of a bench.
 
 That is the whole of what happened at that end of that bay and it took about as long as a sheet takes to be squared, and there was nobody in that shed who asked anybody anything, and nobody in that shed is going to be thanked for it, and the two of seventeen were not spoken to and the girl was not given the chance to say no about anything.
 
@@ -61,6 +67,8 @@ The one with the book stopped reading for about as long as it takes a sheet to b
 ---
 
 About the seventh hour the bracket came on by itself and the light came into that bay from the wrong end for the first time in about eleven years, because there was a woman standing at the far end of a bench that runs the length of the back wall in a shed that is about nine foot by eleven, and the light went past her and reached him.
+
+A bracket that has been off for a whole working day takes its time coming right, and until it has, a bay belongs to neither end of itself.
 
 The chalk is still on that end wall where it has always been, at the height of that chain, and it is not a thing anybody in that shed has ever been shown anything by, and nobody is going to be shown anything by it before the end of the day.
 

@@ -12,6 +12,8 @@ It is the fourth day of the fourth week of the ninth month of the year after the
 
 There was a coin on the boards that morning and it had come through the gap where that door does not quite meet its frame, and it has come through that gap every week for about two years, and the door stayed as it was and the hand that pushed it went back up the stair.
 
+The gap is at the bottom of the door on the lane side and it is no thicker than a finger, and the boards under it have been swept for twenty years and the sweep does not lift a coin. A coin under a door arrives on a floor and then goes where a person decides it goes, and it took her about a week to start putting it somewhere other than where it landed.
+
 He has never given her his name and she has never given him hers. She has his name in her own mouth and has had it there once, to the plaster behind that boiler, and she is not going to say it again, because the second time a name goes out of a mouth in a passage it is the first time it has become a thing a person does.
 
 Nobody in that house knows that she has it and nobody in that house is going to be told, and he is at the top of that stair at this hour and does not know any of it.
@@ -20,11 +22,15 @@ Nobody in that house knows that she has it and nobody in that house is going to 
 
 She put the coin into the pocket of her apron and not into the tin, and it has been the pocket rather than the tin since about the first hour, and she did that on purpose, and it is the second week she has done it with a coin in her hand.
 
+Nine years in one gap behind a boiler has made the tin lean, and a thing which leans does not stand level, and a floor swept every working morning for twenty years has a swept part and an unswept part with an edge between them where the tin is not. The lid has not sat down properly for a long while. It comes up crooked in a hand and goes down crooked, and nobody in the house has ever looked at what is under it.
+
 Then she went to the board by the door and took down the key to the top room and held it with her thumb over the cut on the back of it, which is the only record of any of those three rooms there has ever been, and which has been cut in by whichever of her hands had the file on the night.
 
 It is going. She had known it was going for about two years and she had not let herself look at it since, and she looked at it now for about as long as it takes a sheet to be squared.
 
 The cut is shallower at the top of it than at the bottom, and the bottom of it is the part a key wears against, and there is no way in this empire to cut a second number into the same place without the two of them becoming one mark, and one mark with two numbers on it is a thing that has to be looked at by somebody. There is nowhere to enter a fresh one. There is no paper, no column, no heading, and there is no form anywhere in this empire for a second mark on the back of a key, and she is not going to rule one.
+
+A key is turned and not pushed, and it does nearly everything it does at the shoulder of it, which is why a cut in the back of one goes thin at the top before it goes thin at the bottom. About two years of twice a week has taken most of what is left up there, and the man turning the lock does not know he is doing it, and there is nobody in the world who could be shown a figure for how much longer there is.
 
 ---
 
@@ -43,6 +49,8 @@ The boiler ticked. The tin behind it did what it does. The door was not quite sh
 ---
 
 She did not open the door and she did not go up the stair.
+
+The stair goes up out of the ground floor and there are four rooms on it, and the boiler is at the back, and the board by the door carries the keys to three of them. She has stood at the foot of it for about twenty years and has not gone past the second stair once, and a person who has stood at a foot for twenty years knows exactly how many stairs there are without ever having counted them.
 
 "You came down here," the woman on the step said, "and I have not come down here to be told anything in all the time I have been coming down it, and I have never once asked you what you were going to do when you got to it."
 

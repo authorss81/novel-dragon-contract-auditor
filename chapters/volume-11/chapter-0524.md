@@ -18,9 +18,13 @@ Nobody in this city has been told that he is carrying two things. Nobody has eve
 
 He took it off the nail at about the second hour and put it on.
 
+Two years of a coat on one nail have pressed the shoulder of the wool out around the head of it and left the fold below hollow, and the wool where it goes over the top has taken the colour of the plaster behind, which is the colour of everything else in there. Taking it down is a matter of lifting it off with one hand and not of undoing anything, and there is no fastener on it and there has not been one for two years.
+
 ---
 
 He did it the way a man does a thing he has not done in two years, which is badly. The collar went in the wrong way round and he turned the whole of it and started again, and there was nothing in the room to see him do it.
+
+Nothing in the room makes heat and nothing in it is going to. He had taken the coat off its nail and put it on, so that for the length of a morning there was nothing on any part of the plaster at all, and about four feet of bare wall in a cold room is a great deal of nothing to be holding a coat against.
 
 With the coat on, the pocket is against his chest. He stood in the middle of that floor and worked out, for the first time in about two years, that he had been carrying both of those things at arm's length from himself the whole time and had not known what the difference was until about the second hour of a morning in the ninth month.
 
@@ -40,6 +44,8 @@ She is not a person anybody in this matter can put a thing to. That has been the
 
 The stair did not sound. It had not sounded since the last time and it did not sound this morning, and he stood with his hand on the latch for about as long as a sheet takes to be squared and then he took his hand off it.
 
+Those four flights are stone and they climb the side of the house with the rail on the open side, and anybody going up at the ordinary rate is heard at every floor and heard twice over, once going and once coming. Over eleven years he had got so exact about the whole of it that he knew how long after a door opened anywhere below him the house would give him away for. He stood in the middle of the floor with his ear doing what it had been built to do, and finding out nothing was on it took him most of an hour.
+
 ---
 
 He did not go down those stairs and out into the street and buy something anywhere in this city, and he did not go to the top of any stair in it and he did not go to the end of any lane.
@@ -57,6 +63,8 @@ It was not a resolution and it did not feel like one and it was not going to be 
 ---
 
 He took the coat off at about the fourth hour and hung it back on the nail. That nail was driven in skew about two years ago at roughly the height of his own hand, and it is the same nail and the same angle.
+
+Putting a coat back on a skew nail takes one hand and about a second, and a man who has done it a hundred times does it without looking at it, and there is a patch round the head of the nail where the plaster has been rubbed pale by the wool, and there is no other mark on the wall anywhere and there has not been one since before the coat went up on it.
 
 The two things in the inside pocket of it were where they have been since a wet morning about two years ago, one on each side of a seam, and neither of them has been out of that pocket in this building or in any other, and nobody has looked in there and nobody ever is going to and nobody is going to be told what is at the foot of that struck line or whose hand struck it.
 

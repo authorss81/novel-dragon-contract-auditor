@@ -14,11 +14,17 @@ It is the second day of the first week of the ninth month of the year after the 
 
 She came in early the way she comes in early, and she went to her end of the boards, and she squared an edge that did not need squaring, and about as long as a sheet takes to be squared after that she squared it again.
 
+She came up four flights early enough to have the shutter off the case and the boards standing up before anybody else was in the room, and the twenty minutes were made of about the whole of the stair and the whole of the walk along it. She had done that walk a great many times without once catching hold of any part of the journey, and there was nothing in it for anybody to catch hold of. The top of the boards was bare, and it is how the place has looked every working morning for eleven years.
+
 Marn Ottery watched her do it and said nothing for about as long as the first one had taken.
 
 The clerk at the far end of the two joined tables had her face down over the book, which is where her face is on every working morning of the four years, and the pen lay in the middle of the open page, and it has lain in that same place on that page every working morning since long before the woman beside her came to that floor.
 
+The two joined tables are two tables with their legs put in and the seam between them run straight across the top of them, and the book sits on the far side of the seam with a hand's width of wood on the other side of it. Her half of the two tables has been hers for four years and there is nothing on the near half of them at all, and the wood there is the colour of the wood under the book, because nothing has ever been set down on one of them hard enough to leave a mark on it.
+
 Nobody on that floor waited on anybody. That is the arrangement and it has been the arrangement for eleven years and it is the only reason that floor still works.
+
+Such a floor is quiet until somebody moves, and then it is not quiet for about four seconds, and then it is quiet again. The three women up there had been in it long enough to know what every ordinary sound in it was for, and not one of them would have been able to tell a stranger what any of them had to do with the work.
 
 ---
 
@@ -50,6 +56,8 @@ The clerk of about twenty-nine wrote the day's line.
 
 She wrote it the way she has written it every working morning for four years: the date, then the hour, then how many sheets came out of the case. It takes about a minute, and afterwards the pen goes back into the middle of the open page and lies across it until the end of the hour.
 
+The line is one line. It is the same width on every morning of the four years and it goes no further along the page than it went in the first week of them, and there is nothing under it and nothing above it, and nothing ruled anywhere in the room about what else would go there. She had four years of a page in front of her and had never once had to look at anything but the part of it she wrote on, and neither has anybody else.
+
 A book is a record. A record is the one thing in that room that other people can be shown. Everything else on that floor can be looked at and gone and none of it can be produced, and eleven years of nobody wanting anything out of anybody is worth exactly nothing to anybody, and that is the arrangement.
 
 She had been at the far end of two joined tables for four years writing down, every working morning, that she had been at the far end of two joined tables at that hour. She had not once thought of it as a thing she was doing about herself, because it was never a thing she was doing about anything. It was a line in a book and the book was the work.
@@ -62,6 +70,8 @@ She thought about it for about as long as a sheet takes to be signed.
 
 Then she put down what she was doing and picked the pen up out of the middle of the open page, and she put it down on the wood beside the book instead, squared along the edge of the table, and she squared that too, and it was straight, and she left it there.
 
+Putting a pen down is not a small thing to do with a hand. It is a thing about where the arm stops and it takes a moment longer than picking one up, and she had done the other half of it every working morning for four years and had never once done this half. Her hand stayed on it about as long as a clerk takes to rule a line, and then came off it and went back to the wood on the other side of the book.
+
 A pen lying in the middle of an open page is a pen that is not going to be used. She has known that for four years without ever having had to look at one.
 
 ---
@@ -73,6 +83,8 @@ Nobody said one word to her about it that day. She came in the next working morn
 ---
 
 At the sixth hour that floor was shut. The case went in behind the boards and four things went up onto the wall above it, one to a nail each, and the fourth of those four has been in the same hand for about four years and is the one none of the three of them at those boards can give an account of.
+
+A case standing open since the second hour has its shutter back over it before it goes in, and the shutter goes on in front of it and not down upon it. It takes about the length of a sheet to square and it has been done at the sixth hour of every working morning of eleven years.
 
 Underneath that wall is a drawer, shut since before the woman at the near end came to that floor, with four things in it, and two of the four have never once been taken out and looked at by anybody. The box under the far end of those boards is not the case and has not been opened and has not shifted an inch.
 

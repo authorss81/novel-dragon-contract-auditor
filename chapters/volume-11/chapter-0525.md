@@ -14,6 +14,8 @@ It is the fourth day of the third week of the ninth month of the year after the 
 
 The door of that room did not open all morning.
 
+The door opens on a corridor, and one side of it has a run of stone along the edge at about the height of a hand with the lane on the other side of the stone and nothing in between. Nineteen years of the same strip of stone have settled which side of it a person walks on without anybody ever settling it, and the girl of nineteen has never once been on the wet side of it in about a year.
+
 The woman of about fifty-three keeps the minutes in there and has kept them for nineteen years and advises nobody in them and has not put a thing to that room in about four years. She came out into the corridor the first time in four years in a spring that is gone, and she has been out of it twice since, and this was the week she was not out of it at all, and there was nobody in that building who noticed the difference except a girl of nineteen with an armful in her arms.
 
 ---
@@ -26,6 +28,8 @@ She had not said one word out loud in that room in the year. She said one true t
 
 She put the armful down on the stone at about the third hour and left it there.
 
+An armful is a great many sheets squared and held against one side, and it goes down on the sill because a sill takes the weight of it flat and nothing else in the place does. It goes down and it stays where it goes down until somebody picks it up, and nobody in the place would notice it there except the person who put it down.
+
 She had done it twice before, both times in the last three months, and both times she had picked it up again inside a minute and carried it back with her book shut against her side.
 
 This time she left it on the stone and stood with her hands empty and her book shut under her arm and did not pick it up.
@@ -35,6 +39,8 @@ The man at the sill signed four sheets in that time and put the pen back in the 
 ---
 
 He said it at about half past the third hour, to the flags, at nobody, the way anything gets said out loud in a building where nothing is ever wanted of anybody.
+
+The weather comes onto the sill whatever the season is doing outside it, and it has been arriving straight on the stone for about four years, and it comes onto the shelf beside the sill as well, and nothing has ever been fitted to the opening to stop it doing either. A man working in it for four years stops noticing the cold about a quarter of an hour in, the way anybody stops noticing anything they cannot get away from.
 
 "**I went back to the left hand once about a fortnight ago and I have not been able to work out which morning it was, and the pot took it back off me the same way it takes it back off the other, and I have settled that I am going to keep going back.**"
 
@@ -55,6 +61,8 @@ The girl of about nineteen gave him nothing back. The armful was on the stone wh
 ---
 
 She lifted the armful off the stone and took it back into that room with her book shut against her side, and the pot went on taking the pen back out of it exactly as it had done all morning.
+
+A thing which takes a pen and gives it straight back is a thing a person can learn in an afternoon, and it took him a winter and a second tin to make one, and he has not moved it since, and there is nothing about the arrangement anybody ever needed to think about twice.
 
 The number went out at the end of that day at the end of that floor and nobody thanked her for it, and nobody ever has, and she said it anyway.
 

@@ -14,6 +14,8 @@ It is the second day of the first week of the tenth month of the year after the 
 
 He was four steps short of the top of that stair before either of them heard him. He came on up and put the bag down on the wood at the far end of the boards, and stood with his shoulder to the room.
 
+He stops on the fourth step from the top on the way up and the way he does it has not changed in eleven years, and anybody used to hearing a stair knows a thing is coming up it about the time the door at the bottom opens. There was a noise of a bag being set down on wood, and then there was nothing, and then there was the sound of somebody settling his weight on one foot and staying there.
+
 Four times that month. Four times a week for eleven years. No one in that building has ever told him what is in that bag, and asking has never once been a courtesy between him and anybody on that floor, and it is not becoming one this month either.
 
 He stood half turned away from the room with both hands on the strap, and he did not square the strap, which he does about half the time, and the clerk of about twenty-nine noticed it and has told nobody that she noticed it.
@@ -26,6 +28,8 @@ The date, the hour, and how many sheets came out of the case, in that order, the
 
 The strap went up over his shoulder and came off again and went up again. Tamsin Rook squared an edge at the other end of those boards. Marn Ottery did not look over.
 
+A working floor makes a noise like a working floor and nothing in it is addressed to anybody. Four people on about nine foot of wood and two joined tables produce about the sound of nine, and the three women had been in the room long enough to hear a difference in it the way a person hears a difference in a room they sleep in.
+
 ---
 
 The man with the satchel said it at about half past the fourth hour, to the boards, in the ordinary way, and there were three other people on that floor.
@@ -37,6 +41,8 @@ He said it to the boards and he did not look up and he did not say who he was ta
 ---
 
 She had her hand on the book.
+
+Four years at that end of the room, and the hand had been on the book every single working morning of them, and it was not a hand which fidgets, and it lay flat with the fingers along the edge of the page and it had never once been anything else in anybody's field of view.
 
 It was the first time in four years that she had wanted to write something down about a person rather than about a floor. It had been there since about the middle of the fourth hour and it was the only thing she had wanted in four years, and it was not a name. It was a mark on a line that would say that a man had been on that floor at that hour with a satchel, and that is the smallest possible entry and it would fit in the middle of a line with the number of sheets on it, and the book is a record, and the one thing in that room anybody can ever be shown is a record.
 
