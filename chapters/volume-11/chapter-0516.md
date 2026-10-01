@@ -8,9 +8,13 @@ In the inside pocket of the coat on the nail there are two things, one on each s
 
 It is the second day of the second week of the seventh month of the year after the year after the year after the year after the year after the year after the year after next, and it is the morning.
 
+Nothing in the room makes heat. Four feet or so of bare wall stands at the side of the window, nothing is on any part of it, and there is one nail in the plaster at about the height of a man's own hand with the coat on it. The boards carry a chair with one leg shorter than the others, which is why the chair is where it is and not anywhere else.
+
 ---
 
 She came to the door for the third time in three months and she did not knock, which is a thing she has never done before, and she stood on the other side of it and did not knock and did not go.
+
+There are four flights to the door and every one of them is stone, and the rail is on the open side of the run, and a person going up at an ordinary pace can be heard twice over before she reaches a landing. He has had eleven years of her at the top of it and three months of her not being asked anything by anybody in this building, and a landing outside a shut door is where a person with nothing to say ends up standing on.
 
 He was in the middle of that floor. He heard her not knock, which took longer to hear than a knock would have.
 
@@ -27,6 +31,8 @@ He did not open it.
 He had worked the whole of this out a month ago, standing in the middle of that floor, and he had worked it out about the cheapest instrument in the matter and not about a landing. He had it as a thing that happens to other people in other buildings.
 
 Then he put his hand flat on the inside of the door and left it there, and the door is a half inch of wood and there is nothing behind it except a landing and a woman standing on it, and he did not open it and he did not take his hand off it.
+
+A hand flat on a door from the side nothing is standing on is a different act from knocking and he knows the difference and has known it for years, because nothing in this empire takes a door for anything. He had worked all of it out a month before, standing in the middle of the room, and it had taken him the length of a walk across the boards and back, and none of it was any use to him, because the thing he had worked out was that a person in a room is cheap, and a hand on a door is not a person in a room.
 
 ---
 
@@ -49,6 +55,8 @@ Then he put his hand flat on the inside of the door and left it there, and the d
 ---
 
 He stood with his hand on the inside of the door for about as long as a sheet takes to be squared and she stood on the other side of it and neither of them said one word, and after a while the stair went.
+
+Two people not speaking through half an inch of wood make no sound at all, which is not the same as a quiet room. There is a pressure on a door from somebody standing against it who is not leaning, and he could tell from the inside where she had put her weight, and he did not shift his hand when he had worked that out, and neither of them ever said how long it had been.
 
 He had been the cheapest person in this matter for about a year. A bar of his own came off him on an application of one line which he wrote himself, and a rank that was never granted cannot be taken back, and so a man in his position has nothing behind him to be liable for, and that has been the whole of it for about a year, and it goes back further than any fire does.
 

@@ -4,6 +4,8 @@ The ground floor of that house has been described once and is not described agai
 
 It is the fourth day of the third week of the seventh month of the year after the year after the year after the year after the year after the year after the year after next, and it is about the first hour.
 
+What is in the ground floor this month is the arrangement of it rather than the contents, and the arrangement is twenty years old: the boards swept every working morning, an edge in the swept part where the tin is not, a gap at the foot of the door where it opens on to the lane, and a coin through that gap once a week onto the boards inside.
+
 The woman of about thirty-five who keeps a day-book in her own hand has been coming down that lane once a week for about a year.
 
 ---
@@ -20,6 +22,8 @@ She has had it in her own mouth once since then, to the plaster behind that boil
 
 The woman with the day-book came down that lane at about that hour with the book under her arm and stopped at that step, which she has done for about a year.
 
+There is one step between the lane and the door and she stops on it, and a person on the lane side of a door and a person on the room side of it are standing at different heights and cannot see each other's faces. She has stopped there a great many times and has never once gone further, and the four headings and four columns under her arm are her own hand throughout and there is no fifth of either.
+
 She did not say good evening. She had said in the last month of that year that she was not going to come back with anything else and she did not, and she has not said one word to that door since and neither has anybody in that house said one word to her.
 
 She stood on that step and she was in the room.
@@ -31,6 +35,8 @@ The woman at the bottom of the stair said the true thing out loud, to the boiler
 "**I have taken eight years and something of a rent out of a hand in this house and put it in a tin behind this boiler and I have never written a line of it and I have never asked that man for a receipt, and I worked all of that out at the time and I have worked out the rest of it this month. I did it so that there would be no paper. A thing with no paper on it cannot be tied to a person. And the price of that is that neither of us can be shown to have ever been in this room, and I have had that for eight years, and I have just given it away to a person standing on my own step who did not ask me for it.**"
 
 The boiler ticked. The tin behind it did what it does. The coin was in the apron pocket and not in the tin, where it has been since about the first hour, on purpose.
+
+The lid lifts crooked in a hand and comes down crooked, and it has done for long enough that nobody in the house works at it from one side any more. She does not look at it when she speaks and she does not look at the step, and the boiler makes its own noise and goes on making it through the whole of what she has to say.
 
 ---
 

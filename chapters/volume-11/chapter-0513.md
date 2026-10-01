@@ -12,6 +12,8 @@ It is the fourth day of the third week of the sixth month of the year after the 
 
 The woman of about fifty-three did not come out of her room that morning. Nineteen years in it, and no advice given in it by anybody but her, and nothing put to that room in about four years. On this morning she was at a table with her own book and the door shut. Nothing was said to her and nothing was said in front of her.
 
+The sill is at one end of the run with the pot standing at the end of it, and the pot is not new: he made it himself out of a second tin one winter before he ever came to work at this floor, and nobody has shifted it since. Above the sill is a window about two feet across with nothing at all in the frame. The pane has been out of it for the best part of four years, so the weather arrives on the stone and on a shelf beside it alike, and a paper stands on it with her own name written at the foot. A girl of about nineteen carries an armful the length of the run and back a great many times in a working day and would know the length of it with her eyes shut, and the woman of fifty-three has not come out into it for a good while.
+
 That is the only reason the shape of that floor was what it was, and there is nobody in that building who worked it out and worked it out wrong.
 
 ---
@@ -22,6 +24,8 @@ A true thing went out of that room in nine words on that morning and it went to 
 
 There were about nine hundred sheets in that building that week and about nine of them were wrong and nobody in the building could read the line above the one he had signed.
 
+The whole of a working morning goes past the sill at one speed, which is the speed of a pot taking a pen and giving it straight back, and the reading is the only part of it done faster than anything else. He reads the top line of a sheet before he signs it. He has read the top line of every sheet that has reached him since he was forty-two, and nobody in the place has ever known that he does it.
+
 ---
 
 The woman of about nineteen was in that room for the whole of it.
@@ -29,6 +33,8 @@ The woman of about nineteen was in that room for the whole of it.
 She is a year at that end of that floor, keeping the minutes under the woman of about fifty-three, and she takes an armful between that room and that sill and back about forty times a day. She has not said one word out loud in that room in the whole of the year and she is not going to start this month.
 
 She had the armful on the stone in front of her when he said it. She did not look up. She did not put anything down, and there was a pen four inches from a shut book and about a minute in which she could have, and she did not, and she was never going to.
+
+An armful is carried against one side and it takes both forearms and it is not a thing you put down and pick up again without a reason, and she was holding hers the way a person holds something she has been carrying all morning, with the weight of it already in her shoulders before she thought about her hands at all.
 
 "You are talking to the stone," he said, after a while.
 
@@ -45,6 +51,8 @@ He went on with his nine hundred.
 He has said five things in that building in nineteen years and four of them were not sentences about anything, and the fifth is the one that went to the stone this morning. The one before it was a word or two said flatly into a room by somebody who works at the far end of it, and it was not a sentence about a number and it was never about one. He is not going to say it again and nobody in that building is going to ask him what it was and nobody is going to be thanked for the not asking.
 
 She would have to be the one who told them, if anybody ever did, and she is not going to, and there is nobody in that building she could tell.
+
+His part in it goes on the same as it goes on every working morning and nothing in the room's arrangement changes to mark the nine words. He shifts his weight off one hip and back onto it, the pile of signed sheets grows by one, and the pen goes in and comes straight back out again, and nothing happens anywhere in it that a person at the far end of the corridor could put to any use at all.
 
 "You have about nine hundred of those out of this room in a year," she said, still not looking up, "and I have carried about forty armfuls a day past that sill for a year, and there is not one of those two numbers on anything."
 
@@ -65,6 +73,8 @@ He cannot be shown to have been alone in it. That is the whole of what he has lo
 ---
 
 She took the armful off the stone at the end of that hour and went back into the room with the book shut against her side, and the pot took back nothing it had not taken back all morning.
+
+He went on signing without once looking in the direction the armful had gone, and he put the pen in the pot and left it there, and he stood where he stands at the end of a working morning for about as long as it takes to square two sheets, which nobody in the corridor would have counted as anything at all.
 
 She did not write it down. Not on the stone, not in the book, not on the back of her own hand, and there is nowhere in this empire for a person's purpose to go, and the whole of what she has got instead of it is that nobody on that floor will ever be able to prove she was standing at that sill on the fourth day of the third week of that month.
 

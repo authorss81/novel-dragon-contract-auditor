@@ -8,6 +8,8 @@ The book lies open in front of her and the pen lies across the middle of the ope
 
 It is the fourth day of the fourth week of the seventh month of the year after the year after the year after the year after the year after the year after the year after next, and it is about the third hour.
 
+A window halfway down those four flights lets the yard in at the height of a man's chest, and by about the third hour the light it lets in has crossed the whole of the floor and is standing up against the far wall. The two joined tables are one long working top with a seam run straight across it, and the near half carries nothing at all, and the grain there has never been marked by anything set down hard on it, so it is the same pale colour all along as the grain under the book at the far end.
+
 ---
 
 A month ago a woman at the near end of those boards said a true thing out loud in the ordinary way. The woman at the far end of the two joined tables had her face down over that book for the whole of it. Nothing was asked of anybody, and no form anywhere in this empire could enter her as the one who was at that end of the room when it was said or as the one who was not.
@@ -24,11 +26,15 @@ Tamsin Rook was at her end with her back to the room and she squared an edge tha
 
 Marn Ottery did not turn round. She has put the shape of a thing out loud four times in that room and has said in advance there will not be a fifth, and what she said at the end of that third hour was not a shape of anything.
 
+She had both palms flat on the working top with a foot of wood under each of them when it was said and she did not lift either, and she went on working the top afterwards at the rate she works it at on any morning, and the knuckles at the near ends of her fingers had gone pale and stayed that way for the rest of the hour.
+
 ---
 
 The clerk of about twenty-nine stood up.
 
 She pushed her chair back about a foot, which nobody in that building has ever seen a person do at that table, and she walked out of that room and down the stair, four flights, at about the third hour of an ordinary morning, and she did not say one word to anybody on the way out.
+
+Four flights of stone with a rail on the open side take a person down at the rate a person goes down them who has decided to be out of a room, and she went at that rate. Halfway down, a window sits at a man's chest and daylight arrives level off the yard and lies right across the treads in one pale stripe, and she went down through the middle of it with her shadow thrown out in front of her onto the wall and then drawn back up over her own feet.
 
 Nobody stopped her. Nobody said one word. The two of them at those boards went on with what they were doing, and the man with the satchel at the far end of the wood did not look up, and the whole of it took about as long as a sheet takes to be squared and then it was a room with two people in it.
 
@@ -59,6 +65,8 @@ Tamsin Rook went on squaring the edge, and neither of them said one word to the 
 ---
 
 She came back up the four flights at about the fourth hour and came into that room and sat down at the far end of the two joined tables and opened the book and put the pen down in the middle of it, and nobody said one word to her about where she had been and she did not say one word about it either.
+
+Coming back up four flights of stone takes a person longer than going down them, and the chair had been standing where she pushed it about a foot back from the top of the tables for the better part of an hour, and she came in and sat down in it without moving it, and the light had come off the far wall by then and the whole room was one flat colour again.
 
 There is nothing in that building that says she was in that room, and nothing in it that says she was not, and nothing in it that says she went down four flights and came back up again, and the two of them at those boards have not mentioned it and are not going to.
 

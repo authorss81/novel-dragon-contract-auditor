@@ -20,6 +20,8 @@ Neither of them has left that pocket in this building or in any other. Nobody in
 
 He worked the thing out on his feet in the middle of that floor, and it took as long as it takes to cross that room and come back, and he did not say it out loud at first.
 
+There is nothing in the middle of it to walk round, so a man who is thinking crosses it and uncrosses it and crosses it again, and every crossing finishes against the same stretch of plaster beside the window. He had been at it long enough by then that the boards had taken a shine in the middle from the going over, and he had not yet put a hand on the bed or drawn the stool out from under the table, and the chair with the short leg was still standing against nothing at all behind him where it stands every morning.
+
 The thing he is able to do takes about four seconds and needs a knife and a printed strip and half a minute of a drawer at the top of four flights, and what it leaves behind would ride in a coat through a hundred rooms and come out at the far side of one of them with no hand attached to it. Nothing else in ten years of this has ever travelled without somebody carrying it.
 
 He has not done it in about two years and he is not going to and he was not going to before this morning.
@@ -38,11 +40,15 @@ Then he said it out loud, to the plaster beside the window, because the room is 
 
 He put his hand flat on the outside of the pocket and left it there.
 
+The coat is still on the nail and nothing in this room makes heat, and about two years of that has taken the wool at the top of it to the colour of the plaster behind it, which is the colour everything in this room is the colour of. He has never had it brushed and there is nobody in this building who would come and do it, and a man who takes a room by the week is not a man anybody brings a brush to.
+
 Whatever belonged at the foot of that struck line is gone, and it was not his mother's hand that put it there. The claim that travelled out of this empire with that name went the same way, on the same day. He has one of those two things in his pocket and has never had the other one, and neither of them is coming this month, and he did not say a word of it out loud.
 
 ---
 
 At about the fourth hour there was a hand on the door.
+
+It came up the four flights of stone at the rate a person comes up a stair when she has decided to get to a door before she loses the thing she came to say, and it stopped outside it, and there was then a gap of about four seconds in which nothing on the landing happened at all.
 
 It was the same woman two floors down. She has a thing about a window in that room and it has been going on for about two months. The first time she came she brought an offer with her, and the offer was that she would set it down in writing if any one person in that building would stand behind it.
 

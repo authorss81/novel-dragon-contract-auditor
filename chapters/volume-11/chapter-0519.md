@@ -12,6 +12,8 @@ It is the second day of the first week of the eighth month of the year after the
 
 She came out into the corridor at about the second hour and stopped at the end of that sill, and about nine hundred sheets a year were going out of that building with his mark at the foot of them, and neither of the two people at that sill was looking at her.
 
+There is no window on the corridor at the near end of it, so one end of the run stands in the daylight off the room behind her and the other does not, and she stood with the light behind her the whole time. Four feet of stone run down the corridor with the sill at the end of them, and the weather comes onto the stone straight on whatever the season is doing outside the building, and it has been arriving like that for about four years.
+
 The girl of about nineteen came out under an armful at about the same moment and stopped where she always stops.
 
 They had not been in that corridor together at that hour for about a month, and the last time they had been, the woman of fifty-three had said a true thing about a book and the girl had not answered it.
@@ -26,6 +28,8 @@ The girl of about nineteen did not answer it.
 
 She stood at the end of that sill with the armful on the stone in front of her and the book shut under her arm and she looked at the pen and the pot and the pen again, and then she did the thing she has not done in about three months, and she put the armful down on the stone and left it there.
 
+An armful of squared sheets goes down flat or it does not go down at all, and a sill is the only place in the building which will take the weight of one flat. They stay where they are put down until somebody lifts them again, and nobody on the floor would have noticed them there except the person who had put them there.
+
 "The armful is heavy," she said. "That is all I have got to say about it and I am going to take it back into the room."
 
 "You are not going to say anything about what she has just said."
@@ -35,6 +39,8 @@ She stood at the end of that sill with the armful on the stone in front of her a
 ---
 
 She lifted the armful off the stone again and went back into the room with her book shut against her side, and the pot went on handing the pen back to a man who was not looking at her.
+
+It took about four seconds, and he signed two sheets in the course of it and did not turn his head, and neither of them said one word through the whole of it.
 
 "You came out of that room at the third hour four times in a month in the spring," the girl said, from the doorway. "I counted them on the armfuls and I have never written the number down and I am not going to."
 

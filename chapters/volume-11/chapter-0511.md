@@ -14,6 +14,8 @@ It is the second day of the first week of the sixth month of the year after the 
 
 The boards were up and the case was out and there was nothing on either of them, and that is what that floor looks like on every working morning of the eleven years it has been like it.
 
+By the third hour the daylight from off the yard has come the whole way in and is lying up against the far wall of the room. Two tables pushed end to end make the one long working top, and the join between them runs across it in a straight line any of the three women could find with a finger in the dark. The near half of the working top has nothing standing on it at all. The far half has a woman at it who has been sitting at the far end of the working top for four years.
+
 Tamsin squared the near edge. It did not need squaring. She squared it again about a minute later and the woman at the other end of them watched her do it and said nothing for about as long as a sheet takes to be signed.
 
 "You are going to do that until the sixth hour," Marn Ottery said.
@@ -52,9 +54,13 @@ Tamsin squared it. About four hundred of them go out of that case in a year and 
 
 "Then I will square it and then neither of them will have moved, and that is the whole of what I have done this morning."
 
+The light had got as far as the far edge of the working top by then and lay along it in a bar, and everything past the bar was the ordinary colour of a room at the third hour. Marn Ottery did not look at the near edge, and Marn Ottery did not look along the working top either. She was watching the corner of it where the wood meets the wall, which is a thing a person can watch for an hour and never be said to have been watching.
+
 ---
 
 A bit after the hour Tamsin Rook said the true thing out loud, to the boards, in the ordinary way a person says a thing out loud in a room where nothing is being asked of anybody.
+
+She did not stop squaring while she said it. Her hands went on along the edge at the rate they had been going at since the second hour, and she said it in the ordinary voice, the one she uses when a blank goes across the top and nobody at the other end has asked for it.
 
 "**I have not decided anything this month and I am not going to decide anything in any of the next four, and I wanted it said out loud in this room once so that nobody on this floor can stand up in a year and tell me I had. That is the whole of it. I am not going to say which morning, and I am not going to thank the two of you for not asking, and if either of you ever wants to be thanked you are going to have to get it somewhere else.**"
 
@@ -66,6 +72,8 @@ Nobody answered her. That is the ordinary condition of that room and it is not a
 
 The clerk of about twenty-nine kept her face down over those two tables for the whole of it.
 
+She had a book open and the pen lying across the middle of the page, and she did not move either of them. Twice over the course of it she lifted her head the width of a hand off the page and put it back down again, and neither time did she look along the length of the working top, and both times she had begun the motion before she had finished deciding to do it.
+
 That is the whole of what happened on that floor that morning, as far as anybody in the building can put it. Nothing was asked of anybody, the two of them at the boards did not look at her while it was being said, and she did not look up while it was being said, and there is no way in this empire to tell the difference between a person who heard a thing and a person who did not.
 
 What has changed is not something anybody in that room did. It is that there is no longer any distance between that clerk and that sentence. **A person who was in a room when a true thing was said cannot afterwards be shown to have been nowhere near it, and that has always been the only protection anybody in this matter has ever had, and it does not take a decision to lose it, it takes standing still, and standing still is the one thing everybody on that floor has been doing for eleven years.**
@@ -75,5 +83,7 @@ There is no form anywhere in this empire in which she can be entered as the one 
 ---
 
 The two of them at the boards got on with the fourth hour and the fifth, and the case went in behind the boards at the sixth, and the four went up onto the wall above it on their own nails, and the fourth of them is the one nobody on that floor can account for.
+
+Between the fourth hour and the sixth the light came off the far wall by slow degrees until the whole of the room was one flat colour again. Nobody in it turned round at any point in that stretch, and nobody said one word, and a woman of twenty-four who had gone over one edge twice before the third hour went over it once more and stopped for a minute and started again, exactly as she said she would.
 
 The clerk of about twenty-nine put her hand flat on the open page in front of her and left it there for about as long as a sheet takes to be signed, and then she turned the page and carried on, and the pen went back where it goes every working morning of the four years she has been at that end of the room.

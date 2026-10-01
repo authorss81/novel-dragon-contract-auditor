@@ -12,17 +12,23 @@ It is the fourth day of the fourth week of the sixth month of the year after the
 
 He came down out of that cold with the rack over his hip and nothing riding on it, and that was the ninth time in a month, and on eight of the nine it had been the same, and he has not made a rule about it and settled that in his own head a long time ago and said out loud at the time that he had settled it so that somebody would know.
 
+The flags underfoot take a boot and give back a small flat sound, and four hundred yards of them have been walked flat in a strip about the width of a man along the line a body goes down, and everything on either side of the strip is still the colour the flags were laid in. One window sits high over the length of the run, and by the fourth hour the light coming off it is falling at an angle, lying along the flags in a pale stripe about half as long as the run itself, and from the middle onward the fourth hour looks like the other three.
+
 He has been forty years up and down that stone four times a day.
 
 "**You have come down that run nine times with nothing on it and I have stood at this end for four years, and there is no form anywhere in this empire that puts either of us down as the two people who were standing at the two ends of an empty passage. That is what we are. And I am not going to be thanked for standing at this end of it, and I am not going to be told what standing at this end of it is for, and I am not going anywhere, and that is the first thing I have decided in four years, and there is nowhere in this empire for a person's decision to go.**"
 
 She said it to the lock, in the ordinary way, at about the fourth hour of an ordinary morning.
 
+The lock is at the near end of the run and it takes a key for somebody who is not in this building, and the decline of it has gone down over the whole of the forty years and is going down at a rate nobody could measure in a month. Her hand was on the bar and had been for most of the four years, and the cold comes off the flags and into a palm and stays in a palm, and a person who stands at the near end learns to hold the bar where the metal is least bad rather than where a key goes.
+
 He was in that passage. He had been in it since the flags and he had his hand on the bar and the rack over his hip, and he did not put it down, and he did not look at her.
 
 ---
 
 For about the length of time a rack takes to come up and go back, neither of them said anything.
+
+Stone carries a voice the way it carries a foot, and four hundred yards of it with one high window is neither quiet nor loud at the fourth hour. She had learned the effect and used it, and he had heard that length of flags take his own boots about a minute earlier and had not needed it explained.
 
 "You knew I was here," he said.
 
