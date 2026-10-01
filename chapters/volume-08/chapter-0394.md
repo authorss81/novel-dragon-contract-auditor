@@ -38,6 +38,10 @@ The stove took about half an hour to come and goes out again by the seventh hour
 
 It is the second day of the second week of the twelfth month of the year after the year after the year after the year after next, and it is the first hour, and the coat is over the back of the second chair in that room four miles off with the nineteen days in it and the notice with the clean space on the back of it, and the woman of twenty is not going up this river this season, and a season is not a life.
 
+The rule was in the room and it was in neither of them, and the two of them had the whole of a working morning to be in a room with it, and no short while is spent in a room with a thing belonging to nobody in it at all. Nell Kest was twenty and she had been at the bench since she was a girl, and the whole of what she had done this morning was light a stove the other woman had not lit, and nobody was going to thank her for the stove, and the stove was not the thing.
+
 **The second of the four women came in on the first of the two days and she will come in on the second of the two days as she comes, and she is not thanked and she is not forgiven and she has not asked for anything, and the rule is in the room now and is in neither of the two of them.**
+
+The one on the bench with her name on the head of it had been on the bench since before the second woman came in to work there at all, and nothing else in the building carried her name across the head of it, and the entire purpose of a name standing across the head of a volume is to have a question set against it by somebody, and nobody had ever set one, and she had come to the conclusion some time ago that a name standing at the head of a volume is the same as a name standing at the head of a volume with nothing under it at all, and that the whole of the difference is in the hands of whoever comes to ask, and that nobody was coming.
 
 Nobody has set a question against the one on that bench with her name on the head of it, and it has not been opened, and the fifteen that are borrowed go back out to the rooms they came from on the second of the two days.
