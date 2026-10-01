@@ -40,6 +40,12 @@ The second woman stopped. "**No form for a reason a person is owed**, and I have
 
 It is the fourth day of the third week of the tenth month of the year after the year after the year after the year after next, and it is the first hour, and the stove had been out since before the lane woke.
 
+One thing comes on in the counting room and it is the stove, and the two women have arranged their day around it in about the ordinary way, because there is a form for a bench and a lane and a notice and not one for a room which is cold until somebody has put a light to it. Nell Kest lights it and the second woman used to, and for four days it has been lit once where it was lit twice, and nobody in the building has said a word about the difference and the second woman is the one who would have to be asked.
+
+On the second of the two days the room has nothing in it but the bench and the stove, and about eleven houses' worth of figures have already gone back down the lane, and there is nothing else in the building for either of them to look at between now and the next first day. The second woman has her end of the bench and has had it for years, and there is no form in this empire for two people agreeing about where each of them works, so it was settled by sitting down and never mentioned again, and it is not going to be mentioned this week either.
+
+The far end of the bench has been clear for four days and nobody has gone to look and nobody is going to, because a person who went looking for a colleague in a lane would want a reason for the going and the building offers nowhere to put one. She has got used to the far end of the bench being clear. She has not written anything about it and she has put nothing about it in the books, because the books take what comes in off the lane and not what the two women in the room think about each other.
+
 The boy came back up the lane at about the fourth hour and Nell Kest stood in the lane until he did, with the notice folded in half, and she gave it to him with the ruled space on the back of it as clean as the day end had put it.
 
 He went down the lane with it. Nell Kest went in and shut the door of that room behind her and stood at the bench a while before she lit the stove, and the stove took about half an hour to come and was out again by the seventh hour, and she did not ask the man four miles off what any of it is sitting against, and she is not going up this river this season, and that is not never.

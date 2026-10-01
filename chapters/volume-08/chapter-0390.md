@@ -10,6 +10,10 @@ It is the second day of the second week of the eleventh month of the year after 
 
 ---
 
+He has never once moved a chair to get his back off the plaster behind it, and he has never once wondered why a room rented by the week has a wall in it which takes the cold worse than a window does. The lamp has been off every evening for about two years until somebody was coming up the stairs, and he has not said it aloud, and nobody in the house could be told by him.
+
+Nobody has ever asked him about the mark and he has never offered it, and there is no form in this empire for a person showing another person three inches of the inside of a wrist and being told what it is for, and he has not wanted one, and the not wanting is about the mark and not about whoever might have said something about it. He does not put a sleeve over it either and has never done so, and a man who has carried a page in a coat for two years has had two full years in which to notice that nobody has ever seen the inside of his wrist and nobody is going to, and that is the whole of the use a mark like it has ever been to anybody.
+
 She knocked once and then she opened the door, which meant she had the key to the building and not to that room and had been let up by whoever was on the ground floor that evening.
 
 **A person who is not asked has not been given a duty, and the clerk of about fifty-five has known that since about the seventh month of next year**, and she had said it out loud in her own room three times that month, and she came the whole way to say one more thing and did not say that one in her own room at all.
@@ -47,6 +51,8 @@ The lamp buzzed. He did not ask her to say it again and he did not ask her anyth
 "The fourpence is the number I have been using for about two years for what it costs to be a person who knows where a piece of paper is. I did not invent it and I have not improved on it and I have just spent more than it." She took her hands off the page. "You will want to go and look. I am telling you now, tonight, that you will want to go and look, and I am telling you that I have thought about it more than you have, and I am not going to say that you must not."
 
 ---
+
+He had put the lamp on the table before she reached the top of the stairs, because a lamp in the centre of a room is for the person who is alone in it and there was going to be two of them in it, and nothing in this matter has anything whatever to say about where a lamp is put. About two hours of the evening went on after it, with the lamp where it was and two people in a room neither of whom came to say a second thing, and he did not once get up and neither did she get out of the second chair, and the whole of the two hours is a thing neither of them has any way of putting anywhere.
 
 He did not go and look. He sat in that room until about the tenth hour with the page on the table under his own hands, and he did not write anything, and there is no paper in that room, and there is no pen in that room, and neither of them has said what happens next.
 
