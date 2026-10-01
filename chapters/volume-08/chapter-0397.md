@@ -20,7 +20,7 @@ Two in eleven years is not a rate of anything. She had done both of them without
 
 He came down his four steps with his coat on and the lane was doing what it does at that hour, and he stopped at the bottom of them, which he does not do.
 
-He had his coat on, which is a thing a man does at the third hour when he is going out and not a thing he does when he has come in, and the coat was the first half of a sentence she was not going to hear the end of. He stopped at the bottom of his four steps, which he does not do, and stood there with his face turned up the lane at an angle which had nothing whatever to do with her door and everything to do with the light.
+The coat was the first half of a sentence she was not going to hear the end of, and a man at the third hour wears one going out and does not wear one coming in. He stood with his face turned up the lane at an angle which had nothing whatever to do with her door and everything to do with the light.
 
 "You are not going to knock," he said.
 
@@ -48,7 +48,7 @@ That was the half of it she had not expected to get. She had come out onto the s
 
 "I know. I have thought about that as well and I have decided to put it on you anyway, and that is a thing I have done and I am not going to pretend I have not." He looked at the four feet of lane between them and did not step into it. "I am not able to do anything with it. There is nobody I could hand that to and there is nothing I could fill in, and if it is going anywhere it is going to sit on a person, and you knocked, and so it is you."
 
-They stood exactly so until the light came off the wall opposite, and not one word passed between them about where he had been on his four days, and he had not been going to and she had not been going to, and there was about a yard and a half of lane between the bottom of his steps and the top of hers and neither of them put a foot into it, and what the hour was is not in any book either.
+The hour was the third hour and it was not a good one, and neither the hour nor a thing two people in a lane have not said to each other goes down anywhere, and there is nobody who would want either of them if it did.
 
 She stood on her own step and looked at the four feet and did not go into them, and he stood at the bottom of his four steps and did not come further. The two of them were in that lane at about a yard and a half of each other for as long as it took the light to change off the wall opposite. **Neither of them said one word about where he had been on his four days, and he had not been going to.**
 

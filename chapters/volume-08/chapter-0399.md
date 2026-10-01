@@ -10,7 +10,7 @@ The woman who keeps the ground floor of that house has been at the bottom of tho
 
 It is the fourth day of the third week of the first month of the year after the year after the year after the year after the year after next, and it is the seventh hour, and the lamp was not lit when she knocked.
 
-The room was the same room it had been every week for two years, and the lamp was off until it was wanted, and the table had a grain in it that a foot learns and a hand learns faster, and he had been up those two flights long enough that he came up them without counting them, which is a thing a body does and a person does not decide to do. The cold came in off the plaster behind the chair instead of off the glass and he had stopped noticing it about a year ago, and it was not there this week either, and he noticed it not being there, and noticing the absence of a cold is a different thing from not noticing a cold and is worth a good deal more than it sounds.
+The table had a grain in it that a foot learns and a hand learns faster, and he had been up those two flights long enough that he came up them without counting them, which is a thing a body does and a person does not decide to do.
 
 ---
 

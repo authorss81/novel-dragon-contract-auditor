@@ -8,7 +8,7 @@ He ruled that sheet into three himself, with his own hand, and printed nothing o
 
 It is the second day of the second week of the first month of the year after the year after the year after the year after the year after next, and it is the second hour, and the window in that room has a shutter on the hinge that has not been oiled since before he came.
 
-The two tables had been joined along their long sides for longer than he had been sitting at them, and the join was a line of shadow a person could put a finger into, and the clerk of about twenty-nine had the far end of it with her own square in front of her, and the shutter on the window had not been oiled since before he came, and the light in there came in under the shutter and lay along the tables instead of up them. He had got used to it without once looking at it, and that is what a man does with a thing which has been sitting on him all day.
+The two tables had been joined along their long sides for longer than he had been sitting at them, and the join was a line of shadow a person could put a finger into, and the light in there came in under the shutter and lay along the tables instead of up them. He had got used to it without once looking at it, and that is what a man does with a thing which has been sitting on him all day.
 
 ---
 

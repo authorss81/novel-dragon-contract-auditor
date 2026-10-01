@@ -60,7 +60,7 @@ Not to where it had been. She set it down an inch short of where it had been, so
 
 "That is not the four inches back," he said.
 
-She had not expected the two of them to be talking about inches. He had come up four flights with a sheet to leave and he had stood in front of a box and made an accusation about a distance a person could put a foot either side of, and she found that she could not go back to the boards and start on the day again while he was standing there doing it.
+She had not expected the two of them to be talking about inches. He had stood in front of a box and made an accusation about a distance a person could put a foot either side of, and she found that she could not go back to the boards and start on the day again while he was standing there doing it.
 
 "It is not, and I am not going to do the other one either, and I would rather it went in as a thing I settled on my own account than as a thing anybody in this building put to me." She untied the twine where it had been sitting behind the box and put a foot and a bit of it on the boards. "**A thing that has been moved four inches and put back where it was is a thing that was moved four inches, and a thing that has been moved four inches and then moved one of them back is a thing that is three inches nearer where it was, and both of those are on the same counter at the same time, and I would rather have the two of them than the one of them.**"
 
