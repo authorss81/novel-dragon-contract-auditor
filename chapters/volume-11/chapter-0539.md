@@ -18,6 +18,8 @@ He got it at about the third hour.
 
 It dragged on the boards. It is a heavy thing with one leg shorter than the other and it does that, and he let it drag, and the noise of it went across a floor that has never had a noise like that on it in about two years. He brought it into the middle of that floor and turned it round about ninety degrees on its own leg, and the boards complained under it, so that its back was to the window and its face was to the plaster.
 
+The boards in a room where nothing makes heat are the loudest thing in the room, and a chair with one leg shorter than another puts a hitch into a floor that has had nothing but a boot on it, and the hitch came three times in about ninety degrees and he let all three of them happen without stopping the chair.
+
 The boards under it were not the colour of the boards round it. Two years of dust goes on a floor in a room where nothing is made heat, and the shape that chair had been standing in was clean underneath, a rectangle about as long as a man and a foot and a half across, and it stayed on the boards when the chair came off them, and it is the second mark in that room and he had not known it was there.
 
 Then he stood beside it and did not sit down in it.
@@ -28,15 +30,21 @@ A thing with a use in a room can be produced.
 
 That is the whole of what he has. A table can be produced and a bed can be produced and a stool can be produced, and anybody who wanted to know anything about a man in this city could be shown a table and a bed and a stool and say that a man slept here, and it would not matter in the slightest that they would not be able to say anything else, because they would not have to.
 
+A room can be produced too, and a room is easier to produce than a man, because a room does not have to have a person in it to be shown and a man has to be in it and agree, and there has not been one hour in about two years in which anybody could have been shown a man in the room and had him be a party to being shown.
+
 A thing with no use in it cannot be produced. There is no way in this empire to put a man into a column as the one who owned a chair he had never sat in, and there is no form that would take a man for turning a piece of furniture round at three in the afternoon, and a piece of furniture is not a person, and the whole of what a person can be warned about is a person.
 
 That chair was the only thing in that room nobody could ever be shown anything about. He had had it for about two years. He had never once done anything with it. He did not know until that morning that it was the thing he had.
 
 A name stood once at the foot of a leaf and a hand that was not his mother's went through it, and what belonged underneath that line is gone out of this empire, and the claim that went out of it under that name went the same way on the same day. He has one of those two things and has never had the other. Neither of them can go on four feet of plaster. He was not going to put anything on that plaster, and he had told himself for about two years that he was not going to stand a chair in front of it either, and he had been wrong about the second of those, and it took him about two minutes to do it.
 
+A chair standing against a wall is furniture. A chair standing ninety degrees out in the middle of a floor with its face on a bare wall is a decision, and a decision has a person in it, and about two minutes of a working morning is what it takes to shift furniture in a cold room with nobody in it to see it done.
+
 ---
 
 He said it out loud at about the fourth hour, to a room with nobody in it, and the room took it the way it has taken everything else he has ever said in it, which is by not being there.
+
+Plaster at the height of a man's mouth takes a voice and gives back about as much of it as the thickness of the plaster can carry, which on a wall about four feet wide is a room with a chest in it, and there is nobody standing at the far side of it, and that has been the arrangement of the fourth hour in the room for about two years.
 
 "**There is a chair in this room that has no use in it and there is about four feet of wall that has nothing on it, and a thing with no use in it cannot be shown to anybody, and that is the only kind of thing I have ever had. I have turned it round to face it and I am not going to sit down in it and I am not going to put it back.**"
 
@@ -51,6 +59,8 @@ He noticed that at about the fourth hour and a half, and he noticed what it was,
 He had gone and stood at that window a fortnight ago for about four times as long as he meant to, and it was the only thing he has wanted in about two years, and this morning he had dragged a chair across the floor of that room and turned it round so that he would not be looking at the window any more.
 
 He sat on the bed with his back to the glass and looked at about four feet of plaster instead, and the plaster has nothing on it, and there is a nail in it with a coat on it, and he had chosen the plaster.
+
+The light comes in over a wall about four feet off and does not reach the glass until about the second hour, and after the fourth hour it begins to come back off the glass and go onto the plaster instead, and by the fifth hour a hand's width of daylight was standing on a wall that had nothing on it, and he looked at the hand's width instead, and it was the first thing in about two years to have happened in the room that he had not worked out beforehand.
 
 ---
 

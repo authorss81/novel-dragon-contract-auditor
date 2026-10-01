@@ -12,6 +12,8 @@ It is the second day of the first week of the twelfth month of the year after th
 
 The stair did not sound.
 
+The four flights of the house are stone and they run up the side of it with the rail on the open side, and a person going up them at the ordinary rate is audible at every floor and audible twice, once going and once coming, and eleven years of them had taught him exactly how long after a door has opened the house tells you about it.
+
 She had come up those four flights about a month ago and said one true thing out loud on the other side of his door, and she had told him she was coming up to be in the room when she said it, and she had said that was the last time she was going to and that he was not going to be thanked for it and was not going to be asked what she had said.
 
 He had not opened the door then and he has not opened it since, and the stair has been going up and down that whole of that month without stopping anywhere near his floor, and it did not come this morning either.
@@ -26,6 +28,8 @@ The window looks at the back of another house and has done for about two years.
 
 It looks at a wall about four feet off, and above the wall at a back room, and in that back room there is a person. There is a floor in there that gets swept in the morning and a table with something on it, and about the second hour the light comes in on the far side of it and the person in there gets up and moves about for about an hour, and then there is nobody in that room for the rest of the day.
 
+The light comes in over the top of it and not under it, so what reaches the glass on his side is the top of a back room and the near edge of a floor, and a person in there is visible from about the waist up and then not at all, which is the amount of a person that can be in a room for about an hour without becoming anything.
+
 He had never once gone and stood at that window. He had used it for the light and for the fact of it being a window, and that was all it had been for about two years, and about a month ago he had started noticing that there was a room at the other end of it with somebody in it, and had gone on not going and standing.
 
 This morning he went and stood at it.
@@ -36,9 +40,13 @@ The want was not the person. He worked that out standing there, and it took him 
 
 Then he went and sat down on the bed, because that is what he does, and the window stayed what it was.
 
+The bed is against the wall and the stool goes under the table and the chair is still standing against nothing at all, and nothing in the room has been moved in about two years, so going and sitting down on the bed was not a thing he had to decide and was only a thing he had to do.
+
 ---
 
 He said it out loud at about the fourth hour, to the plaster of a room with nobody in it, and there was nobody there to say it to and there never has been.
+
+Plaster does not take a voice the way a person does. It gives a room back a fraction of what is put into it and no more, and eleven years in the room had taught him how small the fraction is, which is very small, and he had kept on using it anyway, because it was the only party in this matter that had never once asked him for anything and never once answered.
 
 "**She came up those four flights to be in a room when she said a true thing, and she told me that was the only reason, and she was right, and she has not come up again, and I have not opened that door, and neither of those is going to change this month. The whole of what is left on that stair is a woman who is not going to be thanked and a man who is not going to be asked, and there is nobody in this house who is going to be told that either of those two people is the one who was on the other side of a door.**"
 
@@ -60,6 +68,8 @@ Except that he had been sitting at a window listening for a stair for an hour, a
 
 He thought about that for a while. Then he got up and put his back to the door and faced the wall that is not the wall with the nail in it, and he made the second one on purpose, standing up, in an empty room, where it could not be entered anywhere at all.
 
+He stood there about as long as it takes to sweep a back room, which he knew the length of because he had watched it every working morning for about a month, and then he sat down again and the room was exactly the room he had stood in, and that was the whole of what the standing up was for.
+
 He stopped listening for the stair.
 
 The whole of what that cost him is that if she ever comes up those four flights again he will not know about it, and the whole of what it bought is that there is nothing in this empire to put a man against for having done it, and he had about eleven years of a habit to give up, and he gave it up inside one sheet of work.
@@ -74,6 +84,8 @@ He heard all of it. That was the thing he had not expected. He had worked out th
 
 He stood in the middle of that floor and let it finish, and he did not go to the door, and the stair came up at the sixth hour and went down at the seventh without stopping on his floor, and neither time did he go to the door.
 
+Not going to the door is a thing a body does and not a thing a decision does, and he had about eleven years of it in him by then, and it took the same amount of effort every time and no more, and the door did not open, and the handle did not go down, and neither of those is going to be a fact anybody is ever told.
+
 The top room of that house is let by the week and the landlord has never once been through the door of it.
 
 The only thing anywhere in that house that says anybody has ever slept in it is a number cut into the back of a key to that room, and that cut is going thin at the top of it. The woman at the bottom of that stair has held it under her thumb about as long as it takes to read a page and has never once said to anybody what is on it.
@@ -81,3 +93,5 @@ The only thing anywhere in that house that says anybody has ever slept in it is 
 He is at the top of that stair at this hour and does not know any of that, and she is not going to be asked about it, and he is not going to be thanked for not knowing it, and this empire holds no paper of any kind on which either of them could be entered as the one who knew what was cut into the back of that key.
 
 About four feet of bare wall stands beside that window with a nail driven into it at roughly the height of his own hand and a coat on that nail. He did not put his hand on the wall this month. The stool was where the stool is and the table was where the table is and the chair is still standing against nothing at all, and the window looked at the back of another house all morning and will look at the back of another house all afternoon, and the stair went up at the sixth hour and came down at the seventh without stopping on his floor, and he heard it.
+
+A coat that has been on a nail about two years has taken the shape of the nail at the shoulder and kept the shape of a man at the elbows, and the wool at the top of it has gone the colour of the wall behind it, which is the colour everything in the room is the colour of, because nothing in it has ever been cleaned and nothing in it has ever needed to be.

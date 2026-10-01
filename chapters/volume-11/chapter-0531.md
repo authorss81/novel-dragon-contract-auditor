@@ -16,9 +16,13 @@ It is the second day of the first week of the eleventh month of the year after t
 
 She got up off that bench and came the length of her own floor.
 
+The boards go the length of the room and they carry a boot the whole way, so a person walking across one can be heard by everybody in it, and she had crossed them every working morning for eleven years and had got so exact about where she set a foot down that nobody in the shed ever had to look up to know where she was.
+
 She had started at the near end of it in a spring that is gone and she had gone to the far end of it every working morning of the eleven years since, and about a month ago she had stopped and gone to the back of the bench and stood at the end of it behind the two of them. This morning she crossed nine foot by eleven and stopped at the near end, at the front of the bay, about four feet off the chain, with her hands loose at her sides and her weight even on both feet.
 
 The man at the front bench did not lift his thumb off the chain.
+
+He did not turn his head either, and he did not have to. Eleven years of a bay like that is eleven years of learning what a room sounds like from the inside, and she had known the sound of him saying nothing better than she knew the sound of him working, and this morning she was close enough to hear that he knew it too.
 
 "You are in my way."
 
@@ -58,6 +62,8 @@ The hour was the longest part of it.
 
 Standing still in a working bay is not the same as waiting. There is noise on nine sides of her and none of it is hers, and about twenty minutes in she found she had nothing to do with her hands and put one of them flat on the front of the bench, on the wood, in front of the chain, and then took it off again, and then put it back, and the man at the bench did not look down and did not stop.
 
+Cold comes off a stone floor and up through a boot, and it takes about a quarter of an hour to get through one and then stops and becomes a thing you are standing in. Her feet went from cold to not cold somewhere in the first half of it and she noticed the moment it happened, and after that the rest of the hour had no weather in it at all and only the length of it, which is the harder of the two.
+
 At about the half hour the girl of seventeen moved her weight from one foot to the other and put her sleeve back over her hand where it had gone up. Nobody spoke to her. At about the three quarters the reader turned a page without lifting his eyes off the wood, and the sound of it went along the bench and past her and was the only sound in that bay for a while.
 
 She stood the rest of it with her eyes about six feet ahead of her, and she did not stop at anybody's hands, and there were nine pairs of them and one pair of eyes, and the pair of eyes was on a man with a chain.
@@ -65,6 +71,8 @@ She stood the rest of it with her eyes about six feet ahead of her, and she did 
 At about the fifth hour she went back down the floor.
 
 She found it inside the first two lengths of it. It was not a large thing. It was the kind of thing that costs half a morning to put right and a whole morning to find, and it was going to sit on that bench until the morning, because the shed shut at the sixth.
+
+The particular trouble with a small fault is that nobody else in the bay can see it, and everybody in the bay would have said so. She went back over the two lengths twice with her hand on the wood and could not have named what was wrong, and both times she put her hand where it had been a moment before, which is not how a foreman's hand works, and both times she knew it was not.
 
 She left it where it was. She put her hand flat on the wood at the back of that bench, about four feet from the two of them, the way she has put it flat on that wood every working morning for a month.
 
@@ -78,9 +86,13 @@ The man at the front bench put his hand back on the chain and went along it to t
 
 She stayed at the back of that bench for the rest of the hour. She did not go to the doorway, and the sentence she has been carrying to that door since a spring that is gone did not get any nearer arriving, and nobody in that lane was ever going to arrive it for her.
 
+She worked out at the back of the bench what she had actually done, which was to put her hand flat on the wood, stand in front of her own bay, and be answered, and not one of those three is a thing a person could be shown having done. What she had instead was a room that had been hers for eleven years and had not given her any part of itself back this morning, and she was going to be at the back of it again by noon the next working day without a single person anywhere having had to do anything about that.
+
 ---
 
 When the shed shut at the sixth hour that chain came up off the stone and went back across the front of the bench, and his hand was on the third link of it, where it had been at the fourth hour, and the bay went cold in the way it went cold every working day of the year.
+
+A working shed at the sixth hour is a different place from the same shed at the fourth, and nobody has to do anything to make it one. The work stops first, and then the noise of the work stopping, and then about nine people find somewhere to stand that is not in a person's way, and the cold comes up off the floor all at once because there is no longer nine pairs of hands and nine pairs of feet keeping it off.
 
 The bracket came on at the seventh hour and put light along the far end of that floor, where the two of seventeen were sitting with about a hand's width of wood between them, and neither of them was looking at the other. At the near end there was a foreman's hand flat on the wood about four inches off a chain, and a piece of work on the bench that had not been looked at, and the board by the door with its paper on it, and the man at the front bench going out into the lane in the ordinary way with his hands in his pockets.
 

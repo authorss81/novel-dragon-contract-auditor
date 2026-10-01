@@ -16,6 +16,8 @@ He came up at about the fourth, four times a week for eleven years, and he came 
 
 Nobody on that floor said one word to him either way.
 
+A man who puts a bag down on a counter for eleven years has made the counter a place where he is expected, and a man who does not put it down has made it a place where he is not, and both of those are things the three women at the boards can be shown. He knew it. The shoulder to the room and the two hands on the strap were for that, and he had been doing it four times a week for about two months, and not one of the three of them ever looked up.
+
 The strap was not squared. He squares it. It has been squared every one of those four times a week for about two months, and there is nobody in that building who has ever seen him do it and no reason on earth that he should.
 
 Tamsin Rook noticed the strap. She noticed it the way she notices the twenty minutes, which is to say that she noticed it and then went on with what she was doing, and she was not going to say so out loud to anybody, and she had not decided to notice it, and she was not going to decide that either.
@@ -26,9 +28,13 @@ The room was an ordinary room with ordinary work in it and the work was done wel
 
 She had been at the end of the boards since the twenty minutes, which is a thing she has never been able to account for. Marn Ottery had been at the far end since the hour, and the clerk of about twenty-nine had her book open and her pen lying beside it. There is a stretch of about forty minutes in the middle of every morning in which the three of them say almost nothing to each other and get through more than they would get through talking.
 
+The two joined tables are deal and the boards are laid along them, and after eleven years the top of the wood at the working end has gone the pale colour wood goes where a forearm goes every morning, and the far end where the clerk sits has not, and the line between the two is about a foot from where a fourth pair of hands would have to go if four people were working there, which there are not.
+
 Nobody in that room was waiting for anything. That was the point of it, and it had been the point of it for eleven years. Four times the woman at the far end had said the shape of a thing out loud, and each of the four had taken about nine minutes and had cost the room the whole of the rest of that morning, and standing up, before the first of the four, she had told the floor that another one was not coming, and the floor had believed her, and eleven years had gone a long way past that.
 
 At about half past four the woman of twenty-four squared a stack of sheets that did not need squaring.
+
+She did it the way she does everything on the boards, with the heel of her hand and without looking down, and the edges came up true, and the stack went back where it had been, and about nine seconds went into a thing nobody wanted done.
 
 At about the quarter to five the woman of thirty-four put her hand flat on the boards.
 
@@ -56,15 +62,21 @@ She looked at the two of them for a moment longer, and the clerk of twenty-nine 
 
 She took the four flights down the way anybody takes a stair, which is fast at the top and slower in the middle, and she kept her hand on the rail the whole way without deciding to.
 
+Her hand went onto the rail on the way down and stayed there for the length of the first flight. Going down four flights of stone in a cold building, a hand finds the rail before the rest of the body has decided anything about a stair, and hers had been on it for about nine seconds before she noticed it was there, and she did not take it off until the turn above the ground floor.
+
 The building empties downward between the fifth and the sixth. There is a stretch of that stair about halfway down where the window is at the height of a man's chest and the light comes in level off the yard and lies along the treads in a long pale bar, and she came down through that bar and her own shadow went out ahead of her onto the wall and then went back up over her feet.
 
 She stopped on the turn above the ground floor. She was not tired. She stood there with her hand still on the rail while the boiler below her went through what it goes through, and she worked out that she had one of two things to do with the rest of that morning and that both of them were the same size.
+
+What the two of them were is not on any paper in this empire, and she worked out the pair of them standing on a half landing in about the time it takes a clerk of twenty-nine to write a line, and neither of them took her the length of the four flights she had just come down, and she went down the last of them at the rate she had gone up at the fourth hour.
 
 Then she went down the last flight and out of that building, and the door of it shut on its frame behind her, and at the bottom of four flights in a building where nobody had ever been told anything, she turned, and which way she turned is not on a piece of paper in this empire and was not going to be.
 
 The sixth hour was done without her.
 
 The case went in behind the boards at the sixth hour, on time, the way it goes in every working day of the year. The clerk of about twenty-nine wrote the line she writes with her own hand, and the line says the date and the hour and the number of sheets that came out of the case, and it says nothing whatever about who was standing at the boards.
+
+She wrote it in the ordinary way. The book is open to the page it is open to every working morning and the date goes at the head of the line and the hour goes under it and the number goes under that, and the nib is a nib and the ink is the ink, and in four years there has not been one word in it that was not the date or the hour or a number.
 
 What changed at the far end of those two tables was that her hands stopped once, long enough for the nib to leave a dot on the page, and then went on.
 
@@ -77,6 +89,8 @@ The door of that room stood open from about the fifth hour to about the sixth, a
 ---
 
 She came back in at about the seventh hour.
+
+Stone on stone carries up four flights and does not stop at three of them, so a person on it can be heard by somebody on the floor above with the door shut and by somebody on the floor below with the door open, and it is the same person either way and about nine minutes apart in the morning. Whatever had gone up while she was out of the building had gone on going up, and she came up through all of it, and the door was open when she got to it, and it had been open, on and off, for about two hours.
 
 She came in the way she had come in for eleven years, which is to say she came in and sat down at the end of the boards and put her hand flat on the wood, and she did not say one word about where she had been or how long she had been gone, and neither of the other two said one word about it, and the clerk of about twenty-nine did not look up then either.
 
