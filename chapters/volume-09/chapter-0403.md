@@ -8,7 +8,7 @@ It is the fourth day of the third week of the second month of the year after the
 
 ---
 
-The loading is done off a bench and off nothing else, and about nine men work at it, and the man who has been on the floor nineteen years has not moved the loading off the bench and has said once, to himself and to nobody at all, that he is not going to do it. Every load leaving the yard crosses to the building at the end of it and goes up on an arm, and the arms go up at the pace of a man carrying one thing who is not thinking about the stair, and the pace has been the same on every one of them for as long as anybody has been counting.
+Off the bench and off nothing else. The man who has been on the floor nineteen years has not moved the loading and has said once, to himself and to nobody at all, that he is not going to. Every load leaving the yard crosses to the building at the end of it and goes up on an arm, and the arms go up at the pace of a man carrying one thing who is not thinking about the stair, and the pace has been the same on every one of them for as long as anybody has been counting.
 
 The man who loads on that floor came past him at the bench with a bundle under each arm and stopped, which he does about once in a week, and put one of the bundles down on the boards.
 
