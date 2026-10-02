@@ -76,7 +76,7 @@ Nobody thanked her.
 
 The clerk of about twenty-nine sat down. She put her pen in the drawer on her own side, which is the end of the day for her, and it was the fifth hour and about twenty minutes, and she did not take it out again that week.
 
-There were two hours between the sentence and the sixth hour and both of them went on as hours do. Not one word was said in either of them about what had just happened at the far end of the boards, and the arrangement that had held for eleven years did not break and did not mend, and by the sixth hour it was a different arrangement and nobody working there had done one thing to make it different.
+There was the better part of an hour between the sentence and the sixth hour and it went on as hours do. Not one word was said in any of it about what had just happened at the far end of the boards, and the arrangement that had held for eleven years did not break and did not mend, and by the sixth hour it was a different arrangement and nobody working there had done one thing to make it different.
 
 "The number has been out loud in this room twice in eleven years," she said. "**It is out loud three times this morning, and you have just made the arithmetic of this floor a different number, and I want you to understand that I am the one who has to stand in it afterwards.**" She did not say thank you and she was not going to. "And the man who comes in on the second of the two days is going to look at the board tomorrow and see the same four items he saw yesterday and he is not going to know what the room is, and that is the thing you have spent."
 
