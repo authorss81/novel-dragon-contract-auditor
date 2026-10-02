@@ -2137,3 +2137,9 @@ One: an owed review of Volume 04's Batch 0005, four volumes on. Two, three and f
 ***The number this item takes is 211 and no existing item was renumbered because renumbering a ledger renumbers every cross-reference to it.*** `state/phase-ledger.json` still reads `phase-000-bootstrap`, one phase, status `planned`, and **carries no item counter at all**, which is item 171's standing and a controller file no phase may edit; the high-water mark was therefore taken from this file, where the highest heading on arrival was **Item 210**, and 184 through 210 are all live.
 
 **Four debts are outstanding and no pass in this repair touched them, and they are owed elsewhere and not here.**
+
+### Item 212 — this run was scoped to write chapters 0421 to 0425 and found them already repaired, so it wrote no prose
+
+**It opened no chapter for rewrite, wrote no new prose, and created no prompt.** `git log --oneline -- chapters/volume-09/chapter-042[1-9].md chapters/volume-09/chapter-0430.md` returns `5c360f9` above `93157fc novel: prose repair of chapter-0421 to chapter-0430`, and `git status --short` returns clean. Chapters 0421 to 0425 stand at 1693, 1849, 1786, 1650 and 1955 words of finished prose, byte-identical to the repaired tree. A fresh write of those five inside this run would have replaced repaired prose and broken the standing that no original line is replaced or removed, so the unmet fresh-write rule is recorded here for a later phase rather than satisfied by destroying work. Chapters 0426 to 0430 are a later phase's work and were not touched.
+
+***The number this item takes is 212 and no existing item was renumbered.*** The high-water mark on arrival was **Item 211**.
