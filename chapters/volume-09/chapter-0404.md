@@ -16,6 +16,8 @@ There is a nail in that four feet of wall about the height of his hand, and it i
 
 There is a nail in a wall in a rented room in this city and a man went before him and put it in and did not take it out, and that is the whole of the list, and the nail is the only item on it that a person did on purpose and then left.
 
+There are two chairs in the room and only one of them is in the middle of it. The other has been against the wall under the window since before he had the room and it belongs to nobody in it. The middle one was in the middle of the floor when he came in and it has not been moved once in two years, and he has never sat in it and never moved it, and it is the only object in the room he has not been able to account for, and there is no reason, and he has not looked for one.
+
 ---
 
 The woman who keeps the ground floor of that house came up at about the fifth hour with a lamp in one hand and a cloth over her arm, and she was not asked to bring either.
@@ -38,6 +40,8 @@ He did not look at it.
 
 "I have seen a man do it through a doorway and I have not asked him one word about it and I have not been asked one word about it by anybody. That is a thing I have been carrying for about nine years and I have never put it down anywhere, and there is nowhere in this empire to put it down, and that is why I am telling you and not anybody else." She put her hand flat on the table. "**A nail is the only thing in this business that somebody has put up and then never taken down, and you have been in that room long enough now that the nail is older than you are in it, and that is the way a thing is older than a person.**"
 
+That is the whole of what she came up with. She had kept it in a house with nobody to say it to and nowhere to lay it down, and it had got heavier without getting any bigger, and the reason she chose this week is that a woman who comes up about a lamp has a reason to be on the floor and a woman who comes up about a nail has not got one.
+
 ---
 
 He did not say anything for long enough that the cloth came off her arm and she had to fold it again.
@@ -48,10 +52,14 @@ He did not say anything for long enough that the cloth came off her arm and she 
 
 "I know that. I have known that for two years and I have told you in this room before that I had not asked you where you go and that I was not going to start, and I am not starting." She took the cloth off the table. "**He was a man who came in on the second of the two days and paid on the day and did not want a lamp, and there is nothing else about him, and I have just told you that there is nothing else about him out loud on a table in your own room and I would like it entered that I did it and not that anybody asked me.**"
 
+The order of it was the whole of the gift and it took him about four seconds to take in. A woman who is asked has to answer, and an answer is a thing that can be held against a person in a room afterwards, and she had come up and gone back down without once being put in a position she had not asked for, and nothing anywhere in this empire can record a woman who has not been asked, so the not asking left nothing behind it at all.
+
 ---
 
 She went back down and did not come up again that week.
 
 He did not go and look. There was nothing in that room to go and look at, and no paper on that table, and he has not wanted a pen in that room in about two years and did not want one by the sixth hour. He did not write the thing down, and there is nowhere in that room to write it down, and a thing said once out loud to a lamp cannot be unsaid by anybody including the person who said it.
+
+Between the sixth hour and the middle of the night the room did what the room does. The chair in the middle of the floor stayed in the middle of the floor. She took the folded cloth away with her on the way down, and he heard none of it because he was not listening for any of it, and nobody has ever come up the stair to ask him whether he heard them, and no form anywhere in this empire will let a person be asked about a cloth on a stair.
 
 **The four feet of wall is bare. The nail is in it, a common nail, driven in crooked, and nothing has ever hung on it and nothing is going to hang on it this week.** He is not thanked for the lamp and she is not thanked for coming up, and nobody has been sent for, and a woman stood in the middle of that floor at about the fifth hour and said the plainest thing anybody has put in front of him in eight years and then went back down, and there is no form anywhere for a thing said once in a rented room.

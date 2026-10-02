@@ -14,6 +14,8 @@ He is a courier. **He put the satchel on the boards, took a folded thing out of 
 
 A courier is a person who carries a thing and is not the person the thing is about and did not make it. **He could have been told what any of it was for and there is nowhere on that floor to tell him.** That is what a courier is for and it is why the trade has lasted as long as it has: he is cheap, he goes, nobody has to be shown anything, and if he were a party then the paper in that bag would have cost somebody a room to be served in. He has not asked her one thing in eleven years. He has set down on that counter more paper than the three of them have written between them, and he has never once asked what a thing was for, and he is not going to start.
 
+Eleven years on a stair and the stair has had one sound in it for the whole of them, and the sound is a man who is not going to stop halfway. Nobody at the top of those four flights has ever heard him count and nobody has ever asked him to and he has never offered, and the not offering is the whole of the trade from where he stands, which is on a stair in a building where he knows one floor and the name of the man who works at the far end of it.
+
 "You have still got that bag on," the clerk of about twenty-nine said, without raising her head.
 
 He took it off. He said nothing, which is what he says.
@@ -52,6 +54,12 @@ The clerk of about twenty-nine got up off her stool, which she does not do befor
 
 "I know which side I am standing on. I have known for eleven years and so have you, and the reason it has gone this long is that neither of us ever said it where the other one could hear it."
 
+The three of the four on the wall behind the counter can be accounted for, and the accounting is not difficult and has not changed in eleven years. Each of them has a name under it and a day of the week against it, and the day of the week has been the same one for as long as anybody working there can remember, and there is a person working there who could put her hand on any one of the three without looking up from the work.
+
+The fourth of the four has no name under it and no day against it and nobody has ever been able to give a reason for either, and every one of the three of them has spent eleven years going at the wall and getting nothing off it.
+
+It has never been claimed by one person and it has never been let go by one either. She said it out loud once to a man who came to a house in this street and never came to the floor, in a week that is gone, and Marn Ottery was in the room and did not hear a word of it, and neither of them has gone near it since, and the man who comes in on the second of the two days, who was in the building for the whole of the week when it was spoken, does not know it was said. It belongs to the floor. It has belonged there for eleven years and it is not hers and it is not the clerk's and it is not the man's, and none of the three of them has ever written it down anywhere.
+
 ---
 
 So she said it.
@@ -67,6 +75,8 @@ Nobody thanked her.
 ---
 
 The clerk of about twenty-nine sat down. She put her pen in the drawer on her own side, which is the end of the day for her, and it was the fifth hour and about twenty minutes, and she did not take it out again that week.
+
+There were two hours between the sentence and the sixth hour and both of them went on as hours do. Not one word was said in either of them about what had just happened at the far end of the boards, and the arrangement that had held for eleven years did not break and did not mend, and by the sixth hour it was a different arrangement and nobody working there had done one thing to make it different.
 
 "The number has been out loud in this room twice in eleven years," she said. "**It is out loud three times this morning, and you have just made the arithmetic of this floor a different number, and I want you to understand that I am the one who has to stand in it afterwards.**" She did not say thank you and she was not going to. "And the man who comes in on the second of the two days is going to look at the board tomorrow and see the same four items he saw yesterday and he is not going to know what the room is, and that is the thing you have spent."
 

@@ -10,6 +10,8 @@ It is the fourth day of the third week of the third month of the year after the 
 
 ---
 
+He has never argued with any part of a stair except the half of it in the middle, and the difference between letting yourself into a building and being in one is not a distance at all, and it is the whole of what a stair is, and he has gone up it about four times in eight volumes and has never once gone up it with anything in his hand.
+
 The woman of about forty-three who came in at about twenty to the hour put fourpence on the boards and put her hand out, and the clerk of twenty-four gave her a piece of paper out of a case under the near end of the counter.
 
 **Nothing was printed on it. That is the whole of what it is, and there is nothing on it to be wrong with, and the clerk did not ask her a thing and did not say one word about what it was for, and the woman did not say a word either and folded it in three and put it inside her coat and went down the four flights.**
@@ -17,6 +19,8 @@ The woman of about forty-three who came in at about twenty to the hour put fourp
 Nobody on that floor has ever asked that woman what it was for. There is no form in this empire in which a person may be told what a thing on a board is going to be used for, and so the not asking is not a courtesy, and the price of that paper was fourpence and the paper has no heading printed over it anywhere in the world.
 
 The woman of twenty-four did not look at the boards after the door had shut. She had been on that floor two years and she had watched about four hundred of those go out of it, and not one of them had ever been bought by a person doing what the rest of that counter does.
+
+There was nothing on her to read. No book under the arm, no bag, no folded thing held against the chest, nothing that anybody at the counter could have taken an interest in, and she went back down the way she had come, and whatever she had come up to put somewhere she had not put it in the building, and the clerk of twenty-four has never asked her why there was nothing, and the not asking is not a courtesy and has not been for two years.
 
 ---
 
@@ -29,6 +33,8 @@ He put nothing on the boards. He stood at the near end of them the way a man sta
 "You have told me three true things in a room this year and never once asked me a question."
 
 "That is not mine. I want that on the floor. **The not asking you is the third clerk's, and she did it first and she has been doing it for two years and she does not know that I know about it.**"
+
+He had not asked her one thing. He had not asked her about the box and he had not asked her about the case and he had not asked her what a blank was for, and he had climbed the whole of it, stood at the end of the boards for a quarter of an hour, and nothing came of the climb and had not put one question on it, and no form anywhere in this empire will enter a man not asking, so the not asking left nothing behind it and will not be there in any month to come.
 
 ---
 
@@ -44,9 +50,13 @@ Nobody said anything.
 
 He did not write it down. There was nothing to write it with and no paper on that counter except the ones the building sells, and he was not going to buy one for that.
 
+He had a room in this city and no pen in it in about two years, and a window in it with nothing at all in the middle, and a piece of paper had gone down four flights in a coat about ten minutes earlier, and he had not bought one. A man who will not buy a piece of paper has not decided anything about the piece of paper. He has only declined to be the person who fills one in.
+
 **He did not go and look. He has not gone and looked in eight volumes and he did not go and look at the fifth hour on the fourth day of the third week of the third month, and there is a room in this city with four feet of bare wall in it and a nail in that wall from a man who came before, and he is not going to go and look at that either.**
 
 He wanted the name. He has wanted it since before the fire, and there is a woman telling him on a counter that the size of the space where a name goes is not the size of his wanting, and that is the smallest true thing about it and the plainest sentence anybody has said to him in eight years. She is twenty-four, and she has been ready for two years, and she has no form for it and no date, and no colleague has told her what she is standing ready for.
+
+A heading is what turns a space into a column, and a column is a machine that can be asked things all day and does not mind the asking, and an unheaded space at the foot of a sheet is not a column at all and is not a form, and a man who has been carrying a name about for about two years has been carrying what is very nearly a form about with him and has never once read it as one.
 
 Nobody thanked her for saying it.
 

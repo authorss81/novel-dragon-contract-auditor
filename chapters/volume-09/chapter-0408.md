@@ -12,6 +12,8 @@ It is the fourth day of the fourth week of the third month of the year after the
 
 He came down with the rack at the fourth hour and there was a woman at the lock, and he did not stop, because in four years not one thing has come up that stone that a person at this end would have had any reason to stop for.
 
+Four years at the end of a passage a lock makes go in one direction only is four years of seeing the same people go past her and none of them stop, and she has learned every one of them by the way they carry a rack and by whether they have said anything, and she has not been told the name of a single one of them and has not wanted the name of a single one of them, and there is no form in this empire for a woman at a lock to be asked whether she would rather be told.
+
 "You are back on it."
 
 "I am back on it."
@@ -26,7 +28,11 @@ He came down with the rack at the fourth hour and there was a woman at the lock,
 
 "You know which sheet. That is a fact and I have had it for four years and you have never asked me one word about it and I have never asked you one word about what you did with it, and I have been up and down that stone four times a day the whole time." He stopped with the rack on his hip, which he has not done in four years. "**It came down and it went back up. Nobody has ever asked you about the going back up.** Not the clerk, not the man at the top of the stairs, not anybody else in that building, not me. And nobody has ever asked you about the coming down either, and the coming down is an ordinary afternoon and everybody in that building has a heading on nearly everything that moves in it. **The going back up is the half that has a person in it, and nobody has asked you about it, and there is no form in which they could.**"
 
+A man who has done a walk four times a day for four years does not know how long it is any more, and the stone does not get shorter and does not get colder in a week, and nothing comes to the top of it for him and nothing at the bottom of it is his. The trade has one rule in it and the rule is that he is not told what anything is, and it has never once been broken in either direction, which is a thing a man can say about very little.
+
 ---
+
+The one sheet has been riding up and down on the rack for longer than either of the two of them has worked at either end of the flags. A rack carrying one thing in each direction is a rack carrying a trade and not a quantity, and a man who cannot say what the single sheet is has no way of putting a number on it, and a woman who cannot say what becomes of it at the far end has no way of asking for it back, and neither of them has ever pretended to be able to do either of the two, and that is the whole of what four years of a lock and a rack has come to.
 
 "I was not going to ask you."
 
@@ -38,6 +44,10 @@ She did not ask him where it went back up to. She had not intended to and she di
 
 Then she stood at the lock for all four of the journeys that day, which she has not done since the spring, and there was nothing on the rack on any of them, and the number on the rack was one going up and one coming down, and the stone at the top end of those flags was as cold at the seventh hour on the fourth day of that week as it had been on the first.
 
+A number a person keeps in her head at a lock is not a figure and not a record and cannot be signed for and is not the second hand on anything, and if it went up the stone as a sheet it would arrive with a heading over it and a person to sign it and a place to put it, and it is not going to be put anywhere, and nobody took a decision about that. She counted, which she does, and every one of the four came back with the same figure on it, and the seventh hour will bring the same figure again.
+
 **A week in which nothing arrives is not a week in which anything has been withheld.** Those two are so close together that a person standing at a lock can lose a month in between them, and she lost most of one standing in the middle of the stone, and there was nobody at that end to notice that she had lost it and nobody at the far end of the same four hundred yards who would have been allowed to ask.
+
+The building she works in is off a road about nine miles from a lane this side of the city, and she has been on this side of the passage for four years and has never had any business in the room at the other end of the four hundred yards, and the rail in it is not on the work and never has been, and it is not hers, and she would not know what was standing on it if she did, and there is no form anywhere in this empire in which a person at a lock can be asked what is at the far end of her own floor.
 
 He did not carry anything past her. He did not stop. The rail at the other end had nothing on it, and it is not hers, and nobody has been in that room this week who had any business there.
