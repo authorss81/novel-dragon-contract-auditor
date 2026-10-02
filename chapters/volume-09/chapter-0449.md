@@ -68,4 +68,4 @@ She did not say it. She has not said it to Marn Ottery and she is not going to, 
 
 **Nobody on that floor has been thanked, nobody has been forgiven, nobody was sent for, and this week settled nothing. The box is four miles off in a room that nobody has opened and that does not need opening. A woman of twenty-four was at the near end of those boards at the fourth hour and she said nothing that is going to cost her, and she was not thanked for the nothing and there is no form in which she could be.**
 
-The room kept its order after the close. The sweep had been through and what it took left the boards lighter than they went in, and nobody stood at the far end afterwards, and the week asked nothing more of either of them.
+The room kept its order after the close. The sweep had been through and what was on the deal at the far end went with it, and nobody stood at the far end afterwards, and the week asked nothing more of either of them.

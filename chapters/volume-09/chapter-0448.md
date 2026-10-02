@@ -12,7 +12,7 @@ He stood it up on the table against the base of the wall, at the end nearest the
 
 **About four feet of wall beside that window has been bare for the whole of the two years and there is a nail in it that went in crooked and nothing has ever hung off the nail. The paper is not on the nail. It is standing on the table at the foot of that wall, and the wall is bare above it, and he has used the wall and not the paper for nothing, which is the whole of what he has done about it.**
 
-The bare stretch beside the window caught the morning light full on. The nail threw a short shadow across it, crooked as ever, and the paper stood below in the shadow's path.
+The face of it was still blank when the week ran out. The room went its ordinary round around it every working day and found nothing in it worth stopping for, and nobody squared it and nobody set anything else down beside it.
 
 ---
 

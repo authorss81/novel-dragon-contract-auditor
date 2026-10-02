@@ -14,7 +14,7 @@ He opened the door because he was going out, and there was a man on the step wit
 
 He said it in the ordinary way and he stayed on the step and he did not ask to come in, and Marek Kest moved about a foot sideways out of the way of the door, which was neither a welcome nor a keeping out, and the man came half of that and stopped, and neither of them said one word for about nine seconds.
 
-The man kept to the step and did not cross into the room, and neither of them closed the gap.
+The man on the step kept his face to Marek Kest and did not once look past him into the room, and the sheet did not move in his hand, and the open door stayed open for the whole of it.
 
 ---
 

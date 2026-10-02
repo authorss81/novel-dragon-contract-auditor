@@ -58,7 +58,7 @@ He said the price then, and he said it to the sill end of the boards and not to 
 
 He was right about that and neither of the two women at that counter found out whether it was right or wrong, and there is no form anywhere in this empire in which a person is entered as the one who said a true thing to two people who did not answer it.
 
-He said no more after the price was out. He kept his eyes on the boards at the sill end, and the morning went on around the three of them without anyone filling the pause.
+He said no more after the price was out. His eyes stayed on the boards at the sill end, and the morning went on around the three of them without anyone filling the pause.
 
 ---
 
@@ -72,7 +72,7 @@ He had put fourpence into the ordinary place at the near end before he went down
 
 **He is not going to fill that one in. He has no use for it and he is not going to find one in a year, and he bought it in the fourth hour of the fourth day of the third week of the last month of the year, and nobody at the top of that stair has been told any of that and nobody is going to be, and he is not going to be thanked for buying it and he is not going to be asked what it is for.**
 
-He got it inside his coat at the foot of the stair without stopping and without looking down at it. The fold stayed square where his palm had held it, and his hand went into the pocket after it and stayed there.
+He got it inside his coat at the foot of the stair without breaking his stride, and not once in all of that did he glance down at it. The fold stayed square where his palm had held it, and his hand went into the pocket after it and stayed there.
 
 ---
 
