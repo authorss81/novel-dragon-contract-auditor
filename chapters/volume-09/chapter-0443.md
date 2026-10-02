@@ -58,7 +58,7 @@ He put it on the floor against the wall that had nothing on it, on its side, the
 
 He put the key on the table, which is the only thing on the table in that room and has been for as long as that room has been let by the week, and he went back down two flights and out and about four miles, and nobody saw him go by and nobody saw him arrive and he was not thanked at either end of it.
 
-The table stood alone in the middle of the room, bare all round. He set the key down near the edge and left it square. The room was empty enough to swallow the noise, and it did.
+The table stood alone in the middle of the room. It took the sound of a man going out of it and gave none of it back, and nothing in there had been waiting on him and nothing in there was going to say so afterwards.
 
 ---
 

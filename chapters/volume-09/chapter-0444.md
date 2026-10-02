@@ -32,7 +32,7 @@ Then the man of about fifty-five said one thing, and he said it to the open side
 
 **Nobody asked him for a fifth sentence and nobody is going to, and nobody thanked him for the one he gave unprompted either, and there is no way anywhere in this empire of writing a man into a record as the one who spoke the truth at the seventh hour to a foreman who could do nothing with it.**
 
-The man kept his hands behind his back as he stood. He shifted his weight and then stood still again, and his eyes never left the open side.
+The one who had not come in kept his hands behind his back and shifted his weight once and then stood still again, and his eyes went on resting on the board by the door and he never once looked off it.
 
 ---
 
@@ -44,7 +44,7 @@ One of them got up. She did it without a word and without waiting to be told the
 
 The other one stayed where he was on the bench at the back and did not look round at her, and did not get up, and did not say anything, and that is the same as not being spoken to and neither of them is spoken to.
 
-The shed held the two of them without a sound. One stood before the board with arms held straight, and the other never looked round, and the space between them stayed empty.
+The shed held the two of them without a sound and neither one was the whole of the room. Four foot of floor stood open between the bench and the board, and nothing was ever going to be set down across it. It would be empty long after the lamp went out.
 
 ---
 

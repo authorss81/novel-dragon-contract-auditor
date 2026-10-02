@@ -58,7 +58,7 @@ He said it to the sill and not to a man, and it is the sort of thing he is right
 
 "You have not said a thing to me in two years and I have come up this stair about a hundred times in two years and there has not been one of them in it where either of us said a thing to anybody."
 
-They knew the passing by now, and each gave way without a word. One waited and the other went first, and the order never changed.
+The pot stayed where it stood and his hands came off the sill. The young man went on at his window, and neither of the two of them filled the quiet again.
 
 ---
 

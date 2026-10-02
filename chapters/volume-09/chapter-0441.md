@@ -72,7 +72,7 @@ He had put fourpence into the ordinary place at the near end before he went down
 
 **He is not going to fill that one in. He has no use for it and he is not going to find one in a year, and he bought it in the fourth hour of the fourth day of the third week of the last month of the year, and nobody at the top of that stair has been told any of that and nobody is going to be, and he is not going to be thanked for buying it and he is not going to be asked what it is for.**
 
-The fold held its line in his palm all the way down. His hand stayed shut on it past each landing, and when he reached the bottom he slipped it inside his coat without breaking stride.
+He got it inside his coat at the foot of the stair without stopping and without looking down at it. The fold stayed square where his palm had held it, and his hand went into the pocket after it and stayed there.
 
 ---
 
