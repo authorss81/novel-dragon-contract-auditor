@@ -16,6 +16,8 @@ She did not look up. **It was a form, and there was a heading printed over the t
 
 He said it the way he says the thing about the cold. He has said it to a counter that gave him nothing to say it to and nobody has ever asked him where it came back from.
 
+He left his hand on the strap where it was for about a second after he had let the paper go and then took the hand away, and nobody down the room looked at the hand or at him. He stayed where he was, which is what he does, and nothing in the building has ever been put in front of him and asked to be taken up again.
+
 ---
 
 **And the clerk of about twenty-nine did not say the thing she said in that room five weeks ago about a sheet with no column, and she had it ready, and she had had it ready since about the fourth hour, and she did not say it.**
@@ -42,6 +44,8 @@ Tamsin Rook was at the near end with her back to the case and both hands flat on
 
 Nobody thanked her for it. **Marn Ottery did not take it, did not answer it, and did not look round, and the clerk of about twenty-nine at the far end of the two joined tables wrote none of it down, and that is the second of those in about eleven weeks, and this empire has no form in which the one who stayed quiet can be entered as the one who stayed quiet.**
 
+She put her hands back where they had been and did not take them up again for the rest of the morning, and the nine foot of deal between the near end and the far end carried nothing at all said across it. She was not contradicted and she was not thanked, and those two were the whole of what the morning gave her, and nothing about it went out of the building afterwards in any form at all.
+
 "You are all going to be very quiet now," Marn Ottery said. "The two of you. There is a man standing at a counter and he is not one of us and he is not going to be in a room with a thing said in it, and there is not one blank in this building that could keep him out of it."
 
 ---
@@ -49,6 +53,8 @@ Nobody thanked her for it. **Marn Ottery did not take it, did not answer it, and
 The man from the yard took the satchel back onto his shoulder and went down the stair and did not take the form with him, and nobody stopped him, and nobody asked him one thing, and the form stayed where it had been put down.
 
 **She could have put it in the box.** About four hundred blanks are under the far end of those boards and about four hundred of them go out of the case at the near end every year, and one more piece of paper in that box would have cost nothing and would have taken about four seconds. She did not do it and the reason is not tidiness.
+
+About four seconds is what it takes to cross nine foot of deal with a hand out, and the box is under the far end of it, and the far end is not a reach away from the near end while a man is standing there. She had worked it out inside the first month and had never once acted on it, and nobody in the room had ever asked her whether she would.
 
 "A box is a supply and a blank is a supply and that is what a supply is for. **A thing that has been filled in and brought back is not a supply and a person who puts one in a box has done a thing on purpose in a room with two other people in it, and everything either of us has got in this building is that nobody can be shown doing anything on purpose.**"
 
@@ -59,6 +65,8 @@ The fourth item on the wall board behind her is in her own hand and it is about 
 "That is still the one none of us can do anything with."
 
 "It is the one none of us can do anything with and it has been there four years and it is not going to be a different thing this morning because there is a form on my boards that came back with nothing in it."
+
+It has been on the wall board about four years and it has not been rubbed out, and nobody has ever put it away and nobody has ever taken it off the board, and a thing which has been neither put away nor taken off a wall for four years cannot be picked up and carried by anybody in the room, and there is nowhere on the wall for it to go which would make it carryable.
 
 ---
 

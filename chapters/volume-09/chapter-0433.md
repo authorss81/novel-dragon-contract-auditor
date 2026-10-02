@@ -12,6 +12,8 @@ He wrote four lines out on the ninth of those mornings and they came out the sam
 
 The four lines go into a book that about nine hundred rooms come and go through over a year, and the book has a name on the cover of it and a date in the corner of every page, and there is nowhere on any of those pages for a thing that is not a sum.
 
+The week before this one went into the book in the same four places, and the four places are the four places. He had not added a column and had not taken one away, and no heading has ever been printed over a space in it which was not printed over the week before, and rooms come and go through a book of this kind in a year without any of them asking for anything else or being given anything else.
+
 **He has wanted the rest of a sentence for about two years.** A woman of fifty-one began it in a doorway in a week that is gone and got about nine words into it and stopped, and the nine words are on this page in his own hand, and the rest of it has not arrived in about two years and he has not asked and is not going to.
 
 ---
@@ -31,6 +33,8 @@ She put the bundle on the end of the bench and squared it, and she waited about 
 "I have not asked her for the rest of it."
 
 "Then it is not a thing anybody is owed, and I have known that for about three years and you have known it for two, and neither of us is going to be the one who says the other part of it."
+
+She waited about as long as she had waited and then she went, and she went the way she goes, which is down the stairs and out, and nobody else in the building has any part in what she carries up it every week. No thank you was said and none of it was waited for, and neither of them treated the other as though the other had done anything unusual, because neither of them had.
 
 ---
 
@@ -52,6 +56,8 @@ There is a man in this city who has nothing behind him at all. No office, no fun
 
 He put his pen down about a quarter of an hour before the six and looked at the four lines he had just written, and they were the same four lines.
 
+He did not pick the pen up again before she left, and what he had written stayed on the page where he had put it and was not read a second time by anybody. The bundle was still on the bench where she had squared it, and the high window was giving the same light it gives at the fourth hour, and nothing in the room had been moved while the two of them were saying what they said.
+
 "They are the same four lines," he said.
 
 "They are the same four lines every week, and I have been bringing them up here for about three years, and I am not going to be the one who says that out loud twice."
@@ -59,6 +65,8 @@ He put his pen down about a quarter of an hour before the six and looked at the 
 "You have said it out loud once."
 
 "Once is once and I am counting it."
+
+The bundle went down the stairs in her own arms at the hour it goes, and the bench stood empty behind her afterwards, and no two of the four lines had been moved since he wrote them. Nobody came back up to say anything about them and nobody has since, and the writing stays on the page for whoever comes in on the next working morning, which is a sentence about a book and not about anybody.
 
 ---
 

@@ -12,6 +12,8 @@ She is twenty. The wage of nineteen days of a crew's money is held in a coat fou
 
 A woman said a rule to her once, in a lane, in a week that is gone, and it has not been given to a third woman and it is not going to be given to one while she is alive, and she has not asked anybody anything since and nobody has asked her anything since, and one of the two of those is hers and the other one is not.
 
+Whoever said it to her is not anywhere in this building, and the saying of it cost the woman who said it what it cost the woman who heard it, and neither of them has put it anywhere since. It is carried in one person and in one other, and there is no third place it could be put, and a room where volumes are counted is not any kind of third place.
+
 ---
 
 The man from the front office came in at about the fourth hour with the cart list in his hand and he did not knock, because there is no door in that room worth knocking on.
@@ -38,6 +40,8 @@ A notice came down the dye end about two months ago and it is in that pocket now
 
 It has been clean for about two months. She has had it in a pocket through about two months of washes and it is clean and she has not put a mark in it and she has not asked anybody what the space is for and she is not going to, and there is a wage of nineteen days of a crew's money held against something about four miles off that she has not asked anybody the name of and is not going to and is not going up this river this season to find out.
 
+A printed ruled space with nothing in it is not a mistake and it is not an oversight, and a printed space which nobody has filled in is the ordinary condition of a printed space. Whatever the space is for, it was not made for what she has been doing with it, and a person who leaves one empty for two months is not doing anything a person could be shown doing.
+
 **A season is not a life. She has said that to herself about four times since she came and it has not got any less true and it is the only sentence she has got that is about all of it.**
 
 ---
@@ -52,7 +56,11 @@ It has been clean for about two months. She has had it in a pocket through about
 
 He took the list out of his hand and put it back in his pocket and did not write anything on it, and nobody at the front office signed for the sixteen of them and nobody signed for the fifteen, and there is no form anywhere for a person to be entered as the one who counted sixteen and said nothing about the sixteenth.
 
+The list in his pocket is not a document anybody could be produced for in a room. Nothing has ever been written on it. The interval it travels on has never once been shortened or lengthened by anybody and nobody has ever put in a request to have it. It goes up on the second day and it goes up on the second day after that, and nobody has ever asked whether the day could be a different one.
+
 The cart came up at the fourth hour on the second day and the man loaded fifteen of them and left the one with her own name on the shelf where it was, and he did not say anything about the one he left and she did not say anything about it either.
+
+The second cart came back empty as it was always going to and came down again later in the same week, and the stool was not taken out from under the shelves at any hour of either day, and the shelves stood about as high as they have always stood. She counted sixteen before he started loading and she counted them again afterwards, and nobody in the room was asked to confirm either count and nobody did.
 
 ---
 

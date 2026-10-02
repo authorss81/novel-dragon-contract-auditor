@@ -12,6 +12,8 @@ The one that came up about half way through that morning was not square with the
 
 The others have all been square for two years because the man who brings them squares them against the sill before he lets go of them, and this one was not square, and it was not square the way a thing is not square when it has been carried in a coat and not in a hand.
 
+Before it came up the morning had gone the way it goes. A bundle came, and he signed without lifting his eyes, and the eye went the length of the foot of each one and stopped at the space, and the pen went back and the next was squared against the edge and then the next one after that. Nobody spoke in the corridor at any hour of it. The sound the hand made was the same sound all morning and it was not a sound anybody in the building had ever stopped being able to hear.
+
 **There was nothing printed on the top of it.** He could not have told a man what was or was not on the top of it if a man had stood in that corridor and pointed at it, and he can see that a sheet is not the same width as the others, and he can see that this one was not folded.
 
 ---
@@ -41,6 +43,8 @@ The man of about twenty-six was at the top of the steps with the empty corner of
 "It came off the pallet the same as the others and there is a person's handwriting on it and it is about the width of the boards." He did not put the empty corner down. "**I did not carry that one up. I have carried about four a week up these stairs for two years and I have never once had a thing in my hands that I could not tell the day of.**"
 
 He was right about the day. He was wrong about the room and he was not going to be told he was wrong, and there is no form anywhere in this empire for a man to be entered as the one who was told he was wrong.
+
+The young man stood in the corridor with what was left of the bunch against him. He kept hold of it. He did not go back down them, he did not ask, nobody came up behind him and nobody sent him up. The rest of the morning went past with the two of them in it and not one word of it belongs to either of them afterwards, because a thing said in a corridor at the fourth hour has no document behind it and so it never happened in the only sense the word is used in on the floor.
 
 ---
 
@@ -78,6 +82,8 @@ Then, about the fifth hour, the man of about sixty-one put his palm flat on the 
 
 The reason is in it and the first three do not carry this one, because the first three were about what a thing wanted and this one is about what a man does with a morning where nothing does.
 
+Nobody in the building has asked him what the first three were, and nobody has asked him whether there were others before those. The pot has stood where it stands through the whole of it, filled by the same person, and never once on anybody's instruction. The ink is not a matter anybody has raised with him in nineteen years and the pot is not a thing on any list, and a thing which is on no list cannot be said to be short of anything.
+
 ---
 
 Nobody said anything else about it for the rest of that day and nobody said anything about it on any other day of that week.
@@ -85,6 +91,8 @@ Nobody said anything else about it for the rest of that day and nobody said anyt
 **Nothing was put in a book that week. There are two numbers that man of about sixty-one has carried for years and not one of them has been written down, confirmed, denied or asked for by anybody, and they are not in this chapter and he has not been asked about either of them. The nine miles is walked zero times.**
 
 About four men on the far side of that town cannot get the sense of a paragraph and none of them has ever been asked one thing by anybody. The man of about fifty-five with the chain is nine miles off in a shed and can read a paragraph and has never been one of those four.
+
+It lay where he had left it for the better part of two hours, and nothing was done with it, and no second sheet was put down on top of it, and nobody came back for it or asked after it in between. The hours that were left ran the length they always run there and went at the rate they always go at, and the sill was bare at the end of them except for what had been on it, and the only difference anybody could have said out loud afterwards was which one it was.
 
 ---
 

@@ -16,6 +16,8 @@ He has one of those two and has never had the other. **There is no form anywhere
 
 **The space at the foot of a sheet is the exact width of a name.** A woman told him that at a counter about six months ago, in the ordinary voice, and he did not buy a copy of anything that week and he is not going to buy one this week either, and there is no other counter he knows of that would sell him one.
 
+The counter where she said it does not sell anything he uses and he has not bought anything at it since, and he was not going to be this week either. Four feet of wall on one side of him and a window on the other, and nothing on the wall at any hour of any day of the two years, and the nail has been the only thing in the room that was ever put into it.
+
 ---
 
 Then a knock on the door, and it was not loud, and it was one knock and not two.
@@ -23,6 +25,8 @@ Then a knock on the door, and it was not loud, and it was one knock and not two.
 He was not expecting anybody. He has not been expecting anybody for about two years and has not been disappointed about it on any day of that time, and the arrangement of that is the only thing he has got and he is not going to break it by standing in a doorway.
 
 He opened the door because a door in that building has to be opened.
+
+It was about a second and a half before he had the door open, and the man on the step did not come in until the door was well open, and he stood in the gap for about the time it takes to be sure of a room. Nobody in the building had any reason to be on a step at the hour on a working afternoon, and there was no arrangement for it, and none had been made, and nobody was going to make one after the fact.
 
 ---
 
@@ -54,6 +58,8 @@ He held it in his hand the whole time he was in the room and he did not offer it
 
 Nobody confirmed it and nobody denied it and the number is not in this room and it is not in any of the ten of these weeks.
 
+The number was not written down anywhere, and it was not said out loud in the room after the other man had gone, and it did not go out of the room in a coat or in a pocket or in the hand of anybody. A number spoken in a room belongs to the room, and a number written down belongs to whoever finds the paper, and neither of those was open to him on an evening like that one.
+
 ---
 
 "I have it in about four words."
@@ -69,6 +75,8 @@ Marek Kest did not ask. That is the whole of what he did that evening and it too
 He could have asked. **A piece of paper with nothing printed on it would have gone on that table and would have been found by whoever took that room next, and there is a man in this matter he would want it to go to and he does not know where that man is and he is not going to be the one who makes him findable.** He has nothing behind him to be liable for and that is a price and not a virtue and it is the only thing about him that this matter has ever been able to use.
 
 So he did not put a paper on the table, and the nail stayed crooked in four feet of bare wall, and the four words stayed in the other man's mouth.
+
+He did not stand in the doorway and he did not go out after him. The nail stayed where it had been driven and nothing was hung on it, and the window went the colour of the house it looks at as the hour came on, and the cold came off behind the middle chair where it comes off every evening of the two years. None of that was done for anybody and none of it was going to be reported.
 
 ---
 

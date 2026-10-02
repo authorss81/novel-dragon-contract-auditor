@@ -12,11 +12,15 @@ It is the second day of the second week of the eleventh month of the year after 
 
 There is one thing on that shelf with a name at the foot of it and it is hers, and she put it there herself, on purpose, in a month that is gone. **It has never been finished and it was left unfinished on purpose, and she has read it about four hundred times without deciding which of the two it is.** No person in that building has ever been asked about it by anybody including her, and it is not printed here.
 
+About four feet of wall stands beside the shelf with nothing on it, nothing ever hung on it, nothing ever stood on it. Nobody in the building has ever been asked for the wall and nobody has ever offered it, and a wall with nothing on it is not something anybody could be shown wanting.
+
 ---
 
 The woman who keeps the minutes under her is about nineteen and has been in that room about a year and a half, and she is not on the rota and not on the list of clerks and there is a list of clerks in that building which she has seen and is not on, and that is the arrangement and not a complaint.
 
 The book came to her because it was lying open on the table on the morning she came in, and the woman of about fifty-three slid it over the wood and said nothing whatever about it, and it had belonged to her for about eighteen years at that point. **Neither of them has ever entered the change and neither of them is going to.**
+
+What the rota says and what the list of clerks says are two different documents and neither of them has ever had her on it, and she came in on neither and has never asked to be put on one of them, and the question of which of the two ought to have had her has never been put to anybody at all.
 
 ---
 
@@ -27,6 +31,8 @@ She came in at the third hour and put the book down open at the week's page and 
 One of them was the one there has always been. The other one was under it, and it was in her own hand, and it was about the four rooms off that passage, and it said which one of them it is that stands empty the way a room stands empty when the person in it is not a person in that building.
 
 She did not say she had written it and she did not say why.
+
+The page was squared when the book was put down and it was squared again after, and the second line was in the same hand as every other line in the book, and nobody said anything about how long it had been on the page. Nobody has ever been asked how long, and there is nobody in the room who could answer, and a question nobody puts cannot be shown to have been declined.
 
 ---
 
@@ -61,5 +67,7 @@ The woman of about fifty-three did not thank her. She did not tell her what to d
 **And the second line stayed on that page, and it is in that book now, and the woman of about fifty-three did not read it again that week and has not read it again since, and the woman of about nineteen has not added a third.**
 
 The window has no pane in it and has not had one for nineteen years and she has never once written in that book that the window wants one, and nobody in that building has ever asked to have it put in, and there is nobody in that building who could be shown that anybody had wanted one.
+
+About a foot wide is the whole of it, and the opening has been the same width for the whole of nineteen years, and in no weather at all has she written down what the light does in the room, because the book does not carry weather. The third chair against the wall is where nobody has sat since she came and it has not been moved since she came, and a chair which has not been moved has never once been put in front of anybody, and there is no list on which a chair appears anywhere.
 
 Nobody thanked her. Nobody sent for her. Nobody forgave her and nothing was resolved. The question on that shelf is still a question, it carries no full stop, its author is not going to be asked a second thing about it by anybody, and the four feet of wall beside that shelf was bare at the end of that morning and it was bare at the start of it.

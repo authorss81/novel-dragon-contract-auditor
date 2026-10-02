@@ -12,6 +12,8 @@ She was in at twenty minutes to the fifth, which is what she has done every work
 
 **What seventeen weeks has done to her is not a thing she did. It is that she has stopped saying things.** She said one in that room in the second week of the ninth month and she said one in the fourth week and she has said nothing in this one, and nobody has asked her for any of the three and nobody is going to, and the not being asked is the thing she has got and she has not lost it and she has not spent it.
 
+Nobody has ever told her which hour she ought to be in, and nobody has ever told her which hour she ought to go, and she has not asked either of them. There is no rota in the room, no list, and nothing over the counter but the wall board and the case. The counter shuts at the sixth hour whoever is standing at it, and it shut at the sixth hour on every working day before this one and will shut at it on the next one.
+
 ---
 
 Then the stair, and a man came up it at about the sixth hour and he had nothing in his hands.
@@ -19,6 +21,8 @@ Then the stair, and a man came up it at about the sixth hour and he had nothing 
 **It was the third time in his life he had come up those four flights and the stair has no door at the foot of it, and the stair was empty from the bottom landing to the top, and he did not knock on it, and he has never knocked on that stair.**
 
 He stood at the near end of the boards the way a man stands at the end of a counter he has no business at, for about the length of a sheet being squared, and nobody said one word to him.
+
+Nothing about him was entered anywhere while he stood there and nothing about him has been entered since, and there was no line on any sheet in the room and no space under a printed heading for him or for anything else which happened while he was on it. His hands were not looked at by the woman of twenty-four and Marn Ottery did not turn round and the clerk of about twenty-nine never lifted hers off the sheet, and the three of them gave him nothing but the standing room.
 
 **She put her hand flat on the boards about a foot from his and not touching them, the way she did in the third week of the third month, and she did not say anything, and he did not say anything, and there is no form anywhere in this empire for two people to be recorded as the ones who did not say anything in a room on a working afternoon.**
 
@@ -40,9 +44,13 @@ The clerk of about twenty-nine at the far end of the two joined tables had a she
 
 There were three people in that room and there had been four a quarter of an hour earlier, and the fourth had gone down four flights with nothing in his hands, and **nobody at the top of that stair has ever been told one thing about him and nobody in that building is going to be told and there is nobody in that building who could carry it if they were.**
 
+The clerk of about twenty-nine squared what was in front of her a second time and did not write on it, and Marn Ottery settled where she settles, and the woman of twenty-four stayed where she was. There is not one of the three who has anything to put in a book about the visit. There is no book on the floor, nobody has ever proposed one, and the proposal would have to be made by somebody who was in the room and nobody in the room is going to make it.
+
 ---
 
 **And the thing she did not do, and the reason, is the whole of the rest of that afternoon.** She did not say anything to Marn Ottery about the twenty minutes, and she did not say anything about a man coming up a stair, and she did not say anything about the case, and she did not decide anything at all, and the decision about whether she takes her colleague's judgment on a thing like this is not made and has not been made and is not going to be made this week or in any week of that year.
+
+She went on doing at the near end what she has always done there, at the rate she does it, and nothing in the room changed while she did it. The boards went up at the sixth hour and were shut; the case went in behind them. The sheets that had been on the boards were square when they went up the way they were square when they came down, and nothing was carried out of the room before they went up except what had been carried in.
 
 Nobody thanked anybody. Nobody was forgiven. Nobody was sent for and nothing was resolved, and the two people in their boxes are in their boxes and the form that put them there is not asked to be void by anybody.
 
