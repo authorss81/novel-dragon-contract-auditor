@@ -42,7 +42,7 @@ Tamsin Rook did not move and did not say anything and nobody asked her for a wor
 
 Then the stair, at about the fifth hour, and the man from the yard came up it with the satchel off the strap and the cold in the leather where it sits against a man's hip, and he put a folded thing on the boards the way he puts one there most days, and did not take the bag off his shoulder, and nobody on that floor has ever told him what is in it.
 
-A satchel that has been against a man's hip since before the frost has one place in it where the cold gets in and one place where it does not, and the place where it does not is the side that is against the man, and he has never once turned it round, and he tells the room where the cold is every morning, and nobody has ever once asked him to say so, and about the shape of a satchel is the whole of what anybody on the floor could ever be shown about what he carries.
+A satchel that has been against a man's hip since before the frost has the cold in one place in it and not in another, and he has never once turned it round, and he tells the room where the cold is every morning, and nobody has ever once asked him to say so, and about the shape of a satchel is the whole of what anybody on the floor could ever be shown about what he carries.
 
 "The cold is in it again," he said. "It is in the same place as always and it has not been out of it since the frost and I am telling you that because I tell you that."
 

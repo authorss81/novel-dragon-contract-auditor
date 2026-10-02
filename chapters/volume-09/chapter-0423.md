@@ -18,7 +18,7 @@ He had a stub of pencil behind his ear and he did not take it out until after he
 
 Six months ago he said a true thing in a room to two people, and one of them put it back to him about four days later and said he had made the same statement twice in front of two people, and he did not take it back. That is the whole of what he has ever done in a room and it is not going to be in a room again.
 
-The four were the reason he came up and nobody on the floor has ever told him he has to bring them, and they went back down under his arm in the same order they went up, and the one that was not folded square went down second and has gone down second every week for about two years, and which of the four it is has never once been known to anybody.
+The four were the reason he came up and nobody on the floor has ever told him he has to bring them, and they went back down under his arm in the same order they went up, and one of the four has gone down second every week for about two years, and which of the four it is has never once been known to anybody.
 
 ---
 
