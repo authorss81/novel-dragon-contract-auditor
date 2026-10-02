@@ -10,11 +10,11 @@ It is the second day of the second week of the ninth month of the year after the
 
 The rent goes out of a hand into a hand once a week, and it has gone out of a hand into a hand for about twenty years, and nothing is written anywhere and there has never been a piece of paper on that table in her life.
 
-A rent which goes up a stair in coin is a short piece of business, and it has been the same short piece of business for about twenty years, and not one hour of it has ever had to be hurried, and it is done in the ordinary voice and without one word of arrangement, and about four feet of far wall has been looked at while it was done and never once by anybody else.
-
-The lid shuts on most of it and not on one side of it, and a person who wanted it shut properly would have to turn the whole thing over, and nine years of coin put in by hand into a tin with a lid that will not shut is a thing nobody can see from the doorway, and nobody in the house has ever gone behind the boiler, and she is the only one who has, and she puts it back on the same way round every time, which takes longer than a working lid would.
+It is a short piece of business and not one hour of it has ever had to be hurried, and it is done in the ordinary voice and without one word of arrangement, and about four feet of far wall has been looked at while it was done and never once by anybody else.
 
 **There is a tin behind the boiler. It has been behind that boiler for about nine years and it is about the size of a loaf and it has a lid on it that does not shut the way it used to, and it has nine years of a man's rent in it in coin, and she has never counted it and there is no reason on earth to count it.**
+
+She puts it back on the same way round every time, and it takes longer than a working lid would, and none of it is a thing anybody can see from the doorway, and nobody in the house has ever gone behind the boiler and she is the only one who has.
 
 ---
 

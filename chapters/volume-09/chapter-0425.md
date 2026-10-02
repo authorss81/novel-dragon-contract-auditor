@@ -10,7 +10,7 @@ It is the fourth day of the third week of the eighth month of the year after the
 
 There is a leaf in the inside pocket of that coat and it has been there about two years. Somebody struck a name out of it in a hand that is not his mother's, and what belonged at the end of that line is the one thing he has wanted since before the fire, and he has the claim that would go with it no better than he has the name, and he has not opened it out on that table again since a week that is gone.
 
-The leaf has gone into the inside pocket of a coat and stayed in it for about two years, and it has been folded and unfolded and folded again until it has gone soft along the fold, and it has been in every room he has stood in since and it has not been out of the pocket once, and a piece of paper kept in a pocket is not a record of anything and cannot be put in front of anybody and is not lost either, and the pocket is the whole of it.
+It has been folded and unfolded and folded again until it has gone soft along the fold, and it has been in every room he has stood in since and it has not been out of the pocket once, and a piece of paper kept in a pocket is not a record of anything and cannot be put in front of anybody and is not lost either, and the pocket is the whole of it.
 
 A room taken by the week comes back the same every week and nobody sweeps it for him and nobody turns the bed, and there is a ring on the table that was in it in the first week, and about two years of one man's coat over the back of the chair is what a room like that has got in it, and the wall beside the window has had nothing on it for the whole of it.
 
