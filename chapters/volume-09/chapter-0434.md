@@ -16,7 +16,7 @@ He has one of those two and has never had the other. **There is no form anywhere
 
 **The space at the foot of a sheet is the exact width of a name.** A woman told him that at a counter about six months ago, in the ordinary voice, and he did not buy a copy of anything that week and he is not going to buy one this week either, and there is no other counter he knows of that would sell him one.
 
-The counter where she said it does not sell anything he uses and he has not bought anything at it since, and he was not going to be this week either. Four feet of wall on one side of him and a window on the other, and nothing on the wall at any hour of any day of the two years, and the nail has been the only thing in the room that was ever put into it.
+Four feet of wall on one side of him and a window on the other, and nothing on the wall at any hour of any day of the two years, and nothing has ever been driven into it but the nail.
 
 ---
 

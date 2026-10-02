@@ -44,7 +44,7 @@ Tamsin Rook was at the near end with her back to the case and both hands flat on
 
 Nobody thanked her for it. **Marn Ottery did not take it, did not answer it, and did not look round, and the clerk of about twenty-nine at the far end of the two joined tables wrote none of it down, and that is the second of those in about eleven weeks, and this empire has no form in which the one who stayed quiet can be entered as the one who stayed quiet.**
 
-She put her hands back where they had been and did not take them up again for the rest of the morning, and nothing was said across the nine foot of deal between the near end and the far end. She was not contradicted and she was not thanked, and those two were the whole of what the morning gave her, and nothing about it went out of the building afterwards in any form at all.
+She put her hands back where they had been and did not take them up again for the rest of the morning, and the far end of the boards did not take it up. She was not contradicted and she was not thanked, and those two were the whole of what the morning gave her, and nothing about it went out of the building afterwards in any form at all.
 
 "You are all going to be very quiet now," Marn Ottery said. "The two of you. There is a man standing at a counter and he is not one of us and he is not going to be in a room with a thing said in it, and there is not one blank in this building that could keep him out of it."
 

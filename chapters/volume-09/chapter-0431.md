@@ -12,7 +12,7 @@ The one that came up about half way through that morning was not square with the
 
 The others have all been square for two years because the man who brings them squares them against the sill before he lets go of them, and this one was not square, and it was not square the way a thing is not square when it has been carried in a coat and not in a hand.
 
-Before it came up the morning had gone the way it goes. A bundle came, and he signed without lifting his eyes, and the eye went the length of the foot of each one and stopped at the space, and the pen went back and the next was squared against the edge and then the next one after that. Nobody spoke in the corridor at any hour of it. The sound the hand made was the same sound all morning and it was not a sound anybody in the building had ever stopped being able to hear.
+Before it came up the morning had gone the way it goes and not one word had been said in the corridor. A bundle came, and he signed without lifting his eyes, and the eye went the length of the foot of each one and stopped at the space, and the pen went back and the next was squared against the edge and then the next one after that. The sound the hand made was the same sound all morning and it was not a sound anybody in the building had ever stopped being able to hear.
 
 **There was nothing printed on the top of it.** He could not have told a man what was or was not on the top of it if a man had stood in that corridor and pointed at it, and he can see that a sheet is not the same width as the others, and he can see that this one was not folded.
 

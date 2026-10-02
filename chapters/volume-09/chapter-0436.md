@@ -32,7 +32,7 @@ One of them was the one there has always been. The other one was under it, and i
 
 She did not say she had written it and she did not say why.
 
-The page was squared when the book was put down and it was squared again after, and the second line was in the same hand as every other line in the book, and nobody said anything about how long it had been on the page. Nobody has ever been asked how long, and nobody in the room could answer, and a question nobody puts cannot be shown to have been declined.
+The page was squared when the book was put down and it was squared again after, and nobody said anything about how long it had been on the page. Nobody has ever been asked how long, and nobody in the room could answer, and a question nobody puts cannot be shown to have been declined.
 
 ---
 

@@ -34,7 +34,7 @@ She put the bundle on the end of the bench and squared it, and she waited about 
 
 "Then it is not a thing anybody is owed, and I have known that for about three years and you have known it for two, and neither of us is going to be the one who says the other part of it."
 
-She waited about as long as she had waited and then she went, and she went the way she goes, which is down the stairs and out, and nobody else in the building has any part in what she carries up it every week. No thank you was said and none of it was waited for, and neither of them treated the other as though the other had done anything unusual, because neither of them had.
+She waited about as long as she had waited and then she stopped, and she goes the way she goes, which is down the stairs and out, and nobody else in the building has any part in what she carries up it every week. No thank you was said and none of it was waited for, and neither of them treated the other as though the other had done anything unusual, because neither of them had.
 
 ---
 
@@ -56,7 +56,7 @@ There is a man in this city who has nothing behind him at all. No office, no fun
 
 He put his pen down about a quarter of an hour before the six and looked at the four lines he had just written, and they were the same four lines.
 
-He did not pick the pen up again before she left, and what he had written stayed on the page where he had put it and was not read a second time by anybody. The bundle was still on the bench where she had squared it, and the high window was giving the same light it gives at the fourth hour, and nothing in the room had been moved while the two of them were saying what they said.
+He did not pick the pen up again before she left, and what he had written stayed on the page where he had put it and was not read a second time by anybody. The bundle was still on the bench where she had squared it, and nothing in the room had been moved while the two of them were saying what they said.
 
 "They are the same four lines," he said.
 
