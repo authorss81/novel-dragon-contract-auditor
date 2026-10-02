@@ -76,7 +76,7 @@ He could have asked. **A piece of paper with nothing printed on it would have go
 
 So he did not put a paper on the table, and the nail stayed crooked in four feet of bare wall, and the four words stayed in the other man's mouth.
 
-He did not stand in the doorway and he did not go out after him. The nail stayed where it had been driven and nothing was hung on it, and the window went the colour of the house it looks at as the hour came on, and the cold came off behind the middle chair where it comes off every evening of the two years. None of that was done for anybody and none of it was going to be reported.
+He stayed off the threshold and did not go out after him. The nail stayed where it had been driven and nothing was hung on it, and the window went the colour of the house it looks at as the hour came on, and the cold came off behind the middle chair where it comes off every evening of the two years. None of that was done for anybody and none of it was going to be reported.
 
 ---
 

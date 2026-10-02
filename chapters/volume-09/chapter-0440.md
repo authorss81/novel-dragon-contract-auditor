@@ -22,7 +22,7 @@ Then the stair, and a man came up it at about the sixth hour and he had nothing 
 
 He stood at the near end of the boards the way a man stands at the end of a counter he has no business at, for about the length of a sheet being squared, and nobody said one word to him.
 
-Nothing about him was entered anywhere while he stood there and nothing about him has been entered since, and there was no line on any sheet in the room and no space under a printed heading for him or for anything else which happened while he was on it. His hands were not looked at by the woman of twenty-four and Marn Ottery did not turn round and the clerk of about twenty-nine never lifted hers off the sheet, and the three of them gave him nothing but the standing room.
+Nothing about him was entered anywhere while he stood there and nothing about him has been entered since, and there was no line on any sheet in the room and no space under a printed heading for him or for anything else which happened while he was on it. His hands were not looked at by the woman of twenty-four, the far end of the boards kept its back to him, and the clerk of about twenty-nine never once lifted hers off the sheet, and the three of them gave him nothing but the standing room.
 
 **She put her hand flat on the boards about a foot from his and not touching them, the way she did in the third week of the third month, and she did not say anything, and he did not say anything, and there is no form anywhere in this empire for two people to be recorded as the ones who did not say anything in a room on a working afternoon.**
 

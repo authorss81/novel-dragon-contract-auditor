@@ -12,7 +12,7 @@ He had come up that stair a month ago with nothing in his hands, put fourpence o
 
 Nobody asked him what it was for. Nobody thanked him. He said two sentences out loud into a room that had given him nothing to say them to and neither of them was picked up, and he folded the sheet in three and buttoned the coat over it and went down.
 
-The four came up the flights with the rest of the week's work and were put down in the order they had been carried, and the order has never once mattered to anybody on the floor, and nobody there could tell you which of the four went down the steps first. What is at the foot of each one is a space, and the space takes the hand and not the eye, and a man who cannot get the sense of a paragraph has never been asked to get one out of any of them.
+The four came up the flights with the rest of the week's work and were put down in the order they had been carried, and the order has never once mattered to anybody on the floor and nobody on the floor could say which of the four went down the steps first. What is at the foot of each one is a space, and the space takes the hand and not the eye, and a man who cannot get the sense of a paragraph has never been asked to get one out of any of them.
 
 **He has not been asked about it since and he has not been thanked for it since and he has not once taken it out.**
 
@@ -38,7 +38,7 @@ The man of about sixty-one signed the third one and the fourth one and the hand 
 
 "You have not been up here in a month because there is nothing on that case to buy."
 
-Nobody in the corridor was waiting on either of them and nobody came up behind the young man while he stood there, and the bundles which came up in between were put down and signed and squared and sent back down again without either of the two of them being asked to move out of the way. There is no rule anywhere about how long a man may stand at a sill, and no one has ever written one down, and nobody would know what to do with one if it were written this week.
+Nobody in the corridor was waiting on either of them and nobody came up behind the young man while he stood there, and the bundles which came up in between were put down and signed and squared and sent back down again without either of the two of them being asked to move out of the way. There is no rule anywhere about how long a man may stand at a sill, and no one has ever written one down, and nobody would have known what to do with one if it were written this week.
 
 ---
 
@@ -62,7 +62,7 @@ The man of about sixty-one put the pen back in the pot and squared the four agai
 
 "I have not asked you for anything and I am not going to, and I have been carrying a thing in a coat for a month and the price of carrying it is that I cannot put it down anywhere, and I would rather pay that than have you know what is in it, and you cannot read a paragraph and I would rather be safe than sorry."
 
-And it went on being the same trade the week after that and the week after that one. He went up with the four and put the four down and took the four down again, and the coat stayed on him the way a coat stays on a man who has somewhere to be after it, and not one journey of them carried anything anybody would have found by opening it, and nobody in the building has ever had a reason to open it.
+And it went on being the same trade the week after that and the week after that one. He went up with the four and put the four down and took the four down again, and the coat stayed on him the way a coat stays on a man who has somewhere to be after it, and not one journey of them carried anything anybody would have found by opening it, and nobody has ever so much as asked about it.
 
 ---
 

@@ -12,7 +12,7 @@ He said four sentences here in the second week of the fifth month and he gave th
 
 Two of them are at the back of that shed. They have been at the back of that shed for as long as he has been in it, and nobody has said one word to either of them this morning, and they are not named anywhere in this matter and they are not going to be named this week.
 
-They have not been looked at since they were put back there, and they have not been covered and nothing has been stood in front of them, and the back of a shed is not a place anybody goes without a reason, and there has never been a reason given for going there. Nobody in the lane has asked what is at the back and nobody has asked how long it has been there, and the man at the front has not been asked either.
+They have not been looked at since they were put back there, and they have not been covered and nothing has been stood in front of them, and the back of a shed is not a place anybody goes without a reason, and no reason has ever been given for going there. Nobody in the lane has asked what is at the back and nobody has asked how long it has been there, and the man at the front has not been asked either.
 
 ---
 
@@ -26,7 +26,7 @@ She came up the lane at about the fourth hour to open the shed and she is fifty-
 
 "It has not got any lighter and I did not expect it to and I have not got anything for you this week and I am not going to have anything by the end of the month either."
 
-The light off the lane came in past the open side and reached about as far as the middle of the floor and no further, and he worked in what the light reached and she worked where she worked, and neither of them went to the back of it. Nothing was carried out of the shed in the hour before she came and nothing was carried in afterwards, and the front bench was not made up at either end of the hour.
+The light off the lane came past the open side and reached about the middle of the floor and no further, and he worked in what the light reached and she worked where she worked, and neither of them went behind it. Nothing was carried out of the shed in the hour before she came and nothing was carried in afterwards, and the front bench was not made up at either end of the hour.
 
 ---
 
@@ -54,7 +54,7 @@ Then she said it on the way out, at the open side, with her back half turned, an
 
 He said nothing to that and she did not wait and nobody thanked her for it.
 
-She did not wait for anything and she went out to the lane, and whatever a lane does with a thing said over its shoulder is not a thing anybody in it has ever been shown doing. The shed was as it was an hour earlier and as it was an hour later, and the man on the bench did not get up and did not turn his head and said nothing else in it.
+She did not wait for anything and she went out to the lane, and whatever a lane does with a thing said over its shoulder is not a thing anybody in it has ever been shown doing. The shed was as it was an hour earlier and as it was an hour later, and the man on the bench stayed where he was, did not turn his head, and said nothing else in it.
 
 ---
 

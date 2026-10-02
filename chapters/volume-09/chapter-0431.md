@@ -44,7 +44,7 @@ The man of about twenty-six was at the top of the steps with the empty corner of
 
 He was right about the day. He was wrong about the room and he was not going to be told he was wrong, and there is no form anywhere in this empire for a man to be entered as the one who was told he was wrong.
 
-The young man stood in the corridor with what was left of the bunch against him. He kept hold of it. He did not go back down them, he did not ask, nobody came up behind him and nobody sent him up. The rest of the morning went past with the two of them in it and not one word of it belongs to either of them afterwards, because a thing said in a corridor at the fourth hour has no document behind it and so it never happened in the only sense the word is used in on the floor.
+The young man stood in the corridor with what was left of the bunch against him. He kept hold of it. He did not go back down them, he did not ask, nobody came up behind him and nobody sent him up. The rest of the morning went past with the two of them inside it and not one word of it belongs to either of them afterwards, because a thing said in a corridor at the fourth hour has no document behind it and so it never happened in the only sense the word is used in on the floor.
 
 ---
 

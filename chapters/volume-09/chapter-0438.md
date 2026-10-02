@@ -12,7 +12,7 @@ She is twenty. The wage of nineteen days of a crew's money is held in a coat fou
 
 A woman said a rule to her once, in a lane, in a week that is gone, and it has not been given to a third woman and it is not going to be given to one while she is alive, and she has not asked anybody anything since and nobody has asked her anything since, and one of the two of those is hers and the other one is not.
 
-Whoever said it to her is not anywhere in this building, and the saying of it cost the woman who said it what it cost the woman who heard it, and neither of them has put it anywhere since. It is carried in one person and in one other, and there is no third place it could be put, and a room where volumes are counted is not any kind of third place.
+Whoever said it to her is not anywhere in this building, and the saying of it cost the woman who said it what it cost the woman who heard it, and not one of the two has put it anywhere since. It is carried in one person and in one other, and there is no third place it could be put, and a room where volumes are counted is not any kind of third place.
 
 ---
 
@@ -56,7 +56,7 @@ A printed ruled space with nothing in it is not a mistake and it is not an overs
 
 He took the list out of his hand and put it back in his pocket and did not write anything on it, and nobody at the front office signed for the sixteen of them and nobody signed for the fifteen, and there is no form anywhere for a person to be entered as the one who counted sixteen and said nothing about the sixteenth.
 
-The list in his pocket is not a document anybody could be produced for in a room. Nothing has ever been written on it. The interval it travels on has never once been shortened or lengthened by anybody and nobody has ever put in a request to have it. It goes up on the second day and it goes up on the second day after that, and nobody has ever asked whether the day could be a different one.
+The list in his pocket is not a document anybody could be produced for in a room, and it has never had a word put on it. The interval it travels on has never once been shortened or lengthened by anybody and nobody has ever put in a request to have it. It goes up on the second day and it goes up on the second day after that, and nobody has ever asked whether the day could be a different one.
 
 The cart came up at the fourth hour on the second day and the man loaded fifteen of them and left the one with her own name on the shelf where it was, and he did not say anything about the one he left and she did not say anything about it either.
 

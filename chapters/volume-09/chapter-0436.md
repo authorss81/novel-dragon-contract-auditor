@@ -20,7 +20,7 @@ The woman who keeps the minutes under her is about nineteen and has been in that
 
 The book came to her because it was lying open on the table on the morning she came in, and the woman of about fifty-three slid it over the wood and said nothing whatever about it, and it had belonged to her for about eighteen years at that point. **Neither of them has ever entered the change and neither of them is going to.**
 
-What the rota says and what the list of clerks says are two different documents and neither of them has ever had her on it, and she came in on neither and has never asked to be put on one of them, and the question of which of the two ought to have had her has never been put to anybody at all.
+What the rota says and what the list of clerks says are two different documents, and she is on neither of them, and she came in on neither and has never asked to be put on one of them, and the question of which of the two ought to have had her has never been put to anybody at all.
 
 ---
 
@@ -32,7 +32,7 @@ One of them was the one there has always been. The other one was under it, and i
 
 She did not say she had written it and she did not say why.
 
-The page was squared when the book was put down and it was squared again after, and the second line was in the same hand as every other line in the book, and nobody said anything about how long it had been on the page. Nobody has ever been asked how long, and there is nobody in the room who could answer, and a question nobody puts cannot be shown to have been declined.
+The page was squared when the book was put down and it was squared again after, and the second line was in the same hand as every other line in the book, and nobody said anything about how long it had been on the page. Nobody has ever been asked how long, and nobody in the room could answer, and a question nobody puts cannot be shown to have been declined.
 
 ---
 
