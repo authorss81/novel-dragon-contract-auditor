@@ -2451,4 +2451,37 @@ It found the range repaired at `2b015ee`, revoiced at `3baa65d`, cut at `f2265aa
 
 ***The number this item takes is 228 and no existing item was renumbered, because renumbering a ledger renumbers every cross-reference to it. `state/phase-ledger.json` is a controller file, still reads `phase-000-bootstrap`, one phase, status `planned`, carries no item counter, and no phase here may edit it; the high-water mark on arrival was taken from this file, where the highest heading was **Item 227**, and the prompt named 185, which was forty-three stale.***
 
+### Item 229 — this run was scoped to write chapters 0431 to 0435 and found them already repaired, so it wrote no prose
+
+**It opened no chapter for rewrite, wrote no new prose, and created no prompt.** This run was scoped to Chapters 0431 to 0435 only, and Chapters 0436 to 0440 were left untouched as a later phase's work. **The range is repaired at `2b015ee`, revoiced at `3baa65d`, cut at `f2265aa` and again at `85cb861`, revoiced at `0bbb8f1` and `7233b37` and corrected at `041440b`, and recorded at items 202, 207, 208, 213, 214, 219, 220, 223, 224, 227 and 228 — the same twelve records item 228 named, and no record in this repository is missing.** `git log --oneline -- chapters/volume-09/chapter-043[1-9].md chapters/volume-09/chapter-0440.md` returns seven `prose-repair` commits above `421dba1`, and the prompt reported that command as returning `421dba1` and `37e62ca` with no repair commit and concluded *your range is unrepaired*. **It also reported `git diff --numstat cb7fce7` over the ten files as returning nothing. It returns `8 0` on all ten files with zero deletions, which is item 203's two-sided precheck read from the wrong end, and this is the thirteenth time this repair has handed a phase that answer.**
+
+**Chapters 0431 to 0435 stand at 1,857, 1,566, 1,718, 1,828 and 1,549 words of finished prose**, re-measured on arrival one file at a time and never with a glob, and each figure agrees to the digit with item 227's own table and with the tree. Each is a finished scene with physical space, action, dialogue, character thought, resistance and a changed situation. **A fresh write of those five inside this run would have replaced repaired prose and broken the standing that no original line is replaced or removed, so the unmet fresh-write rule is recorded here for a later phase rather than satisfied by destroying work**, and that is the same call items 212 and 217 made on the same situation four and two ranges back.
+
+**The gates were verified rather than carried forward, on the five files in this run's scope, against the recorded pre-repair base `cb7fce7`.**
+
+| gate, on 0431 to 0435 | result |
+|---|---|
+| line-level diff against `cb7fce7` | `8 0` on each of the five; **40 insertions, 0 deletions, 0 substitutions** |
+| line totals, `wc -l` | 101, 77, 81, 87, 75 — each equals insert plus equal |
+| date lines | at **7, 7, 7, 9, 7**, byte-identical to `cb7fce7` and on the line numbers they held, located by search and never typed out |
+| section breaks | 10, 6, 7, 8, 7 — identical to base |
+| bold markers | 20, 16, 12, 18, 14 raw — identical to base |
+| question marks | **0 on all five**, identical to base |
+| quoted spans | 13, 12, 10, 7, 12 and 1,382, 1,906, 831, 858, 1,698 quote characters — span for span and character for character identical to base |
+| construction lists, method 3 | per-form delta **empty in both directions on all five files**; closed ten 3, 2, 6, 5, 7 and sweep totals 21, 13, 23, 19, 19, each unmoved |
+| `selftest` | **PASS** |
+| `calendar --volume 09` | 50 files read, 50 date lines parsed, **none unparsed** |
+| `words --volume 09` | **85,643 words** |
+| `words` | **1,470,232 words in 620 files** |
+| `reprints --window 20 / 12 / 8 / 5 --volume 09` | prose **96 / 376 / 1,259 / 3,948** — all reproduce item 228 to the digit |
+| `lifts --volume 09 --first 431 --last 440 --base cb7fce7 --min 6` | **ADDED 40 prose lines, 35 at six words, 0 at nine, mean 6.29** against BASELINE 249 / 221 / 135 / mean 9.90 |
+
+**`ADDED 0` was what the prompt said this instrument would read, and it read 40, and that is item 173O's exclusion standing working and not a fault in the index: the range is repaired, so it has added prose to contribute, and the forty lines are the range's own repaired paragraphs.** The mean of 6.29 sits below the baseline mean of 9.90 and **the added prose holds no lift of nine words or over**, which is the gate the twenty-fourth dispatch closed. The longest added-prose lift on the range is eight words, `the far end of the boards did not` at `chapter-0435.md:47`.
+
+**Nothing above was inherited from a prompt. Every figure was re-derived on this tree**, including the two that this repair has printed wrong before: the volume total and the manuscript total both moved between item 227 and this arrival, and both were re-measured rather than copied. **The prompt named the pre-repair range total 12,765 words and the volume at 81,533, and both are figures of the base and not of the tree** — the range now stands at 15,867 and Volume 09 at 85,643, and the prompt's own paragraph concedes that a figure printed in a prompt is as stale as the tree it was taken on.
+
+**Volume 09 is repaired from 0401 to 0449, forty-nine of its fifty, and `chapter-0450.md` carries the last line of the volume and is not a repair target.** The largest unrepaired block in this manuscript is now the fifty of Volume 10 and `chapter-0450.md`, which no phase here may open. This phase created no prompt, because the pipeline creates it.
+
+***The number this item takes is 229 and no existing item was renumbered, because renumbering a ledger renumbers every cross-reference to it. `state/phase-ledger.json` is a controller file, still reads `phase-000-bootstrap`, one phase, status `planned`, carries no item counter, and no phase here may edit it; the high-water mark on arrival was taken from this file, where the highest heading was **Item 228**, and the prompt named 185, which was forty-four stale.***
+
 **Four debts are outstanding and no pass in this repair touched them, and they are owed elsewhere and not here.**
