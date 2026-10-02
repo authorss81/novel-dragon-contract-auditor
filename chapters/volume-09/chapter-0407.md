@@ -20,7 +20,7 @@ Nobody on that floor has ever asked that woman what it was for. There is no form
 
 The woman of twenty-four did not look at the boards after the door had shut. She had been on that floor two years and she had watched about four hundred of those go out of it, and not one of them had ever been bought by a person doing what the rest of that counter does.
 
-There was nothing on her to read. No book under the arm, no bag, no folded thing held against the chest, nothing that anybody at the counter could have taken an interest in, and she went back down the way she had come, and whatever she had come up to put somewhere she had not put it in the building, and the clerk of twenty-four has never asked her why there was nothing, and the not asking is not a courtesy and has not been for two years.
+There was nothing on her to read. No book under the arm, no bag, no folded thing held against the chest, nothing that anybody at the counter could have taken an interest in, and she went back down the way she had come, and whatever she had come up to put somewhere she had not put it in the building, and the clerk of twenty-four has never asked her why there was nothing, and none of the two of them has ever called it a courtesy, and it has not been one for two years.
 
 ---
 

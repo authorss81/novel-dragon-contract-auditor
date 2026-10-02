@@ -8,7 +8,7 @@ It is the second day of the second week of the fourth month of the year after th
 
 ---
 
-Nobody working there has ever watched the older of the two women open either of the two things in the drawer, and she has not offered and has not been asked, and no form anywhere in this empire will require a person to account for what is in a drawer she did not put there, and she has been the oldest person on the floor for eleven years and has never once been asked to hand anything over to anybody.
+Nobody working there has ever watched the older of the two women open either of the two unopened things in the drawer, and she has not offered and has not been asked, and no form anywhere in this empire will require a person to account for what is in a drawer she did not put there, and she has been the oldest person on the floor for eleven years and has never once been asked to hand anything over to anybody.
 
 A woman of about thirty-eight came in at about half past the third hour and put fourpence on the boards and the clerk of twenty-four gave her a piece of paper with nothing printed on it out of the case at the near end, and the woman folded it in three and put it inside her coat and went down the four flights.
 
