@@ -12,9 +12,15 @@ It is the fourth day of the fourth week of the fifth month of the year after the
 
 **She has knocked on that door twice in eleven years.** One of the two was a stove of his that went out about nine years ago, and she did not go in, and that was a decision she made and has not revised. The other was a sheet lying on the floor of his hall in a week that is gone, and she knocked once, and she said out loud in the rain that she would not knock twice, and she has not. Nobody has thanked her for either of the two, and there is no form anywhere in this empire for the person who knocks, and there never has been one.
 
+A full week on the shelf is four rooms and a complete set of four headings for each of them with the four of them paid, and she knows which kind of week it is by the weight of it when she takes the book down, and a bad week is the same four rooms with one of the four headings left standing at the foot of a page for months. She has never once written a reason in the space under a name. There are four of them standing empty in the book at this hour, and three have been standing there since before the girl at the back came for her second season.
+
 He came in off the lane at about the fourth hour and he was not wet, which meant he had come a way that had cost him thought rather than weather. **He is about thirty-four and he is paid for a fair hand, and a fair hand is the whole of what he is on any list for, and he copies out other men's figures until two sets of them come out even.** **He was not on anybody's list today.** He is on one four days a season and this was not one of the four, and she knows the shape of his week the way she knows the shape of her own shelves, and she had never once said so.
 
+She has never once been standing at the counter on one of his four days, and she has not arranged it either, and there have been a small number of mornings in eleven years when she could not avoid it and she has never kept a count of them, and the not counting is the one thing about his four days she has never done.
+
 He had nothing in his hand.
+
+There is a place by the step where a thing left out would sit in the wet until somebody went in, and it is the one place in the lane where a thing left out is not a thing anybody can be shown later. He is not a man who leaves things out on steps, and she has noticed the pattern for about two years without ever once putting it into words, and she has not once made the noticing into a reason to be at the counter later in the week.
 
 ---
 
@@ -48,6 +54,8 @@ She put her hand on the counter about a foot from his and did not turn round and
 
 "I have come up this counter to hand you the other half of it," he said, "and the two halves fit, and if you have worked out what is between them then you have worked it out, and you get no help from me with it, and nobody is going to ask me for any, and I am not going to be thanked."
 
+She has been insulted twice in eleven years by exactly the shape of a man handing her the half of a thing which explains him, and she said so both times, and both times she lost the rest of the conversation and had it back a fortnight later in a worse shape. She did not say it this morning. She looked at the wood in front of her where nothing was lying and she decided in about a second, and saying it would be the only way in a week to make him tell her the other half, and she was not going to buy the other half so cheaply.
+
 ---
 
 **A carrier is a person who holds a thing and cannot be found. That is the other half and it is the half she has had since the second of the two knocks.**
@@ -73,5 +81,7 @@ She worked the rest of it out standing at that counter with her hand on the wood
 ---
 
 He went up the lane and did not turn round at the corner. The girl in the back room came out and stood at the other end of the counter with her arms folded, and neither of them said a word about it.
+
+She looked at the door he had gone out of and then at the two of them and then at nothing at all. She is in her second season and has been in the house for the whole of it and has a room of her own at the back and is paid by the week out of what she makes at the front of a shop four days a week. She has never once been told about the four days and she has never once asked, and she has not come into the front of the house after the fourth hour in the whole of the two seasons, and nobody in the house has given her a reason to be.
 
 **The day-book came off that shelf about once a year and it did not come off it this week, and it was not read, and it was not turned round, and the four headings and the ruled spaces under them were where they have always been, and no fifth column was ruled in it by anybody, and the figure that lives in that man's head was not printed by him and was not confirmed by her and was not denied by either of them. He told her nothing whatever about the four days a season and she did not ask him. There is no form in that lane in which she could have.**

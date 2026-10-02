@@ -14,11 +14,15 @@ The woman who keeps the minutes has been in the job since a week that is gone, a
 
 She has been in that room six weeks and she has written the minutes for every one of those weeks, and the minutes are one line long, and the line is a sentence that says which room stood empty and at which hour and for how long.
 
+The three other books are the same size and were the same size when the four of them were set out on a table together, and she keeps them stacked under the one she writes in, and she has read all three in every week of the six and has not once been told she was permitted to. The feet of the three are in three hands. One of them presses hard enough to leave the line showing through from the back of the page. One of them stops a finger's width short of the edge every time and has done for six weeks. She could tell all three of them blind from the bottom two inches of a sheet and has not said so to the woman opposite, and nobody else in the building is one she could say it to.
+
 "There are four rooms off this passage," the woman said. "And I write that one stood empty, and it did not."
 
 "It stood empty."
 
 "It stood empty the way a room stands empty when the person in it is not a person in that building. That is not the same and I have known that for about five of the six weeks and I have not written it down." She put the pen down. "I am not on the rota. I am not on the list of clerks. There is a list of clerks in this building and I have seen it and I am not on it, and that is not a complaint, it is the arrangement, and it is the arrangement that lets me sit in here and be nobody."
+
+In five of the six weeks she has had something she has not written down, and she has spent the whole of it on reading the other three books. A room standing empty wants a reason in it and there is nowhere in the building to put a reason, so she has taken the reason out of her own line and gone looking for it in the shape of three other hands, and it is not in there, and she stopped looking twice this week and has not told anybody that she stopped.
 
 ---
 
@@ -29,6 +33,8 @@ The woman at the other table did not look up, which is what she has done for nin
 She waited about as long as it takes to square a sheet.
 
 "**About nine hundred.** Nineteen years, and about nine hundred minutes, and every one of them says a room stood empty." She squared the sheet in front of her without looking at it. "**And there is not one of the nine hundred with an answer in it. A minute with an answer in it is not a minute. A minute with an answer in it is an order, and an order has a name at the end of it, and I have not put a name at the end of one of these in eighteen years, and that is not a thing I did. It is a thing that could not be done.**"
+
+The nineteen-year-old had the pen in her right hand and her left flat on the open page, and the nib stood clear of the wood for the length of a breath before it went into her pocket. Nothing on the table was warm. Nothing on the table had been warm either, and neither of them said so, and the not saying was the first thing either of them had done there which was not a line in a book.
 
 ---
 
@@ -56,11 +62,15 @@ Nobody said anything for a while.
 
 "I have said it out loud once, in a room, to one person, and I have been in this job six weeks and I have said nothing else out loud in it, and nobody thanks me for it and nobody is going to tell me it was useful, and I would like both halves of that said now while it is in the room."
 
+She turned the open page a half round on the wood so the ruled lines ran the other way across the table, and then turned it back, and the woman at the other table watched both of those and made no comment on any of them. The hour had gone past a quarter past without either of them marking it, and neither of them had a way of marking it, and between them they had spent nineteen years and six weeks in a room where nothing has ever needed marking.
+
 "I am not going to thank you," the woman said. "**I am not going to thank you because you have just handed me a thing I refused four minutes ago, and I did not refuse it before you said it, and I am not going to pretend to you that I did.**"
 
 "I did not think you would."
 
 "You thought I would and you have decided not to be disappointed, and that is the arrangement this building runs on, and I have watched about nine hundred of them come through this room."
+
+The arrangement between the two of them had not moved once in six weeks, and it was the only arrangement either of them had ever been in in which nothing had to be explained to anybody else, and it has never once been something either of them took a hand at. The nineteen-year-old squared her book against the edge of the table with her palm, which is a thing she does at the end of every week, and the older woman went back to her own page, and the two of them were in a room together at the fourth hour with a number standing in the air between them and nowhere to put it.
 
 ---
 

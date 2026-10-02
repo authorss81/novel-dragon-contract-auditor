@@ -10,11 +10,15 @@ It is the second day of the second week of the seventh month of the year after t
 
 The clerk of about twenty-nine had been on that floor since the fourth hour and had her pen down and a sheet squared in front of her, and she is not one of the two people who have said a number out loud in that room and she has not said one since the first week of the second month.
 
+For eleven years she has been the person at the far end of the pair of tables in the room, which are joined to one another and to nothing else, and nobody has ever put down in writing who joined them or when, and she has never once sat at the near end.
+
 "There is no form in this empire in which a person may be told what a thing on a board is going to be used for," she said. "You have said that sentence out loud in this room twice and it is true both times and it does not help you at all, and I have watched you use it twice as though it did."
 
 "It has never helped me."
 
 "**No. And here is the half of it that makes it not help, and I am not asking for anything for saying it, and neither of us is going to be thanked for it by anybody in this building.**" She did not look up. "The reason nobody can be told is not that they will not be. It is that there is no form in which to tell them. A person can only be shown a thing by somebody being made to produce it, and producing it is an office, and an office has a name at the end of it, and there is nobody on this floor whose job it is."
+
+Nine hundred sheets a year or thereabouts are produced off the old river road, and every one of them is produced by somebody whose work it is, and no such person has ever stood on this floor, and not one of them has done so in eleven years of her working at the other end of the room. That is not a shortage of anything. It is the arrangement, and the arrangement is the reason the sentence she has just been handed does not work.
 
 ---
 
@@ -25,6 +29,8 @@ The clerk of about twenty-nine had been on that floor since the fourth hour and 
 "That box has been under those boards for eleven years."
 
 "That box has been under those boards for eleven years and the fourth of those four items has been on that board about four, and you have just said the two figures out loud in the wrong order to make them sound like one thing, and I have sat at the other end of these tables for every day of both of them." She squared the sheet. "**They are the same shape. That is all I am saying. Not the same age. The same shape.**"
+
+What she has just done is the only administrative act either of the two of them has performed in the room in about four years, and neither of them has ever called it one. She has looked at the fourth of the four every day for as long as it has been up, and nobody has ever put the question to her, and on the floor the putting of such a question is the one thing which cannot be done, and the reason for that is a woman with her pen down at the far end of a pair of tables that are joined to each other.
 
 ---
 
@@ -50,6 +56,8 @@ And then, at about the fifth hour, a man of thirty-eight came up those four flig
 
 He has not asked anybody for anything. Nobody has asked him anything.
 
+Nobody on the floor had arranged any part of it, and the two of the three of them watched him come up it, and neither said one word, and one of them watched him the whole way and one of them did not.
+
 ---
 
 "You have not bought a copy," Marn Ottery said.
@@ -61,6 +69,8 @@ He has not asked anybody for anything. Nobody has asked him anything.
 "That is the reason I am not going to."
 
 He said it to the boards and not to her, and she looked at the top of his head for a moment, and there is a case at the near end of those boards with about four hundred of them in it and every one of them costs fourpence and none of them has anything printed on it and the space at the foot of a sheet is the exact width of a name.
+
+She kept her eyes off the boards and off him and put them on the case at the near end instead, and then she left them there. There is no form in the room in which a man who has said out loud that he does not want one can be given one anyway, and a man being refused one is a different thing from there being none of them, and the difference has been in the room for eleven years and has never once cost anybody anything.
 
 ---
 
