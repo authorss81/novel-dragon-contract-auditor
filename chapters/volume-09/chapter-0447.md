@@ -14,6 +14,8 @@ He opened the door because he was going out, and there was a man on the step wit
 
 He said it in the ordinary way and he stayed on the step and he did not ask to come in, and Marek Kest moved about a foot sideways out of the way of the door, which was neither a welcome nor a keeping out, and the man came half of that and stopped, and neither of them said one word for about nine seconds.
 
+The man kept to the step and did not cross into the room, and neither of them closed the gap.
+
 ---
 
 "It has not got a heading on it."
@@ -21,6 +23,8 @@ He said it in the ordinary way and he stayed on the step and he did not ask to c
 "It has not got a heading on it and it has not got anything else on it, and it came out of a case at the near end of a counter at the top of four flights, and I put fourpence down for it on the fourth day of the third week of the last month of last year, at about the fourth hour of that morning."
 
 He said all of that to the middle of the floor of the room and not to the man in it, and then he held it out and did not let go of it until Marek Kest had it in his hand, and then he put it down on the table, which has had nothing on it for two years and has a thing on it now.
+
+The table took the weight of nothing most days, and now it bore a single folded sheet. It lay where he had set it, slightly off square, and neither man squared it.
 
 ---
 
@@ -34,6 +38,8 @@ He said all of that to the middle of the floor of the room and not to the man in
 
 "I am not going to be thanked for it and being thanked is a thing two people have to agree about, and you are not going to agree to it and I am not going to ask you to, and if you had said thank you I would have had to say it was nothing and then I would have had to be a man who says things are nothing."
 
+The room held the echo of their voices a moment after they stopped. Both men heard it fade, and neither hurried to fill what came after.
+
 ---
 
 Then he said the one thing that was about himself, and he said it going down the stairs and not from the step, and he said it once and did not say it twice.
@@ -41,6 +47,8 @@ Then he said the one thing that was about himself, and he said it going down the
 "You are not going to be able to find me. **There is nothing on that and there is nothing on me and there is no form in this empire in which a person is entered as the one who came up a stair with a piece of paper in his hand, and I did not knock on that door because I was not going to be let in and I was not going to be asked to come in, and both of those are the same thing and I worked that out before I got to the step.**"
 
 He went down. The stair has nothing to do with a door on any floor and is on nobody's list.
+
+His footsteps went down evenly and faded by degrees. The man in the room stayed where he stood until no sound remained.
 
 ---
 

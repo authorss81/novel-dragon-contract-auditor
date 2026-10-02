@@ -14,6 +14,8 @@ The case is at the top of those stairs and the box is not the case, and nobody o
 
 **He knows what is in the box. Everybody who has ever worked that floor knows what is in the box. What he does not know and is never going to be told is why it came out of that room in nine minutes in the last month of a year, and he is the wrong shape of person to be told, and that is not a complaint.**
 
+His arms remembered the shape of it better than his eyes did. The corners pressed through the sleeves of his coat, and he kept walking without setting it down.
+
 ---
 
 The road out of that yard is about a mile before it is a road anybody uses and then it is four miles to a street that runs down to the river road, and he went the whole way on the same side, and the box was on its side the whole way with his arms under it, and it was heavier at four miles than it was at the first landing and he has thought about that a good deal since.
@@ -30,6 +32,8 @@ He has been a courier since the first chapter of this, he cannot be told anythin
 
 "There is no form anywhere in this empire in which a man is entered as the one who signed for a box, and there is not going to be one, and I am not going to stand on a road and explain that to a man I have met once."
 
+The satchel rode high on the other man's shoulder, strapped short for walking. They passed with the width of the road between them, and neither looked back once the other was behind.
+
 ---
 
 "I am not going to say one word about it."
@@ -42,6 +46,8 @@ He has been a courier since the first chapter of this, he cannot be told anythin
 
 **And that is the price, and it is entered in a man and not in a figure. The one person in this matter who goes to places and cannot be told anything has been on a road with a box for about a quarter of an hour, and a courier is findable in a way that nothing else on that road is findable, and there is no form anywhere for asking a man to forget what he saw, and the man who carried it could not have prevented it and would not have been thanked for preventing it.**
 
+The road kept its own noise under his boots, thin and even. The box gave nothing back to it, lid shut and sides mute, and he matched his pace to the long stretch ahead.
+
 ---
 
 The room was on the second floor and there was a woman at the door of the building who gave him a key and did not say one word about the box and did not look at it, and he has thought since that she did not look at it on purpose, and he has thought since that a person who does not look at a thing on purpose has been put in a building where things are brought and left.
@@ -51,6 +57,8 @@ He put it on the floor against the wall that had nothing on it, on its side, the
 **The lid did not come off. The lid has not been off it in six years and it was not off it in that room and it does not need to be, because nothing in that room is waiting on what is in it and nothing in this empire has ever been left in it.**
 
 He put the key on the table, which is the only thing on the table in that room and has been for as long as that room has been let by the week, and he went back down two flights and out and about four miles, and nobody saw him go by and nobody saw him arrive and he was not thanked at either end of it.
+
+The table stood alone in the middle of the room, bare all round. He set the key down near the edge and left it square. The room was empty enough to swallow the noise, and it did.
 
 ---
 

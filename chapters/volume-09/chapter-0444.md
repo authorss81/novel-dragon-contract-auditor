@@ -18,6 +18,8 @@ Four sentences were said in this shed in the second week of the fifth month, abo
 
 "He is looking at the board and there is nothing on the board that says what is on the board, and if he walks in here and stands in front of it for another quarter of an hour he will still not know what is on it, and that is not me keeping him out. That board has been read by about nobody in this lane for four years."
 
+Nobody moved toward the board while the talk ran on. The bench held its line with the chain hung across its front. The form lay by the door through all of it.
+
 ---
 
 Then the man of about fifty-five said one thing, and he said it to the open side and not to the man, and he can read a paragraph and has always been able to read a paragraph.
@@ -30,6 +32,8 @@ Then the man of about fifty-five said one thing, and he said it to the open side
 
 **Nobody asked him for a fifth sentence and nobody is going to, and nobody thanked him for the one he gave unprompted either, and there is no way anywhere in this empire of writing a man into a record as the one who spoke the truth at the seventh hour to a foreman who could do nothing with it.**
 
+The man kept his hands behind his back as he stood. He shifted his weight and then stood still again, and his eyes never left the open side.
+
 ---
 
 And the two at the back of that shed had not both been sitting for the whole of that quarter of an hour.
@@ -40,11 +44,15 @@ One of them got up. She did it without a word and without waiting to be told the
 
 The other one stayed where he was on the bench at the back and did not look round at her, and did not get up, and did not say anything, and that is the same as not being spoken to and neither of them is spoken to.
 
+The shed held the two of them without a sound. One stood before the board with arms held straight, and the other never looked round, and the space between them stayed empty.
+
 ---
 
 The man at the open side stood there until the lamp had burned for about as long as it takes to sign a bundle, and then he went back up the lane, and he did not come in, and nobody stopped him, and nobody put one thing to him, and he said nothing at all to anybody in that shed.
 
 Nobody in this empire can be written into a record as a man who stood at an open side and was shown nothing, and there is not going to be a form for it either, and that is the arrangement, and it is everything that shed has to give anybody who stands at the open side of it.
+
+His boots found the same worn line up the middle of the lane. The sound thinned as he went, and the shed kept it a little after he was out of sight.
 
 ---
 

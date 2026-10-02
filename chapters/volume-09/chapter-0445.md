@@ -18,6 +18,8 @@ He said it to the man from the front office and not to her. He did not come to t
 
 "That is the whole of what is here and it has been the whole of what is here every fortnight since I was seventeen."
 
+The light fell in a single bar across the floor. Dust moved inside it and settled again, and nobody in the room watched it but her.
+
 ---
 
 "**I have come about the fifth of the second lot.**"
@@ -29,6 +31,8 @@ Nobody said anything to that.
 "Then there is not a book," the man from the front office said, "and I did not come down here with you to find out which fifteen have gone, and I am not going to write that in anything, and I have not written it and I am not going to."
 
 **She stood at the head of those shelves and she had the answer and she did not give it, and what she had was not a list and it was not in a book and it was the shape of fifteen carts' worth of two fortnightly goings in her own head since she was seventeen, and there is no form anywhere in this empire in which a person is entered as the one who could have said.**
+
+Her hands stayed folded before her, and her stance never shifted. The quiet held while the two men waited, and she did nothing to break it.
 
 ---
 
@@ -48,11 +52,15 @@ The man from the front office put his hands flat on the end of the low shelf. He
 
 "I know you are not. That is not why I am not doing it."
 
+He stood aside while the talk ran on, hands in his pockets. The room went on without him in it, and he added nothing to it.
+
 ---
 
 He looked along the shelves for about as long as a cart takes to load, and then he put his coat back on, and he said thank you to nobody, and he did not say one word to her at any point in that room, and he went back up the lane with the man from the front office and the two of them did not say one word on the way out either.
 
 **Nobody in that room asked anybody anything. A man said a sentence about a book and the sentence was not put to a person, and the woman who had the answer did not give it and could not have given it in a form, and the man from the front office said no to the only thing anybody in that room wanted that morning, and he was right, and she has not stopped being right about it since.**
+
+Outside, the lane went on with its morning traffic. Carts passed at intervals and none of them stopped, and the room kept its own quiet through all of it.
 
 ---
 

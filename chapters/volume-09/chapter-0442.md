@@ -20,6 +20,8 @@ He had signed it the day before. It was not a guess. It was the same sheet with 
 
 **Nobody told him and nobody could have told him. A man who is paid for a corner brings a bundle up a stair and a man at the other end signs whatever is in front of him, and there is no form anywhere in this empire in which a person is entered as the one who handed him the same thing twice.**
 
+The pot stood where it always stood, close to his right hand, and the lid leaned beside it with a dark ring under the rim. He wiped the nib on the edge of the pot, and the mark dried where he had left it.
+
 ---
 
 He signed it. The pen went into the pot again in about the time it takes to say nothing twice, and he did not look up while he did it.
@@ -27,6 +29,8 @@ He signed it. The pen went into the pot again in about the time it takes to say 
 His eyes did not lift off the sill at any point of that, and they have not lifted off a sill on any sheet since he was forty-two. He signed about two hundred and about six that morning instead of about two hundred, and nobody in that corridor has ever counted and nobody is going to start, and by a minute past the seventh hour there was nothing left on that hook to count.
 
 **And there are about nine sheets a year that are not what the person above him wrote, and he knows which and has known since the spring, and he has never once written one of them down and there is nowhere in this empire to write one down. This is a different thing. It is the first one he has had that is not a number, and it is going to stay in him for the rest of that year, and there is no pot on that sill for it.**
+
+The hook over the sill held nothing by the time the morning wore on. Bundle after bundle went down the stair in other hands, and the sill kept only the dust along its edge and the groove where the pen rested.
 
 ---
 
@@ -54,6 +58,8 @@ He said it to the sill and not to a man, and it is the sort of thing he is right
 
 "You have not said a thing to me in two years and I have come up this stair about a hundred times in two years and there has not been one of them in it where either of us said a thing to anybody."
 
+They knew the passing by now, and each gave way without a word. One waited and the other went first, and the order never changed.
+
 ---
 
 He did say one more thing. He got as far as it, and it was four words long and he got through two of them, and then he stopped, and the man of about sixty-one kept his eyes on that sill and kept his pen in his hand and did nothing at all about any part of it, and the two words stayed where they were.
@@ -65,6 +71,8 @@ He did say one more thing. He got as far as it, and it was four words long and h
 "Put them down."
 
 He put them down.
+
+He gathered the bundle against his chest with both arms under it and took the weight on his forearms. It sat even and steady there, and he did not shift it again.
 
 ---
 

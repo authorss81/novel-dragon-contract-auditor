@@ -18,6 +18,8 @@ It is the fourth day of the third week of the second month of the year after the
 
 "No. There is one thing coming and then my hands are going back on these boards and that will be the end of it. **You are not the one who is going to carry that box anywhere and neither am I, and I have known it since the week the box came out from under the end of those boards, and I have never once been going to be the one to say it aloud, and neither is it going to be you.**"
 
+The boards took their hands back when the talk paused. Palms flat on the deal and fingers spread, neither woman moved until the talk started again.
+
 ---
 
 "**Then somebody has to say it out loud.**"
@@ -34,6 +36,8 @@ It is the fourth day of the third week of the second month of the year after the
 
 "**The reason does not get said in this room and it does not get said out of it either. I have worked the reason out and I have had it for about a week, and it is not a small thing to work out, and nobody is going to thank me for the working of it and nobody is going to ask me for it either.**"
 
+The dust lay thin along the far end, undisturbed. Nobody brushed at it and nobody covered it, and it kept the shape the box had given it.
+
 ---
 
 Marn Ottery turned about a foot and looked at the far end of those boards, at the six foot of bare deal and the dust on it, and then she looked back at the near end.
@@ -43,6 +47,8 @@ Marn Ottery turned about a foot and looked at the far end of those boards, at th
 "I am not going to tell you what I worked out and you are not going to look at me for about nine seconds and then ask me again in a different way, and if you do that then I will say something, and what I will say will not be the thing I worked out."
 
 She did not do it.
+
+Marn held her place at the boards without turning again. The room went on with its afternoon business, and the case stayed shut behind them.
 
 ---
 
@@ -61,3 +67,5 @@ She did not say it. She has not said it to Marn Ottery and she is not going to, 
 ---
 
 **Nobody on that floor has been thanked, nobody has been forgiven, nobody was sent for, and this week settled nothing. The box is four miles off in a room that nobody has opened and that does not need opening. A woman of twenty-four was at the near end of those boards at the fourth hour and she said nothing that is going to cost her, and she was not thanked for the nothing and there is no form in which she could be.**
+
+The room kept its order after the close, boards down and everything shut. The dust stayed where it lay, and the week asked nothing more of either of them.

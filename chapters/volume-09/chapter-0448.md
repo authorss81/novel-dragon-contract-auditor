@@ -12,6 +12,8 @@ He stood it up on the table against the base of the wall, at the end nearest the
 
 **About four feet of wall beside that window has been bare for the whole of the two years and there is a nail in it that went in crooked and nothing has ever hung off the nail. The paper is not on the nail. It is standing on the table at the foot of that wall, and the wall is bare above it, and he has used the wall and not the paper for nothing, which is the whole of what he has done about it.**
 
+The bare stretch beside the window caught the morning light full on. The nail threw a short shadow across it, crooked as ever, and the paper stood below in the shadow's path.
+
 ---
 
 There was a knock on the door at about the fifth hour and it was not loud and it was not two knocks, and it was the same man, and he was thirty-four or thereabouts, with a fair hand on him somewhere, and a room of that kind behind him in his own life that Marek Kest knew nothing whatever about and was never going to be told.
@@ -26,6 +28,8 @@ He said it before he was asked for it and nobody asked him for it, and that is t
 
 "I have come up those stairs and I have not been in this room for about three months. I have come now because there is a piece of paper with nothing printed on it standing on that table, and I am not the one who is going to take it. I have not come in here to be thanked and I have not come in here to be asked anything, and there is not going to be a question in this room while I am standing in it."
 
+The step held him neither in nor out. He kept his hands where they could be seen, empty and still, and made no move toward the table.
+
 ---
 
 Marek Kest did not ask.
@@ -38,6 +42,8 @@ He could have asked. There is a man in this matter he would want a sentence fini
 
 "Nothing has been in my coat since a week ago, and if I were to ask you about the inside pocket of that one you would tell me there is nothing in it, and neither of us would find out one thing by it, and I am not going to ask you."
 
+Both coats hung the way coats hang when their wearers stand their ground. The cloth pulled at the shoulders and settled again, and neither man looked down.
+
 ---
 
 Then the man said the thing he had come about, and he said it to the paper on the table and not to the man in the room, and it was the third true thing anybody has said out loud in that room and none of the three was asked for.
@@ -45,6 +51,8 @@ Then the man said the thing he had come about, and he said it to the paper on th
 "**You are the only person anybody could hand a thing to and not be able to lay it against him afterwards, and I arrived at that in about four minutes after about two years of not arriving at it, and there is a thing on that table now and it did not come from me and it was not brought for me and I am not going to be the reason a piece of paper is standing on a table.**"
 
 Then he stopped, and he had said more than he had come to say, and neither of them found out what to do about that.
+
+It stood where he had set it, fold out and face blank, and the room went quiet around it.
 
 ---
 

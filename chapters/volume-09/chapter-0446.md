@@ -12,6 +12,8 @@ It is the fourth day of the fourth week of the first month of the year after the
 
 Then the stair made a sound, and the stair has not made a sound in about twenty years that she has put down to a person she knew the sound of, and she knew exactly what it sounded like, and it was not that.
 
+The sound did not come again. She held herself still beside the table and listened the way she always listened, without moving toward it.
+
 ---
 
 He was about halfway. He had not knocked. There is no bell on that door and there has not been one since before she came to that house.
@@ -30,6 +32,8 @@ He was a man she had not seen in twenty years of that house and she had not seen
 
 "Then there is nothing on this floor for you."
 
+The front door stood shut behind him. The lamp burned on beside it. The table stood where it always stood, and neither had been moved.
+
 ---
 
 He stood on the fourth step with his hands at his sides for about as long as a lamp takes to settle.
@@ -42,6 +46,8 @@ He went up. She did not follow him and she did not go up the four steps after hi
 
 **A woman who has been at the bottom of a stranger's stairs about twenty years has not gone up them once, and that is the whole of what she is, and it is not modesty and it is not care and it is not the rent. A person who has gone up a stair can be shown having gone up it, and a person who has not can be shown nothing at all, and she worked that out about nine years ago in about four minutes and has held it every day of the nine since and she is not going to give it up in the fourth week of a month for a man on a step.**
 
+She kept her place through all of it, feet planted and hands empty. The house held its quiet around her, and she added none of her own to it.
+
 ---
 
 He came back down at about the sixth hour and a quarter and he went out through the front door and shut it behind him, and she was standing at the bottom of the four steps the whole time and he went past her at about a foot and neither of them said one word on the way past.
@@ -49,6 +55,8 @@ He came back down at about the sixth hour and a quarter and he went out through 
 **And that is the change, and she did not make it, and nobody asked her anything before making it, and there is no form anywhere in this empire in which a house can be put back the way it was by a woman standing at the bottom of a stair.**
 
 For about twenty years the whole of what that house had was that nothing in it could be shown. A man has now been up those stairs and down them again, and she saw him, and she is the one person on that ground floor that anything could be shown about, and she has not said one word and she cannot take back the seeing of it.
+
+The boiler gave off its steady warmth into the room. She stood beside it a while with her arms folded, and the heat worked into her sleeves.
 
 ---
 

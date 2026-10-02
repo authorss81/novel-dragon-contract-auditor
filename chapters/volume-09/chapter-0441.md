@@ -18,6 +18,8 @@ Marn Ottery was not at the boards. She was at the far end of them, on her knees,
 
 He put the four on the boards and squared them and did not say anything for about the length of a sheet being squared, and he did not go to the far end, and there was nothing in that room for him to go and look at that he had not already seen from nine foot away.
 
+He kept his hands on the edges until the corners sat even, and then he lifted them clear and stepped back. The habit was old enough to run without looking, and he watched the far end while his hands did the work.
+
 ---
 
 "You are going to carry that down those stairs."
@@ -29,6 +31,8 @@ He put the four on the boards and squared them and did not say anything for abou
 "You did not ask me, and standing here saying that you did not is the last thing I am going to do with my morning."
 
 He said it to the boards, which is how the woman at the far end of those boards says everything she has ever said in that room, and he put his hand flat on the deal about a foot from hers and did not touch it, which he has done twice in two years and neither of the two times was about a box.
+
+Neither of them moved the hand back at once. The deal held steady under their palms, and the quiet between them was the same quiet the room kept on ordinary mornings.
 
 ---
 
@@ -54,6 +58,8 @@ He said the price then, and he said it to the sill end of the boards and not to 
 
 He was right about that and neither of the two women at that counter found out whether it was right or wrong, and there is no form anywhere in this empire in which a person is entered as the one who said a true thing to two people who did not answer it.
 
+He said no more after the price was out. He kept his eyes on the boards at the sill end, and the morning went on around the three of them without anyone filling the pause.
+
 ---
 
 Then he went down those stairs with it, and that was the first of the three times.
@@ -65,6 +71,8 @@ And then he went down again, and that was the third, and this time he had his ha
 He had put fourpence into the ordinary place at the near end before he went down the first time, and the thing in his hand was a piece of paper with nothing printed on it, folded in one, and he carried it down four flights in his hand and his hand was warm on it by the second landing and it was still warm on it at the bottom.
 
 **He is not going to fill that one in. He has no use for it and he is not going to find one in a year, and he bought it in the fourth hour of the fourth day of the third week of the last month of the year, and nobody at the top of that stair has been told any of that and nobody is going to be, and he is not going to be thanked for buying it and he is not going to be asked what it is for.**
+
+The fold held its line in his palm all the way down. His hand stayed shut on it past each landing, and when he reached the bottom he slipped it inside his coat without breaking stride.
 
 ---
 
