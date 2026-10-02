@@ -14,7 +14,7 @@ It is a short piece of business and not one hour of it has ever had to be hurrie
 
 **There is a tin behind the boiler. It has been behind that boiler for about nine years and it is about the size of a loaf and it has a lid on it that does not shut the way it used to, and it has nine years of a man's rent in it in coin, and she has never counted it and there is no reason on earth to count it.**
 
-She puts it back on the same way round every time, and it takes longer than a working lid would, and none of it is a thing anybody can see from the doorway, and nobody in the house has ever gone behind the boiler and she is the only one who has.
+She puts it back on the same way round, and it takes longer than a working lid would, and none of it is a thing anybody can see from the doorway, and nobody in the house has ever gone behind the boiler and she is the only one who has.
 
 ---
 
