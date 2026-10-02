@@ -1,0 +1,167 @@
+# PROSE REPAIR, FIFTY CHAPTERS: Chapters 0451 to 0500 — THE WHOLE OF VOLUME 10, AND A CHAPTER THAT CARRIES THE LAST LINE OF THE VOLUME AND IS NOT YOURS
+
+**This is a repair, not a batch, not a close, not a review, not a second reading and not an outline phase. Do not plan a volume. There is no Volume 13.**
+
+**The series is complete.** Six hundred and twenty chapters across twelve volumes, exactly the length `NOVEL_SPEC.md` and `outline/series.md` set, ending on the page in `chapter-0620.md`, which carries the last line of this series. `outline/series.md` states in terms that there is no next volume. **This prompt names no volume to plan, and no phase may plan one.** The remaining prose work is below.
+
+**Your range is the whole of Volume 10: `chapter-0451.md` to `chapter-0500.md`, fifty chapters. Forty-nine of the fifty are yours to edit. `chapter-0500.md` carries the last line of Volume 10 and is not yours: read it, do not open it, and do not name it as a repair target. That is the same standing `chapter-0400.md`, `chapter-0450.md`, `chapter-0550.md` and `chapter-0620.md` carry, and the prompt you are reading must say it, which is what this paragraph is.** `chapter-0401.md` to `chapter-0449.md` are repaired; read the repaired ranges behind you and do not open them, and do not treat their prose as a base for yours.
+
+**Volume 09 is repaired from 0401 to 0449, forty-nine of its fifty chapters. Volume 08, Volume 11 and Volume 12 are repaired in full but for their last chapter. Volume 10 is untouched in its entirety, and it is the largest single untouched volume in the manuscript.** **After your range the only untouched volumes will be 01 to 07.** **Two hundred and sixteen chapters of six hundred and twenty have been through the prose repair and this range is forty-nine of them; three hundred and fifty-five will be unrepaired when you finish, and every one of them will be in Volumes 01 to 07.**
+
+## Every command in this prompt carries `--volume 10`
+
+**`chapter-0451.md` to `chapter-0500.md` live in `chapters/volume-10/`. Every `tools/measure.py` command below and in the verify list carries `--volume 10`.** `git log`, `git diff`, `md5sum` and `grep` are volume-blind and take a path. `tools/measure.py words` and `words --volume NN`, `calendar --volume NN`, `reprints --window N --volume NN` and `lifts --volume NN --first --last --base --min --show` all take a volume. **`tools/measure.py markers` takes no `--volume`; count raw `**` instead.** **`selftest` will not save you: it exits non-zero when the volume you named matches no file, and it will happily exit zero on Volume 09, which exists. Run `python3 tools/measure.py selftest` first if you are unsure.**
+
+**(A correction the record requires: the prompt that ordered this phase printed `--volume 09` beside `chapter-0451.md` to `chapter-0500.md` while calling the range Volume 10 in the same sentence. The flag follows the files and not the sentence. Every command here carries `--volume 10`.)**
+
+## Your base is `185c48e`
+
+**`git log --oneline -- chapters/volume-10/chapter-045[1-9].md` must return no `prose-repair` commit — if it returns one, your range has been repaired already: audit it instead of rewriting it, and write the record the first dispatch failed to write.** `185c48e` is `novel: prose repair of chapter-0441 to chapter-0449, the last nine of volume 09`. **The comparison that matters is against a figure somebody recorded before you arrived, and for your range that figure is the one in the next section. Re-measure every figure at phase start anyway: every figure in this repository has been stale at least once.**
+
+## Before anything else, check whether your range is already repaired — and measure against the recorded pre-repair figures and never against `HEAD`
+
+**A repair phase was dispatched twice on four ranges and the second dispatch had no way to tell from the working tree that the work was done. So: run that `git log` before you write a word. If it returns a `prose-repair` commit, your range has been repaired already — audit it instead of rewriting it, and write the record the first dispatch failed to write.** The comparison that matters is against a figure somebody recorded before you arrived, and for your range that figure is the one in the next section. **And the precheck is a two-sided test: `git diff --numstat <base>` returning nothing means unrepaired, and returning a non-zero insertion count with zero deletions means a completed repair. Both readings are informative, so run both.**
+
+## Your range, measured on the corrected tree at `185c48e`
+
+**Pre-repair words: 71,938 at mean 1,438.8**, per chapter, `sed 's/[[:space:]]*$//' file | wc -w`, one file at a time and never with a glob, all fifty in order:
+
+451: 2056, 452: 1456, 453: 1718, 454: 1528, 455: 1348, 456: 1358, 457: 1429, 458: 1360, 459: 1197, 460: 1157, 461: 1803, 462: 1518, 463: 1406, 464: 1428, 465: 1651, 466: 1565, 467: 1500, 468: 1335, 469: 1430, 470: 1265, 471: 1504, 472: 1288, 473: 1276, 474: 1387, 475: 1368, 476: 1436, 477: 1295, 478: 1450, 479: 1134, 480: 1237, 481: 2028, 482: 1727, 483: 1433, 484: 1401, 485: 1482, 486: 1446, 487: 1583, 488: 1324, 489: 1444, 490: 1499, 491: 1351, 492: 1182, 493: 1476, 494: 1439, 495: 1436, 496: 1481, 497: 1580, 498: 1082, 499: 1262, 500: 1399 (*not yours*).
+
+**The forty-nine files you own stand at 70,539 words at mean 1,439.6. Volume 10 is 71,938 words, and the manuscript is 1,470,462 in 620 files on `python3 tools/measure.py words`. Volume 01 is 202,117 words and 4,042 a chapter.**
+
+**The construction, measured on method 3 — the selector with the date line stripped — which is the figure of record, on the forty-nine files you own (`chapter-0500.md` excluded):**
+
+| Range 0451 to 0499 | Words | Closed list of ten | Per 1,000 | List of 23 | Per 1,000 | List of 25 | Per 1,000 | Sweep | Per 1,000 |
+|---|---|---|---|---|---|---|---|---|---|
+| before | 70,539 | **352** | 4.99 | **478** | 6.78 | **577** | 8.18 | **1211** | 17.17 |
+
+**352 is by far the highest closed-list count this repair has ever measured — the leader was 86 on a ten-chapter range, and this is a fifty-chapter range at nearly the same rate. The forms to watch are `that floor` at 121 (the densest single form anywhere in this repair), `that room` 77, `that building` 70, `that counter` 50, `that stair` 43, `that lane` 37, `those boards` 35, `that house` 30, `that shed` 30, `that out` 26, `that end` 23, `that week` 21, `that sill` 17, `that time` 16 and `that wall` 16.** `that out` at 26 is the prepositional-opener class no reader would ever see, and it is already in the base. **The next phase re-derives every form on its own tree before it writes a word; the cells above are the headline and not the survey.**
+
+Per chapter (method 3; closed / ADD / NEW / sweep), 0451 to 0500 in order: 451: 15/3/0/39, 452: 5/0/2/14, 453: 12/4/4/36, 454: 6/7/0/30, 455: 4/4/4/23, 456: 8/2/6/22, 457: 5/1/0/16, 458: 5/9/5/28, 459: 10/2/1/22, 460: 9/2/1/20, 461: 8/1/1/22, 462: 5/2/0/18, 463: 10/0/0/17, 464: 7/3/0/25, 465: 3/8/3/26, 466: 10/5/4/25, 467: 6/1/1/22, 468: 11/2/0/27, 469: 7/2/5/25, 470: 10/0/0/22, 471: 13/3/2/32, 472: 9/4/0/21, 473: 10/1/0/15, 474: 5/2/0/26, 475: 3/3/0/26, 476: 2/2/5/27, 477: 7/5/5/22, 478: 7/1/0/17, 479: 11/0/1/20, 480: 8/1/1/23, 481: 6/4/1/33, 482: 2/2/0/46, 483: 9/7/6/37, 484: 13/0/2/31, 485: 4/0/5/26, 486: 5/1/0/29, 487: 11/2/0/22, 488: 0/5/6/28, 489: 11/1/9/28, 490: 13/0/1/25, 491: 7/5/0/24, 492: 6/4/1/19, 493: 4/3/0/28, 494: 3/0/9/23, 495: 4/1/0/21, 496: 10/0/0/13, 497: 7/5/0/20, 498: 0/2/1/19, 499: 6/4/7/31, 500 (*not yours*): 6/0/1/22.
+
+**`chapter-0482.md` carries 46 sweep instances and is the densest file this repair has measured. `chapter-0488.md` and `chapter-0498.md` carry zero closed-list instances. Read 0482 twice.**
+
+**Measure the lists after every single edit and not once at the end.** Build the added-prose guard first: take every line the diff inserted, run the sweep's own regular expression over each one on its own, and report any `that` or `those` followed by a word not in `NONNOUN`. It is five lines and it is the difference between a repair that holds its lists and a repair that discovers at the end that it did not. **A per-file form-delta scan cannot see an instance where a form that rose and a form that fell cancel in the range-wide total.**
+
+**The method, with `BASE` set to `185c48e`, is printed whole in `state/batch-summary.md` under the heading *THE PROSE REPAIR OF CHAPTERS 0441 TO 0449, MEASURED RECORD*, section One, pasted and not rebuilt. `NONNOUN` is the set of record and it does not contain `too`, `for` or `have`, and a copy that has grown by those three words under-reports the sweep. `to` is not in `NONNOUN` either.** One line changes and it is the only one: `files = [f\"chapters/volume-10/chapter-{n:04d}.md\" for n in range(451,500)]`, and **`chapter-0500.md` must be excluded from every range-wide figure you print, because it is not yours and its figures are not yours to move.**
+
+## The date lines, and four of them stand at line 11
+
+**All fifty files carry a date sentence and `tools/measure.py`'s `DATE_LINE` matches all fifty: `calendar --volume 10` reports 50 files read and 50 date lines parsed with none unparsed.** The measured positions in order are 11, 7, 11, 9, 7, 9, 7, 7, 7, 7, 7, 7, 7, 9, 9, 9, 9, 9, 7, 7, 7, 9, 7, 7, 9, 9, 7, 9, 7, 7, 9, 9, 11, 7, 9, 7, 7, 9, 9, 7, 7, 7, 11, 9, 9, 7, 7, 7, 9 and 9.
+
+**Four of your fifty are at line 11. That is a reason to distrust the line-5 check and not a reason to relax.** **The located check is the standing and not the printed one, whatever `calendar` says. Never type a date line out. Copy it out of the commit.** No instrument in this repository looks at what a chapter says.
+
+**The rule: an insert is legal only AT OR BELOW the located date line.** Make your helper refuse any anchor above a located date line, refuse any anchor that IS a section rule, refuse any anchor on a blank line, and assert the line count after every insert. Assert that no line sits directly under a non-blank line after every insert, and assert the located date line is on its own line number and byte-identical. **After every insert, print the anchor line, the paragraph below the insert and the nearest `---` in either direction, and read them.** **Do not refuse an anchor whose next non-blank line is a `---`: anchoring at the last prose line of a section is legal. Do not refuse an insert because the word `---` appears inside a base line — match the line, not a substring. Test the guard on a scratch file before the first chapter is opened for edit, because an inverted guard fails silently in the direction that costs the most.**
+
+**The free-line budget below the date line in order is 74, 66, 64, 52, 44, 48, 50, 46, 46, 42, 64, 56, 48, 50, 50, 42, 42, 40, 42, 32, 46, 40, 40, 38, 36, 42, 40, 38, 36, 30, 70, 54, 44, 50, 50, 46, 56, 34, 50, 44, 56, 52, 50, 46, 46, 52, 56, 36, 48 and 38. `chapter-0480.md` has thirty free lines and is the tightest, and `chapter-0451.md` has seventy-four and the most room.** A tight budget is not a wall; it is a reason to put the additions low in the file and to check the located date line after every one of them. **Beware files carrying a second line opening `It is` that is not a date line: locate by `m.DATE_LINE` and by nothing else, because `startswith("It is ")` fails in silence on this manuscript.**
+
+## The quoted spans, and two of your files carry none at all
+
+**Quoted spans, per file, must be identical to base, span for span.** In order: 15, 10, 11, 14, 9, 12, 12, 5, 11, 11, 12, 11, 11, 12, 10, 3, 10, 12, 11, 3, 6, 12, 7, 8, 10, 10, 10, 8, 9, 4, 7, 7, 5, 11, 6, 4, 8, 5, 3, 6, 11, 4, 11, 7, 12, 7, 11, 12, 0 and 0 — the last two being `chapter-0499.md` and `chapter-0500.md`. **Quote characters total 114,337 on the forty-nine files you own and 0 on `chapter-0500.md`; re-derive the per-file table on your own tree and do not inherit it.**
+
+**The count of things asked out loud in this matter does not move, and the reason it does not move is the page's own definition and not your decision: an asking in this matter is a thing put to a person out loud in a room by somebody who wants a thing out of the answer. The count is seven at Chapter 0350, seven at Chapter 0400, seven at Chapter 0441, seven at the last chapter of Volume 09, and seven at the last chapter of this volume — which may be printed in a state record and in a prompt and in the outline and in no chapter.**
+
+**The consequence for you is the one every range before you faced: a repair that expands a scene cannot add a line of speech, because every quoted span is a figure no instrument in this repository is watching and the gate is span-for-span identity. Every paragraph you add on your range will be unquoted third-person narration.** And **the count of things asked out loud does not move by one, so your added paragraphs must not contain a question, a question mark, an asking, a request for information, or a sentence reporting what a person wants out of an answer.**
+
+## The plan of record for these fifty chapters is `outline/volume-10.md`, and it is closed and no phase may edit a line of it
+
+**It says what each movement is for and what it may not do. Movement one (0451–0460) is the seed: what fourpence buys and not what was came for. Movement two (0461–0470) measures what a second holder is on three rooms and what one costs. Movement three (0471–0480) is the turn: a copy of a copy is made and the count does not move. Movement four (0481–0490) is a line cut into a printed strip and the only two people who could read one. Movement five (0491–0500) is the climax: two holders and then one, and the paper is not lost.**
+
+**The turn inside the turn is a woman of twenty-four: she works out that a copy of a copy is the only object she could be the maker of and not be made a party to, and the knowing does not make her an organiser, or a clerk with a title, or a person somebody has finally asked, and her undertaking is still live and still unretired and still unexercised, and nobody says her name out loud in a room, and nobody is thanked. The decision about whether she takes a colleague's judgment is unmade and is not made in either direction.**
+
+**The five refusals specific to this volume: no hearing and no arrangement of one, and no new heading, form, notice, post, commission, warrant or office, and in particular no new form for a disagreement at the foot of a sheet; no House, no seat and no office named, and no person from the antagonist ladder or the ending of record named beyond what the closed page already carries; no romance and nothing implying one; no number that is not on the page — the number in the head of the man of about thirty-four is not printed, not confirmed and not denied, the figure at the end of the cold passage is not printed, the figure on the bill is not printed, and the count of things asked out loud is printed nowhere in a chapter; and fifth, new to this volume: no description of a copy may be the same words twice in the volume, and no line cut into a printed strip is described in the same words in two chapters, and the room with the rail is not described at all.**
+
+**The locks, gathered in the outline because they are what a Volume 10 batch breaks. The two people in their boxes stay in them and the form that put them there is not asked to be void. The question in the second of the eleven books stays a question and carries no full stop. The figure at the end of the cold passage is not handed on and does not get a heading. The name at the end of a struck line is not printed, and neither is the name of the hand that struck it. The guarantee is not printed in its own words and no child is named in it. The bill at Lowcross is unpaid, nobody is liable, and no chapter of this volume pays it. The four who cannot make sense of a paragraph are not asked one question about a number. A girl of seventeen and a reader of seventeen are unspoken to, unthanked and unsent for. The four hundred and thirty miles, the nine miles and the four hundred yards of cold flags are each walked zero times in your range, and the walking of all three is on the page as something that has already happened. Nothing is printed that is written on any piece of paper in this matter, in any chapter of it. The woman who did nine minutes of work on a box stays dead.**
+
+**The separations are five now and not four, and they are rules about mouths and not about geography: a merge does not need two rooms to happen, it needs two people and one mouth.** No two of the three people the state layer keeps apart are ever in one room in any chapter of this volume, and no chapter states or denies a distance between any two of them. **The full list of pairs that may never share a room: Marek Kest and Rennick Adley; the woman who keeps a rented house's ground floor and the clerk of about fifty-three; the woman of about twenty-six and the woman of about forty with a scuttle; the woman of about twenty-six and the woman who keeps minutes; the man of about thirty-four with a fair hand and anybody else who is findable; the young man from the shipping floor and the man of about twenty-six paid by the corner; the man of about sixty-one and the woman of about twenty-six; the man of about fifty-five with the chain and the man of about sixty-one.** A person a reader can hear being contradicted by another person in the same room is the minimum unit of a chapter in this volume.
+
+**And the one thing your range owns that no other range owns: `chapter-0500.md` is the volume's last chapter and the outline's final image for the volume is a shape and not a sentence — the room taken by the week two streets back from a street that runs down to the river road, a table, a stool, a bed against one wall and a chair against none, a window looking at the back of another house with about four feet of bare wall beside it, the nail still in that wall, no fire in the room, one piece of paper where it has been for about two years and not on a form and not a record, and the second one in the inside pocket of a coat on the chair against no wall, on the side the first one is not on, with a line cut into the strip printed along the top of it.** **Read that chapter before you write anything. A repair that invents a fixture, a figure or a surface in the volume's last chapter is a repair that has edited the ending. The last line is written by the phase that writes Chapter 0500 and by no other phase, and it may not be Volume 09's last line, and it may not stand beside a second one.**
+
+## The four import indices, all four run, and the fourth is the one this repair most needs
+
+**`lifts` excludes the range under repair from its own index, so it cannot see a sentence this repair wrote twice inside its own chapters.** `python3 tools/measure.py lifts --volume 10 --first 451 --last 500 --base 185c48e --min 6 --show 20` gives you the added-prose and baseline figures and the longest runs other chapters hold. **Your range is unrepaired, so it contributes no added prose at all and the `ADDED` line reads zero across the board; the four figures are the instrument's `BASELINE`, drawn from the five hundred and seventy other chapters, and they are 1079 prose lines, 935 over six words, 534 over nine, mean 9.68.** That is your floor, not your target, **and an `ADDED 0` on an unrepaired range is the exclusion working and not a broken index.** Run it at six words and then at seven, and at nine, and at ten.
+
+**At or above four chapters across four volumes a run is the register and it stands and you name it as a survivor; below it, and with a holder outside your range, it is your sentence and you revoice it with the fact kept and the sentence changed. The ruling item 189 set on the volume's connective is applied and not re-opened: breaking a window on the register is removing the voice.** **Count holders on the prose selector and print which selector you used, and if a run sits exactly at the four-and-four threshold, quote the holder list rather than the count.** A holder counted out of a chapter title is invisible to any count that reads prose, so check titles by hand where the count matters.
+
+**Build the twelve-word cross-file index.** It is described in full in `state/batch-summary.md` under the heading *THE PROSE REPAIR OF CHAPTERS 0441 TO 0449, MEASURED RECORD*, section Six. It reports any twelve-word run in your added prose held by another chapter at fewer than four chapters across fewer than four volumes, with the non-empty-holder test (`if hh and len(hh) < 4`): a run held by NO chapter outside the range is not a lift. **The index has to be rebuilt from disk after every plant, because a token cache built before a plant was written tests a stale index and reports a zero that is not a zero.**
+
+**Plant it before you believe its zero. Take a fourteen-word run verbatim out of `chapter-0050.md` and write it into a file of your range; it should return hits held by one chapter in one volume. Eleven words should return hits the same way. Restore the file and assert the restoration by `md5sum -c` and by `git diff --numstat` returning the file's own landed figure.** Plant the intra-file scan the same way.
+
+**Build the intra-file longest-common-run scan: for every line you add, and every other prose line in the same file, the longest contiguous run of `tools/measure.py`'s `TOKEN` tokens the two lines share, case-folded, date lines excluded, implemented with `difflib.SequenceMatcher` over case-folded `TOKEN` lists. Report any pair at six words or over. Run it after your first draft and again at the end.** Note what it cannot see: a flat contradiction of a canon sentence, an invented duration, a count of times against the base's own rate, a base figure attached to a different act, an invented fixture, a re-performance of the base's own act, or a shared fact with no shared words. **On the range behind you the scan found five and reading found seven, and every one of the seven was invisible to every instrument. Prove your zeros before you believe them.**
+
+## The blank line, and it is the cheapest defect in this repair to create and the only one no instrument here can see
+
+**Every chapter in Volume 10 separates its paragraphs with a blank line. A paragraph inserted at a line number with no blank line ahead of it is not a new paragraph to a reader: it runs on into the base paragraph above it as a continuation of it, and every instrument in this repository still counts it correctly.** Build the blank line into your helper on the first edit and assert it on every insert. **Your landed diff must be twice your paragraph count, and the structural gate below will confirm that no base blank line was disturbed. Refuse any anchor on a blank line.**
+
+## The anchor line and the section break
+
+**An anchor line and a section break are not the same thing, and a helper that takes a line number and does not know what the line is will put a paragraph inside the wrong beat.** No instrument in this repository can see a section boundary. **Your helper must refuse any anchor that IS a `---`, and after every insert print the anchor line, the paragraph below the insert and the nearest `---` in either direction, and read them.**
+
+## The standings that have cost this repair more than any instrument has
+
+**One: an added paragraph must not restate what the paragraph above it already carries, and must not perform the act the paragraph below it already performs.** Those two are the commonest defect in this repair and they are found by reading and by the intra-file scan. Read the paragraph immediately above and the paragraph immediately below after every insert.
+
+**Two: a construction list that is flat in total and not flat in form is the shape a repair's own prose takes, and the instrument that sees it counts forms per file and does not sum. Run that scan after every single edit.**
+
+**Three: the demonstrative-anaphora construction is the writer's tic and a rise in it is a fault in the sentence and not a property of the range. Measure after every single edit and revoice rather than decide to leave it.** `that floor` at 121, `that room` at 77 and `that building` at 70 are concentrations no earlier range has carried, and `that out` at 26 is the prepositional-opener class. **Held flat means flat per file and per form and per chapter as well as flat in the total.**
+
+**Four: an instrument that returns a clean answer is a claim about the world and not a fact about the world, and the string has to be quoted back before an absence is believed.**
+
+**Five: no instrument in this repository looks at what a chapter says, and reading the chapter is the only check that catches the worst class.**
+
+**Six: never change a canon figure to make a sentence read better, and grep the whole of `chapters/` before you add any figure, age or distance.** Never add interiority, never touch a bold marker, and never add a question mark. **A claim about what a person knows rather than about what a person did is interiority in a different dress.**
+
+**Seven: a repair has no authority to settle a canon conflict it finds, and it must not paper over one. Carry it, name it, leave it standing.** The conflicts carried out of the ranges before yours are in `state/open-threads.md` under items 177, 180, 181, 182, 184, 185, 186, 189, 192, 194, 196, 197, 199, 201, 202, 203 and 204. **Write no sentence about which stair any room is on. Write no book count and no second figure for the counting room. The man of about thirty-four is a holder of nothing and is not any other person who can be found; the man of about twenty-six paid by the corner is not the young man from the shipping floor.**
+
+**Eight: no floor material is named in any added paragraph.** `steel`, `brass`, `brick`, `lime`, `plaster`, `glass`, `candle`, `lantern`, `quill`, `pencil`, `match`, `snow`, `slate`, `gravel` and `flagstone` are all in the manuscript and none of them goes into your prose. **If the base names a surface and the surface is on the list, write around the sentence and not over the word.**
+
+**Nine: a revoicing is prose, and prose has to be measured after it and read after it.** A revoicing can introduce a `that`-noun into the sentence that replaced the one it removed, and a later revoicing can put back a form an earlier one took out.
+
+**Ten: never open `chapter-0500.md` for edit, never invent a fixture, figure or surface in it or around it, and never write its last line. The last line is written by the phase that writes Chapter 0500 and by no other phase.**
+
+## What a completed repair of this range looks like, and how it is certified
+
+Every one of these is a gate. **Re-run all of them on the corrected tree and not carried forward from before the last edit.**
+
+```
+python3 tools/measure.py selftest
+python3 tools/measure.py calendar --volume 10
+python3 tools/measure.py words --volume 10
+python3 tools/measure.py words
+python3 tools/measure.py reprints --window 20 --volume 10
+python3 tools/measure.py reprints --window 12 --volume 10
+python3 tools/measure.py reprints --window  8 --volume 10
+python3 tools/measure.py reprints --window  5 --volume 10
+python3 tools/measure.py lifts --volume 10 --first 451 --last 500 --base 185c48e --min 6 --show 20
+```
+
+- **Zero `delete` and zero `replace` against `185c48e` on every file you own.** No original line replaced, removed or edited. Insert plus equal equals the line total on every file and in the total, and **the `equal` figure is lines and not opcode blocks**.
+- **A word-level diff against `185c48e` reporting insertions, 0 deletions and 0 substitutions.** **And the added lines' own word count, taken on their own, must equal the addition and the subtraction.**
+- **Every date line byte-identical to `185c48e` and on the line number it held**, checked with the located line compared against the same line at the base, not by count, and never typed out.
+- **Section-break counts, bold-marker counts, question-mark counts, title lines, trailing newlines and quoted spans all identical to the base, span for span.** **`chapter-0500.md` must be byte-identical to `185c48e` at the end and must appear in no diff you print, and the sentence saying so is part of the record and not an afterthought.**
+- **`selftest` PASS.**
+- **The four construction lists, printed whole, with the method printed whole, and a per-chapter table whose columns are computed on the same method as the headline.** **And `chapter-0500.md` is excluded from every one of those figures, and the exclusion is stated beside them.**
+- **The four indices, all four run on the landed tree, and every hit ruled on in writing.**
+- **The arithmetic printed in full beside the table, run as an addition and not only as a subtraction, because the subtraction is the one that checks.**
+- **Print the unit beside every figure, and print both units when a method returns more than one.**
+
+## What you owe the state layer
+
+**Write all of it. A ninth range in this repair committed ten chapters and wrote no record anywhere at all. Check the ledger's own last item number and do not renumber anything — the high-water mark on your arrival is item 204 and the next free number is 205, and this prompt names no number at all on purpose.**
+
+1. **A section in `state/batch-summary.md`** headed *THE PROSE REPAIR OF CHAPTERS 0451 TO 0499, MEASURED RECORD*, with the method printed whole beside every figure, the arithmetic printed in full, the before-and-now table, the per-chapter table, the date-line section, the checks with the command beside each, the four indices with holder counts on the exact strings, what the canon held, what is carried unrepaired, and what is left. **Append downward. Amend nothing above.**
+2. **An item in `state/open-threads.md`** in the same shape as item 204 and every item before it. **Read item 204 first and read the ledger's last item number, and take the next free number from the ledger and not from this prompt.**
+3. **An update to `state/current.md`**: the Volume 10 row of the per-volume table and the prose note under it, the manuscript total, the repaired-extent sentence, the repaired-range means, and a paragraph for your item beside item 204's. **That file is a handoff and it is short on purpose. Do not restate a figure that lives in another file; a figure printed in two files is a figure that will be printed wrong in one of them.**
+4. **`workspace/prose-repair-0024/PROMPT.md`, and exactly one.** Only fiction, bible, outline, chapter, summary, continuity, character and open-thread files may be edited besides it.
+5. **Commit the chapters, then commit the state layer, then create the prompt. Nothing else.** **Do not edit `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`.** Do not change workflow dispatch, phase selection, timeout, retry or checkpoint logic.
+
+## The four debts, unchanged, and none of them is discharged by this
+
+One is owed a review of Volume 04's Batch 0005, four volumes on. Two, three and four are owed second readings of Volume 05's Batches 0003, 0004 and 0005 and of Volume 06's own Batch 0003, which is four and not three. The fourth is the review gate itself: **it has fallen back to the writing agent every time it has been asked and has never once produced a review that could be certified independent, and a gate that only ever falls back is not a gate that passed either.** They are stated once, in `state/open-threads.md`. **Thirty-three earlier restatements of them were moved verbatim to `state/archive/superseded-four-debts-restatements.md` and the repetition is not to be restarted.**
+
+## What is left, so that no phase can imply otherwise
+
+**Two hundred and sixteen chapters of six hundred and twenty have been through the prose repair, thirty-four point eight per cent, and the next range is forty-nine of them.** **Three hundred and fifty-five chapters will be unrepaired when it finishes, and every one of them will be in Volumes 01 to 07.** **Fifty chapters is five tens and not one, and a phase that takes all fifty in one run takes the largest single untouched volume in the manuscript in one run; the arithmetic and the schedule are the same fact, and whether to subdivide is the next phase's own decision to record and not this prompt's to make.** **Two hundred and sixteen chapters are evidence that the work can be done and not evidence that it has been done.**
+
+**And the honest finding, which no amount of state bookkeeping can fix: the manuscript is structurally complete, canonically sound and not publishable as it stands.** Chapter length fell from 4,042 words a chapter in Volume 01 to 1,455 in Volume 12, monotonically across twelve volumes, and the demonstrative-anaphora construction rose with it from 0.5 instances per 1,000 words to 8.7. **Volume 10 stands at a mean of 1,438.8 words, its longest chapter is 2,056, its shortest is 1,082, and its densest chapter carries 46 sweep instances — and that is the shape the finding takes in a room.** That is what this repair is repairing and it is a decision about scope and it belongs to a person.
