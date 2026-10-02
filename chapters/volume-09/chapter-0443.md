@@ -32,7 +32,7 @@ He has been a courier since the first chapter of this, he cannot be told anythin
 
 "There is no form anywhere in this empire in which a man is entered as the one who signed for a box, and there is not going to be one, and I am not going to stand on a road and explain that to a man I have met once."
 
-The satchel rode high on the other man's shoulder, strapped short for walking. They passed with the width of the road between them, and neither looked back once the other was behind.
+He went on up his own side of the road, and the far side had emptied behind him by then, and neither of them looked back once the other was behind.
 
 ---
 
