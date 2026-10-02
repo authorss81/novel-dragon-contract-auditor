@@ -56,11 +56,11 @@ A printed ruled space with nothing in it is not a mistake and it is not an overs
 
 He took the list out of his hand and put it back in his pocket and did not write anything on it, and nobody at the front office signed for the sixteen of them and nobody signed for the fifteen, and there is no form anywhere for a person to be entered as the one who counted sixteen and said nothing about the sixteenth.
 
-The list in his pocket is not a document anybody could be produced for in a room, and it has never had a word put on it. The interval it travels on has never once been shortened or lengthened by anybody and nobody has ever put in a request to have it. It goes up on the second day and it goes up on the second day again a fortnight after that, and nobody has ever asked whether the day could be a different one.
+The list in his pocket is not a document anybody could be produced for in a room, and it has never had a word put on it. The interval it travels on has never once been shortened or lengthened by anybody, nobody has ever put in a request about it, and nobody has ever asked whether the day could be a different one.
 
 The cart came up at the fourth hour on the second day and the man loaded fifteen of them and left the one with her own name on the shelf where it was, and he did not say anything about the one he left and she did not say anything about it either.
 
-The second cart came back empty as it was always going to and came down again later in the same week, and the stool was not taken out from under the shelves at any hour of either day, and the shelves stood about as high as they have always stood. She had the count of them before he started loading and she had it again when he had finished, and nobody in the room was asked to confirm either count and nobody did.
+The second cart came back empty as it was always going to and came down again later in the same week, and the stool was not taken out from under the shelves at any hour of either day, and the shelves stood about as high as they have always stood. She counted what went onto the cart before he started and she counted it again when he had finished, and nobody in the room was asked to confirm either count and nobody did.
 
 ---
 
