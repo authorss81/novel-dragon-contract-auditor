@@ -44,7 +44,7 @@ He got up and moved the chair.
 
 Not much, and not for any reason he would have given, and not out of the way of anything. He took the chair that has been standing in the middle of that floor since before he had the room and set it down under the corner of the window with no pane in it, where the cold is worst, and where a man sitting down at about the seventh hour would find the cold coming on him from the side.
 
-The chair came off the middle of the floor after two years and it took him about as long as it takes to fold a coat, and there was nobody on the floor to see a man do it and nobody on the ground floor who would have been able to tell whether he had. The window has no pane in any of it and has not had one at any time in the whole of the two years, and nobody has been up here to look at it, and no form anywhere in this empire will give a man a new pane, and he has not wanted one, and the cold is worse where he has just put himself and that is not a mistake.
+The chair came off the middle of the floor after two years and it took him about as long as it takes to fold a coat, and there was nobody on the floor to see a man do it and nobody on the ground floor who would have been able to tell whether he had. The window has no pane in any of it and has not had one at any time in the whole of the two years, and nobody has been up here to look at it, and no form anywhere in this empire puts a pane into a man's window, and he has not wanted one, and the cold is worse where he has just put himself and that is not a mistake.
 
 Then he sat down in it, which he has not done, and the four feet of wall beside that window was bare behind him and the nail in it was about the height of his hand and he did not look at it.
 
