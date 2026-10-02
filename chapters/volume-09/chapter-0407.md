@@ -10,7 +10,7 @@ It is the fourth day of the third week of the third month of the year after the 
 
 ---
 
-He has never argued with any part of a stair except the half of it in the middle, and the difference between letting yourself into a building and being in one is not a distance at all, and it is the whole of what a stair is, and he has gone up it about four times in eight volumes and has never once gone up it with anything in his hand.
+He has never argued with any part of a stair except the half of it in the middle, and the difference between letting yourself into a building and being in one is not a distance at all, and it is the whole of what a stair is, and he has gone up it once before today and has never once gone up it with anything in his hand.
 
 The woman of about forty-three who came in at about twenty to the hour put fourpence on the boards and put her hand out, and the clerk of twenty-four gave her a piece of paper out of a case under the near end of the counter.
 

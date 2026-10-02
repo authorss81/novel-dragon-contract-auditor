@@ -58,7 +58,7 @@ The three of the four on the wall behind the counter can be accounted for, and t
 
 The fourth of the four has no name under it and no day against it and nobody has ever been able to give a reason for either, and every one of the three of them has spent eleven years going at the wall and getting nothing off it.
 
-It has never been claimed by one person and it has never been let go by one either. She said it out loud once to a man who came to a house in this street and never came to the floor, in a week that is gone, and Marn Ottery was in the room and did not hear a word of it, and neither of them has gone near it since, and the man who comes in on the second of the two days, who was in the building for the whole of the week when it was spoken, does not know it was said. It belongs to the floor. It has belonged there for eleven years and it is not hers and it is not the clerk's and it is not the man's, and none of the three of them has ever written it down anywhere.
+It has never been claimed by one person and it has never been let go by one either. She said it out loud once to a man who came to a house in this street and never came to the floor, in a week that is gone, and Marn Ottery was in the room and did not hear a word of it, and neither of them has gone near it since, and the man who comes in on the second of the two days, who was in the building for the whole of the week when it was spoken, has the number and nothing else to go on. It belongs to the floor. It has belonged there for eleven years and it is not hers and it is not the clerk's and it is not the man's, and none of the three of them has ever written it down anywhere.
 
 ---
 

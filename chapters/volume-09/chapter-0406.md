@@ -28,7 +28,7 @@ He had been on the step about nine minutes before she opened the door, and the n
 
 "You are here about my name and I am not going to give it to you, and I am telling you that in the doorway rather than waiting for you to come inside for it, because if I say it inside then you have been in my ground floor and I have had you in here, and I have never had anybody in here who was not a person who had come about the lamp." She put her hand on the door frame and did not open the door wider. "**Twenty years. And I am the only one in that house who knows which side of that thing I am standing on, and I have known since about the third year, and I have not been asked and I have not been told, and I have worked it out on my own and I am not going to hand it to a man with a book in about nine minutes.**"
 
-She had worked out which side of it she was standing on in about the third year and has never said so out loud to anybody who has come to it. It was not a discovery. It was over with in about four minutes, and she did not have to think about it, and she has spent a long time since then making sure that nothing ever came of it, and there has not been one thing come of it, and she has never told anybody what it was she made sure of.
+It was not a discovery and it was over with in about four minutes, and she did not have to think about it, and she has spent a long time since then making sure that nothing ever came of it, and there has not been one thing come of it, and she has never told anybody what it was she made sure of.
 
 ---
 
