@@ -46,7 +46,7 @@ The clerk of about twenty-nine was at the far end of two joined tables with her 
 
 "**You have just been told what you are standing ready for.**" Marn Ottery turned round. "**It is nothing. That is the whole of it and it is not going to change this week or next. There is not a box coming down those stairs with your name on it and there is not a form with a space on it for you, and about four hundred of these go out of that counter a year in the hand of somebody and not one of them is coming for you, and I have watched you for two years and I have never seen one of them look at you.**"
 
-She got the first half of it out without turning round and turned for the rest of it, and she turned towards the stair and not towards him. The counter was still doing the ordinary thing at the top of four flights, and about four hundred come out of the case every year in somebody's hand, and not one of them in two years has been looked at by the woman who sells it, and she has never given a name to it, and no form in the building would let her.
+She got all of it out in one voice and did not stop in the middle of it, and there was nothing said back to her at either end of the counter. The counter was still doing the ordinary thing at the top of four flights, and about four hundred come out of the case every year in somebody's hand, and not one of them in two years has been looked at by the woman who sells it, and she has never given a name to it, and no form in the building would let her.
 
 The clerk of about twenty-nine did not look up. She has said a number out loud in that room three times in eleven years and has been thanked for none of them.
 

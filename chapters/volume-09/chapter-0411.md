@@ -22,7 +22,7 @@ The three other books are the same size and were the same size when the four of 
 
 "It stood empty the way a room stands empty when the person in it is not a person in that building. That is not the same and I have known that for about five of the six weeks and I have not written it down." She put the pen down. "I am not on the rota. I am not on the list of clerks. There is a list of clerks in this building and I have seen it and I am not on it, and that is not a complaint, it is the arrangement, and it is the arrangement that lets me sit in here and be nobody."
 
-In five of the six weeks she has had something she has not written down, and she has spent the whole of it on reading the other three books. A room standing empty wants a reason in it and there is nowhere in the building to put a reason, so she has taken the reason out of her own line and gone looking for it in the shape of three other hands, and it is not in there, and she stopped looking twice this week and has not told anybody that she stopped.
+She has spent a week of the six going through the other three books instead of her own line. A room standing empty wants a reason in it and there is nowhere in the building to put a reason, so she has taken the reason out of what she writes and gone looking for it in the shape of three other hands, and it is not in there, and she stopped looking twice this week and has not told anybody that she stopped.
 
 ---
 
