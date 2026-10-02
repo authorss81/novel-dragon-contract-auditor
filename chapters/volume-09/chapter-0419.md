@@ -10,7 +10,7 @@ It is the second day of the first week of the seventh month of the year after th
 
 The man of about sixty-one was at the sill with the pot in front of him and his sleeve turned back about the way he has it turned back. The second hand's work on a sheet has been his since he was forty-two and he cannot read a paragraph and has never once pretended to.
 
-The basket is the only thing in the building which is emptied rather than filled, and it goes out on somebody else's errand and not her own, and the hook on the wall is the only fixture in the corridor anybody has ever expected anything of.
+The basket is the only thing in the building which is emptied rather than filled, and it goes out on somebody else's errand and not its own, and the hook is the only fixture in the corridor anybody has ever expected anything of.
 
 "You have not brought anything up yet."
 
@@ -72,7 +72,7 @@ Nobody said anything for the length of about nine seconds, and the pot stood a q
 
 "I am not going to answer them. **I am going to tell you the only thing I have got, and I have had it since the first time you said it, and it is this: you have now said the second thing out loud, and it was nothing, and the nothing is not a failure of either of us, and I have signed about nine hundred of these a year for nineteen years and the not-knowing is the trade and the not-knowing does not get better by being said in a corridor.**"
 
-He said the whole of it in the one voice he has, and it took about as long again as the four sheets had taken to sign, and after it there was nothing in the corridor left to be said by either of them. What has been said in the corridor since the fourth hour of the year he turned forty-two cannot be written down and cannot be carried up the stair and cannot be entered on anything, and the man who said it is the reason, and it stays in the corridor with him.
+He said the whole of it in the one voice he has, and it took about as long again as the four sheets had taken to sign, and after it there was nothing in the corridor left to be said by either of them. What has been said in the corridor since the fourth hour of the year he turned forty-two cannot be written down and cannot be carried up the stair and cannot be entered on anything, and the man who said it is the reason.
 
 ---
 
