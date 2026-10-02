@@ -14,13 +14,13 @@ He came down the stone at the fourth hour with the rack on his hip and he did no
 
 He set the rack against the wall where it goes and stood on the flags about the length of a sheet off her.
 
-Her hands are on the wall and off it a good many times in the course of a working day, and that is the work, and most of what comes up the stone reaches out a hand for whatever the wall puts in front of it and some of it does not, and she is one of the ones who does and has always been one of the ones who does, and four years of that is a great deal of wall.
+Her hands go to the wall and come off it a good many times in the course of a working day, and that is the work, and a hand goes out for most of what the wall puts in front of somebody going up and not for the rest of it, and she has always been one of the ones who does, and four years of it is a great deal of wall.
 
 ---
 
 "**A sheet with no heading printed over it is not a thing either of us has ever had to handle.**"
 
-A rack which goes up a stone four times a day and comes back down just as often is a thing a man carries and does not push, and a man who has carried one for forty years puts it against a wall without looking at where the wall takes it, and the putting of it down took no longer than it takes to touch a wall and stop touching it.
+A rack which goes up and comes down the stone four times a day, just as often coming down as going up, is a thing a man carries and does not push, and a man who has carried one for forty years puts it against a wall without looking at where the wall takes it, and the putting of it down took no longer than it takes to touch a wall and stop touching it.
 
 He said it to the stone and not to her, and then he stayed where he was.
 
@@ -42,7 +42,7 @@ The rack was against the wall and the flags were cold and there was nothing on t
 
 "I have said that and I have said the other half of it, and the other half is that I went up and came down that passage four times a day for four years while it happened and I was carrying the number at that time, and it went back up clean, and I have never known what was in it and I have never once been able to put my hand on it and say so." He took his hand off the rack. "**I am not saying it to you because you did it and because I do not blame you. I am saying it to you because you are standing at the end of the stone and I am forty years old and I have just worked out that if one comes down here it is not a thing that arrives and it is a thing that lands on a person.**"
 
-He has carried a number down the stone for four years and the number has never been said out loud in it and has never been written down anywhere, and a number a person carries alone for four years is not a figure a person can put in front of anybody, and nobody is going to get one off him, and he came down it this morning for the four times a day and for nothing else.
+He came down the stone this morning for the four times a day and for nothing else, and the number is not one anybody will get off him, and there is no asking him for it that is not simply not asking.
 
 ---
 

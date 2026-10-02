@@ -12,7 +12,7 @@ The door at the bottom of that stair had gone about a minute and a half before M
 
 She had handed him a piece of paper with nothing printed on it and fourpence had gone into the ordinary place and the paper had gone into a coat, and it had taken about a minute and a half, and she was not going to say one word about it in that room or out of it.
 
-What the room hears at the foot of the stair is a person walking down the middle of it, and there is no latch and nothing to catch and no closing behind a person at all, and on an ordinary morning at the fourth hour it is the loudest thing anybody in the building hears, and every person at the counter hears it and not one of them looks up.
+What the room hears at the foot of the stair is a person walking down the middle of it, and there is no latch and nothing to catch and no closing behind a person at all, and at the fourth hour of an ordinary morning it is the loudest thing anybody in the building hears, and every person at the counter hears it and not one of them looks up.
 
 ---
 
@@ -40,7 +40,7 @@ People went up those four flights all morning and nobody said one word about it,
 
 The clerk of about twenty-nine was at the far end of two joined tables and did not look up.
 
-About four years is long enough for a woman on the far side of a room to have heard everything either of the two at this end has ever said in a morning, and none of it went on to the page in front of her, and keeping what goes on to the page is all a person at the far end is there for, and no one has ever asked her for anything else, and she has never asked for it.
+About four years is long enough for the woman at the far end of a room to have heard everything either of the two at this end has ever said in a morning, and none of it went on to the page in front of her, and keeping what goes on to the page is all a person at the far end is there for, and no one has ever asked her for anything else, and she has never asked for it.
 
 "I am not going to thank you for that," Tamsin Rook said.
 
@@ -52,7 +52,7 @@ About four years is long enough for a woman on the far side of a room to have he
 
 "You have not asked me about anything this morning."
 
-Much of the twenty minutes went before anything at all happened in the room, and she stood at the counter and did the ordinary things a person does standing at a counter with nothing on it, and about four hundred a year go through her hands and not one of them in a whole year ever needed a person standing there twenty minutes early, and she was not the first person to have spent twenty minutes of a morning in front of a counter with nothing on it and she would not be the last of them.
+Much of the twenty minutes went before anything at all happened in the room, and the ordinary things a person does standing at a counter with nothing on it took the rest of them, and nothing on the counter in front of her has ever wanted a person standing there twenty minutes early, and she was not the first person to have spent twenty minutes of a morning in front of a counter with nothing on it and she would not be the last of them.
 
 "I have not and I am not going to and I want that said in this room before either of us starts."
 

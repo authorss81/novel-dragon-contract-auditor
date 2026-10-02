@@ -18,7 +18,7 @@ He had a stub of pencil behind his ear and he did not take it out until after he
 
 Six months ago he said a true thing in a room to two people, and one of them put it back to him about four days later and said he had made the same statement twice in front of two people, and he did not take it back. That is the whole of what he has ever done in a room and it is not going to be in a room again.
 
-The four were the reason he came up and nobody on the floor has ever told him he has to bring them, and they went back down under his arm in the same order they went up, and one of the four has gone down second every week for about two years, and which of the four it is has never once been known to anybody.
+He was never told he had to bring them, and the four were the reason he came up, and they went back down under his arm in the same order they went up, and one of the four has gone down second every week for about two years, and which of the four it is has never once been known to anybody.
 
 ---
 
@@ -26,7 +26,7 @@ Then he put fourpence on the boards.
 
 Nobody said anything. **Tamsin Rook took it and went to the case at the near end and took out a piece of paper with nothing printed on it and came back and put it in front of him, and she did it in the order she has done it about four hundred times, and she said nothing at all.**
 
-A sheet out of the case is not a rare thing to be handed across a counter and it is not a strange one, and the year takes about four hundred of them, and they are all the same size and the same weight, and there is nothing on any of them at all, not a line and not a heading and not a mark, and the woman who hands one over has never once had to say anything about it to anybody.
+A sheet taken out of the case is nothing rare to be handed across a counter and nothing out of it is strange either, and the year takes about four hundred of them, and they are all the same size and the same weight, and there is nothing on any of them at all, not a line and not a heading and not a mark, and the woman who hands one over has never once had to say anything about it to anybody.
 
 He could see her hands the whole time. That was the whole of what happened at that counter and there was nothing else in it and no part of it was unusual.
 
@@ -46,7 +46,7 @@ He said it to the boards, about the length of a breath, and went on with the pen
 
 ---
 
-Fourpence is what the paper in his hand cost at the counter, and it goes into the ordinary place, and nobody at the counter has ever looked at what is in the ordinary place at any hour of a working day, and the fourpence and the paper go two different ways out of the room, and the fourpence goes where the fourpence goes and the paper goes out of the building with the person who filled it in, and the case empties about four hundred times a year into somebody's hand.
+Fourpence is what the paper in his hand cost at the counter, and it goes into the ordinary place, and nobody at the counter has ever looked at what is in the ordinary place at any hour on any working day, and the fourpence and the paper go two different ways out of the room, and the fourpence goes where the fourpence goes and the paper goes out of the building with him, and one of the two of them leaves the building on every working morning and nobody has ever asked after it.
 
 The clerk of about twenty-nine at the two joined tables did not look up, and Marn Ottery at the far end of those boards did not turn round, and neither of them said anything, and **there is no form anywhere in this empire for a clerk to be recorded as the one who did not hear a thing said in a room she was standing in.**
 

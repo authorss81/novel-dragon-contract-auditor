@@ -10,7 +10,7 @@ It is the fourth day of the fourth week of the seventh month of the year after t
 
 He had been in since the third hour. He had done the same eleven things in the same order, and he was at the head of the tables, and Marn Ottery was at the near end of the boards with her back about a foot off the case.
 
-The boards are nine foot of deal and they are the only flat thing on the floor, and a man can lay a sheet down on them and square it and lift it again without anybody at the counter having to look up, and the squaring is done with the heel of the hand and not with a rule, and he does it the same way whichever morning of the week it is.
+The boards are nine foot of deal and they are the only flat thing on the floor, and a man can lay a sheet down on them and square it and lift it again without anybody at the counter having to look up, and the squaring is done with the heel of a hand and never with any sort of rule, and he does it the same way whichever day of the week comes round.
 
 "I am going to say a thing," he said, "and I have never said it on this floor and I have thought about it every week for about nine years, and I am not asking you anything."
 
@@ -36,7 +36,7 @@ About four flights is not much stair, and a person crosses it at a steady rate f
 
 "**A man who does not know where a thing is filled is a man who has to go on coming up a stair.**"
 
-His hand went on with a thing his hand does and has been doing for about nine years, and Marn Ottery looked at the two of them once and then went back to the boards, and which of the two she was looking at has never been said out loud by anybody in the room.
+His hand went on with a thing his hand does and has been doing for about nine years, and Marn Ottery looked at the two of them once and then turned back to the boards, and nobody in the room has ever been told which of the two she was looking at.
 
 He put his pen down, which he did not do for the rest of that morning.
 

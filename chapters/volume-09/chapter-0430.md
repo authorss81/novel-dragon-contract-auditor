@@ -42,11 +42,11 @@ Tamsin Rook did not move and did not say anything and nobody asked her for a wor
 
 Then the stair, at about the fifth hour, and the man from the yard came up it with the satchel off the strap and the cold in the leather where it sits against a man's hip, and he put a folded thing on the boards the way he puts one there most days, and did not take the bag off his shoulder, and nobody on that floor has ever told him what is in it.
 
-A satchel that has been against a man's hip since before the frost has the cold in one place in it and not in another, and he has never once turned it round, and he tells the room where the cold is every morning, and nobody has ever once asked him to say so, and about the shape of a satchel is the whole of what anybody on the floor could ever be shown about what he carries.
+He has never once turned the bag round and nobody on the floor has ever asked him a single thing about what is in it, and the shape of a satchel and where the cold sits in it is the whole of what anybody there could ever be shown about what he carries.
 
 "The cold is in it again," he said. "It is in the same place as always and it has not been out of it since the frost and I am telling you that because I tell you that."
 
-The sixth hour is when the boards go up and the case goes behind them, and about four hundred a year go out of the counter before the hour is done, and the boards going up has been watched more times than any of the three could put to, and who the last one out of the room is has never once been settled by anybody, because the boards go up, the door opens, and they go out in the order they have always gone out in.
+The sixth hour is when the boards go up and the case goes behind them, and the counter empties before the hour is done, and the boards going up has been watched more times than any of the three could put to, and who the last one out of the room is has never once been settled by anybody, because the boards go up, the door opens, and they leave in the order they have always left in.
 
 "You are not going to be told what is in it and you have never once asked and there is nowhere on this floor to tell you."
 

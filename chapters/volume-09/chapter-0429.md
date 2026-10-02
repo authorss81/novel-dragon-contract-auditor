@@ -46,7 +46,7 @@ She finished the line and squared the book against the edge of the counter with 
 
 "It is not fair and it is also true, and the two of those have been the arrangement on that counter for about two visits now." She put her hand flat on the book. "**I know what a column with a heading over it is. I keep four of them. I have wanted the fifth one because there are weeks when a person comes in and what was paid is not what was owed, and there is nowhere on that page to put the difference, and I have wanted to put it there for nine years.**"
 
-About four feet of wet is nothing at all, and two people standing four feet apart in a lane can hear one another raise a voice, and about eleven years of not raising one about the man whose door is between them is not a quarrel and nobody in the lane has ever been told it was anything else, and not one of the two women has ever put a word of it to him, and four feet of wet and about eleven years is everything either of them could ever be shown about the other one, and neither of the two women has ever once tried to be.
+Four feet of it is near enough for a raised voice to carry across, and neither of them has ever raised one, and that has gone on for about eleven years, and it is not a quarrel and nobody in the lane has ever been told it was anything else, and neither of the two women has ever once tried to be able to say what the other one has done.
 
 ---
 

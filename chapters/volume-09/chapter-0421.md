@@ -22,7 +22,7 @@ It is the fourth day of the third week of the seventh month of the year after th
 
 She said it flatly, to the bench, and not to him.
 
-She was at the low end of the bench and he was at the high end of it, and in about nine weeks neither of them has said out loud which of the two ends was hers, and neither of them has needed to say it, because the bench is one bench and a person can stand at either end of one bench for nine weeks and not have come to an arrangement about anything.
+She was at the low end of the bench and the high end was his, and in about nine weeks neither of them has said out loud which of the two ends was hers, and neither of them has needed to say it, because the bench is one bench and a person can stand at either end of one bench for nine weeks and not have come to an arrangement about anything.
 
 "Not one. And I have put it to about nine things since and every one of them came out the same, and I am not going to list them, because a list is a thing you can be shown and this is not one."
 
@@ -42,7 +42,7 @@ He did not move, and the chain did not move, and the light off that wall had not
 
 He said nothing for a while, and the two of seventeen at the back of that shed did not move, and nobody said a word to either of them.
 
-She turned her hand over on the bench and looked at the palm of it, and the palm was empty, and she put the hand down flat again, and the doing of it took no longer than the waiting a man does before he answers, and not one breath longer.
+She turned her hand over and looked at the palm of it, and the palm was empty, and she put the hand down flat again, and it took no longer than the waiting a man does before he answers, and not one breath longer.
 
 ---
 
