@@ -20,6 +20,8 @@ Eleven years on a stair and the stair has had one sound in it for the whole of t
 
 He took it off. He said nothing, which is what he says.
 
+The boards showed eleven years of sleeves moving across them in the same short arcs, morning to evening, winter to summer. Marn kept her palms down a moment longer, letting the cool come up into her skin, while the pen at the far table stayed where it had been laid.
+
 ---
 
 The floor was quiet for the length of a page after that, and Marn Ottery put both hands flat on the boards, and the clerk of about twenty-nine put her pen down before the hands were flat, which she has done three times in eleven years and not once before this week.

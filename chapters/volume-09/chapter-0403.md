@@ -48,6 +48,8 @@ A box that has not moved in six years has one line in the dust where the front o
 
 He went up the four flights at about half past the fifth with the sheet under his arm and went up the way he has gone up about four times a week for two years, which is at the pace of a man who is not thinking about the stairs.
 
+Dust rose off his cuffs in the close air and settled again before he reached the landing. He shifted the sheet higher under his arm and kept his eyes on the steps, counting nothing, hurrying nothing, letting the rhythm carry him past each turn.
+
 The counter is at the top of them and there is a board on the wall behind it and about a hundred feet of floor between the near end of the boards and the top of the stair. Under the far end of those boards there is a box and it is three inches further forward than it was when he last stood on that floor, and there is dust on the lid of it, and the lid has not been off it in six years.
 
 He put the sheet on the near end of the boards where it goes. He did not look at the box. **He stood at the near end of those boards for about as long as it takes to fold a coat, and he did not touch the box and did not go near the end of the boards where the box is, and neither of the two women at that counter said one word to him about where he stood, and one of them has told him out loud that she was not going to be thanked and he is not going to be thanked either.**
