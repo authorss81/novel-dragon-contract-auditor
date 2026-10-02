@@ -22,7 +22,7 @@ And the nothing that has happened is this, and it is the whole of the cost.
 
 He came down at the fifth hour on the same day of every week since and put his hand out and she put the rent into it and he went back up the stair, and he has not said one word to her that he did not have to say, and he has not asked her one thing, and he has not been different at her in any way at all, and he is not going to be, and she knows he is not going to be.
 
-Twenty years is how long one day of the week has been a day of the week, and it has never once fallen to either of them to wonder about the other one, and not one word has ever had to be said by either of them in all of it. There is nothing in twenty years of that which either of them would want set down anywhere. There was never an arrangement about the door and there is not one now, and the door was never the point of it.
+Twenty years is how long one day of the week has been a day of the week, and it has never once fallen to either of them to wonder about the other one. There is no form anywhere in this empire for a day of the week to be entered as anything but itself. There was never an arrangement about the door and there is not one now, and the door was never the point of it.
 
 **You are waiting for the other thing. The knock at the front door with a man in it, and somebody from somewhere wanting to know about a woman at the bottom of a stair, and a form with a heading over it. There is not one and there is not going to be, and the reason is not that anybody in that house is kind. The reason is that the arrangement worked for nine years on being unfindable, and a true thing said once in an empty room by a person nobody can be shown anything about is not a thing anybody can be shown either.** That is the part she did not know until eleven weeks ago, and it is the part she has not been sleeping about, and it is the opposite of what she expected and she is not going to say it out loud again to find out whether it is right.
 
@@ -46,7 +46,7 @@ She did not go round the back of the boiler and nobody went round the back of it
 
 Then she took her hand off, set the lamp back on the table where it lives and left it burning, and there was nothing else on that table and there has not been.
 
-Nobody came in after him on the evening and nobody came in before him on any evening of the week, and nobody has ever used the front door by the table except him. There is no list of who comes and nothing anywhere could put a person down as the one who was let in, and the money went into a hand and out of one the way it always has, and nobody wrote one word of it down.
+Nobody came in after him on the evening and nobody came in before him on any evening of the week, and nobody has ever used the front door by the table except him. There has never been anything kept about who was let in, and there is nowhere in the house where such a thing could be put, and nobody in it has ever been asked to keep it.
 
 ---
 

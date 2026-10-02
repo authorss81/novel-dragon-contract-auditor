@@ -38,7 +38,7 @@ The man of about sixty-one signed the third one and the fourth one and the hand 
 
 "You have not been up here in a month because there is nothing on that case to buy."
 
-Nobody in the corridor was waiting on either of them and nobody came up behind the young man while he stood there, and the bundles which came up in between were put down and signed and squared and sent back down again without either of the two of them being asked to move out of the way. There is no rule anywhere about how long a man may stand at a sill, and no one has ever written one down, and nobody would have known what to do with one if it were written this week.
+Nobody in the corridor was waiting on either of them, and the bundles which came up in between were put down and signed and squared and sent back down again without either of the two of them being asked to move out of the way. There is no rule anywhere about how long a man may stand at a sill, and no one has ever written one down, and nobody would have known what to do with one if it were written this week.
 
 ---
 
