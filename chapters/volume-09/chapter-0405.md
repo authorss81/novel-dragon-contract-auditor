@@ -12,6 +12,8 @@ He wrote the four lines out again and they came out the same.
 
 Same four lines, same order, same length of handwriting, and he stopped where they stop, which is in the middle of a clause. The clerk of about twenty-nine did not look up. There is a sheet squared in front of her. She told him once, on a working afternoon, that she was not going to say it again in that room and was not going to carry it to the yard or the lane or her own kitchen, and she has kept to that for two years, and this week she has not even started.
 
+The nine of them have not been kept. The eight before this one went out of the floor in the ordinary way with the ordinary sheets and were burnt or thrown away or are in a heap somewhere in the building with everything else of the kind, and he has never once gone looking for one of them and has never once wanted to, and the reason he wants it every week is the four lines and not the paper.
+
 The man at the head of the two joined tables came in at about the third hour, read his own column, and went out again without looking at the third one, which he has done every working day for eleven years.
 
 ---
@@ -23,6 +25,8 @@ The man at the head of the two joined tables came in at about the third hour, re
 "It is the ninth and it has come out the same nine times, and I have sat at the other end of these tables for every one of them." She put her pen down. "**I am going to tell you the thing about the other half of that sentence, and I am telling you because you have not asked me, and I want it entered that you did not ask me, and I am not going to be thanked for it.**"
 
 "I have not asked you."
+
+She has been sitting at the far end of two joined tables for all nine and she has counted every one of them, and the reason she has counted is that she was the one person in the room who could have stopped the first one and did not, and she has never said it out loud to him and has never said it out loud to anybody else either, and nobody has thanked her for it and she has not asked to be.
 
 "You have not asked me in two years and I have noticed every week that you have not, and it is not a courtesy, and I will not have it called one." She did not look at the third column. "**It is not going to arrive. That is the whole of what I have and I am going to say it once.**"
 
@@ -44,6 +48,8 @@ The man at the head of the two joined tables came in at about the third hour, re
 
 He did not ask her for the rest of it and she did not offer it again, and there was nothing on that floor that anybody could serve anybody on.
 
+A doorway is not a room and a doorway is not a form and there is no column anywhere in this empire for what a person says in one and stops in the middle of. She had stopped. That was the entire of it, and she had stopped in front of a person, and the other person had been in the building for eleven years and had spent two of them writing down half of what was said and putting the half where anybody reads it, and had never once gone and stood in a doorway and waited.
+
 Then he took the sheet of fool's-cap and turned it round so the four lines were at the foot of it, under the last ruled line and below where his own figures stopped, where the labour of a book-keeper goes when it is not a figure.
 
 The clerk of about twenty-nine watched that happen from four feet off and said nothing for about half a minute.
@@ -59,5 +65,7 @@ The clerk of about twenty-nine watched that happen from four feet off and said n
 A man from the yard came in with a satchel and set it on the counter along that wall where nothing is sold and everything is set down and taken up again, and he stood with the strap across his shoulder and was not told what was in it and did not ask, and nobody said one word to him, and he went out again and down the lane.
 
 **He was not examinable. There is nobody in that lane who could tell anybody anything about him, and there is nobody in that lane who could tell anybody anything about the four hundred yards either, because nobody in that lane has been down it and no blank is carried up it and a carrier who is findable has stopped being cheap.**
+
+Twice in the same week a sheet was squared in front of him and put down the wrong way up and squared again, and the clerk of about twenty-nine did not look at either of them and said nothing about either of them, and she has not lost the thread of anything in the two years he has known her, and not one word passed between the two of them about the third column on either day, and at the end of both days the page still carried nothing but four lines and a ruled space they were not in.
 
 The four that come up that lane were in that Company's accounts before the fourth hour. The four lines are at the foot of a sheet of fool's-cap now, under the last ruled line, in the same four lines in the same order in the same length of handwriting, and the middle of that clause is where it has always been, and it is not going to be different this week than it was the other eight weeks.

@@ -8,15 +8,21 @@ It is the second day of the second week of the fourth month of the year after th
 
 ---
 
+Nobody working there has ever watched the older of the two women open either of the two things in the drawer, and she has not offered and has not been asked, and no form anywhere in this empire will require a person to account for what is in a drawer she did not put there, and she has been the oldest person on the floor for eleven years and has never once been asked to hand anything over to anybody.
+
 A woman of about thirty-eight came in at about half past the third hour and put fourpence on the boards and the clerk of twenty-four gave her a piece of paper with nothing printed on it out of the case at the near end, and the woman folded it in three and put it inside her coat and went down the four flights.
 
 Then a young man of about twenty-one did the same thing, and then a man of about fifty-six, and neither of them was asked what it was for and neither of them said anything at all. Nobody at that counter knows what any of the three of them is going to do with it, and **that is the ordinary morning of that counter and it has been the ordinary morning of that counter for as long as anybody there can remember.**
+
+The woman of about thirty-eight had stood at the near end of the boards and had not said one word. The young man of about twenty-one had done the same thing about a minute later and had gone out faster. The man of about fifty-six had counted the money out of a hand before he put any of it down and had not looked at either of the others, and the clerk of twenty-four had handed all three of them out of the case with one movement of the same arm and had not looked at any of them either.
 
 "You are doing it out of the case."
 
 "I am doing it out of the case."
 
 "There is a box under the far end of those boards with about four hundred in it and nobody can say where that case is filled, and I have been at these boards eleven years and I have never been able to find out, and I have stopped trying, and I want it entered that I stopped on my own account." Marn Ottery did not look at the case. "**The box is not the supply. That is the whole of what I have got and it is not much and it is the only true thing about that end of these boards.**"
+
+Eleven years is a long time for three people to look under a counter at a thing and not once move it. Each of them has put a hand on it at some point in the eleven of them and each of them has done it alone and on a day when the other two were not working, and not one of them has ever put a hand on it in front of either of the others, and there is no rule against that and there never was, and it is the single most consistent thing about the three of them.
 
 ---
 
@@ -32,6 +38,8 @@ Tamsin Rook had been on that floor since twenty minutes before the fourth hour a
 
 She said it to the boards and not to the woman, and she said it in the ordinary voice, and it was a sentence and it had no mark at the end of it.
 
+Not one sentence in two years down there had gone into the air carrying a shape like it, and she had built it out of the plainest words she could find and had gone over every one of them before she said it, which is a thing a person does at the end of a fortnight, and she had decided in advance it was not going to carry a mark at the end, and it did not.
+
 Marn Ottery did not turn round.
 
 "I am not going to answer that," she said. "I am not going to answer it because you have not asked me, and I am not going to treat it as a question, and if you had put it to me as one there would have been about four things to do about it this morning and I have not done any of them and I am not going to."
@@ -45,6 +53,8 @@ Marn Ottery did not turn round.
 "I have not been used."
 
 "You have been early for two years, and I said out loud in the second week of the second month that nobody in this building had done one thing about it, and I was pleased with the shape of that, and I have been wrong about the shape of it for a fortnight and I have been carrying it." Marn Ottery turned round. "**The not doing anything about it was not a courtesy to you. It was the using. There is no form anywhere in this empire for a thing that has been done to a person and not written down, so the not writing was all there was, and you are the only thing in that room anybody could have said a thing to and every week you came in early was a week that went on being true.**"
+
+Two years of being on the floor twenty minutes before anybody else and two years of nothing at all happening to her, and she had filed the whole of it in her own head as somebody being polite, and it had not been, and the not writing it down anywhere had been all there was for two years, and a thing that has not been written down is a thing that does not exist the next morning, and she is the only person alive who knows about it and she has known since a fortnight ago.
 
 ---
 
