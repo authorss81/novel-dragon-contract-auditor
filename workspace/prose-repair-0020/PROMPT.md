@@ -30,7 +30,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | words | 1,392 | 1,512 | 1,449 | 1,332 | 1,670 | 1,233 | 1,492 | 1,418 | 1,516 | 1,383 |
 
-**Volume 09 is 78,540 words at 1,571 a chapter on `python3 tools/measure.py words --volume 09`, and the manuscript is 1,463,129 in 620 files on `python3 tools/measure.py words`. Volume 01 is 202,117 words and 4,042 a chapter.**
+**Volume 09 is 78,510 words at 1,570 a chapter on `python3 tools/measure.py words --volume 09`, and the manuscript is 1,463,099 in 620 files on `python3 tools/measure.py words`. Volume 01 is 202,117 words and 4,042 a chapter.** **Those two figures were 78,540 and 1,463,129 when this file was written; the re-audit of the range behind yours took thirty-seven words out of it and they were re-measured on the corrected tree. Your own range's figures are unaffected and are 14,397 words at mean 1,439.7, and `git diff --numstat cb7fce7` over your ten files still returns nothing and all ten are byte-identical at `cb7fce7` and on the working tree, so `cb7fce7` is a valid base for your range and `ff29134`, which is the head of your range's own log, is older than it.**
 
 **The construction, measured on method 3 — the selector with the date line stripped — which is the figure of record:**
 
