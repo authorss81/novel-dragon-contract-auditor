@@ -12,7 +12,7 @@ He wrote four lines out on the ninth of those mornings and they came out the sam
 
 The four lines go into a book that about nine hundred rooms come and go through over a year, and the book has a name on the cover of it and a date in the corner of every page, and there is nowhere on any of those pages for a thing that is not a sum.
 
-The week before this one was entered in the four places it always is, and the four places are the four places. He had not added a column and had not taken one away, and no heading has ever been printed over a space in it which was not printed over the week before, and rooms come and go through a book of this kind in a year without any of them asking for anything else or being given anything else.
+The week before this one was entered the way the ones before it were entered. He had not added a column and had not taken one away, and no heading has ever been printed over a space in it which was not printed over the week before, and rooms come and go through a book of this kind in a year without any of them asking for anything else or being given anything else.
 
 **He has wanted the rest of a sentence for about two years.** A woman of fifty-one began it in a doorway in a week that is gone and got about nine words into it and stopped, and the nine words are on this page in his own hand, and the rest of it has not arrived in about two years and he has not asked and is not going to.
 

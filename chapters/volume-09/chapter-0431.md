@@ -92,7 +92,7 @@ Nobody said anything else about it for the rest of that day and nobody said anyt
 
 About four men on the far side of that town cannot get the sense of a paragraph and none of them has ever been asked one thing by anybody. The man of about fifty-five with the chain is nine miles off in a shed and can read a paragraph and has never been one of those four.
 
-It lay where he had left it for the better part of two hours, and nothing was done with it, and no second sheet was put down on top of it, and nobody came back for it or asked after it in between. The hours that were left ran the length they always run there and went at the rate they always go at, and the sill was bare at the end of them except for what had been on it, and the only difference anybody could have said out loud afterwards was which one it was.
+It lay where he had left it until about the fifth hour, and nothing was done with it, and no second sheet was put down on top of it, and nobody came back for it or asked after it in between. The hours that were left ran the length they always run there and went at the rate they always go at, and the sill was bare at the end of them except for what had been on it, and the only difference anybody could have said out loud afterwards was which one it was.
 
 ---
 

@@ -54,7 +54,7 @@ Then she said it on the way out, at the open side, with her back half turned, an
 
 He said nothing to that and she did not wait and nobody thanked her for it.
 
-She did not wait for anything and she went out to the lane, and whatever a lane does with a thing said over its shoulder is not a thing anybody in it has ever been shown doing. The shed was as it was an hour earlier and as it was an hour later, and the man on the bench stayed where he was, did not turn his head, and said nothing else in it.
+She went out to the lane, and whatever a lane does with a thing said over its shoulder is not a thing anybody in it has ever been shown doing. The shed was as it was an hour earlier and as it was an hour later, and the man on the bench stayed where he was, did not turn his head, and said nothing else in it.
 
 ---
 
