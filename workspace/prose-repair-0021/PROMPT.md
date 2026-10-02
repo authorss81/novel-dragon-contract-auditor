@@ -28,7 +28,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | words | 1,478 | 1,226 | 1,427 | 1,540 | 1,263 | 1,114 | 1,181 | 1,084 | 1,179 | 1,273 |
 
-**Volume 09 is 81,774 words at 1,635 a chapter on `python3 tools/measure.py words --volume 09`, and the manuscript is 1,466,363 in 620 files on `python3 tools/measure.py words`. Volume 01 is 202,117 words and 4,042 a chapter.** Those figures were measured on the tree your range's predecessor left and none of them is inherited from a prompt. **Re-measure both before you print either.**
+**Volume 09 is 81,687 words at 1,634 a chapter on `python3 tools/measure.py words --volume 09`, and the manuscript is 1,466,276 in 620 files on `python3 tools/measure.py words`. Volume 01 is 202,117 words and 4,042 a chapter.** Those figures were re-measured on the tree as it stands after the re-audit of `chapter-0421.md` to `chapter-0430.md`, which took eighty-seven words of that range's own added prose out, and none of them is inherited from a prompt. **Re-measure both before you print either.** **Every figure below for your own range was measured at `cb7fce7` and is unaffected by that re-audit, because the re-audit opened `chapter-0425.md` and `chapter-0428.md` and no file of your range; all twelve of them were re-derived here and every one reproduces.**
 
 **The construction, measured on method 3 — the selector with the date line stripped — which is the figure of record:**
 
