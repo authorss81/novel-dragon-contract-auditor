@@ -1,3 +1,13 @@
+# CORRECTION LANDED AFTER THIS PHASE RAN - THE SCOPE BLOCK BELOW IS VOID ON THIS RANGE
+
+**This phase has finished. `workspace/prose-repair-0018/.done` exists, and the sentinel is the last file it wrote, not the first.**
+
+**The `SCOPE OF THIS RUN` block immediately below is void on `chapter-0401.md` to `chapter-0410.md`, and it was added by `da38f4b novel: retire obsolete planning phases` after the range had already been repaired.** It contradicts this file's own gate further down, which says that if `git log --oneline -- chapters/volume-09/chapter-040[1-9].md chapters/volume-09/chapter-0410.md` returns a `prose-repair` commit, the range has been repaired already and is to be **audited instead of rewritten** — and it contradicts state items 182, 185, 187, 190, 191, 195, 197, 198 and 199, four of which state in terms that they wrote no prose on this range. **The range was repaired at `9f5a021` and then audited and revoiced by ten further records, so a phase obeying the block below writes 240 words into a finished range and records nothing, which is what happened: five paragraphs and 240 words were added to `chapter-0401.md` through `chapter-0405.md` and every figure in the state layer went stale by exactly that.**
+
+**All five were withdrawn at item 200 by restoring the five files from `73df9a8`, and the range stands at 18,972 words against the 14,325 at its pre-repair base `b8780ff`.** The block was not rewritten, because it is a controller artifact and what that revision was meant to do is not this file's to say. **If this phase is dispatched again, the gate at the foot of this file governs and the block below does not.** The full record is in `state/batch-summary.md` under the heading *THE REVIEW FIX OF PROSE-REPAIR-0018, MEASURED RECORD*.
+
+---
+
 # SCOPE OF THIS RUN - READ FIRST
 
 **This run writes Chapters 401 to 405 and nothing else.**

@@ -16,8 +16,6 @@ The boards down. The twine out from behind the far end, because the twine lives 
 
 Then, at about ten minutes to the hour, the eleven things were done and there was nothing else on that floor to do before the fourth hour.
 
-Early light came up the stair and lay in a thin line along the edge of the boards, widening by fingers while she waited. She kept her hands folded and watched the line reach the twine, then the rim of the lamp, then stop short of her stool.
-
 **She has spent the last ten minutes of the last two years sitting on that stool with her hands in her lap, and she has never once called the eleven things a reason, and nobody has ever called them a reason for her, and the not calling is the whole of the arrangement.**
 
 The eleven things are eleven because she has counted them, and she has counted them by doing them, and no one else has counted them with her. There is no list of them anywhere and no heading over them and no column they are in, and if the whole arrangement of the floor were described to a person who had never stood on it, the description would be eleven ordinary actions done in an ordinary order in about ten minutes by a person of twenty-four who is not going to be asked about any of them, and the description would be wrong, because it would leave out the only part of it that is hers.

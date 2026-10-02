@@ -68,6 +68,4 @@ A man from the yard came in with a satchel and set it on the counter along that 
 
 Twice in the same week a sheet was squared in front of him and put down the wrong way up and squared again, and the clerk of about twenty-nine did not look at either of them and said nothing about either of them, and she has not lost the thread of anything in the two years he has known her, and not one word passed between the two of them about the third column on either day, and at the end of both days the page still carried nothing but four lines and a ruled space they were not in.
 
-Rennick aligned the edge of the sheet with the edge of the tables and held it there a breath longer than the work needed. Ink had pooled at the foot of one figure and he blotted it with the side of his finger, then wiped his finger clean along the wooden rim under the near corner.
-
 The four that come up that lane were in that Company's accounts before the fourth hour. The four lines are at the foot of a sheet of fool's-cap now, under the last ruled line, in the same four lines in the same order in the same length of handwriting, and the middle of that clause is where it has always been, and it is not going to be different this week than it was the other eight weeks.

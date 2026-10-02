@@ -58,8 +58,6 @@ The order of it was the whole of the gift and it took him about four seconds to 
 
 She went back down and did not come up again that week.
 
-Her steps faded past the turn and the house settled back into its evening sounds, doors closing below, voices low and far off. He remained at the table with the lamp burning beside him, hands empty, listening until even small noises thinned.
-
 He did not go and look. There was nothing in that room to go and look at, and no paper on that table, and he has not wanted a pen in that room in about two years and did not want one by the sixth hour. He did not write the thing down, and there is nowhere in that room to write it down, and a thing said once out loud to a lamp cannot be unsaid by anybody including the person who said it.
 
 Between the sixth hour and the middle of the night the room did what the room does. The chair in the middle of the floor stayed in the middle of the floor. She took the folded cloth away with her on the way down, and he heard none of it because he was not listening for any of it, and nobody has ever come up the stair to ask him whether he heard them, and no form anywhere in this empire will let a person be asked about a cloth on a stair.
