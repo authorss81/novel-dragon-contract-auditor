@@ -22,11 +22,15 @@ It is the fourth day of the third week of the seventh month of the year after th
 
 She said it flatly, to the bench, and not to him.
 
+She was at the low end of the bench and he was at the high end of it, and in about nine weeks neither of them has said out loud which of the two ends was hers, and neither of them has needed to say it, because the bench is one bench and a person can stand at either end of one bench for nine weeks and not have come to an arrangement about anything.
+
 "Not one. And I have put it to about nine things since and every one of them came out the same, and I am not going to list them, because a list is a thing you can be shown and this is not one."
 
 "You are not showing it to anybody."
 
 "I am not showing it to anybody and that is the half of it I did not know until about four months ago." She turned round. "**A person who is told what a carrier is cannot un-know it. That is all that happened. Nobody did anything to me. Nothing was taken off me and nothing was put on me, and I have a thing in my head now that I did not have in the second week of the fifth month and I am going to have it on the day I die.**"
+
+The chain had slack in it this morning. The slack took up a little every time he turned his head and gave a little back when he stopped, and neither of them counted how often, and a man chained to a bench turns his head a great many times between the fourth hour and the seventh, and the fourth hour and the seventh are a long way apart.
 
 ---
 
@@ -37,6 +41,8 @@ He did not move, and the chain did not move, and the light off that wall had not
 "I know exactly what you said it for, you told me the price of it in the same breath, and I took it anyway, and I would like it entered that I took it." She put her hand flat on the end of that long bench. "**You do not get to have said it. You said it in a shed to a woman who was the cheapest thing you could find on that morning, and I was the cheapest thing you could find, and it has been in my head every working day since, and that is not a gift and it is not a thing I have come up here to give back.**"
 
 He said nothing for a while, and the two of seventeen at the back of that shed did not move, and nobody said a word to either of them.
+
+She turned her hand over on the bench and looked at the palm of it, and the palm was empty, and she put the hand down flat again, and the doing of it took no longer than the waiting a man does before he answers, and not one breath longer.
 
 ---
 
@@ -49,6 +55,8 @@ He said nothing for a while, and the two of seventeen at the back of that shed d
 ---
 
 Then he said his one thing, and he said it slowly, and he said it to her and not to the wall.
+
+Between one person and the next the man on the bench ran his thumb along the front edge of the bench and moved it about two inches and put it back where it was, and he has been doing it since before there was anybody at the low end to do it in front of, and the two inches is not a signal to anybody and has never been one.
 
 "**A carrier's thing goes somewhere.** That is the whole of the trade and I have had it since I was young. It goes to a counter and it goes to a man and it goes into a basket, and about four hundred of them a year go past a man who cannot read a paragraph and not one of them stays with him. It is a thing that goes."
 
@@ -63,6 +71,8 @@ Then he said his one thing, and he said it slowly, and he said it to her and not
 "That is the cheapest arrangement either of us has ever been offered."
 
 "It is the only one on the table and we did not put it there."
+
+The light off the wall comes across the lane and goes over the bench and off it again, and it stops in the same place every morning, and a man on a bench can tell the hour by where it stops without a clock and without moving.
 
 ---
 

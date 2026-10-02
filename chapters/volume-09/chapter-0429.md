@@ -18,9 +18,13 @@ He came in off the lane and he was not wet and he had nothing in his hand, and h
 
 "All right."
 
+A week in which the four columns agree with each other before the book is put back where it lives is a good one, and the agreement is not a thing anybody has ever written down anywhere, and a woman can tell from the doorway whether a week is going to be a good one or not, and this one is, and the shelf has never once been wrong about a week, and about four rooms going by the week is the whole of the reason the four columns agree at all.
+
 ---
 
 "**A book with four headings over it takes a thing in and gives it a column.**" He said it looking at the shelf and not at her. "**A sheet with nothing printed on it takes a thing in and gives it nothing back. There is no column and there is no place it can be put, and that is the whole of the difference and it is the only paper in this empire that works that way, and you are the only person on this street who would know in about four seconds whether that is any use to anybody.**"
+
+The book has lived with its spine to the front of the shelf for nine years and there is a mark at the front of it where the spine has gone in and out, and the mark is about as deep as a thumbnail and it has not got any deeper in a year, and the only thing in the room squared to anything is the book, and the book is squared to the edge because the woman at the counter squares it, and she squares it as often as she passes the counter and she does not know she is doing it.
 
 She wrote the third of that week's names into the fourth column and did not stop and did not look up.
 
@@ -41,6 +45,8 @@ She finished the line and squared the book against the edge of the counter with 
 "That is fair."
 
 "It is not fair and it is also true, and the two of those have been the arrangement on that counter for about two visits now." She put her hand flat on the book. "**I know what a column with a heading over it is. I keep four of them. I have wanted the fifth one because there are weeks when a person comes in and what was paid is not what was owed, and there is nowhere on that page to put the difference, and I have wanted to put it there for nine years.**"
+
+About four feet of wet is nothing at all, and two people standing four feet apart in a lane can hear one another raise a voice, and about eleven years of not raising one about the man whose door is between them is not a quarrel and nobody in the lane has ever been told it was anything else, and not one of the two women has ever put a word of it to him, and four feet of wet and about eleven years is everything either of them could ever be shown about the other one, and neither of the two women has ever once tried to be.
 
 ---
 

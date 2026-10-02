@@ -10,6 +10,8 @@ It is the fourth day of the fourth week of the seventh month of the year after t
 
 He had been in since the third hour. He had done the same eleven things in the same order, and he was at the head of the tables, and Marn Ottery was at the near end of the boards with her back about a foot off the case.
 
+The boards are nine foot of deal and they are the only flat thing on the floor, and a man can lay a sheet down on them and square it and lift it again without anybody at the counter having to look up, and the squaring is done with the heel of the hand and not with a rule, and he does it the same way whichever morning of the week it is.
+
 "I am going to say a thing," he said, "and I have never said it on this floor and I have thought about it every week for about nine years, and I am not asking you anything."
 
 "I know what you are going to say and you are not going to ask me for it."
@@ -30,7 +32,11 @@ He said it to the boards in the middle, not to her, which is how a man says a th
 
 "I am not going to be asked for the rest of it and I am not going to wait to be asked, because I have been in this room about nine years and I have had nothing else to do in it."
 
+About four flights is not much stair, and a person crosses it at a steady rate four times a day going up and coming back down, and a person going up with an empty pair of hands takes longer over it than a person going up with four sheets under an arm, and nobody on the floor has ever timed either of the two or written either of them down.
+
 "**A man who does not know where a thing is filled is a man who has to go on coming up a stair.**"
+
+His hand went on with the thing a hand does when a pen is not in it, and the hand had about nine years of that, and Marn Ottery looked at the two of them once and then went back to the boards, and which of the two she was looking at has never been said out loud by anybody in the room.
 
 He put his pen down, which he did not do for the rest of that morning.
 
@@ -39,6 +45,8 @@ He put his pen down, which he did not do for the rest of that morning.
 "**A supply that is in a room is a supply that is a day's walk from about nine hundred rooms.**" She said it to the boards, the way she says everything she says in that room. "That box has been under the far end of those boards for eleven years. About four hundred of these go out of a case at the near end every year in the hand of somebody, and not one of them is filled in this building, and about nine hundred rooms is the whole of what this empire has got for a person to be in. **Four hundred a year is a great many pieces of paper and it is not anybody's plan, and there is nobody in this empire that it is fair to be angry at, and I am saying that to you as a fact and not as a comfort.**"
 
 "I did not say it was a conspiracy."
+
+The clerk of about twenty-nine kept her head down over the same page at the other end of the room, and she turned the page when the page was done and not before, and the pen she had was not the pen he had left off using, and the two of them are on the floor at the same rate every working day and have never once said so to each other.
 
 "You did not and I am not giving you one. I am giving you a shape and a shape is what you have been asking me for in every way except out loud for nine years."
 
@@ -69,6 +77,8 @@ The man at the head of the tables watched him the whole way up and the whole way
 "You have never asked him."
 
 "He is the only person on this floor who would not have been given it if anybody gave it to anybody, and I have just been told the reason in that order, and I am not going to put the two together in a room with three people in it."
+
+None of the three of them moves towards the counter when it shuts, and the shutting of it is done by a person who does not come up the stair for it, and all three of them have watched the shutting more times than any of them has ever counted, and every one of them went on with the work in hand at the moment it shut last.
 
 ---
 

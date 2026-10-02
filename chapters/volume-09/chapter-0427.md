@@ -10,6 +10,10 @@ It is the second day of the first week of the ninth month of the year after the 
 
 He was at the sill with the pot in front of him and his sleeve turned back about the way he has it turned back, and the young man came up with four under his arm and put them on the sill and he signed all four without looking up, and it took the better part of a minute, and the hand did not do anything different on the fourth one than it did on the first, and it never has in nineteen years.
 
+About four hundred of them a year pass under his hand and none of them has ever been read, and a hand which has signed four hundred a year for nineteen years knows where to stop on a page it has never seen before, and it has never once stopped in the wrong place, and nobody has ever put two of them side by side to compare and nobody is going to.
+
+A pot does not answer and does not care what it is holding, and a man who has been at a sill for nineteen years says a good deal to the one in front of him, and a good part of what he says in the corridor goes into the pot and a good part of it goes into the air, and the pot keeps all of it and gives none of it back, and the air keeps none of it and gives all of it back to whoever is standing in it.
+
 Then he put the pen back in the pot and squared the four with the edge of the sill.
 
 ---
@@ -30,6 +34,8 @@ The man of about sixty-one did not take his hand off the sill.
 
 "I have never seen one and I have not come up here to bring you one." The young man shifted his weight and stopped, and about halfway through the stopping **his hand went to the front of his coat and stayed there about the length of a breath and came off it again, and the man of about sixty-one saw it happen and he did not look at it and he did not look away from the sheets.**
 
+At the seventh hour the basket goes down and stays gone until the fourth hour of the next working morning, and most of what comes up the corridor goes down in it, and the hook stands empty for the rest of every working day and is not emptied by anybody, and the difference between the fourth hour and the seventh hour in the corridor is a hook with a basket on it and a hook with nothing on it, and nothing else in it has changed.
+
 He cannot read a paragraph and he can see a man put a hand on a coat and take it off again, and that is the whole of what has happened on that floor this month, and he is not going to say a word about it and he is not going to be asked about it.
 
 ---
@@ -37,6 +43,8 @@ He cannot read a paragraph and he can see a man put a hand on a coat and take it
 The young man stood on the landing for a while with his hand on the rail.
 
 "**That is not a thing I am going to be told about.**"
+
+A corridor of about nine feet is not a room and nothing in it belongs to one, and the people who use it are on their way to somewhere else when they are in it and somewhere else when they leave it, and nobody has ever been in it for the sake of being in it, and a place where nobody is ever in it for the sake of being in it is a place a thing can be put down in and stay, and that is what has happened to everything which comes through it.
 
 "I did not offer it to you."
 

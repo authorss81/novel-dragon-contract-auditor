@@ -10,6 +10,10 @@ It is the second day of the second week of the ninth month of the year after the
 
 The rent goes out of a hand into a hand once a week, and it has gone out of a hand into a hand for about twenty years, and nothing is written anywhere and there has never been a piece of paper on that table in her life.
 
+A rent which goes up a stair in coin is a short piece of business, and it has been the same short piece of business for about twenty years, and not one hour of it has ever had to be hurried, and it is done in the ordinary voice and without one word of arrangement, and about four feet of far wall has been looked at while it was done and never once by anybody else.
+
+The lid shuts on most of it and not on one side of it, and a person who wanted it shut properly would have to turn the whole thing over, and nine years of coin put in by hand into a tin with a lid that will not shut is a thing nobody can see from the doorway, and nobody in the house has ever gone behind the boiler, and she is the only one who has, and she puts it back on the same way round every time, which takes longer than a working lid would.
+
 **There is a tin behind the boiler. It has been behind that boiler for about nine years and it is about the size of a loaf and it has a lid on it that does not shut the way it used to, and it has nine years of a man's rent in it in coin, and she has never counted it and there is no reason on earth to count it.**
 
 ---
@@ -30,7 +34,11 @@ She put her two hands flat on the table on either side of the lamp and she looke
 
 She said it and the room gave it back the way a room does, and she did not say it again, and she did not say a part of it, and she was not asked about it by anybody because there was nobody in the house.
 
+A lamp lit at the sixth hour every day for about twenty years is lit by one person and by nobody else, and she lights it where the table is, and nothing else in the house happens at a fixed hour, and the hour has not moved once in about twenty years, and a fixed hour in a house with nothing written down anywhere in it is the only record the house keeps.
+
 **That is the cost, and it is exact and it is the only thing that happened that evening. A true thing has been said out loud in a house, and a true thing said out loud in a house is a thing the house can be shown. The arrangement that made this the cheapest floor in this city has stopped being an arrangement and has become a thing somebody knows, and there is no form anywhere for taking a said thing back and there is no form anywhere for a woman at the bottom of a stair to be recorded as the one who said it, and there never has been.**
+
+An empty ground floor at the fifth hour is not an unusual thing in the house and it is not a lonely thing either, and the difference between the two words is the whole of about twenty years, and the passage is there and the front door is there and neither of the two has ever been put to her as a question and she has never put one to either of them, and about twenty years is a long time to have gone without either.
 
 She was not thanked. Nobody sent for her. There is nobody to send for anybody in this house and there has not been for twenty years.
 

@@ -12,9 +12,13 @@ It is the fourth day of the fourth week of the ninth month of the year after the
 
 **The man who comes in on the second of the two days went down that stair at about half past the fifth hour and took nothing with him.** There are three people in that room and there were two a month ago.
 
+Four items on a board behind the counter is a small amount of paper to look at twice a day for eleven years, and every morning for eleven years all four of them have been looked at, and not once in eleven years have the three of them agreed about the fourth of the four, and agreeing is a thing three people can do in about a minute, and nobody has ever said out loud that the case and the board could be moved.
+
 ---
 
 The clerk of about twenty-nine had been at the far end of the two joined tables since the fourth hour with a sheet squared in front of her and her pen down, and Tamsin Rook was at the near end with her back to the case and her hands in front of her doing nothing at all, which is the thing she does when there is nothing on that counter.
+
+Nine seconds is not a long time and it is the length of a room deciding not to speak, and a good many of them have gone by at the counter more often than anybody there could put to, and nearly all of them were started by the same one of the two women and the rest by the other, and the third has never asked which of the two it was, and the answer has never come up.
 
 Nobody said anything for about nine seconds after the boards went up.
 
@@ -38,7 +42,11 @@ Tamsin Rook did not move and did not say anything and nobody asked her for a wor
 
 Then the stair, at about the fifth hour, and the man from the yard came up it with the satchel off the strap and the cold in the leather where it sits against a man's hip, and he put a folded thing on the boards the way he puts one there most days, and did not take the bag off his shoulder, and nobody on that floor has ever told him what is in it.
 
+A satchel that has been against a man's hip since before the frost has one place in it where the cold gets in and one place where it does not, and the place where it does not is the side that is against the man, and he has never once turned it round, and he tells the room where the cold is every morning, and nobody has ever once asked him to say so, and about the shape of a satchel is the whole of what anybody on the floor could ever be shown about what he carries.
+
 "The cold is in it again," he said. "It is in the same place as always and it has not been out of it since the frost and I am telling you that because I tell you that."
+
+The sixth hour is when the boards go up and the case goes behind them, and about four hundred a year go out of the counter before the hour is done, and the boards going up has been watched more times than any of the three could put to, and who the last one out of the room is has never once been settled by anybody, because the boards go up, the door opens, and they go out in the order they have always gone out in.
 
 "You are not going to be told what is in it and you have never once asked and there is nowhere on this floor to tell you."
 
