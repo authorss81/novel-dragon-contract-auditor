@@ -36,7 +36,7 @@ About four flights is not much stair, and a person crosses it at a steady rate f
 
 "**A man who does not know where a thing is filled is a man who has to go on coming up a stair.**"
 
-His hand went on with the thing a hand does when a pen is not in it, and the hand had about nine years of that, and Marn Ottery looked at the two of them once and then went back to the boards, and which of the two she was looking at has never been said out loud by anybody in the room.
+His hand went on with a thing his hand does and has been doing for about nine years, and Marn Ottery looked at the two of them once and then went back to the boards, and which of the two she was looking at has never been said out loud by anybody in the room.
 
 He put his pen down, which he did not do for the rest of that morning.
 
