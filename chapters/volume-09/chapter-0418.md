@@ -16,6 +16,8 @@ Not at twenty minutes to it. At it, with her coat still on, and she did the elev
 
 **She has not done that in about two years.** In two years she has been on that floor alone for twenty minutes every working day, and nobody has ever asked her for an account of it and nobody has ever called it anything, and this is the first morning she has come in on the hour since she came to that counter at all.
 
+The eleven things are the same eleven things every morning and the order of them has not changed since she came to the floor, and the second of them takes the longest, and none of the other ten can be done while somebody is watching, and there has been somebody else on the floor for every one of the days of the two years except this one.
+
 Marn Ottery came up the four flights at the fourth hour and not before it, which is what she does, and she was at the near end of the boards before Tamsin Rook had her coat off, and she looked at the boards and then at the stair behind her and said nothing at all about it for about a minute and a half.
 
 "You have not been here early."
@@ -23,6 +25,8 @@ Marn Ottery came up the four flights at the fourth hour and not before it, which
 "No."
 
 "I am not going to ask you about it and I want that said before either of us starts." She put the twine down where the twine goes. "**I am not going to ask you about it, and I am going to say one true thing in this room this morning, and I am going to say it in the ordinary voice, and I am not going to be thanked for it, and if either of you starts on that I will go back to the other end of these boards for the rest of the week.**"
+
+The twine went down without any more weight in it than she puts into it every other morning, and the two of them heard the difference anyway. Marn Ottery has held the far end of the counter for the whole of eleven years and has never once in any of them come to the near end of it in the first hour of a day, and the first hour is the hour the near end belongs to, and everybody on the floor knows it, and in two years not one of them has ever brought it up.
 
 ---
 
@@ -42,6 +46,8 @@ The clerk of about twenty-nine was at the far end of two joined tables with her 
 
 "**You have just been told what you are standing ready for.**" Marn Ottery turned round. "**It is nothing. That is the whole of it and it is not going to change this week or next. There is not a box coming down those stairs with your name on it and there is not a form with a space on it for you, and about four hundred of these go out of that counter a year in the hand of somebody and not one of them is coming for you, and I have watched you for two years and I have never seen one of them look at you.**"
 
+She got the first half of it out without turning round and turned for the rest of it, and she turned towards the stair and not towards him. The counter was still doing the ordinary thing at the top of four flights, and about four hundred come out of the case every year in somebody's hand, and not one of them in two years has been looked at by the woman who sells it, and she has never given a name to it, and no form in the building would let her.
+
 The clerk of about twenty-nine did not look up. She has said a number out loud in that room three times in eleven years and has been thanked for none of them.
 
 "I am not going to be told I am ready either," Tamsin Rook said.
@@ -56,6 +62,8 @@ Fourpence is the only thing about that transaction that could be entered anywher
 
 Tamsin Rook watched her go down the stair and did not follow her with her eyes the way she has followed about four hundred of them, and she was aware of not following her, and there was nothing to be done about it.
 
+She has a way of watching that is not attention, it is a count she has never written down, and it has never once gone into a book, and this morning the count did not happen, and she let it not happen.
+
 ---
 
 "You have told me a thing I cannot use this morning," she said, "and I am not going to decide anything about it in this room, and I want that on the floor."
@@ -63,6 +71,8 @@ Tamsin Rook watched her go down the stair and did not follow her with her eyes t
 "I have not asked you to decide anything."
 
 "I know you have not, and I am going to leave it exactly where you have put it, and it is going to stay there through the end of today and tomorrow and the week after, and I am not going to come in early on any of them, and that is not a decision and it is not on anything and you are not going to hear me say it was a decision." She squared the boards. "**And nobody is going to thank me for the twenty minutes, and nobody is going to be told they were for anything, and both halves of that are mine to keep and not yours.**"
+
+In two years she has not once said a whole sentence to the boards, and this morning she said one, and it changes nothing about the boards, and neither of the two of them has put any of it into words.
 
 The counter shut at the sixth hour. Nobody had touched the drawer under the board, and the four things were where the four things have been, and half of them have never once been looked at.
 

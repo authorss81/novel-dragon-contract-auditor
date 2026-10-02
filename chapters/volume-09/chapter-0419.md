@@ -10,9 +10,13 @@ It is the second day of the first week of the seventh month of the year after th
 
 The man of about sixty-one was at the sill with the pot in front of him and his sleeve turned back about the way he has it turned back. The second hand's work on a sheet has been his since he was forty-two and he cannot read a paragraph and has never once pretended to.
 
+The basket is the only thing in the building which is emptied rather than filled, and it goes down the steps and across a floor and out of a door, and there is a hook on the wall the whole time with nothing on it, and the hook is the only thing in the corridor anybody has ever expected anything of.
+
 "You have not brought anything up yet."
 
 "I have four on the landing and I have not brought them up because they are not finished and I do not bring a thing up that is not finished, and that is not me being careful, that is me being paid for a corner."
+
+He has never once asked which order the four came up in and he has never once asked where they came from, and the two of those not-askings are the only things he and the young man have in common, and no form in the building would take either of them as an entry.
 
 He put them on the sill and the man of about sixty-one signed all four without looking up, and it took the better part of a minute, and the hand did not do anything different on the fourth one than it did on the first, and it never has in nineteen years.
 
@@ -23,6 +27,8 @@ Then he put the pen back in the pot and squared the four with the edge of the si
 "Then do not say them."
 
 "I am going to say them, and I am going to say them to you, and you are the only person in this building it is any use to say them to, and that is not a compliment, it is a fact about which of us can be held to anything." He put his hand on the sill. "**You are not going to like it and I have thought about that for six months and it has not stopped me.**"
+
+The six months went on the place and not on the sentences. He has worked out that a sentence said in a room is a thing about the room, and that a sentence said on a landing with a hook in the wall behind it is a thing about a hook, and the second of those is worth more to him, and nobody is going to tell him why.
 
 ---
 
@@ -44,6 +50,8 @@ The man of about sixty-one did not take his hand off the sill.
 
 "They are not. They pass me on a corner and I have never had a sheet in my hand in this building and I am not going to have one. **There is nowhere at that end of this building to keep an entry, and that is the whole reason I am worth what I am worth, and if you go up that stair with a book one day you will have taken the only thing I have got.**"
 
+He said it without heat and to the sill, and then he squared the four again, which was the third time he had squared them since the fourth hour, and the young man counted the three. The young man has a wage which comes on the same day every week and two years of it, and nobody in two years has offered him a book to carry, and the older of the two has never once in nineteen years been offered a corner, and neither of those two arrangements was made by anybody, and both of them would be ended by a sentence.
+
 ---
 
 The young man stood on the landing for a while with his hand on the rail and the four sheets where the man of about sixty-one had squared them.
@@ -63,6 +71,8 @@ Nobody said anything for the length of about nine seconds, and the pot stood a q
 "It was four sentences and you have not answered any of them and I am not going to ask you to."
 
 "I am not going to answer them. **I am going to tell you the only thing I have got, and I have had it since the first time you said it, and it is this: you have now said the second thing out loud, and it was nothing, and the nothing is not a failure of either of us, and I have signed about nine hundred of these a year for nineteen years and the not-knowing is the trade and the not-knowing does not get better by being said in a corridor.**"
+
+He said the whole of it in the one voice he has, and it took about as long again as the four sheets had taken to sign, and after it there was nothing in the corridor left to be said by either of them. What has been said in the corridor since the fourth hour of the year he turned forty-two cannot be written down and cannot be carried up the stair and cannot be entered on anything, and the man who said it is the reason, and nobody has ever thanked him for it and nobody ever will, and those are the same sentence and he does not know it.
 
 ---
 

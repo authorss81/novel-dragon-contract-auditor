@@ -12,6 +12,8 @@ It is the fourth day of the third week of the sixth month of the year after the 
 
 She came up those stairs with nothing in her hands, which is the third time in about two years and the second time in five weeks, and she did not knock, and she had not been asked to come up.
 
+She came up at a time of day when she had no reason to be in the house, which is the whole of how she was let up, and no message has ever come to the bottom of the stairs for her, and none is going to. She has come up more times than she has ever written down and has never once stayed past the hour it takes to say the thing she came to say, and no second reason has ever been given her and she has not wanted one.
+
 **She has been at the bottom of that stair about twenty years and she has never once been above the second one and she has never had his name and he has never had hers, and none of that is going to change this week either.**
 
 "You have not been down them once in two years," she said. "I have not been up them three times, and I have counted, and I am not going to pretend I have not."
@@ -19,6 +21,8 @@ She came up those stairs with nothing in her hands, which is the third time in a
 "You have counted them."
 
 "I have counted everything in that house for about twenty years because that is the whole of what there is to do at the bottom of a stair." She put her hand flat on the table, which she has done twice before. "**And I am going to say one thing and I am going to say it about you and not about that table, and then I am going to go back down, and nobody thanks me for it, and I do not come up about it again.**"
+
+She moved the hand once, about four inches, and put it back in the same place, and the movement was not to make a point, and it did not make one. Nobody in the house had heard her come up and nobody in the house heard her go down, and the rent she takes at the bottom of the stairs has been the same figure for twenty years and has not been asked about by either of them since the first year of it.
 
 "All right."
 
@@ -38,6 +42,8 @@ He did not move.
 
 "**The bill for being unfindable is not yours and has never been yours.**" She said it flatly, the way she says things she has measured rather than felt. "You did not take it. You did not agree to it. Nobody came to you and said here is a price and here is what you get for it. **And I have been paying a piece of it for about twenty years without knowing what it was for, and so has a woman who made herself askable on purpose and came the whole distance to a rented room one night to say one true thing and has not been back, and neither of us was asked either, and I would like that entered in this room in the order it happened.**"
 
+She was going to keep the order whatever he said, and he said nothing for long enough for a delivery to come up the lane and go past the window and be gone. The piece she has been paying is not money and has never been money, and it is one rent a week taken at the bottom of a stair where no name has ever been written down, and she has paid it for about twenty years and nobody has ever come asking her for it, and that is the whole of what being unfindable costs the people it is done to.
+
 He put his hand on the inside pocket of that coat and did not take the leaf out, and she saw him do it and did not comment on it, and there is a shelf about four hundred yards off with a question on it and a name at the foot of it, and that question does not end, and nobody has asked the woman who wrote it a second thing about it.
 
 ---
@@ -47,6 +53,8 @@ He put his hand on the inside pocket of that coat and did not take the leaf out,
 "I did not expect you to."
 
 "You expected me to say something about the twenty years. I have watched you decide twice this week whether to say it and you have decided twice not to, and I am not going to give you a third opening, and you are not going to get one out of me this evening." He took his hand out of the pocket. "**I have not asked you what you have been carrying for nine years. I am not going to. And I want it heard that I have not, because you have just handed me the price of a thing I have not got and that is not a thing I am going to spend tonight.**"
+
+In about four minutes the two of them had got to a place where neither of them was going to say anything else that could be used, and neither of them tried, and neither of them said so either. The room had no paper and no pen, and nothing in it which a thing either of them had said could have been written on, and it has never held anything that could be.
 
 She looked at the bare wall for a while.
 
@@ -61,6 +69,8 @@ She looked at the bare wall for a while.
 "You have never been up that road."
 
 "I have never been up that road and I have known about that girl for about nine years and I have not been asked about her and I am not going to start."
+
+It came out in the ordinary voice, and the voice she used had already been heard twice over in the room before she got to it, and he did not say so either. There is a wage in a coat four miles off which has not been claimed for two years, and there is a notice whose back carries a printed ruled space that nobody has ever written in, and the woman at the foot of the stairs has never been told about either of those two things and is not going to be, and neither of them is in the room.
 
 ---
 

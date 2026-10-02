@@ -10,9 +10,13 @@ It is the second day of the second week of the fifth month of the year after the
 
 The form that would take the two at the back bench out of the back of that shed is on the board by the door, and it goes back on that board on the second of the two days next week, and it has gone on that board before, and the two of them have been at the back of that shed the whole time.
 
+The box has been at the end of the lane longer than she has stood in it, and it would be there whoever was standing in it, and there is a stretch of the lane where a person can stand in the middle of it and be seen from the front bench and not from the door, and she has worked all of it out in eleven years without ever having gone and looked for it. Nobody in the lane could tell you who was in the box last week, and the only person who could tell you is the one standing in it, and she has never once offered, and nobody has ever come to be offered to.
+
 **She has said four sentences out loud in this room.** Not a speech. Four sentences, on four different days, in about nine foot by eleven, and none of them was answered by anybody, and the man at the front bench never wanted one answered, and that has been in the room since the first of the four.
 
 Nobody in that lane has asked her for a fifth. The man of about twenty-eight stopped her in a doorway three times and gave her three reasons and she accepted all three, and the sentence she had started in that doorway has not come out of her since, and she is fifty-one and she has a shed to open in about two hours and no sentence to open it with.
+
+She has kept the first part of it. The opening four or five words of it are still hers and she can produce them in any room in the lane without stopping to find them, and the rest of the sentence went somewhere she has not been back to, and the man of about twenty-eight has gone on giving reasons and has not once asked her for the rest, which is the only part of the arrangement which is hers.
 
 ---
 
@@ -30,6 +34,8 @@ The man at the front bench had not been asked anything either. He was about fift
 
 "A class is a heading and a heading is a company." He said it the way a man says a thing he has had a long time to get round to. "**Whoever fills in the next form goes in the same box you are in, and there is nothing at that box that says who is standing in it. That is the trade. And a carrier is a person you cannot get back into anything. So a carrier who can be re-entered by the next person with a pen is a carrier who is a party, and a party is a document, and a document is a thing you can be served with.**"
 
+He said the last of it flat, without putting anything under it, the way a man gives a figure he has counted out more times than he can remember, and he had the chain off his wrist and back on his wrist inside the same sentence. The lamp on its bracket was still standing where it had stood since the morning before, and the two of them had been saying the whole of it in the half-dark, and neither of them had once mentioned it.
+
 "You have not said that to me for a reason."
 
 "I have not said it to you for a reason that is about you and not about the box." He turned his head about as far as the chain allows. "**You are the cheapest person in this matter. Not the lowest. The cheapest. A foreman in a box that a class put her in is cheap in the exact way a man who carries a thing up a stair is cheap, and it is the same reason, and the reason is that you can be found.**"
@@ -42,11 +48,15 @@ She stood in the middle of that floor and did not say anything for long enough t
 
 "You have a name and a class, and a class is the cheap half and the name is on the other side of it, and here is the part that is going to cost you and I am telling you in this room because this is the only room in which I can say it and have said it." He put his hand flat on the bench. "**Everything in this business works by being cheap. That is the finding, and it is not about you, and it does not care who you are. A thing that works by being cheap finds the cheapest person there is, every time, and nobody has to tell it to.**"
 
+The other half of it was in both their mouths and neither of them said it, and they arrived at it at about the same moment, and after that they said the rest of it in the ordinary way, and the chain stayed where it was until the seventh hour.
+
 ---
 
 "Cheap is not the same as reachable."
 
 "It is the same as reachable, and I have come the whole of the way round to that and I arrived at it from the other door." He let go of the bench. "**You are reachable. I do not have to do anything to reach you. I have said a thing out loud in a shed and you came four steps and listened to it, and so did the person who came in behind you and put his coat on the end of that bench, and a man in this lane can find you by saying one true thing. That is the whole of the price.**"
+
+The third one stood with his back to the wall for about a quarter of an hour while the two of them finished, and he had come in to be signed for and not to hear anything, and he got that, and he did not look at either of them once while it was happening. She turned round at the end of it and put the lamp where it goes for the night, which is a thing she does at the seventh hour and not before, and it was not yet the seventh hour, and she put it back.
 
 Nobody in that shed was thanked for anything.
 
