@@ -11115,3 +11115,75 @@ Over all 41 added prose lines: **zero sweep forms**, and it is the scan standing
 **Four debts are outstanding and no pass in this repair touched them, and they are owed elsewhere and not here.**
 
 ***The item number this record belongs to is 216 and no existing item was renumbered because renumbering a ledger renumbers every cross-reference to it. `state/phase-ledger.json` still reads `phase-000-bootstrap`, one phase, status `planned`, and carries no item counter at all — item 171's standing and a controller file no phase may edit; the high-water mark was therefore taken from `state/open-threads.md`, where the highest heading on arrival was Item 215. The prompt that ordered this pass named 185, which was thirty-one out of date, and which is the fifth time a prompt on this range has named a ledger number that is not the next one.***
+
+# THE REVIEW FIX OF THE EIGHTEENTH DISPATCH ON CHAPTERS 0421 TO 0430, MEASURED RECORD — IN WHICH THE REVIEW'S ONE SERIOUS FINDING TURNED OUT TO BE TRUE, AND THE FIGURE WAS A NUMBER NO CHAPTER EVER PRODUCED
+
+*This is a review fix and not a dispatch. It wrote no prose, opened no chapter for edit, created no prompt, and edited no file under `scripts/`, `.github/`, `.opencode/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`. It changed two sentences of `state/current.md`, one paragraph of item 217, and appended this record. **No existing record above this line was amended; renumbering a ledger renumbers every cross-reference to it, and a figure printed in two files is a figure that will be printed wrong in one of them.** The item is 218 and the high-water mark on arrival was Item 217.*
+
+## Zero: what the review put, and that all four of it were confirmed before any of them was touched
+
+The review of this phase put four defects and one observation about the pipeline, and it was right on all four and wrong on the observation. **Its own central claim is a negative one — that a numerator in `state/current.md` was invented — and a negative claim about a measurement is the hardest kind to make and the easiest to accept by reflex, so it was re-derived here from the method rather than taken.** Every figure below was produced by running the method `state/batch-summary.md` prints whole under the heading *THE PROSE REPAIR OF CHAPTERS 0411 TO 0420, MEASURED RECORD*, against the live tree and against each of two historical revisions of it.
+
+## One: the method, printed whole, because the defect was a figure and not a sentence
+
+```
+python3 - <<'EOF'
+import re, glob, importlib.util
+spec = importlib.util.spec_from_file_location("m", "tools/measure.py")
+m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
+FORMS = ["those boards", "that lane", "that floor", "that table", "that door",
+         "that stair", "that room", "that passage", "that tin", "that sheet"]
+files = sorted(glob.glob("chapters/volume-09/*.md"))
+words = hits = w49 = h49 = 0
+for p in files:
+    words += m.words_in_file(p)
+    body = " ".join(m.TOKEN.findall(re.sub(r"^It is.*$", "", open(p).read(), flags=re.M)))
+    hits += sum(len(re.findall(r"\b" + re.escape(f) + r"\b", body, flags=re.I)) for f in FORMS)
+    if not p.endswith("chapter-0450.md"):
+        w49 += m.words_in_file(p)
+        h49 += sum(len(re.findall(r"\b" + re.escape(f) + r"\b", body, flags=re.I)) for f in FORMS)
+print(f"all fifty  {words:>9,} words  {hits:>4} hits  {hits*1000.0/words:>6.2f} per 1,000")
+print(f"forty-nine {w49:>9,} words  {h49:>4} hits  {h49*1000.0/w49:>6.2f} per 1,000")
+EOF
+```
+
+**Historical revisions are measured by materialising all fifty files of the volume out of the commit and running the same method over them, never over a diff and never over a paragraph.** A count taken over a diff is a count of the lines the diff inserted, and it is a different quantity from a count over a volume.
+
+## Two: the three measurements, and the arithmetic printed as an addition and not only as a subtraction
+
+| Revision | Volume 09 words | Closed list of ten | Per 1,000 | Arithmetic |
+|---|---|---|---|---|
+| `cb7fce7`, the base of this range's repair | 78,540 | **344** | 4.38 | 344 x 1,000 / 78,540 = 4.3808 |
+| `198ad7d^`, the commit before the row was corrected | 85,722 | **344** | 4.01 | 344 x 1,000 / 85,722 = 4.0127 |
+| live tree, `ff0ad62` | 85,722 | **344** | 4.01 | 344 x 1,000 / 85,722 = 4.0127 |
+| live tree, after this fix — state only | 85,722 | **344** | 4.01 | unchanged, because this fix touched no chapter |
+
+**The numerator is 344 at all four and never moved by two. `state/current.md` carried 346, and 4.04 over the same denominator, and 341 over the forty-nine repaired chapters where the count is 339.** The three figures are corrected to 344, 4.01 and 339. **The rate did fall across this history and it fell entirely on the denominator: 4.38 at the base to 4.01 now, on repairs that grew the words by 7,182 and the instances by not one. A rate that falls because the words grew is not evidence of cleaner prose and must never be quoted as if it were.**
+
+## Three: the attribution that was built on it, removed, and the reason it is worth a paragraph
+
+The sentence the review struck said the numerator "has moved by two since that sentence last carried it while the rate fell", and that both instances "came out of later dispatches on `chapter-0431.md` to `chapter-0449.md` and not out of this range, whose added prose is flat in form at 71, 94, 109 and 215 across 77 forms." **Both clauses are gone. The flat-forms fact is kept, because it is a true measurement and it was standing in the same sentence as the reason, which is what made a true fact read as an inference.**
+
+**The fault generalises, and it is the same class as every instrument fault this ledger already carries: a figure that had just been corrected in the denominator was read as a figure that had moved in the numerator, and two instances were supplied so that a falling rate would have a mechanism.** An explanation is the most dangerous thing a state file can carry, because it is the one claim a reader stops checking, and here it was caught by counting the thing it explained and the thing was not there. **The rule this pass adds: when a rate changes, measure the numerator and the denominator separately and print both, and do not write the word *because* until both have been printed.** The flat-forms figure is 71, 94, 109 and 215 across 77 sweep forms and is item 211's; it is about this range's added prose and not about the volume's count, and the two had been made to look like one thing.
+
+## Four: the self-contradiction, resolved by a denominator-only change
+
+The paragraph above the note carried **85,714** at item 211 and the note carried **85,722**, with 346 against 344 between them, on one instrument and one volume. **The correction is denominator-only, exactly as the review directed: the rate and the numerator are unmoved and only the denominator is brought to the tree.** Item 211's 85,714 is now printed as the figure that dispatch took, the eight words since are attributed to its successors, and the numerator is stated as 344 on both sides of the eight. **The denominator moved 7,182 words across this range's repair while the count did not move, and the second decimal of the rate is 4.01 on either denominator, which is why two different denominators in one file read as one figure and one invented numerator did not.**
+
+## Five: item 217's command, corrected where it stands
+
+`git log --oneline -- chapters/volume-09/chapter-0421.md chapters/volume-09/chapter-0422.md chapters/volume-09/chapter-0423.md chapters/volume-09/chapter-0424.md chapters/volume-09/chapter-0425.md` returns **eight** commits — `8cc9521`, `5c360f9`, `99b1e1c`, `36a04e2`, `9ec047f`, `93157fc`, `ff29134`, `70a02f3` — and item 217 named two of them. **The fix is inside item 217 and is not restated here.** The command was offered as the proof that the range was already repaired, and it understated the pass history by six commits, four of which are repairs or re-audits of this same range. **The conclusion is unchanged and the eight commits strengthen it.** The five chapters re-measure at 1693, 1849, 1786, 1650 and 1962 words, unmoved, and `git status --short` is clean outside `state/`.
+
+## Six: the review's observation about the pipeline, refuted, and the prompt left alone
+
+The review says the dispatcher will keep re-issuing this stale scope "until a phase closes that prompt rather than answering it". **`scripts/novel_runner.sh:444-446` is that closure and it runs unconditionally on this path:** `ensure_next_phase`, then `touch "$phase_dir/.done"`, then the removal of `.deferred`, `.blocked`, `.checkpoint`, `.wip-conflict`, `.attempts` and `.retry-after`. **`workspace/prose-repair-0018/.done` and `workspace/prose-repair-0019/.done` are both committed, so the mechanism has already closed the two prompts behind this one.** `ensure_next_phase` at `:296-299` returns early because `has_other_incomplete_phase` is true — `prose-repair-0021`, `0022` and `0023` all exist and none carries `.done`, `.retired` or `.blocked` — so no continuation prompt is created, which confirms item 217's standing that this phase created none.
+
+**The prompt was not edited and the phase was not retired, and the reason is that both would be false records.** `.retired`, and the `^Retired .*phase` line that `retire_obsolete_phases` honours at `:47-51`, mean a phase is obsolete; this phase's scope was satisfied, its finding is item 218, and its chapters are the repaired chapters the prompt asked for. **The eighteen dispatches this range has drawn are real and are the standing finding of item 216 and of this one, and they are a stale prompt's cost and not a missing marker's, and they stop at the `.done` the runner already writes.** `tools/` and `scripts/` were not edited, and the tenth instrument fault in this repair — `build_lift_index` at `tools/measure.py:386` and `longest_lift` at `:398-417` assembling a run out of one chapter it does not hold — stands named and unrepaired, because a phase may edit fiction and state and not an instrument.
+
+## Seven: what is left, and no phase may imply otherwise
+
+**Two hundred and six chapters of six hundred and twenty have been through this repair and this one repaired none of them.** Volume 09 is repaired from 0401 to 0449, forty-nine of its fifty, and `chapter-0450.md` is the one chapter of it this repair has not opened and carries that volume's last line. Four hundred and fourteen chapters are unrepaired and every one of them is in Volumes 01 to 10.
+
+**And the finding that no amount of state bookkeeping can fix is unmoved.** Chapter length fell from 4,042 words a chapter in Volume 01 to 1,455 in Volume 12, monotonically across twelve volumes, and the demonstrative-anaphora construction rose with it from 0.5 instances per 1,000 words to 8.7. **The manuscript is structurally complete, canonically sound and not publishable as it stands, and the decision about that is a person's and not a phase's.** Four debts are outstanding and no pass in this repair touched them, and they are owed elsewhere and not here.
+
+***The item number this record belongs to is 218 and no existing item was renumbered. `state/phase-ledger.json` still reads `phase-000-bootstrap`, one phase, status `planned`, and carries no item counter at all — item 171's standing and a controller file no phase may edit; the high-water mark was taken from `state/open-threads.md`, where the highest heading on arrival was Item 217.***
