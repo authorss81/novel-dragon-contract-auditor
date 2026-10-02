@@ -54,7 +54,7 @@ Marn Ottery did not turn round.
 
 "You have been early for two years, and I said out loud in the second week of the second month that nobody in this building had done one thing about it, and I was pleased with the shape of that, and I have been wrong about the shape of it for a fortnight and I have been carrying it." Marn Ottery turned round. "**The not doing anything about it was not a courtesy to you. It was the using. There is no form anywhere in this empire for a thing that has been done to a person and not written down, so the not writing was all there was, and you are the only thing in that room anybody could have said a thing to and every week you came in early was a week that went on being true.**"
 
-Two years of being on the floor twenty minutes before anybody else and two years of nothing at all happening to her, and she had filed the whole of it in her own head as somebody being polite, and it had not been, and the not writing it down anywhere had been all there was for two years, and a thing that has not been written down is a thing that does not exist the next morning, and she is the only person alive who knows about it and she has known since a fortnight ago.
+Two years of being on the floor twenty minutes before anybody else and two years of nothing at all happening to her, and she had put all of it down in her own head as nobody's business at all, and anything that has not been written down is not there the next morning, and it did not exist for either of them until a fortnight ago.
 
 ---
 

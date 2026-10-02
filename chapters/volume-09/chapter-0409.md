@@ -48,7 +48,7 @@ The chair came off the middle of the floor after two years and it took him about
 
 Then he sat down in it, which he has not done, and the four feet of wall beside that window was bare behind him and the nail in it was about the height of his hand and he did not look at it.
 
-Sitting in it put him at the corner where the frame is worst and against a wall with a nail in it he had not once looked at, and the nail was not looking at anything, and a thing that has been in a wall since before he came is not improved by the man who has just sat down in front of it getting cold. He stayed in it until she had gone and for a while after she had gone, and the room got no warmer while he was in it and nothing in it was lit and the cold came on at him from the side the whole time.
+Sitting in it put him in the corner where the frame is worst, and he stayed in it until she had gone and for a while after she had gone, and the room got no warmer while he was in it and nothing in it was lit. The nail was not looking at anything, and had not been for the length of the two years.
 
 ---
 
