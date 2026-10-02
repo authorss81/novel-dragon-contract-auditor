@@ -12,7 +12,7 @@ It is the fourth day of the fourth week of the ninth month of the year after the
 
 **The man who comes in on the second of the two days went down that stair at about half past the fifth hour and took nothing with him.** There are three people in that room and there were two a month ago.
 
-Four items on a board behind the counter is a small amount of paper to look at twice a day for eleven years, and every morning for eleven years all four of them have been looked at, and not once in eleven years have the three of them agreed about the fourth of the four, and agreeing is a thing three people can do in about a minute, and nobody has ever said out loud that the case and the board could be moved.
+Four items is a small amount of paper to look at twice a day for eleven years, and agreeing about the fourth of them is a thing three people can do in about a minute, and nobody has ever said out loud that the case and the board could be moved.
 
 ---
 

@@ -36,7 +36,7 @@ He went to the door and did not open it and did not go down.
 
 "**You may say it once this week and you may not say it again this week.**" He said it to the door and not to the street, and he heard how that sounded, and he did not take it back and he did not soften it. "You may say it on any other day. I am not going to tell you which days. **I have heard the same true thing from two people this month and I am not going to be the place it is said a third time, and that is not a rule and it is not a form and it is me.**"
 
-The street is not much of a street, and a person standing at a shut door in it can be heard by every window on both sides of it and by nobody inside either building, and the distance between a shut door and a step is not much, and nine words is a short thing to say across it.
+The street is not much of a street, and a person standing on a step in it can be heard by every window on both sides of it and by anybody inside a shut door, and nothing gets back out through one, and the distance between a shut door and a step is not much, and nine words is a short thing to say across it.
 
 "That is a small thing to say to a man in a street."
 
