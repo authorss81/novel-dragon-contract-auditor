@@ -26,7 +26,7 @@ She came up the lane at about the fourth hour to open the shed and she is fifty-
 
 "It has not got any lighter and I did not expect it to and I have not got anything for you this week and I am not going to have anything by the end of the month either."
 
-The light off the lane came past the open side and reached about the middle of the floor and no further, and he worked in what the light reached and she worked where she worked, and neither of them went behind it. Nothing was carried out of the shed in the hour before she came and nothing was carried in afterwards, and the front bench was not made up at either end of the hour.
+The light off the lane came past the open side and reached about the middle of the floor and no further, and he worked in what the light reached and she worked where she worked, and neither of them went behind it. Nothing was carried out of the shed in the hour before she came and nothing was carried in afterwards, and nothing at the front was moved at either end of the hour.
 
 ---
 
