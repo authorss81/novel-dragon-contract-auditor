@@ -36327,3 +36327,44 @@ Checked over the working tree of the thirty-nine files, and the second column is
 **Left.** Repaired extent unchanged: Volume 06 repaired 0251–0299 (forty-nine of fifty); largest untouched block Volumes 01–05 at 250 chapters. No prompt created, `state/complete.md` not written, `state/phase-ledger.json` not edited, no outline edited, no Volume 13.
 
 **THE ITEM IS 293.**
+
+---
+
+# THE SIXTH AUDIT OF THE PAID SECOND READING OF VOLUME 05'S BATCH 0003, `chapter-0221.md` TO `chapter-0230.md`, MEASURED RECORD — ITEM 294
+
+*Eighth pass over the page. Tenth dispatch on this range. `reviews/volume-05-batch-0003-sixth-audit.md`. Base `18e57c8`, asserted ten of ten non-empty before any figure was taken from it. No prose written. No prompt created. No paid file amended.*
+
+**Precheck.** `git log --oneline -5 -- chapters/volume-05/chapter-022[1-9].md chapters/volume-05/chapter-0230.md` returns `18e57c8` and `7a54b16` and nothing else. `git show 18e57c8:chapters/volume-05/chapter-0N.md | wc -c` per file: **14465, 13200, 12889, 14056, 14323, 14960, 13221, 13046, 13878, 14020** — ten of ten non-empty. `git diff --numstat 18e57c8 -- chapters/volume-05/` prints only `0231` to `0250`, **so none of these ten has moved by a line and every citation below is a citation of a text and not of a position.** `git log --oneline --grep="prose-repair" -- chapters/volume-05/` returns **nothing**: Volume 05 has never been through the prose repair.
+
+**The refusal.** The prompt handed to this run is `workspace/review-debt-0001/PROMPT.md` — verified by `head -1` — and its work is paid nine times over: `reviews/volume-05-batch-0003.md` at `2359f84` (item 268) plus `-verification` (279), `-third-audit` (283), `-fourth-audit` (290) and `-fifth-audit` (291). **Two of its instructions would have destroyed paid work**: *write `reviews/volume-05-batch-0003.md`* would have overwritten the paid review and four audits with it, and *create `workspace/review-debt-0002/PROMPT.md`* would have overwritten a paid prompt whose review is at `5316a4f`. **Neither was done**, under item 275A's standing and following items 283F, 284D, 285H, 290H and 291C. The paid review was not opened for edit. This record is a sibling.
+
+**THE FINDING. `chapter-0227.md:59` — a person-shift inside one speech turn.** Asked at `:55`, *"**Are you the most dangerous person in this matter,**"*, Marek Kest answers *"There is nobody who can protect **me** … nothing anybody can instruct **me** about, nothing anybody can pay **me** for, and nothing anybody can thank **me** for. **That is why he** is the most dangerous person in this matter and it is also the reason nobody in it can stand in front of **him**. **A person** nobody can pay cannot be bought … and **I** have heard all three of those said out loud."* — first, first, first ×3, **third ×2**, generic, first. **"That is why" reaches back at three clauses naming *me*; the subject it introduces is *he*; the next sentence supplies *A person* as the generic, so *he* cannot be the generic.** `grep -rc "he is the most dangerous person in this matter" chapters/volume-05/chapter-0215.md chapters/volume-05/chapter-0227.md` returns **1 and 1, and those are the only two instances of that clause in the volume** — `chapter-0215.md:85` has Tamsin Rook saying it **about** him, third person, correct and sustained. **0227 converts the opening to *me*, rewrites the closing to *stand in front of him*, and leaves the middle at *he*: one half edited, one half not.** Unreported by nine passes because the two lines share no long verbatim run, and `lifts`, `reprints` and `sweeps` are blind to a clause by construction. **Reported, not fixed; Volume 05 is closed and no delete or substitute authority was taken.**
+
+**The eight defects already located, all re-seen on the page and none re-charged.** `0226:7` *she am*; doubled `---` at `0226:49-50` and `0229:19-20`; leading space inside the opening quote at `0221:57`; doubled blank at `0228:108-109`; `0225:132` against `:134` (eleven and thirteen); doubled locative at `0227:5`; year-term at `0226:60` (317 days). **Nine prose defects now stand located in this range, and all nine need authority no prompt in this repository grants.**
+
+**Every lock, with the command beside it.**
+
+| Figure | Result | Method |
+|---|---|---|
+| `about nine`, raw minus `about nine hundred` | **5, 7, 4, 5, 6, 6, 6, 3, 6, 8 = 56**, range 3–8, median 6.0, against the card's 72 | per file; **raw 74, subtraction 18**, `0221` 9→5 and `0228` 7→3 both confirmed |
+| Calendar lock | **13 occurrences on 12 lines, every one the modal verb**; capital `May` 0, other eleven months 0, seven weekdays 0 | Python `finditer` over all nineteen names on an explicit ten-file list, each hit printed with 55 characters either side and read |
+| `wc -w` | **3011, 2758, 2714, 2956, 3018, 3164, 2763, 2754, 2919, 2975 = 29,032** | `wc -w`, explicit ten-file list |
+| Count of askings | **four in ten places, five in none** | `0221:105`, `0222:81`/`:135`, `0223:121`, `0224:111`, `0225:45`/`:144`, `0226:134`/`:138`, `0228:114`/`:116`, `0229:134`, `0230:99` |
+| `exception` / `precedent` | **0 / 0** | `grep -o -i -w` |
+| `certif` | **2**, both negative — no certification granted or held | `grep -o -i certif`; **`-w` returns 0 and is the wrong instrument** |
+| Nobody thanked | **19 lines, every one a negation or refusal** | read per line |
+| Lowcross | **nineteen pounds three and fourpence**, unpaid, nobody liable | `0229:15`, `0229:128`, `0230:91` |
+| Guarantee | **four hundred and forty foot, sixty children under sixteen, unanswered, no child named** | `0229:130`, `0230:15`, `0230:101` |
+| Reader of seventeen | **unnamed, unthanked, not starting, no rate and no elapsed period computable** | `0229:96`, `0230:73` |
+| Distances | **`four hundred and thirty` 14, `four hundred miles` 0** on the ten; **134 and 0** volume-wide | `grep -o`, explicit list and `chapter-*.md` |
+| `words --volume 05` / `words` / `selftest` | **144,248 / 1,496,525 in 620 files / PASS** | run on this tree |
+
+**Three prompt figures that do not reproduce, all undercounting the same homograph.** `may` on the ten is **13, not the prompt's 8**; volume-wide it is **46 on 40 lines, and the prompt's 27 is neither**. And the prompt's missing-base warning does not fire: `git cat-file -e 9ae089f:chapters/volume-05/chapter-0221.md` returns **PRESENT** and `git diff --numstat 9ae089f 18e57c8 --` over the ten is **empty**, so the two commits are byte-identical here.
+
+**Full-volume sweep, and the `about nine` lead is three chapters wide.** Over all fifty chapters: `4 2 6 4 5 4 3 4 7 4 6 4 7 5 5 8 7 3 5 4 5 7 4 5 6 6 6 3 6 8 1 5 6 8 4 7 7 7 5 6 7 6 3 3 8 7 8 6 7 1` — **max 8, min 1, median 5.5, mean 5.3, none above eight.** At or under two: `chapter-0231.md` 1, `chapter-0250.md` 1, **`chapter-0202.md` 2** — the third is new to the record; item 290 named the first two.
+
+**Instrument fault, in the comfortable direction.** `grep -n '"[[:space:]][[:alpha:]]'` returns **133 lines** for the one fault at `0221:57`, because it matches every closing quote followed by `, said`. Only `re.match(r'^"\s', line)` isolates it. **A test returning 133 hits where one is wanted is not a weak test; it is a test reported as a clearance by any run that gave its number without naming its method.**
+
+**Nothing amended, nothing created, nothing planned.** No chapter opened for edit. No outline opened for edit. No controller file edited. `tools/measure.py` run and not changed. `state/complete.md` not written. No volume planned and there is no Volume 13.
+
+**THE ITEM IS 294.**
