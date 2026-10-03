@@ -13926,3 +13926,119 @@ TOTALS base words 70886 now 80416 (+9530) mean 1641.1
 **And the one this pass adds.** **`tools/measure.py`'s `DATE_LINE` and `DATE_LINE_ORD` cannot parse a date line that opens `This is the`, which is all fifty of Volume 07's and, on the calendar figure of 263 parsed out of 620, a good many more in the other volumes.** The method is correct for the manuscript's other date form and the fault is the missing alternative, and `tools/measure.py` is an instrument and was not edited. **A phase with authority over that instrument should add `(?:[Tt]his|[Ii][Tt]|[Tt]he date)` to both and re-run `calendar` over the whole manuscript; the figure to expect is above 263 and the number is not knowable without doing it.**
 
 **Nothing was planned, no volume was planned, no next prompt was created, and no chapter outside 0301 to 0349 was opened.**
+
+# THE FIRST AUDIT OF CHAPTERS 0301 TO 0349, MEASURED RECORD — ITEM 240, WHICH FOUND THE RANGE ALREADY REPAIRED AT `84b47c6`, AUDITED IT RATHER THAN REWRITING IT, OPENED NO CHAPTER FOR EDIT, WROTE NO PROSE AND CREATED NO PROMPT
+
+**This is an audit and not a repair, not a batch, not a close, not a review and not a second reading.** It was dispatched on `chapter-0301.md` to `chapter-0349.md` on a prompt that names the range unrepaired, prints the base figures of `74ba30f` as live, and carries `--volume 07` on every command. The range was already repaired at `84b47c6` and recorded at item 239, so a fresh write of any of the forty-nine would have replaced repaired prose to buy a chapter written; the unmet fresh-write rule is recorded rather than satisfied destructively, as items 212, 217 and 229 did on the same situation. **No chapter was opened for edit, no prose was moved, no prompt was created, no outline and no controller file was edited, and `chapter-0350.md` was read and not opened.**
+
+## Zero. What was checked, with the command beside each figure
+
+- Base commit resolved first and printed: **`74ba30f63de4ad2a8ad06d57201c638b4cb6b7e7`** (`git rev-parse 84b47c6^`). Repair commit **`84b47c6`** (`novel: prose repair of chapter-0301.md to chapter-0349.md`). HEAD at arrival **`152db771dad22ea7e0ec12cd528d39f8035d53cc`** (`git rev-parse HEAD`).
+- `git log --oneline -- chapters/volume-07/chapter-03[0-4][0-9].md` returns **`84b47c6` above `7c9ef17`, `0619836`, `d9a3435`, `ec698cf`, `98889dc`, `9279d09`, `2abee68`, `f33fc14`, `d8180ff`, `90c0641`**. One commit carries the word prose, so the range was repaired already and the prompt's precheck, which reports nothing, is item 203's two-sided test read from the wrong end.
+- Both ends of item 203's test were run and both are informative: `git diff --numstat 74ba30f -- chapters/volume-07/` returns **382 insertions and 0 deletions across 49 files** (`8 0` on forty-four files, `6 0` on 0343, 0345, 0347, 0348, 0349), which read from the wrong end means *unrepaired*; `git diff --numstat 84b47c6 -- chapters/volume-07/` returns **nothing at all**, which means the tree is byte-identical to item 239's landed commit and every ruling item 239 made stands unmoved.
+- `python3 tools/measure.py words --volume 07` returns **volume 07 at 81,679**; `python3 tools/measure.py words` returns **1,488,313 in 620 files**. Both reproduce item 239 to the digit.
+- `python3 tools/measure.py selftest` returns **PASS** (all plants, including plant 8 for the sentence splitter and plant 6 for the token window).
+- `python3 tools/measure.py calendar --volume 07` returns **50 files read, 0 parsed, 50 unparsed** — every file reporting `no date line`. This is the instrument fault item 239 already named and did not fix: `m.DATE_LINE` and `m.DATE_LINE_ORD` admit only `It is the` and `The date is the`, and **every date line in Volume 07 opens `This is the`**, so both return nothing on all fifty files. The date-line gate below is therefore verified by the method-3 `is_date` the prompt prints (`^(This|It) is the ...` plus `^The date is the ...`) and by byte-identity against base, and it is the figure of record. `tools/measure.py` is an instrument and was not edited.
+
+## One. The construction table, re-measured on method 3, every cell compared to its base cell
+
+Method 3 is the figure of record and is printed whole in the prompt: `m.TOKEN` over the prose selector with the date line stripped (method-3 `is_date` admitting `This`), the four lists counted case-insensitively with `\b`-delimited whole forms, the sweep over `\b(that|those)\s+([a-z]+)\b` less `NONNOUN`, per file and summed, never over the concatenated range.
+
+| Range 0301 to 0349, `chapter-0350.md` EXCLUDED | Words | Closed list of ten | Per 1,000 | List of 23 | Per 1,000 | List of 25 | Per 1,000 | Sweep | Per 1,000 |
+|---|---|---|---|---|---|---|---|---|---|
+| at base `74ba30f` | **70,886** | **165** | 2.328 | **212** | 2.991 | **243** | 3.428 | **723** | 10.199 |
+| on the tree now | **80,416** | **165** | 2.052 | **212** | 2.636 | **243** | 3.022 | **723** | 8.991 |
+| delta | +9,530 | **0** | arithmetic | **0** | arithmetic | **0** | arithmetic | **0** | arithmetic |
+
+**A rate that falls while a count holds is arithmetic and is not an improvement; both are printed.** The 9,530 added words carry none of the twenty-five forms and no sweep bigram at all. Sweep forms stand at **182**, per file and range-wide, with the per-form delta empty in both directions. `chapter-0350.md` is excluded from all four and stands byte-identical to base at md5 `e1e9147d4fc943a6b9222fcf651ae16b` on all three sides (base, `84b47c6`, tree).
+
+## Two. The per-chapter table for all forty-nine, words before and after and the four construction columns on method 3
+
+Words are `wc -w` one file at a time (split on whitespace); construction columns are method 3 as above, shown as base/now; every pair is identical. Date-line positions follow. The arithmetic is printed in full as an addition below the table, so a paragraph a helper dropped would be visible in the sum.
+
+| ch | words base | words now | c10 b/n | c23 b/n | c25 b/n | sweep b/n | date line |
+|---|---|---|---|---|---|---|---|
+| 0301 | 2159 | 2420 | 1/1 | 1/1 | 3/3 | 21/21 | 11/11 |
+| 0302 | 1586 | 1833 | 0/0 | 0/0 | 0/0 | 9/9 | 13/13 |
+| 0303 | 1723 | 1939 | 2/2 | 3/3 | 3/3 | 13/13 | 11/11 |
+| 0304 | 1609 | 1851 | 4/4 | 4/4 | 4/4 | 17/17 | 11/11 |
+| 0305 | 1410 | 1612 | 2/2 | 2/2 | 2/2 | 13/13 | 9/9 |
+| 0306 | 1471 | 1724 | 1/1 | 3/3 | 3/3 | 11/11 | 11/11 |
+| 0307 | 1385 | 1615 | 5/5 | 6/6 | 6/6 | 13/13 | 11/11 |
+| 0308 | 1266 | 1507 | 3/3 | 3/3 | 9/9 | 14/14 | 11/11 |
+| 0309 | 1242 | 1503 | 0/0 | 0/0 | 0/0 | 3/3 | 11/11 |
+| 0310 | 1592 | 1838 | 5/5 | 5/5 | 8/8 | 16/16 | 13/13 |
+| 0311 | 2099 | 2309 | 2/2 | 2/2 | 2/2 | 22/22 | 11/11 |
+| 0312 | 1608 | 1782 | 1/1 | 2/2 | 2/2 | 12/12 | 11/11 |
+| 0313 | 1589 | 1785 | 5/5 | 5/5 | 5/5 | 24/24 | 11/11 |
+| 0314 | 1493 | 1686 | 4/4 | 4/4 | 5/5 | 19/19 | 11/11 |
+| 0315 | 1421 | 1628 | 2/2 | 6/6 | 6/6 | 10/10 | 9/9 |
+| 0316 | 1287 | 1481 | 1/1 | 1/1 | 1/1 | 12/12 | 7/7 |
+| 0317 | 1393 | 1612 | 3/3 | 3/3 | 6/6 | 23/23 | 9/9 |
+| 0318 | 1360 | 1530 | 3/3 | 4/4 | 4/4 | 18/18 | 9/9 |
+| 0319 | 1467 | 1698 | 1/1 | 1/1 | 1/1 | 11/11 | 9/9 |
+| 0320 | 1441 | 1668 | 4/4 | 5/5 | 7/7 | 16/16 | 11/11 |
+| 0321 | 1782 | 1976 | 8/8 | 8/8 | 9/9 | 25/25 | 7/7 |
+| 0322 | 1308 | 1487 | 1/1 | 1/1 | 2/2 | 11/11 | 11/11 |
+| 0323 | 1973 | 2168 | 4/4 | 4/4 | 5/5 | 13/13 | 15/15 |
+| 0324 | 1164 | 1341 | 4/4 | 4/4 | 4/4 | 11/11 | 9/9 |
+| 0325 | 1245 | 1456 | 6/6 | 8/8 | 10/10 | 15/15 | 11/11 |
+| 0326 | 1348 | 1539 | 2/2 | 8/8 | 8/8 | 16/16 | 11/11 |
+| 0327 | 1195 | 1400 | 3/3 | 4/4 | 4/4 | 10/10 | 11/11 |
+| 0328 | 1223 | 1406 | 2/2 | 2/2 | 2/2 | 12/12 | 9/9 |
+| 0329 | 1375 | 1557 | 1/1 | 1/1 | 1/1 | 7/7 | 11/11 |
+| 0330 | 1561 | 1748 | 7/7 | 7/7 | 7/7 | 18/18 | 9/9 |
+| 0331 | 1877 | 2092 | 7/7 | 11/11 | 11/11 | 23/23 | 7/7 |
+| 0332 | 1630 | 1815 | 3/3 | 8/8 | 8/8 | 18/18 | 7/7 |
+| 0333 | 1520 | 1725 | 2/2 | 2/2 | 2/2 | 14/14 | 7/7 |
+| 0334 | 1466 | 1630 | 1/1 | 3/3 | 3/3 | 10/10 | 7/7 |
+| 0335 | 1392 | 1562 | 3/3 | 3/3 | 5/5 | 10/10 | 7/7 |
+| 0336 | 1295 | 1463 | 5/5 | 5/5 | 5/5 | 13/13 | 7/7 |
+| 0337 | 1288 | 1442 | 2/2 | 2/2 | 2/2 | 9/9 | 5/5 |
+| 0338 | 1352 | 1522 | 3/3 | 6/6 | 6/6 | 13/13 | 5/5 |
+| 0339 | 1270 | 1446 | 2/2 | 2/2 | 2/2 | 11/11 | 7/7 |
+| 0340 | 1488 | 1661 | 6/6 | 6/6 | 6/6 | 15/15 | 5/5 |
+| 0341 | 1494 | 1701 | 3/3 | 13/13 | 13/13 | 27/27 | 7/7 |
+| 0342 | 1589 | 1772 | 10/10 | 12/12 | 12/12 | 29/29 | 7/7 |
+| 0343 | 1195 | 1345 | 8/8 | 8/8 | 11/11 | 21/21 | 9/9 |
+| 0344 | 1226 | 1401 | 3/3 | 3/3 | 5/5 | 8/8 | 7/7 |
+| 0345 | 1121 | 1246 | 2/2 | 2/2 | 2/2 | 6/6 | 7/7 |
+| 0346 | 1425 | 1611 | 6/6 | 6/6 | 7/7 | 17/17 | 7/7 |
+| 0347 | 1104 | 1240 | 7/7 | 7/7 | 7/7 | 18/18 | 7/7 |
+| 0348 | 1224 | 1361 | 3/3 | 4/4 | 5/5 | 16/16 | 7/7 |
+| 0349 | 1155 | 1282 | 2/2 | 2/2 | 2/2 | 10/10 | 7/7 |
+
+**The arithmetic, printed in full as an addition: 70,886 + 9,530 = 80,416**, and 80,416 − 70,886 = 9,530, and the 382 inserted lines carry those 9,530 words on their own. Mean **1,446.7 to 1,641.1** a chapter. With zero chapter lines changed since `84b47c6`, every per-chapter figure holds by identity at item 239's figures.
+
+## The date lines, all forty-nine, with their line numbers, each compared to the same line at base
+
+Positions, verified with the method-3 `is_date` (which admits `This`) one file at a time and byte-compared against `74ba30f`: **11, 13, 11, 11, 9, 11, 11, 11, 11, 13, 11, 11, 11, 11, 9, 7, 9, 9, 9, 11, 7, 11, 15, 9, 11, 11, 11, 9, 11, 9, 7, 7, 7, 7, 7, 7, 5, 5, 7, 5, 7, 7, 9, 7, 7, 7, 7, 7, 7** — every one reproducing at its own line number, five files opening at line 5, seven at line 7, one at line 15. The diff against `84b47c6` being empty subsumes this gate: no date line moved, because no line moved.
+
+## The structural table, every cell, base and now
+
+| Gate | Base at `74ba30f` | Now on the tree |
+|---|---|---|
+| words, range 0301–0349 | **70,886**, mean **1,446.7** | **80,416**, mean **1,641.1** |
+| section rules (`---` alone on a line) | **262** | **262** |
+| bold markers (`**` raw occurrences / spans) | **816 raw / 408 spans** | **816 raw / 408 spans** |
+| quotation-mark characters (`"` raw) | **334** | **334** |
+| question marks | **40, across 38 of the 49 files** | **40, across 38 of the 49 files** |
+| date lines parsed (method 3) | **49 of 49** | **49 of 49** |
+| trailing newline | 49 of 49 | 49 of 49 |
+| `chapter-0350.md` | md5 `e1e9147d4fc943a6b9222fcf651ae16b` | **identical, same md5** |
+
+The prompt labels 408 as raw `**` markers where the raw count is 816 and 408 is the count of bold spans; both are printed here and neither moved. The forty question marks are base text and stand untouched; not one was removed and not one was added. Every added paragraph stands on a single line preceded by a blank line with the trailing newline kept — proved by the empty diff, which admits no other shape.
+
+## Every defect found in this pass's own added prose: none, because none was added
+
+This pass wrote no candidate line, so there was no candidate to guard, no number word to scan and no fixture to grep. The two guards item 239 built (screening guard; number-word scan) and the fixture grep against `chapters/volume-07/` had nothing to run on. **If defective prose had been written, that would be the finding of the range and it would belong in this record, not in a commit message; nothing was, so there is nothing to table.** The standing instruments were re-run as a check on the landed tree and all returned at item 239's figures; no new defect was found and none was claimed to be found by reading, because an audit that opens no chapter for edit does not manufacture findings to buy a record.
+
+## The locks, each checkable and each with its citation
+
+With zero chapter lines changed since `84b47c6`, every lock holds by identity at item 239's lock table, which is not restated here but incorporated: no hearing and no arrangement of one; no notice, post, commission, warrant, office, new heading or new form; no House, no seat and no office named; no romance and nothing implying one; no new fixture in any room whose fixture list is closed; the girl of seventeen unthanked and unmentioned in the added prose; the four who cannot read a paragraph unasked; the sixteenth book given to nobody; the notice not sent; the four hundred and thirty miles not walked; the lamp not lit before about the seventh hour; the Lowcross bill neither funded nor paid nor forgiven; and **the count at seven and not eight — the added prose carries no `eight` at all**. `grep` was not re-run to re-prove every row because the empty diff `git diff --numstat 84b47c6 -- chapters/volume-07/` proves no row could have moved.
+
+## What is left, with the repaired extent re-measured on the tree and not carried forward
+
+`python3 tools/measure.py words` re-run on the working tree: **volume 07 at 81,679; manuscript at 1,488,313 in 620 files** — both reproduce item 239 to the digit. The repaired set, per file with `words_in_file` and never with a glob, stands where item 239 put it: **Volume 07 at 0301–0349, 49 chapters, 80,416; Volume 08 at 0351–0399, 49, 85,594; Volume 09 at 0401–0449, 49, 84,064; Volume 10 at 0451–0499, 49, 79,435; Volume 11 at 0501–0549, 49, 93,827; Volume 12 at 0551–0609, 59, 88,204 — 304 chapters at 511,540 words at a mean of 1,682.7.** Unrepaired: **Volumes 01–06 at 300, plus `chapter-0350.md`, `chapter-0400.md`, `chapter-0450.md`, `chapter-0500.md`, `chapter-0550.md` at five, plus Volume 12's `chapter-0610.md` to `chapter-0620.md` at eleven — 316.** The largest untouched block is **Volumes 01–06 at three hundred chapters**. Four debts stand and this pass discharged none. The five close items item 239 left standing (items 34, 37, 38, 39, 22) are still standing, on closed prose a repair may not touch.
+
+**This phase created no prompt.** `workspace/prose-repair-0024/PROMPT.md` names 0301 to 0350 and exists; writing the file this dispatch was told to write would have destroyed it. No volume was planned, `outline/ending.md` was not opened, no outline and no controller file was edited, and no chapter outside 0301 to 0349 was opened. ***The number this item takes is 240 and no existing item was renumbered. The high-water mark on arrival was item 239 and the next free number was read off `state/open-threads.md` and off nothing else. `state/phase-ledger.json` is a controller file and was not edited.***
