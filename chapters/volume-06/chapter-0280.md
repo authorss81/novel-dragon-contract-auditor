@@ -12,6 +12,8 @@ This is the second day of the second week of the seventh month of the year after
 
 He has read that copy four times on his own time. Not in a room. In this room, at this table, on about four evenings spread across about nine weeks, and nobody asked him to and nobody knows he has done it and there is not one form anywhere in this empire that says a man may read a thing four times for nothing.
 
+Four evenings on about four weeks, and the chair is against the wall, and a man who copies nine lines of his own hand four times does it at the table with the lamp burning, and by the fourth evening he could do the first four words of the first line without looking down.
+
 What he has got out of it is a shape of words and not a woman. It is four things and they are all he is ever going to get. A line. A day against the line. A space with a rule at the top and the bottom of it. And under all of that, a hand that is his own.
 
 **That is not evidence, and he said so out loud, in this room, at about the fifth hour, before anybody else did, and there was nobody else in the room.**
@@ -48,11 +50,15 @@ The first one was his own, the sixth day of the third month, when he was eleven,
 
 He said the date out loud, and the year he was, and the fact that it is not coming back, and there was nobody in the room to hear any of it.
 
+He said it flat and he said it to check he had got it right, and there was nothing in the place to put it into, and nothing in this empire that would let anybody be told a day had gone.
+
 There is not one form anywhere in this empire for a person to have a day back, not for a day of their own and not for a day of anybody else's, and there is not one for telling a person that a day of theirs has gone, and he is not going to tell anybody, and he is not going to have to, because there is nobody in this matter who could be told.
 
 ---
 
 **About two inches long, on the inside of his left wrist, and it reads nothing and it decides nothing and it does not know where the ford is, and the mark is not the price and the wage is the price.**
+
+He turned the wrist over and it is about two inches long, and it was about the same two inches on the day he chose it, out of his own hand, and he has had about four looks at it a month ever since, and nothing about it has changed at all except the length of the arm.
 
 He looked at it for about four seconds and it did not do anything, and it has never done anything, and there is no form anywhere in this empire that says a mark has to.
 
@@ -71,3 +77,5 @@ Nobody thanked him. There is not one form anywhere in this empire that requires 
 ---
 
 The nine lines were still on the table at about the seventh hour when the lamp was lit, and they are a shape and not a woman. **A shape is the whole of what this matter has ever been able to put in a room.** A clerk of about fifty-five put one of them in a book in the ninth month of the year after next with a day and an hour and her own name at the foot of it, and nobody sent her, and nobody has been able to ask her whether she meant it, and that is not going to change this month.
+
+He squared the nine lines against the edge of the table and put nothing on the nail, and the bare wall is all the wall there is, and the window still faces the back of another house and had nothing more to say about it tonight than it had at about the fifth hour.

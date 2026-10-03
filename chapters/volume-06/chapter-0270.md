@@ -70,9 +70,13 @@ And the count of things that have been asked out loud in this matter in about a 
 
 She opened the book of her own at about the seventh hour and there were two things in it that were not there in the twelfth month of the year after next, and she looked at both of them for about four minutes and she did not tear either out.
 
+Two things in a book of her own and her own hand on the page in both places, and about five weeks is how long it has taken her to stop expecting either of them to be a mistake, and she knows what each of them would cost and has priced both.
+
 The first is a line that says a clerk of thirty-four said no to a man on a stair on the second day of the third week of the third month of the year after the year after next, and it is the first time in this matter that a refusal has been written down by a person who was not the person refusing, and she wrote it in about four seconds and she was not asked to and she cannot take it out.
 
 The second is four lines off a board, and the first three of them are in the hand that put them up and the fourth one is not, and she does not know whose hand it is and she does not know when it went up.
+
+She copied them off a board on a wall at the other end of a counter, spacing and all, and the spacing is the part nobody would have believed her about, and the fourth line sits about a finger's width further out than the other three, and she has not decided yet whether that is about the man who wrote it or about the wall.
 
 **She has got a person's refusal in a book of her own and a piece of a wall she cannot account for.** About five weeks ago a clerk stood at the end of that counter and told her in about nine seconds that a window is not a wall. There is not one form anywhere in this empire that will let a woman put a window back as a wall, and there is not one that will let anybody take a line out of a book either.
 
@@ -87,6 +91,8 @@ And she is going to go on being that, and there is no form anywhere in this empi
 That is the name of it, and she is one of the four hundred, and she has been one for about two years, and nobody has noticed, because a machine does not have to notice a person who never opens her mouth. A machine only has to keep printing. It does not have to look at the paper, and the paper does not come back.
 
 Nobody was asked anything on the second day of the fourth week of the fourth month of the year after the year after next, and she was not asked anything on the four days before it, and she is not going to be asked anything this week, and there is not one form in this empire that requires a person to be asked and there is not going to be one.
+
+Not one person has asked her anything this week. The week is an ordinary one and the two years behind it have been ordinary in the same way, and the whole of it is written out in a book on the table, and nothing here would let a person ask her whether one word of it is true, and she has not stopped wanting to be asked and has never once said so to the lamp.
 
 She said it out loud to a table and a lamp, because there was nobody else in the room and because she has said a great many things out loud to a table and a lamp.
 

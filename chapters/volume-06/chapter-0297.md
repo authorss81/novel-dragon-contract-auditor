@@ -26,6 +26,8 @@ He said the shape of it first, because he had listened to two people say the sha
 
 It took about a second and a half. She did not stand up and she did not put the page down.
 
+About a second and a half is no longer than turning one leaf in a book of nineteen years, and she did not look up either, and the lamp was not lit yet and the room was the colour of the flags and the rail was four feet high and doing nothing.
+
 "Yes," she said. "**Once is enough.**"
 
 And that was the whole of it. Four words and then four words, and there was no name in either of them, and nothing in either of them could be used against anybody, and no part of it was going anywhere.
@@ -43,6 +45,8 @@ And there is not one form anywhere in this empire that will let anybody ask that
 It went on for about nine minutes and it is not nine minutes of talking.
 
 The woman of about forty lit the lamp in that room because it is not lit until about the seventh hour and she was early, and she did it while he was standing there and she did not look at either of them while she did it, and then she went down the passage.
+
+About nine minutes and a lamp lit three hours early by a woman who was outside the matter and would hear nothing of it, and about four feet of rail and about four hundred yards of passage and three people, and one of the three was carrying a scuttle.
 
 After that it was four minutes of a clerk of about fifty-five telling him what a second shelf down in a room is, and about a hundred and a half of sheets a year, and how a man who copies a hand for nineteen years learns to read the hand and not the person, and she said all of it in the ordinary voice at about the fourth hour and none of it was about the line.
 
@@ -75,6 +79,8 @@ He stood in that room for about four minutes after and the rail was about four f
 He had not worked out the rest of it. The rest of it is about four hundred and thirty miles off and it is a man of thirty-eight with a mark on the inside of his wrist and a labour a gate can refuse, and he is not in this room and is not sent and does not go, and the road is walked zero times.
 
 He went down four hundred yards of cold passage and out into a lane and did not stop at the step and walked nine miles back in about as long as he came.
+
+Four hundred yards out and nine miles back, and the step worn in front of the door is about two feet across and worn in the middle, and he walked over the middle of it going out and did not stop, and there was nobody at the door when he came and nobody at it when he went back.
 
 ---
 

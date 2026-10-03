@@ -20,6 +20,8 @@ He is one of a number of men asked for at a gate in the morning. The work is a d
 
 The gate shut at about the seventh hour and a man of about forty came out of it and looked along about nine of the others and looked at him and went back in, and that took about four seconds.
 
+Nine of the others were standing about four feet apart along about twenty feet of road and none of them moved when the gate shut, and about four of them had been there longer than he had, and the whole of what he learned in those four seconds was that a gate has two sides and he was on the wrong one of them all week.
+
 "Nothing today," the man said, to the gate rather than to him, and shut it again, and it was not a reason and it was not meant to be one, and he did not ask for the other thing.
 
 **There is not one form anywhere in this empire that requires a man to give a reason for not asking a man for a day's work, and there never is going to be one, and that is the shape he paid for.**
@@ -46,6 +48,8 @@ The mark on the inside of his left wrist is about two inches long. It has never 
 
 He looked at it for about four seconds at about the fifth hour and nothing happened, and nothing has ever happened, and no paper in this empire calls on a mark like that to do anything at all.
 
+About four times a month for about two years, the same way every time, which is to take the wrist up and turn it over and look at the inside of it, and about two inches is the whole of it, and the wrist is thinner now than it was and the mark does not go with it.
+
 It did not tell him whether a day's work was going to be asked for this morning, and it would not have told him if it could, and he has not once in about two years wished that it would.
 
 He is not at a stage and he is not going to get to one this month, and no form in this empire would let a man in a room with about four feet of bare wall be examined about one.
@@ -65,6 +69,8 @@ Neither of the other two knows that the other one is findable, and no instrument
 ---
 
 Nobody thanked him. Nothing in this empire requires a person to be thanked for not being asked for.
+
+Nobody in this matter has ever thanked anybody for not being asked for, and nobody in this matter has ever paid anybody for being asked for, and he has noticed that the two of them cost exactly the same and neither of them costs anything.
 
 The figure of about a hundred and forty years was said out loud twice and both of the times were said by the man of about thirty-four, and nobody has ever counted it, and it is not his number, and he has not put a question to anybody in about thirty-six weeks and is not going to, and a man who is on nobody's paper is not handed a count and is not going to be handed one.
 

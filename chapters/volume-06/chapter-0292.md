@@ -12,6 +12,8 @@ This is the second day of the second week of the tenth month of the year after t
 
 She noticed the hands first, because that is what the counter is. A man who has been writing other men's figures out fair for about eleven years has the outside of the middle finger hard on the near joint of the right hand, and this one had it on both, and had it on the left, which is not a thing she had seen on a customer in two years.
 
+She noticed the hands because a counter of eleven years has seen about nine pairs a day and knows what each of them does with a pen by about the fourth hour, and she had never in two years seen a hard outside joint on the left hand of a man who came up the stair.
+
 Then she noticed that he was reading the board, and not the way people read a board, and that he had gone along the four lines and stayed on the second one, which is a question at a shilling.
 
 "The second one," he said, to the board, at about the fourth hour.
@@ -54,6 +56,8 @@ The rest of it is the ordinary day and it went the way the day goes.
 
 A man of about fifty wanted a thing put back three years and could not have it and was not told why. A boy of about fifteen bought a blank for fourpence, stood at the wrong end of the counter for about eleven minutes with it in his hand, and went down without filling it in, which is the whole of what a blank is for and the only use it has. A woman of about thirty-two came up about nine people a day in a hundred wanting to know about a letter, and there is no such thing kept and no such thing told, and the woman said that was how it is done here and not a favour to her.
 
+A boy standing at the wrong end of a counter for about eleven minutes is the ordinary use of about eleven minutes, and about four of the nine people a day who come up there are somebody's boy.
+
 Nobody thanked anybody. The man of about thirty at the far end of the counter had not been spoken to in the whole of the hour and did the copies and is not a person anybody in this room is obliged to answer for anything.
 
 ---
@@ -71,6 +75,8 @@ And a man came up a stair this afternoon and asked her one question and she did 
 The undertaking of the fourth of the first month is live and unretired and unamended and has not been exercised, and it has not been exercised for the fifth time, and the fifth reason is not about the room.
 
 The fifth reason is the one nobody in this empire has ever had to write down. A person who has wanted to be asked every working day for about two years, and has said so out loud about four times, and is then asked one question by a man who came up a stair to find out whether anybody did, has not been asked. She has been used. There is no column for a difference like that, and a column is not a place a difference goes.
+
+Two years at one counter and about four times of saying a thing out loud, and about two years of a clerk of eleven years reading two feet away who has not asked her one question, and she has not eaten and is not going to, and the lamp is lit and about four feet of the room is warm.
 
 **She is the price of eleven years of unpaid reading at a counter and she is not going to be thanked for it and she said out loud about eleven weeks ago that she would like it written down that she did not expect to be thanked, and she has not been, and it is not written down anywhere except in this room and in her own head.**
 

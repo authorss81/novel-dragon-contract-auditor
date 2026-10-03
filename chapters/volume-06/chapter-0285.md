@@ -10,9 +10,13 @@ This is the fourth day of the third week of the eighth month of the year after t
 
 Two houses on that lane want a day a sum was wanted by, and about four of the fifteen want something by the end of the week, and she will do those four, and nobody has thanked her for any of it this month and she would not know what to do with it.
 
+The bench is about a hand's width off the wall and the pencil has rolled about two inches since she put it down, because nothing else on it moves and she has never put anything there to keep the pencil still.
+
 The four that come every week are the same four, and the four questions are the same four, and a day a sum was wanted by is the first of them and it is the only one of the four that ever has an answer in it.
 
 Whether a thing wanted in a district is wanted in the lane. Whether the third house down has paid, which she can say yes to because the third house down is the one that pays. And **whether the second one is still holding her book open at a page with a knotted string in it**, which is the oldest of the four and has been asked about four times and has not changed in about fifty weeks.
+
+The first two come out of the same page and are about four seconds each, and the third of the four takes about nine seconds, and the last of the four has been asked about four times and the answer has not changed and the asking has never got any shorter.
 
 The second of those four is a woman of about thirty-five who keeps numbers of her own on that lane, and who was at this bench about twenty-one weeks ago, and would not sit down, and has not been back.
 
@@ -29,6 +33,8 @@ The money is held against a thing. Not against her, and not against a man. The t
 And no form in this empire says a person at the end of a chain of classes may be asked what the head of it is for.
 
 A wage held against a thing is not held by a man who can be asked. It is held by a line. A line does not get tired, and a line does not want it back, and there is nobody in it to be cross with.
+
+A line also does not answer either, and in about three years she has arrived at nothing she could put down anywhere, because a page with her own name on it can be produced against her, and she has had enough of them to know what they are worth.
 
 ---
 
@@ -49,6 +55,8 @@ She told the second of the four women on the second day of the second week of th
 Nobody asked her to do either of those things and she did both of them, and it has cost her the thing nobody in that lane can see.
 
 Nothing in this empire says a person who has not been asked has to be told what it is that she is paying for.
+
+About three years of it, and a long way up this river and a long way down it to anybody who could have told her, and about four things a week going through a door, and nobody who has come through it has ever asked her anything, and she has never put anything to anybody who has.
 
 ---
 

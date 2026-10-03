@@ -10,6 +10,8 @@ This is the fourth day of the fourth week of the tenth month of the year after t
 
 He got as far as the bottom of the lane and stood in front of the door and did not go in, and it took him about four minutes to decide not to, and the four minutes were the whole of the journey.
 
+The step is worn in the middle and not at either edge, which is what about nine years of a door used by everybody and never used by one person does, and he stood on the worn part of it without noticing, and about four minutes of a man standing on a step is a thing a woman next door could describe if anybody asked her.
+
 The nine miles is not the thing. He has walked about four miles a day, most days, for about eleven years, and the nine miles took him the whole of the daylight and nothing hurt and he was not tired at the bottom of the lane.
 
 What he had when he got there was a question. It is a good one and he has had it for about three weeks and it has got the shape it is going to have: a clerk of about fifty-five, a book with eleven of them on a shelf, a second shelf down, a line with a day and an hour on it in her own hand and her own name at the foot of it, and whether she meant it.
@@ -40,11 +42,15 @@ The fourth thing is the one that stopped him.
 
 He has been on nobody's paper in about two years. That is the whole of what he has and it is the only condition in this matter he has ever got himself into on purpose, and he was standing in a lane giving it up for a door.
 
+About two years of nobody's paper is about two years of a man nobody can look up, and it is worth exactly nothing and costs nothing, and nobody at a counter could take it off him, and about four hundred yards of lane with a lamp in it is about as much as it was ever worth.
+
 ---
 
 So he turned round, and it took him about four seconds, and there was nobody in the lane to see it, and he has not got past that either.
 
 At about the seventh hour he was at the top of the lane and the lamp was still lit and there was nobody else on it, and he walked the nine miles back in about as long as he came and did not stop and did not go into a shop, and he got up the four steps about the ninth hour and there was nothing on the table in that room and the lamp was not lit and he put a match to the wick himself.
+
+Four hundred yards in from the road the lamp is the only light for the rest of the lane, and a man walking away from a door at about the seventh hour is walking at the same speed he came at, which is the only thing about the day he has checked.
 
 The cost of the day was nine miles and the whole of a day he was not paid for, and there is no form in this empire that would reimburse a man for a day he spent not going in a door, and nobody is going to hear about it, and it is the cheapest thing he has ever done and he is not going to be thanked for it.
 

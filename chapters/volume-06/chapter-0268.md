@@ -14,7 +14,11 @@ The four seconds are not a wage and they are not a favour and they are not a job
 
 He has about four hours before the lamp and he has had about nine years of them.
 
+Four hours in nine foot by eleven with the lamp not lit, and before the seventh hour the light in the shed comes off the far wall and moves about a hand's width across the floor in the whole of it, so he has learned the hour without ever being told it.
+
 Where he used to sit there is a cut in the wall at the height of his chest. A cross with a bar through it. Whoever cut it worked in this shed nine years ago and is dead now, and it is not a mark that anybody uses, and it is not about anything at all, and it belongs to nobody alive. It is not about the chain either. He has looked at it about four hundred times and it has never once told him why a man who cannot read a paragraph would want a mark like that cut where his hand could find it, and he has never asked, because there is nobody left who was standing here when it was made.
+
+The cut is a finger deep at the crossing and the paint has worked into it and has not come out, and his hand goes to it without him ever deciding to put it there, which is the only thing in nine years he does without deciding to.
 
 ---
 
@@ -49,6 +53,8 @@ A man came into the shed at about the sixth hour with a letter in his hand, and 
 The other man said it slower.
 
 It is a short thing. A heading at the top, in a hand that was not the hand that wrote the body, and under the heading a line about a sum that is owed, and a day, and then four lines of ordinary words, and at the bottom a place to sign, which is not signed.
+
+He got it up to the height of his own chest and turned it about under the light off the boards, and the heading was four words and one of the four ran on longer than the other three, and he has never found out which one that was and neither has anybody else who has read it.
 
 He read it out. He read it the way he reads anything, which is that he gives it back exactly as it was given to him and does not add anything and does not leave anything out, because a man who cannot read a paragraph who leaves a bit out is not a man who cannot read a paragraph, he is a man who has made one up.
 

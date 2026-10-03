@@ -16,6 +16,8 @@ He has carried that about thirty-two weeks and has not said it out loud to anybo
 
 He worked that out at about the fourth hour, standing at a table with nothing on it, and it took about four minutes, and there is nobody in the room to tell and he is not going to tell anybody, and no paper in this empire says a man may hand another man a reason he has just worked out for himself.
 
+A table with nothing on it is about four feet across and he has eaten off it about four times a week for about eleven years, and the lamp stands on one corner of it and about half of the wood has been wiped and about half of it has not.
+
 ---
 
 And then he got to the other half of the six o'clock, and it is the part he has got that he did not have forty weeks ago, and it is three things.
@@ -29,6 +31,8 @@ Two. A ruled line in a column in a day-book, eleven weeks ago, for nothing, beca
 Three. A figure, in a hand that is not his and not the old man's, under that line, in the first week of the eighth month, in a book that came back up four steps. It was a correct sum, and nothing in this empire gives a man the right to lift a figure back out of a column once it is there.
 
 **Three instalments in about forty weeks, and not one of them was collected in a room.** An instalment is a thing somebody asks for, and nobody has asked him for one of them.
+
+Three of them and about forty weeks and a fourth of a year, and not one of the three is a thing he can go back and look at, and a man who puts them together is a man who has been in three rooms and he has not been in any of them on purpose.
 
 And the reason nobody has asked is that asking him is being able to ask him, and no instrument in this empire would put a man of about thirty-four in front of a person who wants to know what a thing cost.
 
@@ -60,6 +64,8 @@ A man who goes and finds out what came of a figure in a column is a man who has 
 
 She is at the bottom of the four steps and he is at the top of them and neither of them came the other half.
 
+Four steps and a bolt across the door and about six feet of air between them, and the light going off the lane took the bottom of the steps before it took the top, and she had about four minutes of that and spent none of them on the stair.
+
 It has been about eleven weeks since the last time one of them came the other half, and it was her, and she came up with a lamp in her hand that was not lit, and she said a thing about never having asked him why anybody wants to know where he is, and she wanted it said in that order and not in any other, and she went back down.
 
 He has not gone down since, and nothing in this empire would let her put it to him first, and he has not put it to her, and he is not going to, and he has turned it over for about thirty-two weeks.
@@ -69,6 +75,8 @@ He has not gone down since, and nothing in this empire would let her put it to h
 The four men in a bay about four hundred yards up that road cannot read a paragraph, and no question has ever been put to one of them, and none was put this season either, and what is written about them sits in a ledger in that road in a book-keeper's own hand, and the hand that wrote it does not think it is his to touch.
 
 A girl of seventeen at the back of that bay is on a written engagement at the rate the list is set at, and nobody has said a word to her about the season and nobody is going to, and she has not been thanked and nobody is going to thank her.
+
+A rate on a list is a thing a girl of seventeen can be found by in about four seconds, and a season is a thing nobody has ever asked her about, and about four hundred yards of road and about four miles of river sit between the two of them and have never once been joined up by anybody.
 
 Nobody thanked him. The man of about sixty did not thank him in the first week of the eighth month, and his wife did not thank him about eleven weeks ago, and not one person inside four miles of that room knows a thing happened in it, except the four who know a foreman's wife came up a stair once, and four people knowing a thing is not a document.
 

@@ -32,6 +32,8 @@ She decided in about four minutes that she would rather be written down once. Sh
 
 It is the second shelf down on the left and it is about the same size as the other thirty-nine and it is bound in nothing in particular and there is nothing on the spine, and it is the first one anybody coming into that room would reach for, and about nine houses in this lane have had it open on that bench without knowing what it was.
 
+The second shelf down is at the height of her hip and the shelf above it is out of reach from the floor, so she has been doing two different things on two shelves for three years without noticing it, and her arm has noticed it.
+
 **Nell Kest has her own name at the head of it.**
 
 She put it there herself, three years ago, in her own hand, in about four minutes, having thought about it for about a year, and she has never told anybody, and there is not one form anywhere in this empire that says a woman who is not paid may keep a book with her own name at the head of it.
@@ -84,6 +86,8 @@ The broken light in that window has been broken since before she came into the r
 
 She has worked out that the light is the reason the books on those shelves are hard to reach, and that it is the reason she has to stretch up for the top of every one of them, and that after three years her arm knows which of the forty is which without her looking.
 
+The pane in it has a crack running about a third of the way down from the top corner and the crack has been in the glass since before she came into the room, and about nine times in three years she has caught herself looking at the crack instead of at a page.
+
 That is not a skill. It has no form attached to it and it cannot be entered anywhere and it is the only thing in three years of unpaid work that has come out of the room of its own accord.
 
 The woman of thirty-five did not ask for the number. She had said before she came that she was not going to and she did not.
@@ -111,6 +115,8 @@ It is not. It is a book of hers and it has never been a book of the lane and it 
 "It is mine and it is about you," said Nell Kest, "and I have never been able to work out which of those two is the more dangerous and I have had three years."
 
 The ordinary questions went on afterwards for about nine minutes. A day a sum was wanted by, and whether a thing wanted in the district wanted in the lane, and whether the third house down had paid. Those three are hers and about four of them every week and she has been asked them about nine hundred times.
+
+She answered all three without once raising her head off the bench, and the air off the broken light moved across the page in front of her and stopped whenever the woman of about thirty-five moved, and the three of them took the time three of them take and not one second more.
 
 She did not say a sum out loud in that room. She has never said one out loud in that room in three years and she is not going to start, and the reason has not changed, and it is that a sum said out loud in a room is in about nine mouths by the second hour and there is not one form anywhere in this empire that says a number heard in a room may not be written down in a book.
 

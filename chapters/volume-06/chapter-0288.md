@@ -10,6 +10,8 @@ This is the second day of the second week of the ninth month of the year after t
 
 Under that counter there is a box of about four hundred bought and unfilled blanks. Nobody has ever given it a name, there is nothing in this empire that would let anybody give it one, and not one person in that room has proposed one in eleven years.
 
+About four hundred of them are about four hundred sheets of nothing at all, and the cover has been lifted and put back for eleven years and the near corner has gone soft where a thumb goes, and nobody standing there has ever said a word about the state of it.
+
 A man of about forty-five came up this stair in the fourth week of the fifth month for the fourth time and got one word and no reason at all in it, and she did not sit down and did not look at the board, and he went down. She has not thought about it since and is not going to.
 
 ---
@@ -31,6 +33,8 @@ And then she got to the other half of the morning, with the man of about thirty 
 A clerk at this counter is paid a day for the day. The day is for copies, and for a shilling a question, and for telling a man whether a thing would hold up if the thing underneath it were lost, and not one of those three is reading.
 
 She has read in eleven years more of other people's money and other people's days and other people's signatures than that room would hold, and she has been paid not one penny for any of it.
+
+Reading is what she is and it is not on the board behind her and it is not in the fee, and eleven years of a thing that is not on a board is a thing no board can be said to pay for.
 
 **And there is not one form anywhere in this empire that pays anybody for reading a room, and not one that lets a person be told to stop, and not one that lets a person be asked afterwards whether they meant it.**
 
@@ -69,6 +73,8 @@ Three people in this empire cannot account for that fourth line, and one of them
 And no form in this empire would let anybody put those two things in the same question, and there has not been one for eleven years, and nobody in that room has ever wanted to.
 
 The first of the four lines is a copy at fourpence. The second is a question at a shilling. The third is four shillings for a thing she has never once given anybody and has never once been asked to give, and the four shillings have been on that board for the eleven years she has stood under it. The fourth is a line of writing she has never worked out what it is for, and it is in a different hand from the other three, and she has asked two people about it and both of them said they did not know.
+
+Four lines on a wall and about four things a day up a stair and about nine people a day, and she has stood under the board for eleven years and read it about four times a year the way a woman reads a thing she is not going to do anything about.
 
 ---
 

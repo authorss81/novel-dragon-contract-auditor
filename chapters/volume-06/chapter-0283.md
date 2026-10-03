@@ -18,6 +18,8 @@ The man of about sixty had brought it in twice in about four weeks before that a
 
 "Is it wrong?" he said, to the day-book, at about the fourth hour, and it was not a question to anybody.
 
+The book was open at the page before he said it and it stayed open at the page while he said it, and the sum sat under the line about two inches from the top of the column, and about four lines of the column below it were full of figures in the ordinary way.
+
 The line is still there. A short line ruled across the space with a pen, the work of a single minute, on a page where a word had been standing, in a column that has been taking figures for about thirty years. Under that line there is now a sum, and the sum is in a hand that is not the man of about sixty's and is not his.
 
 ---
@@ -54,6 +56,8 @@ And then he got to the part of it that took the rest of the four minutes, and it
 
 He has written about four hundred of those ruled lines in about eleven years. Not one of them has ever come back. A line goes out of a room and it is either thrown out, or it is read as a zero and the column is corrected, and in neither case does anything arrive up four steps with a figure under it.
 
+About four hundred ruled lines in about eleven years is about thirty a year, and he has never kept one of them, and a man who keeps nothing cannot be shown a difference between two of them, and that has held for about eleven years.
+
 Because a person who has been given a refusal in a column is a person who has been given a place to put the right answer.
 
 He gave it a place. There was a space under his line, and a man of about sixty looked at it and saw somewhere to put the money, and a clerk in a room four miles off put the money there in a hand that belongs to neither of them.
@@ -67,6 +71,8 @@ And the figure is not his, and it cannot be un-figured, and there is not one for
 It is going to be added to, and carried forward in a ledger, and put in a return, and be correct. Nobody is going to check it. He could not tell them to check it, because telling them to check it is telling them he wrote something in it.
 
 She was at the bottom of the four steps when he looked out of the window about a foot wide, and she did not come up, and he did not go down.
+
+The window is a foot wide and looks down the four steps and not across them, so the two of them were about four feet apart with a wall between and about four seconds of daylight left in it, and four steps is a short stair and it is the whole of the distance there is between them.
 
 They have been about eleven years in a house with a door on it, and almost nothing has ever been said in a room in it by the two of them, and the one that was, he said in a kitchen without asking her first, and it cost him and he has not done it since. About four weeks ago she came up those steps and told him out loud that she had never once asked him why anybody wanted to know where he is, and that she was not asking now, and that it is a different thing, and she wanted it said in that order.
 

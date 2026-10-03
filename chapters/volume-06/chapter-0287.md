@@ -14,6 +14,8 @@ She wanted to be able to be sued. It took about four days to arrive at wanting i
 
 Four of the nine asked her about a day in the course of this week. The other five did not ask her anything, and one of those five has not asked her anything since the second week of the eighth month of the year after. She has not asked that one either.
 
+Nine houses and nine books and a bench wide enough to take about six of the nine open at once, and about four of the nine were open on it this week and about five of the nine were not, and the five that were shut were shut before she came in and not after.
+
 The fourth house down is the one that comes to the door and asks whether the day wanted is the day the money was wanted or the day the thing was wanted. She said it is the day the money was wanted, and the woman said she had thought so and would not have wanted to ask twice.
 
 ---
@@ -25,6 +27,8 @@ Nine houses are nine houses. A heading is the only thing standing between nine h
 And under it those nine houses would be one thing, and a thing that goes on being after everybody in it is gone is a thing that can be taken to law about.
 
 She worked all of that out standing at the bench at about the fourth hour, and she has not written it down, and no form in this empire would let her, and she is not going to.
+
+Standing at a bench is not the same as sitting at one, and she has done most of about nine years of it standing, and about four hours a day on your feet is what nine houses costs and nobody has ever told her the figure.
 
 ---
 
@@ -52,6 +56,8 @@ So she is going to go on being nine separate houses, and she is going to go on b
 
 And nobody is going to be told that she wanted it. She said it out loud to a bench in this room eleven weeks ago with nobody in it, and that is the only room it has ever been said in, and no form in this empire would carry it out of this room, and it is not going to be carried.
 
+A bench holds a book open and does not answer and does not repeat, and about eleven weeks of one sentence said to one bench is the whole of what it has ever been said in.
+
 ---
 
 **And there is a woman of twenty at the top of that lane with about forty books and one of them with her own name at the head of it, and Nell Kest has not been asked anything by her and has not asked her anything, and neither of them is going to.**
@@ -63,6 +69,8 @@ A knotted string is not a name and it is not a form, and it is the only thing ab
 It is not a document and it cannot be produced, and no instrument in this empire would let anybody ask her what it means, and she has never once wanted anybody to ask her.
 
 "Did I want it for the houses?" she said, to the bench, at about the fifth hour, and she waited, and there was nobody in the room. "**Then I wanted it for the houses, and the houses have not asked, and that is the answer, and it took eleven weeks and about sixteen minutes altogether.**"
+
+About eleven weeks and about sixteen minutes altogether, and the room the sixteen minutes were spent in has one bench in it and one window that will not shut and about eleven feet by fourteen of floor, and she has not walked out of it once in any of the eleven weeks.
 
 ---
 

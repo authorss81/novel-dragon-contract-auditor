@@ -26,6 +26,8 @@ A thing with a day and a name at the foot of it is a thing somebody can be held 
 
 She had a pencil out and had it flat on the bench on about the second day of the eighth week, and she had it there for about four minutes, and she did not write anything on anything.
 
+The point of it was about a foot from the edge of the bench and there was nothing to write on anywhere in the room, because there is no first line, and a pencil that has nothing to write on is a thing you pick up and put down about nine hundred times in a morning.
+
 **It is not restraint and she has been careful about that for about three years.** It is that there is no way to write the first line of a thing like that and stop. There is no form on which a question sits at the top and a refusal sits at the bottom, and there is no sheet anybody could be handed with *this is a question* written on it. If she puts a day and her own name on anything at all then she has started something that will want a second thing on it inside about sixteen weeks, and the second thing will be a column, and the column will want a heading, and then it will be a machine in a room and not hers.
 
 So there is no first line. There is only the whole of it or nothing, and she has had about three years of being very careful.
@@ -37,6 +39,8 @@ So there is no first line. There is only the whole of it or nothing, and she has
 "If anybody in this empire could serve me with a question of my own that I had put in a book, then they would be able to tell me what my wage is being held for, and I have wanted to know that every working day for about two years."
 
 She said it to the bench and the broken light in the window and the forty books on shelves made for taller books, and there was nobody else in the room, and she did not say it twice.
+
+The light did not reach the bench at all, and what it did reach was the top of the second book on the left and the first line inside the cover, and she had not noticed the line in ten weeks and noticed it now because there was nothing else in the room to notice.
 
 Nobody has ever sent her a paper that could be answered. Nobody has ever been able to. There is not one form anywhere in this empire that makes a woman of twenty who is not paid for keeping eleven houses' books into a person that anything can be put in front of, and the not being able is the only reason those four books are still hers, and the not being able is also the reason she has never once known what is being done with her money.
 
@@ -53,6 +57,8 @@ A man came to the door at about the fifth hour on the second day of the second w
 "**And can I be down for a sum,**" said the woman of the third house down, from the step, about a week ago, "**or only the house?**"
 
 "You are in it either way and you only get to choose which line, and neither of them is yours to be taken out of, and I have said that to nine people and four of them did not like it, and there is not one form anywhere in this empire that says a person may be put out of a page their street put them on."
+
+All nine of them are still on the page, and four of the nine minded it and five did not, and nobody has ever told her that the four who minded and the five who did not are in the same book.
 
 ---
 

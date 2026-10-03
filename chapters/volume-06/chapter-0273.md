@@ -12,11 +12,15 @@ This is the fourth day of the third week of the fifth month of the year after th
 
 The other four were to carry a stack. A rail is a thing a person leans on and the rest of that room is a table and two chairs, and about nine hundred sheets a year go through the room the other end of the passage and not one of them comes in here, and he has worked that out in about four minutes on the first afternoon and has not needed it again since.
 
+There are two chairs in it and one of them has a leg let in with a wedge of wood at the corner, and nobody has ever had it mended and nobody has ever sat in it twice in a row, and it is the warmest place in the room and about four feet off the flags is warmer than it.
+
 He had it the other way round for four years and the other way round was comfortable. He had it that nobody wanted him in that room, and a man nobody wants in a room is a man who has not been put anywhere.
 
 ---
 
 Being unasked is not the same as being left alone, and he has had them the same way round for four years, and it took him about four minutes at the rail.
+
+His coat goes on the rail as well as his arm does, and it has been there about nine times in four years, and the oak has gone pale in those nine places and nowhere else along its length.
 
 **A person who is not asked is a person nobody has spent anything on.** A person who is left alone is a person whose leaving would cost nothing. Those are two different facts about the same four years and one of them is a wage and one of them is a room, and he has been being paid a wage about four years by a building that does not need him to be in it, and that is not a complaint and it is not a discovery either.
 
@@ -63,6 +67,8 @@ He said the second half of that to a rail and not to a person, and the rail is a
 ---
 
 Nothing was asked anybody. The count of askings in this matter is six and it was six fifteen weeks ago and it is six now, and it is not his number and it is not in that building, and there is not one form anywhere in this empire that says a man is told a count.
+
+Nothing was asked anybody, and there had been no fire in the room for the whole of the four minutes he had been standing in it, and the top of the rail had a skin on it like the top of a wet stone, and he put a finger on it and it came away dry.
 
 He does not know that. He has not been told it and he has not asked, and there is not one form anywhere in this empire that would let a man in a room with a rail in it be told what a count in another building is, and a person who is not in the room does not get a copy of it.
 

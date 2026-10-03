@@ -12,6 +12,8 @@ This is the second day of the first week of the sixth month of the year after th
 
 The refusal is one line and it says that a clerk of thirty-four said no to a man on a stair on the second day of the third week of the third month of the year after the year after next. It is in her own hand. She wrote it in about four seconds at the other end of that counter and nobody asked her to and there is no form anywhere in this empire that says a clerk at a counter has to write down what another clerk said.
 
+The one line is short enough to read standing up in a lamp-lit room and about long enough that it takes her eyes to the end of it, and she has read it about nine times without ever reading it out, and the four lines under it take about four seconds and she knows them by the shape of the fourth one.
+
 The four lines are off a board behind that same counter, and the first three of them are in the hand that put them up and the fourth one is not, and she does not know whose hand it is and she does not know when it went up, and about eleven years of that counter have gone past and nobody has ever asked her about the fourth.
 
 ---
@@ -25,6 +27,8 @@ A thing about nobody is a thing that cannot be produced against anybody.
 **A fee board is a document about nobody.** It is a list of what a counter does, and a day, and a sum, and there is not one person in any of the four lines, and so there is nobody anybody can hold anything against, and so there is nobody anybody could ask either, and that is the reason the fourth of those four lines has been up on that wall for about eleven years with a hand on it that nobody has ever been able to account for.
 
 She is not going to find out about the fourth one. She looked at it for about four seconds in the third week of the third month and wrote down that it was in a different hand, and she has not looked at it since and she is not going to.
+
+Four seconds at a board on a wall and then a line in a book at about the seventh hour, and the two of them together are the whole of her investigation, and there will not be a third one, and she would rather be a worse investigator than a more careful one.
 
 ---
 
@@ -60,7 +64,11 @@ Nobody asked her a thing that was not a request. That is the ordinary shape of t
 
 And she did not want it taken off her and she would have said so to anybody who had come up that stair with a form, and about nine people came up it and not one of them had one.
 
+The stair is four flights, and about five people in a day go up it for nothing at all, and she has watched it happen from the top of the stair for two years, and has never once asked one of them what they came up for.
+
 And the fourth of the four things in the drawer is where it was, and it was not touched, and she did not open it and she is not going to send it, and it has been there for about two years and it is the only one of the four that is hers.
+
+It is in the bed and it does not lock and it has never locked, and a thing put in there is a thing nobody will ever look at, and about two years is how long four things have been in there and not one of them has been looked at by her either.
 
 ---
 

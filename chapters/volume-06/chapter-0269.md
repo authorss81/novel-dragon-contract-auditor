@@ -8,6 +8,8 @@ This is the second day of the third week of the fourth month of the year after t
 
 **The ordinary part of that day had been ordinary for about nine years and she had done all of it in a hand that does not vary: the list of works read out, the day's tally written, the hold read, the number of the hold written, and about four ordinary questions answered before the lamp.**
 
+The hand the form comes printed with writes the body, and the hand at the foot of it is hers, and about four of the nine cannot read either one, and the two have been on the paper about nine hundred times a year for nine years without once being the same twice and without once being different.
+
 A man of about twenty asked whether a stone had to be re-cut if it was set the wrong way round. It does not and she told him so.
 
 A man of about fifty who came in at about the eleventh hour asked whether the day's tally was the same as last week's. It is not and she told him so.
@@ -20,9 +22,13 @@ It is a single sheet. There is a heading at the top of it in a hand that is not 
 
 There is a column for the answer and there is not one column on that sheet for a man to write no in, and there never has been, and that is not an oversight and nobody in this empire has ever sent anybody a form to complain of it.
 
+The column is ruled all the way down the same way as the day column above it, in the same hand at the same time, and there is no short one anywhere on the sheet with a line left out of it.
+
 She read the heading to the bay in the time it takes to read one and she did not put a shape on it or a hat on it, and she is a woman who said the shape of a thing out loud in this bay once in the first month of the year after the year after next and is not going to do it twice.
 
 And it went round that bay in about nine minutes, the way a thing goes round a bay. Not what was in the heading. What was in the heading is a thing four of them could not have told anybody. What went round was that there was a column, and that the column had to have something in it, and that about nine men had put in it whatever was under the same word on their own paper.
+
+It went round in about nine minutes, and a bay nine foot by eleven goes round twice in that, and by the second time round the words had gone out of it and nobody in there was using words any more, only the shape of them.
 
 Nobody made a party of anybody and nobody thanked anybody. It was not a thing anybody did on purpose. It was a thing that happened because a sheet came up a lane, and a foreman read a line out of it, and nine men filled nine lines in because that is what a foreman says on a day like that one.
 

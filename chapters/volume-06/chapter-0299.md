@@ -52,9 +52,13 @@ And he had that coming and he had it written down before he came, and he did not
 
 "The day's wage is what I am losing and I have lost it and the man at the gate said nothing and I did not ask him to say nothing. It is a shilling and sixpence and I have been at that gate about nine times this month and this was one of the nine that I am not having."
 
+About four men in a store four hundred yards up a lane and about nine times at a gate in a month and one shilling and sixpence for the day, and about eleven years of days put in one at a time, and a cold building with a bench along one wall, and four hundred yards of lane separating it from the bay.
+
 He put the inside of his left wrist on the bench with the sleeve back and there is a line on it about two inches long and it is not a figure and it is not a word.
 
 "That has been there about two years and it has never said anything and it has never settled anything and it does not know where the ford is, and it is not what I have just paid, and the wage is what I have just paid, and this has gone about an inch further up my arm since the fourth hour and it is going to keep going and it is not going to close."
+
+About an inch up the inside of the forearm since the fourth hour, and about an hour of cold building in the time, and the skin at the edge of the line is a different colour from the skin beside it, and the colour has not spread and is not going to.
 
 ---
 
@@ -73,5 +77,7 @@ Nobody thanked anybody. Nobody in that store thanked him and he did not thank ei
 **He is not at a stage and he is not going to get to one, and no form in this empire would let a man in a store be examined about one.** He said the reason out loud in about nine words and said it to the bench. There is no form in this empire for compelling a person to be brought to a room, and a hearing that cannot compel attendance is a room with people in it who came.
 
 The lamp was not lit until about the seventh hour and it was not lit at about the seventh hour either, because the man of about fifty-five with a chain went out at about the sixth hour and the foreman went with him and the man of about thirty from the second gang went out before that and said nothing, and about four men left at about the sixth hour and none of them was asked anything by anybody.
+
+About six hours of a cold building and about four men and two people who had been in a box, and a bench against one wall and an unlit lamp in it, and four hundred yards of lane between the gate and the bay and the whole of it undone.
 
 He put his sleeve back down and shut the store. The mark on the inside of his wrist was about three inches by then. There is a building about nine miles off with a rail in a room at the end of a cold passage, and a man of about thirty-four had been in it about twelve days ago and had told nobody and was not going to. Marek Kest is not in that room and is not sent and does not go, and the road is walked zero times, and he went home to a room with nothing nailed up in it.

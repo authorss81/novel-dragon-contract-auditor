@@ -12,6 +12,8 @@ This is the fourth day of the third week of the seventh month of the year after 
 
 About nine people came up it today, which is the ordinary number and is not a figure anybody keeps, and four of them wanted something they could have had and five of them wanted something they could not.
 
+The stair takes the light at the top and loses it going down, so about nine people a day stand in a bright place at the top of it and go down into a dark one, and about five of the nine who wanted something they could not have were still standing in the light when she had finished saying so.
+
 A man of about fifty wanted a thing dated back three years and was told it could not be dated back and was told why, in about as long as it takes to read a sign, and he said thank you and went down.
 
 A woman of about thirty wanted to know whether a person had come in on a day in the past. Nobody is told that, and it is not kept, and the woman said that was the ordinary way and not a favour, which is the sentence this counter exists to produce about four times a day.
@@ -27,6 +29,8 @@ The man of about thirty who does the copies was in and out all day with about ni
 No.
 
 And that is the whole of it. Four seconds, and she did not sit down, and she did not look at the board behind her, and she gave him no reason at all, and he went down the stair.
+
+Four seconds is about the length of a line being ruled across a page and not much longer, and she has given him two longer answers than that, and this is the shortest refusal of eleven years at the top of a stair, and nobody has ever had occasion to compare it with any other.
 
 She had given him a reason twice before that, once for long enough to say it twice over and once in about nine seconds, and the reason was the true one and it was the best reason anybody has given the woman at the top of that counter in eleven years, and she heard it said across a counter and was not part of it. She has not said it since and she is not going to say it again to anybody.
 
@@ -57,6 +61,8 @@ She has known that for about ten weeks and it is the reason she cannot use the l
 And she is not going to hand it to anybody, and no instrument in this empire has a place to put a thing a person wrote about themselves.
 
 That is the ordinary answer and it is also a coward's answer, and she got past it while she was still sitting there.
+
+Sitting down is about four minutes in a room rented by the week, and four minutes is how long a decision takes when there is nobody in it to hand the decision to, and the room lets nobody in and shuts at nothing, and she has worked it out twice.
 
 ---
 

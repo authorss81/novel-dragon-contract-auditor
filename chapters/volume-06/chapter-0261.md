@@ -50,6 +50,8 @@ There is no third box and she is not going to rule one. The reason is the reason
 
 She looked at the two of them for about four minutes and then she did the thing she has been not doing, which is that she put the open book face down on the table with her hand flat on the back of it, and left it there while she ate.
 
+She ate standing up, because there is nowhere in the room to put a plate down and sit over it, and the crumb went across the page with the two boxes on it and she left it there. A mark she cannot lift is a mark she does not have to decide about tonight, and the lamp is near enough to warm one side of her hand and leaves the other side to the wall.
+
 ---
 
 And the two things that require her in any room he is in are two things, and she has never once put them together, and she is not going to.
@@ -84,6 +86,8 @@ And then, on about the fifth day, something would come, from somebody, and it wo
 
 She sat with that for about four minutes and it did not get better and she did not try to make it better.
 
+The cold comes off the wall behind her at about the seventh hour and has done for two years, and she has never got up and put anything between her back and it, and the lamp sits on her own side, so the far side of her hand has not been warm since the sixth hour.
+
 **Then she worked out the other half of it, and the other half is the part she is going to have for the rest of her life.**
 
 A thing that one person does every day for four years, with no form behind it and no fund behind it and no register and no heading and nobody else in it, is a practice. A practice is the only thing in this empire that grows into a post without anybody deciding anything, and the reason it grows is that it works, and the reason it works is that nobody has ever tested it.
@@ -109,6 +113,8 @@ The four of them in the drawer under the table were where they were, and not one
 If she stopped, and nobody found out for about four days, and then something came, then she would find out about it in the ordinary way. A lane is a lane. A door is a door. A woman of about thirty-five with a wet hood is a woman of about thirty-five with a wet hood, and she came to a door about four hundred yards from a bay in the first month of the year after the year after next asking about a day, and nobody sent her.
 
 That is the whole of the arrangement and the whole of the protection and it does not have a single person in it. There is nobody standing anywhere holding this up on purpose. That is what is new and it has taken her six weeks and five days and it is not going to get better by being looked at.
+
+Somebody went along the lane below about four hundred yards off and the footsteps went away and did not come back, and she listened to the end of them, and a lane at about the seventh hour is a different length from a lane at about the sixth hour and nobody has ever measured either of them.
 
 About four miles off somebody's dog went and stopped and started again, and the lamp made the window black, and she squared the two boxes towards each other and did not count them because she knows the number.
 

@@ -48,9 +48,13 @@ The first line is a heading and she has never once said it out loud to anybody. 
 
 It was not the paper that told her. The paper is dry and has been dry for four days and is dry in a building with a stone floor and one high window.
 
+Under it the stone has been holding four days of dry and gives a hand's width of warmth back into the air, and the paper is dry through the middle of the sheet and has a cold corner at the bottom one where it is folded.
+
 It was the sound.
 
 She put two fingers on the crease and drew them along it, the length of about two inches, and the fold moved under her fingers, and it made a small noise, and the noise is the noise a thing makes about a week before it comes apart.
+
+The fold gave about the width of a hair at the far end and gave nothing at all at the near end where her own fingers were, and she took them off it and put them on an inch further along and it gave there too.
 
 **A crease is not a name.**
 
@@ -97,6 +101,8 @@ And about nineteen people are still behind that bank, and a guarantee stands off
 Nine names in a list of works in her own hand, and four of the nine cannot read a paragraph. Not one line about that has ever been written on paper in this building or in that bay or in her own house. Four hundred yards up the road a ledger holds a finding that has something to do with it. The ledger is not hers. She will not improve it and she will not add to it, and there is no fifth reason coming, and there never is going to be one.
 
 She laid it down on the bench again with the fold where the fold was, and there is a difference between a fold being the way a thing should be and a fold being only the way it happened to arrive, and she has not found out which of the two this is and has been unable to find out for about nine weeks.
+
+The dust has got into the crease and come out on her fingers, and she wiped them down the side of her skirt without looking, and the fold has not come apart any further since she came in.
 
 **On the way back she went the other way, which adds about four minutes and takes her past a gate she has nothing to do with.** There were two men about forty yards off doing a thing to a post. They did not stop and she did not stop, and one of them said good evening in the ordinary way about four hundred yards from a building with three pieces of paper in it, and she said it back, and that is the whole of what passed between them.
 

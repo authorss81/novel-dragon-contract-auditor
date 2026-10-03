@@ -28,6 +28,8 @@ And this week she worked out that the not asking is not his.
 
 It took about four minutes on the second day of this week and she was standing at the south end of the lane with a barrow handle in her hand. A book-keeper four hundred yards up that lane is handed about four hundred sheets a year, and every one of the four hundred has a column with a heading over it and a second hand at the foot of it. There is no way on a sheet to hand one back. A man who is handed four hundred sheets a year is not a man who is choosing once a week not to ask a foreman a question.
 
+The handle of a barrow is colder than the air at about the fourth hour because it is iron and has been out since the second hour, and about nine years of hands have been on it and about nine years of nothing has come of it, and she has never once put it down on anything to keep it off her hands.
+
 **A man of about sixty-one worked out a thing at a rail in the third week of the sixth month and it went round four feet of that room, and I have got about half of it and the half I have got applies to me, and I am not going to say the rest of it out loud in this bay because there are nine men in it and one of them is seventeen.**
 
 That is all she said about it. She said it to the bench, at about the fourth hour, and nobody took it up, and there is no form in this empire that would let a foreman say a true thing in a bay and have it entered, and there is never going to be one.
@@ -35,6 +37,8 @@ That is all she said about it. She said it to the bench, at about the fourth hou
 ---
 
 A man of about fifty-five with a chain went past the mouth of the shed at about the fifth hour and did not stop and did not ask her anything, and that is the second day this week he has done it and it is what he has done every working day for about nine years, and nobody ever arranged for it and nobody ever asked him to.
+
+He goes past twice a day and four hundred yards of lane is what he walks and about nine years is how long he has walked it, and the chain makes a noise on the fourth step and not on the first two, and about four men in the bay have heard it and have never once said so.
 
 He cannot read a paragraph. That is not a thing that was found out about him in a room. It is a thing four men in this bay have known for about nine years and have never once said in front of him and have never once been asked about, and there is a finding about those four in a ledger four hundred yards up that lane in a book-keeper's own hand, and the hand that wrote it does not think it is his to touch.
 
@@ -61,6 +65,8 @@ Nobody thanked anybody and nobody is going to.
 A girl of seventeen at the back of that bay on a written engagement at the rate the list is set at has not been spoken to this morning and is not going to be spoken to before the lamp is lit, and she has not been thanked, and she is not going to be, and nothing in this empire requires a person to be thanked for reading a hold out loud or for standing at the back of a bay at the end of a week.
 
 The hold has not moved and the water is where it has been, and the second sentence is in her and has been in her since the third month of the year after. About four men in that bay have never been asked one question about a number, and one of them is seventeen and one of them has a chain. A man four hundred yards up that lane wants the rest of what she has and is not going to ask for it, and she has worked out this week that not asking is not a thing he is doing to her.
+
+The bay has about nine in it and about four of them have never read a paragraph, and the hold on the wall is a number and not a document, and four hundred yards of lane separate the bay from a shed and four hundred more separate the shed from a book-keeper's counter, and nobody has crossed any of it in a way that could be written down.
 
 **That is the first new thing she has had since the third month of the year after, and she is not going to say it in a bay.** No instrument in this empire would carry it out of this shed to a person who could do anything about it. She has not got a book and is not going to get one, and a foreman who kept a book would be a thing nine families had agreed to in the open, and they have not agreed to that, and she is not going to ask them to.
 

@@ -10,9 +10,13 @@ This is the fourth day of the fourth week of the sixth month of the year after t
 
 A notice came up the lane on the fourth day of the third week of this month, which is the day a copy of it was written down about nine miles off, and it is a notice of six numbered lines with a day entered against it, and there is a copy of one in a room about nine miles off with a pane out of the window, and it came up here because everything comes up here.
 
+The bed is against the wall under the four feet of nothing, and the table stands about a foot off it, and she eats standing up at the table, and has eaten standing up for about nine years, and the lamp is on it because a rented room with four feet of bare wall has one place a lamp can go.
+
 Six numbered lines. Line two asks that no inference of any kind be drawn from the absence of any name. Line six declines to name whoever holds the office at all.
 
 She cannot read a paragraph. She has never been able to. She did the arithmetic of about sixty children on the back of her own hand with a stick in about nine years, and she knows what her own arithmetic is worth, and she has never once pretended it was worth more than that.
+
+The arithmetic went on the back of her own hand in about nine years and the sixty children are on there in a sum she cannot read it now without putting the hand flat on the table, and about half of it has been rubbed off at the knuckle where her hand goes across when she is carrying a barrow.
 
 So the notice went up the lane about four hundred yards on the fourth day of the third week, because it could not be read in that bay by anybody who was going to be paid for reading it, and because there is not one form anywhere in this empire that says a foreman may have a page read to her.
 
@@ -25,6 +29,8 @@ A girl of seventeen at the back of that bay is on a written engagement at the ra
 **Halla Wray did not send it to her, and she has not been spoken to, and she is not going to be, and she was not thanked, and nobody is going to send for her.**
 
 The second one is a woman of about twenty-four who keeps a book at that end of the works, and she is not on any list in that building and has never been on one, and she came up the lane behind the notice on the day it came up and read the whole of it out loud in about four minutes standing at the bench in front of nine men, and she did it because the foreman could not and there was nobody else there.
+
+Nine men in front of her and a sheet of six numbered lines and about four minutes of somebody else's voice, and nobody has read anything out in a bay in as long as she has been standing behind one, and about nine people were in there and not one of them wrote down that it had happened.
 
 ---
 
@@ -57,6 +63,8 @@ She has now made two people in that cut do a thing on her behalf in about six we
 ---
 
 Nobody was thanked. There is not one form anywhere in this empire that requires a person to be thanked for reading four minutes of a notice out loud in a bay for nothing, and there is not going to be one, and the woman of twenty-four did not expect it and Halla Wray did not give it.
+
+The bench is against the north wall and about nine men had gone out of the bay by the time the light went, and a foreman of fifty-one was standing behind the bench on her own, which is the arrangement and has been for about eleven years, and the lamp in the bench was still cold and about nine men had gone and one had not.
 
 The four men in that bay who cannot read a paragraph are still four and were not asked one thing this week and were not named, and no reason about them was given, and a season has closed and nobody decided that and nothing was resolved.
 

@@ -30,11 +30,15 @@ She has three questions for him. She wrote them down in her own head about nine 
 
 The rail is about four feet high and it is about as cold as the passage, and it does not answer, and there is nobody else in that room.
 
+A rail takes an arm's weight whether anybody is there to put one on it or not, and she put hers on it for about four seconds, and it was colder than the room and gave the cold back inside about a minute, and she has not done it again.
+
 ---
 
 **What she has done in twenty-two weeks is looked at the rack.**
 
 Every day, at about the third hour, when it comes off the carrier's hip and goes on the shelf by the window. Not touched. Counted, in her head, the racks that go down that passage and come back with four on them and not five.
+
+A rack goes down the passage and comes back, and the going down is about four hundred yards and the coming back is the same, and about nine of them a week go both ways, and she has counted the wrong ones for about twenty-two weeks without once touching one of them.
 
 She has got the number. And she is not going to write it down, and nothing in this empire would let her write it, and nothing in it forbids a clerk setting a number she has counted in her own head down in a book afterwards either.
 
@@ -43,6 +47,8 @@ About nine hundred of them go out of that room every year into about nine hundre
 Four letters at a time. And the whole of the number is four letters at a time, because those are the only ones that come back with nothing in them. The five go into a book with her mark under them and are true. The four go on a shelf and are true as well, in a different way, which is the way of a thing nobody is going to do anything about.
 
 And that number is the only measure this empire has of how many people are being held by a thing nobody can be asked about, and it is in the head of a woman of about twenty-six who is not going to say it out loud.
+
+She has got about nine hundred of them in her head and about nine of them a week, and about four of the nine come back with nothing in them, and the four is the only part of the arithmetic that is about anybody.
 
 ---
 

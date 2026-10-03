@@ -10,6 +10,8 @@ This is the fourth day of the fourth week of the seventh month of the year after
 
 There are nine men in that bay, and four of the nine cannot read a paragraph, and none of the four has been asked one thing about a number in nine years, and no name of any of them has been said in that bay in nine years.
 
+The bench goes from the door to the water and there is nowhere on it to put a book, and about four men worked out over nine years that the middle of it is the warm part in a wet month and the two ends are not.
+
 A girl of seventeen is at the back of it on a written engagement at the rate the list is set at. She was not spoken to this morning and nobody is going to send for her.
 
 ---
@@ -32,6 +34,8 @@ And a man of about fifty who came in at about the eleventh hour on the fourth da
 
 Between the four of them they have taken about four minutes of the four days. The rest of the four days was a chain wanting oil in it or not wanting oil in it, a barrow of stone going out at about the sixth hour, and a man of about twenty who asked whether being asked a question out loud in a bay made him a party.
 
+A bench a man can lean on is a bench a man can be quiet on, and about four minutes out of four days is about a minute a day, and a minute is not long enough for a man to be uncomfortable in front of a foreman.
+
 He is a party, she told him. A party is the only kind of person this empire can tell beforehand what a thing is going to be used for, and there is not one form anywhere that lets you do that asking to a man before you have done it to him.
 
 And at about the sixth hour on the fourth day the man of about twenty came back to the bench and said, "Who has been counting it?"
@@ -47,6 +51,8 @@ She said it out loud in the second week of the ninth month of the year after nex
 And she has now had it back four times in four days from men who were not in that bay on the day, and that is a different fact, and she has had four days to look at it.
 
 "A reason read out loud in a bay is a worse kind of findable than a name," she said, to the bench, at about the fifth hour, to nobody. "And a number read out loud in a bay is not findable at all, and it is the same thing, and the reason it is not findable is that there is no form anywhere in this empire that says a man may be asked to stop having said it."
+
+She said it to the bench because the bench is the only part of the bay nobody can ask anything, and it has been told about four days of things nobody meant it to hear and it has not repeated one of them.
 
 ---
 
@@ -95,5 +101,7 @@ One went down a corridor with a lamp and came back with nothing and said nothing
 The second of the two was this afternoon and the first of them was twenty-five weeks ago, and both are long after the day she worked out in about four seconds that a number said out loud in a bay is worse findable than a name. **She has not been improved by knowing it.**
 
 Nobody thanked her. The four men who cannot read a paragraph were not asked anything this week and were not named, and nothing in this empire calls for a foreman to ask them. A girl of seventeen at the back of that bay on a written engagement was not spoken to and was not thanked, nobody is going to send for her, and she has said she will not be started and will not be.
+
+Four men on a bench with about four feet of it between each of them and the next, and the lamp on it was cold and would go on being cold for about three hours yet, and the whole of what any of them has had put to him in nine years is nothing, and nobody is going to start now.
 
 The lamp in that bay is not lit until about the seventh hour, and it was not lit when the fourth man went back to the bench, and it is not lit now.

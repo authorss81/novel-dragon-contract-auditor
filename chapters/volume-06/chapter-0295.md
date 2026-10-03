@@ -8,6 +8,8 @@ This is the second day of the first week of the eleventh month of the year after
 
 **What she has done in about forty-one weeks is looked at the rack, and every day at about the third hour, when it comes off a carrier's hip and goes on the shelf by the window, not touched, counted, in her head, the racks that go down that passage and come back light by one.**
 
+A rack is about nine inches deep and about two feet across, and it goes up about four hundred yards and comes back down the same, and about nine times a week, and the cold goes through the bottom of it because it is open at the bottom on a woman's hip.
+
 **She has got the number and she is not going to set it down.** There is no column in this empire that would take a figure like that one, and there is nothing in this empire that says a woman may not put down a number she has counted for herself, and that is not why she has not, and she knows the difference between the two reasons and is not going to pretend to it.
 
 And the number has gone up since she counted it in the seventh month, and she has not said by how much and she is not going to, and a number that has gone up in about seventeen weeks is a number that is still going up while a woman of about fifty-five sits at the other end of four hundred yards of cold passage copying a hand into a book she advises nobody about.
@@ -46,6 +48,8 @@ And that is the same as the thing a man of about sixty-one said at a rail in the
 
 The rail is about four feet high and it is about as cold as the passage and it does not answer.
 
+Oak, from the look of it, and about four feet of it, and nobody has ever put anything on the top of it, and four hundred yards of cold passage comes to an end in four feet of oak and then there is a door and then there is a lane and then there is a yard.
+
 At about the fourth hour a carrier came up the passage with a rack on her hip and she signed for the things on it, and she has not said one word to the carrier about what she is carrying in or where it came from, and the carrier is paid ninepence at a lock and is on a list and has not been asked what she is carrying in about six years.
 
 "Do you want the room at this end shut or the room at the far end?" the carrier said.
@@ -53,6 +57,8 @@ At about the fourth hour a carrier came up the passage with a rack on her hip an
 "The far end. And take the rack straight back down, and it goes back down the lane and it comes up again in the morning, and it is not late and it is never going to be late."
 
 The carrier went down the passage and the cold came up after her and the rail stood in it.
+
+One person's feet on four hundred yards of flags make less noise than two people's, and about nine people go along the passage in a day and about nine of them are thinking about something else.
 
 ---
 

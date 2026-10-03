@@ -38,6 +38,8 @@ So he did not ask her, and he told her, and the not asking is the arrangement an
 
 She looked at the plate and then at him and then at the door, which was the same as looking at nothing, and then she came and stood against the side of the table with her hands on the edge of it.
 
+The plate was still warm and she put it down about a foot from where he was standing and it made a noise on a table that has had about eleven years of plates put down on it, and about four feet of the kitchen has never been warm and about four feet of it has been warm every evening since she came into it.
+
 "Six weeks," she said.
 
 "Six weeks."
@@ -100,6 +102,8 @@ A name is a thing a person can be served at. He has been in eleven columns in ab
 
 The lamp on the table is burning about fourpence a night and the lane has gone and the shop underneath has shut and the tar and the rope smell is up there in the boards with the lamp oil, and in this month there is less of it than there is in the spring.
 
+About fourpence a night and about eleven years of them, and the smell of the shop underneath gets into the boards and stays in them until the spring, and the man who sells the oil has never once been asked a thing about it by anybody living in this house.
+
 ---
 
 He had it worked out by the second hour, and it took about four minutes, and it is the second time in about eleven years that a thing he has thought out in this room has turned out to be a thing about a person and not about a machine.
@@ -117,6 +121,8 @@ The woman of about twenty-four at the top of a stair in Auremar is at the other 
 ---
 
 He did not go up the four steps until about the ninth hour and he did not light the lamp on the table in the room at the top of them, and there is a table in that room and nothing on it, and there are about four feet of wall by the window with nothing on it.
+
+Four steps up and a door at the top and a bolt on it he has not put across in about eleven years, and about four feet of wall by a window about a foot wide, and neither the wall nor the table has anything on it, and the room has been exactly so for years.
 
 **And there is not one form anywhere in this empire for a person to be found by a thing they have done on purpose, and there is not going to be one, and he has known that since a bay in the eleventh month of the year after next and has not needed it explained to him since.**
 

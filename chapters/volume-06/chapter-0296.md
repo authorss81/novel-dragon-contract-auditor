@@ -12,6 +12,8 @@ The door is not locked and there is nobody at it. A building off the old river r
 
 A woman of about forty came up the passage from the door end carrying a scuttle and a lamp and a cloth, on her way to the far end, and she was not hurrying.
 
+A scuttle in one hand and a lamp in the other and a cloth over the arm, and about four hundred yards of flags under all three of them, and she has done it about nine years and knows where the flags come up through.
+
 "Are you after the far room?" she said.
 
 "I do not know what I am after."
@@ -21,6 +23,8 @@ A woman of about forty came up the passage from the door end carrying a scuttle 
 ---
 
 He went up it behind her and it is about four hundred yards and the flags are cold underfoot and there is a window about two feet wide somewhere in the middle of it with a pane gone out of it, and at about the two hundredth yard he stopped and the woman of about forty went on to the far room and did not look back and did not ask him anything, which is the ordinary way of a passage.
+
+About the two hundredth yard the flags change colour, and it is not damp and it is not light, it is a patch where about four years of wind off the road has come in through a gap in the wall, and it is about as wide as a door and it is on the right-hand side going up.
 
 And that is where the reason was, and it took about four minutes, and he did not say a word out loud and nobody heard it and there is no form in this empire that would let a man say a thing like that out loud in a cold passage to a woman carrying a scuttle.
 
@@ -49,6 +53,8 @@ At the far end of the passage there are two rooms and he has never been in eithe
 The rail room is the one at the end, and there is a rail in it standing about four feet off the floor. The other one is at the bottom of the passage, with a shelf in it and eleven books on that shelf and a window about two feet wide with a pane gone out of it. There is a woman at a table in that one with a page in front of her and a hand that does not vary, and she is fifty-five or thereabouts and has been in that room nineteen years.
 
 He stood at the far end of the passage for about as long as it takes to look at a door and did not knock, and the reason he did not knock is not that he had not got a reason, and it is written down about a hundred yards back, and it is that a reason is not a decision and a man who has worked out a reason at about the two hundredth yard of a passage has not thereby decided to walk the last two hundred.
+
+A hundred yards back and two hundred yards still to go, and he has worked out the whole of it in a place with no door in it at either end of his walk, and about four minutes of a cold passage is about as long as the decision took the first time.
 
 Nobody sent him. There is no fund and no list and no form and no carrier with a thing for him, and about nine people a day come up a stair four miles off and not one of them came up this one, and the whole of what brought him here is that he walked it twice.
 

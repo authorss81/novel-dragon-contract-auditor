@@ -42,6 +42,8 @@ He has not got a name for it and he is not going to go and find one out, and a m
 
 She came up about four steps at about the seventh hour with a plate in her hand, which is the second time since the first asking she has come up them, and she put it on the table and did not sit down.
 
+About four steps and about a plate and about two years of a woman not sitting down at a table when she has come up with something in her hand, and the table has nothing on it at either end and the landing outside the door is about the width of two people.
+
 "Are you going to tell me how it went?"
 
 "No."
@@ -58,8 +60,12 @@ He did not tell her, and she did not ask, and the not telling is not a withholdi
 
 He has a figure in a column four miles off that came back under a line he ruled in the first week of the seventh month, in a hand that is not his and is not the old man's, and it is going to be added to and carried forward and be correct, and he does not know what came of it and there is no way whatever to find out, and that is the road being walked zero times.
 
+Four miles off and about four hundred sheets a year and about nine hundred rooms, and a figure that is correct is the only kind of figure in this empire nobody has ever come back and asked about, and the finding cost him a day he was not paid for and nine miles of road.
+
 About four hundred and thirty miles down this river a foreman of fifty-one is still in a box in the first week of the seventh month of the year after, and a woman of twenty about nine miles off a building off the old river road is in a box, and the form that put them there has not been asked to be void by anybody and there is no procedure for it and never has been.
 
 About nineteen people are still behind four hundred and forty foot of bank, and nobody has asked them again. A bill at Lowcross stands at nineteen pounds three and fourpence and is unpaid and nobody is liable. A girl of seventeen at the back of a bay on a written engagement at the rate the list is set at has not been thanked and is not going to be. About four men in that bay have never been asked one question, and were not asked one this week either.
+
+Four hundred and forty feet of bank, with children inside it and about nineteen people behind it, and a bill nobody is liable for, and not one of the three is his and not one of the three has been paid, and a very long way of river between him and every one of them.
 
 He put a match to the wick himself at about the ninth hour, which is a thing he does about four times in a season, and the lamp is the only thing in that room anybody pays for, and the count of what he has done this season is a figure in a column nobody is keeping, and he is not going to be handed it.

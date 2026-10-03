@@ -30,6 +30,8 @@ A man can be paid a day to fix that in about four minutes. There is no form anyw
 
 He wrote it out four times, in a hand that does not shake, and it took about four minutes, and the man of about sixty read all four back and said that the third one was the one, and he was right, and he said so.
 
+The four went on the table one on top of the other and he squared them at the near edge, and the third from the top had a corner turned over where the grain of the table had caught it, and the man of about sixty ran a finger along the edge and stopped on the turned corner and went back to the beginning of the third one.
+
 And all four of them were wrong, and he had known that they were wrong before he wrote the first one, and he wrote four of them fair anyway, because that is the whole of what he is paid for and there is not one form anywhere in this empire that says a fair hand is a correct hand.
 
 He has known it since he was about nineteen. He has never once said it out loud in a room, and he has never once been asked, and he has worked out over about eleven years that the reason nobody asks him is not that nobody thinks of it.
@@ -41,6 +43,8 @@ He got the man of about sixty his hat and his coat and said the thing he says ab
 ---
 
 Then he was on the landing at about the sixth hour because the light had gone off the lane and the shop below had shut, and the four steps were cold, and he was not going in for about four minutes.
+
+The light went off the lane at the flags first and the flags kept a colour for about four minutes after everything else had gone, and the smell of the chandler's shop came up through the boards of the landing and out along the seams between them, and he stood where he was and let all of it come up to him.
 
 A woman of about thirty-five was at the bottom of them with a wet hood on, and she had been at the bottom of them before, and she had said she would come again.
 
@@ -119,3 +123,5 @@ The four men in that bay who cannot read a paragraph have still not been asked o
 A girl of seventeen at the back of that bay is on a written engagement at the rate the list is set at, and nobody has asked her about the season and nobody is going to.
 
 He went in and his wife had the lamp lit before he was up the stairs, and she did not say anything about it, and he did not either, and there is not one form anywhere in this empire that requires either of them to.
+
+He put the wet hat on the inside of the door where it has always gone and it dropped once on the boards, and his wife did not look at it, and the lamp was lit and the two of them had not eaten and were not going to speak about it either.

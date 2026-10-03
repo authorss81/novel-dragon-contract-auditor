@@ -10,6 +10,8 @@ This is the second day of the fourth week of the second month of the year after 
 
 A man of about forty came in at about the fourth hour holding a sheet somebody else had given him, and wanted to know what a word in the body of it meant. She told him she could not tell him that, and told him why, and he said thank you, and she said that was the ordinary way and not a favour, and he went out and did not come back.
 
+The sheet he was holding had been folded and unfolded and folded again, and it was soft along the crease and stiff at the two outer edges, which is what a sheet does when it has been carried about inside a coat instead of in a bag, and she noticed it before she noticed anything about him.
+
 And then she did the thing she has not done in nineteen years, which took her about four seconds and is the whole of this day.
 
 She put her hand flat on the last page and turned back until she was at the foot of the one he had left, and she looked at the foot of it.
@@ -39,6 +41,8 @@ A man of about thirty came in at about the fifth hour with a stack to put on the
 **And that is how the man of about thirty found out what she was doing, and she has not decided yet whether that is a good thing or the other thing, and she has not written it down, and there is nowhere in that room she could write it down.**
 
 She went and got the second book off the shelf and stood in front of the open window with it, and the pane is out of it and the wind comes in at whichever corner it likes, and she turned back through it, and it is not a thing you can count to an end, and she did not try.
+
+The wind came in at whichever corner it liked and turned the leaf as it went, and she put her thumb in to hold it, and the paper was cold at the outer edge and warm along the place her hand had been standing on all day.
 
 It is not three sheets. It is not thirty. It goes back past the point where she began to be able to look at a hand and know things about it, which she noticed in the third week of the ninth month of the year after next, and it goes back before that into a stretch of pages she entered in a hand that does not vary, and she has no idea when it started, and there is no way at all of finding out.
 
@@ -115,5 +119,7 @@ Line two of that notice, about nine hundred times now, and the name has never on
 And it is that she has just spent a day finding out what is written at the bottom of about four hundred of them, and she is not going to be the one who says it out loud in a room with a rail in it.
 
 At about the sixth hour the woman of about twenty-six came to the door to ask whether that room wanted shutting, went past the shelf without stopping at it, and read nothing at all on her way. She is not in this matter and never has been. Four years of asking about four hundred things in that room, and not one of the four hundred has been about the foot of a sheet.
+
+The door is as wide as one person and the woman of about twenty-six came through it with her sleeves already up, and the second book was on the second shelf down with the other ten, and the air off the missing pane moved the near edge of it about an inch and left it standing at an angle against the book beside it.
 
 **Nobody thanked anybody.** The man of about thirty did not thank her and she did not expect to be thanked, and a man of sixty-one who walked out of a building off the old river road two weeks ago is nine miles off in a lane and is not going to be told that a clerk of about fifty-five has been copying his hand into a book for nineteen years without looking at it.

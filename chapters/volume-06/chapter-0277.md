@@ -38,6 +38,8 @@ She put the pen down. And that is the whole of what she did about it, and she ha
 
 He said it in about nine minutes and he said it the way he reads a thing out in about four minutes, which is that he gives it back exactly as it is and does not add anything and does not leave anything out, and this is the first time in about nineteen years he has said anything in that voice that was not on a page in front of him.
 
+Four hundred and thirty miles of a voice like that has never been in a room with anybody in it, and the rail was cold under his hand and the passage was cold behind him, and about nine minutes is the whole of what this afternoon is going to cost him and not one word of it is going to be written down.
+
 "It cannot be answered, because answering is a thing persons do. It cannot be refused, because a refusal has to be given by somebody. It cannot be held to a forgery, because there is nothing in it of anybody's to have forged. And it cannot be produced against a person in any proceeding, because to produce a thing against a person you have to have a person to produce it against."
 
 He stopped for about four seconds. "**And that is a shield and not a road.**"
@@ -52,9 +54,13 @@ About nine hundred of these go out of this room every year into about nine hundr
 
 There are about ninety-one households on about four hundred and forty foot of bank in a town about four hundred and thirty miles down this river, and there is a thing standing offered on it that has never been taken up, and about sixty children under sixteen are inside it, and not one of them is named on anything and not one of them was ever asked.
 
+The bank is about four hundred and forty foot and there are about ninety-one households on it, and he has never seen any of them, and he has signed about nine hundred of a year for about nineteen years without once being asked to be shown where the foot of one of them went.
+
 **The same shield that keeps ninety-one households from being joined to a duty keeps them from ever finding out what they owe, and those are the same fact and not two facts.**
 
 He put his hand flat on the rail and the rail was cold and he took it off again. "I have been the bottom of that paper for about nineteen years. There is no name on it, so there is nobody to join, so nobody is joined, and the day somebody puts a name on that paper is the day about ninety-one households find out what they have been carrying since before I was in this room, and there is not one form anywhere in this empire that says what a household does when it finds out."
+
+Nine times in nineteen years is not many, and about four feet of oak takes a hand cold and gives it back inside about four seconds, and he has never once stayed on it, and he has never once told himself he was not going to.
 
 ---
 

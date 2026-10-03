@@ -14,6 +14,8 @@ She has carried for about six years. Before that she carried for a man who kept 
 
 She can remember the shape of a rack and the weight of a full one and where the cold is on that passage, and she cannot remember the name of a single person who has ever signed for anything she has carried, because a signature is on the far side of a counter and she is on this side of it.
 
+The cold in the passage is at the ankles and not at the head, and it comes up off the flags, and about halfway up it the flags have been mended and the cold comes through the mend instead of round the edge of it.
+
 She came up the passage with a rack on her hip and nine of the things on it were for this room and the rest of the rack was for four rooms on the ground floor, and she has made that walk about nine times a week for six years and has never once been up it with anybody.
 
 **A hearing room with a rail in it is not a room a person waits in, and a letter under a rail is not a letter anybody is waiting for**, and both of those are in the same building and about four hundred yards from each other and there is no form anywhere in this empire that joins them.
@@ -60,6 +62,8 @@ She has carried about nine hundred of those a year for six years and she cannot 
 
 The woman of thirty-two put the rack down on the edge of the table, and she did it for about four seconds and then she picked it up again, and the woman of about twenty-six did not look up and did not notice and was not asked to.
 
+A rack sits on a hip the way a flat thing sits on a hip, and it had been on hers since she was about twenty-nine, and it stood on the end of a table like it had never been anywhere else, and the nine of them stayed where they were.
+
 "I have been carrying these six years."
 
 "You have."
@@ -83,6 +87,8 @@ The four. She would put five letters on a table and four back on a shelf and go 
 **That is the whole of what would happen and it is nothing. That is the answer, and she has had it six years, and there is not one form anywhere in this empire that a person can hand to a person who has just worked that out.**
 
 And the woman of thirty-two went back down the cold passage with the rack on her hip and stopped on the fourth step, which is the step where the light from the ground floor window comes up and catches the edge of everything, and she stood there for about four minutes.
+
+The light off the ground floor window comes up off the flags at a slant and lies across a pair of boots, and it has caught the edge of everything at the step for six years, and she stood in it for about four minutes and looked at nothing.
 
 She is a person and this empire can only send papers to her. Not a company. Not a thing wages can be held against, or letters given to, or taken to law, and she has known that since she was about nineteen and has never once been on the receiving end of anything except a wage and a list.
 

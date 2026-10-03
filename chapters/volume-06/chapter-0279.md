@@ -16,6 +16,8 @@ The man of about sixty cannot get his figures right after the second week of any
 
 He looked at the line for about four minutes and then he did the only thing there was to do, which was to rule a short line across the space with a pen, because the alternative was to leave it blank and a blank in a column is read as a zero by whoever reads it next.
 
+The line he ruled is about the width of the column above it and a fraction of the depth of it, and he drew it with the pen flat on its side so the nib did not drag, and there is a blot of ink at the left end of it where the pen stopped.
+
 ---
 
 He has written about four hundred of those ruled lines in about eleven years and nobody has ever asked him what one of them means.
@@ -41,6 +43,8 @@ He gave the book back at about the fourth hour and the man of about sixty read t
 He has carried that about twenty-one weeks and has not said it out loud to anybody in all that time, and it is not his number, and there is no form anywhere in this empire that would let a man who is on a list of works four times a season be told a count.
 
 And he has got the other half of it now, and it took the four steps and the rest of the afternoon.
+
+Four steps and the rest of an afternoon, and the two halves of it do not fit, and he has turned them over in the same order about four times since the sixth hour and got the same nothing at the bottom of both.
 
 **The not moving is not a reason.** It is not a reason to go and stand in a room and it is not a reason to stay out of one, and it never was either of those, and he has known that for about twenty-one weeks and has done nothing about it, and the not doing is the part he has now finished with.
 
@@ -75,5 +79,7 @@ Nobody thanked him. A man of about sixty did not thank him and his wife did not 
 The four men in that bay who cannot read a paragraph have still not been asked one question and were not asked one on any of the four days this week, and there is a finding about them in a ledger four hundred yards up that road in a book-keeper's own hand which is not his, and there is no fifth reason about them and there is not going to be one.
 
 A girl of seventeen at the back of that bay reads, on a written engagement at the rate the list is set at, and nobody has said a word to her about the season and nobody is going to.
+
+Four miles of lane between this landing and a bay, and about eleven years of tar and rope and lamp oil coming up through the boards, and he has never once opened the window about a foot wide on account of it and never got used to it either.
 
 The light went off the lane at about the sixth hour and he lit the lamp himself, which he does about four times a season, and the count is still six, and he is not going to be told a count again, and there is not one form anywhere in this empire that requires a person to be thanked for asking a question or for not asking one, and there is never going to be one.

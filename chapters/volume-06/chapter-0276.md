@@ -10,6 +10,8 @@ This is the second day of the second week of the sixth month of the year after t
 
 **She has found the knotted string and she has found the woman of twenty, and she has not asked her one thing.**
 
+The window does not close and the bench is under it, and the books are on the table and not on the bench, and there are nine of them and the table takes nine and no more, and if there had been one more than that she would have had to stack it on the bench in the light where anybody going past the lane could see it.
+
 The knotted string was in a warm room in the twelfth month of the year after next and the woman of twenty put her own hand flat on the line that was hers and said that a column with no heading over it is a person and that she had got one and that it was not a wall.
 
 The woman of twenty was in the room at the top of the lane about twelve weeks ago and asked for the numbers out of her own house and was refused, politely, in about nine seconds, and then asked four questions that were not about the money, and one of them was how a person would go about looking another person up, and she was told.
@@ -45,6 +47,8 @@ And nine years is how long she has kept the numbers, and in nine years she has w
 ---
 
 She said the second one out loud to the bench at about the fifth hour and then stood still for about four seconds, because of what came after it.
+
+A bench takes the weight of a person sitting on the edge of it or standing on it, and she has been doing both for nine years, and the front edge of it is flat where nine years of standing has taken the curve off it.
 
 A company is a thing that has wages held against it and letters given to it and a heading over it, and it can be sued, and it can be sued because it goes on being after everybody in it is gone. A person is a thing that has to be handed it. And that is the whole of the difference and it is a heading, and there is no form anywhere in this empire that would let a person take one.
 

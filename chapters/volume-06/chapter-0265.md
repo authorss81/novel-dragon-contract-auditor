@@ -10,6 +10,8 @@ This is the second day of the third week of the third month of the year after th
 
 Under that counter there is a box of about four hundred bought and unfilled blanks. No form anywhere in this empire lets her keep them. She keeps them. Nobody has ever asked her to account for them.
 
+The box has sat under the left of the counter for eleven years and the lid has been off and on so often that the hinge has a wear in it a thumb will go into, and she has never oiled it, because oiling it would be a thing she had done on purpose.
+
 Nobody has ever explained the box to her either, and a person who cannot account for a thing and cannot be asked about it is in the ordinary position, and the price of a blank is fourpence to whoever buys one, which is the whole of what anybody knows about them.
 
 **A blank carries no document, because a document is something a person can be held to and a blank is nothing written on paper at all. A man can walk into a room holding one and say in plain words that he never filled it in, and then there is nothing left to hold him with.**
@@ -72,6 +74,8 @@ He did not answer that and she did not need him to, and she went on, and this is
 
 She stood at that counter for about four minutes and it is the longest four minutes of the eleven years and she did not look at the board and she did not square anything.
 
+Four minutes at the counter with the stair behind her and the door at the bottom of it standing open, and a stair with a door at the foot that will not shut is a noise the whole length of a room, and she had not stood still inside one before.
+
 "**That is the best reason anybody has given me in eleven years and it is also the reason I am not going to do it**, and I am not going to soften it and I am not going to pretend the second half is smaller than the first."
 
 "Go on."
@@ -127,6 +131,8 @@ And the woman of twenty-four at the other end of that counter asked her, at abou
 **And it is the first time in this matter that a refusal has been written down by a person who was not the person refusing.** Neither of them is going to thank the other for it, and the woman of about twenty who has been there a year and is not in this matter read nothing at all of it.
 
 When the counter shut at the sixth hour the fourth line was still on the wall behind her, and it will be on it next week. Three people in this empire cannot account for it. One of them is a dye-house worker about four hundred and thirty miles up this river, and there is not one instrument anywhere in this empire that would put any two of those three in a room together.
+
+The light in the room goes off the board at about the sixth hour whether anybody is looking at it or not, and the board keeps a while in the grooves of the writing before the wall goes dark, and nobody comes up the stair after the sixth hour to look at any of it.
 
 And a woman of twenty-four in a rented room two streets off a street that goes down to the river road copied the four lines off that board into a book of her own at about the seventh hour, because nobody had ever written them down.
 

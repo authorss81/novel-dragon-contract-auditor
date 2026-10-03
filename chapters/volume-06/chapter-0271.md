@@ -24,7 +24,11 @@ A second line would be the beginning of an answer, and a minute that carries an 
 
 The stack was about four hundred sheets and they came up from a district in a bundle tied with a string, and the ordinary work of the second hour is to open the bundle, count what is in it, put the day's number against the top of the bundle in pencil, and start.
 
+The string is cut short at the knot and not untied, and about four hundred sheets is a morning and not a day, and a pencil is the only thing on the table that has no name on it anywhere in this empire.
+
 She got to about the two hundredth of them and stopped for about four seconds, and then she carried on, and the four seconds are the whole of what happened in that room that day.
+
+Two hundred is about half of a bundle and half is where the weight sits, and four seconds is what it cost her out of the shape of the rest of the morning, and she did not lose another one after that and counted the whole bundle twice at the end.
 
 **On about one sheet in about nine, the thing at the foot of it is not a hand.**
 
@@ -65,6 +69,8 @@ He put a sheet down. "And who is the one person?"
 ---
 
 Nothing was paid and nothing was sent and nothing was thanked. The man of about thirty carried the rest of the stack up to the shelf about four minutes before the sixth hour and put it down square, and she counted it twice, and it was about four hundred and it was all of it.
+
+The bundle went back with the string on it and the day's number in pencil at the top, and the knot was at the same corner it was at when it came, because whoever ties a bundle ties it the same way, and that is another practice and she has not written it down either.
 
 The man who came in at the fourth hour nine weeks ago has not come back to that building and is not going to be asked to, and there is not one form anywhere in this empire that says a man who has been told he cannot be told a thing has to come back and be told it a second way.
 
