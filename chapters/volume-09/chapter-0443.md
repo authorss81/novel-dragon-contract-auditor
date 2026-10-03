@@ -14,7 +14,7 @@ The case is at the top of those stairs and the box is not the case, and nobody o
 
 **He knows what is in the box. Everybody who has ever worked that floor knows what is in the box. What he does not know and is never going to be told is why it came out of that room in nine minutes in the last month of a year, and he is the wrong shape of person to be told, and that is not a complaint.**
 
-His arms remembered the shape of it better than his eyes did. The corners pressed through the sleeves of his coat, and he kept walking without setting it down.
+The corners pressed through the sleeves of his coat, and he went on without setting it down, and he did not need to look at it to know which way up it was.
 
 ---
 
@@ -32,7 +32,7 @@ He has been a courier since the first chapter of this, he cannot be told anythin
 
 "There is no form anywhere in this empire in which a man is entered as the one who signed for a box, and there is not going to be one, and I am not going to stand on a road and explain that to a man I have met once."
 
-He went on up his own side of the road, and the far side had emptied behind him by then, and neither of them looked back once the other was behind.
+The far side had emptied behind him by then, and neither of them looked back once the other was behind.
 
 ---
 
@@ -46,7 +46,7 @@ He went on up his own side of the road, and the far side had emptied behind him 
 
 **And that is the price, and it is entered in a man and not in a figure. The one person in this matter who goes to places and cannot be told anything has been on a road with a box for about a quarter of an hour, and a courier is findable in a way that nothing else on that road is findable, and there is no form anywhere for asking a man to forget what he saw, and the man who carried it could not have prevented it and would not have been thanked for preventing it.**
 
-The road kept its own noise under his boots, thin and even. The box gave nothing back to it, lid shut and sides mute, and he matched his pace to the long stretch ahead.
+The road went on making its own noise under his boots, thin and even. The box gave nothing back to it, lid shut and sides mute, and he matched his pace to the long stretch ahead.
 
 ---
 
@@ -57,8 +57,6 @@ He put it on the floor against the wall that had nothing on it, on its side, the
 **The lid did not come off. The lid has not been off it in six years and it was not off it in that room and it does not need to be, because nothing in that room is waiting on what is in it and nothing in this empire has ever been left in it.**
 
 He put the key on the table, which is the only thing on the table in that room and has been for as long as that room has been let by the week, and he went back down two flights and out and about four miles, and nobody saw him go by and nobody saw him arrive and he was not thanked at either end of it.
-
-Nothing had been waiting on him in there, and nothing in there was going to say so afterwards, and what was in the room stayed in the room, and the light through the window came in at the rate it always came in.
 
 ---
 

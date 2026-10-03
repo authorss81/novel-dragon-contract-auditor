@@ -52,7 +52,7 @@ The man from the front office put his hands flat on the end of the low shelf. He
 
 "I know you are not. That is not why I am not doing it."
 
-He stood aside while the talk ran on, hands in his pockets. The room went on without him in it, and he added nothing to it.
+He stood aside while the rest of it was said and kept his hand off the shelf, and the room went on round the three of them.
 
 ---
 
@@ -60,7 +60,7 @@ He looked along the shelves for about as long as a cart takes to load, and then 
 
 **Nobody in that room asked anybody anything. A man said a sentence about a book and the sentence was not put to a person, and the woman who had the answer did not give it and could not have given it in a form, and the man from the front office said no to the only thing anybody in that room wanted that morning, and he was right, and she has not stopped being right about it since.**
 
-Outside, the lane went on with its morning traffic. Carts passed at intervals and none of them stopped, and the room kept its own quiet through all of it.
+Outside, the lane went on with its morning traffic. Carts passed at intervals and none of them stopped.
 
 ---
 

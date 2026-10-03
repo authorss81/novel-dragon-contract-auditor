@@ -20,8 +20,6 @@ He had signed it the day before. It was not a guess. It was the same sheet with 
 
 **Nobody told him and nobody could have told him. A man who is paid for a corner brings a bundle up a stair and a man at the other end signs whatever is in front of him, and there is no form anywhere in this empire in which a person is entered as the one who handed him the same thing twice.**
 
-The pot stood where it always stood, close to his right hand, and the inside of the rim had a ring in it that was not made this morning. He wiped the nib on the edge of the pot again, and the mark dried where he had left it.
-
 ---
 
 He signed it. The pen went into the pot again in about the time it takes to say nothing twice, and he did not look up while he did it.
@@ -71,8 +69,6 @@ He did say one more thing. He got as far as it, and it was four words long and h
 "Put them down."
 
 He put them down.
-
-He gathered the bundle against his chest with both arms under it and took the weight on his forearms. It sat even and steady there, and he did not shift it again.
 
 ---
 

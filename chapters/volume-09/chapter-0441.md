@@ -32,7 +32,7 @@ He kept his hands on the edges until the corners sat even, and then he lifted th
 
 He said it to the boards, which is how the woman at the far end of those boards says everything she has ever said in that room, and he put his hand flat on the deal about a foot from hers and did not touch it, which he has done twice in two years and neither of the two times was about a box.
 
-Neither of them moved the hand back at once. The deal held steady under their palms, and the quiet between them was the same quiet the room kept on ordinary mornings.
+Neither of them moved the hand back at once, and the deal took both of them the way it had taken both of them twice before.
 
 ---
 
@@ -58,7 +58,7 @@ He said the price then, and he said it to the sill end of the boards and not to 
 
 He was right about that and neither of the two women at that counter found out whether it was right or wrong, and there is no form anywhere in this empire in which a person is entered as the one who said a true thing to two people who did not answer it.
 
-He said no more after the price was out. His eyes stayed on the boards at the sill end, and the morning went on around the three of them without anyone filling the pause.
+He said no more after the price was out, and his gaze stayed down where it had been, and a silence after a price was not new in a room he had stood in two years.
 
 ---
 

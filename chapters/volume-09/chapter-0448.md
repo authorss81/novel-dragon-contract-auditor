@@ -42,7 +42,7 @@ He could have asked. There is a man in this matter he would want a sentence fini
 
 "Nothing has been in my coat since a week ago, and if I were to ask you about the inside pocket of that one you would tell me there is nothing in it, and neither of us would find out one thing by it, and I am not going to ask you."
 
-Both coats hung the way coats hang when their wearers stand their ground. The cloth pulled at the shoulders and settled again, and neither man looked down.
+Both of them were still in their coats, and the one on the step had not come over the threshold and Marek Kest stayed back from the doorway.
 
 ---
 
@@ -52,7 +52,7 @@ Then the man said the thing he had come about, and he said it to the paper on th
 
 Then he stopped, and he had said more than he had come to say, and neither of them found out what to do about that.
 
-It stood where he had set it, fold out and face blank, and the room went quiet around it.
+It stood on the table with the fold out, and nobody moved it again.
 
 ---
 

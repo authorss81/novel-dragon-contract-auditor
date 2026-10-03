@@ -18,7 +18,7 @@ Four sentences were said in this shed in the second week of the fifth month, abo
 
 "He is looking at the board and there is nothing on the board that says what is on the board, and if he walks in here and stands in front of it for another quarter of an hour he will still not know what is on it, and that is not me keeping him out. That board has been read by about nobody in this lane for four years."
 
-Nobody moved toward the board while the talk ran on. The bench held its line with the chain hung across its front. The form lay by the door through all of it.
+Nobody moved toward the board while the talk ran on.
 
 ---
 
@@ -32,7 +32,7 @@ Then the man of about fifty-five said one thing, and he said it to the open side
 
 **Nobody asked him for a fifth sentence and nobody is going to, and nobody thanked him for the one he gave unprompted either, and there is no way anywhere in this empire of writing a man into a record as the one who spoke the truth at the seventh hour to a foreman who could do nothing with it.**
 
-The one who had not come in kept his hands behind his back and shifted his weight once and then stood still again, and his eyes went on resting on the board by the door and he never once looked off it.
+The one who had not come in kept his hands behind his back and shifted his weight once and then stood still again, and his gaze stayed on the form and he never once looked off it.
 
 ---
 
@@ -44,7 +44,7 @@ One of them got up. She did it without a word and without waiting to be told the
 
 The other one stayed where he was on the bench at the back and did not look round at her, and did not get up, and did not say anything, and that is the same as not being spoken to and neither of them is spoken to.
 
-The shed held the two of them without a sound and neither one was the whole of the room. Four foot of floor stood open between the bench and the board, and nothing was ever going to be set down across it. It would be empty long after the lamp went out.
+The shed held the two of them without a sound and neither one was the whole of the room. Four foot of floor stood open between the bench and the board, and nothing was set down across it before the lamp went out.
 
 ---
 

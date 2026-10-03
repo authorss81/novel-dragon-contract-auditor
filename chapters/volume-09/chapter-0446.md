@@ -46,8 +46,6 @@ He went up. She did not follow him and she did not go up the four steps after hi
 
 **A woman who has been at the bottom of a stranger's stairs about twenty years has not gone up them once, and that is the whole of what she is, and it is not modesty and it is not care and it is not the rent. A person who has gone up a stair can be shown having gone up it, and a person who has not can be shown nothing at all, and she worked that out about nine years ago in about four minutes and has held it every day of the nine since and she is not going to give it up in the fourth week of a month for a man on a step.**
 
-She kept her place through all of it, feet planted and hands empty. The house held its quiet around her, and she added none of her own to it.
-
 ---
 
 He came back down at about the sixth hour and a quarter and he went out through the front door and shut it behind him, and she was standing at the bottom of the four steps the whole time and he went past her at about a foot and neither of them said one word on the way past.

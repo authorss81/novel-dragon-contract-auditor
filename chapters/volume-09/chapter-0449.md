@@ -36,7 +36,7 @@ The boards took their hands back when the talk paused. Palms flat on the deal an
 
 "**The reason does not get said in this room and it does not get said out of it either. I have worked the reason out and I have had it for about a week, and it is not a small thing to work out, and nobody is going to thank me for the working of it and nobody is going to ask me for it either.**"
 
-The dust lay thin along the far end, undisturbed. Nobody brushed at it and nobody covered it, and it kept the shape the box had given it.
+The dust lay thin along the far end, and nobody brushed at it and nobody covered it, and it was there for the whole of the talk.
 
 ---
 
@@ -48,7 +48,7 @@ Marn Ottery turned about a foot and looked at the far end of those boards, at th
 
 She did not do it.
 
-Marn held her place at the boards without turning again. The room went on with its afternoon business, and the case stayed shut behind them.
+Marn held her place at the boards without turning again, and the case stayed shut behind them.
 
 ---
 
@@ -67,5 +67,3 @@ She did not say it. She has not said it to Marn Ottery and she is not going to, 
 ---
 
 **Nobody on that floor has been thanked, nobody has been forgiven, nobody was sent for, and this week settled nothing. The box is four miles off in a room that nobody has opened and that does not need opening. A woman of twenty-four was at the near end of those boards at the fourth hour and she said nothing that is going to cost her, and she was not thanked for the nothing and there is no form in which she could be.**
-
-The room kept its order after the close. The sweep had been through and what was on the deal at the far end went with it, and nobody stood at the far end afterwards, and the week asked nothing more of either of them.

@@ -38,8 +38,6 @@ The table took the weight of nothing most days, and now it bore a single folded 
 
 "I am not going to be thanked for it and being thanked is a thing two people have to agree about, and you are not going to agree to it and I am not going to ask you to, and if you had said thank you I would have had to say it was nothing and then I would have had to be a man who says things are nothing."
 
-The room held the echo of their voices a moment after they stopped. Both men heard it fade, and neither hurried to fill what came after.
-
 ---
 
 Then he said the one thing that was about himself, and he said it going down the stairs and not from the step, and he said it once and did not say it twice.
