@@ -62,7 +62,7 @@ He has that at second hand and it is a fact about a woman and not a thing he is 
 
 **He went back the four miles on his own two feet,** and he did not go north and he did not go and look at the hand, and he did not stop on the way to work out whether a third hand was worth a day of somebody else's wage, and a day of that is about eleven pence and he has never spent one of those on asking anybody anything.
 
-The four miles took him back on his own two feet. He turned the third hand over in his head for the length of a street, and a third hand is worth about eleven pence a day to whoever it belongs to, and none of them has ever gone on putting a question to anybody.
+He turned the third hand over in his head for the length of a street on the way, and not one of them has ever gone on putting a question to anybody, and the turning is the whole of what the walk was for.
 
 **The bill for his being findable is not his and stands on somebody else's account,** and he worked that out in about four minutes on a step in another street a long while back, and there is no instrument in this empire that stops it being so, and there is none that would stop him either, and he has never once used either of them.
 

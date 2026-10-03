@@ -46,7 +46,7 @@ About nineteen people are still behind that bank who said no again in the same w
 
 He did not go and look and he is not going to go and look. The four hundred and thirty miles is not walked and the nine miles is not walked by anybody on his account, and he has not written a line of any of it down in about two years, and there is no form anywhere that would take it if he did.
 
-Nine hundred sheets a year leave a room about nine miles off, and he has stood in it three times in nineteen years, walking nine miles each way on days nobody paid him for; no one sent him and no one told him and he has never mentioned it to anybody.
+Nine hundred sheets a year leave a room nine miles off, and not one person on the road to it has ever known he was on the road, and he has never mentioned any of it to anybody.
 
 He wrote out one sum before the light went, for a man who cannot pay him until the spring. It came to eleven shillings and it took about nine minutes, and the man who sent it will get it in the spring and will not know that it was done in a room where nothing was lit.
 
@@ -68,6 +68,6 @@ There is no form in this empire that has ever let a person be found who nobody h
 
 **Is that what the nail is for?** He said that out loud to the wall, at about the fifth hour, and the wall did not answer and it is not going to, and about four feet of it has had a nail in it since he came into the room and nothing has ever hung on it.
 
-Four feet of bare wall with one nail driven into it and nothing ever hung there; he has never worked out who put it in and has never once been curious enough to want to know.
+He has never worked out who put the nail in there and has never once been curious enough to want to know, and there is nobody on the lane who would tell him if he did ask.
 
 The lamp was lit at about the seventh hour by somebody else. The table had nothing on it. The seven did not move, and the season is on, and about nine hundred sheets a year are going to keep going out of that room with a hand at the foot of every one of them, and one man signs all of them, and he is sixty-one, and nobody has asked him and nobody is going to.

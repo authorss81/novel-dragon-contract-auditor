@@ -78,7 +78,7 @@ The man of about thirty at the far end did the copies all morning and was not sp
 
 The woman of twenty at the back had a shelf of her own to put away and put it away and went at about the sixth hour, and she has not been asked anything this morning either and is not going to be and is not in any of this.
 
-The woman of twenty put her shelf away and left at about the sixth hour; the room went quieter by about the amount one person makes, which is not nothing, and which she has never once been able to put a figure on.
+The room went quieter the moment she went, and it is not nothing, and nobody has ever managed to put a figure on how much quieter it got.
 
 Nobody was thanked this morning. Nobody was sent. The four things on the board are still four things and not one of them is a time, and the fourth of them is in a hand that she and two other people cannot account for and has been there longer than she has.
 

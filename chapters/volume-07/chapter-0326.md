@@ -36,7 +36,7 @@ A man of about thirty came off a job at about the fourth hour, told her one thin
 
 Nobody asked her about it. Nobody in that bay said one word back, and nine mouths that have said nothing for about four years said nothing again, and there is no form in this empire that would let nine men be asked whether they agree with what they have all been saying nothing about, and she is not going to ask them.
 
-Nine men said nothing and she said one sentence out loud to all of them, and it took about four minutes; not one of the nine has said a word back and none of them ever will, and nothing anywhere would let anybody ask them whether they agree with what she said.
+She said one sentence out loud to all of them, and the saying of it is not a finding and not a document, and it is going to stay a sentence in a room with nobody in authority in it and nothing else.
 
 ---
 

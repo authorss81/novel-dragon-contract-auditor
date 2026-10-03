@@ -46,7 +46,7 @@ The fourth thing in her drawer is where it has been and it is untouched and it i
 
 "Is that stair still the only way up?" she said it out loud at about the third hour, to the stair, about the stair, and it is, and it has been since the building was put up, and nothing in this empire lets a stair be said to a person, and a person who has wanted to be asked something every working day for about two years and has not been asked is not a person anybody in that building is looking for.
 
-A page of her own book, ruled by hand, carries two boxes, the same name written into each, and neither has ever been merged into anything else, and two years of leaving the third page unruled is everything she has done about it.
+Two years of leaving the boxes the way they are is everything she has done about it, and the not doing has cost her nothing anybody has noticed, and what nobody does is not a thing that can be shown to have been done.
 
 ---
 

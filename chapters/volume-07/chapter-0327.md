@@ -48,7 +48,7 @@ His own wages are held against a roof he put there on purpose, and that one he c
 
 ---
 
-He wrote the day's figures out at the fifth hour and the totals came even, which is the whole of the work he is paid for and none of the rest of it, and the shutter stayed half up where it has been since before the frost, and the light on the flags came and went with the weather and asked nothing of anybody.
+The shutter stayed half up where it has been since before the frost, and the light on the flags came and went with the weather and asked nothing of anybody, and none of it was for him.
 
 A column in the second of the Company's papers is ruled down both sides like any other and it has nothing in it. Not one name, not one figure, not one day. He ruled it himself in the second month of next year because a name in a column is a thing a person can be served at.
 

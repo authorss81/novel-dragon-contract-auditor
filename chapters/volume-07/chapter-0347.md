@@ -42,7 +42,7 @@ A man of sixty-one has stood on the wrong side of that rail three times in ninet
 
 She does not go up that passage on her own time. It is about four hundred yards and the flags of it come up cold underfoot in every month of the year and there is no fire at either end of it, and she has walked it every working day for about four years because the racks come down it and go back up it again, and that is the whole of why she has walked it and the whole of what walking it has been for.
 
-What the racks are is four hundred yards of somebody else's morning going past her door and stopping, and the stopping is the whole of what she gets of it, and there have been three of the visits at the far end in nineteen years and she was in her own room for every one of them, and she has never once gone up to look at what was left afterwards.
+What the racks are is somebody else's morning going past her door and stopping, and the stopping is all she gets of it, and she has never once gone up to look at what was left afterwards.
 
 And she is not going to be told whether he is coming back to that room or not, and she is not going to go and look, and there is nothing at this end of the building that would let her be told either.
 

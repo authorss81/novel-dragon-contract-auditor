@@ -30,7 +30,7 @@ He turned it over for two days and got it on the second, and then he wrote it ou
 
 The money for nineteen days of a crew is in a weigh-house ledger about half a mile off and it is called *held* and the word *held* was chosen in about four minutes among three other words by a person who was not thinking about us.
 
-Nineteen days of a crew's money is not a sum anybody in the building can see the inside of. He has looked at it about four times with two other people and has got nowhere, and the word standing against it in a ledger half a mile off was picked out of three others by somebody thinking about a column.
+Nineteen days of a crew's money is not a sum anybody in the building can see the inside of, and nobody has got to the inside of it yet, and the not getting there has not changed what any of them think about it.
 
 Nineteen days out of seventeen shillings and a penny the week, paid in full, three pounds and eleven and threepence, and nobody is going to be told what it is held against, and **there is no form in this empire that will let nineteen days of a wage be entered as owed by anybody.** He has looked. He has looked twice, and he has looked with two other people.
 
@@ -40,7 +40,7 @@ Nineteen days out of seventeen shillings and a penny the week, paid in full, thr
 
 He shut the second one of the Company's papers at about the fourth hour and went out into the lane, because the shutter wants looking at, and the shutter is not what he went out for.
 
-He shut the paper and out he went into the lane; the light on the flags of it went out and came back with the weather while he was standing there, and about nine men pass up and down it in a day and none of them has ever wanted to know what it is he is about.
+The light on the flags of the lane went out and came back with the weather while he was standing there, and nobody passing has ever wanted to know what it is he is about.
 
 The bay is at the bottom of it about nine foot by eleven and the store is cold in every month of the year, and the four shillings a year is the rent of the store, and there is a mark in chalk on a wall of that bay at the height of the third link of a chain, and the chain is on a man.
 
@@ -60,7 +60,7 @@ He owes him a second sentence and has owed it since the third month of the year 
 
 He went back up the lane and shut the shutter and wrote the day's figures out in a fair hand so that they came out even, which is the ordinary part of a day and is the whole of what he is paid for.
 
-The day's figures came out even on the paper he shut at the fourth hour, and the waste paper was still at the bottom of the box where he put it, and he has never once copied a figure off one and onto the other, and nobody has ever asked him which of the two is the record.
+He has never once copied a figure off one sheet onto the other, and both of them have lain in the same box without anybody ever asking which one of them is the record.
 
 ---
 

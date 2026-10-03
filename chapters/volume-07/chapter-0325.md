@@ -30,7 +30,7 @@ What she has that she did not have a month ago is a fact, and it is the plainest
 
 **He came a third time.** About nine miles, in a season, on his own two feet, on a day he is not paid for, and he stood on the wrong side of the rail for about four minutes and then said about nine minutes of it standing up, and about nine people were in that room, and the woman of about fifty-five wrote none of it down.
 
-He came a third time and a woman of about fifty-five stood at a table with a pen and wrote none of it, and she was in the building when he did, and she is the only one besides him who knows any of it, and the knowing has neither given her a fourth question nor taken one of the three away.
+Knowing all of it has neither given her another question nor taken one of the three away, and the knowing has made her a party to nothing, and a person is only ever made a party to something they were sent for, and she was sent for nothing.
 
 She was in the building. She is the only other person in this matter who knows what he said at that rail, and she has known it once, and now she knows he has said the whole of it twice, and there is not one form anywhere in this empire that will let anybody ask her what she heard in that room, and nobody is going to.
 

@@ -22,7 +22,7 @@ The reason is not a rule and nothing was ever drawn for it and the not putting i
 
 **A question put to that man in that room would make him a party, and a party is the only person a thing can be told what it is going to be used for.** Then the figure would stop being a figure in a lane and become a matter in a file, and the file would want a date on it, and the date would want two people on it, and one of the two would be the man in the doorway, and he did not come up that lane to be on anything. Adley has thought about putting that one question about four times in about four years and has done it none of the four times, and the not doing it is the whole of what his knowing consists of.
 
-He has thought about putting one question to the man in the doorway four times in as many years and has done none of them. Everything he knows comes to the not doing, and nobody has ever asked him what it is he knows.
+Everything he knows comes to the not doing, and nobody has ever asked him what it is he knows, and there is no version of knowing that does not come back round to that.
 
 **There is no form for serving a man with the figure he was given**, and Adley has not got that figure and never had it, and the one piece of paper in his hand is a copy of a copy of a number that about nine hundred rooms a year agree on without ever being in the same room as each other.
 

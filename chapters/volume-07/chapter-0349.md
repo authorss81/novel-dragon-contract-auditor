@@ -38,7 +38,7 @@ He will not give it to his wife. He cannot ask her first whether she would mind 
 
 A man of about thirty-four who stands at the top of four steps every working day and cannot be reached by anybody is not a man anybody is looking for, and that is the price of being one man and not a heading, and he worked it out in about four minutes in a room with nothing on the table about two years ago and told nobody.
 
-Nobody has come up those four steps since to be told any part of it, and about two years of carrying a number about in a head has not made him a person anybody could name, and the four minutes bought him that and nothing else.
+Two years of carrying a thing with nobody to hand it to is a long time, and it has not got lighter by being carried, and there is no part of the carrying that anybody else is in.
 
 ---
 
