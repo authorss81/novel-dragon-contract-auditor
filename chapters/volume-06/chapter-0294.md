@@ -10,7 +10,7 @@ This is the fourth day of the fourth week of the tenth month of the year after t
 
 He got as far as the bottom of the lane and stood in front of the door and did not go in, and it took him about four minutes to decide not to, and the four minutes were the whole of the journey.
 
-The step is worn in the middle and not at either edge, which is what about nine years of a door used by everybody and never used by one person does, and he stood on the worn part of it without noticing, and about four minutes of a man standing on a step is a thing a woman next door could describe if anybody asked her.
+The step is worn in the middle and not at either edge, which is what a door used by everybody and never used by one person does, and he stood on the worn part of it without noticing, and about four minutes of a man standing on a step is a thing a woman next door could describe if anybody asked her.
 
 The nine miles is not the thing. He has walked about four miles a day, most days, for about eleven years, and the nine miles took him the whole of the daylight and nothing hurt and he was not tired at the bottom of the lane.
 

@@ -58,7 +58,7 @@ A man came to the door at about the fifth hour on the second day of the second w
 
 "You are in it either way and you only get to choose which line, and neither of them is yours to be taken out of, and I have said that to nine people and four of them did not like it, and there is not one form anywhere in this empire that says a person may be put out of a page their street put them on."
 
-All nine of them are still on the page, and four of the nine minded it and five did not, and nobody has ever told her that the four who minded and the five who did not are in the same book.
+All nine of them are still on the page, and four of the nine minded it, and nobody has ever told her that the ones who minded and the ones who did not are in the same book.
 
 ---
 

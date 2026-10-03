@@ -14,7 +14,7 @@ She wanted to be able to be sued. It took about four days to arrive at wanting i
 
 Four of the nine asked her about a day in the course of this week. The other five did not ask her anything, and one of those five has not asked her anything since the second week of the eighth month of the year after. She has not asked that one either.
 
-Nine houses and nine books and a bench wide enough to take about six of the nine open at once, and about four of the nine were open on it this week and about five of the nine were not, and the five that were shut were shut before she came in and not after.
+Nine houses and nine books and a bench wide enough for the lot of them, and about four of the nine were open on it this week and about five of the nine were not, and the five that were shut were shut before she came in and not after.
 
 The fourth house down is the one that comes to the door and asks whether the day wanted is the day the money was wanted or the day the thing was wanted. She said it is the day the money was wanted, and the woman said she had thought so and would not have wanted to ask twice.
 

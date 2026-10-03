@@ -20,7 +20,7 @@ He is one of a number of men asked for at a gate in the morning. The work is a d
 
 The gate shut at about the seventh hour and a man of about forty came out of it and looked along about nine of the others and looked at him and went back in, and that took about four seconds.
 
-Nine of the others were standing about four feet apart along about twenty feet of road and none of them moved when the gate shut, and about four of them had been there longer than he had, and the whole of what he learned in those four seconds was that a gate has two sides and he was on the wrong one of them all week.
+Nine of the others were standing about four feet apart along the road and none of them moved when the gate shut, and about four of them had been there longer than he had, and the whole of what he learned in those four seconds was that a gate has two sides and he was on the wrong one of them all week.
 
 "Nothing today," the man said, to the gate rather than to him, and shut it again, and it was not a reason and it was not meant to be one, and he did not ask for the other thing.
 

@@ -38,7 +38,7 @@ She put the pen down. And that is the whole of what she did about it, and she ha
 
 He said it in about nine minutes and he said it the way he reads a thing out in about four minutes, which is that he gives it back exactly as it is and does not add anything and does not leave anything out, and this is the first time in about nineteen years he has said anything in that voice that was not on a page in front of him.
 
-Four hundred and thirty miles of a voice like that has never been in a room with anybody in it, and the rail was cold under his hand and the passage was cold behind him, and about nine minutes is the whole of what this afternoon is going to cost him and not one word of it is going to be written down.
+In the four hundred and thirty miles from here down this river a voice like that has never been in a room with anybody in it, and the rail was cold under his hand and the passage was cold behind him, and about nine minutes is the whole of what this afternoon is going to cost him and not one word of it is going to be written down.
 
 "It cannot be answered, because answering is a thing persons do. It cannot be refused, because a refusal has to be given by somebody. It cannot be held to a forgery, because there is nothing in it of anybody's to have forged. And it cannot be produced against a person in any proceeding, because to produce a thing against a person you have to have a person to produce it against."
 

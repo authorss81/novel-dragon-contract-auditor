@@ -12,7 +12,7 @@ This is the second day of the second week of the seventh month of the year after
 
 He has read that copy four times on his own time. Not in a room. In this room, at this table, on about four evenings spread across about nine weeks, and nobody asked him to and nobody knows he has done it and there is not one form anywhere in this empire that says a man may read a thing four times for nothing.
 
-Four evenings on about four weeks, and the chair is against the wall, and a man who copies nine lines of his own hand four times does it at the table with the lamp burning, and by the fourth evening he could do the first four words of the first line without looking down.
+Four evenings on about nine weeks, and the chair is against the wall, and a man who copies nine lines of his own hand four times does it at the table with the lamp burning, and by the fourth evening he could do the first four words of the first line without looking down.
 
 What he has got out of it is a shape of words and not a woman. It is four things and they are all he is ever going to get. A line. A day against the line. A space with a rule at the top and the bottom of it. And under all of that, a hand that is his own.
 

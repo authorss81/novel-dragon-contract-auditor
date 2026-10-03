@@ -120,6 +120,6 @@ And it is that she has just spent a day finding out what is written at the botto
 
 At about the sixth hour the woman of about twenty-six came to the door to ask whether that room wanted shutting, went past the shelf without stopping at it, and read nothing at all on her way. She is not in this matter and never has been. Four years of asking about four hundred things in that room, and not one of the four hundred has been about the foot of a sheet.
 
-The door is as wide as one person and the woman of about twenty-six came through it with her sleeves already up, and the second book was on the second shelf down with the other ten, and the air off the missing pane moved the near edge of it about an inch and left it standing at an angle against the book beside it.
+The door is as wide as one person and the woman of about twenty-six came through it with her sleeves already up, and the second book was on the second shelf down among the eleven, and the air off the missing pane moved the near edge of it about an inch and left it standing at an angle against the book beside it.
 
 **Nobody thanked anybody.** The man of about thirty did not thank her and she did not expect to be thanked, and a man of sixty-one who walked out of a building off the old river road two weeks ago is nine miles off in a lane and is not going to be told that a clerk of about fifty-five has been copying his hand into a book for nineteen years without looking at it.

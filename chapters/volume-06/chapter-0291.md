@@ -122,7 +122,7 @@ The woman of about twenty-four at the top of a stair in Auremar is at the other 
 
 He did not go up the four steps until about the ninth hour and he did not light the lamp on the table in the room at the top of them, and there is a table in that room and nothing on it, and there are about four feet of wall by the window with nothing on it.
 
-Four steps up and a door at the top and a bolt on it he has not put across in about eleven years, and about four feet of wall by a window about a foot wide, and neither the wall nor the table has anything on it, and the room has been exactly so for years.
+Four steps up and a door at the top, and a bolt on the door, and a wall by a window about a foot wide with about four feet of it bare, and neither the wall nor the table has anything on it, and the room has been exactly so for years.
 
 **And there is not one form anywhere in this empire for a person to be found by a thing they have done on purpose, and there is not going to be one, and he has known that since a bay in the eleventh month of the year after next and has not needed it explained to him since.**
 
