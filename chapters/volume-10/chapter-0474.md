@@ -20,7 +20,7 @@ Marn Ottery said it at about the third hour, to the boards, and not to him, and 
 
 He said the one word and then he waited for it to finish doing whatever it was going to do, and what it did was stop her for about two seconds.
 
-She did not use the stop and he did not take it back, and the boards took whatever sound they made in them and threw it out into the middle of the room, and the case at the near end stayed shut with the lid on its edge.
+She did not use the stop and he did not take it back, and whatever sound the two of them made went out of the boards and was in the middle of the room before either of them had finished making it, and the case at the near end stayed shut with the lid on its edge.
 
 "That is the whole of it and I am not going to say it in this room again, and I put it in this room in the sixth month and I am not going to put it in this room or any other this month." She did not put her hands flat on the wood. "**Here is the half of it nobody has said out loud anywhere, and you can have it because you are the only person in this room who is standing at the end of it and not asking me for it: two holders is not a protection. It is a bill, and the bill goes to the paper and not to the person, and that is the first time anybody in this matter has had a bill that cannot be sent to a name.** And I am not going to be thanked for saying it and neither is the man standing there going to be thanked for having heard it, and everybody who was in this room when I said the other one is exactly as much a person who could be shown having heard a true thing as they were before this morning, and saying the second half has not improved that by one single notch. **I did that part before I said it and I would like it noticed.**"
 

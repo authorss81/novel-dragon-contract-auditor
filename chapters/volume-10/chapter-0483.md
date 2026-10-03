@@ -36,7 +36,7 @@ And then she stopped at the end of that sill for about as long as it takes a per
 
 She had said a true thing in that corridor about a month ago. She had got nine seconds of it out and it had cost her the only thing she had that was hers, which was not being asked. He heard the stopping and he could not have told anybody what was in it, and she went back into that room with the armful and she did not say one word.
 
-The armful went back into the room it came out of and the door of the room closed behind it the way it closes behind an armful every working day, and the corridor kept whatever she had not put into it to itself, and the sill went on being a sill with a man behind it.
+The armful went back into the room it came out of and the door of the room closed behind it the way it closes behind an armful every working day, and the corridor kept whatever she had not put into it to itself, and the man behind the sill stayed behind it.
 
 "You are not going to say the other one," he said, to the sheets.
 
@@ -56,7 +56,7 @@ He gave up the only way he had of knowing a thing that was not written down. The
 
 The hook was bare by the seventh hour and it emptied the way it empties. Nine hundred sheets went out of that building one at a time that day, and about four hundred of them came down that wire with the top edge open, and not one person who received any of them has the least idea what is at the top of the thing in their hand.
 
-The hook came back to hanging empty and the sill did not move under him, and the pot stayed at his right hand where it has been every working morning of the nineteen years, and the corridor outside the room went on being a corridor people came out of with armfuls in.
+The hook came back to hanging empty and the sill stayed where it was under him, and the pot stayed at his right hand where it has been every working morning of the nineteen years, and the corridor outside the room went on being a corridor people came out of with armfuls in.
 
 The ninth of the nine is on nothing whatever and it stays in a man's head, and from the fourth hour this week so does everything else. A woman of fifty-three came out of a room she has not come out of in four years and put a true thing on that floor and got nothing back for it. A woman of nineteen stood at the end of that same sill this week and did not put hers out, and he heard the not putting it.
 

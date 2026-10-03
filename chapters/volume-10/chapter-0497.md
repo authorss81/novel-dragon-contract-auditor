@@ -28,7 +28,7 @@ The case stayed behind her hands for the whole of it and the boards stayed up in
 
 She did not move at that.
 
-The boards took her hands the way they have taken them every working morning for two years and the lid of the case stayed under the one of them, and what he had said stayed where it had been put down in the middle of the floor without anybody picking it up.
+The hands went down onto the boards the way they have gone down every working morning for two years and the lid of the case stayed under the one of them, and what he had said stayed where it had been put down in the middle of the floor without anybody picking it up.
 
 There is a piece of paper under the boards of the floor of that room, at the back, against the wall behind the drawer. It is not in the case and it is not in the drawer and it is not in a hand. It has been there since the first week of the year. It is a piece of paper with a strip printed along the top of it and the same four things set along that strip, and it is not a blank out of that case, and it did not come out of that case. Nobody on that floor has been told where it is, including the woman who put it there.
 

@@ -18,7 +18,7 @@ Tamsin Rook had her hand flat on the lid of the case. She is twenty-four and she
 
 She took a sheet out of the case and set it down on the boards and did not push it across, which is the ordinary way of it for everybody else, and the woman next door picked it up off the wood herself and put it inside her coat and went down the four flights.
 
-The lid of the case came down onto its edge and stayed there, and the boards took the fourpence and then the sheet, in the order they take them every working morning, and nobody at the near end looked at the sheet on its way off the wood.
+The lid of the case came down onto its edge and stayed there, and the fourpence went down onto the boards and then the sheet went after it, in the order they go every working morning, and nobody at the near end looked at the sheet on its way off the wood.
 
 ---
 

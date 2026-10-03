@@ -42,7 +42,7 @@ He put the pen down, which is not a thing he does at that table.
 
 And then neither of them said anything for about as long as it takes to square a sheet.
 
-The lamp burned the whole of the silence and the book lay shut between them and neither of them put a hand on it, and the lane outside went on being a lane with nobody walking up it on account of either of them.
+The lamp burned the whole of the silence and the book lay shut between them and not one of them touched it, and the lane outside went on being a lane with nobody walking up it on account of either of them.
 
 He was aware the whole of that time that he had nine words in his own hand at the top of a column in a book in a store, that they were not the day-book woman's, that they were a foreman of fifty-one's, and that she had begun them in a doorway in that lane about two years ago and got nine words out and stopped. The whole of what he had wanted for about two years was the rest of them.
 

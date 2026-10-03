@@ -16,7 +16,7 @@ He stood about nine foot off it for a while with his hand in the inside of his c
 
 Not the book. The page.
 
-The page went down on the wood flat and the four headings printed along the top of it were not on it, and the book stayed shut on the shelf behind her with its spine squared off even with the edge of it, and the sheet and the book lay side by side on the counter with about a hand's width between them.
+The page on the wood was a loose sheet with nothing printed over any part of it, and the day-book stayed shut on the shelf behind her with its spine squared off even with the edge of it.
 
 It is a page of that week's work, and the figures in the second column do not agree with the figures in the first one, by about the width of a thumbnail, on three lines. He has shut a gap of that width with the point of a pen in about four seconds ever since he was nineteen. There is no column anywhere in this empire for a job a person has refused.
 
@@ -30,7 +30,7 @@ It is a page of that week's work, and the figures in the second column do not ag
 
 He did not pick it back up.
 
-It lay on the wood between them and neither of them put a hand out to it, and the counter went on being a counter at the foot of the stair with a lamp on a table beside it that was not lit yet.
+It lay on the wood between them and neither of them put a hand out to it, and it was still there when she turned round.
 
 "I have got a number in my head," he said, "and it has been in my head since a spring that is gone. I am not going to tell you what it is. I am not going to put it on anything. I am not going to be in a room where anybody says one word about whether it is right. Nobody in that house has confirmed it and nobody in that house has denied it, and that is not politeness. A figure a man keeps in his head is a fact about that man and about nothing whatever outside him. The day it is on paper it stops being about him and starts being about a thing, and a thing can be carried down a stair and put inside a coat, and I have watched that happen to a person who was careful about it."
 
@@ -46,7 +46,7 @@ She looked at the page for about as long as it takes to decide against having an
 
 She put the page in the shelf and put the book back down on top of it, spine flush to the front edge, where it goes.
 
-The shelf took the page and the book went back over it and nothing about the shelf changed from the outside, and the four headings were where the four headings have been for nine years and the fifth was not there and was not going to be.
+Nothing about the shelf was different from the outside, and the four headings were where the four headings have been for nine years and the fifth was not there and was not going to be.
 
 "It is in there," she said. "It is not in the book. The book is shut. I am not going to turn it round. Nobody in that house is going to know it is in there, including me in about a week. And there is no form in this empire for a woman keeping a thing in a shelf and not knowing she is keeping it."
 
@@ -54,7 +54,7 @@ The shelf took the page and the book went back over it and nothing about the she
 
 He went up the stair and did not turn round at the top of it.
 
-He went up it at the pace he goes up and the stair did not make any sound under him that it does not make under anybody, and the lamp on the table came on after he had gone and lit the wood he had put the page on.
+The lamp on the table came on after he had gone and nothing else in the room changed.
 
 He is a man who can be found, and he has been found by a person with four headings over four columns and a fifth that is not going to be ruled. What findability costs goes on an account he has still never been given the name of, and he has known that for two years and has not once asked to see it. This month it has come to about a page with three wrong lines in it, and a woman at the bottom of a stair who will not thank him and will not open the book.
 

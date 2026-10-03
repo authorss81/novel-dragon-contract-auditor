@@ -10,7 +10,7 @@ It is the fourth day of the third week of the fourth month of the year after the
 
 Marn Ottery was at the far end of those boards, and she watched him come the last ten foot of the floor without straightening up. The clerk of about twenty-nine was at the other end of the two joined tables with a book open and a pen in the middle of it. Tamsin Rook was at the near end with the case behind her.
 
-The case was shut and the boards were up along the whole length of them, and the light off the lane came in at the far end and stopped about where the wall board is, and nothing on the floor made any noise except the door at the bottom of the stair.
+The case was shut and the boards were up along the whole length of them, and the light off the lane came in at the far end and stopped about where the wall board is, and nothing on the floor made any noise at all.
 
 "**This is the fourth time you have come up those four flights, and you have never once put fourpence on this counter, and a person who comes up a stair four times and buys nothing is the only person in this matter a practice can be built on.** I am not going to thank you for it, and I am not going to be thanked for saying it, and the fact of the fourth time is in this room and is not on anything."
 

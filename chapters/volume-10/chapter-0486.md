@@ -42,7 +42,7 @@ There is nothing in this empire that would keep a record of a coat going onto a 
 
 Then he stood there and worked out the other half of it, out loud, because there was nobody to stop him and because that is the only way a thing gets said in this matter when there is no second person in the room to say it to.
 
-The room gave the whole of it back to him in the shape the room gives things back, and he did not say it a second time and he did not say any part of it over, and the two sheets in the pocket of the coat did not move while he was standing there.
+The room gave the whole of it back to him in the shape the room gives things back, and he said it once and then he stopped, and the two sheets in the pocket of the coat did not move while he was standing there.
 
 "**I am not going to cut one, and nobody is going to cut one for me, and there is nobody who has been asked and nobody who is going to be.** And here is the reason and it is four seconds long. The first cut is the one that costs, and after that cut I am a man who cuts lines in strips, and a man who cuts lines in strips is a man a person could put in front of anything. There is no column over the mark and there never is going to be one, and that is exactly why the knife is the dangerous part and not the pen. **Anybody can put a name in a book. Almost nobody can put a hand in a strip and stay a stranger afterwards.** And I would rather have nothing than that, and I have had nothing for about two years and I know what it costs, and a name is worth more than it."
 

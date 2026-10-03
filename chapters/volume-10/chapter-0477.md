@@ -50,6 +50,6 @@ The pot went on taking the pen and giving it back at the rate it has always take
 
 At a minute past the seventh hour the hook was bare and it emptied the way it always empties, and the nine hundred went out of that building one at a time, and not one of the nine hundred people they went to has any idea whose hand is at the foot of the thing they are holding.
 
-The corridor went quiet after that and the sill went on being a sill with a man at it, and the ledge was bare and the pot was where the pot is, and nothing in the building had been said to anybody about any part of it.
+The corridor went quiet after that and there was still a man standing at the sill, and the ledge was bare and the pot was where the pot is, and nothing in the building had been said to anybody about any part of it.
 
 **The ninth of the nine is on nothing at all and it is in his head. Nobody in that corridor thanked anybody and nobody in it was sent for, and the mark went onto the foot of about nine hundred sheets in a day and not one person in this empire knows what it is standing at the bottom of. One woman in that building said a true thing out loud this morning and got no answer, and the not being asked was the only thing she had, and there is no form anywhere in this empire by which it is put back.**

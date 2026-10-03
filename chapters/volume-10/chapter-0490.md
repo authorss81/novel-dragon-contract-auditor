@@ -16,7 +16,7 @@ There is no form in this empire for reading one out, none for asking whose a mar
 
 Then he took his hands out of his pockets and went back to the loading end and said one of those out loud, flat, to a floor with nobody standing on it, and he said it the way he says a thing that is going to be true in ten years.
 
-The floor took it and gave back less of it than went into it the way floors do, and the loading end of the floor went on being a loading end with a man standing at it, and the box at the other end of the floor was not looked at by anybody while he said it.
+The floor took what he said and did not give back all of it, and the loading end of the floor went on being a loading end with a man standing at it, and the box at the other end of the floor was not looked at by anybody while he said it.
 
 "**I have been writing names onto things on this floor for nineteen years and I have got good at it. That is the one thing this lane has ever been good at, and since a woman put fourpence on a set of boards in the tenth month it has got good at it faster, and it has got good at the half of it that does not say who did the doing, and I have been the one doing it, and nobody is going to thank me for the getting better and nobody is going to thank the floor.**"
 

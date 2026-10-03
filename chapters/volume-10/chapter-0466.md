@@ -50,7 +50,7 @@ Nobody answered her and nobody asked her and nobody thanked her, and the not bei
 
 By a minute past the seventh hour there was nothing left on the hook, and the hook emptied the way it empties, and the nine hundred went out of that building, one at a time, into nine hundred places where not one person knows what stands at the bottom of a page they have never read.
 
-The hook came back to empty and the pot stayed at his right hand and the sill did not move under him, and the corridor was a corridor with nothing in it that anybody in this empire could be shown.
+The hook came back to empty, the pot was at his right hand as ever, and nothing at the sill shifted under him, and the corridor was a corridor with nothing in it that anybody in this empire could be shown.
 
 **He signed the ones that were square and he signed them the way he signs all of them.** One sheet in about two years came up that stair with the same mark on it twice, and he signed the top of it and did not look up while he did it. There is nobody in that corridor who could point at that sheet and nobody in that building who could point at it, and the one man who has seen it is the one man in the place who would not be able to find it again if he went back down that stair to try, and he has not gone back down it, and nobody has made a thing of it.
 

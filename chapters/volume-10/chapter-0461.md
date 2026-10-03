@@ -18,7 +18,7 @@ The other of them was the fourth thing on a board on that wall. Four items stand
 
 Marn Ottery watched him come the last of the floor without straightening up, the way she has watched him come the last of the floor four times.
 
-He came the last of it with his weight on the front of his feet and his hands down, and the boards took the sound of his boots the way they take it every morning, and nobody at the near end stopped what they were doing for it.
+He came the last of it with his weight on the front of his feet and his hands down, and the sound of his boots went the length of the boards and was given back the way it is given back every morning, and nobody at the near end stopped what they were doing for it.
 
 "You have not brought a page this time and you have not brought a hand either."
 

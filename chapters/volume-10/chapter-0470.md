@@ -10,7 +10,7 @@ It is the fourth day of the fourth week of the seventh month of the year after t
 
 Marn Ottery said it at about the third hour, and she said it to the boards and not to the woman at the near end, and she said it as an arrangement and not as a favour, and she said it once.
 
-The boards took the sound of it and gave it back into the middle of the floor, and the case was shut at the near end with nobody's hand on it, and the far end of the boards had a person at it who did not move while it was being said.
+What she said went into the boards and was let out again into the middle of the floor a smaller thing than it went in at, and the case was shut at the near end with nobody's hand on it, and the far end of the boards had a person at it who did not move while it was being said.
 
 "**What a second holder is, is a person who can be shown holding a thing without being a party to it, and there is one reason for that and the reason is that a copy is not the thing it was made from.** I am not going to put that in this room again, and I put it in this room in the third week of the fifth month, and I am not going to put it in any other room either this month."
 
