@@ -36607,3 +36607,39 @@ Run over the 124 added paragraphs, `chapter-0300.md` excluded and never opened.
 **No prompt created and none overwritten.** `state/complete.md` not written. `state/phase-ledger.json` not edited. No outline opened for edit and no Volume 13 planned or contemplated. `tools/measure.py` run and not changed — and where it is right, it is right, and the one wrong instrument in this run was mine: I first counted words with `m.TOKEN`, which is the prose selector and not the word counter, and got 70,773 against the correct 72,836.
 
 **THE ITEM IS 296.**
+
+# THE TWELFTH AUDIT OF `chapter-0261.md` TO `chapter-0299.md`, MEASURED RECORD — ITEM 297
+
+## ZERO. THE BASE, AND THE ANSWER IS NOT THE ONE A VOLUME 06 PROMPT REACHES FOR
+
+Base `3d3c181` resolved first and printed. `git log --oneline -- chapters/volume-06/chapter-0261.md chapters/volume-06/chapter-0299.md` returns `bfbecf5`, `a747682`, `7216c9d`, `d8f15cd`, `f85323d`, then `3d3c181`; the last chapter-touching commit is `bfbecf5`, not `3d3c181`. `9ae089f` holds 0251 to 0260 and `git show 9ae089f:chapters/volume-06/chapter-0261.md` returns fatal path-not-in-commit, so it was not used. Every `git show 3d3c181:<owned file>` returned non-empty text, 39 of 39. `git diff --numstat 3d3c181 -- chapters/volume-06/` is 316 insertions and 0 deletions across 50 files; the thirty-nine owned files carry 248 insertions and 0 deletions. `git diff --numstat b004f7e -- chapters/volume-06/chapter-0261.md` and neighbours agree to the line. `python3 tools/measure.py selftest` PASS. `chapter-0300.md` returns zero lines of diff against `3d3c181`, was read for that check and not opened for edit.
+
+## ONE. THE FOUR CONSTRUCTION LISTS, RE-DERIVED, PER CELL, WITH THE PER-FORM DELTA
+
+Method printed in the prompt, re-run on the tree: range words `72,836 -> 79,426` (`72,836 + 6,590 = 79,426`). TEN `128 -> 128`; LIST23 `193 -> 193`; LIST25 `203 -> 203`; sweep `742 -> 742` across 171 forms, per-form delta empty in both directions, 0 of 39 files differing. Added prose carries zero sweep bigrams and zero of the twenty-five closed-list forms. Print the count and not the rate.
+
+## TWO. PER-CHAPTER WORDS
+
+Thirty-nine files stand at `79,426` against `72,836` at base; the 6,590 is item 266's 6,620 less 26 (`d8f15cd`) plus 15 (`7216c9d`) less 23 (`a747682`) plus 4 (item 296's two revoicings), printed as an addition. No file was opened for writing on this run, so no per-file before/after beyond that standing was taken.
+
+## THREE. THE DATE LINES, ALL THIRTY-SIX, CHECKED PER INSERTION STANDING
+
+No insertion was made on this run, so no per-insertion check had anything to catch. Re-derived: 36 helper-matched date lines reproduce at their own base line numbers with zero moved; `chapter-0272.md`, `chapter-0290.md` and `chapter-0296.md` carry the date inside the opening prose paragraph and have no helper-matched line, which is base text and not a defect. `m.DATE_LINE` parses 0 of 39 here.
+
+## FOUR. THE STRUCTURAL TABLE, EVERY CELL, BASE AND NOW
+
+Section rules `268 -> 268`, bold markers `538 -> 538`, quotation marks `630 -> 630`, question marks `42 -> 42` across 36 of 39 files, trailing newlines 39 of 39. Volume 06 `109,685` and manuscript `1,496,529` re-run by `python3 tools/measure.py words --volume 06`. No cell moved because no prose was written.
+
+## FIVE. DEFECTS IN ADDED PROSE FOUND BY THIS RUN
+
+None. All 39 files were spot-read against the base paragraph above and below the landed insertions; no contradiction, restatement, false figure, or lock breach attributable to this run was introduced, because this run wrote nothing. The two base defects the range cannot pay are recorded in `state/open-threads.md` item 297C with line numbers and are not paid here.
+
+## SIX. THE LOCKS
+
+Re-derived standing holds: count of askings seven and not eight, nobody thanked, Lowcross bill unpaid at nineteen pounds three and fourpence, reader of seventeen unthanked and unsent for, road walked zero times, lamp not lit early, no hearing or arrangement of one, no notice/post/commission/warrant/office/new heading/new form, no House/seat/office named, no romance, no new fixture, sixteenth book not given, notice not sent. Citations in `outline/volume-06.md` as item 296 recorded them.
+
+## SEVEN. WHAT IS LEFT
+
+Repaired extent unchanged: `chapter-0261.md` to `chapter-0299.md`, 248 insertions and 0 deletions across 39 files against `3d3c181`; Volume 06 repaired 0251 to 0299, 316 insertions and 0 deletions across 49 files; `chapter-0300.md` excluded and untouched. Largest untouched block remains Volumes 01 to 05 at 250 chapters. No prompt created, `state/complete.md` not written, `state/phase-ledger.json` not edited, no outline edited, no Volume 13, `tools/measure.py` run and unchanged.
+
+**THE ITEM IS 297.**
