@@ -18330,3 +18330,37 @@ Both are base text, both need substitute authority in a closed volume, and **bot
 ## Four: the frontier
 
 **One prompt created: `workspace/review-debt-0004/PROMPT.md`, for Volume 06's Batch 0003, `chapter-0261.md` to `chapter-0270.md`, at base `d8f15cd`, asserted PRESENT ten of ten.** The prompt this run was told to create, `workspace/review-debt-0002/PROMPT.md`, exists at 9,722 bytes and its work is paid at `5316a4f` (item 270A) and verified twice; overwriting it would destroy a paid prompt. **All four owed reviews named at `outline/volume-12.md`'s close are now paid or prompted.** `state/complete.md` not written and does not exist; `state/phase-ledger.json` not edited and still reads `phase-000-bootstrap`; no chapter opened for edit; no outline opened for edit; `tools/measure.py` not edited; no volume planned; no Volume 13.
+
+# THE FOURTH AUDIT OF THE PAID SECOND READING OF VOLUME 05'S BATCH 0003 — MEASURED RECORD — ITEM 284
+
+**The seventh dispatch on this range, and the fifth pass over the page.** The work was found paid four times over — `reviews/volume-05-batch-0003.md` (item 268), audited at item 275, verified at item 279 in `reviews/volume-05-batch-0003-verification.md`, confirmed at item 280, audited a third time at item 283 in `reviews/volume-05-batch-0003-third-audit.md` — and this run confirmed rather than rewrote, per `PHASE_SYSTEM.md` line 216 and items 275A, 280A and 283A. It wrote no sibling file, amended nothing paid, and marked no prompt. All ten chapters read end to end a fifth time.
+
+## Zero: the base, resolved and asserted before any figure was believed
+
+`git log --oneline -- chapters/volume-05/chapter-022[1-9].md chapters/volume-05/chapter-0230.md` returns `18e57c8` (*save review fixes batch-0003*) and `7a54b16` (*save writer work batch-0003*) and nothing else, so **`18e57c8` is the base**. `git cat-file -e 18e57c8:chapters/volume-05/chapter-<each of the ten>` returns PRESENT ten of ten. `git diff --numstat 18e57c8 -- <the ten files>` returns **nothing**: worktree and base byte-identical on all ten. `git log --oneline --grep="prose-repair" -- chapters/volume-05/` returns **nothing**, so Volume 05 has never been through the prose repair and **every line number cited is a citation of a text and not of a position**. `git log --oneline -1 -- chapters/volume-05/chapter-023[1-9].md chapters/volume-05/chapter-0240.md` returns `65abf1d` (*save review fixes batch-0004*), and `git cat-file -e 65abf1d:chapters/volume-05/chapter-0231.md` returns PRESENT — the base the next live prompt carries, checked and not used, because that prompt already exists and its work is already paid.
+
+## One: nothing new, with the command beside the confirmation
+
+| Figure | Result | Command |
+|---|---|---|
+| Seven located prose defects | **all seven seen on the page and all left**: `0226:7` *she am*; doubled `---` at `0226:49-50` and `0229:19-20`; leading space at `0221:57`; doubled blank at `0228:108-109`; eleven-against-thirteen at `0225:132`/`:134`; doubled locative at `0227:5` | `grep -n`, `sed -n '57p'`, `sed -n '132p;134p'`, and reading; Volume 05 closed, no delete or substitute authority taken |
+| `about nine` per file, raw less `about nine hundred` | **5, 7, 4, 5, 6, 6, 6, 3, 6, 8 = 56**, range 3 to 8, median 6.0, against the card's 72 | `grep -o -i '\babout nine\b'` less `grep -o -i 'about nine hundred'` per file. **Raw is 9, 8, 6, 6, 7, 8, 8, 7, 7, 8 = 74 and the subtraction is 18** |
+| Whole-word `may` | **13 hits across six chapters** (0222:3, 0223:2, 0224:1, 0225:2, 0228:3, 0229:2), all modal; capital `May` **0**; other eleven month names and all seven weekday names **0** | `grep -o -w -i may` and `grep -n -w -i may` per file; month/weekday names by `grep -w -i` per name |
+| `wc -w` per file | **3011, 2758, 2714, 2956, 3018, 3164, 2763, 2754, 2919, 2975 = 29,032** | `wc -w` over an explicit ten-file list (a `chapter-022*.md` glob also matches `chapter-0220.md` and was not used) |
+| `certif` / `exception` / `precedent` | 2 both negations / 0 / 0 | `grep -c -i` and `grep -o -i -w` per file |
+| `four hundred and thirty` / `four hundred miles` | 14 / **0** | `grep -o -i` over the ten |
+| `thank` | **25 occurrences**, every one a negation or a refusal | `grep -o -i thank` over the ten |
+| `the book` / `the books` | 21 raw less 3 = **18** | `grep -o -i 'the books\?'` over the ten |
+| guarantee | **6 occurrences in 2 chapters** (`0229:130`; `0230:11, :15, :25, :73, :101`), word for word | `grep -n -i guarantee` |
+| Lowcross bill | nineteen pounds three and fourpence, unpaid, nobody liable, at `0229:15`, `0229:128`, `0230:91` | read |
+| reader of seventeen | rate deliberately unprinted at `0229:96` and `0230:73` | read |
+| `thirty-one` / out-of-world tokens | **0** / **0** | `grep -n -i` over the ten |
+| `selftest` / `words --volume 05` / manuscript | **PASS** / **144,248** / **1,496,548 in 620 files**, all re-run on the working tree and all unmoved | `python3 tools/measure.py selftest`, `python3 tools/measure.py words --volume 05`, `python3 tools/measure.py words` |
+
+## Two: one canon gloss measured and left standing
+
+The dispatching prompt states the thirty-one of Mosswake *is a figure in three places*. `grep -rlo 'thirty-one of Mosswake' chapters/` returns **six files** (`chapter-0150.md`, `chapter-0180.md`, `chapter-0190.md`, `chapter-0200.md`, `chapter-0206.md`, `chapter-0217.md`); the range carries zero. Whether *three places* counts exact-sentence instances against six phrase holders needs Volumes 03 to 05 whole and cannot be closed from this range. Recorded at item 284C and corrected nowhere.
+
+## Three: the frontier
+
+**No prompt was created.** `workspace/review-debt-0002/PROMPT.md` exists at 9,722 bytes with its work paid (item 270A, verified at 276 and 277); `workspace/review-debt-0003/PROMPT.md` (14,688 bytes, Batch 0005 at `dedc831`) is the live frontier; `workspace/review-debt-0004/PROMPT.md` (14,600 bytes, Volume 06 Batch 0003 at `d8f15cd`) stands from item 283. **All four owed reviews are paid or prompted and this run moved none of the four.** `state/current.md`'s per-volume rows and manuscript total re-run unmoved (Volume 05 at 144,248, manuscript at 1,496,548) and were not amended. `state/complete.md` not written and does not exist; `state/phase-ledger.json` not edited and still reads `phase-000-bootstrap`; no chapter opened for edit; no outline opened for edit; `tools/measure.py` not edited; no volume planned; no Volume 13.
