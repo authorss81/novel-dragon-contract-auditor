@@ -18445,3 +18445,195 @@ Item 276B found four. **This run found a fifth, of a class the other four are no
 **The locks, each checkable.** No hearing or arrangement of one arranged; no notice, post, commission, warrant, office, new heading, or new form minted — added-prose screens moot, landed screens re-run at item 282 and unchanged. No House, seat, or office named. No romance or implication of one. No new fixture in any closed-list room. Nobody thanked anywhere in the volume; the count stays at seven and does not become eight; the Lowcross bill unfunded, unpaid, unforgiven; the lamp unlit before the seventh hour; the road walked zero times. `chapter-0300.md` excluded from every figure, read and not opened.
 
 **What is left.** Repaired extent unchanged: Volume 06 repaired 0251–0299 (forty-nine of fifty, `chapter-0300.md` excluded); Volumes 07 (0301–0349), 08 (0351–0399), 09 (0401–0449), 10 (0451–0499), 11 (0501–0549), 12 (0551–0609) as recorded; the largest untouched block remains Volumes 01–05 at two hundred and fifty chapters. `state/current.md` Volume 06 row (109,704 / 2,194) and manuscript total (1,496,548) already read the re-derived figures and were not amended for arithmetic. No chapter opened for edit, no outline opened for edit, `outline/ending.md` not opened, `tools/measure.py` not edited, no volume planned, no Volume 13, `state/complete.md` not written and does not exist, `state/phase-ledger.json` untouched. The item is **287**.
+
+---
+
+# THE EIGHTH AUDIT OF `chapter-0261.md` TO `chapter-0299.md`, MEASURED RECORD — ITEM 288
+
+**The range was already repaired when this dispatch arrived, on a prompt that described thirty-nine chapters of unwritten work, and this dispatch audited it rather than rewriting it. No chapter was opened for edit and no prose was written, and the reason is the prompt's own standing and not a choice: *"If you find a repair commit on your range, audit it and say so, and do not rewrite repaired prose to buy a chapter written."*** The standing was followed at items 273, 274, 282 and 287 and is followed here for the fifth time on this range. **What this pass adds over those four is that it is the first to run the screening guard *against prose it did not write*, so the guard has rejected candidates on this range and the range is not certified by an instrument that was never fired.**
+
+## Zero — the base resolved and asserted, and the trap not entered
+
+`git log --oneline -- chapters/volume-06/chapter-02[6-9][0-9].md` returns, newest first: `7216c9d`, `d8f15cd`, `f85323d`, `b004f7e`, then the batch commits ending at `3d3c181`. **The last commit to touch any of the thirty-nine files is repair-lineage, not `3d3c181`.** `3d3c181` is *save review fixes batch-0005* and is the repair's own base; `f85323d` is *prose repair of chapter-0261.md to chapter-0299.md* — **248 insertions, 0 deletions, 39 files** — and it is followed by two audits of its own output, `d8f15cd` (**thirteen** defects taken out of the repair's added prose) and `7216c9d` (**three** more).
+
+`9ae089f` was **not** used. It is *save writer work batch-0001* and holds 0251–0260 only; `git show 9ae089f:chapters/volume-06/chapter-0261.md` returns *fatal: path … exists on disk, but not in '9ae089f'* with exit 128, and a silent 0 from that piped into a counter is a missing base and not a clean measurement. **This prompt did not commit that error, and this run did not either.**
+
+`git show 3d3c181:chapters/volume-06/chapter-<each of the thirty-nine> | wc -c` was run and **asserted non-empty 39 of 39** before any counter computed from it was believed, returning `12770 12152 12269 11539 12106 11499 10562 11216 10673 11385 7877 7390 7340 8626 7636 8226 7541 7912 7917 7502 9452 10413 8369 7514 8144 7017 6415 7793 7185 7570 9963 8595 8531 6235 7761 6960 8702 7227 8384`. `git cat-file -e 3d3c181:chapters/volume-06/chapter-0299.md` returns PRESENT.
+
+**The two-sided precheck, read from the right end.** `git diff --numstat 3d3c181 -- chapters/volume-06/` returns **316 insertions, 0 deletions** across all fifty files, of which **248 insertions, 0 deletions** are on the thirty-nine owned files and 68 on Movement One at `b004f7e`. The reverse test settles it independently: `git diff --numstat af3b23c -- chapters/volume-06/chapter-02[6-9][0-9].md`, `af3b23c` being the commit before the range's base, returns **265 insertions and 11 deletions** — the 11 being `3d3c181`'s own review fixes at `0291`, `0295`, `0297`, `0298` and `0299`. **`difflib.SequenceMatcher` over base and landed line lists returns 124 `insert`, 0 `delete`, 0 `replace`** for every one of the thirty-nine, asserted per file rather than in total.
+
+`git log --oneline --grep="prose-repair" -- chapters/volume-06/` returns **nothing**, and that is the fault in the grep string and not a fact about the tree: the commits read ***prose repair* without the hyphen** (item 281's standing, re-verified here a seventh time). `python3 tools/measure.py selftest` returns **PASS**.
+
+## One — the construction table, re-measured with the prompt's own printed method
+
+Run on the base and on the landed tree, per file, counters summed, sweep bigrams never allowed to straddle a file boundary:
+
+| Range 0261–0299, `chapter-0300.md` EXCLUDED | at base `3d3c181` | on the working tree | delta |
+|---|---|---|---|
+| closed list of ten | **128** | **128** | **0** |
+| list of 23 | **193** | **193** | **0** |
+| list of 25 | **203** | **203** | **0** |
+| sweep | **742** | **742** | **0** |
+| sweep forms | **171** | **171** | **0** |
+
+**The per-form delta is asserted empty in both directions and it is empty.** Over all twenty-five closed-list forms, per form, per file: **0 deltas.** Over every one of the 171 sweep bigrams, per file: **0 deltas.** A list can be flat in total and not flat in form — two forms can swap and the total will not move — so the totals above are reported as the *result* of the per-form comparison and not as the comparison itself. **0 of 39 files differ on any column.**
+
+The per-form figures, identical at base and on the tree: `those boards` 0, `that lane` 22, `that floor` 0, `that table` 3, `that door` 4, `that stair` 17, `that room` 65, `that passage` 12, `that tin` 0, `that sheet` 5; `that end` 1, `that landing` 0, `that bench` 9, `that sill` 0, `that corridor` 2, `that case` 0, `those stairs` 0, `that step` 4, `that bay` 44, `that ground` 0, `that jug` 0, `that stone` 0, `that board` 5; `that building` 10, `that house` 0. The twelve largest sweep forms: `that room` 65, `that says` 53, `that bay` 44, `that out` 27, `that counter` 27, `that requires` 23, `that lane` 22, `that goes` 19, `that stair` 17, `that cannot` 16, `that for` 15, `that passage` 12. **The volume's stock frames are in the base and not in the added prose: `there is not one form anywhere in this` stands 91 times in this range's own base prose and 0 times in the 124 added paragraphs.**
+
+### The per-chapter table, all thirty-nine, words before and after and the four construction columns
+
+Words by `tools/measure.py`'s own method (`sum(len(line.rstrip().split()) for line in handle)`); construction columns by the prompt's `b3()` selector with the date line stripped.
+
+| ch | words before | words after | Δ | TEN before | TEN after | L23 before | L23 after | L25 before | L25 after |
+|---|---|---|---|---|---|---|---|---|---|
+|0261|2,646|2,834|188|3|3|3|3|3|3|
+|0262|2,557|2,724|167|8|8|8|8|8|8|
+|0263|2,582|2,765|183|3|3|6|6|6|6|
+|0264|2,411|2,564|153|5|5|6|6|6|6|
+|0265|2,535|2,695|160|3|3|5|5|5|5|
+|0266|2,388|2,518|130|4|4|8|8|8|8|
+|0267|2,158|2,303|145|3|3|4|4|4|4|
+|0268|2,389|2,547|158|0|0|3|3|3|3|
+|0269|2,238|2,384|146|2|2|10|10|10|10|
+|0270|2,402|2,595|193|1|1|1|1|1|1|
+|0271|1,619|1,768|149|4|4|4|4|5|5|
+|0272|1,577|1,798|221|0|0|3|3|3|3|
+|0273|1,554|1,710|156|8|8|8|8|11|11|
+|0274|1,808|1,957|149|2|2|2|2|2|2|
+|0275|1,591|1,807|216|3|3|3|3|3|3|
+|0276|1,716|1,830|114|6|6|6|6|6|6|
+|0277|1,540|1,709|169|3|3|3|3|3|3|
+|0278|1,649|1,880|231|0|0|9|9|12|12|
+|0279|1,666|1,814|148|1|1|3|3|3|3|
+|0280|1,575|1,782|207|1|1|1|1|1|1|
+|0281|1,974|2,140|166|4|4|4|4|4|4|
+|0282|2,182|2,381|199|1|1|12|12|13|13|
+|0283|1,765|1,928|163|2|2|3|3|3|3|
+|0284|1,561|1,715|154|3|3|3|3|3|3|
+|0285|1,701|1,899|198|7|7|9|9|9|9|
+|0286|1,481|1,647|166|1|1|1|1|1|1|
+|0287|1,338|1,522|184|5|5|7|7|7|7|
+|0288|1,591|1,739|148|7|7|10|10|10|10|
+|0289|1,467|1,613|146|10|10|10|10|10|10|
+|0290|1,597|1,813|216|1|1|3|3|3|3|
+|0291|2,132|2,299|167|1|1|1|1|1|1|
+|0292|1,789|1,943|154|3|3|4|4|4|4|
+|0293|1,806|2,007|201|5|5|9|9|9|9|
+|0294|1,345|1,516|171|2|2|2|2|2|2|
+|0295|1,602|1,747|145|3|3|3|3|3|3|
+|0296|1,475|1,632|157|2|2|2|2|2|2|
+|0297|1,824|1,984|160|8|8|8|8|10|10|
+|0298|1,529|1,692|163|2|2|4|4|4|4|
+|0299|1,767|1,935|168|1|1|4|4|4|4|
+|**TOTAL**|**72,836**|**79,445**|**6,609**|**128**|**128**|**193**|**193**|**203**|**203**|
+
+### The arithmetic, printed in full as an addition
+
+```
+words, base  3d3c181, 39 files        = 72,836
+words, working tree, 39 files        = 79,445
+                                      ------
+added by the repair at f85323d       =  6,609
+
+72,836 + 6,609 = 79,445                              ✓
+
+Volume 06, 251-300, base 3d3c181    = 101,261
+Volume 06, 251-300, working tree    = 109,704
+                                      ------
+whole volume's repair = 1,834 (0251-0260, b004f7e) + 6,609 (0261-0299, f85323d) = 8,443
+
+101,261 + 8,443 = 109,704                             ✓
+
+manuscript, 620 files, working tree = 1,496,548       ✓ (measure.py words)
+
+all four construction lists: delta = 0, 0, 0, 0       ✓
+per-form delta, both directions   = 0 over 25 forms and 0 over 171 bigrams, per file
+```
+
+`python3 tools/measure.py words --volume 06` returns **109,704**; `python3 tools/measure.py words` returns **1,496,548 in 620 files**; `python3 tools/measure.py words --volume 06` and the manuscript total were both re-run on the working tree and neither moved, so `state/current.md`'s Volume 06 row and manuscript total already read the re-derived figures and were not amended for arithmetic.
+
+## Two — the date lines, all thirty-six, and the structural table
+
+**Thirty-six helper-matched date lines across thirty-nine files, and every one reproduces at its own base line number. Zero moved.** The helper is the prompt's two-regex pair and not `m.DATE_LINE` alone, because `m.DATE_LINE`'s opening clause is `(?:[Ii][Tt]|[Tt]he date)` and **every date line in this volume opens `This is the`, so `m.DATE_LINE` parses 0 of 39 here and `calendar` reports *chapters with a parsed date line: 16* over the fifty. That is an instrument fault and `tools/measure.py` was not edited.**
+
+At line 7: `0261 0262 0263 0264 0265 0266 0267 0268 0270 0271 0273 0274 0275 0276 0277 0278 0279 0280 0281 0282 0283 0284 0285 0286 0287 0288 0289 0291 0292 0293 0294 0295 0297 0298 0299` — **thirty-four files.**
+At line 5: `0269`, `0295` — **two files.**
+No standalone date line, date embedded in the opening paragraph, base text and not a defect: **`0272`, `0290`, `0296`** — three files. **34 + 2 + 3 = 39.**
+
+**The prompt's gloss that these stand "eight files at line 5 and twenty-eight at line 7" does not reproduce, and the total is right while the split is wrong.** It is item 269's finding, re-derived independently at items 274, 282 and 287 and now here, and it has now survived **five** dispatches' prompts uncorrected. `chapter-0269.md` and `chapter-0295.md` are the only two of the thirty-nine whose opening paragraph runs to a single line before the date, which is why they sit at 5 and the other thirty-four at 7.
+
+**The per-insertion standing had nothing to bind on and this is stated rather than claimed as a pass.** This run inserted no paragraph, so no paragraph could be placed above a date line and no date line could move; the landed-tree check above was run anyway and returns zero moved. **The rule that costs a repair its own gate — never insert above a date line, and re-anchor per insertion rather than once at the close — was therefore not exercised here, and no later phase may cite this pass as evidence that this range is free of that fault. What is certified is that the landed tree has no moved date line.**
+
+| Structural gate | base `3d3c181` | working tree | verdict |
+|---|---|---|---|
+| words, 39 files | **72,836** (mean 1,867.6) | **79,445** (mean 2,037.1) | +6,609, all from the repair |
+| section rules (`---` alone) | **268** | **268** | unmoved |
+| bold markers (`**` raw) | **538** | **538** | unmoved |
+| quotation marks (`"` raw) | **630** | **630** | unmoved |
+| question marks | **42, across 36 of 39** | **42, across 36 of 39** | base text; none added, none removed |
+| helper-matched date lines | **36 of 39** | **36 of 39** | all at base line numbers |
+| files ending in a trailing newline | **39 of 39** | **39 of 39** | held |
+
+Every one of the 248 inserted lines is preceded by a blank line, so each is a paragraph to a reader and not one prose line dissolved into the base: **0 added lines fail that test.**
+
+## Three — what this pass actually found, and the guard that found it
+
+**Defects in this run's own added prose: none, because this run added no prose.** No candidate was written and so no candidate was screened before the disk. **But unlike item 287, this pass is not a no-op on the guard, and the distinction is the finding of the range: the guard was built, proved with plants, and then run against all 124 landed paragraphs — prose this pass did not write — and it is the first pass on this range to fire it that way.**
+
+**The guard, and its four plants, all rejected:**
+
+| Plant | Result |
+|---|---|
+| a prose run lifted from a chapter outside the range | **REJECT** — 8-run held by `chapters/volume-10/chapter-0451.md` and `chapter-0471.md` |
+| *The lamp on the bank was lit and that table in the corner…* | **REJECT** — sweep bigram `that table` |
+| *Nobody in that room asked him whether he meant it?* | **REJECT** — question mark **and** sweep bigram `that room` |
+| *She stood by the hatch and counted fourteen of them off by name.* | **REJECT** — number word `fourteen` absent from that file's base |
+
+**Run over all 124 landed paragraphs: 0 rejections.** Sweep instances in added prose **ZERO**; instances of the twenty-five closed-list forms **ZERO**; question marks **ZERO**; number words absent from their own file's base **ZERO**. **A guard that has not rejected anything has not been run — and this guard rejected all four plants before it was pointed at the range, so its zero over the 124 is a verdict and not a null result.**
+
+**What the guard cannot see, and what was checked by reading instead.** `m.lifts` excludes the range under repair from its own index, so a run whose holders are all inside the range is invisible to it, and its intra-file scan runs one file at a time. Three classes were therefore checked by hand over the added prose, and all 124 paragraphs were read in full against the base paragraph above and below each.
+
+**One — invented fixtures, seventeen candidates raised and seventeen cleared.** A fixture-noun grep over the added prose against each file's own base raised 17: `263:47` flags, `264:89` pane, `265:13` hinge and lid, `267:17` flags, `267:91` flags, `272:11` step, `278:19` barrow, `278:33` sheet, `283:75` wall, `291:125` bolt, `293:41` step, `294:45` counter, `295:51` door, `296:27` wall, `299:55` wall, `299:81` wall. **Three were already cleared by item 281 and its reasoning stands: `264:89`'s cracked pane is the woman's rented room in the furnace town and not the office's missing pane; `265:13`'s lid and hinge are canon at `chapter-0253.md:17`, *the box is a wooden one with a hinged lid and no hasp*; `291:125`'s bolt is canon, standing at `0259:3`, `0263:3`, `0279:3`, `0283:3` and `0290:3`.** The other fourteen are clear on the volume's own canon: `flags` is the volume's paving word and is in base independently at `0296:25`; `barrow` is canon at `0263:59`, `:63`, `:85`, `:119` and `0293:31`; `294:45`'s *nobody at a counter* is an abstraction and places no counter in any room; **`295:51`'s door at the end of the passage is base, not invention — `0295:3` gives *there is no fire in either of the rooms at the end of that passage*, and `0295:71` has the woman of about twenty-six go *down four hundred yards of cold passage … and out into a lane*, so the added line's *and then there is a door and then there is a lane and then there is a yard* restates the base's own end of the passage**; `272:11`'s step is base architecture from `0272:3`'s *cut in a flood terrace*; `283:75`'s wall is the building wall between the foot of the four steps and the foot-wide window of `0283:3`. **`278:33`'s *sheet* is a sheet of paper and not the stone of the closed list, and the form `that sheet` is unchanged at 5.** **A fixture grep run against a whole volume produces three false positives — the office's pane, the box's lid and the door's bolt — and every one of them is a different room's fixture.**
+
+**Two — intra-file echoes, two found and both cleared, and this is the class the standing guard is blind to by construction.** Checking each added paragraph against **its own file's base** at eight words raised exactly two:
+
+- **`chapter-0264.md:89`** — the added paragraph carries *the crack has been in the glass **since before she came into the room** and*, and base `:85` reads *The broken light in that window has been broken **since before she came into the room** and she has never had it mended*. **This is a deliberate canon join and not a lift: the base dates the broken light, and the added paragraph dates the crack in the pane by the same words, because base `:85` and `:89` are one defect seen twice and the eight-word run is the mechanism of the join.**
+- **`chapter-0293.md:69`** — the added paragraph carries *to **the shed at the end of the cut** and*, and base `:3` reads *The shed at the end of the cut is about nine foot by eleven as well*. **That is a proper-noun place-name established at base `:3`, and an eight-token run that is a name is not a lifted prose run.**
+
+**Neither is charged.** Both were read in place against the base line they echo, and a name and a canon join are not prose duplication. They are recorded because **a cross-file guard cannot return either of them, and reporting "0 rejections, nothing found" without naming them would be reporting the guard's verdict instead of the reading's.**
+
+**Three — figures. No added paragraph in this range prints a figure that is not on the page of its own chapter.** The number-word screen enforces this mechanically and returned zero across all 124 paragraphs: every number word in the added prose is present in the base of the file it stands in, which is item 265's bar and it holds. Spot-checked against canon and all sound: `0278:19`'s *sixty children* and *nine years* are `0278:17`'s own; `0277:57`'s *four hundred and forty foot*, *about ninety-one households*, *about nineteen years* and `0298:69`'s *four hundred and forty feet of bank* and *about nineteen people* are the bank's canon and agree across the volume; `0290:79`'s *girl of seventeen* is the reader of seventeen and the paragraph uses her only to say a rate is findable on a list while a season is not, which is the volume's argument and not a thank; `0295:11`'s *about nine inches deep*, *about two feet across* are base `:3`'s rack and base `:11`'s.
+
+**The two unpayable base defects stand recorded and untouched.** `chapter-0259.md:41` carries a doubled quotation mark at both ends of a speech — outside this range, in its own base, and one of only **3** occurrences of `""` across all 620 chapters, the other being `chapter-0465.md:39`; **both are artifacts of the original writer pass and fixing either is a deletion against base.** `chapter-0262.md:109` says *a room with four people in it* where the room holds two — **inside this range, in base, and fixing it is a substitution against base, which this repair holds no authority to make.** Its three added lines (`:13`, `:45`, `:123`) carry no instance of *four*, *people* or *room* between them and agree with neither count; that was checked for exactly this reason and the added prose is clear. **`chapter-0300.md` was read and not opened and is excluded from every figure above.**
+
+## The locks, each checkable, each with its citation
+
+Every lock was re-screened on the **landed** added prose of all 124 paragraphs, not merely asserted.
+
+| Lock | Result | Citation |
+|---|---|---|
+| no hearing, and no arrangement of one | **holds** — 0 | `hearing` 0 in added prose |
+| no notice, post, commission, warrant, office, new heading, new form | **holds** — 0 | `warrant` `commission` `post` `office` **0**; the single `notice` hit is the **verb**, at `274:43` *because there was nothing else in the room to notice* — read in place, not the sealed instrument |
+| no House named | **holds** — 0 | capital `House` **0**; the two `house` hits are lowercase and are a dwelling at `280:81` and at `291:105` |
+| no seat or office named | **holds** — 0 | `seat` 0, `office` 0 |
+| no romance, and nothing implying one | **holds** — 0 | `kiss` `love` `loved` `heart` `wed` `wedding` `betroth` **0** |
+| nobody thanked anywhere | **holds** | the one `thank` is a **negation** at `286:73`, *Nobody in this matter has ever thanked anybody for not being asked for* |
+| do not thank the girl of seventeen | **holds** | `0290:79` names her and does not thank her |
+| the count stays at seven and does not become eight | **holds** | `seven` and `eight` occur **0** times in the added prose; the repair touches no asking |
+| do not give anybody the sixteenth book | **holds** — 0 | `sixteenth` 0 |
+| do not fund, pay or forgive the Lowcross bill | **holds** | four `paid`/`pay` hits, all clear on reading: `286:73` *nobody … has ever paid anybody*, a negation; `288:37` *no board can be said to pay for*, abstract; `298:63` *a day he was **not** paid for*, a negation and about his own day; **`298:69` *a bill nobody is liable for … not one of the three has been paid*, which affirms the lock rather than breaking it** |
+| do not light the lamp before about the seventh hour | **holds** | `0297:29` *the lamp was **not** lit yet*; the *lamp lit three hours early* at `0297:49` is a **restatement of base `:47`**, which has the woman of about forty do exactly that and gives the reason — *it is not lit until about the seventh hour and she was early* — and `0297:75` has it lit after she came at about the seventh hour |
+| do not walk the four hundred and thirty miles | **holds** | `0299:81` *the whole of it undone*; `0298:69` *a very long way of river between him and every one of them* |
+| no new fixture in a room whose list is closed | **holds** | 17 candidates raised, 17 cleared, cited above |
+
+## What is left, with the repaired extent re-measured and not carried
+
+**The repaired extent, re-derived on the working tree.** `git log --format="%s" -- chapters/volume-01 … chapters/volume-05 | grep -vicE 'save writer work|save review fixes|checkpoint'` returns **0**: **no non-batch commit touches Volumes 01 to 05 at all**, so those two hundred and fifty chapters have never been through the prose repair, and `620 − 7 − 363 = 250` holds with the seven exclusions being `0300`, `0350`, `0400`, `0450`, `0500`, `0550` and `0620`. Repaired: **Volume 06 at 0251–0299** (forty-nine of fifty), **07 at 0301–0349**, **08 at 0351–0399**, **09 at 0401–0449**, **10 at 0451–0499**, **11 at 0501–0549**, **12 at 0551–0609** — **353 chapters, and 363 with the ten that carry the earlier first-round repair.** **The largest untouched block remains Volumes 01 to 05 at two hundred and fifty chapters**, and it is now twenty-one times the size of the largest untouched stretch in any repaired volume.
+
+**Two method notes, both paid for here, because this run got both wrong before it got them right.** **One: a repaired-extent count built on `--grep="prose repair"` undercounts.** It returns **12 commits and 225 chapters** on a manuscript whose record is 363, because repair landings were sometimes committed under writer-style messages naming a prose-repair workspace — `9f1e0e7` *save review fixes prose-repair-0024*, `76d3f7a` *save review fixes prose-repair-0022*, `23d7836` *save writer work prose-repair-0022* — and a message filter cannot see prose. **Two: the opposite route, "does this chapter differ from its volume's writer-pass base", overcounts, and it overcounts by twenty-three for a reason worth naming.** Selecting each volume's base as the last commit matching *save writer work batch-N* or *save review fixes batch-N* picks `ddc5f2e` for Volume 03 — because Volumes 02 and 03 were closed by a commit reading *save review fixes volume-close*, which that pattern does not match, so batches 0004 and 0005 of Volume 03 are invisible to it and their original text is counted as a repair. That route returns **386** where the record is 353. **The checkable route is the direct one: count the non-batch commits touching each volume and let a volume with none of them be unrepaired.**
+
+**And one measurement error of my own, corrected here rather than left to be inherited.** This run first counted the range's words with `m.TOKEN` and got **72,527**, against the prompt's **72,836**, and was on the point of recording the prompt's figure of record as not reproducing. **It reproduces exactly — under `tools/measure.py`'s own method, which is `sum(len(line.rstrip().split()) for line in handle)` and not `m.TOKEN`.** The two methods differ by exactly **309** on this range at base and exactly **309** on it now, so `72,527 + 6,609 = 79,136` and `72,836 + 6,609 = 79,445` are the same addition counted twice, and **the prompt's figure and item 273's and item 287's arithmetic are all correct.** `m.TOKEN` is the prompt's method for the four construction lists and `measure.py words_in_file` is this project's method for word counts since Volume 01; **they are not the same counter and a phase that uses the wrong one will report a 309-word error on this range and call it a discrepancy in the record.** Recorded because the prompt's own warning — *a figure you did not re-derive on the tree is a figure you inherited* — has a mirror image, and the mirror image is a figure you did re-derive on the wrong instrument.
+
+**Nothing else is owed from this range.** `state/current.md`'s Volume 06 row (109,704 / 2,194) and manuscript total (1,496,548) were re-run and already read the re-derived figures, so neither was amended for arithmetic. No chapter was opened for edit, no outline was opened for edit, `outline/ending.md` was not opened, `tools/measure.py` was not edited, no volume was planned, no Volume 13 was created, no next-phase prompt was created, `state/complete.md` was not written and does not exist, and `state/phase-ledger.json` is controller-owned and untouched.
+
+**The item is 288.**
