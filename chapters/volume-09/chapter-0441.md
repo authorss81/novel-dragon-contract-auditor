@@ -18,7 +18,7 @@ Marn Ottery was not at the boards. She was at the far end of them, on her knees,
 
 He put the four on the boards and squared them and did not say anything for about the length of a sheet being squared, and he did not go to the far end, and there was nothing in that room for him to go and look at that he had not already seen from nine foot away.
 
-He kept his hands on the edges until the corners sat even, and then he lifted them clear and stepped back. The habit was old enough to run without looking, and he watched the far end while his hands did the work.
+He lifted his hands clear and stepped back from the boards. The habit was old enough to run without looking, and his eyes went to the far end and stayed there while his hands did the work.
 
 ---
 
@@ -32,7 +32,7 @@ He kept his hands on the edges until the corners sat even, and then he lifted th
 
 He said it to the boards, which is how the woman at the far end of those boards says everything she has ever said in that room, and he put his hand flat on the deal about a foot from hers and did not touch it, which he has done twice in two years and neither of the two times was about a box.
 
-Neither of them moved the hand back at once, and the deal took both of them the way it had taken both of them twice before.
+Neither of them moved the hand back at once, and the deal was all either of them was touching.
 
 ---
 
@@ -72,7 +72,7 @@ He had put fourpence into the ordinary place at the near end before he went down
 
 **He is not going to fill that one in. He has no use for it and he is not going to find one in a year, and he bought it in the fourth hour of the fourth day of the third week of the last month of the year, and nobody at the top of that stair has been told any of that and nobody is going to be, and he is not going to be thanked for buying it and he is not going to be asked what it is for.**
 
-He got it inside his coat at the foot of the stair without breaking his stride, and not once in all of that did he glance down at it. The fold stayed square where his palm had held it, and his hand went into the pocket after it and stayed there.
+He got it inside his coat at the foot of the stair without breaking his stride, and not once did he glance down at it. The fold stayed square where his palm had held it, and his hand went into the pocket after it and stayed there.
 
 ---
 

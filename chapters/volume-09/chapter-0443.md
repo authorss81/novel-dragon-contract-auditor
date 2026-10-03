@@ -46,7 +46,7 @@ The far side had emptied behind him by then, and neither of them looked back onc
 
 **And that is the price, and it is entered in a man and not in a figure. The one person in this matter who goes to places and cannot be told anything has been on a road with a box for about a quarter of an hour, and a courier is findable in a way that nothing else on that road is findable, and there is no form anywhere for asking a man to forget what he saw, and the man who carried it could not have prevented it and would not have been thanked for preventing it.**
 
-The road went on making its own noise under his boots, thin and even. The box gave nothing back to it, lid shut and sides mute, and he matched his pace to the long stretch ahead.
+The road was thin and even under his boots the whole way, and the box made no sound of its own with the lid shut, and he matched his pace to the long stretch ahead.
 
 ---
 

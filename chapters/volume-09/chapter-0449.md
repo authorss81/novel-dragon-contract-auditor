@@ -18,7 +18,7 @@ It is the fourth day of the third week of the second month of the year after the
 
 "No. There is one thing coming and then my hands are going back on these boards and that will be the end of it. **You are not the one who is going to carry that box anywhere and neither am I, and I have known it since the week the box came out from under the end of those boards, and I have never once been going to be the one to say it aloud, and neither is it going to be you.**"
 
-The boards took their hands back when the talk paused. Palms flat on the deal and fingers spread, neither woman moved until the talk started again.
+The talk stopped with it, and not one of them had a hand on the boards, and neither of them moved for the length of the pause.
 
 ---
 

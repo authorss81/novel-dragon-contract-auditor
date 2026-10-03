@@ -54,7 +54,7 @@ He came back down at about the sixth hour and a quarter and he went out through 
 
 For about twenty years the whole of what that house had was that nothing in it could be shown. A man has now been up those stairs and down them again, and she saw him, and she is the one person on that ground floor that anything could be shown about, and she has not said one word and she cannot take back the seeing of it.
 
-The boiler gave off its steady warmth into the room. She stood beside it a while with her arms folded, and the heat worked into her sleeves.
+She stood beside the boiler a while with her arms folded. She went on standing there, and nothing about her changed.
 
 ---
 

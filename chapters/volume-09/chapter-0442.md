@@ -28,7 +28,7 @@ His eyes did not lift off the sill at any point of that, and they have not lifte
 
 **And there are about nine sheets a year that are not what the person above him wrote, and he knows which and has known since the spring, and he has never once written one of them down and there is nowhere in this empire to write one down. This is a different thing. It is the first one he has had that is not a number, and it is going to stay in him for the rest of that year, and there is no pot on that sill for it.**
 
-The hook over the sill held nothing by the time the morning wore on. Bundle after bundle went down the stair in other hands, and the sill kept only the dust along its edge and the groove where the pen rested.
+Every bundle which came up there in the morning went back down it in other people's arms, and not one of them went down the way it came up.
 
 ---
 
@@ -56,7 +56,7 @@ He said it to the sill and not to a man, and it is the sort of thing he is right
 
 "You have not said a thing to me in two years and I have come up this stair about a hundred times in two years and there has not been one of them in it where either of us said a thing to anybody."
 
-The pot stayed where it stood and his hands came off the sill. The young man went on at his window, and neither of the two of them filled the quiet again.
+The pot stayed where it stood and his hands came off the sill, and for a while neither of them had anything to put into the corridor.
 
 ---
 

@@ -24,7 +24,7 @@ The man on the step kept his face to Marek Kest and did not once look past him i
 
 He said all of that to the middle of the floor of the room and not to the man in it, and then he held it out and did not let go of it until Marek Kest had it in his hand, and then he put it down on the table, which has had nothing on it for two years and has a thing on it now.
 
-The table took the weight of nothing most days, and now it bore a single folded sheet. It lay where he had set it, slightly off square, and neither man squared it.
+It lay on the table slightly off square with the fold still in it, and neither man squared it.
 
 ---
 

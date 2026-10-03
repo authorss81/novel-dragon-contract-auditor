@@ -44,7 +44,7 @@ One of them got up. She did it without a word and without waiting to be told the
 
 The other one stayed where he was on the bench at the back and did not look round at her, and did not get up, and did not say anything, and that is the same as not being spoken to and neither of them is spoken to.
 
-The shed held the two of them without a sound and neither one was the whole of the room. Four foot of floor stood open between the bench and the board, and nothing was set down across it before the lamp went out.
+Neither one of them was all of the shed, and there was no sound in it. Nothing was set down on the floor between the bench and the board before the lamp went out.
 
 ---
 
@@ -52,7 +52,7 @@ The man at the open side stood there until the lamp had burned for about as long
 
 Nobody in this empire can be written into a record as a man who stood at an open side and was shown nothing, and there is not going to be a form for it either, and that is the arrangement, and it is everything that shed has to give anybody who stands at the open side of it.
 
-His boots found the same worn line up the middle of the lane. The sound thinned as he went, and the shed kept it a little after he was out of sight.
+His boots found the same worn line up the middle of the lane. The sound of him thinned as he went and did not carry as far as he did.
 
 ---
 

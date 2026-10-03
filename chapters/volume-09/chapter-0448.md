@@ -12,7 +12,7 @@ He stood it up on the table against the base of the wall, at the end nearest the
 
 **About four feet of wall beside that window has been bare for the whole of the two years and there is a nail in it that went in crooked and nothing has ever hung off the nail. The paper is not on the nail. It is standing on the table at the foot of that wall, and the wall is bare above it, and he has used the wall and not the paper for nothing, which is the whole of what he has done about it.**
 
-The face of it was still blank when the week ran out. The room went its ordinary round around it every working day and found nothing in it worth stopping for, and nobody squared it and nobody set anything else down beside it.
+The room went its ordinary round around it every working day and found nothing in it worth stopping for, and the whole week went by without one thing being said about it in the room.
 
 ---
 
@@ -28,7 +28,7 @@ He said it before he was asked for it and nobody asked him for it, and that is t
 
 "I have come up those stairs and I have not been in this room for about three months. I have come now because there is a piece of paper with nothing printed on it standing on that table, and I am not the one who is going to take it. I have not come in here to be thanked and I have not come in here to be asked anything, and there is not going to be a question in this room while I am standing in it."
 
-The step held him neither in nor out. He kept his hands where they could be seen, empty and still, and made no move toward the table.
+He came no further up the step than he had, and he made no move toward the table, and his hands stayed in front of him where the man in the room could see them.
 
 ---
 
@@ -42,7 +42,7 @@ He could have asked. There is a man in this matter he would want a sentence fini
 
 "Nothing has been in my coat since a week ago, and if I were to ask you about the inside pocket of that one you would tell me there is nothing in it, and neither of us would find out one thing by it, and I am not going to ask you."
 
-Both of them were still in their coats, and the one on the step had not come over the threshold and Marek Kest stayed back from the doorway.
+Both of them were still in their coats, and Marek Kest stayed back from the doorway the whole time the other one was on the step.
 
 ---
 
@@ -52,7 +52,7 @@ Then the man said the thing he had come about, and he said it to the paper on th
 
 Then he stopped, and he had said more than he had come to say, and neither of them found out what to do about that.
 
-It stood on the table with the fold out, and nobody moved it again.
+Not one of them touched it and not one of them said one word about it.
 
 ---
 

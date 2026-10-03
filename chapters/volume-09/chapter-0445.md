@@ -32,7 +32,7 @@ Nobody said anything to that.
 
 **She stood at the head of those shelves and she had the answer and she did not give it, and what she had was not a list and it was not in a book and it was the shape of fifteen carts' worth of two fortnightly goings in her own head since she was seventeen, and there is no form anywhere in this empire in which a person is entered as the one who could have said.**
 
-Her hands stayed folded before her, and her stance never shifted. The quiet held while the two men waited, and she did nothing to break it.
+Her hands stayed where she had put them and her stance did not shift while the two of them waited, and she did not move out of the light or into it.
 
 ---
 
