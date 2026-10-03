@@ -16,7 +16,7 @@ The back of the shed is where the light does not get to, and the two of them had
 
 She held the form in her left hand and did the two ends of that shed in the order she does them. The form went with her the whole length of the floor and back again.
 
-The floor of the shed is worn pale in a line down the middle of it where everything goes up and down, and the form was carried on her left side away from her coat, and it did not touch anything on the way.
+The whole length of the shed was the length of one walk and back again, and she kept it off her coat the whole way, and it did not touch anything on the way.
 
 ---
 

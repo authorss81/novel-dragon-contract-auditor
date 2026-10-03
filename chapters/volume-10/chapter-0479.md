@@ -10,7 +10,7 @@ It is the second day of the first week of the tenth month of the year after the 
 
 The young man came the length of that floor and stopped about nine foot off him and said it, and it was ten words, and it was true.
 
-The floor between the two of them went on carrying the ordinary traffic behind the sentence and neither of them stopped what he was doing for it, and the boxes at the loading end went up onto the cart the way they went up onto it every hour of an ordinary day.
+The floor between the two of them went on carrying the ordinary traffic behind the sentence and neither of them stopped what he was doing for it, and the loading end went on being loaded the way it is loaded every hour of an ordinary day.
 
 "**A copy of a copy cannot be traced back to anybody.**"
 

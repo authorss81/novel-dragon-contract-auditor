@@ -28,7 +28,7 @@ The clerk of about twenty-nine did not look up. A book was open in front of her 
 
 "I know it as well. That is the whole of why I said it and not anything else."
 
-The boards of the floor had begun to take the heat of the morning by then, and the sound of the room was the sound a room makes when everybody in it is working and nobody in it is talking, and nothing in it changed until the queue began.
+The boards of the floor had begun to take the heat of the morning by then, and everybody in the room was at work and waiting on something, and nothing in it changed until the queue began.
 
 ---
 

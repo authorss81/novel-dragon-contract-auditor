@@ -34,7 +34,7 @@ He did not come down for it.
 
 The stone did not give it back. He was nine foot up it and the wind came off the terrace and the rack was still on his hip.
 
-It went up the stone and came back down it a different shape, and the wind took the rest of it out of the passage altogether, and there was nobody in the building it could have reached to be given to.
+It went up the stone and was not given back the same, and the wind took what was left of it out of the passage altogether, and there was nobody in the building it could have reached to be given to.
 
 "So I have said out loud in a passage that goes four hundred yards and comes back, in a building where about nine hundred sheets a year go out of a floor, that I am the person a copy could be put in front of without anything sticking to it. No form anywhere in this empire has a line for the one who said that, and no form anywhere in this empire has a line for the one who did not, and you have heard it and I have said it and neither of those is going to be put back.""
 

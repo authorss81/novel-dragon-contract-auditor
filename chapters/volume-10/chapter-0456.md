@@ -12,7 +12,7 @@ It is the second day of the second week of the fourth month of the year after th
 
 The knock came on the front door at about the fifth hour, and it was the knock of a man with something in his hands, and she knew that before she had the door a third of the way open.
 
-The passage had the cold in it that a passage keeps after a night, and the boiler behind the tin made the only noise the ground floor had of its own, and by the hour the cold in it had not gone anywhere.
+The passage had the cold in it that a passage keeps after a night, and the boiler made the only noise the ground floor had of its own, and by the hour the cold in it had not gone anywhere.
 
 He was about twenty-one. He had a cord across his chest and a bundle on his back and about seven shillings loose in his fist, and he had been three houses in two years, and one of the three had been his father's and the other two had not been anybody's fault.
 
@@ -22,7 +22,7 @@ He was about twenty-one. He had a cord across his chest and a bundle on his back
 
 "**You have not written a name down in twenty years and you have taken the rent of about nine of them. The man upstairs and the man behind the coal and the man in the front room have all been in and out of that door, and none of them has ever been on anything, and that is not because you are careful. That is because a person who takes a rent for twenty years without a name is a person who cannot be served with anything.**"
 
-The passage was the width it is and no wider, and the bundle on his back was against the wall on one side of him and the door was against the wall on the other, and neither of them had anywhere to go to be turned round in.
+The passage was the width it is and no wider, and the bundle on his back was against the wall on one side of him and the door was against the wall on the other, and there was nowhere in the width of it for him to be turned round in.
 
 Nobody said anything for about as long as it takes a person to shift a bundle off one shoulder.
 
@@ -48,7 +48,7 @@ She did not take it.
 
 "I am not going to remember it. I am not going to write it down and I am not going to say it back to you, and there is no form anywhere in this empire in which a woman at the bottom of a stair is entered as the one who heard a name. If you want to be found afterwards you will have to be somebody who can be found without me, and there is nobody in this house you can be found through tonight."
 
-She said all of it without moving her hands off the edge of the table, and the passage behind him was still as empty as it had been when he came in, and the coin was still on the wood where it had been put down.
+She said all of it without moving her hands off the edge of the table, and the passage behind him was still as empty as it had been when he came in, and nothing at all had been put down on the wood.
 
 "I did not say it so that you would be in it."
 

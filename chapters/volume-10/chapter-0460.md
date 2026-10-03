@@ -50,7 +50,7 @@ The eleven things take the time they take and not a moment of it is given away, 
 
 At about the third hour and twenty minutes a man of about twenty-six came up those four flights. He stood at the near end of those boards with his hand in his coat, and he is paid for a corner and not for a page. He put nothing down, and nobody in that room told him he did not have to, and he bought nothing and he said nothing for about two hours and twenty minutes. At about the sixth hour he went down the four flights with the corner still in his coat, and there is no form anywhere in this empire in which a man is entered as the one who stood at that counter for two hours and bought nothing.
 
-Nobody at either end of the boards looked at him for the whole of the time he was standing there, and the case went on giving out what it gives out, and the boards went up and came down on the far side of the room, and none of it needed him.
+Nobody at either end of the boards looked at him for the whole of the time he was standing there, and the case went on giving out what it gives out, and the boards went up and came down where they have gone up and come down for eleven years, and none of it needed him.
 
 Nobody was thanked in that room this week. Nobody was forgiven. Nobody was sent for. Nothing was resolved, the arrangement is still standing, and the drawer under that board stayed shut with four things in it and two of them never opened, and the box at the far end of the boards is where it was with the dust on it that was on it at the third hour.
 

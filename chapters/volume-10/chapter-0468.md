@@ -36,7 +36,7 @@ The lid of the box took his hand the way it took it before and let it go again, 
 
 That is when he found out what he had done, and it took about four seconds, and he found it out standing up.
 
-Nothing moved and nothing was said and the lane outside was doing whatever the lane does at the hour, and they found it out at the same moment the way people find out about a thing they have just done together.
+Nothing moved and nothing was said and the lane outside was doing whatever the lane does at the hour, and the finding out of it belonged to one of the two of them and not the other, and it was over before either of them had moved.
 
 "So the two of us have just made that box chargeable."
 

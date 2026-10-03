@@ -50,7 +50,7 @@ Then she went to the doorway.
 
 She goes to that doorway about six times a year and she has stood in it about six times since the spring with a sentence that begins *It is not a person who* and stops there every single time, and the man at the front bench has never once asked her for the rest of it and has said so, in those words, and meant it.
 
-The light comes in on one side of the shed and the bright place before the lamp is the one she walks to, and she has never once gone there for any reason except the walk, and nothing about the walk is written down anywhere.
+The light comes in on one side of the shed and the bright place before the lamp is the one she walks to, and it is the only place in the bay a thing can be started in and not finished in front of anybody, and nothing about the walk is written down anywhere.
 
 She got as far as the frame and she did not begin it.
 

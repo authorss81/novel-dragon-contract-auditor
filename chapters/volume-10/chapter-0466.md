@@ -14,7 +14,7 @@ She came into that room at about the third hour and she was fifty-three and she 
 
 She had been about eleven years in that room when she put a question on the shelf under the window with no pane in it and wrote her own name at the foot of it, on purpose, so that she would be a person somebody could go to. **Nobody has gone to her. Nobody has asked her anything. It is still a question, it has never had anything said after it, and it is on a shelf in a room, and it is not going to be picked up this week.** She is not going to be asked about it by anybody, including the man at the sill, who could not read it if it were put in front of him.
 
-The shelf under the window has been under the window for the whole of the nineteen years and nothing has been put on it since, and the window has had no pane in it for the whole of it, and the room has not been cold because of it.
+The shelf under the window has been under the window for the whole of the nineteen years and only one thing has ever been on it, and that was put there by her own hand and has not been taken off since, and the window has had no pane in it for the whole of it, and the room has not been cold because of it.
 
 She sat down and she wrote her line, which is which room stood empty and at which hour and for how long, and then she did not write anything else, and she did it again, and she had been doing it for four years.
 
@@ -50,7 +50,7 @@ Nobody answered her and nobody asked her and nobody thanked her, and the not bei
 
 By a minute past the seventh hour there was nothing left on the hook, and the hook emptied the way it empties, and the nine hundred went out of that building, one at a time, into nine hundred places where not one person knows what stands at the bottom of a page they have never read.
 
-Nothing at the sill shifted under him for any part of it, and the corridor went on being a corridor with nothing in it that anybody in this empire could be shown, and the last of the nine hundred went out of the building the way the rest of them did.
+Nothing at the sill shifted under him for any part of it, and the corridor went on being a corridor with nothing in it that anybody in this empire could be shown, and the last of them went out of the building the way the rest of them did.
 
 **He signed the ones that were square and he signed them the way he signs all of them.** One sheet in about two years came up that stair with the same mark on it twice, and he signed the top of it and did not look up while he did it. There is nobody in that corridor who could point at that sheet and nobody in that building who could point at it, and the one man who has seen it is the one man in the place who would not be able to find it again if he went back down that stair to try, and he has not gone back down it, and nobody has made a thing of it.
 

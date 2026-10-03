@@ -34,7 +34,7 @@ He took his hand off the frame and put it on the rolled thing inside his coat an
 
 "I had it in my head to leave this in that passage. Not with you. On the shelf in the passage, where it would be for whoever came in after me, and it is eight hours of a fair hand at a rate that is a rate and not a kindness, and there is a line in the fourth page of it that does not agree with the line above it, and I have not been able to make the two of them agree in about a fortnight."
 
-The passage behind her had a shelf on it at the height of a person's hand, and the shelf had been on the wall since before she came to the house, and nobody had put anything on it in the whole of the time she has been there.
+The passage behind her had a shelf on it at the height of a person's hand, and the shelf had been on the wall since before she came to the house, and it was the only place in the house a person could leave something where the next one in would find it.
 
 "Leaving it on that shelf is what you came up this street for, and you have not done it."
 

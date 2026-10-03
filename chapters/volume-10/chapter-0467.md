@@ -14,7 +14,7 @@ He had a sheet rolled inside his coat. It was eight hours of fair-hand work at a
 
 He stood at the end of the boards for about an hour and a quarter and he did not put it on the counter and he did not ask for a second of it, and **nobody at that counter asked him one thing in the whole of that hour, which is the arrangement, and the arrangement has held for four years at the two joined tables and eleven years at the far end.**
 
-The rolled sheet stayed inside his coat for the whole of the hour and came out of it at the same angle it went in at, and the near end of the boards went on doing what the near end of the boards does, and he was in the way of nothing and nothing was in the way of him.
+The rolled sheet stayed inside his coat for the whole of the hour and did not come out of it at all, and the near end of the boards went on doing what the near end of the boards does, and he was in the way of nothing and nothing was in the way of him.
 
 ---
 

@@ -48,7 +48,7 @@ Her hand went across to the shelf behind the boiler, which is where it has gone 
 
 She stood with the coin in her hand about four seconds.
 
-The boiler made the noise it makes behind her and the coin stayed in her hand through all of it and the lid of the tin stayed where it sat, and the shelf behind the boiler took nothing from her hands and had not taken anything from them for the length of the evening.
+The boiler made the noise it makes behind her and the coin stayed in her hand through all of it and the lid of the tin stayed where it sat, and the shelf behind the boiler took nothing from her hands for the length of it.
 
 A coin in a tin behind a boiler, in a house where nothing is ever written down, is the only figure in that house anybody could ever be shown. Nobody is going to arrive to be shown it. And the week somebody wants to know what is in that tin is the week that house acquires a heading over it, and it is never going to acquire one.
 

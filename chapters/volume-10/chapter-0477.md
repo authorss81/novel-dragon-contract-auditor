@@ -10,7 +10,7 @@ It is the fourth day of the third week of the ninth month of the year after the 
 
 She was fifty-three, nineteen years in that room, and the minutes of it are hers to keep. She advises nobody. She has not put a thing to that room in about four years.
 
-Her table is against the same wall it has been against for the whole of her time in the room, and the chair under it has not been moved in any of it, and the door of the room is a door people walk through without stopping inside.
+Her table is against the same wall it has been against for the whole of her time in the room, and nothing has ever been stood against the wall but the table, and the door of the room is a door people walk through without stopping inside.
 
 Her own finding is on a shelf under a window with no pane in it. It is a question with no full stop and her own name written at the foot of it, and she put it there on purpose, in about the eleventh year of her being in that room, so that there would be a door in that room with her name on the frame of it and somebody could walk through. **Nobody has gone to her. Nothing has been put to her. It is still a question, it has never had a single thing set down after it, and it is not going to be picked up this week, and the man at that sill could not read it if somebody did put it in front of him.**
 

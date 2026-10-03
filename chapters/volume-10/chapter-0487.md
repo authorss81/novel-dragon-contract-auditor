@@ -44,7 +44,7 @@ The stair took him down four flights and out of that street, and the lamp at the
 
 Then a dog started up somewhere in the next street, and he stopped on the second step going back up with the satchel against his hip, and the young man at the loading end was still at that counter with the boards in front of him.
 
-The stair went back to being a stair with the two of them on it at different ends of it, and it made the same noise under both of them that it had made under either of them all morning, and that was all it made.
+The stair went back to being a stair with him on one step of it and the other one of them where the morning had put him, and it made the same noise under him that it had made under him all morning, and that was all it made.
 
 "You are not going to have said that to me," the young man said, without turning round.
 
