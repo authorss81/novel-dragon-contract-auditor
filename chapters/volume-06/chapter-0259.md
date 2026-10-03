@@ -8,9 +8,15 @@ It is the second day of the first week of the second month of the year after the
 
 The work itself took about four minutes and it is the whole of what he does four times a season, and he has never told anybody it is the whole of what he does.
 
+The four steps are stone and the top one is worn into a shallow bowl in the middle where about nine weeks of feet have gone on and off it, and the door above has a bolt on the inside and a hasp on the outside, and neither of them has been locked since the last person went down the lane.
+
+A window beside the door is about the width of a hat and it looks out on the backs of two houses and a strip of yard, and a man standing there with his back to the door sees very little of it and never sees where it goes.
+
 A man of about sixty came in at the second hour with a day-book under his arm and a sum at the bottom of it that he could not get out fair. A man of about thirty-four copied it out four times in a hand that does not shake, and the man of about sixty read all four back and said that the third one was the one, and he was right, and he said so. Then he said that a man who can do that ought to be doing more of it than four times a season, and he has been told that by about nine men in about four years and it has never once been a form of anything.
 
 A man of about twenty came up the lane with an empty barrow and stopped at the foot of the four steps, and he had come about four miles, and he did not come up.
+
+Below the floor the shop keeps what it sells, and the smell of the oil and the tar finds its way up between the boards, and it is strongest in the doorway and gone by the time a man has reached the top step, and it has been strongest there for about nine years.
 
 "I have got one thing to say and I have walked about four miles to say it because you are the only one anybody could say it to and I would rather say it on a step than in a room with nine men in it."
 

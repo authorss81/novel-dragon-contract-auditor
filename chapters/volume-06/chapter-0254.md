@@ -6,6 +6,12 @@ She is twenty-four and she is a clerk at the fourth counter of the Notaries' Tab
 
 It is the fourth day of the fourth week of the twelfth month of the year after next, and it is about the seventh hour, and the lamp is lit, and the day is over.
 
+The lamp is the same shape as the one in the room where she works and it is older, and the shade has been mended once with a strip of cloth of a different colour, and the mend is the only part of it anybody has ever looked at.
+
+The window looks out on the back of another house at a distance of about a foot, and what comes through it is mostly the other house's wall and the strip of sky above it, and on a wet night the wall weeps and the sound of it is the sound of somebody in the next room not being asleep.
+
+The board on the wall is a strip of deal about the length of her forearm with four nail holes in it, and no use has ever been made of it, and she took it down off the wall once in about two years and hung it up again the same way.
+
 ---
 
 Nobody asked her one thing.
@@ -91,6 +97,8 @@ There is a rule from the fourth of the first month that she made for herself and
 It needs something in the room to act on, and there was nothing in the room to act on, and a thing exercised without a reason stops being hers about four days after it stops needing one. She has watched about nine people in this city make a thing out of a habit in her time at that counter and every one of them ended up with a heading over it, and she is not going to be the tenth thing that happens to a room in this city.
 
 There are four of them in the drawer under the table and not one has been opened, and there is not one form anywhere in this empire that says a person has to send one of them, and she looked at the drawer and shut it.
+
+The drawer runs on a runner of about half a foot of bare wood and it has to be pulled at both ends, and the four of them in it are not a bundle and are not tied together, and they have gone against each other where they lay.
 
 ---
 

@@ -12,13 +12,21 @@ It is the second day of the first week of the twelfth month of the year after ne
 
 He wrote the day's tally out from about the fourth hour on a sheet of his own that went in under the bench, and he wrote it fair, and he wrote the nine names and the day's work against each of them and the number of the hold where the water was, and the number of the hold has not moved since the fourth week of the fourth month of the year after.
 
+The cut is four foot across where the men stand and the boards over it are old enough that the grain has gone soft at the edges, and a man has to put his weight in the middle of them or the whole floor gives.
+
 A foreman reads a tally and a foreman signs it and the hand that signs it does not have to be fair, and the hand that writes it out fair is the one nobody ever looks at. He has known that for about eleven years and he had never once said so out loud until a man of about fifty-five with a chain said a version of it in a yard in a different month, and the version the man with the chain gave was better and he told the bay so at the time.
+
+He wrote it with a nib worn into a curve, and the ink stood up in the downstrokes where the nib had not quite taken, and he blotted the second column because the first one had taken too much and spread.
 
 "Put the third one down as half," said a man of about twenty, from the doorway, about the fourth hour, and he put it down as half.
 
 ---
 
 Nothing happened in that bay for the rest of the afternoon, and that is what a bay is for, and he had asked for about four years of it before anybody told him that asking for it was not possible.
+
+No door has ever been put on the north side of it, and the cold comes up off the water underneath the boards in the winter and goes out again by the middle of the afternoon, and nobody has ever tried to stop it.
+
+The hold was working the whole afternoon and the noise of it came up under the floor and sat below everything else in the room, so that two men could talk in an ordinary voice and be heard at the bench and not at the far end of it.
 
 Marek Kest put his hand into a bucket of stones at about the fifth hour and worked until about the sixth, and said one thing, and said it to the wall and not to anybody.
 

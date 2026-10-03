@@ -6,6 +6,10 @@ She is a foreman of fifty-one and she has been in a box since the first week of 
 
 It is the fourth day of the third week of the first month of the year after the year after next, and it is raining, and she is in a store with the key because the key hangs on a nail inside and there is nobody to hand it to.
 
+The bench is stone and it is damp through along the wall side of it where the wall is lowest, and the paper has been put at the dry end every time, and the three pieces of it have been moved about on a stone surface with a wet cloth and they have not been damaged by it, which is not to their credit.
+
+The roof over the store is a single slope of slate with a gap at the ridge where the slates do not reach, and in weather the water comes in along the ridge in a line about a hand wide, and it crosses the floor from the far wall to the door and out under it, and the line of it has been marked on the stone in a darker colour for longer than the bench has been in use.
+
 She had walked the four hundred yards from the bay in about six minutes in the rain, and she had not gone into the bay first, and that was on purpose. She had stood in the lane and looked at the light in the bay window and worked out that if she went in there first she would not come up this road, and that was the whole of the calculation and it took her about four seconds. It is about four hundred yards there and about four hundred yards back and there is no bus on it and nobody has ever walked it for her.
 
 She came because the rain was on the third week and the store is dry and the key is hers on the day she keeps it, and that is the reason she came, and it is not a good reason, and she would like it recorded that she looked for a better one for about four minutes and did not find one.
@@ -87,6 +91,8 @@ And about nineteen people are still behind that bank, who said no again in the s
 She put the sheet back on the bench with the crease at the bottom, because that is the way it came and she has never been able to find out since whether that is the way it should be or only the way it was.
 
 She put the key back on the nail inside and pulled the door to, and a hired stone store has a door that does not shut. The rain came on it for about another hour and then stopped.
+
+The nail inside is not a hook, and the key hangs on it by a loop of tarred twine that has been knotted and unknotted so many times that the knot is now the shape of the key and does not go over it.
 
 On the way back she went the other way, past the end of the bay, which adds about four minutes and takes her past a gate she does not have anything to do with. There were two men about forty yards off doing a thing to a post and they did not stop and she did not stop, and one of them said good evening to her in the ordinary way about four hundred yards from a building with three pieces of paper in it, and she said it back, and that is the whole of what passed between them.
 

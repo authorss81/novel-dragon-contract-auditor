@@ -2,6 +2,10 @@
 
 A rail about four feet high runs across the hearing room at the other end of a passage that smells of cold stone whatever the season is, and the shelf with the eleven books on it is in a room on the ground floor behind you, and the window in that room is about two feet wide and has a pane out of it.
 
+The rail is oak and it has been planed once and then varnished so many times that the grain has filled and come up again, and it stands about four feet off the far wall, and there is a gap at one end of it about the width of a man, and nobody has ever stood in the gap or explained it.
+
+The passage runs down into the ground floor and comes up on the far side, and the flags on it are worn into a hollow in the middle the whole length of it, and a person walking it in the dark can do it without a light because the walls are close enough on both sides to be felt.
+
 She is a clerk of about fifty-five and she has been in that room nineteen years and she writes the minutes and advises nobody and asks nothing. It is the second day of the second week of the second month of the year after the year after next, and a man has come in about nine miles with a sheet that has a heading over a column on it and his own hand at the foot of it, and he is sixty-one.
 
 ---
@@ -29,6 +33,8 @@ He stood on the wrong side of the rail for about four minutes before he said any
 "There is a column on that sheet for the answer, and there is no column on it for a refusal. I have known that for eleven years and I have never said it out loud in a room, and I have signed about nine hundred of them."
 
 He put his thumb on the rail.
+
+The rail takes the weight of an arm. It has been leaned on by about nine hundred hands a year for nineteen years and it has been re-varnished twice and both times the varnish went on over the marks the hands had left, and the marks are still in it under the varnish and can be felt with a thumb.
 
 "Three hands and a seal. The first hand writes the body and it is a clerk's hand, and it cannot be asked anything, because a clerk in this building advises nobody. The second hand is mine and it is at the foot and it answers for everything above it. The third thing is the office, and an office cannot be asked anything either, and cannot lose, and can hold a matter for as long as it likes."
 

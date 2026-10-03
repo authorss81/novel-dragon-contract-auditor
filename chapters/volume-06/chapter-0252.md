@@ -6,9 +6,15 @@ She is a dye-house worker, which is what she is paid for, and she keeps the book
 
 It is the second day of the second week of the twelfth month of the year after next. Her wage stopped in the second week of the third month of the year after and it is stopped now, and the word for it is held. The money for the nineteen days she has worked since the year turned is in a weigh-house ledger in this town with her wage in it and not her name under it. She has never once written down what she is owed, and she has counted what nine people in that lane are owed about nine hundred times.
 
+The shelf goes up past the top of the door frame on the wall opposite the window, and the two lowest shelves are bowed with the weight of the ones above them, so that the books on the bottom row have to be taken out sideways and stood against the wall while anybody reaches over them.
+
 ---
 
 She had told one of four women and she had decided to go and tell the other three, and this was the second woman of the four and the first of the three she had not told. It was about four hundred yards down the lane, and she did not add that up either, and she has not added up the going in three years.
+
+The light in the room comes off the lane through a single pane and about half of it is inside, and the other half is on the wall opposite, and she works at the second half of it because that is the half the table stands under.
+
+The ink in this town freezes in the month she came down the river and thins again in the spring, and she has bought the same kind of bottle from the same shop in the same lane for about three years and has never once asked them to make it stronger.
 
 There is a reason for that and it is not a good one. A woman of thirty-five tried to add a sum out loud once in a room in this city and came out wrong by about a week's rent, and was then asked in about nine minutes by a man at a counter to say where the number came from, and could not, and went home about four hundred yards on foot and told nobody. **There is not one form anywhere in this empire for a woman to be asked to show her working**, and a woman who shows her working shows a person the inside of her head as well, and a person who has seen the inside of your head can say anything about it afterwards and there is nothing that will make him prove it.
 
@@ -29,6 +35,8 @@ The woman of thirty was called out from a back room with her sleeves up and did 
 Nell Kest told her. It took about nine minutes and it went the way she had worked out it would go and not any other way, and the woman did not cry and did not offer money and did not ask her to prove it.
 
 Then the woman went and got the book, which took about four minutes, because she had asked for it once before and had been refused politely, and she had a page marked with a knotted string, and she put it on the bench and put her own hand flat on the line that was hers.
+
+The string she marks a page with is the string off the neck of a bottle and it goes round twice and the knot sits in the middle of the fold, so that a page can be found with two fingers without the book being opened at the wrong place.
 
 "Tell me what that is called," she said.
 

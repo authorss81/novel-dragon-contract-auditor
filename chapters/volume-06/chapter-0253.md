@@ -6,9 +6,15 @@ She is thirty-four and she has been a clerk here eleven years and she is not a l
 
 It is the fourth day of the third week of the twelfth month of the year after next. There are about four people in that room: a clerk of thirty-four at the counter, a woman of twenty-four at the other end of it, a man of about thirty who does the copies, and a woman of about twenty who has been there a year and who is not in this matter at all.
 
+The stair is stone to the turn and wood above it, and the wood has worn into a hollow in the middle of each tread where four or five hundred pairs of boots have gone up it in a year, so that the hollow is the only part of the stair that is not level.
+
+The counter itself is two lengths of board laid across the end of the room with a space behind them wide enough for a person to stand in, and she sits or stands there all day and nobody can see her hands from the front of it.
+
 ---
 
 About four hundred bought and unfilled blanks are in a box under that counter, and there is no form anywhere in this empire that says she may keep them, and she keeps them, and nobody has ever asked her to account for them.
+
+The box is a wooden one with a hinged lid and no hasp, and it has to be pulled out into the light to be counted at all, and in eleven years it has been pulled out into the light for no reason that anybody has entered anywhere.
 
 She said out loud about four times a year, to the box, that a blank is the only piece of paper in this empire that cannot be held against anybody, and she said it once to a colleague and it is the only true thing she has said to another person in eleven years that was not about a price.
 
@@ -29,6 +35,8 @@ The fourth line she has asked two people about. Both of them said they did not k
 ---
 
 The ordinary work went on in front of all of it, and about nine people came up that stair in that day and about four of them wanted something out of her and got it and said so, and one of them did not.
+
+The copies are stacked at the far end in a pile about a foot high and go up in a week and come down in another, and she squares them twice in the hour because a stack that has been squared is a stack somebody has looked at.
 
 A man of about sixty came for a copy and paid fourpence and she read it back to him twice and he read it back once and said thank you, and she told him that was the ordinary way and not a favour, and she has told about nine hundred people that and it has never once made one of them come back.
 

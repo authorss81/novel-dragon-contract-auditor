@@ -6,6 +6,10 @@ She is about fifty-five and she has been a clerk here nineteen years and she wri
 
 It is the second day of the second week of the first month of the year after the year after next. There are three clerks in this building and she is the oldest, and the other two are a man of about thirty who has been in that room four years and a woman of about twenty-six who came in about four years ago and is not in this matter and has not been in it.
 
+The shelf is a plank on two uprights and the eleven books stand on it in the order they were opened in, and the two of them opened most are at the end nearest the door because a clerk reaches for them without turning round.
+
+The window has not been glazed since before she came and the hole in it is about the size of her hand, and in the winter the cold comes through and lands on the second book on the shelf and nowhere else in the room.
+
 ---
 
 In about nineteen years not one of those eleven books has carried the name of a person who was in a box. There is one line in one of them that has a name at the foot of it, and she wrote that line herself, in her own hand, on the fourth day of the third week of the ninth month of the year after next, at about the sixth hour, and nobody asked her to.
@@ -37,6 +41,8 @@ The second is a foreman of fifty-one on a bank about four hundred and thirty mil
 The ordinary work went on.
 
 About nine sheets came in in that day and she entered all nine correctly, in a hand that does not vary, and on the front of each one there is a heading and under the heading the body and under the body a space with a day on it, and at the foot of each one there is a second hand.
+
+Her hand does not vary because she was taught it in the first year not to vary it, and the reason given to her was that a hand which varies is a hand somebody can be asked about on the day it varies, and she has never found out whether that was true and has never tested it.
 
 **The second hand is the only one of the three that can be asked.** The first hand is hers and it writes the body and it cannot be asked anything, because a clerk is a person who advises nobody and is a person nobody needs. The third thing on the sheet is the office, and an office cannot be examined, cross-examined, embarrassed, sued, fined or committed, and it cannot lose, and it can hold a matter indefinitely, and there is no person in it to say yes or no to anything.
 

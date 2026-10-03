@@ -6,6 +6,10 @@ It is the fourth day of the fourth week of the first month of the year after the
 
 He is a man of about thirty from the second gang, and he has been in that bay about six years, and he is the man who said *about nine hundred of us* out loud in a bay in the eleventh month of the year after next when a foreman told nine men what a class was, and he has carried the number since and has not written it down.
 
+The list of works hangs on the wall by the door on a nail and it is written out fair every week by a hand that is not any of theirs, and the foreman signs it at the bottom and does not rule it, and nine names go on it and stay on it and one of them has not been there since the summer.
+
+The hold is read off a painted mark on the coping outside and the paint has gone at the edges for years, so that the figure has to be read by the shape of the middle of it and not by the ends, and about nine men a day read it and every one of them takes it on somebody else's word.
+
 ---
 
 **And there is a word, and he does not have the thing the word is on, and he has not got anybody to ask.**
@@ -27,6 +31,8 @@ The reason is that a practice is a count of things done and not a count of peopl
 He decided, on the second night of those four days, at a table in a rented room, with nobody sent and nothing in his hand. He has not improved on it and he does not intend to, and he has not worked out whether the man with the fair hand was right, and he has worked out that it makes no difference either way, which is a colder thing to have worked out than the other.
 
 "Is it going to be two," said a man of about twenty-eight, at about the sixth hour, not turning round.
+
+She stands at the bench with a tally sheet in front of her all afternoon and the rest of the room is behind her and not in front of her, and a bay is arranged so that the person who is in charge of it cannot see who has come in without turning round, and that is how it was built and nobody designed it.
 
 "It is going to be one more than it was," said the man of about thirty from the second gang, "and I am not saying the number until I have said the word, and if I do not say the word then the number does not move, and that is the arrangement and I worked it out myself."
 

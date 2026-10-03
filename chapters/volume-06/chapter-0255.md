@@ -6,6 +6,8 @@ He is about fifty-five and he has a chain, and the chain is on him, and he canno
 
 It is the second day of the first week of the first month of the year after the year after next, and it is about the sixth hour, and the lamp is not lit, and he has about an hour.
 
+The bench is a plank on two brackets and there is a vice at one end of it that has been used so much the handle has been turned round and fitted again, and the whole of the shed is nine foot by eleven, which is a room you can cross in four paces and cannot walk in.
+
 ---
 
 There is a cut in the wall at the height of his chest where he used to sit, and it is a cross with a bar through it, and it was cut by a man who worked in this shed nine years ago and who is dead, and it is not a mark anybody uses and it is not about anything and it belongs to nobody who is alive. It is not about the chain either. He has looked at it about four hundred times and he has never once been able to work out why a man who cannot read a paragraph would cut a mark like that, and he has never asked, because there is nobody left who was here when it was cut.
@@ -19,6 +21,8 @@ He is not one of the four, and he has said so out loud in a yard and in a bay an
 There are four in that bay who cannot read a paragraph and he knows all four and he has not asked one of them one thing in nine years and he is not going to start in a shed at the Slade end at the sixth hour on a wet afternoon. He has said why, in about four sentences, about four times, and it is that **writing him down as one of them would be a way for a list of four to go wrong.** There are four, and there are going to be four, and that is the whole of what he can do about it. If there were five then the four would be a class, and a class is a heading, and a heading is how a person becomes a company, and he is a person and he is fifty-five and he has a chain and he is not going to be the reason that happens to four men he works beside.
 
 He works out loud to himself as he oils things, and the working out is the nearest thing to a book he has got, and it is about four seconds a week in a bay and every day of every week in a shed about nine foot by eleven.
+
+The oil is in a stoppered jar on the bench and it has been there through nine winters and it goes thick in the cold and has to be warmed against a hand before it will come out of the neck, and he warms it every working day whether it is thick or not.
 
 He cannot read a paragraph, and he can add, and he has taught himself to count by hand in nine years, and he can carry a number in his head about as far as four hundred and not one step further.
 
@@ -95,6 +99,8 @@ She picked the coat up off the nail at about the seventh hour and did not put it
 **And that is the whole of the price of the evening on his side, and it is smaller than hers and he did not ask for it and he cannot give it back, and he has not been thanked and is not going to be, and there is not one form anywhere in this empire that requires a person to be thanked for a thing they were not asked to do.**
 
 The lamp is not lit until about the seventh hour and they worked for about forty minutes after that in the light of it, and three feet away there is a cut in a wall that a man made who is dead and it is nobody's.
+
+The rain comes off the roof at the corner where two of the boards do not meet and it has been coming off it long enough that there is a strip of floor about the width of a hand which is darker than the rest, and he puts the rag down there and it does not stay down.
 
 She did not say anything else about the hold and he did not say anything else about the four, and neither of them mentioned the four, because there is nothing to be said about the four in a shed and there is a finding in a book four hundred yards up that road which is not his and is not hers and neither of them improved it and neither of them will.
 
