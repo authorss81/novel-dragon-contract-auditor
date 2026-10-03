@@ -66,7 +66,7 @@ A girl of seventeen at the back of that bay on a written engagement at the rate 
 
 The hold has not moved and the water is where it has been, and the second sentence is in her and has been in her since the third month of the year after. About four men in that bay have never been asked one question about a number, and one of them is seventeen and one of them has a chain. A man four hundred yards up that lane wants the rest of what she has and is not going to ask for it, and she has worked out this week that not asking is not a thing he is doing to her.
 
-The bay has about nine in it and about four of them have never read a paragraph, and the hold on the wall is a number and not a document, and four hundred yards of lane separate the bay from a shed and four hundred more separate the shed from a book-keeper's counter, and nobody has crossed any of it in a way that could be written down.
+The bay has about nine in it and about four of them have never read a paragraph, and the hold on the wall is a number and not a document, and it is about four hundred yards of lane from here to the shed at the end of the cut, and it is inside the same four hundred that the ledger is written in, and nobody has crossed any of it in a way that could be written down.
 
 **That is the first new thing she has had since the third month of the year after, and she is not going to say it in a bay.** No instrument in this empire would carry it out of this shed to a person who could do anything about it. She has not got a book and is not going to get one, and a foreman who kept a book would be a thing nine families had agreed to in the open, and they have not agreed to that, and she is not going to ask them to.
 

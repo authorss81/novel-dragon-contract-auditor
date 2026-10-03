@@ -32,7 +32,7 @@ Three. A figure, in a hand that is not his and not the old man's, under that lin
 
 **Three instalments in about forty weeks, and not one of them was collected in a room.** An instalment is a thing somebody asks for, and nobody has asked him for one of them.
 
-Three of them and about forty weeks and a fourth of a year, and not one of the three is a thing he can go back and look at, and a man who puts them together is a man who has been in three rooms and he has not been in any of them on purpose.
+Three of them and about forty weeks and most of a year, and not one of the three is a thing he can go back and look at, and a man who puts them together is a man who has been in three rooms and he has not been in any of them on purpose.
 
 And the reason nobody has asked is that asking him is being able to ask him, and no instrument in this empire would put a man of about thirty-four in front of a person who wants to know what a thing cost.
 

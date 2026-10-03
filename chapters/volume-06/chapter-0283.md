@@ -56,7 +56,7 @@ And then he got to the part of it that took the rest of the four minutes, and it
 
 He has written about four hundred of those ruled lines in about eleven years. Not one of them has ever come back. A line goes out of a room and it is either thrown out, or it is read as a zero and the column is corrected, and in neither case does anything arrive up four steps with a figure under it.
 
-About four hundred ruled lines in about eleven years is about thirty a year, and he has never kept one of them, and a man who keeps nothing cannot be shown a difference between two of them, and that has held for about eleven years.
+About four hundred ruled lines in about eleven years is about forty a year and no more than that, and he has never kept one of them, and a man who keeps nothing cannot be shown a difference between two of them, and that has held for about eleven years.
 
 Because a person who has been given a refusal in a column is a person who has been given a place to put the right answer.
 
