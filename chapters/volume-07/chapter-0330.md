@@ -14,7 +14,7 @@ He went through it again this week, and it is the once in four weeks, and this t
 
 **The whole of this began as a way to ask one man about about nine hundred sheets a year.** That is what it was for. A man of sixty-one cannot read a paragraph and has been the second hand at the foot of every one of them since he was forty-two, and about nine of them a year went out of that room not as the person above them wrote, and he signed those, and there is no column on any of them for a man to write no in. Somebody in this matter was going to work out how to ask him.
 
-The whole of it began as a way of putting one question in front of one man about a great many sheets a year, and that is still the whole of it; about two years of going at it has got him as far as a room with a rail standing in it and no further.
+About two years of going at it has got him as far as a room with a rail standing in it and no further.
 
 And in the middle of it, it turned out that he cannot be asked in the one building that made him.
 
@@ -26,7 +26,7 @@ A question put in that room goes into a record, and the record is what the sheet
 
 **The count of things anybody has asked out loud in this matter is seven.** It was seven before he went to that room and it was seven after, and it is seven tonight, and he had a question ready in his mouth for about three minutes of somebody's nine and he did not have it out, and nobody will ever know from this room that he had it.
 
-Seven, before he went and after, and about two years of carrying a number about in his head has never once made it a different number, and he has never once been asked for it and there is nobody he could hand it to.
+About two years of carrying a number about in his head has never once made it a different number, and he has never once been asked for it and there is nobody he could hand it to.
 
 About nine hundred entries a year go out of a room in about nine hundred rooms. **A class is a heading and a heading is a company, and the second hand at the foot of every one of them is a person, and a person is the one thing in this empire that a class cannot be asked about.**
 

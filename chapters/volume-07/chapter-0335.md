@@ -12,7 +12,7 @@ One woman of the four has been told that she is not paid. That was standing on a
 
 **Three are still to go, and this is the afternoon of the two she cannot get to**, and not the one she told, and the difference is not a matter of liking or not liking anybody.
 
-About three weeks, about nine visits, and the last of them was the shortest. One of the two is at a dye end two doors off and spends the middle of a shift standing in a doorway; the other is a lane away and gets in near the sixth hour.
+Either of the two would have served and neither is going to be served, and when this afternoon is over there is one of the four left and it will be one visit instead of two.
 
 She has been at both of them in about three weeks, and about nine times in all, and the ninth was the shortest. One works a dye end two doors down and stands at a door in the middle of a shift; the other is at the far end of a lane and comes in at about the sixth hour. Nell Kest has got as far as the doorway of each one and has not said the thing, and the not saying has taken longer each time and is now taking the whole of a lane.
 

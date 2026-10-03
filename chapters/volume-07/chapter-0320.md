@@ -64,7 +64,7 @@ A single return goes to one district out of about nine hundred districts and a s
 
 **The step at the top of the passage is still worn, and the rail is still about four feet high, and the pane is still out of the window,** and it has been for about four years and nobody has asked him about the pane either.
 
-A step outside the top door is worn through, the rail stands four feet off the floor, and the pane has been out of the window for about four years. Nobody has ever put the pane to him and he has never put the rail to anybody, and nine people stood in the room the last time he stood at it.
+Nobody has ever put the pane to him and he has never put the rail to anybody, and the arrangement has been the same one for about four years.
 
 He has said all of it out loud once, in a room, standing at a rail, and it went into a room and not into a book, and about nine people were in that room. A woman of about forty who carries a scuttle was in it and is not one of the three clerks and is not in this, and there is not one form anywhere in this empire that will let anybody ask that woman what she heard.
 

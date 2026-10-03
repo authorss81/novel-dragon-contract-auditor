@@ -30,7 +30,7 @@ If he wrote the sentence down, then he would be a document about one woman. A do
 
 **He is not going to write it down.** Not her name, not the sentence, not the month, not the lane, and not a list of any of them.
 
-Write it down and he becomes a document about one woman. Such a document goes under a heading, and under the heading would stand a foreman of a cut, and she would never once be asked whether she had said any of it. He worked the whole of it out and has not put a word of it on paper.
+He worked the whole of it out and has not put a word of it on paper, and the not putting is the only part of it he is proud of.
 
 ---
 
@@ -54,7 +54,7 @@ One of the two is a debt he entered himself on a day when the alternative was a 
 
 Both of them are called held. **A word does that**: somebody picks it out of three others for a column and in about four years it is the name of a thing nobody can see into, and two people standing in different buildings both say the word and neither of them means the other one.
 
-A word chosen from three others for a column turns into the name of something nobody can see into inside about four years. A person in one building and a person in another both use it, and neither one of them means the other, and he has noticed it twice and mentioned it to nobody.
+He has noticed it twice inside one week and has mentioned it to nobody and is not going to.
 
 He thought about the four hundred blanks this afternoon for about as long as it takes to write out a day's figures, and then he stopped thinking about them, and the stopping is the discipline and not the indifference.
 

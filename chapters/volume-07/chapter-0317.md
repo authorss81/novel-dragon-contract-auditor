@@ -50,7 +50,7 @@ And the sixth space is not a person either, and she went through that twice befo
 
 Her own figure would go in a column if she gave it to anybody. She has worked that out. A number in a book is a column, and a column wants a heading, and a heading over that number is a heading over about nine hundred rooms, and about nine hundred is a class, and a class is a heading, and she has been at that for about four years and has not moved from it.
 
-Handed to anybody, her own figure would go into a column wanting a heading over it, and about nine hundred rooms under one heading is a company. She arrived there about four years ago and has not shifted an inch from it, and will not.
+Nine hundred rooms under one heading is a company, and a company is the largest thing anybody in this empire can make a person into without asking her.
 
 She is not going to give it one. **There is no form in this empire that puts a heading over a space nobody has ever been introduced to,** and if there were one she would not fill it in, and she has never told anybody that and she is not going to, and about four minutes is what it took to work out and about four seconds is what it will take next time.
 

@@ -28,7 +28,7 @@ Nobody has ever thanked him. He has never asked to be and there is not one form 
 
 He has a number in his head and he has had it for about two years and he has never given it away and nobody has ever asked him for it.
 
-A number has been in his head for two years. Nobody has asked him for it and he has never handed it over. In a head it is a person; on a page it is a column; a column wants a heading.
+In a head it is a person; on a page it is a column; a heading goes over a column, and a heading is a company.
 
 It is a small number and it is made up of people and not of sheets, and **it is the number of people who have said a true thing out loud in a room with nobody in authority in it and have not been thanked for it**, and he knows roughly how many of them there are because he has been in about nine rooms in about two years and he has been one of them.
 

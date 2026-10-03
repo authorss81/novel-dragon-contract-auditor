@@ -60,7 +60,7 @@ She measured a length of wall at about the sixth hour for a man who wanted it me
 
 The count of the second gang came up the lane on a slip of paper with a foreman's mark at the top of it and no heading over it, and it is a count of men and hours and not a count of anybody, and the number in it was entered in a hand that does not vary by a man who is not in that lane and has never been in it.
 
-A slip came up the lane with a foreman's mark on it and nothing set over the mark, and a man who has never set foot in the lane wrote a number on it in a hand with no waver in it at all. Rooms get counted on in a morning out of slips like it, and the number of them in a year is about nine hundred.
+A slip is the only paper in this matter carrying a foreman's mark with nothing set over it, and a count put on one of them cannot be got off it again by anybody, by any road at all.
 
 Putting a man into a class is a thing a person does on paper and no paper in this empire lets him be taken out of it again, and that is the reason about nine hundred rooms a year can be counted on in a morning and not one person standing in any one of them can, and the two of those are one arrangement and have been since before the man with the chain came to that bank.
 

@@ -28,7 +28,7 @@ It has never had anything in it. Not in nine years, not once, not a day and not 
 
 He stood at the shelf and looked at it for about four minutes and worked out something and then had to stand there a while longer with the rest of it.
 
-He stood at the shelf looking at an empty column under a heading for about four minutes, and then some longer over the rest of it, and nobody in the building came in and found him at it.
+The column was empty and the heading over it was one he could never fill, and nobody in the building came in and found him at it.
 
 **A heading over an empty column is the most complete machine there is,** and it is better than a full one, and there is no form in this empire that will let anybody take a heading off a column that has had one over it since before she could read. A full column gets argued about and copied and carried forward, and somebody eventually wants the next line. An empty one with a heading over it gets looked at by the person who keeps it every single day for about nine years, and **it never once gets asked anything,** and it will be there after both of them.
 

@@ -14,7 +14,7 @@ This is the second day of the first week of the seventh month of the year after 
 
 At the bottom of a box, under a rule that is not the Company's, there is a piece of waste paper.
 
-A piece of waste paper lies under a rule in a box nobody owns, and it has lain there since before the frost. About nine minutes of writing went into it and the rest of his life has gone into keeping it where it is.
+About nine minutes of writing went into it and the rest of his life has gone into keeping it where it is.
 
 He wrote the whole of it out in a fair hand about four months late, in about nine minutes, after he had had the right of it in his head for about two years. It is the finding, and it is this: **a column with a heading over it is a machine, and a column with no heading over it is a person, and a person is only ever asked one way, out loud in a room.**
 

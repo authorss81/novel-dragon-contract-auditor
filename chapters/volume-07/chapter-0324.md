@@ -54,7 +54,7 @@ She put the question about how long a page stands to an empty room into the air 
 
 A carrier came up the passage with a rack on her hip at about the sixth hour and put four on the shelf and went back down it without stopping, and the woman of fifty-five entered them correctly in a hand that does not vary, and that is the whole of what was written down this afternoon.
 
-A carrier came up near the end of it, set four on the shelf, and turned and went straight back down the cold flags without a word. The writing came to four minutes; nothing else went onto the eleven books before the light went, and the light is not on any of them.
+Nothing has ever been entered about a light in the eleven books in this building, and the light is not on any of the entries.
 
 The pane is still out of the window. The step is still worn through. The rail is still about four feet high and a man of about sixty-one has stood on the wrong side of it three times in nineteen years and is nine miles off and does not know it and is not going to be told.
 

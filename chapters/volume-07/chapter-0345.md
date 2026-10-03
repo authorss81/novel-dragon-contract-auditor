@@ -32,7 +32,7 @@ She did not ask him how it went. She has never asked him how it went. She is not
 
 A woman of about thirty-five lives next door and came out on her own step twice while he was standing there, and she did not speak to him and he did not speak to her, and neither of them has ever spoken to the other, and the two doors are about four feet apart and nothing in this empire would let him ask her whether she would mind being told a thing before she is told it.
 
-The two doors stand about four feet apart and neither occupant has ever said a word across. Everything passing between the houses in two years amounts to that, and it is neither a bad arrangement nor a good one.
+Twice she came out and twice he had it in his mouth and did not say it to her, and a thing not said to a woman standing on her own step goes into no column at all and is not missed by anybody.
 
 That absence is why he told his wife the one time he told her anything, and it is why he is not going to tell her this, and it is the same absence both times and it is not going to be filled.
 
@@ -44,7 +44,7 @@ The bill for being findable is not his and it stands on somebody else's account,
 
 The woman next door came out at about the sixth hour with two things in her hands, put them on her own step and went in again, and he was still standing at the bottom of the four steps when she did it. Neither of them said anything, and that is the whole of what passes between those two houses in about two years, and it is not a bad arrangement and it is not a good one and it is not going to be either.
 
-She came out near the sixth hour carrying two things, set them down on her step, and was gone in again before he had moved from where he stood, and neither of them said a word.
+He had not moved from where he stood while any of it happened, and he did not move afterwards either, and neither of them ever spoke of it.
 
 "Is that door shut?" he said it out loud at about the fifth hour, to the door, about the door, and it is shut, and it has been shut since before he came, and nothing in this empire lets a door be said to a person, and a door is not a person and his wife is not a door and he is not standing at the bottom of those four steps as a way of putting anything to her.
 

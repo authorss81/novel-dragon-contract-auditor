@@ -32,7 +32,7 @@ He has thought about putting one question to the man in the doorway four times i
 
 Under a rule at the bottom of a box that does not belong to the Company there is a piece of waste paper and it has been there since before the frost, and he has read it twice, and he has not torn it up and has not shown it to anybody and is not going to.
 
-A piece of waste paper has lain under a rule in a box since before the frost. It is still whole. Nobody has ever seen it and nobody is going to. Two men shown something by a man with no office end up holding a debt neither of them entered anywhere.
+Two men shown a thing by a man with no office end up holding a debt neither of them entered anywhere, and no column in this empire is ruled to hold one.
 
 What is on it is half a sentence that a foreman of fifty-one four hundred yards down that lane has been giving him since the third month of the year after, and what is not on it is the other half, and **the day he goes and asks for the other half is the day she stops giving him this one**, and he worked that out a long time ago in about four minutes and has never mentioned it to anybody including her.
 

@@ -62,7 +62,7 @@ The four went in correctly in about four minutes in a hand that does not vary. T
 
 "Is that page dry?" she said it out loud at about the sixth hour, to the room, about the page, and the page was dry, and nothing in this empire lets a clerk be asked what she is going to do with a question she has not answered and has not withdrawn, and she is not going to answer it and she is not going to withdraw it.
 
-A carrier came up towards the end of it and set four down by the window, then went back the way she had come. About four minutes of entering was the whole of what the afternoon added, and the page she said her question to was not among the four.
+The page she said her question to was not among the four, and she wrote her name on that one and on no other in nineteen years.
 
 The window is still without its pane. The step at the top of that passage is still worn through, and the rail at the far end of it is still about four feet off the floor.
 

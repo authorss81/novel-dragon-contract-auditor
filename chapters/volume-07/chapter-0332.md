@@ -62,7 +62,7 @@ She is fifty-one and has been in a box for about four years. She has kept nine m
 
 A man came through at about the sixth hour to have a length of wall measured and she measured it and gave him the figure and he was gone inside a minute. It is the same answer it has been for about four years and it does not satisfy anybody.
 
-A man came through wanting a length of wall measured, got the figure, and was gone inside a minute. She has given him the same one for about four years now and nobody is satisfied by it, and nobody in the bay has ever said so out loud.
+Nobody in the bay has ever said out loud that the same figure satisfies anybody, and about nine of them know it does not.
 
 Nobody thanked her. Nobody sent for her. Nothing was resolved and nothing was forgiven, and the count of things anybody has asked out loud in this matter is the same as it was in the morning, and the mark in the chalk on that end wall is a mark and is nobody's and is about four years off being anybody's evidence.
 

@@ -74,7 +74,7 @@ The step at the top of the passage is still worn. The rail is still four feet hi
 
 About four hundred of those forms have gone out of that room in nineteen years and every one of them went to a class and got an answer from a class in about three weeks, and not one of them asked a person anything, and about nine hundred sheets a year are still going out with a hand at the foot of every one of them.
 
-About four hundred of the form went out of the room in nineteen years; every answer came back from a class and not from anybody, and the answers were all refusals, and a law says a refusal gets entered.
+Every answer came back a refusal, and a law says a refusal gets entered, and nobody has ever been asked which part of the form was being refused.
 
 **Nothing was written down this afternoon except four entries with no name in any of them,** and about four hundred of that form have gone out of that room in nineteen years and every one of them went to a class.
 

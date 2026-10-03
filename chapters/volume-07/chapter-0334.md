@@ -68,6 +68,6 @@ She put the fire out properly at about the seventh hour, because he lit the lamp
 
 She washed the two plates and put them on the board upside down to drip, which is what she does, and the lamp went on being worse than a fire.
 
-Two plates went into the water and came out and were set upside down to drip, and the lamp went on costing more than a fire and doing less. About the seventh hour she went up and he stayed where he was.
+The lamp went on costing more than a fire and doing less, and about the seventh hour she went up and he stayed where he was.
 
 Nobody thanked anybody and nobody was sent for and nothing was resolved. She is not going to ask him how it went, and he is not going to ask her whether she minds, and about nine hundred sheets a year are going to keep going out of a room nine miles off that neither of them has ever been in, with a hand at the foot of every one of them.

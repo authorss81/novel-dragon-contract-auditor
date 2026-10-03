@@ -66,6 +66,6 @@ It was in that room and it was in about nine people and it was not in the table 
 
 He went out by the door he came in by and down about four hundred yards of cold flags on his own two feet, the same nine miles, and nobody walked with him and nobody was sent for him and nobody will know he went.
 
-It was in nine people and not on the shelf below the window, four hundred yards off. About four thousand entries stand in eleven books with nobody named in any of them, and not one of those is this.
+The shelf is four hundred yards away, on the far side of her own door, with the whole of the cold passage between it and him, and it has nothing of his on it and never had.
 
 **The count of things anybody has asked out loud in this matter is the same as it was when the door gave and it is going to be the same in ten weeks**, and the asking he did not make is in that room and nowhere else, and he is not going to tell anybody what was said in it.
