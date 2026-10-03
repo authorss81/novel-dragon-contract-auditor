@@ -20,7 +20,7 @@ Marn Ottery said it at about half past the five, to the boards, and not to him, 
 
 "**A copy handed to a person is a piece of paper changing hands, and a piece of paper changing hands is not a sentence put to a person, and nothing that has been said out loud in this matter in nine volumes of it moved this morning. I am not going to say the number of the things that have been said out loud in this matter and neither is anybody else on this floor, and it did not move this morning and it is not going to move this month.** Nobody in this room is going to be told what that sheet was for, and I am not going to tell them and I am not going to be asked and the man at the corner bought nothing and is owed nothing and is not going to be thanked for standing in a room."
 
-She put the boards flat with the side of her hand afterwards and neither end of the room said anything for about as long as a sheet takes to be squared, and the case stayed shut at the near end with the lid on its edge.
+Nothing came back from either end of the boards for a while after that, and the case stood where it was at the near end with the space the sheet had come out of still bare, and nobody went near it.
 
 ---
 

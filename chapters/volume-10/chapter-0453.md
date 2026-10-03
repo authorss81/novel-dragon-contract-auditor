@@ -18,7 +18,7 @@ One of them is a leaf with a line through what stood at the foot of that line. I
 
 The other of them is a piece of paper with a strip printed along the top of it, and the same four things printed along the top of that. It came out of the case at the near end of a counter at the top of four flights on a wet morning about two years ago, and fourpence bought it, and he put it on the side the page was not on, and he went down the four flights with it.
 
-It has nothing on it anywhere but the strip, and it has been folded once and opened out flat again, and it is the same width as the other thing in the pocket and not the same kind of thing at all.
+It carries nothing on it anywhere but the strip along the top, and it is the same width as the leaf in the pocket and not the same kind of thing.
 
 **He has never told anybody he is carrying two things.** There is no one in this matter he could tell and not be the only person who said it. There is no form anywhere in this empire in which a person is entered as the one who said it, and nobody has looked in that coat and nobody is going to.
 
