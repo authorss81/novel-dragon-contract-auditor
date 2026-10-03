@@ -42,7 +42,7 @@ The sixteenth book has her own name at the head of it and there is nothing on an
 
 **A book of your own is the only thing in this empire that a form has nothing to say about**, and there is no form for showing one to a person, and that is worth exactly nothing to her on a day when her wage is held.
 
-A book of her own has nothing said about it by any form there is, and there is no way of showing one to another person, and it comes to exactly nothing on a day when the wage is held.
+Fifteen of the sixteen are on the shelf because somebody else put them there, and the one which is hers has been on it since the day she took the room, and in three years she has not once opened it while another person was in the room, and every way of opening it hands it over to whoever is standing there.
 
 The notice in the coat is not sent. It has not been sent and it is not going to be sent by her, and the man in the coat said out loud that the day he wants it to exist he will send it, and the day has not been one of the days he has said so far, and she is not going to be the reason it becomes one.
 

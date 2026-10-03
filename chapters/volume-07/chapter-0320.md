@@ -14,7 +14,7 @@ This is the second day of the second week of the fifth month of the year after t
 
 It is an ordinary day. Nothing in it is a confession and there is nothing in it he is not doing four times a week.
 
-The pane has gone since before he came and the weather comes in at one angle the whole year round, and he has never raised it with anybody, and raising it would have been a question and the room had nobody in it to ask.
+The pane went about four years ago, which is well inside the nineteen years he has been at the foot of a column, and the weather comes in at one angle the whole year round, and he has never raised it with anybody, and raising it would have been a question and the room had nobody in it to ask.
 
 She signs for five and those five go into a book in her own hand, and the other four go onto the shelf by the window and stay there, and a thing on a shelf is as true as a thing nobody is ever going to fetch.
 
@@ -46,7 +46,7 @@ He would want about four minutes to say no to about half of them and yes to the 
 
 **There is nobody to ask,** and that is the whole of it, and it is nineteen years old.
 
-The pen is not his. It comes out of a drawer with a handful of others in it and nobody has ever asked him which of them he is to use, and he has used the same one for nineteen years and would not know it again by its point. There is a groove worn in the wood where a forearm goes and it was there before he was.
+The pen is not his. It is on the table when he comes down and it is on the table when he goes up and it belongs to whoever comes in behind him, and nobody has ever asked him which of them he is to be using, and he has used the same one for nineteen years and would not know it again by its point. There is nothing on the wood of the table but damp off the flags and nineteen years of a sleeve going across it.
 
 ---
 

@@ -28,7 +28,7 @@ The fourth thing on that board is the one they cannot account for.
 
 Three clerks have looked at it, including the two of them, and none of the three can say what the fourth item is for, and the woman of thirty-four wrote it there herself in her own hand about four years ago and cannot remember being in the room when she wrote it, and she has said that out loud twice, and nobody has thanked her for saying it either time.
 
-Three clerks have looked at the fourth item, the two of them among them, and not one can say what it is for. The woman of thirty-four put it up herself in her own hand four years back and cannot remember being present at the time, and wanting to know is not asking.
+What it is not has been looked at twice and neither look came back with anything: it is not a time, it is not a sum, it is not a name, and what is on the board in the fourth place is a question nobody put there, and no one has ever called her on it, and no one ever will, and a question nobody put is the only kind which costs her nothing to keep.
 
 They did not say anything about it this morning. **No form for signing a thing you cannot account for exists at that counter or anywhere else**, and so the item stands on the wall in a hand that does not vary, and the three of them look at it about four times a week and none of them has ever put one question to another about it out loud, and wanting to is not asking.
 

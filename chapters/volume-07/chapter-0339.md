@@ -56,6 +56,6 @@ Nobody thanked him. Nobody has ever thanked him and nobody is going to. **Nothin
 
 About nine people know where he is. Not one of them is going to be told by him that he is not going up a stair, and the four hundred yards of lane between this room and a bay is not walked this week either.
 
-Some nine people know where the room is, and none is ever going to hear otherwise from him. Four hundred yards of lane separates it and a bay and none of it is walked this week.
+The knowing does not go anywhere and it is not a weight, and he has never once wished it would, and what he has wished about is the lamp, which is a different thing altogether and is not about anybody at all, and nobody has ever been told about either of the two and nobody ever could be.
 
 The lamp was lit at about the seventh hour by somebody else. The table had nothing on it and the nail had nothing on it and the count of things anybody has asked out loud in this matter did not move, and it is not going to.

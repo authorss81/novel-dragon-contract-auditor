@@ -30,7 +30,7 @@ Her eleven are not a person. Neither are the four women.
 
 That is the whole of what stopped her. She worked it out in about four minutes about three weeks ago and she has been carrying it round the two doorways ever since.
 
-She arrived there in about four minutes three weeks ago and has been carrying it round two doorways ever since without saying it out loud to a soul, and she knows exactly what carrying it round two doorways is.
+What she has got is not a sentence and not a form, and it runs to four words, and the four of them are that a person is one and a number of persons is not, and she has never once said them in either of the two doorways, and the reason she has not is that a person who said them out loud ends up standing where they are, and there is nowhere to stand there which is not somebody's list.
 
 ---
 

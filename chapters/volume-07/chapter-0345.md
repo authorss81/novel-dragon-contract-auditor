@@ -12,7 +12,7 @@ He is thirty-four or thereabouts and the hand is a fair one, and what he is paid
 
 He is going to walk about nine miles on a day he is not paid for, on his own two feet, to a room at the end of a passage that smells of cold stone, and he has been in that room once.
 
-Nine miles is the distance and a day nobody pays him for is the day, and he will walk to the far end of a passage smelling of cold stone on his own two feet; he has been in the room once and will say nothing of it to her.
+Nine miles is not a distance anybody would remark on and he has made it once, and the once he is going to make is going to be on a day nobody pays him for, and he has not told anybody which day, and no form exists on which he could, and he would not know what to put in the space if one did.
 
 **He is not going to tell her that.** He has thought about it for about a week and the thinking came to nothing in the way that this kind of thinking always comes to nothing, which is that there is no version of the sentence that is not him deciding what she is allowed to know.
 

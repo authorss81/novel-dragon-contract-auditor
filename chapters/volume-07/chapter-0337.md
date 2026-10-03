@@ -48,7 +48,7 @@ There is no form for finding one either, and a thing that cannot be found and ca
 
 She put the sheet in the drawer with the rest of what there is.
 
-The sheet went into a drawer along with the other paper. No book was made out of it and nobody was given a key, and no key has ever been offered her.
+What is written on the sheet is the rule and not who she said it to, and the rule would be worth nothing to whoever found it, and nowhere on it is the name of the woman who stood in the doorway, and that was the only part of the four minutes she had to think about before she put it away.
 
 She did not make a sixteenth book out of what she said and she did not give anybody a key, and nobody has offered her one and she has not asked for one. The sixteenth book still has her own name at the head of it and still has nobody's question against it.
 

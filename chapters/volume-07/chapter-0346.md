@@ -54,7 +54,7 @@ Then he said it out loud, standing, in about thirteen sentences, to the man of s
 
 The man of sixty-one did not answer him.
 
-Not one person in there put a question to anybody in the whole nine minutes, and in four years nobody has; the woman carrying the scuttle said nothing throughout; the woman of fifty-five wrote none of it, and nobody is going to put it to her.
+The room took it in and did not keep it, and the not keeping is the whole of what happened in there, and what went out of it was about nine minutes of one man standing up, and what stayed in it was nine people knowing a thing none of them can produce, and neither half of it is a document, and no column was ever ruled for what a room holds.
 
 Nobody in that room put a question to anybody for the whole of the nine minutes and nobody has for about four years, and the woman with the scuttle said nothing at any point in it and said nothing after it, and the woman of about fifty-five did not write any of it down and nobody is going to ask her why she wrote none of it.
 
