@@ -10,7 +10,7 @@ This is the second day of the second week of the twelfth month of the year after
 
 The undertaking of the fourth of the first month is live. It is unretired and it is unamended and it has not been exercised, and it has not been exercised for about two years, and it is not going to be different this week, and a correct non-use is as good as a use and is entered as one.
 
-Nobody came up the flight wanting anything this morning. One of those is not the other, and nobody tells her which of the two it will be, and nothing anywhere would let a clerk at a counter be told either way.
+The stair stayed empty through the morning and she kept the counter open through the hours regardless, and the keeping it open was the whole of the work and nobody in the building remarked on it either way.
 
 **A person who is not asked has not been given a duty**, and she has known that since about the seventh month of next year. She has never once known that it did not apply to her, and the reason the undertaking sits where it sits is that nobody ever put it to her in the first place.
 
