@@ -64,7 +64,7 @@ She has now made two people in that cut do a thing on her behalf in about six we
 
 Nobody was thanked. There is not one form anywhere in this empire that requires a person to be thanked for reading four minutes of a notice out loud in a bay for nothing, and there is not going to be one, and the woman of twenty-four did not expect it and Halla Wray did not give it.
 
-The bench is against the north wall and the men had gone out of the bay by the time the light went, and a foreman of fifty-one was standing behind the bench on her own, which is the arrangement and has been for about eleven years, and the lamp in the bench was still cold.
+The bench is against the north wall and the men had gone out of the bay by the time the light went, and a foreman of fifty-one was standing behind the bench on her own, which is the arrangement and has been for about eleven years, and the lamp standing on the bench was still cold.
 
 The four men in that bay who cannot read a paragraph are still four and were not asked one thing this week and were not named, and no reason about them was given, and a season has closed and nobody decided that and nothing was resolved.
 

@@ -78,6 +78,6 @@ Nobody thanked anybody. Nobody in that store thanked him and he did not thank ei
 
 The lamp was not lit until about the seventh hour and it was not lit at about the seventh hour either, because the man of about fifty-five with a chain went out at about the sixth hour and the foreman went with him and the man of about thirty from the second gang went out before that and said nothing, and about four men left at about the sixth hour and none of them was asked anything by anybody.
 
-About three hours of a cold building and about four men and one person who had been in a box, and a bench against one wall and an unlit lamp in it, and four hundred yards of lane between the gate and the bay and the whole of it undone.
+About an hour of a cold building and about four men and one person who had been in a box, and a bench against one wall with a lamp standing on it and not lit, and four hundred yards of lane between the gate and the bay and the whole of it undone.
 
 He put his sleeve back down and shut the store. The mark on the inside of his wrist was about three inches by then. There is a building about nine miles off with a rail in a room at the end of a cold passage, and a man of about thirty-four had been in it about twelve days ago and had told nobody and was not going to. Marek Kest is not in that room and is not sent and does not go, and the road is walked zero times, and he went home to a room with nothing nailed up in it.
