@@ -12,7 +12,7 @@ About four feet of the wall by that window has a nail in it and has had one sinc
 
 He put his hand flat on the table. The table has nothing on it. He has not put anything on that table for about a week and there is nothing to put on it and nobody is coming up those steps with anything for it.
 
-One nail, driven into the wall before he came in, with nothing ever hanging from it; his own four steps are not the four a woman lives at the bottom of; the two sets are four miles apart.
+He has never measured the distance between the top of his own steps and the bottom of hers and he is never going to measure it, and the drainpipe outside the window has been running down the same wall the whole of the two years without once being a thing he could have done anything about.
 
 He is thirty-four or thereabouts and the hand is a fair one, and what he is paid for is the copying out of other men's figures until the totals agree. Four days a season he stands on somebody's list, and this is not one of the four, and he is not standing on anybody's list this week and did not put himself on one.
 
@@ -28,7 +28,7 @@ Nobody has ever thanked him. He has never asked to be and there is not one form 
 
 He has a number in his head and he has had it for about two years and he has never given it away and nobody has ever asked him for it.
 
-In a head it is a person; on a page it is a column; a heading goes over a column, and a heading is a company.
+There is no way of putting a number of people to him and finding out whether it is right, and he has never once gone into it, because putting it to them would mean asking every one of them whether they had said a thing out loud, and that is the one work in this empire he has not done and is not going to do.
 
 It is a small number and it is made up of people and not of sheets, and **it is the number of people who have said a true thing out loud in a room with nobody in authority in it and have not been thanked for it**, and he knows roughly how many of them there are because he has been in about nine rooms in about two years and he has been one of them.
 
@@ -38,7 +38,7 @@ He will not give it to his wife. He cannot ask her first whether she would mind 
 
 A man of about thirty-four who stands at the top of four steps every working day and cannot be reached by anybody is not a man anybody is looking for, and that is the price of being one man and not a heading, and he worked it out in about four minutes in a room with nothing on the table about two years ago and told nobody.
 
-He worked it out in four minutes two years back and told nobody, and about two years of carrying it about in his head has not made him a man anybody could name, and that is what it costs to be a person and not a heading.
+Nobody has come up those four steps since to be told any part of it, and about two years of carrying a number about in a head has not made him a person anybody could name, and the four minutes bought him that and nothing else.
 
 ---
 

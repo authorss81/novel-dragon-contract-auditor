@@ -36,7 +36,7 @@ One of them is a girl and one of them is a reader. The reader is paid forty-five
 
 He did not go in and he did not stand at the door. He looked at the bay for about four minutes and then he went back down the lane at the speed he had come up it. He did not look at the two of them at the back of it either, because from a hundred yards he could not have told which of two people was which, and because there is no form for letting a man who has never met anybody into a bay to find out who is in it.
 
-He kept his hands in his coat, looked for about four minutes, and went back down the way he had come. He kept his eyes off the pair at the back as well, and not out of modesty; a hundred yards off he could not have told the two of them apart.
+He had come up the lane in the coat he copies in and the weather had been on for about an hour by the time he got to the hundred yards, and he was wet through before he stopped, and not one person up the lane will ever know how wet he got.
 
 ---
 

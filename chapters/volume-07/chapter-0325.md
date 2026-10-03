@@ -58,7 +58,7 @@ Then a carrier came up the passage and put a rack on the shelf and the carrier s
 
 Nobody asked her anything this week. Nobody has asked her anything in about four years, and nothing in this empire is shaped so that anybody is obliged to ask her what she counts or what she heard, and the not asking is the ordinary condition of a person at the end of a passage and not a hardship arranged for her.
 
-Not one question has reached her this week and none has reached her in about four years, and nobody arranged the not asking for her; it is how anybody standing four hundred yards from a door is.
+Two things about her could be asked on any morning of the week and neither of them is ever asked, and they are the number of the racks and the number of times the door at the top of the flags has opened, and she has both of them and there is nobody four hundred yards off who wants either.
 
 She is not going to give the figure a heading. She is not going to hand it on. She has not written it down and is not going to, and there is nobody she is going to hand it to, and **no form in this empire has ever made being told something the same as being able to do anything with it.** That is the whole of what she got for standing at that end of the passage about four years.
 

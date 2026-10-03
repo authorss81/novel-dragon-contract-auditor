@@ -42,7 +42,7 @@ What the last ten weeks hand to the next ten is a room and a rail and about nine
 
 There is a passage about four hundred yards long off a flood terrace behind a building off the old river road, and the flags of it come up cold in every month of the year, and there is a door at the top end with a step worn through in front of it and nobody at that door at any hour of the day. **At the far end of that passage there is a room with a rail standing about four feet off the floor.**
 
-Four hundred yards of cold flags with no fire at either end, and nobody walks it on somebody else's business; a door at the top of it has a step worn through, with nobody standing at it in any hour.
+A lock and a door at the two ends of it are not a clerk and neither of them can be asked anything, and about four hundred yards of cold flag is the whole of what stands between a thing being said in there and the same thing being written down anywhere in this empire.
 
 In that room a man of thirty-four is going to come nine miles for the second time and not ask, and to say out loud, in about nine sentences, why he is not going to, and to be thanked by nobody, and the room is not going to have it afterwards and he is not going to tell anybody what was said in it.
 

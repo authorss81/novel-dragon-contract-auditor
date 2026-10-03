@@ -70,7 +70,7 @@ Then she said the other half of it and she said it to the room, and this is the 
 
 Nobody thanked her.
 
-Not one person in eleven years has thanked her for saying the whole of it out loud, and she is thirty-four, and nobody in the room was going to, and nothing anywhere in this empire obliges anybody to.
+Not once in eleven years has anybody thanked her, and not once has she written down that she was not, and the not writing is the same arrangement as the not asking, and about four people came up the flight today and not one of them heard a word of it said a second time, and three of the four shelves behind her were full before she came and are full now.
 
 Nobody in that room was going to, and there is not one form anywhere in this empire that obliges anybody to. She is thirty-four and has been at that counter eleven years and has said the whole of this about nine hundred times, and was thanked for it a number of times that is nil, and she has not asked anybody why, and there is no form in this empire that would let her.
 

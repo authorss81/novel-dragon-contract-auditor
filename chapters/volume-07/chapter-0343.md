@@ -26,7 +26,7 @@ The room at the far end of that passage, the one with the rail standing about fo
 
 "No form for naming what happens at the end of this passage was ever drawn," she said it out loud at about the third hour, to the flags, about the room, and the flags do not take it back, and nothing in this empire has ever drawn a line between that room and any other one.
 
-Nobody ever drew anything at all for naming what is done at the far end. Nothing in this empire has drawn a line between the room with the rail in it and any other one, and the flags take nothing back.
+She said it out loud to the flags and there was nobody in four hundred yards whose work it was to write it down for, and a thing said where there is nobody to write it down is not a record and never turns into one, and she has never been a party to a word of what is said at the far end of the passage from her.
 
 ---
 

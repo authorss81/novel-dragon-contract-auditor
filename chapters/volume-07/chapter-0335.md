@@ -52,7 +52,7 @@ A woman of about thirty offered her money in the third month of the year after n
 
 The dye end had been running since the second hour and by the fifth the whole lane had the smell of it, and she went out into that smell with her sleeves down, and the two doors were on the way to the end of the lane and not past it.
 
-The smell had got into her sleeves by the fifth hour. Both doors stand short of the far end of the lane, and she went out and came back in again without either of them.
+The same weather has been coming through the broken light for about four years and it goes down the lane with her and comes back in with her, and she has made the round often enough by now to do it without deciding to.
 
 She went down the lane at about the fifth hour and did not go to either door. The lane is short and she was at the end of it in about four minutes, and she stood at the end of it, and then she came back.
 

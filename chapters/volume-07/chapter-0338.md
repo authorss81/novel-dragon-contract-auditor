@@ -58,7 +58,7 @@ The engagement is one sheet with terms on it and a rate at the foot of it, and t
 
 About nine men have known for four years that the foreman of that cut is in a box. None of them has said a word about it and none of them is going to, and about nine people in four other buildings know pieces of other halves of the same thing and have said nothing to anybody either.
 
-For about four years about nine men have known a thing about the foreman which none of them has ever said aloud, and the same fact in other halves is known in about nine other buildings, where it has stayed quiet as well.
+Nobody has ever counted them and nobody ever is going to, and the not counting is the whole of why they are still nine men in the bay and not a list, and a list of them would have a heading over it inside a week, and nobody in the bay has asked for one.
 
 **Nobody thanked anybody this morning or this afternoon, and nobody was sent for, and nothing was resolved and nothing was forgiven.** Nothing was said out loud in that room that has not been said out loud in it before.
 
