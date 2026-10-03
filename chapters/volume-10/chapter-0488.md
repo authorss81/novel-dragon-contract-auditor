@@ -20,6 +20,8 @@ He said it going past, to the stone, at a volume that fitted about four feet of 
 
 She had to say it at a man who was already moving away from her, and that is a thing nobody in this matter has an arrangement for.
 
+He was already past her by the time she had the first of it and he was further off by the time she had the rest of it, and the passage took what she said and gave back a piece of it and then gave up on the rest.
+
 "You have decided that again, walking. I am going to say one thing at your back and I have said a thing on that stone in a month that is gone and this is not it, and after this morning neither of us says anything else on this run for a month."
 
 About nine feet of it came back off the flags and the rest of it went down the passage.
@@ -28,6 +30,8 @@ About nine feet of it came back off the flags and the rest of it went down the p
 
 He did not stop. He got the rack up off his hip about nine foot further down and went on.
 
+The rack came off his hip and went back onto it and he carried on up the stone without putting his head round, and what she had said stayed where he had left it, and the flags took his feet the way they take everybody's feet on a run of stone.
+
 "You have not asked me for my figure."
 
 "You have never asked me for it and you are not going to, and I have not handed it to anybody and I am not going to this week, and it is not going on anything and it is not going to have anything printed over the top of it."
@@ -35,6 +39,8 @@ He did not stop. He got the rack up off his hip about nine foot further down and
 ---
 
 The rack came past her four more times before the light went and every one of them went by with the empty, and the week closed with the run the way it closed the week before, and the difference between the two weeks is a number of passes and is not going anywhere.
+
+The light went off the flags at the far end before it went off them at her end, and the lock stayed fastened where it has been fastened for the whole of the time, and she stood at the near end of it for the rest of the week without going up the stone once.
 
 An empty week is not the same as a held week, and the two sit close enough together in a building like that to cost a person a month out of her own count, and she lost one in the spring. Her number is where it stood at the fourth hour. Nobody in that building is holding it, nothing went onto anything this week, nobody printed a heading over it, it never went the length of that run to anybody, and the shut room at the end of it stayed shut with nothing in it and was not opened.
 

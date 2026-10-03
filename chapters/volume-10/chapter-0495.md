@@ -12,6 +12,8 @@ It is the second day of the first week of the second month of the year after the
 
 There is one thing on that table and it is still exactly where it was put, and no form in this empire has a line for it, and nothing has been put down beside it in two years.
 
+The table takes what is put on it and gives back nothing to anybody, and the rest of the top of it is bare and has stayed bare, and the one thing standing on it has not been turned over or moved since the evening it was put there.
+
 He had his hand flat on the outside of the pocket for about as long as a sheet takes to be squared, and then he took it off and sat down on the stool.
 
 Then he said the thing, out loud, to the room.
@@ -19,6 +21,8 @@ Then he said the thing, out loud, to the room.
 "**Here is what I have been after since before the fire, and I have never said it in a room, and I am saying it now. There was a name at the foot of a leaf, and a hand that was not my mother's went through it. What belonged at the foot of that line is gone. The claim that went out of this empire with that name went the same way, and on the same day, and I have got one of those two things and I have never had the other one, and I am thirty-eight, and I am not going to be forty before it happens.**"
 
 He let that sit in the room, and the room is the only party that has ever received anything from him, and it has never once been in a position to say anything back.
+
+It went into the room and stayed in it, and the walls took it and gave back less of it than went into them the way walls do, and he did not say any of it again and he did not say any part of it over.
 
 "**And here is the half of it that took me until this month to get to. A name that has been struck out of a leaf cannot be made twice, and it cannot be made once. That is the first thing anybody in this matter has ever established that I have believed. And it cuts both ways, and I have had both edges of it in my hands, and I have not noticed, and I am noticing now.**"
 
@@ -29,6 +33,8 @@ He stood up and went to the window and looked at the back of another house for a
 "A copy of a copy has nobody's name in it. That was worked out in a room I was not in, and it is true, and I have had it for about a month. The whole of what it is for is that after a thing has been made once there is no maker left in it to be shown having made it. **That is why nobody in this matter has ever been thanked, and I have had that for a month and I have not said it out loud, and I am saying it out loud now to a room, and I am not going to be thanked for saying it, because there is nobody here to do it and there is not going to be.**"
 
 He turned round from the window.
+
+He turned round off the window and the back of the other house went out of the middle of his eye and the bed and the stool came back into the room, and nobody in the room came back into it with them.
 
 "And the other edge is this. The same absence that makes a copy safe makes a name gone out of a leaf permanent, and there is no third object in this empire that is a copy and not a copy. So there is nothing I can make, and nothing I can have made for me, that would put that name back into the world. **The only way a name comes back is somebody saying it out loud in a room to another person. A question in this matter is a party. A party is a person. A person is the only thing that can be told what a thing is going to be used for, and a question cannot be told that, and there is nobody in nine hundred buildings who can be instructed to ask it.**"
 
@@ -49,6 +55,8 @@ He stood in the middle of that floor with his hands at his sides and worked out 
 ---
 
 Then he sat back down on the stool and put his hand flat on the outside of the pocket again and left it there.
+
+The stool had been taking his weight for about two years and went on taking it, and the coat stayed on the nail behind him and the two things in it stayed on opposite sides of it, and nothing came out of either of them.
 
 A man of thirty-eight said out loud, in a room with a window that looks at the back of another house, what he has wanted since before a fire. The room is the only party that has ever received anything from him, and a room cannot be asked, and a room cannot answer, and a room cannot repeat itself to anybody.
 

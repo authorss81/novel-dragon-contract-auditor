@@ -20,6 +20,8 @@ He began it on the first day of the fourth week of the last month. He has not st
 
 The pot has been standing there all week with nothing to hand back more than it ever had, because the pen is on the sill and not in the pot. There is no wider account of that than there is of anything else in that building.
 
+Nothing about the standing of the pot told anybody anything about the pen being on a piece of stone four inches to the left of it, and nobody on the floor had any way of putting the two together and was not going to get one this week.
+
 ---
 
 He cannot say why he did it.
@@ -40,17 +42,23 @@ She keeps the minutes under the clerk of about fifty-three. She said out loud on
 
 She looked at the pen on the sill, and then at the pot, and then at the pen on the sill again, and the two of those took about as long as a sheet takes to be signed.
 
+The looking went the way a person looks at a thing when the thing is doing something it has not done before, and she gave it no more than that, and the armful stayed in her arms and the corridor stayed empty behind her.
+
 She had a book under the armful, and she writes down what that room decides, and the room decides almost nothing, and what it does decide it decides twice. There is a question on a shelf under a window with no pane in it that carries no full stop, and it is not going to be printed out in any building in this empire, and the woman who wrote it made herself askable on purpose a long time ago, and nobody is going to ask her a second time.
 
 She did not write it down.
 
 That is the whole of what she did about it, and it was a decision, and there is no column anywhere in this empire for a person who has looked at a thing and not written it down. A thing that is not written down cannot be produced against anybody, and a person who has chosen not to write a thing down is a person who could be shown having chosen, and she is nineteen, and she has not said one word to anybody about it and is not going to.
 
+The book stayed shut under the armful and the pen she had with her stayed where it was, and the thing on the sill went on being a thing on a sill to everybody in the building including the man behind it, and nothing about it got any further than the end of the corridor.
+
 She carried the armful back into that room without saying one word, and the book went with her, and it was shut.
 
 ---
 
 About nine hundred sheets went out of that building that day, one at a time, and his mark is at the foot of every one, and somewhere near four hundred of them came off that wire with the top edge open, and not one of the people who carried any of them off that floor has the faintest idea what is printed along the top of what is now in their hand.
+
+The hook came back to hanging empty at the end of the day and the sill did not shift under him, and the pot stood where the pot has always stood at the right hand of a man who has been at the end of the sill nineteen years, and the wire brought them down flat the way the wire brings them down every working day of the year.
 
 A pot on a sill took nothing back all day that it had not taken back for nineteen years before it. A man of about sixty-one has made one decision this month that no person in that building knows about, and no person in that building can read the reason for. A woman of about nineteen saw it and left her book shut. The two of them have not said one word to each other and are not going to, and there is nothing to be thanked for in either half of it.
 

@@ -24,6 +24,8 @@ Tamsin Rook did not say anything.
 
 She had the same thing and she had had it for about a week. She had got at it from the other end, and it had taken her until the fifth hour of a working morning to be sure of the shape of it. A woman at the other end of the same boards had just put the identical thing into the air in about forty words before she could put it into hers.
 
+Her hands stayed where they were through all of it, and she did not look down the length of the boards once while the other woman was talking, and the queue at the near end went on being the queue whether anybody was saying anything or not.
+
 **That is what nobody in that room has ever done to her, and it is not a kindness, and she knew that inside about two seconds of hearing it.**
 
 "You have not said it out loud," Marn Ottery said.
@@ -58,6 +60,8 @@ Then a woman of about twenty-eight came up and put fourpence on the boards. She 
 
 The clerk of about twenty-nine got up off her stool at about the fifth hour and went along to the case. She looked down into it for as long as it takes a person to count the top of a stack, and came back and sat down again.
 
+The stool she got off had not been moved from where it stands since the two tables were pushed together, and the case was where it had been when she got up, and the top of the stack was where the hand put there had left it.
+
 Tamsin Rook watched her do all of it. The clerk of about twenty-nine knew that she watched it. Neither of them said one word about it, **and the not saying is the reason the two of them have lasted four years at the same two joined tables, and there is no form anywhere in this empire in which either of them is entered as the one who said nothing.**
 
 ---
@@ -69,5 +73,7 @@ At about half past the fifth a courier came up the four flights with a satchel o
 ---
 
 The boards came down at the sixth hour and she went out into the stair with one hand on the cold rail and nobody on any of the landings. The twenty minutes had not been a decision when she came in and they were not a decision when she went out. They are not on anything, and there is no form in which the twenty minutes can be entered against anybody, and nobody in that building has ever asked her why she is in early, and she has not said.
+
+The rail was colder going down than it had been coming up, and she kept her hand off it for most of the way, and nobody came out of any of the doors on it while she was on it.
 
 **She got it right on the second landing, going down, in about a minute.** A copy is the only object in that room that can be bought twice. It is the only object in that room a person can buy twice, put inside a coat, and go down four flights with. It is the only one of the two she has put fourpence down for that anybody else in that building could have handed her as well. She did not say it out loud to anybody and she is not going to. Nobody is going to thank her for having worked it out, and there is nobody on any of those four landings she could say it to who would not turn it into a document by hearing it.

@@ -24,6 +24,8 @@ He came down that lane at about the fourth hour. This was not one of the four da
 
 He did not take it up. He had come down that lane with something of his own and it turned out not to fit against hers, and he stood there with it for about as long as a sheet takes to be squared and then he put it away.
 
+He put it away behind the thing he had come down the lane with and it went back where it came from, and the counter between them took the weight of the silence without any of it going into the book on the shelf behind her.
+
 "All right," she said.
 
 ---
@@ -33,6 +35,8 @@ Then she said the name, out loud, at the counter, in the ordinary voice.
 "**Marek Kest.** I have had that name a fortnight and I have never had the man, and I am not going to have him, and I am not going to tell you how I got it because it came the way a name comes to a person who lets rooms and that is not a road you would want walking. He buys nothing anywhere in this city. He has never been on that book and he is never going to be on it and he has not been in this house. And one of the four rooms in it has been standing empty since before the spring and I have not let it and I am not going to let it, and I am not going to stand here and tell you the two of those are connected, **because there is no form in this empire in which a landlord's empty room and a man's silence can be entered under one heading and I have spent nine years finding that out.** That is what it has cost this month. It is a room and not a sentence and I am not going to be thanked for saying it and you are not going to ask me for the rest of it."
 
 Nobody asked her for the rest of it.
+
+The name went into the middle of the room and stayed there without going anywhere else, and the book on the shelf was shut the whole time of it and nothing went into it, and nobody who was not in the room heard a word of it.
 
 ---
 
@@ -48,9 +52,13 @@ He got the pen up. He held it the way he holds it.
 
 Then he put it back in the pot without touching the page, and he squared the two columns with the side of his thumb, which is the one thing on that desk he has never once done on purpose.
 
+The pot took the pen and the page stayed where it was on the desk with the two columns in it not agreeing, and he looked at the top of the column again once and did not read the second column across a second time.
+
 He went on to the fifth page and did that one, and the sixth, and he did the seventh, and the fourth page went into the pile with two figures in it that do not even.
 
 There is no column in this empire for a job a person has refused, and so nothing about that page is written down anywhere. A man who is paid to make two figures agree and who does not do it is a man a second of a thing can be made out of, and there is no register and no column and no way of finding out that he did it, and that is the price, and he paid it in about four seconds in a room with no window.
+
+The pile on the desk went over by a sheet and the desk did not know it, and the room with no window in it went on being a room with a smell under the door and a person at a table in it, and nobody came to the door of it in the evening.
 
 He is a man who can be found. About four hundred sheets a year go out of this city with a mark in a strip on them that belongs to nobody, and about nine hundred go out of a floor nine miles off with a hand at the foot of every one. He is one of those hands. He is not the one at the foot of those.
 

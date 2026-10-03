@@ -16,6 +16,8 @@ She had it in her hand at the doorway and she said the first half of it and stop
 
 And then nothing, and the door was behind her and the shed was in front of her, and the two at the back did not move.
 
+The half sentence stayed in the room with her after it stopped, and the doorway stayed where she had left it, and the paper in her hand had gone back to the temperature of the floor by then, and it was the only thing in the room that had changed while she was standing there.
+
 **The girl is not given the chance to say no about anything this week and she is not going to be given one. Nobody in that shed put an offer to her and nobody put a condition to her, and the one time in that week when a thing could have been said to her that she would have had to answer, the man at the front bench said it to the floor and not to her.** The reader of seventeen turned a page at about a quarter past the four and put his hand flat on the open one and looked at it, and nobody said one word to him, and nobody has said one word to him in a long time, and he is not going to start.
 
 ---
@@ -27,6 +29,8 @@ The man at the other side of the chain did not move and did not look up.
 "I was not doing anything with it."
 
 "You were standing at a board with a piece of paper in your hand and you were deciding something, and you have decided it and you have not put it down, and I have been on this side of a chain for longer than you have been in that class, and I know what a deciding hand looks like from about four foot away."
+
+The chain across the front of the bench had not gone anywhere, and the lamp at the high end of the shed was still not lit, and there was enough floor between the door and the back of the shed for a person to cross without touching anything on the way.
 
 ---
 
@@ -50,9 +54,13 @@ She put the form back on the board by the door. She put it on at the angle it go
 
 "Then you know the answer as well as I do and you did not need me to say it, and I have said it, and neither of us is going to be thanked and neither of us is going to be asked one thing about it."
 
+It was said and it was over and the bay was a bay again with a man on one side of a chain and a woman on the other, and nothing in either of them had moved into the other one while it was being said.
+
 ---
 
 She did the two ends of that shed twice after that and the form stayed on the board and she did not pick it up again, and nothing was filled in on it, and nobody in that lane has ever filled in that form since before she came to that bench.
+
+She did them with her hands empty every time, which is not the ordinary way to walk a floor, and the ordinary way is what her hands knew, and nothing in the shed put a stop to the difference.
 
 **A class can be re-entered by whoever fills in the next form, and this week nobody re-entered anybody, and the form that put her where she is is not being asked to be void by anybody.** Nobody in that lane has ever asked anything to be made void, and there is nowhere standing at which the asking could be made, and there has not been one in the whole time she has stood in that box. The chain is where it was. The bench is where it was. The two of seventeen are where they have been.
 

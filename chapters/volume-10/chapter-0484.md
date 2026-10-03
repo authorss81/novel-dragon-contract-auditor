@@ -10,6 +10,8 @@ It is the second day of the second week of the eleventh month of the year after 
 
 She had come up the lane with the day-book under her arm, which is the once, and she put it on the end of that table and did not open it.
 
+Her arm came away from under the book and stayed where it came away to, and the book lay flat on the end of the table with the cover towards him and nothing coming out of it, and the lamp went on burning at the height it burns at.
+
 She is about thirty-five and she keeps that book in her own hand and four rooms go by the week in her house and a girl in the back room is in her second season. **Four headings stand over four columns in it and a fifth has never been ruled in nine years of keeping it, and ruling one is the single thing in that house she would have given anything for and has never once put a pen to.** She is somebody else. The other woman in that lane is the one who stands at the foot of those four steps and has done for eleven years; this one keeps a book instead of a set of rooms; and the two of them have not exchanged a word in all that time, and this is not the month they start.
 
 "You have not opened it," he said.
@@ -21,6 +23,8 @@ She is about thirty-five and she keeps that book in her own hand and four rooms 
 "**Then here is the whole of it and it is a thing about a book and not about a person, and I have had it in my head since the end of last month.** A heading is what makes a column, and that is the only work a heading does in this empire, and it does it once and then it stands over everything that goes underneath it for thirty years. There are about nine hundred sheets a year that go out of a floor nine miles off this one and there is a heading over every column of every one of them, and there are about four hundred sheets a year that come out of a case with a strip printed along the top of them and there is not a heading over a single thing on any of them, and somebody has been cutting a line into that strip. **A line in a strip is a mark with no heading, and that is the one thing a book like yours can neither hold nor refuse, and I have not got a column for it and I have had a fortnight to get one and there is not one coming.**"
 
 She did not open the book.
+
+The shut book stayed shut through all of that and the cover did not lift and the pages did not move, and she put her hands flat on the table on either side of it and left them there.
 
 "And you have come up here to tell me that about my own book."
 
@@ -38,6 +42,8 @@ He put the pen down, which is not a thing he does at that table.
 
 And then neither of them said anything for about as long as it takes to square a sheet.
 
+The lamp burned the whole of the silence and the book lay shut between them and neither of them put a hand on it, and the lane outside went on being a lane with nobody walking up it on account of either of them.
+
 He was aware the whole of that time that he had nine words in his own hand at the top of a column in a book in a store, that they were not the day-book woman's, that they were a foreman of fifty-one's, and that she had begun them in a doorway in that lane about two years ago and got nine words out and stopped. The whole of what he had wanted for about two years was the rest of them.
 
 He did not have the rest of them. Nobody has the rest of them.
@@ -53,5 +59,7 @@ He did not have the rest of them. Nobody has the rest of them.
 ---
 
 She shut the day-book where it had been shut and put it under her arm again, and she did not turn it round, and no fifth column was ruled in it that week or any week, and it came off the shelf behind a counter about once a year and it came off that table once, and it did not come off it again.
+
+The lane took her back down out of it and the book went under her arm and it went the same road down, and the lamp on the table stayed lit after she had gone, and the man at the far end of the room did not look up after the door had closed.
 
 Nobody walked that lane on her account this week and nobody walked it on his, and a copy was not carried up it, because a copy carried up a lane is a copy somebody can be shown carrying. The four lines were at the top of the column where they go and they came out the same, and the man at the top of that table has been the person in that building the longest of anybody on that floor, and he did not ask her for the rest of a sentence and she did not offer it, and nothing was written down and nothing was resolved.

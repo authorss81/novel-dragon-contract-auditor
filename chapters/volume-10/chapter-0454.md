@@ -12,7 +12,11 @@ It is the fourth day of the fourth week of the third month of the year after the
 
 Neither of the two of seventeen at the back of that shed moved, and not one word was said to either of them by anybody. **The girl is not given the chance to say no about anything, and the reader of seventeen is unspoken to, unthanked and unsent for, and is not going to start.** The second half of a sentence she began in a doorway has still not arrived, and it has not arrived in a week, and she is not going to stand in a doorway and finish it this month.
 
+The back of the shed is where the light does not get to, and they had been at the back of it since before she came, and the lamp on its bracket at the high end would not have shown either of them anything until about the seventh hour.
+
 She held the form in her left hand and did the two ends of that shed in the order she does them. The form went with her the whole length of the floor and back again.
+
+The floor of the shed is worn pale in a line down the middle of it where everything goes up and down, and the form was carried on her left side away from her coat, and it did not touch anything on the way.
 
 ---
 
@@ -40,11 +44,15 @@ He did not move the chain.
 
 "I have not. I can read a paragraph and I have said four sentences in this room and I have not been answered by anybody and I never wanted to be. I am not going to read that form out to you, or to the two at the back of that bench, or to anybody else on any day of my life."
 
+The form was in her left hand the whole of the time that was being said and she did not change hands with it once, and the angle it was held at did not vary, and nobody at the front of the bench looked at it.
+
 ---
 
 "That is a fifth thing you have said, and you have not made it a speech, and I have not been asked for it and I have not been given a fifth sentence."
 
 "You have not been asked for a fifth sentence by anybody. I have not given one and I am not going to. I said what I came in here with my hand in my coat to say, and that was not it, and you have just made me say a different thing, and I have not thanked you for it and I am not going to."
+
+It was noticed, and nothing else came of it being noticed, and the lamp was not lit, and neither of the two at the back of the bench had moved while any of it was being said.
 
 "You were not going to tell me what you came in here with your hand in your coat to say."
 

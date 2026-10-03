@@ -16,6 +16,8 @@ A second mark is a different thing and it is still there. One sheet in about two
 
 The woman who keeps the minutes of that room has been in it nineteen years. She is about fifty-three. She advises nobody and has not asked anything in about four years, and she did not ask him anything this week.
 
+Her table has been against the same wall for the whole of the nineteen years, and the minute book lies open on it before she comes in and shut when she goes out, and nobody working where she works does either of them for her.
+
 The woman of about nineteen keeps the minutes under her and has been in the job since a week that is gone. She came out of that room into the corridor at about the fourth hour with an armful of sheets she was not going to be thanked for carrying, and she stopped at the sill.
 
 "You have about a hundred and forty left on that window."
@@ -42,6 +44,8 @@ At about the fourth hour a young man off the shipping floor came up to that sill
 
 He got as far as the sill and stopped there, and he looked at the bottom of the bundle for about as long as it takes to get a thing square, and anybody can see a mark who has two eyes and no reason not to, and that is the whole of the trouble with what was on the top of that bundle.
 
+The bundle came out of the corridor in the arms it went in with and it was lighter going out than it had been coming in, and nobody had weighed it, and nobody was going to.
+
 The two words stayed where they were. **He did not say them a third time, and the man of about sixty-one did not say the other two back and did not look up, and nothing in this empire will ever hold a piece of paper against the man who put a sentence into the air beside it.** The sheet went down that corridor in the young man's own arms, and the man never once lifted his head off that sill for any part of it.
 
 ---
@@ -49,5 +53,7 @@ The two words stayed where they were. **He did not say them a third time, and th
 Nothing was thanked in that corridor and nothing was forgiven and nobody was sent for from it. The woman of about fifty-three went on with what she was doing and did not enter one word of any of it. The woman of about nineteen wrote her line, and the line said which room stood empty and at which hour and how long, and there was nothing at the foot of it.
 
 By a minute past the seventh hour there was nothing left on that hook to count, and the hook emptied the way it empties. About nine hundred sheets a year went out of that building into about nine hundred buildings where nobody knows what is at the foot of any of them.
+
+The corridor was quieter after that than it had been before it, and the sill was still there with the pot on it, and the hook came back to where it hangs when there is nothing on it.
 
 **He signed the one that was square and he signed it the way he signs all of them, and the ninth of the nine is not on anything, and there is nowhere in this empire for it to go.** He is sixty-one, and he has been the second hand since he was forty-two, and nobody in that building is going to tell him what a copy is for, and nobody is going to thank him for the year.

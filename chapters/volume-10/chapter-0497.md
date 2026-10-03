@@ -14,6 +14,8 @@ Tamsin Rook had her hand on the lid of the case, the way she has had it every wo
 
 He did not look at the boards and she did not look at the corner, and the whole of that hour went by with two people in one room not once having put their eyes on each other, and anybody standing at the far end of those two joined tables who had been paid attention for four years would have been able to tell you that neither of the two of them was pretending.
 
+The case stayed behind her hands for the whole of it and the boards stayed up in front of him and neither of them crossed the length of the wood between the corner and the near end, and the far end of the tables did not come into it either.
+
 ---
 
 "You came up in the last week of the year," he said, to the boards, "and you did not buy anything, and there is nothing on any list in this building with your name on it, and there has not been anything for about two years, and there is not going to be anything this month. **I did not tell you that and I am not telling you now. I am telling the boards, and the boards do not have a line for it, and you did not ask me one thing, and you are not going to be thanked for not asking, and I am not going to be thanked for standing at the end of a set of them.**"
@@ -25,6 +27,8 @@ He did not look at the boards and she did not look at the corner, and the whole 
 ---
 
 She did not move at that.
+
+The boards took her hands the way they have taken them every working morning for two years and the lid of the case stayed under the one of them, and what he had said stayed where it had been put down in the middle of the floor without anybody picking it up.
 
 There is a piece of paper under the boards of the floor of that room, at the back, against the wall behind the drawer. It is not in the case and it is not in the drawer and it is not in a hand. It has been there since the first week of the year. It is a piece of paper with a strip printed along the top of it and the same four things set along that strip, and it is not a blank out of that case, and it did not come out of that case. Nobody on that floor has been told where it is, including the woman who put it there.
 
@@ -42,6 +46,8 @@ Marn Ottery said it at about half past the hour, to the boards, and not to eithe
 
 She squared the edge of the boards and left her hand on it.
 
+The wood went flat under her hand and her hand stayed on it, and the corner at the other end of the boards went on being the corner with a man at it, and neither man said anything while her hand was there.
+
 "And the last of it, and it goes to the boards. **A copy is not an offer. A copy cannot be asked about, cannot be read out of, cannot be laid against anybody, and cannot be shown back to the person who made it. That is the whole of what makes it the only object in this matter that a person can be the maker of and not be a party to. There is no form for stopping a copy, and so there is no form for finding out who made one, and I have known that since a month that is gone, and I have said it to nobody, and I am not going to say it to her.**"
 
 ---
@@ -53,6 +59,8 @@ It has lain in the middle of that book every working morning for about four year
 Nobody on that floor has ever had it said out loud that a sheet under the floor of that room is a second of anything, and she is the one of them who could have said it, and in the four years she has had that end of the tables she has spoken in that room once, and the once was to somebody standing beside her. She is not going to speak a second time, and she did not speak this morning.
 
 She put the pen down in the middle of the book, where it lies, and squared the book against the table with the side of her hand, and that is the whole of what she did about it, and nobody on that floor knows that she has not been waiting for it.
+
+She put the pen back where it lies and neither of the two of them moved again in any part of it, and the far end of those two joined tables went on being where it is with nobody at it looking anywhere but at the page in front of it, and the room kept going about its business.
 
 ---
 

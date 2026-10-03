@@ -18,6 +18,8 @@ The other of them was the fourth thing on a board on that wall. Four items stand
 
 Marn Ottery watched him come the last of the floor without straightening up, the way she has watched him come the last of the floor four times.
 
+He came the last of it with his weight on the front of his feet and his hands down, and the boards took the sound of his boots the way they take it every morning, and nobody at the near end stopped what they were doing for it.
+
 "You have not brought a page this time and you have not brought a hand either."
 
 "No."
@@ -48,11 +50,15 @@ The clerk of about twenty-nine turned her head as far as it goes, which is not f
 
 "I have said a thing I have said before in a different month, and I am not counting, and I am not going to start."
 
+Nobody at the far end of the tables had said anything else all morning, and the light off the lane had come round to the end of the room by then, and the clerk of about twenty-nine did not move her head again for the rest of the hour.
+
 ---
 
 At the near end, the case came up out from behind the boards, and about four hundred people in a year went out of that room one at a time in the hand of somebody who was not doing anything anybody had asked them to do, and this morning was one of the ordinary ones.
 
 Tamsin Rook put her hand flat on the lid of it and left it there while a man of about fifty put fourpence on the boards, and took a blank out for him, and watched him fold it and go down. Then a woman of about thirty did the same. Then nothing for eleven minutes, and then a young man with a cord across his chest did the same.
+
+The lid of the case went down and came up and went down and came up and the fourpence went into the same place every time, and nobody counted it and nobody asked where it had been, and the queue at the near end of the boards was nobody's queue.
 
 **None of them was asked what it was for. Not one of them, and not by any of the three people behind that counter, and that is not because the three of them are careful. It is because there is nowhere in this empire for a person to be told what a thing is going to be used for, and the not asking is not a courtesy, it is a shape that politeness makes when there is nothing to be polite with.**
 

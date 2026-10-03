@@ -12,6 +12,8 @@ It is the second day of the second week of the ninth month of the year after the
 
 He came down at the fourth hour with the rack and went on by, the way he has gone on by for four years, and then he stopped on the third pass, which he has not done since before she came, and stood about nine foot up the stone with the rack on his hip and said the arrangement out loud.
 
+The rack came down the stone with him on it and the wheels of it found the same line in the flags they find every other time, and she stayed at the lock and did not step out of the way of it, because she has never once stepped out of the way of it.
+
 "**There has not been a sheet with a heading on it come down this stone in a week. A sheet came down it once in four years and went back up again. There is no rule on this passage about a copy because no rule has ever been needed, and I have been the one deciding that since before either of us stood at this end, and I decided it again this morning, and I want you to know I decided it.**"
 
 He had a hand on the rack and he did not turn round, and he said which way without being asked to, which she has watched him do about four times since the spring.
@@ -21,6 +23,8 @@ He had a hand on the rack and he did not turn round, and he said which way witho
 ---
 
 She let him get to the end of it and then she said it, to the flags, and the passage gave it straight back.
+
+The stone took her voice and carried it the length of the run and back again, and what came back was not the same size as what she put into it, and there was nobody at the far end of the run to hear either version.
 
 "**You have decided the wrong thing this morning and you have decided it on purpose, and I have been standing at this end for four years and I have worked out what this passage is for about a fortnight ago.** This is the cheapest road in the building for a thing nobody can be shown carrying. Nothing that comes down here has to be stopped because nothing that comes down here has anybody written on it. About nine hundred sheets a year leave a floor nine miles off with a heading over every column and every one of them goes through a pair of hands that somebody could name. **One sheet with a strip along the top of it and nothing else on it would come down this stone and go up the four hundred yards to that room at the end and stand in a room where nothing has stood since before I came here, and nobody at that end would have had to decide one single thing about it, because there is nothing on it to decide about.**"
 
@@ -40,11 +44,15 @@ He did not come down the stone for it.
 
 He got the rack up off his hip and stood with it and looked at her for about as long as a rack takes to be lifted.
 
+He stood with the rack in both hands and did not put it back on his hip, and she did not move from the lock while he stood there, and the whole of the rest of the run was empty between them and the far end.
+
 "**You did not do it for me and neither of us is getting thanked for it, and that run goes four hundred yards in each direction and there is not one pair of ears at either of its two ends that is going to get a word of it out of this week.**"
 
 ---
 
 Nothing came down that run of stone in that week and nothing went up it either.
+
+The lock stayed fastened on the side it is fastened on and the cold in the passage did not let up at any hour of the day, and neither of them said one word on any of the passes after the morning of them.
 
 **Nothing arriving in a week is not the same thing as a thing being held back, and those two sit close enough together that a person standing at a lock can lose a month in the space between them, and she lost one in the spring.** The figure is where it was at the fourth hour. Nothing in that building carries it, nothing went onto anything this week, no heading was set over it, and it never went the length of that run to anybody at the far end of it, and the room at the far end of that run was shut and had nothing stood in it and was not opened.
 

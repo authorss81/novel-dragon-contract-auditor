@@ -10,6 +10,8 @@ It is the fourth day of the fourth week of the seventh month of the year after t
 
 Marn Ottery said it at about the third hour, and she said it to the boards and not to the woman at the near end, and she said it as an arrangement and not as a favour, and she said it once.
 
+The boards took the sound of it and gave it back into the middle of the floor, and the case was shut at the near end with nobody's hand on it, and the far end of the boards had a person at it who did not move while it was being said.
+
 "**What a second holder is, is a person who can be shown holding a thing without being a party to it, and there is one reason for that and the reason is that a copy is not the thing it was made from.** I am not going to put that in this room again, and I put it in this room in the third week of the fifth month, and I am not going to put it in any other room either this month."
 
 Nobody said anything.
@@ -28,6 +30,8 @@ Tamsin Rook did not answer it. She did not agree with it and she did not disagre
 
 She had worked out about four weeks ago why she was not told, or the shape of why she was not told, and it had taken her about a minute. She had not said it to anybody and she is not going to, and what she has been given this morning is not the answer to that and is the reason for it. Having the reason does not get her any nearer to the thing she is standing ready for, and she had not expected anything else and had not wanted anything else.
 
+She stood at the near end of the boards with the case behind her and did not put a hand on it, and the boards were still up and the four flights of stair behind her were still there and she did not go towards them, and the far side of the wood was as it was when the morning started.
+
 ---
 
 About four hundred of them went out of that room that year one at a time, and not one of them was asked what it was for. A man of about thirty-four put fourpence on the boards and was handed a blank out of the case and folded it and went down, and a woman of about twenty-two in her second season did the same, and a man of about fifty did the same. A courier came up the four flights with a satchel and was not told what was in it and did not ask.
@@ -37,3 +41,5 @@ The clerk of about twenty-nine was at the far end of the two joined tables with 
 **Nothing on that floor was resolved in that week and nothing was put to anybody on it, and the arrangement at that counter was still standing at the sixth hour exactly as long as it had been standing at the fourth.** The drawer under that wall board is still shut, and there are still four things in it, and two of the four have still never been looked at. The box under the far end of those boards is where it was at the second hour and it will be there at the sixth. The four went onto the wall where they have gone every working day for eleven years, and the fourth of the four is the one none of the three of them can account for.
 
 She went down out of that room and out into the stair and down the four flights with one hand on a rail that is cold at the sixth hour, and there was nobody on any of the landings. **It was early when she came in and it was early when she went out, and no document in this empire has a space for the difference between those two facts, and she has never once wanted one.** She put her hand flat on the lid of the case at the near end and left it there for as long as it takes to walk a strip of paper, and then she took it off, and the case went in behind the boards.
+
+She did not stop anywhere between the top of it and the door at the bottom, and the boards behind her came down about the time she got to the bottom, and nobody in the building heard the boards come down.

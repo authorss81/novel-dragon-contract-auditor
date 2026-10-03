@@ -12,9 +12,13 @@ It is the fourth day of the third week of the sixth month of the year after the 
 
 He came down at the fourth hour with the rack and there was a woman at the lock, and he went on by, because in four years nothing has come down that stone that anybody at this end would have had a reason to stop it for.
 
+The lock is at the near end of the run and it is fastened on the passage side and not on the flags side, and the passage behind it is as dark as it has been every working day of the four years she has stood at it.
+
 He went up. He came down. He went up. The stone turned the whole of the morning under the rack and the two of them said nothing for about an hour and the passage gave the sound of it back off the far wall.
 
 Then he stopped on the third pass, which he has not done in four years, and stood about nine foot up with the rack on his hip.
+
+The rack stayed on his hip and the wind came off the terrace behind her and went up the stone past him, and she did not move off the lock to get out of it, because the lock is where she stands and she stands there for the length of every journey he makes.
 
 "You have not asked me one thing in four years and I am not going to start, and I am going to say the arrangement out loud once and then I am going to go up and down this stone four times a day until the weather turns. **Nothing with a heading on it has come down that passage in a week. A sheet came down it once in four years and went back up again with the space on it clean.** A copy is the only paper in this empire with no heading printed over it, and there is no rule on this passage about one because nobody has ever needed one, and you have been at this end four years, which is four years of never once having to make up your mind about what to do when one of them turns up. **A rule is a thing that has to be put in front of a person, and a person put in front of a thing is a party to it.**"
 
@@ -29,6 +33,8 @@ He did not come down for it.
 "**A man at the top of a stair four flights long can have a thing put in front of him and the putting is not evidence against anybody, because there is nothing behind him to be liable for and a thing does not stick to a person with nothing.** I said that out loud in this passage in a week that is gone and I have not been asked about it since. That is right and it is not what I have come back to. **A copy is not a thing. That is the whole of it and it took me four years at a lock to see it, and a copy will come down that stone the same as anything else and it will not stick to me the way a thing would not stick to him.** A paper with nothing printed on it sticks to nothing and to nobody. It goes in a coat and it goes in a box and it goes wherever somebody who is holding it decides, and I am the person in this building who nobody can be shown anything about."
 
 The stone did not give it back. He was nine foot up it and the wind came off the terrace and the rack was still on his hip.
+
+It went up the stone and came back down it a different shape, and the wind took the rest of it out of the passage altogether, and there was nobody in the building it could have reached to be given to.
 
 "So I have said out loud in a passage that goes four hundred yards and comes back, in a building where about nine hundred sheets a year go out of a floor, that I am the person a copy could be put in front of without anything sticking to it. No form anywhere in this empire has a line for the one who said that, and no form anywhere in this empire has a line for the one who did not, and you have heard it and I have said it and neither of those is going to be put back.""
 
@@ -45,6 +51,8 @@ He came down that stone and stood at the lock end of it, which is the nearest th
 ---
 
 She did not take it back and she did not say one word against it and she did not say one word for it either.
+
+The two of them stood where the stone is narrow with the rack between them, and neither of them said anything for about as long as a journey up and back, and the passage gave them nothing back at all in it.
 
 "You have been going up and down that stone four times a day for forty years and you have never once asked me for a figure and I have never once told you and that has not changed this week and I am not going to hand it over now that there is a reason to."
 

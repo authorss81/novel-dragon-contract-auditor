@@ -10,6 +10,8 @@ It is the fourth day of the third week of the fourth month of the year after the
 
 Marn Ottery was at the far end of those boards, and she watched him come the last ten foot of the floor without straightening up. The clerk of about twenty-nine was at the other end of the two joined tables with a book open and a pen in the middle of it. Tamsin Rook was at the near end with the case behind her.
 
+The case was shut and the boards were up along the whole length of them, and the light off the lane came in at the far end and stopped about where the wall board is, and nothing on the floor made any noise except the door at the bottom of the stair.
+
 "**This is the fourth time you have come up those four flights, and you have never once put fourpence on this counter, and a person who comes up a stair four times and buys nothing is the only person in this matter a practice can be built on.** I am not going to thank you for it, and I am not going to be thanked for saying it, and the fact of the fourth time is in this room and is not on anything."
 
 "I did not come up here to be counted."
@@ -34,6 +36,8 @@ She put her hand back on the boards.
 
 He did not say anything to that either.
 
+Nothing was said there for about as long as it takes to turn a sheet over, and her hand stayed on the boards where she had left it, and nobody came down to the far end of the room while it went on.
+
 "You want a heading over your name and there is not one in this building that would take it, and there is not going to be one. I have not got one to give you and neither has anybody on this floor, and you will not be thanking me for that, and I will not expect it of you, and neither of us is going to say so out loud again this week."
 
 ---
@@ -53,5 +57,7 @@ A courier came up at about the fifth hour with a satchel and put a folded thing 
 Then Marn Ottery wrote the word and the number at the top of the courier's thing in the ordinary way, and put them on that and on nothing else, and the courier went down the four flights with the satchel on his shoulder.
 
 He went down the four flights a little after the sixth hour with two things in a coat and neither of them out of the pocket, and nobody counted them. There is no form anywhere in this empire in which a person is entered as the one who counted what another person was carrying. Nobody sent for him and nobody was sent, and he was not thanked.
+
+He went down in the ordinary way with his hand going along the rail as it went, and the rail was cold enough in the middle of the run to be worth the hand, and there was nobody at the bottom of it and nobody was going to be.
 
 **The boards came down at the sixth hour. The case went in behind them, the four went back up on the wall where they have hung for eleven years, the drawer underneath stayed shut, and the box at the far end of those boards was exactly where it had been at the second hour.** The strip along the top of a blank is the same strip it was at the second hour and it was not cut this week. There is still no column anywhere in this building that a man of thirty-eight with nothing behind him can be entered in, and there is not going to be one. The fourth of those four items is the one none of the three of them can account for, and it is still in Marn Ottery's own hand.

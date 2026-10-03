@@ -14,6 +14,8 @@ It is the second day of the first week of the third month of the year after the 
 
 She took one out of the case and turned it over in her hand, and there was nothing to unfold.
 
+Every piece came out of the case flat, and one end of it was where a hand went in and the other end of it was where a hand came out at, and nothing in the way between had been touched by a person for as long as the case has stood where it stands.
+
 **There is a printed strip along the top of every blank that counter has ever sold. The strip is the same strip. The four things printed along the top of it are the same four things, and they are on every one of the about four hundred that go out of that case in a year, and no week in this matter has ever produced one of them coming back with a fifth thing on it.**
 
 "There is a knife in that drawer," Marn Ottery said, to the boards.
@@ -25,6 +27,8 @@ The clerk of about twenty-nine did not look up. A book was open in front of her 
 "You have never wanted one, and you have just told me there is one. Those are not the same thing, and I have been at that end of these tables for about four years, and I know the difference."
 
 "I know it as well. That is the whole of why I said it and not anything else."
+
+The boards of the floor had begun to take the heat of the morning by then, and the sound of the room was the sound a room makes when everybody in it is working and nobody in it is talking, and nothing in it changed until the queue began.
 
 ---
 
@@ -54,6 +58,8 @@ He put the satchel down on the wood, took a folded thing out of it, set that dow
 
 A courier is nobody's man in a matter like this one. **He could have been told what was on that folded thing and there is no place on that floor where a person tells a courier anything, and that is the whole of the trade and it is why the trade has lasted as long as the stair.** He has not asked her one thing in eleven years, he was not told about the knife, and he was not told what the four things along the top of a blank are. He went down those four flights with the satchel on his shoulder and nothing in his hands, and there is no form anywhere in this empire in which a man is entered as the one who carried a thing up a stair and was not told what it was.
 
+The thing he carried up had been folded along its length and not across it, which is what happens to a thing when the same hand folds it every week, and the outside of the fold had gone soft where it was being held.
+
 ---
 
 A man of about twenty-six was at the near end of those boards for about the length of a sheet being squared.
@@ -69,6 +75,8 @@ Tamsin Rook was at the near end with the case behind her, and she had been in tw
 **She is twenty-four, and nobody on that floor has ever put a question to her in the whole of the two years she has stood at that counter. She made an undertaking two years ago and has not brought it into use on a single day since, and it has not been retired either, and the day and the month of it are not said out loud on that floor and are not said out loud anywhere anybody can be shown.**
 
 She did the eleven things in the order she does them. At about the third hour she took a blank out of the case and set it on the boards in front of a woman of about thirty-five, who folded it and put it inside her coat and went down. Nobody said anything to that woman, the woman said nothing to anybody, then a young man of about nineteen did the same, and then a man of about fifty did the same. That is an ordinary morning at that counter, and it has been an ordinary morning there for as long as anybody standing at it can remember.
+
+Her hands did not stop for any of them, and the near end of the boards was where the case was and nobody moved her off it, and the woman in front of her was served without either of them looking at the other.
 
 ---
 

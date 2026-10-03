@@ -12,6 +12,8 @@ It is the fourth day of the third week of the tenth month of the year after the 
 
 She put the fourpence down before she said anything, and she put it down in the middle of the wood and not in the tin, which is the one thing a person does at that counter that tells anybody she has been somewhere else first and thought about it.
 
+The coin sat on the wood where she had put it and it did not slide and it did not go anywhere near the tin, and the boards took her hands next and the two sheets went down on the wood side by side with a hand's width between them.
+
 Tamsin Rook is twenty-four and she has stood at the near end of that counter for two years behind a case with its lid up on its edge, and nobody on that floor has ever wanted a single thing out of her, and the twenty minutes she is in before the hour are not on anything anywhere.
 
 The two sheets were square and true and the same size, and the strip along the top of each of them was the strip that is on all of them.
@@ -34,6 +36,8 @@ The woman did not take the fourpence back off the wood. She had put it in the mi
 
 Then a man came off the end of those boards and put his hand flat on the sheet that was lying on the wood, and he did not pick it up. He took the other one out of the woman's hands and set it down beside the first and squared the two bottom edges against the front of the counter with the side of his thumb. He did all of that without saying one word.
 
+The woman let him do it and did not take either of the sheets off the wood afterwards, and her hands went down at her sides and stayed there, and nobody at the near end of the boards looked up while any of it was being done.
+
 A clerk at that counter would not have done it that way. He is not a clerk, and there is no form anywhere in this empire in which a man who has come up a stair for nothing is entered as a person who has handled somebody's paper.
 
 Nobody had put him to it. The four seconds had been his own and there was nothing in that room that would have written them down either way, and if the woman came up those stairs again in a week about a mark that was not the mark, there would be one other person in this city who had ever touched her sheets. That could not be put back.
@@ -47,6 +51,8 @@ At the far end of the two joined tables the clerk of about twenty-nine had her b
 She did not look up. She did not turn her head as far as it goes, and she did not put her pen down, and the pen went on lying in the middle of that book for another two hours, and that is the whole of what she did about it, and she has not said a second thing in that room in about four years and she did not start one this morning.
 
 Nobody waited for her. That is the thing about that end of those tables and it has been the thing since before the man at the other end of them had been in the building: nobody in that room has ever waited for her, and that is why she has got away with it for four years.
+
+Nobody looked towards the far end of the joined tables at any point of the morning and nobody turned a head towards the far end of them, and the book stayed open on the far end with the pen lying in the middle of it, and the room went on being a room with people in it working.
 
 ---
 
@@ -69,6 +75,8 @@ Nobody answered her. The woman of about thirty was not answered, and the man at 
 The cut took about four seconds and it is in the strip along the top of the sheet and the strip is the strip and the line is the line and the woman put the sheet inside her coat on the side the other one was not on and went down the four flights, and the other one was already in there.
 
 Nobody asked her which one she had cut. Nobody could have, and nobody at that counter is going to be told what either of them was for, and there is nowhere to put an answer down if anybody were.
+
+The two sheets came down the stairs in the same coat on opposite sides of it and neither of them came out again, and the room behind her stayed exactly as it was, with four things on a wall and nothing anywhere on any of them about any part of it.
 
 Tamsin Rook put the knife back in the drawer it came out of and shut it and pushed it under the wall board, and the drawer that is not that drawer is still shut with four things in it and two of those have never once been looked at by anybody. Those four went back onto that wall where they have hung for eleven years, and of the four the last one is the item the three of them have never managed to account for, and it went up where it goes.
 

@@ -10,6 +10,8 @@ It is the fourth day of the fourth week of the fifth month of the year after the
 
 Nothing came down in front of her for about two hours, and that is not a quiet morning and it is not an empty one. It is an ordinary morning at that counter and has been for as long as anybody standing at it can remember, and the whole of what it is comes through at the near end in ones and twos and goes out of that door and down four flights.
 
+The far end of the joined tables has a different sound to the near end and it has had one since before she came to it, and what arrives at the far end is never a person but always a sheet, and the sheets arrive on somebody else's hands and go away on them.
+
 She wrote what she writes every day at the top of the page in front of her. Then she squared the sheet in front of her with the side of her hand, which is a thing she does about nine times an hour, and she did not look up.
 
 ---
@@ -44,6 +46,8 @@ The pen went into the middle of the book and stayed there, and then she picked i
 
 "It could be written down and then it would be a thing two people know and a thing two people have said, and there is still nowhere for it to go, and I have had my hand on that page for about half an hour this morning and I have not put it down."
 
+The room went on around the two ends of the boards while all of that was being said, and neither end of it asked the other end for anything, and the light had come off the lane and lay along the top of the tables and stopped there.
+
 "That is the first sensible thing anybody has said at that end of these tables in four years, and it is the reason I have not done it."
 
 ---
@@ -52,11 +56,15 @@ At about half past the fourth a man of about thirty-four came up the four flight
 
 A courier came up after him with a satchel and left a folded thing on the boards and went down, and nobody told him what was in it, and a man of about twenty-six stood at the near end for an hour and bought nothing and said nothing, and nobody told him he did not have to.
 
+He stood where he stood for the whole of the hour and nobody moved him off it, and the near end of the boards did what it does and he was none of them and was not treated as one of them.
+
 **Nothing in that room was asked anything. Not the man with the fourpence, not the man with the corner, not the courier, and not the woman at the far end of two joined tables who has been eleven years in a building where nothing gets asked, because nobody in this empire has anywhere to put down what a thing is going to be used for.**
 
 ---
 
 She got up off her stool at about ten minutes before the sixth hour and shut the second of the two joined tables down, and stood with her hand flat on the edge of it for about as long as a sheet takes to be squared. She had said nothing and had written nothing and had agreed with nothing and had disagreed with nothing, and there is no form anywhere in this empire in which a clerk is entered as the one who did all four of those things in one morning.
+
+The stool went under the far end of the table and the pen went into the book and the book went into whatever a book goes into at the end of a working morning, and none of that was done by anybody on her behalf.
 
 **The drawer under that wall board stayed shut with four things in it and two of them that have never been opened in eleven years.** The box under the far end of those boards was where it had been at the second hour with the same dust on the lid, and the four went onto the wall in the same eleven-year places. **The fourth of the four is the one the three of them have never been able to account for.** It is in the hand of the woman at the far end of the boards, and she put it there herself about four years ago, and nobody has asked her.
 

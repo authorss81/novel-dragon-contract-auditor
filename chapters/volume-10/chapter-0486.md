@@ -22,6 +22,8 @@ He worked it out at about twenty past.
 
 It took the length of time a person needs to take a coat off a chair.
 
+The twenty minutes went on being twenty minutes the whole time of it and he used the whole of them and he did not sit down for any part of them, and the stool stood where the stool is with nobody on it until the end.
+
 "A line cut into the strip," he said, out loud, to that room, and the room is the only party that has ever received anything from him. "**Every blank that counter has ever sold carries one printed band along its top edge, and it is the same band on every one of them, and the four things set along the top of it are the same four in the same order. About four hundred sheets a year come out of that case with a mark cut into that band, and the mark is the same mark on all of them, and there is nobody in this empire who could take one of those sheets in a hand and say whose hand it was.**"
 
 He had the coat in his hands by then and had not decided to have it.
@@ -40,6 +42,8 @@ There is nothing in this empire that would keep a record of a coat going onto a 
 
 Then he stood there and worked out the other half of it, out loud, because there was nobody to stop him and because that is the only way a thing gets said in this matter when there is no second person in the room to say it to.
 
+The room gave the whole of it back to him in the shape the room gives things back, and he did not say it a second time and he did not say any part of it over, and the two sheets in the pocket of the coat did not move while he was standing there.
+
 "**I am not going to cut one, and nobody is going to cut one for me, and there is nobody who has been asked and nobody who is going to be.** And here is the reason and it is four seconds long. The first cut is the one that costs, and after that cut I am a man who cuts lines in strips, and a man who cuts lines in strips is a man a person could put in front of anything. There is no column over the mark and there never is going to be one, and that is exactly why the knife is the dangerous part and not the pen. **Anybody can put a name in a book. Almost nobody can put a hand in a strip and stay a stranger afterwards.** And I would rather have nothing than that, and I have had nothing for about two years and I know what it costs, and a name is worth more than it."
 
 He did not say her name and he did not say the name at the end of that struck line and he did not say whose hand put it there, and none of the three is going to be said in this room this month.
@@ -47,6 +51,8 @@ He did not say her name and he did not say the name at the end of that struck li
 ---
 
 He sat down on the stool and he did not do anything for the rest of it, and the light went out of that window the way it goes out of that window, and the piece of paper with nothing printed on it stood against the base of that wall where it has stood, and four feet of plaster beside that window had a coat on a nail in it and nothing else.
+
+The stool took his weight the way a stool takes a man's weight when it has been taking it for about two years, and nothing else in the room moved after that, and the evening went on outside the window without being let in by anybody.
 
 A man of thirty-eight carried two things for about two years and told nobody, and nothing in that room was thanked and nothing in it was sent for and nothing in it was resolved this week, and on one evening he moved them from a chair to a nail. One of the two has a name gone out of it. The other is the exact width of a name.
 

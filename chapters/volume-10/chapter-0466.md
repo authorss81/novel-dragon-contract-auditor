@@ -14,6 +14,8 @@ She came into that room at about the third hour and she was fifty-three and she 
 
 She had been about eleven years in that room when she put a question on the shelf under the window with no pane in it and wrote her own name at the foot of it, on purpose, so that she would be a person somebody could go to. **Nobody has gone to her. Nobody has asked her anything. It is still a question, it has never had anything said after it, and it is on a shelf in a room, and it is not going to be picked up this week.** She is not going to be asked about it by anybody, including the man at the sill, who could not read it if it were put in front of him.
 
+The shelf under the window has been under the window for the whole of the nineteen years and nothing has been put on it since, and the window has had no pane in it for the whole of it, and the room has not been cold because of it.
+
 She sat down and she wrote her line, which is which room stood empty and at which hour and for how long, and then she did not write anything else, and she did it again, and she had been doing it for four years.
 
 ---
@@ -30,6 +32,8 @@ Nobody answered it.
 
 He put the pen away and took it out again and did the thing his hands do between one sheet and the next, and his eyes stayed on the sill throughout it, and he said nothing, and nobody said anything to him, and there was no version of that morning in which either of those two things came as a surprise to anybody.
 
+Neither of them looked at the other one for any part of it, and the room stayed a room with a table in it and a floor with a sill at the end of it, and nothing done in it was entered by anybody.
+
 **He was not asked what a second holder is and he did not ask.** He was not asked what was on the sheets he signs, and nobody has asked him that in about nineteen years, and the thing he has by himself in his head has been on no paper since the spring and is going to stay off paper until he cannot hold it, and there is no form that would take it out of him and get it onto a page.
 
 The woman of about nineteen came out of that room at about the fourth hour with an armful and stopped at the end of the sill and said the number, because a woman of nineteen who keeps minutes under a woman of fifty-three says a number out loud at the end of a floor every working day and has never once been thanked for the number.
@@ -45,6 +49,8 @@ Nobody answered her and nobody asked her and nobody thanked her, and the not bei
 ---
 
 By a minute past the seventh hour there was nothing left on the hook, and the hook emptied the way it empties, and the nine hundred went out of that building, one at a time, into nine hundred places where not one person knows what stands at the bottom of a page they have never read.
+
+The hook came back to empty and the pot stayed at his right hand and the sill did not move under him, and the corridor was a corridor with nothing in it that anybody in this empire could be shown.
 
 **He signed the ones that were square and he signed them the way he signs all of them.** One sheet in about two years came up that stair with the same mark on it twice, and he signed the top of it and did not look up while he did it. There is nobody in that corridor who could point at that sheet and nobody in that building who could point at it, and the one man who has seen it is the one man in the place who would not be able to find it again if he went back down that stair to try, and he has not gone back down it, and nobody has made a thing of it.
 

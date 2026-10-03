@@ -18,6 +18,8 @@ He has not said it a third time and he is not going to, and it is not going to c
 
 The man of about forty-five with the loading end of that floor had a tally of his own that he has kept in his head for about nineteen years. Nobody in that building has ever asked him for it. He came down the floor at about the fourth hour and stopped at the end of it where the box is.
 
+The rest of the floor between him and the end of it was in the way of the ordinary morning, and the ordinary morning went on being ordinary on both sides of him, and nobody stopped working because a man had come to the end of it and stood there.
+
 "You have said that about that box twice."
 
 "I have."
@@ -36,6 +38,8 @@ The man of about forty-five with the loading end of that floor had a tally of hi
 
 He put his hand flat on the box and took it off again, and neither of them looked down.
 
+The box took the weight and gave it back without moving, and the rope handle swung a little where his hand had gone past it and then stopped, and the handle is the only part of it that has ever moved.
+
 "You have put your hand on it."
 
 "I have. In about two seconds, and you have seen me, and that is a thing I have now done. There is no form anywhere in this empire in which a man of forty-five at a loading end can be entered as the one who put a hand on a box that has not moved, and I have had about nineteen years of those and I am not going to lose the run of them over a box."
@@ -49,5 +53,7 @@ He put his hand flat on the box and took it off again, and neither of them looke
 He got his four and went up those stairs, and the man at the far end of the corridor signed at the foot of every one of them and did not look up, and neither of the two of them said a word to anybody.
 
 **A courier from the yard was on the second landing of that stair going up with a satchel on his shoulder, and it was the fourth time that hour he had been past the same landing.** He cannot be told anything, and he has not asked anybody anything in this matter in as long as anybody in it can remember, and nobody at that counter has ever told him what a thing in a satchel is for, and he would not know what to do with it if he were told.
+
+He went up past both of them and neither of them turned round, and the satchel made no sound on the stair worth turning round for, and he was gone up it before either of the two had moved off the end of the floor.
 
 Nobody in that lane knows anything about either of those two men, and nobody in that lane could be shown them together, and there is no list anywhere in this empire that a man can be put on as the one who was on a landing at a certain hour, and there is not going to be one. The box at the end of that floor is where it has been for about nineteen years, and it is not a mystery and it has not been made one, and nobody was thanked for it, and nothing was resolved on that floor this week and nobody was sent for.

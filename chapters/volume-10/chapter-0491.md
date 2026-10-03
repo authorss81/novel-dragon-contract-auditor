@@ -14,6 +14,8 @@ It is the same stock, and the strip printed along the top edge of it carries the
 
 There is nothing on the rest of the sheet at all, and that is the part that took her the length of a breath. A sheet that had come out of that case in the ordinary way would have gone down four flights in somebody's hand with fourpence against it in the tin. This one had nothing on it, and nothing under it, and nothing behind it. It was not warm. It was not cold.
 
+A sheet that has been in a case carries the edge of the case on it and this one carried the edge of the case on it, and a sheet that has been in a hand carries a crease where the hand was, and there was no crease in this one anywhere at all.
+
 ---
 
 Marn Ottery came along the boards from the other end. She is thirty-four, and eleven years is the whole of her working life, and every hour of it has been spent on that one floor, and out of the three women at those two tables she is the only one who has never gone up those four flights and come back down them. She did not touch it.
@@ -27,6 +29,8 @@ Marn Ottery came along the boards from the other end. She is thirty-four, and el
 "**It is what stock does to a sheet nobody paid fourpence for.** You are talking about about four hundred of them a year going out of that case in a hand. And one morning in every one of those four hundred, the sheet that came off those boards is the one that comes off the case. There is not one thing printed on either of them that would say so."
 
 Marn Ottery looked at the strip along the top of it for about as long as it takes a person to decide against having an opinion about it.
+
+She looked at the same four things in the same order that she has looked at on every sheet that has ever come out of the case and she did not put her hand near it, and it stayed where it had been put, in the middle of the wood, in the light.
 
 "There is a difference between a sheet nobody paid for and a sheet somebody made," she said. "One of those is a mistake. The other one is a decision. And if it is a decision, then it is not ours to put in a drawer."
 
@@ -42,11 +46,15 @@ Nobody was waiting on her. Nobody on that floor has waited on her since before t
 
 She squared the book against the table with the side of her hand, which is the one thing she does with it, and the pen stayed where it was, and she did not turn her head as far as it goes.
 
+Nobody at any end of the boards turned towards the far end of them at any point of the morning, and the sheet stayed on the wood in the middle of the floor where it had been put, and nobody walked over it.
+
 ---
 
 The twenty minutes before the hour came and went, and Tamsin Rook carried the sheet to the case and then did not put it in it.
 
 She went down under the boards instead, on her knees, to the back, where the floor meets the wall behind the drawer, and she put it down flat on the boards of the floor there, and she pushed it back with the heel of her hand until it was against the wall and out of the light.
+
+The back of them is where nothing in the room has ever been put on purpose, and the sheet went into the gap and stopped being visible from the door, and the boards above it did not shift when she got up off them.
 
 It is not in the case and it is not in the drawer, and it is not in her pocket and it is not in a hand, and it is not on a table where anything is ever stood up, and the three of those are the only places a piece of paper ever is in this matter.
 

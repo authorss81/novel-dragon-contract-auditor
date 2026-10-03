@@ -12,6 +12,8 @@ About four sheets a week go across that stair in a satchel, in one direction or 
 
 One of the four in the satchel this week has been cut into along the top edge. He did not know that and he was not told it and he did not look and the satchel was not opened and there is nowhere in this matter where anybody could have opened it. He carried it down four flights and a street and set it on a counter where nothing is sold and everything is set down and taken up again, and the man who took it off him did not say one word and neither did the man who put it there, and the strap went over his shoulder and the stair went up behind him.
 
+The four sheets went into the bag flat and one of them went in with a mark in its top edge, and the strap went over his shoulder and took the weight of all four of them and asked him nothing, and he carried them out of a room where the person who cut it was still standing at the boards.
+
 ---
 
 At the far end of the two joined tables the clerk of about twenty-nine had the pen lying in the middle of her book where it has lain all morning, and she did not say a word, and she is the one person on that floor who could have said out loud what a cut line in a printed strip says. She has not said it in four years. The pen went on lying where it lies.
@@ -42,6 +44,8 @@ The stair took him down four flights and out of that street, and the lamp at the
 
 Then a dog started up somewhere in the next street, and he stopped on the second step going back up with the satchel against his hip, and the young man at the loading end was still at that counter with the boards in front of him.
 
+The stair went back to being a stair with the two of them on it at different ends of it, and the lamp at the foot of it was still not lit, and the boards in front of the young man went on being the only thing either of them was looking at.
+
 "You are not going to have said that to me," the young man said, without turning round.
 
 "I have not said it to you."
@@ -49,6 +53,8 @@ Then a dog started up somewhere in the next street, and he stopped on the second
 "You have said it to a stair in a lane with nobody in it, which is the same as saying it to me and cheaper for you, and I have been at this end of this floor about two minutes and I heard none of it and I am telling you that I heard none of it, because that is the sentence and I am saying it while it is still true."
 
 The courier shifted the satchel. The strap had gone into the shoulder it goes in.
+
+He did not take the bag off and he did not adjust the strap and he did not turn round, and the young man at the loading end kept his back the way he had it and went on with the boards in front of him.
 
 "Nobody has ever asked me for anything either," he said, "and I have not said that in a stair just now and I am not going to say it anywhere."
 

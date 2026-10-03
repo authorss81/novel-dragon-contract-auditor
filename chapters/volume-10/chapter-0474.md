@@ -20,11 +20,15 @@ Marn Ottery said it at about the third hour, to the boards, and not to him, and 
 
 He said the one word and then he waited for it to finish doing whatever it was going to do, and what it did was stop her for about two seconds.
 
+She did not use the stop and he did not take it back, and the boards took whatever sound they made in them and threw it out into the middle of the room, and the case at the near end stayed shut with the lid on its edge.
+
 "That is the whole of it and I am not going to say it in this room again, and I put it in this room in the sixth month and I am not going to put it in this room or any other this month." She did not put her hands flat on the wood. "**Here is the half of it nobody has said out loud anywhere, and you can have it because you are the only person in this room who is standing at the end of it and not asking me for it: two holders is not a protection. It is a bill, and the bill goes to the paper and not to the person, and that is the first time anybody in this matter has had a bill that cannot be sent to a name.** And I am not going to be thanked for saying it and neither is the man standing there going to be thanked for having heard it, and everybody who was in this room when I said the other one is exactly as much a person who could be shown having heard a true thing as they were before this morning, and saying the second half has not improved that by one single notch. **I did that part before I said it and I would like it noticed.**"
 
 ---
 
 He said nothing for a while, and what he was doing was arithmetic, and it did not take long.
+
+It did not take long and nothing in the room was said while it was being done, and the boards under his hands stayed where they were and the light off the lane moved about a hand's width along them in the time it took.
 
 "You have just told me the one thing about this that is worse than the thing I came up this stair for."
 
@@ -34,9 +38,13 @@ He said nothing for a while, and what he was doing was arithmetic, and it did no
 
 "It is about her and about every person after her and about nobody in particular, and I said it to the boards, and you are the only other person in this room, and that is the arrangement and it costs somebody every single time."
 
+She put her hand back down on the boards afterwards and it stayed there through the rest of what she had to say, and he did not put his hands in his pockets and did not move off the end where he was standing, and neither end of the room gave anything to the other one.
+
 ---
 
 He did not put fourpence on the boards. He did not buy a copy of the copy and he did not buy a blank, and the tin at the near end took nothing from him that morning, and about four hundred of them leave that room in a year one at a time, in a hand nobody arranged.
+
+The boards at the near end went on taking money from people all the rest of the hour and did not take any from him, and the case came up and went down behind them without asking which of them was in front of it.
 
 **He went down the four flights a little after the sixth hour with the two things still in the inside pocket of that coat and neither of them out of it, and nobody counted them, because there is no line anywhere in this empire for the person who counts what another person is carrying.** The woman who made the first of those two things has never asked him a question and he has never offered her one, and that arrangement is the only thing standing between that pocket and every person in this city, and it is not standing there because anybody is careful. It is standing there because there is nothing to be careful with.
 

@@ -16,6 +16,8 @@ She had the form off the board and in her hand and she had not filled in a space
 
 He said it to the floor and not to her and he did not look up while he said it.
 
+The floor of the shed took his voice the way it takes everything said in it, and the chain across the front bench did not make any sound while he was saying it, and she did not move while it was being said either.
+
 ---
 
 She put the form back on the board at the angle it goes on at and pushed its bottom edge true with the edge of her palm, and the palm was not steady and she did not trouble to make it steady.
@@ -26,9 +28,13 @@ She put the form back on the board at the angle it goes on at and pushed its bot
 
 "It is a much worse thing and it is the only thing anybody in this matter has got, and I have thought about that this week and I am not going to pretend to you that I have not." She turned round and faced the chain from about nine foot off. "**A form in this lane is a way in that is standing open, and it can be shut by a person. A second of anything is a way in that is not standing open and cannot be shut by anybody, and it carries the same heading, and the heading is the class, and the class is me.** So the thing that can be made twice of me would sit in this lane with my box printed over the top of it. There would be no way in the world to get rid of it and no way in the world to fill it in, and I would be looking at a piece of paper that says I am a thing twice a week for the rest of my working life. It would not be a person in the box, and it would be the first thing in this empire that could stand in a class and not be anybody."
 
+Nothing was said in the shed while she was saying it, and the light off the lane went along the floor in the ordinary way until it reached the chain and stopped there, and nobody at the front of the bench moved while any of it was being said.
+
 ---
 
 He did not say anything to that for about as long as a person needs to shift on a bench.
+
+The chain went a small way and came back while he shifted and he did not put a hand on it, and both of them stayed on their own sides of it, and the length of the silence was the length he needed and no more.
 
 "You have said that to a shed with two people in the back of it and one of them is seventeen and I am not going to have that said twice in front of him."
 
@@ -37,6 +43,8 @@ He did not say anything to that for about as long as a person needs to shift on 
 "I have never asked you for it and I am not going to start this month."
 
 "Then stand where you are and do not ask me."
+
+He did not ask her and she did not tell him and neither of them moved off the place they were standing in, and the bracket at the high end of the shed was as far from being lit as it had been at the fourth hour.
 
 ---
 

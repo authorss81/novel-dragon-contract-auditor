@@ -22,9 +22,13 @@ The man of about forty-five with the loading end came down the floor at about th
 
 The young man turned round.
 
+He turned on his heel where he had been standing and did not take a step either way afterwards, and the floor between him and the loading end stayed empty through the whole of what was said after it.
+
 "**A copy of a copy has nobody's name in it.**"
 
 "That is ten words and it is true and you are not going to say the next four of them, and I am going to tell you why before you get them out, and it is not because you are wrong and it is not because anybody at that counter is wrong about it." He did not take his hands out of his pockets. "**What came out of that case this morning is the only object anybody in this matter can make twice and still be honest, and it is the instrument this matter has been after for nine volumes of other people's trouble, and about nine hundred sheets a year go out of a floor nine miles off this one with a heading printed over every column of every one of them. This one went out of a room at the top of four flights with nothing printed on it but a strip along the top.**"
+
+The man of about forty-five said the whole of it from where he had stopped and did not close the distance while he was saying it, and his hands stayed in his pockets where they had been since he came down the floor, and the young man got the whole of it standing where he was.
 
 "That is not what stopped it."
 
@@ -44,6 +48,10 @@ The young man turned round.
 
 He said nothing else and he did not say the next four words and he did not take the ten back, and both of those were the whole of what he did with them.
 
+The ten words stayed in the air where he had put them and neither of them put anything on top of them, and the box at the end of the floor went on being a box nobody had opened and nobody was going to open, and the floor stood empty round about it.
+
 The man of about forty-five went back up the floor to the loading end and did not say one word to him on the way. About two hundred things went across that floor in ones and twos between the fifth hour and the sixth and every one of them belonged to somebody and had a name on it by the second time it had been handled, and the one object at the end of that floor that nobody could be charged with anything about was still the one nobody had spoken about in front of anybody until this morning.
+
+He went up the floor at the pace he came down it at and did not look at the end of it on the way, and the young man watched him go without turning round, and the space between them got back to the width it had been before either of them said anything.
 
 **The young man did not go back to the end of that floor that week and he did not go back to it the week after, and he has not been to the end of it since. The box is still standing at the end of it with the lid on it, and the two men who made it chargeable in a lane with nobody in it have about nine feet of floor between them, and neither of them has said one word to the other since about the fifth hour on the second day, and nothing in this empire has a space for a man who walks away from a thing, which is half of why he walked away from it.**

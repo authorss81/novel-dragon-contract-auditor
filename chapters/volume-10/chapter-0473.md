@@ -14,6 +14,8 @@ He came in at the fourth hour along with everybody else — the man of thirty-ei
 
 He went to the end of the boards and stood where he stands. He put nothing on them.
 
+He stood at the end of them with his hands at his sides and the boards went up around him without touching him, and nobody at either end of the room adjusted what they were doing for the fact of him standing there.
+
 ---
 
 At about twenty past the fifth the clerk of about twenty-nine turned her head the amount of turning that head does, which is not a lot, and put one thing into the room, and there is only going to be one this month and it had been a month since she said anything at all.
@@ -21,6 +23,8 @@ At about twenty past the fifth the clerk of about twenty-nine turned her head th
 "**A sheet that has been bought twice by two people is the only object in this empire that is not a party to anything and is not a record of anything, and there is no heading anywhere over it, and it cannot be entered and it cannot be produced.**"
 
 Tamsin Rook did not look up.
+
+The lid of the case was under her hand the whole time and the hand did not move on it, and the near end of the boards stayed exactly as quiet as the far end of them had been for the length of the sentence.
 
 "That is the second true thing this month I have been in a room for, and I am not going to be in a room for a third, and I have not said it to you and I have not said it to her. I have said it to an empty room and a table with a book open on it, and there is a pen lying in the middle of that book, and the pen has been lying in the middle of it since the second hour."
 
@@ -36,11 +40,15 @@ Tamsin Rook did not look up.
 
 Nineteen minutes of the hour went by after that and nothing was said at either end of those tables.
 
+It went by the way long times go by in rooms where nobody is speaking, and the boards stayed up and the case stayed behind them, and the book at the far end of the tables stayed open at the page it had been open at since the second hour.
+
 At about ten to the sixth a woman of about thirty came up the four flights and put fourpence on the boards and was handed a sheet out of the case and folded it and went down again, and she was not asked what it was for, and nobody at that counter has the standing to ask her and nobody is going to develop one in a week.
 
 ---
 
 **The undertaking was not exercised and it was not given up, and the day of it is a thing some people in this matter know to the day and that not one of them has ever put into a sentence in front of any of the others, and it was not said this morning in any mouth in that room, hers or the far end of the two tables, and it is not going to be said this week.** Nobody thanked anybody. The man of thirty-eight went down the four flights at the sixth hour with two things in the inside pocket of a coat and he did not tell one person on that floor that he was carrying them, and he did not take either of them out, and there is no line anywhere in this empire for a person who was told about a coat.
+
+Nobody in the room put her name on anything in the whole of it, and she did not put it on anything herself, and the twenty minutes she came in early by went on being the only thing about her a person working the floor had noticed in two years.
 
 She squared the near end of those boards with the flat of her hand, which is a thing she does about as often as anything else she does, and the case went back in behind them, and the four went onto the wall in the places they have held for eleven years, and the fourth of those four is the one none of the three of them can account for.
 

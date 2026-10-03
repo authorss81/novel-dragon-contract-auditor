@@ -18,6 +18,8 @@ Tamsin Rook had her hand flat on the lid of the case. She is twenty-four and she
 
 She took a sheet out of the case and set it down on the boards and did not push it across, which is the ordinary way of it for everybody else, and the woman next door picked it up off the wood herself and put it inside her coat and went down the four flights.
 
+The lid of the case came down onto its edge and stayed there, and the boards took the fourpence and then the sheet, in the order they take them every working morning, and nobody at the near end looked at the sheet on its way off the wood.
+
 ---
 
 **He had come up that stair wanting two things, and one of them was in the inside pocket of a coat on the side the page was not on, and it has been in that pocket about two years.** A hand that was not his mother's put a line through a name on a leaf, and the thing he has wanted for longer than the fire is what belonged at the foot of that struck line, and the claim that travelled with the name went out the same way, and he has one of the two and has never had the other. There is no column in this empire that would take it, and a leaf is not a column, and a leaf is not copyable without the name being on it.
@@ -27,6 +29,8 @@ And a copy is a thing standing in for a thing that is not there. Her first was s
 ---
 
 Marn Ottery was at her own end of the boards. She is thirty-four and she has not left that floor in eleven years and she is the only one of the three of them who never has.
+
+The far end of the joined boards is hers and she was standing at it with her hands flat on the wood, and the sound of the room came back off the boards behind her the way it comes back off them, and nobody crossed over any of it.
 
 "I have got two of them in this room this morning and I could not tell you which is which, and I have been in this room eleven years and I have never once wanted to."
 
@@ -40,6 +44,8 @@ Marn Ottery was at her own end of the boards. She is thirty-four and she has not
 
 Kest said nothing and he was at the end of the boards and both of them knew he was there.
 
+He did not look at the case and he did not look at the boards and he did not look at the woman going down the stair, and the far end of the boards stayed with the person at it and the near end stayed with the person at it and neither of them looked over.
+
 The fourpence went into the ordinary tin at the near end where it has gone every working morning for eleven years, and the sheet did not go anywhere at all. **The box under the far end of those boards did not open. The drawer under the wall board did not open. Nothing was ruled anywhere in that room and no line was cut into the strip printed along the top of the second one. Nobody at that counter was going to ask that woman one thing about what the second of it was for, and nobody has ever asked anybody that, and there is nowhere to put an answer down if they had.**
 
 The three of them could not have said in words what that woman was. She was a customer, and she was the person who had come up a second time in seven days, and there was no third thing to call her and no word on that floor for the third thing. **And her second could not be taken off her by finding her, and it could not be taken off her at all, because the maker of the first one is not a party to the second and the second one is not the thing the first one came from, and nobody in this empire can be shown holding it because holding a substitute is not holding anything.**
@@ -47,6 +53,8 @@ The three of them could not have said in words what that woman was. She was a cu
 ---
 
 He went down the four flights at about the fifth hour with the two things in that coat where they had been at the fourth hour, and there was nobody in that building with a reason to count what a man was carrying, and there is no line anywhere in this empire for the person who does it.
+
+The stair took him down at the rate it takes anybody going down it who is not going to stop, and the coat stayed closed over both of the things in it, and the four hours he had spent in the room did not come out of him in any way a person at the bottom of the stair could have seen.
 
 The woman next door was about four hundred yards ahead of him by then and going the other way. She did not turn round and he did not go after her. The woman who stands at the foot of the four steps in that lane and the woman who lives beside him are two women about four feet of wet apart and neither of them has ever said a word to the other about the man who lives between them, and they did not begin it in a week when one of them came down a stair with a second of a thing in her coat.
 

@@ -10,6 +10,8 @@ It is the fourth day of the third week of the ninth month of the year after the 
 
 She was fifty-three, nineteen years in that room, and the minutes of it are hers to keep. She advises nobody. She has not put a thing to that room in about four years.
 
+Her table is against the same wall it has been against for the whole of her time in the room, and the chair under it has not been moved in any of it, and the door of the room is a door people walk through without stopping inside.
+
 Her own finding is on a shelf under a window with no pane in it. It is a question with no full stop and her own name written at the foot of it, and she put it there on purpose, in about the eleventh year of her being in that room, so that there would be a door in that room with her name on the frame of it and somebody could walk through. **Nobody has gone to her. Nothing has been put to her. It is still a question, it has never had a single thing set down after it, and it is not going to be picked up this week, and the man at that sill could not read it if somebody did put it in front of him.**
 
 She sat down and wrote her line — which room, which hour, how long — and then she put the pen down beside the page and left it there, which is what she has done every working day for four years.
@@ -23,6 +25,8 @@ The woman of about nineteen came out of that room at about the fourth hour with 
 He did not look up.
 
 Nobody asked her anything. That is the whole of what happened on that floor that morning and it is what happens on it every morning, and she stood there about as long as a sheet takes to be squared and she said the other thing, out loud, into a corridor that goes nowhere.
+
+The corridor took it and gave back nothing at all, and the armful in her arms did not shift while she was saying it, and the number she had come out with was still in the air in front of her when she stopped talking.
 
 "**Everything he signs, somebody is holding. About nine hundred times a year that is true, and a second of any one of them is somebody holding his mark twice, and a mark is the only thing he puts into the world in his whole working life, and it fits on a sheet the exact width of a name and fourpence.**"
 
@@ -42,6 +46,10 @@ The woman of about nineteen put the armful down on the ledge and picked it up ag
 
 He signed the ones that were square and he signed them the way he signs all of them, and he did not look up while he did it, and he was not asked what a second holder is and he did not ask, and he was not asked what is on the sheets he signs and nobody has asked him that in about nineteen years. **Nobody has asked him one thing about a number this week, and nobody has asked the four people in this empire who cannot make sense of a paragraph one thing about a number either. The man at the end of a lane about nine miles off this building can read a paragraph and has always been able to read a paragraph, and he is nothing to do with the four. He has not been asked and nobody in this building is going to ask him, and I have not told him and I am not going to.**
 
+The pot went on taking the pen and giving it back at the rate it has always taken it and given it back, and the ledge at the end of the sill came back to holding nothing, and nothing about the armful going into the room had been entered by anybody.
+
 At a minute past the seventh hour the hook was bare and it emptied the way it always empties, and the nine hundred went out of that building one at a time, and not one of the nine hundred people they went to has any idea whose hand is at the foot of the thing they are holding.
+
+The corridor went quiet after that and the sill went on being a sill with a man at it, and the ledge was bare and the pot was where the pot is, and nothing in the building had been said to anybody about any part of it.
 
 **The ninth of the nine is on nothing at all and it is in his head. Nobody in that corridor thanked anybody and nobody in it was sent for, and the mark went onto the foot of about nine hundred sheets in a day and not one person in this empire knows what it is standing at the bottom of. One woman in that building said a true thing out loud this morning and got no answer, and the not being asked was the only thing she had, and there is no form anywhere in this empire by which it is put back.**

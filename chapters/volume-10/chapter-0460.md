@@ -10,6 +10,8 @@ It is the second day of the second week of the fifth month of the year after the
 
 Tamsin Rook was in at twenty minutes before the hour, and the twenty minutes are the twenty minutes, and they are not a decision and have not been a decision for two years. Nobody on that floor has ever said one word to her about them. She is twenty-four, and her undertaking is live and unretired and unused, and the day and the month of it are not said out loud anywhere anybody can be shown.
 
+The boards were not up yet at the hour she came in and the case was still behind them where it lives during the night, and the light off the lane was not yet round to the far end, and she came in the way she comes in.
+
 "You are early again."
 
 "I am."
@@ -23,6 +25,8 @@ Then Tamsin Rook said the thing. She said it in the ordinary voice, and it came 
 Marn Ottery did not turn round and did not answer it.
 
 "I heard that, and I am leaving it lying where you put it, and nothing is going to happen to either of us this morning because of it. I am not treating it as a question and I am not going to treat it as one later this week. Put it to me as a question and there would have been four things to do about it before noon, and I have done none of them and I am not going to."
+
+It lay where it had been put for the rest of the morning, and it was still there when the boards came down, and it never got picked up by anybody in the building including the person who had put it there.
 
 ---
 
@@ -42,7 +46,11 @@ Marn Ottery did not turn round and did not answer it.
 
 She did not answer it and she did not turn round. Tamsin Rook went and did the eleven things in the order she does them, and they took her about a quarter of an hour. About four hundred people went out of that room one at a time in a year, that morning being one of the ordinary ones, and not one of them was asked what the thing in their hand was for.
 
+The eleven things take the time they take and not a moment of it is given away, and the case goes down and comes up and the boards go up and come down, and a person standing at the near end of it for a morning is doing the same work in the same order as she did it the morning before.
+
 At about the third hour and twenty minutes a man of about twenty-six came up those four flights. He stood at the near end of those boards with his hand in his coat, and he is paid for a corner and not for a page. He put nothing down, and nobody in that room told him he did not have to, and he bought nothing and he said nothing for about two hours and twenty minutes. At about the sixth hour he went down the four flights with the corner still in his coat, and there is no form anywhere in this empire in which a man is entered as the one who stood at that counter for two hours and bought nothing.
+
+Nobody at either end of the boards looked at him for the whole of the time he was standing there, and the case went on giving out what it gives out, and the boards went up and came down on the far side of the room, and none of it needed him.
 
 Nobody was thanked in that room this week. Nobody was forgiven. Nobody was sent for. Nothing was resolved, the arrangement is still standing, and the drawer under that board stayed shut with four things in it and two of them never opened, and the box at the far end of the boards is where it was with the dust on it that was on it at the third hour.
 

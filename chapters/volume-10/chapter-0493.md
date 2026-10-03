@@ -16,6 +16,8 @@ She had not gone to the doorway, and that is the first thing that had changed in
 
 She had a sentence that was not half finished. It had been whole since the week the girl went back to the back of that shed after a summer. It needed no frame and no light and no particular hour. She had been carrying it to that door out of a habit that had stopped having anything to do with it.
 
+The doorway stayed at the side of the shed it has always been at and the sentence stayed where she had put it for the length of the whole week, and the floor between the front bench and the door went by the way the floor goes by every day of the year.
+
 ---
 
 Then she said the thing that is the whole of that week. She said it to the flags, and not to the man at the front bench, and she said it once.
@@ -29,6 +31,8 @@ She let that sit, and the chain went a small way and came back, and the two of s
 ---
 
 He said nothing for about as long as a sheet takes to be squared, which in that shed is about nine seconds and is the only clock in it.
+
+The chain did not move in any part of it and the shed did not make a sound in any part of it except the sound the shed makes when nobody in it is saying anything, and the man at the front bench kept his head where he keeps it.
 
 He is the only person in this matter who can read out of a printed strip and say out loud whose hand it is, and no sheet is going to be put in front of him in this lane, and nobody in this city is going to put one there either. When he spoke in that bay, four sentences, about a year ago, nobody took one of them up, and he had not wanted anybody to. Everything he has said in that shed since has gone to the floor rather than to her, and she has taken in every hour of it, and he has not once looked up out of that bay long enough to see that she has.
 
@@ -49,6 +53,10 @@ And then he gave the rest of it to the floor, and it took him about as long as i
 ---
 
 The two of seventeen at the back did not move at any point in that hour and a half.
+
+The light off the lane did not reach behind the bench at any point of the morning and nobody in the lane looked at either of them at any point of it, and the back of the shed went on being the back of the shed without anybody going near it.
+
+Nobody went near the two of seventeen at the back of the shed in the whole of the hour and a half, and the ordinary morning went on going past the door of it, and the lamp stayed dark on its bracket until the hour it comes on by itself.
 
 The girl did not say one word, and she is not going to be asked anything this month and she is not going to say anything this month, and nobody in that shed has ever told her that either of those is unusual. Nobody in that shed is going to speak to her, and nobody is going to send for her, and nobody is going to thank her. If a second of a second were put in front of her tomorrow, there would be nowhere in this empire for her to put the fact that she did not want it.
 

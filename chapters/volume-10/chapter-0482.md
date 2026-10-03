@@ -16,6 +16,8 @@ She came in off the lane with the form still not in her hand and left it on the 
 
 She let that sit.
 
+The flags under her took the sound and gave back less of it than they were given, and she stood in front of the front bench with her back to it and did not move while the rest of what she had come in to say went out of her.
+
 "You were not going to say anything and you are not going to now, and I have not said one word to you this morning that was aimed at you, and I am not going to be thanked for any of the two halves."
 
 ---
@@ -27,6 +29,8 @@ He shifted on the bench and the chain went a small way and came back, and he did
 ---
 
 He said nothing at all about the strip.
+
+Nothing was said in the bay for a length of time afterwards, and the chain across the front bench stayed where it was, and nothing was carried into the shed by anybody on any day after the morning and nothing was carried out of it either.
 
 That is the whole of what that man did about it, and he had it, and he has had it for the length of time it takes Halla Wray to cross that floor twice. He is the only person in this matter who can read a line out of a printed strip and say out loud whose it is, and nobody in this lane is going to put a sheet in front of him, and nobody in this city is going to ask him for it, and he has not said one word of it in a room and is not going to start. He said four sentences in that bay about a year ago and nobody answered one of them and he never wanted an answer. Everything he has said in this shed since has gone to the floor instead of to her, and she has noticed all of it, and he has never once noticed her noticing.
 
@@ -46,11 +50,15 @@ Then she went to the doorway.
 
 She goes to that doorway about six times a year and she has stood in it about six times since the spring with a sentence that begins *It is not a person who* and stops there every single time, and the man at the front bench has never once asked her for the rest of it and has said so, in those words, and meant it.
 
+She has walked to the frame at the side of the shed about six times a year and every one of them has been the same walk and the same not-beginning, and the door is on the side of the shed the light comes in on, and the frame is the brightest place in the bay before the lamp comes on.
+
 She got as far as the frame and she did not begin it.
 
 And about two minutes after that the man at the front bench got up, which he does perhaps twice in a month, and came the length of that shed to the board by the door and stood with his back to the form that is on it, about nine foot off her, and looked at the wall.
 
 Nobody will ever be able to say which of the two of them left that sentence where it was. She did not begin it. He crossed a floor he did not have to cross, and he did it two minutes after she had gone to the door, and the order those two things happened in has never been spoken about in that shed by either of them and is not going to be. A sentence that stops halfway in a doorway is a sentence with two people standing in that doorway, and there was one person in that doorway this morning, and there has been one person in it on every other morning for about two years.
+
+The doorway is the width of a person and it has been the width of a person for as long as the shed has been a shed, and it is the only place in the bay where a sentence can stop halfway and still be a sentence anybody heard, and it has been standing there with nobody in front of it for about two years except for her.
 
 He went back to the front bench about a minute later and sat down and the chain went a small way and came back, and neither of them said one word about the two minutes, and the two of seventeen at the back did not move.
 

@@ -20,6 +20,8 @@ He came down the flags at about that hour with the rack over his hip and there w
 
 She did not say anything for a while, and the flags were doing what they do, and the lock was where it is.
 
+The cold came up through the flags into the side of her the way it comes up into everybody who stands still on them, and the run went on being the length of it in both directions with nothing in it at either end, and she did not put her hands into her sleeves.
+
 "You have just made that run into a place where a thing could arrive," she said, "and you have done it by coming down it empty. There is no form for a man who comes down a run four times with nothing on it, and that means there is no form for the thing either. You have not thought about the second half of what you have just said."
 
 "I have thought about the second half."
@@ -32,11 +34,15 @@ She did not say anything for a while, and the flags were doing what they do, and
 
 She turned round and looked at him, which she had not done in about four years, and the two of them stood in that corridor for about as long as a sheet takes to be signed.
 
+The four years of not looking went out of her in one look and it did not come back afterwards, and the corridor held both of them for as long as it held them and gave nothing back while it did, and the light at the near end of it did not move.
+
 "**Then you are a person who knows what I am the cheapest person in this building for. There is no form anywhere in this empire for a person who knows that. You cannot put it down. You are not going to be thanked for it, and you are not going to be asked about it, and neither of those is going to make you safer than you were at the fourth hour this afternoon.**"
 
 "No," he said. "It is not. And I would rather have said it this month than found it out from a person else in about a year. And I am not going to be thanked for that either, and there is nothing down that run, and there is not going to be anything down it this week."
 
 She turned back to the lock.
+
+She turned back to it and put her hand on the cold side of the lock and left it there, and the run went on in front of her with the rack going up it empty, and neither of them put one thing to the other after that.
 
 A woman of about twenty-six stood at the end of about four hundred yards of cold flags. She did not take a figure out of her head, and she did not put it on anything, and she did not hand it to anybody. The man in the felt apron went back up the flags with an empty rack, and he is the second person in this matter who has said out loud that the reason a person cannot be asked anything is also the reason that person can be given anything. The two of them are the only two people in this city who know that about each other, and neither of them is safer than they were before the fifth hour.
 

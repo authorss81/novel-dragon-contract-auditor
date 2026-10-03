@@ -14,9 +14,13 @@ The man came the length of the floor at about that hour and said something that 
 
 Then there was a third man at the end of it, and none of the three of them had said one word to each other.
 
+Nothing was said to anybody and nobody turned round and the stretches of floor between them stayed the widths they were, and the box was looked at by nobody while all of that was going on.
+
 He had come down four flights from a room he has lived in for about two years, and he had put nothing in anybody's hands, and he is not on a book anywhere in this city. The nine things that were set out against him at the other end of those boards are the nine things there still, and none of them is in his hands, and there is no heading over his name in any building in this empire. A man with nothing against his name is the only kind of man a search in this city reliably comes back holding.
 
 Marek Kest came about nine foot off the end of that floor and stopped. He did not go any nearer. He did not touch the box, and he did not look at the lid.
+
+The floor took his boots the way it takes the boots of everybody who stands on it, and the stretch of it between him and the loading end stayed as wide as it was, and the lid stayed exactly as shut as it has been since two men made it chargeable.
 
 ---
 
@@ -29,6 +33,8 @@ Marek Kest came about nine foot off the end of that floor and stopped. He did no
 ---
 
 Nobody said anything for about as long as it takes to square a sheet.
+
+Men stood at the different ends of the floor and nobody crossed the middle of it, and the lid stayed on the box and no hand went anywhere near it at any point of the rest of the morning.
 
 The young man did not turn round. Two sentences is all he has ever said on that floor, both of them to one man, and there is not going to be a third, and nobody is going to ask him for it, and there was a stretch of floor between the two of them the whole of the time that neither of them crossed.
 
@@ -53,6 +59,8 @@ Marek Kest looked at him for about four seconds.
 ---
 
 He went back up four flights. He did not look at the box on the way out and he did not touch the lid of it, and he did not ask the young man one thing. The young man did not turn round and did not say anything at all.
+
+The four flights took him up at the rate they take anybody up them and the door at the bottom of them was where it is and nobody was at the bottom of them, and the floor he had come down went on being a floor with men left at the ends of it.
 
 The box at the end of that floor is still chargeable, and it was not opened this week, and nobody has put a hand on the lid of it. There are now three men in this matter who could be produced in three different rooms and who could not produce each other if they were asked. Nothing has been written down anywhere. Nobody was sent for. The third of them is the cheapest man in the city, and the only one of the three who has ever made a decision with another person in the room while it was being made.
 

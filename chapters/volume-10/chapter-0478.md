@@ -18,6 +18,8 @@ Marn Ottery said it to the boards and not to him, from the far end, and she said
 
 He did not turn round and he did not move.
 
+The rolled sheet stayed inside his coat and the boards took her voice and gave it back out into the middle of the room the way they take everything said at the far end of them, and the daylight coming in off the lane reached the wall board and stopped about where it is.
+
 "**There is an object in this empire now that can be made twice without a single person finding out, and it costs fourpence, and it comes out of a case at the end of this counter, and there is no form in it for stopping one and there is no form in it for finding out that one has been made.** A man who can be found is a man a second of a thing can be made against. That is all it takes. It does not take anybody knowing that you have a thing. It takes one person in one week deciding to be unlucky twice, and about four hundred of them come down those stairs in a year and each of them is carrying something that is not the thing."
 
 "Nobody in this building is going to make one against me."
@@ -34,14 +36,20 @@ The man with the fair hand said nothing to that and it went into the air and set
 
 "I have not asked you one thing and nobody on this floor has asked you one thing in any of the mornings you have been up that stair, and I am not going to start, and there is nobody in this building I could start with."
 
+She put her hand back on the boards and left it there and he stayed where he was at the end of them, and neither of them put anything else into the middle of the room before he went, and the boards stayed up until the hour they come down at.
+
 ---
 
 He went back down the four flights and then about two miles through a city at the walking pace of a man carrying something, and he did not put a coin on a single board on the way, and he got to a room with a table in it and shut the door, which is a thing he does and not a thing anybody could be shown.
+
+The door shut on a room that has a table in it and nothing else in it anybody could put a name to, and he put the rolled sheet down on the table where he had put it before, and he did not open it, and the door stayed shut behind him.
 
 Eight hours of a fair hand at a rate that is a rate and not a kindness. The fourth line of the fourth page does not agree with the line above it and has not agreed with it for about a fortnight, and he has known it the whole of that fortnight, and he is not the man who is going to say so out loud to anybody about it.
 
 **He wanted, in that room, at about the sixth hour, to be able to find out whether a second of it existed. That is the whole of what he wanted and it took him about four seconds to work out that there was no way to it.** There is no register of copies. There is no column a copy could be entered under. Nobody makes a second in front of anybody. The fourpence is the same as the fourpence, and the ninety seconds are the same as the ninety seconds, and the two of them came out of the same case two years apart, and there is nothing in this empire that could put one of them beside the other and say which came first. **And a man who cannot be found would be a man nobody could make a second of anything against, and he had that for two years by accident, and one woman putting fourpence on a counter in a fortnight took the whole of it off him, and there is not a form anywhere in this empire that would put it back on him, and nobody sent for him and nobody is going to.**
 
 He sat at that table for a while and then he did the next page.
+
+The fair hand did not vary on any line of the page he was on and the door behind him stayed as it was for the whole of the time he was at the table, and nobody came to it, and nothing done in the room was entered anywhere by anybody.
 
 **Nobody thanked anybody. The bill stands on an account and nobody has told him whose account, and the figure in his head is on nothing. About four hundred and thirty miles of this river stand above the point where that room is, and a woman of twenty is in a counting room at the back of a dye end about that far up it, and he is not going up there this month and nobody is going to make him. The room he is in is two rooms above a chandler's and it has no window at all, and there is a smell of tar under the door that he stopped noticing in the first week, and that is the whole of where he is.**

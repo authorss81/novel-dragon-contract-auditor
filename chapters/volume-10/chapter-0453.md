@@ -18,9 +18,13 @@ One of them is a leaf with a line through what stood at the foot of that line. I
 
 The other of them is a piece of paper with a strip printed along the top of it, and the same four things printed along the top of that. It came out of the case at the near end of a counter at the top of four flights on a wet morning about two years ago, and fourpence bought it, and he put it on the side the page was not on, and he went down the four flights with it.
 
+It has nothing on it anywhere but the strip, and it has been folded once and opened out flat again, and it is the same width as the other thing in the pocket and not the same kind of thing at all.
+
 **He has never told anybody he is carrying two things.** There is no one in this matter he could tell and not be the only person who said it. There is no form anywhere in this empire in which a person is entered as the one who said it, and nobody has looked in that coat and nobody is going to.
 
 He put his hand flat on the inside pocket and did not take either of them out.
+
+The coat was on the chair against none of the walls and it had been on the chair for as long as he had had the room, and nothing in the room had been moved since he got in.
 
 ---
 
@@ -46,6 +50,8 @@ He said it up the stairwell and not to the man.
 
 Nobody asked him where the two of them were. Nobody asked him anything at all. The young man did not look at the chair and could not have seen it from where he was standing, and he said it up four flights of open stair to a man in a room with the door standing open, and there is no form anywhere in this empire in which a person is entered as the one who was told a thing about a coat.
 
+The four flights between the two of them carried a voice up and a voice down and nothing else, and the stairwell is the only place in the house where a thing said at the bottom can be heard at the top without anybody coming up to say it.
+
 "It is a true thing," Marek Kest said.
 
 "It is. I have known it about four days and I have not said it to anybody, and you are the first person I have said it to. You did not ask me for it, and that is the whole of the price of saying it here. There is no other price, and I am not going to be thanked for it, and you are not going to thank me, and I have not come up this street to be thanked."
@@ -63,6 +69,8 @@ Marek Kest said nothing to that.
 ---
 
 Then he went out. His boots were on the flags under that door for about the length of a sheet being squared, and he did not say one word on the way out of that building, and nobody in that building said one word back to him about the door or the landing or the lamp at the foot of the stair.
+
+The door was left where the young man had found it, and the street outside it was doing the ordinary evening, and nothing in the house was disturbed by a man going out of it and nobody came back in after him.
 
 Marek Kest stood in the room with his hand flat on the inside pocket of a coat on a chair against no wall. He did not open the pocket. He did not take either of them out. He did not put the leaf on the table where it has been twice in two years.
 

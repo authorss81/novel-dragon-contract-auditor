@@ -16,6 +16,8 @@ Tamsin Rook looked at him for about as long as a sheet takes to be squared.
 
 The satchel went down onto the step beside his boot.
 
+The satchel took the weight of nothing in particular onto the step and the strap went slack above it and he did not put a hand down to steady it, and the step took it the way the step takes everything he has ever set on it.
+
 "I know a man came up," he said. "About four hundred a year come up them and go back down again. Only four sheets a week come down at a time, and not one of them goes back up. I have carried down some of the ones that went up in a different hand, and I am not going to tell you which week, and I did not know it was a week until you said the word."
 
 "You knew the month."
@@ -40,6 +42,8 @@ He went up the last flight and set the satchel on the counter at the far end, an
 
 Then he went back down.
 
+He went back down at the pace he goes down at and the lamp at the foot of the stair was still not lit and the stair did not make any noise under him that it does not make under everybody.
+
 He stopped on the fourth step from the top going down and turned round, and he did not come up, and he said it to the stair.
 
 "You have put something under a floor in there."
@@ -53,6 +57,8 @@ He went down and out of that street, and the lamp at the foot of the stair had n
 ---
 
 The landing was empty, and the stair had kept nothing, and there is no list on a stair and there never has been one and nobody has ever been asked to make one.
+
+There is nothing written on the wall of the stair anywhere between the bottom of it and the top of it, and nothing has ever been written on it, and nobody came back up it in the week to look at the step where the satchel had been put down.
 
 A man who came up in the last week of the year is not on a book and was not on a book and was not asked a thing. A man who comes up every day of his working life does not know which week it was, and will not now. The two of them have never met and are never going to meet.
 

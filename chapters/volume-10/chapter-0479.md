@@ -10,6 +10,8 @@ It is the second day of the first week of the tenth month of the year after the 
 
 The young man came the length of that floor and stopped about nine foot off him and said it, and it was ten words, and it was true.
 
+The floor between the two of them went on carrying the ordinary traffic behind the sentence and neither of them stopped what he was doing for it, and the boxes at the loading end went up onto the cart the way they went up onto it every hour of an ordinary day.
+
 "**A copy of a copy cannot be traced back to anybody.**"
 
 The man of about forty-five did not turn round and did not answer it and went on with what he was doing for about as long as a sheet takes to be squared, and when he did speak he said it to the floor and not to the young man.
@@ -24,11 +26,15 @@ The man of about forty-five did not turn round and did not answer it and went on
 
 The young man waited about four seconds.
 
+He waited there with the sentence still in his mouth and did not put it down and did not pick up another one, and the other man went on putting things down and picking up the next one at the pace he has worked at for nineteen years.
+
 "**That makes it the only paper that fits anybody.**"
 
 ---
 
 He put the thing down and it made a noise on the boards and neither of them looked at it.
+
+The noise went into the boards and came back out of them a little flatter than it went in, and the thing stayed where it had been put down, and the next thing was picked up off the floor at the same speed as the last one had been.
 
 "**Take that off this floor.** Not off me. Off this floor. A sheet with nothing printed on it can be set beside the wrong pair of figures and there is not one man in this empire who would be able to say it was set there on purpose, and I have been the one writing the name onto things on this floor for nineteen years, and I am not going to be standing nine foot away from a sentence like that when the wrong pair of figures turns up on this lane. About two hundred things go across here a day and every one of them is somebody's, and that is the only thing I have ever been able to give anybody on this floor, and I am not giving it away to a sheet that fits anybody at all."
 
@@ -39,5 +45,7 @@ He put the thing down and it made a noise on the boards and neither of them look
 ---
 
 At about the fifth hour a courier came up that floor from the yard with a satchel on his shoulder. The young man put four sheets into it and kept his mouth shut, and the courier took them and went up the stairs the way he goes up them, which is the way of a man who has been carrying other people's paper up a stair for longer than either of the two men on that floor has been standing on it. **He has wanted to know what is in that satchel every working day of that time and he has never once put the wanting anywhere, and neither of the two men downstairs has ever told him one word about it, and there is no landing on that stair at which either of them could have.**
+
+The strap went over his shoulder and came down again on the same side it goes down on every working day, and he did not look into the bag on the way up and he did not look into it on the way down, and nobody on the stair has ever looked into one.
 
 **Nothing was ever made out of that box by anybody, and the two men who made it chargeable in a lane with nobody in it about two months ago cannot undo it, and there was nobody in that lane who could have told the two of them what they were doing while they were doing it.** Nobody thanked anybody and nobody was sent for and the two of them went up and down the same floor all week with about nine feet between them and neither of them said one word to the other on any of it except the two sentences, and those two were said once each and neither of them is going to be said a third time in that lane.

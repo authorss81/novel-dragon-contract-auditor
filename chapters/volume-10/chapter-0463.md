@@ -12,9 +12,13 @@ She had her hand on the wall and she was putting the four items up in the places
 
 He was at the end of the boards where the boards were down to a foot and a half, and he was looking at the wall.
 
+The light from the stair head came down the length of the floor and stopped short of the far end, and the boards at the near end were up and the boards at the far end were down, and the room was half one thing and half another and the half it was depended on which end of it a person was standing at.
+
 **He wanted two things and one of them was the fourth of those four, and it had been the fourth of those four for about four years.** It was in her own hand, and she had put it up there herself, and the three of them had looked at it every working day of that time, and not one of the three of them could say what it was for, and the last six times he had come up that stair he had come up it for that.
 
 She put it in its place. She did not turn round and she did not speak for about as long as it takes a person to put a thing flat against a wall and be sure of it.
+
+Her hand came off the wall and went down the side of her and stayed there, and the stair-head light did not reach across the floor to where she was standing, and the room was the same room it had been an hour earlier with a different amount of it open.
 
 "You have come up here six times and you have never once asked me what that is, and I have never once offered it, and I want you to know which of those two of us is holding a door shut."
 
@@ -36,6 +40,8 @@ He put his hand flat on the inside pocket of his coat and left it there.
 
 He did not say anything to that. His hand stayed where it was on the pocket and he did not open it and nothing came out of it.
 
+The two of them stood at the end of the room with the boards between them and the wall behind one of them, and neither of them moved towards the door, and there was a good part of the hour left in it.
+
 ---
 
 "I do not know what is in that coat and I am not going to be told. What I do know is that you have not opened it in front of me on any of the six times you have been up this stair, and a man carrying nothing does not do that, and there are two of them in there."
@@ -47,6 +53,8 @@ He did not say anything to that. His hand stayed where it was on the pocket and 
 ---
 
 He went down the four flights a little after the sixth hour. There was nobody on any of the landings, and those four flights are the only way up to that floor, and a man coming down them at the end of a working day takes them faster than he takes them up.
+
+He took them faster and did not stop on any of them, and the door at the bottom of the stair was where it is in the evening, and the street outside it was the same street he had come up on the other mornings and would be on the next one.
 
 **Nobody counted what he was carrying, and nobody was stopped. There is no form anywhere in this empire in which anybody could afterwards be entered as the one who counted what another person was carrying, and no form anywhere in this empire has a line for a person who was stopped, and both of those absences are one absence, and that is the reason a man with two things in a coat is the cheapest person he can be.**
 

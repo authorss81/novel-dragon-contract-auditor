@@ -12,6 +12,8 @@ He is in a felt apron and he has the whole length of that stone, and he goes up 
 
 There is a figure she has carried for four years and it is on no paper of any kind and it is not going on one. She is not going to say it out loud in this passage or out of it, and nobody made her keep that. **It has gone up. That is the whole of what can be said about it in a room, and nobody in that building has asked her what went up and nobody is going to, and it does not get a heading, and there is nowhere in this empire she could put a heading over it even if there were.**
 
+The light lays itself along the flags in a line and moves across the middle of the morning, and neither of them ever looks at where it is, and the cold comes up off them and stays in the same place.
+
 ---
 
 He stopped about nine feet up on the third pass and looked back down at her, and the rack went on up the flags with him on it.
@@ -32,15 +34,21 @@ He stopped about nine feet up on the third pass and looked back down at her, and
 
 "You have a decision and you have had it since the spring, and you told me that in a week that is gone, and nobody has asked you for it. I am not asking you for it now and I am not going to, and I want that said on this stone in this week and not said twice."
 
+He said it going up and did not stop, and the rack came down the far side of the lock with him on it, and the words stayed on the stone where he had left them the way words do in a place with hard sides to it.
+
 ---
 
 He went up past her on the fourth pass without stopping and without turning round, and the rack came down the other side, and the stone was as cold at the seventh hour as it had been at the fourth.
+
+She did not turn round either, and the rack went up past her with nothing on it, and the sound of it went away up the stone the way it had gone the last several times, and nothing about the sound said anything had been put on it.
 
 Then she said it to the flags, out loud, once, to nobody, the way a person says a thing into a passage that will give it back.
 
 "**There is a man called Marek Kest at the top of a stair four flights long.** He has come up that stair four times and put nothing on the boards and gone down it again. There is not one form in this empire in which a man can be entered as the one who did that, and nobody has sent for him and nobody ever will, and he is the only person in this matter a thing can be put in front of without the putting being evidence against somebody. **I worked that out at this lock in about a minute, standing where I am, and I have got a figure that has gone up and has nowhere to go, and it would go to him, and I am not going to do it, and I am not going to tell him I worked it out, and nobody is going to thank me for not doing it and there is no form in which not doing it is entered.**"
 
 The passage gave it back. She did not say it again and she did not say a part of it, and nobody was there to hear it. There is nobody in that building she could say it to who would not be made a party to it by hearing it.
+
+What she had said went up the flags and came back down them and lost a little of itself on the way, and by the time it had come back it was a thing the passage had said rather than a thing she had, and she let it be the passage's.
 
 ---
 

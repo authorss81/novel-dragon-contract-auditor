@@ -16,6 +16,8 @@ There is no form in this empire for reading one out, none for asking whose a mar
 
 Then he took his hands out of his pockets and went back to the loading end and said one of those out loud, flat, to a floor with nobody standing on it, and he said it the way he says a thing that is going to be true in ten years.
 
+The floor took it and gave back less of it than went into it the way floors do, and the loading end of the floor went on being a loading end with a man standing at it, and the box at the other end of the floor was not looked at by anybody while he said it.
+
 "**I have been writing names onto things on this floor for nineteen years and I have got good at it. That is the one thing this lane has ever been good at, and since a woman put fourpence on a set of boards in the tenth month it has got good at it faster, and it has got good at the half of it that does not say who did the doing, and I have been the one doing it, and nobody is going to thank me for the getting better and nobody is going to thank the floor.**"
 
 ---
@@ -23,6 +25,8 @@ Then he took his hands out of his pockets and went back to the loading end and s
 The young man came the length of that floor at about that hour and stopped about nine foot off him, and he had not been to the end of that floor in about four months, not since the morning he walked away from it on purpose and said he was not going to come back to it, and he came back this week and stood there.
 
 He said nothing at all about a mark in a strip. He said nothing at all about anything. He has said two true sentences in his life on that floor and both of them were said to one man, and he is not going to say a third one, and nobody at that loading end is going to ask him for it, and about nine feet of floor went by between the two of them the whole time and neither of them put one thing to the other.
+
+The floor between them took the light off the yard end and laid it along the length of the boards, and neither of them moved into it, and the young man stood in it the way he stands in it when he has come back on purpose.
 
 "You have not said anything," the man of about forty-five said, to the floor.
 
@@ -44,7 +48,11 @@ At about the sixth hour a courier came up out of the yard with a satchel on his 
 
 There is no landing on that stair at which either of them could have told him one word. He cannot be told anything and he asks for nothing. He said one true thing in a stairwell two weeks that are gone, and somebody on a counter at the top of four flights has since told him he heard none of it, and there is nobody in that lane who knows any of it.
 
+The strap went over his shoulder and the stair took him up it the way it takes everybody up it, and the floor he came from went on being a floor with two men on it who had not said anything to each other, and the loading end was where he had left it.
+
 Nobody has ever got anything out of that box, and the two men who put it where it stands cannot take it back off themselves, and there was nobody in that lane in the week they did it who could have seen what they were doing or said a word about it. It is where it has been. It was not opened. It is still chargeable.
+
+The lid of it is where the lid of it has been and the dust on it is the dust that was on it the last time either of them stood at the end of the floor, and not one of the two has put a hand on it and not one of the two is going to.
 
 Nobody thanked anybody and nobody was sent for and nothing was resolved, and nobody at that loading end was asked anything and nobody was told anything they did not already know. A knife has been in a drawer at the top of four flights since before the man thinking about it was on a floor anywhere, and it takes about four seconds, and this week it stayed where it is, and he has thought about it and he is not going to do it, and nobody in this lane knew that he had.
 

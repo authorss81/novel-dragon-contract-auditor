@@ -14,6 +14,8 @@ He had a sheet rolled inside his coat. It was eight hours of fair-hand work at a
 
 He stood at the end of the boards for about an hour and a quarter and he did not put it on the counter and he did not ask for a second of it, and **nobody at that counter asked him one thing in the whole of that hour, which is the arrangement, and the arrangement has held for four years at the two joined tables and eleven years at the far end.**
 
+The rolled sheet stayed inside his coat for the whole of the hour and came out of it at the same angle it went in at, and the near end of the boards went on doing what the near end of the boards does, and he was in the way of nothing and nothing was in the way of him.
+
 ---
 
 Then Marn Ottery said it to the boards, and she said it the way she says a thing that is not aimed at anybody in particular, and the man with the fair hand was the only person at that end of the room.
@@ -32,6 +34,8 @@ The man with the fair hand did not move and did not speak.
 
 "**I have said it because a true thing about a second holder does not have one person in it, and if I had not put a name on him this morning then the only people in this empire who could be shown knowing about a copy would be the two of us standing at this counter, and one of us is a clerk.** Every person who was in that room when I said it is in it, and he was in it, and now there is a name attached to it, and I have done that out loud, in a room, at the fifth hour, on a working morning. **That is not a gift to him and it is not a thing I have done for him. It is the price of a sentence being said, and the price is always the same and it is always somebody who is not the person the sentence is about.**"
 
+His hands stayed where they were and the sheet stayed inside the coat and the case stayed shut at the near end, and the only thing in the room to move while she was saying it was the sound of her own voice coming off the boards behind her.
+
 ---
 
 "You have not asked me anything."
@@ -42,9 +46,13 @@ The man with the fair hand did not move and did not speak.
 
 "I know you were not, and I know what it costs a person not to ask, and I am not going to be thanked for noticing that, and I have noticed it about a woman of nineteen in a corridor nine miles off this building and I am not going to be thanked for that either."
 
+She squared the boards again the way she squares them and put her hand back where it goes, and neither end of the counter said anything while the other end had its turn, and the room went on being a room that a person could be shown having stood in.
+
 ---
 
 Tamsin Rook was at the near end with her hand flat on the case and she had been in twenty minutes before the hour, and she had heard all of it. **She has not been told why she is early and she is not going to be told this month, and the not being told is the one part of that which has been left alone for two years, and the reason nobody in that room has told her is that telling her would make her a person somebody can be shown knowing about a copy.** She said nothing. She did not agree and she did not disagree and she did the eleven things in the order she does them.
+
+She did not once look the length of the boards while any of it was being said, and the case went down and came up under her hand, and nothing she did in any of it had her name in it.
 
 **A name went out of that room at the fifth hour on an ordinary morning, and there is no form anywhere in this empire in which a person is entered afterwards as the one who said a man's name out loud in a working room, and nobody at that counter has thanked her for saying it and none of them is going to.**
 

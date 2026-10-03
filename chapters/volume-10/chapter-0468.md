@@ -26,6 +26,8 @@ The man of about forty-five with the loading end came down that floor at about t
 
 "I have, for about two seconds, and you saw me, and that is a thing I have now done, and I have had about nineteen years of those, and I am not going to lose the run of nineteen years over a box." The man of about forty-five did not look at the young man. "**And I am going to tell you the thing I have not told you, which is that you have said that sentence about that box twice and both times to one woman, and one woman is a person a thing can be attached to, and one is also a person who could be made to forget it. Two people would have been better for you. You stopped at one twice, and then this week you and I have stood at the end of this floor and talked about it, and there are two of us now.**"
 
+The lid of the box took his hand the way it took it before and let it go again, and the nineteen years he was talking about went on being nineteen years while he was talking about them, and neither of them had looked at the box since his hand came off it.
+
 "I have not said it a third time."
 
 "You are not going to and I am not going to and I have not asked you to. **A man who says a thing in front of two people has two people attached to it and cannot unmake it to either of them without a third being in the room, and there is no third in this lane, and I am not going to be one.**"
@@ -34,15 +36,21 @@ The man of about forty-five with the loading end came down that floor at about t
 
 That is when he found out what he had done, and it took about four seconds, and he found it out standing up.
 
+Nothing moved and nothing was said and the lane outside was doing whatever the lane does at the hour, and they found it out at the same moment the way people find out about a thing they have just done together.
+
 "So the two of us have just made that box chargeable."
 
 "I am telling you that a thing nobody can be charged with is a thing nobody has spoken about in front of anybody, and that box had been that for about nineteen years, and it stopped being that at about the fourth hour this morning in a lane with nobody in it." He turned and started back up the floor. "**I have not moved it and neither have you and neither of us is going to, and that is now the only reason it is still the only thing here nobody can be charged with, and it has cost it the two of us, and I am not going to be thanked for having spent that on it and neither are you.**"
+
+The box stayed where the box has been since before the young man came onto the floor and will be there when he is not on it, and the lid of it had been put down and not lifted since, and the lane outside went on with whatever the lane does and did not come in.
 
 ---
 
 He did not go to that end of the floor again that week. Not once, and there was no rule that stopped him and nobody told him not to, and he had been going to the end of that floor every working day for about two years and he stopped, and **nobody in that lane knows anything about that and there is no form anywhere in this empire in which a man is entered as the one who stopped walking to the end of a floor.**
 
 At about the fifth hour a courier from the yard came up that floor with a satchel on his shoulder. The young man put four sheets into it and said nothing at all, and the courier took them and went up the stairs, and there is nowhere on any of those four landings where a person tells a courier what is in a satchel. The courier has not asked anybody anything in this matter for as long as anybody in it can remember, and he was not going to start.
+
+The satchel took the sheets without comment and the strap went back over the courier's shoulder the way it goes back every working day, and the young man stood at the foot of the stair until the sound of it was gone and then went back up the floor to where he had been standing.
 
 **The box was at the end of that floor at the fourth hour and it was at the end of that floor at the sixth hour and it was not opened, and it was not moved, and it was not made a mystery, and the two men who had made it chargeable went up and down the same floor all week with about nine feet of floor between them and neither of them said one word to the other on any of it.**
 
