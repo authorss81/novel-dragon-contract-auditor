@@ -60,7 +60,7 @@ He owes him a second sentence and has owed it since the third month of the year 
 
 He went back up the lane and shut the shutter and wrote the day's figures out in a fair hand so that they came out even, which is the ordinary part of a day and is the whole of what he is paid for.
 
-He shut the shutter again and wrote out the day's figures so the totals came out even, and that is the part of a day he is paid for, and about nine people pass through it in a day, none of whom has put a question to him about a figure.
+He shut the shutter again and wrote out the day's figures so the totals came out even, and that is the part of a day he is paid for, and the shutter wanted looking at as well and he has not said so to anybody.
 
 ---
 

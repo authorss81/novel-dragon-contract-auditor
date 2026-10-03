@@ -64,7 +64,7 @@ Nobody is going to ask her a second time. She said so out loud in the third week
 
 A carrier came up the passage at about the sixth hour with a rack on her hip, and there were four on it, and four went onto the shelf by the window, and the woman of about fifty-five entered them in a hand that does not vary. **The carrier is paid ninepence at a lock and has not been asked what she is carrying in about six years,** and the woman of about fifty-five has not asked her either, and neither of them has ever asked the other.
 
-She comes up the flags with a load on her hip and goes straight back down them; nine or so crossings in a day are all either of them ever gets to know about the other, and four years of that has not turned into a word.
+A carrier comes up the flags with a load on her hip and goes straight back down them; nine or so crossings in a day are all the two of them ever get to know about each other, and four years of that has not turned into a word.
 
 The step at the top of the passage is still worn. The rail is still four feet high. A man of about sixty-one has been in this building twice in nineteen years and both times it was a season, and both times somebody told a carrier in a lane where to come, and a carrier in a lane is the whole of the instrument there is.
 

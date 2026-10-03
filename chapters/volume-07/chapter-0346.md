@@ -22,7 +22,7 @@ He has had the question ready since the fourth week of the second month. He has 
 
 A woman of about fifty-five is at a table with her back to the wall and there is a pen on the table and she does not look up when the door gives. A woman of about forty is standing near the rail with a scuttle on her hip and she is not one of the three clerks of that building and is not in this and cannot be asked what she has heard, and nobody has ever asked her and nobody is going to.
 
-It has been ready since the spring in about nine rooms, and he has never once stood anywhere else where he could have put it, and he has carried it about four hundred miles in his head and nine on his feet.
+It has been ready since the spring in about nine rooms, and he has never once stood anywhere else where he could have put it, and he has carried it in his head through every one of them and nine miles on his feet.
 
 "Is that rail the same height it was?" he said it out loud, at the door, to the room, about the rail, and it was, and nothing in this empire lets a rail be said to a person, and he did not go and put a hand on it.
 

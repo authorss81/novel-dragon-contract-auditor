@@ -20,7 +20,7 @@ The carrier is paid ninepence at a lock and is on a list, and has not been asked
 
 That is how the two of them have worked for six years and it is not a custom and it is not unfriendliness. **No form in this empire has ever made a clerk of an office able to enter that a person stood in the room on a given day**, and the not entering is the same absence as the not asking and there has never been a second one.
 
-She goes back down the cold flags with the rack on her hip and the cold goes with her, and about six years of the two of them not asking each other anything has not cost either of them a thing anybody has noticed.
+The carrier goes back down the cold flags with the rack on her hip and the cold goes with her, and about six years of the two of them not asking each other anything has not cost either of them a thing anybody has noticed.
 
 ---
 

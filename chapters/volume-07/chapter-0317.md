@@ -68,7 +68,7 @@ She is the only other person in this matter who knows what he said at the rail, 
 
 A carrier came up the passage with a rack on her hip at about the fifth hour and put it on the shelf and the carrier said nothing and she said nothing and the carrier went back down it and the cold came up after her and the rail stood in it.
 
-Four went onto the shelf and away down the flags she went without a word, and the cold followed her up out of the passage and stood in the room behind her afterwards. Neither of the two said anything at any point in it, and about nine minutes is what the exchange was worth.
+Four went onto the shelf and away down the flags she went without a word, and the cold followed her up out of the passage and stood in the room behind her afterwards. Neither of the two said anything at any point in it, and the standing in the cold afterwards was the whole of what the morning added.
 
 The pane is still out of the window at the bottom of the passage and has been for about four years, and nobody has asked her about the pane either, and the four hundred yards of it is not walked by anybody and has not been walked by her in four years.
 

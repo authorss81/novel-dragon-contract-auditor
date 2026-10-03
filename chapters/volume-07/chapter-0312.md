@@ -70,7 +70,7 @@ He has found out that the bill for his being findable is not his and stands on s
 
 His wife was at the bottom of the four steps at the end of it and she did not ask him how the week had gone, and she has not asked him how a week went in about two years, and she said out loud some weeks ago that she is not going to.
 
-Not one word was said about the sheet lying on the table with its fold in it. Neither of them had any asking available and neither of them tried, and the evening went by with the copy lying face up and neither of them looking at it.
+Not one word was said about the sheet lying on the table with its fold in it. He had no asking available and did not try for one, and the evening went by with the copy lying face up and him not looking at it.
 
 He had told her about the second thing he did about six weeks before he did it, out loud, on purpose, without asking her first, and gave her the reason, and the reason was that if he had asked she would have said no or said yes and been frightened and both of those would have been him arranging the room.
 

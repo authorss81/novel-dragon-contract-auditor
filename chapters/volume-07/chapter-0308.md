@@ -44,7 +44,7 @@ He is in that building twice in a season on his own feet, about nine miles, and 
 
 There is no form anywhere in this empire for serving a person with a question, let alone with that one, and the three questions stay where they are, and nobody in that building is going to ask her where.
 
-The three questions have been in her head about as long as the figure has been going up, and both of them have gone nowhere at all ever since. She could say all three out loud in about nine seconds and there is nobody in the place she could say them to, and the asking is the part nobody here can do.
+The three questions have been in her head about as long as the figure has been going up, and none of the three has gone anywhere at all ever since. She could say all three out loud before a carrier has got up the flags and back down them again, and there is nobody in the place she could say them to, and the asking is the part nobody here can do.
 
 She is the only other person in this matter who knows what he said at the rail, because she was in the building on the day of it, and there is not one form anywhere in this empire that will let anybody ask her what he said, and nobody is going to.
 

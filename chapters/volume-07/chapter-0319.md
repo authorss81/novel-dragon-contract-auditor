@@ -12,7 +12,7 @@ This is the second day of the first week of the fifth month of the year after th
 
 She said it out loud at about the third hour, to the room, the way she has said the whole of a thing to about four people who could do nothing about it about twice in two years, and a man of about thirty-four came up the flight in the middle of it with a sheet in his hand and stood there and heard the end of it and asked, "Is this the one you are talking about?", and she said that it was not a sheet and she was talking about a class, and he said that he had four of them, and she said that he did not, and he went down the stair.
 
-Four people were in the room when she started and two more came up while she was still going, and not one of the four asked her anything, and she has put the whole of a thing into the air in there a couple of times in two years and both times it was to people who could do nothing at all about it.
+Four people were in the room when she started and two more came up while she was still going, and not one of the four asked her anything, and she has put the whole of a thing into the air in there about twice in two years and both times it was to people who could do nothing at all about it.
 
 "The other half of it is this. **About nine hundred entries a year come into a building off the old river road with a second hand at the foot of every one of them, and they are about nine hundred classes.** The class is what the heading over the column is for. The class is what the form is put in front of, and the class is what came back an answer in about three weeks when one House tried it, because a class is a heading and a heading is a company, and a company can answer in three weeks without anybody minding."
 

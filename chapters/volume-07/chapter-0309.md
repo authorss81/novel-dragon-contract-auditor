@@ -30,7 +30,7 @@ A name in a column is a thing a person can be served at, and a person who has be
 
 That is the address. It is nine hundred rooms with one address in each of them, and there is no way to find one of them from outside the room, and a way to find one of them is the whole of the thing nobody has worked out.
 
-A hand is a thing about four inches long and it says nothing about the man it belongs to except that he was in a building on a morning. About nine hundred sheets of the kind leave this empire every year out of one room, and there is no way of getting to any of them from outside it, and he has never once found it strange, which is the thing about a man who has had it in his head for two years.
+A hand says nothing about the man it belongs to except that he was in a building on a morning. About nine hundred sheets of the kind go out of it every year, and there is no way of getting to any of them from outside the building, and he has never once found it strange, which is the thing about a man who has had it in his head for two years.
 
 ---
 
