@@ -15054,3 +15054,111 @@ unrepaired ranges:     01..06 = 1..300 at 50 each;  350, 400, 450, 500, 550;  61
 **What this review establishes about the range, and it is the standing for the next dispatch.** **Five of this pass's fourteen lines were defective and every guard this pass built passed all five, because the guards test shape and the defect was sense.** The contradiction class and the fixture class are closed by reading and by nothing else in this repository, and **a repair that rewrites prose to remove a contradiction can create one in the same line, and did, five times, in a range whose whole finding is that its base prose is so densely self-referential that a paragraph written in its own idiom collides with an eight-word run of its own.** The two gates that did hold — the four construction lists flat and insert-only with zero deletions — held because they are arithmetic and not judgement. **A fourth audit of this range should expect to find more of both classes by reading, should treat the run-based gates as evidence of nothing about sense, and should read every replacement against the whole of its own chapter's base and not against the paragraph beside it.**
 
 ***Prose committed in two commits: `8400366` for the first fourteen revoicings and the five further ones after the review. Nothing above this line is rewritten. The number this item takes is 246 and no existing item was renumbered.***
+
+# THE FOURTH AUDIT OF CHAPTERS 0301 TO 0349, MEASURED RECORD — ITEM 247
+
+Appended by the run handed `workspace/prose-repair-0024/PROMPT.md` naming Chapters 0301 to 0350. **Nothing above this line is rewritten, corrected, summarised or deleted.** No outline and no controller file was edited, no volume was planned, no Volume 13 was added, and no chapter outside 0301 to 0349 was opened. No prose was committed.
+
+## Zero: the precheck, the base, and the two readings of it
+
+**The prompt's central claim is false and its own rule covers it.** It states in terms that *Volume 07 has never been through this repair and carries no `prose-repair` commit*, that *Volumes 01 to 07 were all untouched until now*, and that this is *the first unrepaired volume to be reached* — and then instructs: *if it prints a repair commit, you are dispatched on a range that has already been repaired: audit it and say so, and do not rewrite repaired prose to buy a chapter written.* **This is the fifth dispatch to name this range unrepaired. Item 239 found it unrepaired and was right; items 240, 243, 246 and now 247 found it repaired.**
+
+```
+$ git log --oneline -- chapters/volume-07/chapter-03[0-4][0-9].md
+84b47c6 novel: prose repair of chapter-0301.md to chapter-0349.md, forty-nine of Volume 07's fifty ...
+4eaee3a novel: second dispatch on chapter-0301.md to chapter-0349.md ...
+8400366 novel: third dispatch on chapter-0301.md to chapter-0349.md ...
+f033c56 novel: the review of the chapter-0301.md to chapter-0349.md audit ...
+```
+
+**The two-sided precheck, both ends read.** Base resolved first and printed: **`74ba30f63de4ad2a8ad06d57201c638b4cb6b7e7`**, which is `84b47c6^`.
+
+```
+$ git diff --numstat 74ba30f -- chapters/volume-07/     # true pre-repair base -> working tree
+files=49 insertions=382 deletions=0
+$ git diff --numstat f033c56 -- chapters/volume-07/     # last landed audit -> working tree
+nothing
+$ git diff --numstat 74ba30f -- chapters/volume-07/ | awk '{i+=$1; d+=$2} END{print i, d}'
+382 0
+```
+
+Insert-only against the true base: **49 files, 382 insertions, 0 deletions, 0 substitutions, every opcode `equal` or `insert`.** A `difflib.SequenceMatcher` pass over all forty-nine files reports **382 `insert`, 0 `delete`, 0 `replace`**, the 382 being 191 prose paragraphs and their 191 blank lines. Every added prose line has a blank line above it, no added rule, no added heading, trailing newline in all 49.
+
+**`chapter-0350.md` carries the last line of Volume 07, was read and was not opened.** It appears in no diff this record prints, and it is byte-identical to `74ba30f` at md5 **`e1e9147d4fc943a6b9222fcf651ae16b`** on both sides — the same md5 items 239, 240, 243 and 246 recorded.
+
+```
+$ python3 tools/measure.py words --volume 07
+volume 07       82,038 words
+$ python3 tools/measure.py words
+MANUSCRIPT   1,488,595 words in 620 files
+$ python3 tools/measure.py calendar --volume 07
+files read: 50; chapters with a parsed date line: 0
+$ python3 tools/measure.py selftest
+selftest: PASS
+```
+
+**`calendar` parsing 0 of 50 is the standing `m.DATE_LINE` fault, not a new break.** `m.DATE_LINE` opens `(?:[Ii][Tt]|[Tt]he date)` and every date line in this volume opens `This is the`, so it parses 0 of 49 owned and 0 of 50 over the volume; `calendar` over 620 reports 263 parsed. The prompt's gate of *date lines parsed 49 of 49* is unreachable with the instrument it names and is verified below with its own `is_date`.
+
+## One: the construction, method pasted and not rebuilt, all four lists exactly flat
+
+Method 3 as the prompt prints it, `b3(t)` = `m.TOKEN` over the prose selector with the date line stripped, the four lists counted on `b3(t)` case-insensitively with `\b`-delimited whole forms, the sweep over `\b(that|those)\s+([a-z]+)\b` less `NONNOUN` **per file with the counters summed, never over the concatenated range**. `NONNOUN` pasted and not rebuilt; it does not contain `too`, `for`, `have` or `to`.
+
+| range 0301 to 0349, `chapter-0350.md` **EXCLUDED** | at `74ba30f` | on the tree now | delta | per 1,000 at base | per 1,000 now |
+|---|---|---|---|---|---|
+| words | **70,886** | **80,775** | **+9,889** | — | — |
+| closed list of ten | **165** | **165** | **0** | 2.33 | 2.04 |
+| list of 23 | **212** | **212** | **0** | 2.99 | 2.62 |
+| list of 25 | **243** | **243** | **0** | 3.43 | 3.01 |
+| sweep | **723** | **723** | **0** | 10.20 | 8.95 |
+| sweep forms | **182** | **182** | **0** | — | — |
+
+**The counts are printed before the rates and both are printed, because a rate that falls while a count holds is arithmetic and is not an improvement.** All four counts are **exactly flat** and the whole fall is the 9,889 added words, which carry none of the twenty-five forms and no sweep bigram at all.
+
+**The per-chapter table, all forty-nine, is not re-printed here because no prose moved.** Per-file words, L10/L23/L25, sweep and sweep forms reproduce item 246's table cell for cell on a re-run of the same method-3 script (`BASE 70886 165 212 243 723 182 / NOW 80775 165 212 243 723 182`); `git diff --numstat f033c56 -- chapters/volume-07/` returns nothing, so the tree is byte-identical to the reviewed item-246 landing. **The arithmetic printed in full as an addition: `70,886 + 9,889 = 80,775`, mean 1,446.7 at base -> 1,648.5 now; volume 07 at 82,038 with `chapter-0350.md` at 1,263; manuscript `1,488,595 in 620 files`.**
+
+## Two: the structural gates, every one re-run on the tree as it stands
+
+| gate | at `74ba30f` | now | delta | command |
+|---|---|---|---|---|
+| words, 49 owned files | **70,886** | **80,775** | +9,889 | `m.words_in_file`, per file |
+| words, volume 07, all fifty | 72,149 | **82,038** | +9,889 | `python3 tools/measure.py words --volume 07` |
+| words, manuscript | 1,488,233 (item 245) / 1,488,595 (item 246 landed) | **1,488,595** | **0 since f033c56** | `python3 tools/measure.py words` |
+| section rules (`---` alone) | **262** | **262** | **0** | per file |
+| bold markers, raw `**` | **816** | **816** | **0** | `text.count("**")` |
+| bold spans, paired | **408** | **408** | **0** | spans |
+| quotation marks, raw `"` | **334** | **334** | **0** | `text.count('"')` |
+| **question marks** | **40, in 38 of the 49 files** | **40, in 38 of the 49 files** | **0** | `text.count("?")` |
+| date lines at own base lines | **49 of 49** | **49 of 49** | 0 | the prompt's `is_date` |
+| date lines by `m.DATE_LINE` | **0 of 49** | **0 of 49** | 0 | `m.DATE_LINE.match` |
+| trailing newline | 49 of 49 | 49 of 49 | 0 | — |
+| `selftest` | PASS | **PASS** | — | `python3 tools/measure.py selftest` |
+
+**The forty question marks are base text and none was removed and none was added.** Added prose carries zero `?`, zero `**`, zero `"`, zero Arabic numerals and zero `eight`/`eighteen`.
+
+**The date lines, all forty-nine, each compared to the same line at base.** Positions `11, 13, 11, 11, 9, 11, 11, 11, 11, 13, 11, 11, 11, 11, 9, 7, 9, 9, 9, 11, 7, 11, 15, 9, 11, 11, 11, 9, 11, 9, 7, 7, 7, 7, 7, 7, 5, 5, 7, 5, 7, 7, 9, 7, 7, 7, 7, 7, 7` — **base == landed == the list the prompt prints, 49 of 49.** Distribution **three at line 5, seventeen at line 7, nine at line 9, seventeen at line 11, two at line 13 and one at line 15**, identical at base and on the tree; the prompt's gloss of *five at 5, seven at 7* is wrong and is not repeated here. Located with the prompt's own `is_date` and cross-checked with `m.DATE_LINE` (0 of 49, the standing fault).
+
+## Three: guards on the added prose, and no defect of its own in this pass
+
+This pass wrote no candidate line and therefore rejected nothing; the guards below were run over the 191 landed added lines to verify the landed tree.
+
+- **Added-line screens (191 lines):** zero `?`, zero `**`, zero `"`, zero Arabic numerals, zero `eight`/`eighteen`, zero sweep bigrams, zero of the twenty-five construction forms beyond the flat base counts.
+- **Cross-file 8-gram screen (N=8) of added lines against the base prose of the 571 chapters outside the range:** 190 of 191 lines clean; the one hit is `chapter-0322.md:55` on `of a window with no pane in it`, held by one chapter outside the range (`chapter-0409.md` per the holder count; holder name not quoted per the item-227 standing that the name is non-deterministic). The phrase is the volume's own stock furniture (base `chapter-0322.md:53` carries the same window with the pane out of it; the pane-out figure is base canon at about four years), held once outside against a single-holder floor with no discriminating power, and it was read in place and left standing. No eight-word run of added prose is held whole elsewhere as a passage.
+- **Intra-range added-vs-added 8-gram index:** **0 duplicated 8-grams across the 191 added lines.**
+- **Number-word scan:** **0 figure tokens in added prose absent from the base of their own file** (hyphenated compounds treated as single `m.TOKEN` tokens), 0 absent from the volume's base.
+- **Intra-file and restatement posture:** not re-scored wholesale here; item 246 carries the class at 22 paragraphs at or above 0.55 on the both-neighbours reading with none above 0.80, and this pass did not rewrite any of them, per its instruction not to rewrite a completed repair wholesale.
+
+**Every defect this pass found in its own added prose: none, because it wrote none.** The table the prompt asks for is therefore a table with no rows, and the reason is one line: an audit that opens no chapter for edit cannot mint a defect. **The one eight-word coincidence above is named here rather than left for a next pass to re-find, with its reading and its reason for standing.**
+
+## Locks, each checkable and each with its citation
+
+No added line was written, so no lock can have moved; all were re-verified by grep over the 191 added lines: zero `Lowcross`, zero `nineteen pounds`, zero `four hundred and thirty`, zero `seventeen`, zero romance words, zero `eight`/`eighteen` (count stays at seven), zero added `?`, zero added `**`/quotes/numerals, zero `groove`/`forearm`, zero card language. The Lowcross bill stands at nineteen pounds three and fourpence unpaid at base `chapter-0312.md:57`, `chapter-0321.md:19`, `chapter-0342.md:47` and `chapter-0350.md:31`; the count of askings stands at seven at base `chapter-0301.md:15`, `chapter-0321.md:89`, `chapter-0323.md:105` and `chapter-0330.md:27`; the notice sits unsent on its hook (base `chapter-0335.md:3` and `:37`); the girl of seventeen unthanked and unmentioned; the four who cannot read a paragraph unasked; the sixteenth book given to nobody; the lamp not lit early; no hearing arranged; no office, House, seat or heading created.
+
+## What is left
+
+**The repaired extent, re-derived on the tree by the method printed at item 246 and not carried forward from the prompt: 304 chapters at 511,822 words at a mean of 1,683.6; 316 unrepaired — six volume endings no phase may open (`chapter-0350.md`, `chapter-0400.md`, `chapter-0450.md`, `chapter-0500.md`, `chapter-0550.md`, `chapter-0620.md`) and 310 repairable (Volumes 01 to 06 at 300 and Volume 12's `chapter-0610.md` to `chapter-0619.md` at 10). The largest untouched block is Volumes 01 to 06 at three hundred chapters.** No figure moved in this pass (`git diff --numstat f033c56 -- chapters/` returns nothing), so every total reproduces item 246's reviewed landing.
+
+**This phase created no prompt.** `workspace/prose-repair-0024/PROMPT.md` exists, names Chapters 0301 to 0350, and **is the prompt this dispatch was handed**; writing the file this dispatch was told to write would have destroyed it. `workspace/prose-repair-0025/` does not exist, so the frontier has no prompt for the next phase — the ninth recording of that controller finding, which no phase here may pay.
+
+**Carried forward unrepaired and not smoothed, unchanged from item 246:** the restatement class at 22 paragraphs at or above 0.55 with none above 0.80; the `m.DATE_LINE` fault (0 of 50 here); Volume 07's five close items (item 34's 116-word sentence at `chapter-0319.md`, item 37's duplicate figures, item 38's nineteen-word lift at `chapter-0308.md`, item 39's occupancy figures at `chapter-0346.md`, item 22's third site at `chapter-0326.md:55`, in base); and the four debts owed elsewhere.
+
+***The number this item takes is 247 and no existing item was renumbered. The high-water mark on arrival was 246 and the next free number was read off `state/open-threads.md` and off nothing else; the prompt handed to this dispatch named no number at all. `state/phase-ledger.json` is a controller file, was not edited, and still reads `phase-000-bootstrap`. No prose was committed; `git diff --numstat f033c56 -- chapters/` returns nothing.***
