@@ -1,3 +1,26 @@
+# SCOPE OF THIS RUN - READ FIRST
+
+**This run writes Chapters 301 to 325 and nothing else.**
+
+Chapters 326 to 350 are a later phase's work. Ignore any
+instruction below that requires you to write them.
+
+
+1. **Write the chapters.** Chapters 301 through 325, in ascending order. Start with the first one in your very
+   first action: create that chapter file before doing anything else.
+2. **Do not attempt any close, audit, or planning duty** listed below. Those
+   belong to later phases. Ignoring them is required; attempting them fails this
+   run.
+3. **Do not create a next-phase prompt.** The pipeline creates it.
+4. **Update only the state files** these chapters require, and nothing else.
+
+Every rule below still binds the prose you write. But if a rule cannot be
+satisfied inside this run's chapters, write the chapters anyway and record the
+unmet rule in `state/open-threads.md` for a later phase.
+
+**Producing finished chapters is the success condition for this run. Returning
+without writing any chapter is a failure.**
+
 # PROSE REPAIR, FIFTY CHAPTERS: Chapters 0301 to 0350 — THE WHOLE OF VOLUME 07, AND A CHAPTER THAT CARRIES THE LAST LINE OF THE VOLUME AND IS NOT YOURS
 
 **This is a repair, not a batch, not a close, not a review, not a second reading and not an outline phase. Do not plan a volume. There is no Volume 13.**
