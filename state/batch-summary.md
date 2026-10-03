@@ -17158,3 +17158,102 @@ Run over the 124 added paragraphs with the patterns named in the prompt's rule s
 **A revoicing is a candidate.** Every figure this repair holds was screened before the paragraph reached the disk, and **thirty-three of the paragraphs that reached the disk had to be replaced afterwards**, and **six of those thirty-three carried a defect the screening guard would have rejected on a first pass**, and **four of them carried a defect no instrument in this repository has a name for.** The date-line rule is now mechanical rather than remembered, and it caught three insertions before disk. **The index that verifies windows does not verify the whole, and a run it reports may be a stitch across two paragraphs of the chapter it names.**
 
 ***The number this item takes is 266 and no existing item was renumbered. The high-water mark on arrival was 265, read off `state/open-threads.md` and off nothing else; the prompt this dispatch was handed named no ledger number. `state/phase-ledger.json` is a controller file, was not edited. The prose is committed at `f85323d`, 248 inserted lines in thirty-nine files, zero deletions, zero replacements, no base line touched.***
+
+# THE OWED REVIEW OF VOLUME 04'S BATCH 0005, CHAPTERS 0191 TO 0200 — MEASURED RECORD — ITEM 267
+
+**This run wrote no chapter. It read ten finished chapters in a closed volume and wrote one file, `reviews/volume-04-batch-0005.md`. It edited no outline and no chapter and no instrument, and it did not repair prose, because Volume 04 is closed and this run held no delete or substitute authority and took none.**
+
+## Zero: what this run was, and the two branches of its prompt are both closed
+
+The phase was handed `workspace/continuation/next-0005/PROMPT.md`, a continuation stub reading *if the current volume is NOT complete, write the next planned batch; if the current volume IS complete, plan the next volume and write its first batch.* **Both branches are closed for this repository and neither may be executed.** Verified on the working tree, not inherited:
+
+- `python3 -c "import glob; ..."` over `chapters/volume-*/chapter-*.md` returns **620 files in twelve volumes, fifty each and seventy in Volume 12.**
+- `NOVEL_SPEC.md` states *There is no Volume 13, no Chapter 0621, no batch after Batch 0007 and no phase after this close, and the ending of record is unchanged.*
+- `outline/volume-12.md` closes with *This file is closed. Nothing above is amended, and nothing is added below this line except the state layer's account of it and one next-phase prompt.*
+- `ls outline/` returns `batches/ ending.md series.md` and `volume-01.md` through `volume-12.md`. **There is no `volume-13.md` and none was created.**
+
+**So the answer to the stub's conditional in this repository is not a volume and is not a batch, and it is written at the head of `state/current.md` before this run began: the work is the prose at item 170.** This run measured item 170 before choosing what to do about it, and the measurement is section two below, and it changed the answer.
+
+## One: the review, and the eleven findings, and where each came from
+
+**`reviews/volume-04-batch-0005.md` is the first of the four owed reviews named in `outline/volume-12.md` at its close to be paid.** Volume 04 is the one volume in the manuscript no prose repair has ever touched, so what was read is original writer-pass prose with nothing added on top of it.
+
+**Five prose defects, all located, all requiring an authority this run did not hold:**
+
+| | Location | The defect |
+|---|---|---|
+| 1 | `chapter-0192.md:61`, `0193:55`, `0193:63`, `0196:35`, `0197:3`, `0197:123` | **Six breaches of Volume 04's absolute out-of-world rule across four chapters**, two of them inside bold runs. Found by `grep -rno -E ".{70}\b(chapter\|volume\|reader)\b.{40}"` over the ten files and then reading every instance in place. `0197:123` is the deepest: it defends *the record* from inside the prose in a volume about the difference between a record and a room. |
+| 2 | `chapter-0198.md:97` | **A foreman's job given as eleven years against a canon of nine**, in the sentence the chapter turns on. Nine is her tenure in eight places; eleven is the date the nine families agreed the office in seven places; `0198:23` gets both right thirty lines earlier. Found by `grep -ro "nine years" chapters/` and `grep -ro "eleven years" chapters/` across the whole manuscript. |
+| 3 | `chapter-0194.md:61` | **A quotation called *four words* that is twenty-one tokens and eight words under any stopword list**, and that is not the volume's canon four words (*a person, not a column*, `0184:137` and `0186:153`) which the same chapter states correctly ninety lines later at `:127`. |
+| 4 | `chapter-0193.md:99` | **A missing full stop**: two independent clauses joined by a comma at the chapter's last line. `tools/measure.py sentences --volume 04` reads 5,443 sentences and does not flag it, because the splitter has no rule for an absent stop. |
+| 5 | `chapter-0195.md:115` | **The manuscript's one instance of `four hundred miles` in a volume that carries `four hundred and thirty` 133 times and never the short form.** Recorded as the volume's inconsistency and not as a wrong number, because Volume 03 uses the short form twelve times for the same river. |
+
+**Four record defects in `outline/batches/volume-04-batch-0005.md`, which is an outline file and which this run may not edit:**
+
+| | The record says | The page |
+|---|---|---|
+| 6 | *"Pell Vey is named in Chapter 0193, once"* and *"does not repeat it"* | **twice** — `:3` in the opening summary in a bold run, and `:17` in the corridor. |
+| 7 | *a hired stone store … **four times** in Chapter 0200*, and *the south end of it is not measured* | **twice** (`:5`, `:85`), and `south end` is **0** in the chapter. The other half of the sentence — *the other page name is not used anywhere in the batch* — reproduces: `hired grain store` is 0. |
+| 8 | the string *thirty-one* occurs nowhere except *as a calendar month* and *as the court name Mosswake Roll Court* | **both exceptions do not exist.** The string occurs twice in the batch and both are on `0200:83`, in one sentence. |
+| 9 | *Chapters 191–200, 30,243 words* and *Volume 04 is 148,482 across fifty* | **30,582 and 148,821** on this tree. Both card figures reproduce to the digit at `5682780`; `git diff --numstat 5682780 8df0d53 -- chapters/volume-04/` is **+14 −18 across 7 files for +339 words**. Pre-review-repair, not an error — the same pattern `outline/volume-05.md` records at its own close. |
+
+**Nine claims that hold, measured, so a later phase does not spend a run re-deriving them.** `exception` 0, `exceptions` 0, `precedent` 0, `precedents` 0 across the batch. The guarantee: one 82-word string at `0161`, `0170`, `0180`, `0190`, `0200` and one 76-word variant at `0164`, byte-identical. The price of a party: the eighth at `0192:55`, the ninth at `0196:99`, the tenth at `0197:109`, each with its own ordinal. `Aurelia Pell` 0, `Seryn Oris` 0, `Vaunt Oris` 0, `Sivra Oris` 0, `Ashfall` 0, `counting-house` 0, `ninety-second` 0, `quarterly return` 0, `Hallis Dren` 0. The Cinder Clause named once at `0197:93` and not explained. No certification granted and none held. And the craft lock on `about nine`: **6, 8, 3, 5, 7, 8, 5, 4, 5, 3 — range 3 to 8, median 5.0, total 54.**
+
+## Two: the finding that changed what this run was going to do, and it is the finding of item 170
+
+**The prose repair at item 170 has run off the end of its own finding, and no record in `state/` says so.** Measured on this tree, all twelve volumes, on the method item 170 names — `m.TOKEN` over the prose selector with the date line stripped, the closed list of ten counted on that with `\b`-delimited whole forms, and the sweep over `\b(that|those)\s+([a-z]+)\b` less `NONNOUN`:
+
+| Vol | Files | Prose words | A chapter | List of ten | Per 1,000 | List of 23 | Per 1,000 | Sweep | Per 1,000 |
+|---|---|---|---|---|---|---|---|---|---|
+| 01 | 50 | 201,372 | 4,027 | 60 | **0.30** | 0.43 | 0.43 | 1,279 | 6.35 |
+| 02 | 50 | 182,636 | 3,652 | 82 | 0.45 | 0.52 | 0.52 | 1,394 | 7.63 |
+| 03 | 50 | 175,000 | 3,500 | 68 | 0.39 | 0.78 | 0.78 | 1,416 | 8.09 |
+| 04 | 50 | 148,206 | 2,964 | 70 | 0.47 | 0.81 | 0.81 | 1,123 | 7.58 |
+| 05 | 50 | 143,587 | 2,871 | **38** | **0.26** | 1.11 | 1.11 | 1,191 | 8.29 |
+| 06 | 50 | 106,803 | 2,136 | 150 | 1.40 | 2.26 | 2.26 | 1,012 | 9.48 |
+| 07 | 50 | 78,926 | 1,578 | 168 | 2.13 | 2.74 | 2.74 | 730 | 9.25 |
+| 08 | 50 | 83,987 | 1,679 | 154 | 1.83 | 2.80 | 2.80 | 875 | 10.42 |
+| 09 | 50 | 82,860 | 1,657 | 344 | 4.15 | 5.62 | 5.62 | 1,094 | 13.20 |
+| 10 | 50 | 78,275 | 1,565 | 358 | 4.57 | 6.18 | 6.18 | 1,233 | 15.75 |
+| 11 | 50 | 92,819 | 1,856 | 414 | 4.46 | 6.90 | 6.90 | 1,559 | 16.80 |
+| 12 | 70 | 97,934 | 1,399 | 546 | **5.58** | 11.17 | 11.17 | 2,019 | 20.62 |
+
+**Three facts fall out of it and none of them is in any record.**
+
+**One: the 250 unrepaired chapters are the five lowest volumes in the manuscript on the very construction item 170 names.** Volumes 01 to 05 stand at 0.30, 0.45, 0.39, 0.47 and **0.26** per 1,000, against Volume 12's 5.58 and Volume 01's own 0.30 — **item 170 measured Volume 01 at 0.5 and did not call it a defect, so the five unrepaired volumes are at or below the baseline the finding was written against.** They are also the **longest** chapters in the manuscript, 4,027 down to 2,871, against 1,399 in Volume 12, which is the opposite of the finding's other half. Read end to end — and `chapter-0191.md`, `0192.md`, `0203.md` and `0201.md` were read this run — they are complete scenes with physical space, dialogue, interiority and consequence, not compressed summaries.
+
+**Two: the sweep tells the same story.** Volumes 01 to 05 stand at 6.35 to 8.29 per 1,000 against 9.25 to 20.62 in Volumes 07 to 12. **The unrepaired remainder is below every repaired volume on the sweep as well as on the closed list.**
+
+**Three: therefore a further prose-repair dispatch walking backwards would be vandalism.** Items 265 and 266 took Volume 06, Movement One and then the rest of Volume 06, which is correct — Volume 06's `chapter-0251.md` to `chapter-0299.md` is the nearest ground to the repaired range and it carries the defect. **The next volume in that walk is Volume 05, and Volume 05 does not carry it.** Roughly eight thousand words of inserted physical description would go into 2,871-word chapters that already have physical bodies, and **not one of the six columns in the table above would move.** Item 265D recorded "the largest untouched block in this manuscript is Volumes 01 to 05 at two hundred and fifty chapters" as though the block were a queue of work. **It is not a queue of work. It is the part of the book that does not have the defect.** That is a correction of the frontier's premise and it is the reason this run wrote a review instead of a paragraph.
+
+## Three: a third base defect, found by the standing instrument that does see this class
+
+**`chapters/volume-09/chapter-0447.md:33` carries a single `**` where a paragraph opens a bold run and never closes it** — 15 markers in the file, the only odd count in all 620 chapters, measured by `glob.glob("chapters/volume-*/chapter-*.md")` with `text.count("**") % 2`. Everything after that point in the file renders bold, and it is the only file in the manuscript where that is true.
+
+**It is in its own base and not in any repair.** `git show a41cdb9:chapters/volume-09/chapter-0447.md` — `a41cdb9` is *save review fixes batch-0005*, the commit before Volume 09's prose repair at `185c48e` — returns the same 15 markers with the unclosed opener at base line 29, which is line 33 now. **It is an artifact of the original writer pass, of the same family as the doubled quotation mark at `chapter-0259.md:41` and the one at `chapter-0465.md:39` recorded at items 265C and 266C, and of the class of figure that is wrong at `chapter-0260.md:101` and `chapter-0262.md:109`.** All five need a phase or a person with delete authority, **and the standing is the one items 265C and 266C already set: `tools/measure.py selftest` plant 7 exists for precisely this failure — a `**` opened and never closed pairs with the next paragraph's `**` and swallows everything between them — and it took eleven audits of other ranges to reach the only file in the manuscript that has it.**
+
+## Four: the locks, each checkable, each with its citation
+
+- **No certification granted and none held in Volume 04's Batch 0005** — `0191:5`, `0196:5`, `0196:15` say he has nothing he could certify anything with; the one certification written, `0192:21`, is a clerk certifying her own table's book about itself, which is not a certification of a person.
+- **The Cinder Clause is named once, at `0197:93`, and is not explained** — nothing follows it in that chapter or in the batch.
+- **No batch chapter names the Ashfall bundle, the counting-house mark, the ninety-second leaf, the quarterly return, Hallis Dren's return, or any of the three Orises** — all six at 0 across the ten files.
+- **The guarantee is printed word for word and is not paraphrased, and no child is named** — one 82-word string at five chapters and the `0164` variant, byte-identical.
+- **The Lowcross bill is at nineteen pounds three and fourpence, unpaid, nobody liable, at `0200:81`**, and no chapter of the batch funds it or forgives it.
+- **The reader of seventeen is unnamed, unthanked, not spoken to about the season, and not sent anybody** — `0200:69` to `0200:71`.
+- **The count of things asked out loud is not made five in this batch** — it goes from four to five once, in Chapter 0250, which is Volume 05.
+- **Nobody is thanked anywhere in the batch** — and the finding is stated rather than assumed: `0192:57`, `0193:97`, `0195:125`, `0198:83`, `0199:153`, `0200:87`, `0200:129`.
+
+## Five: what is left, re-measured on this tree and not carried forward
+
+**The repaired extent re-derived by the printed method — a chapter is repaired when some commit whose subject matches `/prose repair|prose-repair-\d+/` added lines to it — is 353 chapters, and 363 with the ten that carry the earlier first-round repair.** Volume 06 at 0251 to 0299, Volume 07 at 0301 to 0349, Volume 08 at 0351 to 0399, Volume 09 at 0401 to 0449, Volume 10 at 0451 to 0499, Volume 11 at 0501 to 0549, Volume 12 at 0551 to 0609. **The exclusions are seven** — `chapter-0300.md`, `0350`, `0400`, `0450`, `0500`, `0550` and `0620`, each carrying the last line of a volume, each read and not opened. `chapter-0250.md` and `chapter-0200.md` are **not** exclusions; they are unrepaired, because Volume 05 and Volume 04 are unrepaired. **`620 − 363 − 7 = 250`, and the 250 are Volumes 01 to 05.**
+
+**And the 250 are not a queue.** Section two is the reason, and the sentence that has to travel with the figure: **the 250 unrepaired chapters measure at or below Volume 01's own baseline on the construction item 170 names and are the longest chapters in the manuscript.** Any future phase that reads "the largest untouched block is Volumes 01 to 05 at two hundred and fifty chapters" as an instruction to insert prose into them is reading a number and not the sentence attached to it.
+
+**What is genuinely left, in the order it should be taken:**
+
+1. **Three owed reviews** — Volume 05's Batch 0004 and Batch 0005 and Volume 06's own Batch 0003. `outline/volume-12.md` names all four and says *which is four and not three*; one is now paid.
+2. **The five prose defects in `reviews/volume-04-batch-0005.md` and the four base defects now known**, which together need delete or substitute authority in closed volumes and cannot be paid by a repair.
+3. **The review gate**, which is a controller file and a controller's to change, at `state/open-threads.md` item 171, and **no review any phase writes may be described as independent.**
+4. **`workspace/prose-repair-0023/PROMPT.md`**, which carries a twenty-three-line scope prepended at `163f93a` that contradicts its own body at line 26, and which this repository has dispatched twelve times with nothing to show, at item 264B. Not a writing phase's to fix.
+
+***The number this item takes is 267 and no existing item was renumbered. The high-water mark on arrival was 266, read off `state/open-threads.md` and off nothing else; the prompt this run was handed named no ledger number. `state/phase-ledger.json` is a controller file, was not edited, and still reads `phase-000-bootstrap`. This run committed no prose. The review is `reviews/volume-04-batch-0005.md` and the one next phase prompt is `workspace/review-debt-0001/PROMPT.md`, for Volume 05's Batch 0003, base `18e57c8`, verified with `git log --oneline -1 -- chapters/volume-05/chapter-022[1-9].md chapters/volume-05/chapter-0230.md` and `git cat-file -e 18e57c8:chapters/volume-05/chapter-0221.md`.***
