@@ -16629,3 +16629,186 @@ Both revoicings carry zero number words, zero sweep bigrams, zero list forms, ze
 **What is left.** Repaired extent re-measured by the printed method (chapter repaired when some commit matching `/prose repair|prose-repair-\d+/` added lines to it), not carried: **304 of 620 at 511,502** (80,572 + 85,594 + 84,064 + 79,241 + 93,827 + 88,204; mean 1,682.2); 316 unrepaired at 976,773; 511,502 + 976,773 = 1,488,275. The 26 between this and item 260's 511,528 is this pass's two revoicings. Unrepaired 316 = Volumes 01–06 at 300, five endings (0350/0400/0450/0500/0550), Volume 12's 0610–0620 at eleven. Largest untouched block Volumes 01–06 at 300. No prompt created: `workspace/prose-repair-0024/PROMPT.md` names 0301–0350 and is the prompt handed; `workspace/prose-repair-0025/` does not exist (controller, item 255).
 
 **The number this item takes is 261 and no existing item was renumbered. High-water on arrival was 260 (batch-summary/current; open-threads headings stop at 258 with 259–260 recorded without headings, per item 260's own note). The live prompt named no ledger number.** Two defects out, zero candidates withdrawn, zero self-inflicted (both candidates screened in final form before disk, end-of-batch re-run clean), no debt discharged.
+| Chapter | words base | words now | delta | ten | l23 | l25 | sweep |
+|---|---|---|---|---|---|---|---|
+| `chapter-0301.md` | 2,159 | 2,420 | +261 | 1 | 1 | 3 | 21 |
+| `chapter-0302.md` | 1,586 | 1,833 | +247 | 0 | 0 | 0 | 9 |
+| `chapter-0303.md` | 1,723 | 1,924 | +201 | 2 | 3 | 3 | 13 |
+| `chapter-0304.md` | 1,609 | 1,851 | +242 | 4 | 4 | 4 | 17 |
+| `chapter-0305.md` | 1,410 | 1,612 | +202 | 2 | 2 | 2 | 13 |
+| `chapter-0306.md` | 1,471 | 1,724 | +253 | 1 | 3 | 3 | 11 |
+| `chapter-0307.md` | 1,385 | 1,615 | +230 | 5 | 6 | 6 | 13 |
+| `chapter-0308.md` | 1,266 | 1,517 | +251 | 3 | 3 | 9 | 14 |
+| `chapter-0309.md` | 1,242 | 1,492 | +250 | 0 | 0 | 0 | 3 |
+| `chapter-0310.md` | 1,592 | 1,838 | +246 | 5 | 5 | 8 | 16 |
+| `chapter-0311.md` | 2,099 | 2,309 | +210 | 2 | 2 | 2 | 22 |
+| `chapter-0312.md` | 1,608 | 1,780 | +172 | 1 | 2 | 2 | 12 |
+| `chapter-0313.md` | 1,589 | 1,785 | +196 | 5 | 5 | 5 | 24 |
+| `chapter-0314.md` | 1,493 | 1,677 | +184 | 4 | 4 | 5 | 19 |
+| `chapter-0315.md` | 1,421 | 1,572 | +151 | 2 | 6 | 6 | 10 |
+| `chapter-0316.md` | 1,287 | 1,459 | +172 | 1 | 1 | 1 | 12 |
+| `chapter-0317.md` | 1,393 | 1,600 | +207 | 3 | 3 | 6 | 23 |
+| `chapter-0318.md` | 1,360 | 1,564 | +204 | 3 | 4 | 4 | 18 |
+| `chapter-0319.md` | 1,467 | 1,673 | +206 | 1 | 1 | 1 | 11 |
+| `chapter-0320.md` | 1,441 | 1,676 | +235 | 4 | 5 | 7 | 16 |
+| `chapter-0321.md` | 1,782 | 1,969 | +187 | 8 | 8 | 9 | 25 |
+| `chapter-0322.md` | 1,308 | 1,488 | +180 | 1 | 1 | 2 | 11 |
+| `chapter-0323.md` | 1,973 | 2,168 | +195 | 4 | 4 | 5 | 13 |
+| `chapter-0324.md` | 1,164 | 1,313 | +149 | 4 | 4 | 4 | 11 |
+| `chapter-0325.md` | 1,245 | 1,488 | +243 | 6 | 8 | 10 | 15 |
+| `chapter-0326.md` | 1,348 | 1,530 | +182 | 2 | 8 | 8 | 16 |
+| `chapter-0327.md` | 1,195 | 1,350 | +155 | 3 | 4 | 4 | 10 |
+| `chapter-0328.md` | 1,223 | 1,410 | +187 | 2 | 2 | 2 | 12 |
+| `chapter-0329.md` | 1,375 | 1,548 | +173 | 1 | 1 | 1 | 7 |
+| `chapter-0330.md` | 1,561 | 1,697 | +136 | 7 | 7 | 7 | 18 |
+| `chapter-0331.md` | 1,877 | 2,093 | +216 | 7 | 11 | 11 | 23 |
+| `chapter-0332.md` | 1,630 | 1,791 | +161 | 3 | 8 | 8 | 18 |
+| `chapter-0333.md` | 1,520 | 1,660 | +140 | 2 | 2 | 2 | 14 |
+| `chapter-0334.md` | 1,466 | 1,614 | +148 | 1 | 3 | 3 | 10 |
+| `chapter-0335.md` | 1,392 | 1,600 | +208 | 3 | 3 | 5 | 10 |
+| `chapter-0336.md` | 1,295 | 1,440 | +145 | 5 | 5 | 5 | 13 |
+| `chapter-0337.md` | 1,288 | 1,472 | +184 | 2 | 2 | 2 | 9 |
+| `chapter-0338.md` | 1,352 | 1,534 | +182 | 3 | 6 | 6 | 13 |
+| `chapter-0339.md` | 1,270 | 1,468 | +198 | 2 | 2 | 2 | 11 |
+| `chapter-0340.md` | 1,488 | 1,713 | +225 | 6 | 6 | 6 | 15 |
+| `chapter-0341.md` | 1,494 | 1,672 | +178 | 3 | 13 | 13 | 27 |
+| `chapter-0342.md` | 1,589 | 1,743 | +154 | 10 | 12 | 12 | 29 |
+| `chapter-0343.md` | 1,195 | 1,373 | +178 | 8 | 8 | 11 | 21 |
+| `chapter-0344.md` | 1,226 | 1,423 | +197 | 3 | 3 | 5 | 8 |
+| `chapter-0345.md` | 1,121 | 1,258 | +137 | 2 | 2 | 2 | 6 |
+| `chapter-0346.md` | 1,425 | 1,637 | +212 | 6 | 6 | 7 | 17 |
+| `chapter-0347.md` | 1,104 | 1,287 | +183 | 7 | 7 | 7 | 18 |
+| `chapter-0348.md` | 1,224 | 1,395 | +171 | 3 | 4 | 5 | 16 |
+| `chapter-0349.md` | 1,155 | 1,315 | +160 | 2 | 2 | 2 | 10 |
+| **49 owned** | **70,886** | **80,370** | **+9,484** | **165** | **212** | **243** | **723** |
+
+---
+
+# THE ELEVENTH DISPATCH AND NINTH AUDIT OF CHAPTERS 0301 TO 0349, MEASURED RECORD — ITEM 262
+
+**Zero, the precheck, and the trap in it read from the right end.** The base commit is **`7c9ef17`**, the commit before the range's repair. `git log --oneline -- chapters/volume-07/chapter-03[0-4][0-9].md` returns `f3ea330`, `83c97db`, `a866d74`, `6a5a373`, `d3ccc75`, `f033c56`, `8400366`, `4eaee3a` and **`84b47c6`**, the repair itself. **The prompt's standing for this case is that a `git log` printing a repair commit means the range is already repaired: audit it and say so, and do not rewrite repaired prose to buy a chapter written. That is the eleventh dispatch on this range to be handed the claim that *Volume 07 has never been through this repair and carries no `prose-repair` commit*, and the claim is false on this tree.** The two-sided test settles it and is the one that has to be read from the commit before the range's earliest base: `git diff --numstat 7c9ef17 -- chapters/volume-07/` returns **382 insertions and 0 deletions across the 49 owned files**, every old-side count `0`, and `git diff -U0` returns **0 hunk headers that are not pure insertions**. Base `74ba30f` (the repair commit's own parent) gives byte-identical base text to `7c9ef17` at `chapter-0301.md`, `chapter-0320.md` and `chapter-0349.md`, md5 for md5, so the base is printed as `7c9ef17` and both are correct.
+
+**No chapter was opened for new prose, no repaired chapter was rewritten to buy a chapter written, and the unmet half of the prompt's scope header is recorded here rather than satisfied destructively**, exactly as item 252 and item 254 did on Volume 10 and as items 212 and 217 record. `chapter-0350.md` was read and not opened, is byte-identical at md5 `e1e9147d4fc943a6b9222fcf651ae16b`, which is the md5 item 261 recorded, and stands in no diff.
+
+## One, what was checked, with the command beside each figure
+
+| Check | Command | Result |
+|---|---|---|
+| two-sided precheck | `git diff --numstat 7c9ef17 -- chapters/volume-07/` | **382 / 0** on 49 files |
+| insert-only opcodes | `git diff -U0 7c9ef17 -- chapters/volume-07/` non-insert hunk headers | **0** |
+| four construction lists | method 3, `m.TOKEN` over the selector with the date line stripped | **165 / 212 / 243 / 723**, 0 of 49 differing |
+| sweep forms | method 3 sweep, `\b(that\|those)\s+([a-z]+)\b` less `NONNOUN` | **182** distinct |
+| section rules | `---` alone on a line | **262** |
+| bold | `**` raw / spans | **816 / 408** |
+| quotation marks | `"` raw | **334** |
+| question marks | `?` raw | **40** in 38 of 49 files, none added, none removed |
+| date lines | method-3 date test | **49 of 49**, each at its own base line number |
+| selftest | `python3 tools/measure.py selftest` | **PASS** |
+| volume words | `python3 tools/measure.py words --volume 07` | **81,633** |
+| manuscript words | `python3 tools/measure.py words` | **1,488,073 in 620 files** |
+| calendar | `python3 tools/measure.py calendar` | 263 of 620 parse; Volume 07's 49 are among the unparsed by construction |
+
+**The construction table re-measured with this pass's own additions, every cell against its base cell, and the count printed as well as the rate because a rate that falls while a count holds is arithmetic and not an improvement.**
+
+| Range 0301–0349, `chapter-0350.md` EXCLUDED | Words | Closed list of ten | Per 1,000 | List of 23 | Per 1,000 | List of 25 | Per 1,000 | Sweep | Per 1,000 | Sweep forms |
+|---|---|---|---|---|---|---|---|---|---|---|
+| base `7c9ef17` | **70,886** | **165** | 2.33 | **212** | 2.99 | **243** | 3.43 | **723** | 10.20 | 182 |
+| now, at the close of item 262 | **80,370** | **165** | 2.05 | **212** | 2.64 | **243** | 3.02 | **723** | 8.99 | 182 |
+| delta | +9,484 | **0** | −0.28 | **0** | −0.35 | **0** | −0.41 | **0** | −1.21 | **0** |
+
+**All four lists and the sweep-form count are exactly flat, and flatness was asserted per file and not merely tabulated: 0 of the 49 files differ on any column.** The per-file basis of that assertion is the table immediately above this section, which carries words before and after and the four construction columns for all forty-nine.
+
+**The arithmetic runs as an addition and closes exactly: `70,886 + 9,484 = 80,370`** on the forty-nine owned files, net **+9,484** from base; and the whole volume at **81,633**, being `80,370 + 1,263` from `chapter-0350.md`, which is read and not opened and in no diff.
+
+## Two, the date lines, all forty-nine, each compared to the same line at base
+
+Located by the method-3 date test and by nothing else, as the prompt orders. **All 49 are at their own base line numbers and 0 of 49 differ from base.** The positions are 11, 13, 11, 11, 9, 11, 11, 11, 11, 13, 11, 11, 11, 11, 9, 7, 9, 9, 9, 11, 7, 11, 15, 9, 11, 11, 11, 9, 11, 9, 7, 7, 7, 7, 7, 7, 5, 5, 7, 5, 7, 7, 9, 7, 7, 7, 7, 7, 7 — **0 mismatches against the list the prompt prints, so that list is right.**
+
+**The prompt's gloss of its own list is wrong, and the record's is wrong with it.** The prompt says *five files open at line 5, seven at line 7, and one at line 15*, and item 258 and item 260 each repeat that. **The date-line histogram over the 49 is `5: 3, 7: 17, 9: 9, 11: 17, 13: 2, 15: 1`, which sums to 49.** Three files carry their date line at line 5 and seventeen at line 7, not five and seven. **The printed list is right and the sentence describing it is not, and the sentence is the one three prior records carried forward.** `m.DATE_LINE` still parses **0 of 49** of this range and 0 of 50 of this volume, because every date line here opens `This is the` and its opening clause is `(?:[Ii][Tt]|[Tt]he date)`; the prompt's gate of *date lines parsed 49 of 49* is therefore unreachable with the instrument the prompt orders used, which items 243, 258, 260 and 261 each named and this item re-derives rather than carries.
+
+## Three, the structural table, every cell, base and now
+
+| Gate | Base | Now | Delta |
+|---|---|---|---|
+| words (49 owned files) | 70,886 | 80,370 | +9,484 |
+| mean a chapter | 1,446.7 | 1,640.2 | +193.5 |
+| section rules (`---` alone on a line) | 262 | 262 | 0 |
+| bold markers (`**` raw) | 816 | 816 | 0 |
+| bold spans | 408 | 408 | 0 |
+| quotation marks (`"` raw) | 334 | 334 | 0 |
+| question marks | 40, in 38 of 49 files | 40, in 38 of 49 files | 0 |
+| date lines parsed by the method-3 date test | 49 of 49 | 49 of 49 | 0 |
+| added paragraphs, each one line with a blank line above it | 191 | 191 | 0 |
+| files keeping their trailing newline | 49 of 49 | 49 of 49 | 0 |
+
+**The forty question marks are base text and this is still the first repaired range in this manuscript that carries any. None was removed, none was added, and no interrogative was treated as a defect to be fixed.** The prompt's `408` sits under a raw label and is a count of bold **spans**; the raw marker count is **816**, and 816 ÷ 2 is the 408 the prompt prints. Items 239, 246, 257, 258, 260 and 261 each named this and it is re-verified here from the tree and not carried. Every other cell of that table reproduces to the digit.
+
+**The prompt's `723` and `182` reproduce exactly on the stripped selector `b3(t)` and return `730` and `179` on raw text**, which is the reading item 258 settled after its own first measurement took the raw basis, returned 730, and called the prompt wrong. The prompt was right and that first reading was wrong.
+
+## Defects found in this dispatch's own added prose
+
+**Fifteen, in fifteen paragraphs across eleven files, every one a defect in the repair's own added prose and not in base.** The whole of the added prose was read against the base paragraph above and below it, which is the only check that returns this class.
+
+| # | Site | Base line it re-performed | What was duplicated | Found by |
+|---|---|---|---|---|
+| 1 | `chapter-0303.md:81` | `:73` | the woman of twenty putting her shelf away and going at about the sixth hour | clause fact-overlap guard |
+| 2 | `chapter-0315.md:33` | `:31`, `:35` | the word picked out of three others; looked twice with two other people | clause fact-overlap guard |
+| 3 | `chapter-0315.md:43` | `:41` | shutting the paper and going out into the lane; about nine men in the lane in a day | reading |
+| 4 | `chapter-0315.md:63` | `:61`, `:21` | the day's figures coming out even; the waste paper at the bottom of the box | clause fact-overlap guard |
+| 5 | `chapter-0316.md:65` | `:63` | the four miles on his own two feet; a third hand worth about eleven pence a day | clause fact-overlap guard |
+| 6 | `chapter-0325.md:33` | `:31`, `:35` | he came a third time; the woman of fifty-five wrote none of it; she was in the building | clause fact-overlap guard |
+| 7 | `chapter-0326.md:39` | `:37` | nine men saying nothing back; no form would let them be asked whether they agree | clause fact-overlap guard, and it carried an **unprinted figure**, *about four minutes*, which this file's base nowhere prints |
+| 8 | `chapter-0327.md:51` | `:53` | writing out the day's figures at the fifth hour and the totals coming even | clause fact-overlap guard |
+| 9 | `chapter-0330.md:49` | `:43` | three times in nineteen years, nine miles each way, days not paid for, nobody sent and nobody told | clause fact-overlap guard |
+| 10 | `chapter-0330.md:71` | `:63` | four feet of wall, one nail in it, nothing ever hung on it | reading |
+| 11 | `chapter-0342.md:25` | `:23` | thought about putting the question about four times in about four years and done none | clause fact-overlap guard |
+| 12 | `chapter-0347.md:45` | `:41`, `:27` | three visits in nineteen years; she was in her own room for every one | reading |
+| 13 | `chapter-0348.md:49` | `:41` | her own book, a page ruled by hand, two boxes, the same name in both — and it carried an **invented fixture**, *the third page* left *unruled*, neither word of which occurs anywhere in this file's base | clause fact-overlap guard, and reading for the fixture |
+| 14 | `chapter-0349.md:41` | `:29`, `:35`, `:37`, `:39` | nobody has come up those four steps; two years of carrying a number; the four minutes | reading, and a 7-word verbatim run against `:37` |
+| 15 | `chapter-0315.md:63` | — | an 8-word run shared with `chapter-0320.md:49`, *and nobody has ever asked him which of*, **created by this pass's own first revoicing of defect 4** | cross-paragraph 8-gram index over the added prose alone |
+
+**Why every standing instrument returned nothing on all fifteen.** `reprints` works at a twenty-word window. `lifts` excludes this range from its own index, so a run whose only holders are inside the range is invisible to it. The twelve-word cross-file index cannot see a run whose only holders are its own. The intra-file six-word floor misses a restatement with its words changed because such a restatement shares no run with anything — rule 4 of the repair's own rules says so in terms. **Nine of the fifteen shared at most five contiguous words with the base line they re-performed**, and the worst of them, `chapter-0330.md:49` against base `:43`, is a clause-for-clause re-performance whose longest shared contiguous run is **five words**, because *nobody* became *no one* and *he is not paid for* became *nobody paid him for*.
+
+**The finding of the range is that item 258's four-word near-base floor has saturated, and this is the standing the next phase needs.** On this tree that scan returns **102 hits at the four-word floor, 34 at five words, and 0 at six words or over**, with maximum containment **25.0%** where item 260 found re-performances at 60–86% and item 261 at 75.8% and 78.0%. **A scan that found all twenty-two of item 258's class, and then two of item 260's and two of item 261's, now returns nothing at the floor that decided those cases, and nine clause-level re-performances were standing inside it the whole time.** The measure that found them is a third one and it is built and calibrated in this record: **clause-level fact overlap, each clause of an added paragraph of eight or more content words, against a single best base line within eight lines, at a coverage of 75% or over, on a bag of content words with stopwords out.** In its first form — the union of a sixteen-line window instead of a single line — it returned **105 clauses across 87 of the 191 paragraphs** and was a false-positive machine, because any noun that occurs anywhere in a room covers any clause drawn from that room. **It is recorded as built, calibrated and not reused in that form**, which is the third time this repair has had to record that about a scan of its own, after item 255's figure-collocation scan and item 258's four-word floor.
+
+**A second scan was built and is recorded as a false-positive machine in its first form.** A number-phrase scan, checking every `<number word><unit>` pair in the added prose as a phrase against that file's own base rather than checking the bare number word, returns **300-plus hits**, of which almost all are grammatical bigrams — *one of*, *two ends*, *nine has*, *half up has*. **It surfaced two real findings, both of which are defects 7 and 13 above, and both of which were also found by reading.** A unit-restricted form is what the next phase needs and is not built here.
+
+**The bare-number-word scan the prompt orders was run and returns 178 of 191 added paragraphs carrying a number word, 16 of which carry a number word their own file's base does not contain — every one of them an ordinary quantifier, `pair`, `single`, `both`, `many`, `few`, `half`, `once`.** Zero added paragraphs carry a digit. **The claim that the added prose carries no unprinted figure was run rather than asserted, and running it is what found defect 7's *about four minutes* and defect 13's unruled third page**, because the bare-number-word test passes both: *four* occurs in `chapter-0326.md`'s base and *two* occurs in `chapter-0348.md`'s. Item 258 recorded the same method and the same weakness.
+
+**Three guard hits were examined and are not defects, and they are recorded because a guard that finds nothing is as suspect as one that finds everything.** `chapter-0349.md:15` shares six words with base `:3`, *the whole of the two years*, where the base applies it to a smell and the added line applies it to a drainpipe — the volume's stock connective over two different facts. `chapter-0338.md:61` shares six words with base `:47`, *is going to and the not*, which is a coincidence of syntax and carries no fact at all. `chapter-0329.md:13` shares six words with base `:19`, *has come up those two stairs*, where the base has a foreman up them four times and the added line says *nobody has come up those two stairs **yet to ask what the room was built for*** — the qualifier carries the whole of the difference, so it is a narrower claim and not a contradiction, and it is left standing.
+
+**Two of this pass's own first revoicings were defective and were caught before commit, which is item 258's standing observed a seventh time.** Seven of the first fourteen candidates were **rejected by the screening guard before they reached the disk** and rewritten; the seventh rejection was `chapter-0315.md:63`, whose first revoicing kept the eight-word run it was written to break and created **defect 15**. The guard was re-run over the whole range after the last edit and returns **0 outside eight-word holders, 0 duplicate added paragraphs, 0 added-paragraph pairs sharing an eight-word run, 0 clause-fact-overlap flags at 75%, 0 near-base hits at six words or over, and 3 intra-file six-word hits, all three examined above and all three stock phrases or syntactic coincidence.**
+
+## The locks, each checkable and each with its citation
+
+Run as positive assertions — a thing actually created, granted, sent, walked, lit, funded or thanked — over the whole of `chapters/volume-07/`, so that a lock's own negation does not read as a breach.
+
+| Lock | Result | Citation |
+|---|---|---|
+| no hearing and no arrangement of one | **0** | the one `\bhearing\b` in the volume is `chapter-0345.md:19`, *a person hearing the deciding done to her*, a participle about listening |
+| no notice posted or sent | **0** | the notice at `chapter-0329.md:21` is in a coat on a bench and is explicitly *not going to* be sent |
+| no commission, warrant, post or new office | **0** | — |
+| no House, seat or office named | **0** | the 11 hits are the dwelling *house with a door on it* and *the house across the lane*, not the House |
+| no romance and nothing implying one | **0** | the 13 hits on a loose filter are *wife* in base text and no kiss, lover, love or hand-holding anywhere in the volume |
+| the girl of seventeen not thanked | **0** | `chapter-0338.md:63` and `chapter-0330.md:37` state the opposite in base text |
+| the four who cannot read a paragraph not asked | **0** | `chapter-0331.md:67`, `chapter-0332.md:55` and `chapter-0338.md:25` are all *nobody has ever asked the four* |
+| nobody given the sixteenth book | **0** | — |
+| the four hundred and thirty miles not walked | **0** | 7 sites, every one a negation: *is not walked by anybody on his account* |
+| the lamp not lit before about the seventh hour | **0** | `chapter-0349.md:7` in base is *not lit until about the seventh hour*; the heading at `:1` says *not lit at about the fifth hour*, which follows from it and contradicts nothing |
+| the Lowcross bill not funded, paid or forgiven | **0** | the bill stands at nineteen pounds three and fourpence in 6 places and is untouched in all of them |
+| no new heading over anything | **0 created** | 12 hits, every one a negation or the pre-existing heading over a column |
+| no new form for anything | **0 created** | the one hit is `chapter-0311.md:31`, the form that already exists |
+| the count of things asked out loud stays at **seven** | **0 moved** | 10 sites print it: *is seven* at `chapter-0321.md:89` and `chapter-0330.md:27`, *did not move* at `chapter-0331.md:57` and `chapter-0339.md:61`, and *is the same as it was* at `chapter-0341.md:73`, `:0342.md:67`, `:0344.md:59`, `:0345.md:53`, `:0347.md:49`, `:0349.md:49`. **No site prints any figure but seven and the phrase *the same*, and none of the fifteen revoicings touches the count.** |
+| no new fixture in a room whose list is closed | **0** | 38 object words used in the added prose, **not one with zero occurrences in the volume**; the passage room's single door and single rail stand at `chapter-0321.md:47`, `chapter-0323.md:5` and `chapter-0325.md:7`; the four *two doors* hits are *two doors down*, a distance, at `chapter-0335.md:17`, `chapter-0337.md:17`, `chapter-0335.md:53` and `chapter-0345.md:33` |
+
+## What is left
+
+**The repaired extent re-derived on this tree by the printed method — a chapter is repaired when some commit matching `/prose repair|prose-repair-\d+/` added lines to it — and not carried forward from the prompt, whose figure of *255 of 620 and 365 unrepaired at 431,546 words* was true before this range was repaired and is stale here:**
+
+**Volume 07 forty-nine at 80,370; Volume 08 forty-nine at 85,594; Volume 09 forty-nine at 84,064; Volume 10 forty-nine at 79,241; Volume 11 forty-nine at 93,827; Volume 12 fifty-nine at 88,204 — 304 chapters of 620 at 511,300 words, a mean of 1,681.9.** The unrepaired 316 is Volumes 01 to 06 at 300, the five volume endings behind this one at 5, and Volume 12's remainder at 11, and those three sum to 316.
+
+**Nothing was left undone in this range.** All fifteen defects were taken out, every gate is flat, insert-only holds at 382/0, `chapter-0350.md` is byte-identical and was not opened, `tools/measure.py` and every controller file were untouched, `state/phase-ledger.json` was not edited, no outline was opened for edit, `outline/ending.md` was not opened, no volume was planned and no Volume 13 was added.
+
+**No prompt was created.** `workspace/prose-repair-0024/PROMPT.md` names 0301 to 0350 and is the prompt this dispatch was handed; `workspace/prose-repair-0024/` holds `.blocked` and `.deferred` and was blocked at `31ae699`; `workspace/prose-repair-0025/` does not exist. **The frontier therefore still has no prompt, which is owed to a controller, was first recorded at item 255, and is not this item's to close.**
+
+**The number this item takes is 262 and no existing item was renumbered.** High-water on arrival was **261** across `state/`: `state/batch-summary.md` and `state/current.md` both carry item 261, while `state/open-threads.md`'s own headings stop at 257 because items 258 to 261 were recorded in the other two files without one, which is the same gap item 260 recorded and item 261 did not close.
