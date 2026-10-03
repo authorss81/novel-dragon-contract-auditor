@@ -15330,3 +15330,205 @@ Thirty added paragraphs were read against the base of their own chapters with it
 ***Prose committed: none. No chapter opened for edit, no line written, no figure moved. The number this item takes is 249 and no existing item was renumbered; the high-water mark on arrival was 248 and the next free number was read off `state/open-threads.md` and off nothing else; the prompt handed to this dispatch named no number at all, and named 220 where the mark was 248, which is the eighth time this repair has handed a phase a ledger number stale by more than one. `state/phase-ledger.json` is a controller file, was not edited, and still reads `phase-000-bootstrap`.***
 
 ---
+
+---
+
+# THE TENTH AUDIT OF CHAPTERS 0451 TO 0499, MEASURED RECORD — ITEM 250, WHICH FOUND THE RANGE ALREADY REPAIRED AT `a550a44`, CORRECTED AT `0b70ca4`, REVOICED AT `742d599`, `52da86e`, `3cb0a5f` AND `9449f19`, RECORDED AT ITEMS 232, 233, 237, 238, 241, 242, 244, 245, 248 AND 249, AUDITED IT RATHER THAN REWRITING IT, TOOK SEVEN DEFECTS OUT OF THE REPAIR'S OWN ADDED PROSE ACROSS SEVEN CHAPTERS, CORRECTED TWO FIGURES THE RECORD CARRIED ABOUT THIS RANGE, OPENED NO CHAPTER FOR NEW PROSE AND CREATED NO PROMPT
+
+## Zero: the precheck, read from the right end, and what the prompt's own rule says to do with it
+
+`git log --oneline -- chapters/volume-10/chapter-045[1-9].md` returns **`9449f19`, `3cb0a5f`, `52da86e`, `742d599`, `0b70ca4` and `a550a44`** above the three drafting batches. The two-sided test settles it: `git diff --numstat 185c48e -- chapters/volume-10/` returns **366 insertions and 0 deletions across 49 files** where the prompt printed nothing, and `git diff --numstat 9449f19 -- chapters/` returned **nothing** at phase start, so the tree was byte-identical to item 248's landed tree. **Base `185c48e`, repair `a550a44`, audits at items 233, 237, 238, 241, 242, 244, 245, 248 and 249, this is audit ten and the twenty-third dispatch on the range.** The prompt's central claim — *Volume 10 is untouched in its entirety* — is false, and the prompt's own rule covers it: *if `git log` returns a `prose-repair` commit, your range has been repaired already: audit it instead of rewriting it.* It was audited.
+
+**Every figure in the prompt was re-measured at phase start and none of them was inherited.** `selftest` **PASS**; `calendar --volume 10` 50 files read and 50 date lines parsed with none unparsed; `words --volume 10` **80,757**; `words` **1,488,595 in 620 files**; `reprints --window 20 / 12 / 8 / 5 --volume 10` `either` prose **0 / 448 / 1,465 / 3,837**; `lifts --volume 10 --first 451 --last 500 --base 185c48e --min 6 --show 20` **ADDED 183 prose lines, 165 at six words and over, 2 at nine and over, mean 6.76** against **BASELINE 1079 / 935 / 534, mean 9.68**. Every one of those is the figure item 249 recorded.
+
+## One: the construction, method of record re-derived and printed whole, and two corrections to the record
+
+**The method of record is item 248's, not the prompt's: heading IN, whole date LINE dropped, lists counted on `m.TOKEN` token bigrams.** The prompt says the lists are counted *over the prose selector with the date line stripped*, which is a different reading. Three readings, and the two alternatives are printed because the prompt's describes neither:
+
+| reading | ten | 23 | 25 | sweep | forms |
+|---|---|---|---|---|---|
+| A heading IN, whole date LINE dropped, on `m.TOKEN` bigrams — **the method of record** | **352** | **478** | **577** | **1,211** | **203** |
+| B heading OUT, whole date LINE dropped | 346 | 471 | 568 | 1,191 | 202 |
+| C anchored `re.sub(m.DATE_LINE.pattern, "", text, flags=re.M)`, heading in | 354 | 480 | 579 | 1,217 | 204 |
+
+Reading C is high because **`m.DATE_LINE` is anchored and consumes only the opening clause of a date line, so a `re.sub` on it leaves the tail of the date line in the corpus.** C carries one form the prompt does not list at all, `that of`, which is that residue. Word figures are `l.rstrip().split()` summed per file over the whole file. `TEN` is `those boards, that lane, that floor, that table, that door, that stair, that room, that passage, that tin, that sheet`; `X13` adds `that end, that landing, that bench, that sill, that corridor, that case, those stairs, that step, that bay, that ground, that jug, that stone, that board`; `X2` adds `that building, that house`. **`NONNOUN` is the set of record and is pasted whole from the section headed *THE PROSE REPAIR OF CHAPTERS 0591 TO 0600*, eighty words, not grown: `too`, `for`, `have` and `to` are not in it and were not added.**
+
+**`chapter-0500.md` is excluded from every range-wide figure in this section and the exclusion is stated beside each.**
+
+| Range 0451 to 0499 | Words | Closed list of ten | Per 1,000 | List of 23 | Per 1,000 | List of 25 | Per 1,000 | Sweep | Per 1,000 | Sweep forms |
+|---|---|---|---|---|---|---|---|---|---|---|
+| before, at `185c48e` | 70,539 | **352** | 4.99 | **478** | 6.78 | **577** | 8.18 | **1,211** | 17.17 | 203 |
+| at item 249's close | 79,358 | **352** | 4.44 | **478** | 6.02 | **577** | 7.27 | **1,211** | 15.26 | 203 |
+| now, on this tree | **79,315** | **352** | 4.44 | **478** | 6.03 | **577** | 7.27 | **1,211** | 15.27 | 203 |
+
+**All four lists are exactly flat and so is the form count, range-wide and file by file: the per-form delta is empty, and the per-file delta is empty on every one of the forty-nine files.** The per-file sweep column on reading A, which is the figure of record, is `39, 14, 36, 30, 23, 22, 16, 28, 22, 20, 22, 18, 17, 25, 26, 25, 22, 27, 25, 22, 32, 21, 15, 26, 26, 27, 22, 17, 20, 23, 33, 46, 37, 31, 26, 29, 22, 28, 28, 25, 24, 19, 28, 23, 21, 13, 20, 19, 31` and reproduces the prompt's printed column in all forty-nine cells, which the prompt's own closed column does not do in all forty-nine.
+
+**The arithmetic, run as an addition and not only as a subtraction:** the 183 added paragraphs carry **8,776 words** on their own, and `70,539 + 8,776 = 79,315`, run as an addition. Over all fifty files, base `71,938 + 8,776 = 80,714`, which is what is on disk.
+
+### Correction one: the form count is 203 and not 201, and the artefacts are three and not one
+
+**Every sweep total reproduces to the digit on all three readings, and the form count under the method of record is **203**, where item 248 recorded **201**. The same offset holds on the other two readings: item 248's 199 and 202 are 202 and 204 on measurement.** The figure is not a matter of judgement. The sweep is counted on `m.TOKEN`, which is `[A-Za-z0-9]+(?:['’-][A-Za-z0-9]+)*` — **it keeps the possessive inside a single token** — so a bigram built from `m.TOKEN` output reads `that woman's` as a two-word form where the text has one word and an apostrophe. A raw-text sweep on the same body returns **1,207 instances across 200 forms**, and the three forms that exist only in the token reading are:
+
+| form | where | why |
+|---|---|---|
+| `that woman's` | `chapter-0489.md:19` | `that woman's coat`; `m.TOKEN` keeps `woman's` whole, so the bigram is two tokens |
+| `that week's` | `chapter-0494.md:21` | `that week's work`; the same cause |
+| `that ruling` | `chapter-0494.md:5` | a sentence boundary: `that.` then `Ruling` |
+
+**200 real forms plus three tokenisation artefacts is 203.** Item 248 named `that his` as the single artefact and called the form count *200 plus this one*, and **`that his` is not an artefact-only form: it is 1 in the raw-text reading and 2 in the token reading**, so it is a real form that also picks up one boundary artefact at `chapter-0463.md`. Item 248's sentence is right that `that his` is not an anaphora construction; it is wrong that the form is new, and it missed the two possessive artefacts entirely, which are the class its own method created. **This does not move flatness, which is before-equals-now on all three readings, and it is printed because a figure with an undisclosed method behind it is how this repository got a set of numbers that reproduced under none.**
+
+### Correction two: the prompt's form-leader table has six wrong cells, not five
+
+Item 248 corrected five of the prompt's fifteen leaders and named the sixth-form residue `that of`. **On this tree six of the fifteen are one high**, and the aggregate the prompt prints reproduces while six of its own cells do not:
+
+| form | prompt | method of record | verdict |
+|---|---|---|---|
+| `that floor` | 121 | **120** | one high |
+| `that room` | 77 | **76** | one high |
+| `that building` | 70 | **69** | one high |
+| `that out` | 26 | **25** | one high |
+| `that week` | 21 | **20** | **one high — the cell item 248 did not correct** |
+| `that wall` | 16 | **15** | one high |
+| `that counter` | 50 | 50 | reproduces |
+| `that stair` | 43 | 43 | reproduces |
+| `that lane` | 37 | 37 | reproduces |
+| `those boards` | 35 | 35 | reproduces |
+| `that house` | 30 | 30 | reproduces |
+| `that shed` | 30 | 30 | reproduces |
+| `that end` | 23 | 23 | reproduces |
+| `that sill` | 17 | 17 | reproduces |
+| `that time` | 16 | 16 | reproduces |
+
+**Nine reproduce, six are one high, none is otherwise wrong.** The prompt's closed-ten aggregate of 352 and its sweep aggregate of 1,211 are both correct on the method of record.
+
+### The prompt's per-chapter table cannot be right under any single method, and the reason is worth keeping
+
+The prompt prints `451: 15/3/0/39` and `453: 12/4/4/36`. On the method of record **every one of the prompt's forty-nine sweep cells reproduces**, and its closed cell for `chapter-0453.md` is 12 as printed, so **the prompt's own two tables are each internally consistent on this method and its narrative claim that they conflict is itself the thing that does not reproduce.** The ADD column of the prompt's table — the instances the repair added — reads 3, 0, 4, 7, 4, 2 and so on, and on the method of record the repair's added prose holds **zero** closed-ten instances, which is the finding the whole range rests on and the same finding item 232 recorded.
+
+## Two: the structural gates, every one re-run on the landed tree and none carried forward
+
+`git diff --numstat 185c48e -- chapters/volume-10/` returns **366 insertions and 0 deletions across 49 files**, and **366 is twice the 183 added paragraphs**. A word-level diff against `185c48e` returns **183 `+` lines, 0 `-` lines and 0 substitutions**, headers excluded; the 49 `+++` and 49 `---` rows a naive count picks up are file headers and the 366 `~` rows are the 183 blank separator lines and the 183 word-diff end markers. **The seven revoicings below are inside the added prose and not against the base, which is why the range is still insert-only against `185c48e`: a line the base does not contain cannot be deleted from it.** Every file with a deletion: **none.**
+
+All fifty date lines are byte-identical to `185c48e` **and on the line numbers they held**, located by `m.DATE_LINE.match` on each side and never typed out: `11, 7, 11, 9, 7, 9, 7, 7, 7, 7, 7, 7, 7, 9, 9, 9, 9, 9, 7, 7, 7, 9, 7, 7, 9, 9, 7, 9, 7, 7, 9, 9, 11, 7, 9, 7, 7, 9, 9, 7, 7, 7, 11, 9, 9, 7, 7, 7, 9, 9`, which agrees with the prompt's printed list in all fifty cells. **Four files stand at line 11 — `chapter-0451.md`, `chapter-0453.md`, `chapter-0483.md` and `chapter-0493.md` — and the check was the located one, not the printed one.**
+
+Section-break counts, raw bold-marker counts, question-mark counts (zero, anywhere in the volume), title lines, trailing newlines, double-quote counts and curly-quote counts are **identical to base on all fifty files and zero files differ**. No line sits directly under a non-blank line on any of the forty-nine files, and every added prose line has a blank line above it and a blank line below it.
+
+**`chapter-0500.md` is byte-identical to `185c48e` at md5 `2ad68a07e2769a48bd3e3199e7c9d808` on both sides. It was read and was not opened. `git diff --numstat 185c48e -- chapters/volume-10/chapter-0500.md` returns zero lines, and it appears in no diff this record prints.**
+
+**A finding about the prompt's own description of the volume's last chapter, and it is the prompt that is wrong.** The prompt states the outline's final image as *the second one in the inside pocket of a coat on the chair against no wall*. **`chapter-0500.md:5` says the coat is on a nail — *The coat is on the nail, and it has been on that nail since the evening it went up* — and `:7` says *The chair is still against none of the walls, and the coat is not on it any more*, which agrees with `chapter-0486.md:57`'s *on one evening he moved them from a chair to a nail*.** The chapter is right and the prompt's description of it is not. **`chapter-0495.md:59`'s *the coat stayed on the nail behind him* was checked against `chapter-0500.md` on this point and is consistent with it.** No fixture, figure or surface was invented in or around the last chapter, and its last line was not written.
+
+## Three: the four indices, all four run on the landed tree, every hit ruled in writing
+
+**Index one, `lifts`.** `lifts --volume 10 --first 451 --last 500 --base 185c48e --min 6 --show 20` reports **ADDED 183 prose lines, 164 at six words and over, 2 at nine and over, mean 6.76** against **BASELINE 1079 / 935 / 534, mean 9.68**. At seven words: **91**; at nine: **2**; at ten: **0**. **Both nine-word hits are the `m.longest_lift` fault item 244 named, reproduced a ninth time, each quoted back over all 620 chapters on the prose selector: `there for about as long as it takes to` at `chapter-0457.md:39` and `she stood at the near end of the boards` at `chapter-0470.md:33`, each held whole by one chapter in one volume, which is only the range's own added line.** Corrected, the added prose holds **0 lines at nine words and over**.
+
+**Register, counted on the prose selector with the selector printed, over all 620 chapters, holders and volumes both given, and the threshold rule applied at four and four:**
+
+| run | chapters | volumes | ruling |
+|---|---|---|---|
+| `for about as long as it takes to` | 36 | 10 | register, survivor |
+| `at the near end of the boards` | 22 | 4 | register, survivor |
+| `the man at the front bench` | 12 | 4 | register, survivor |
+| `the far end of those two joined tables` | 4 | 2 | **below threshold, and left standing — see below** |
+
+`the far end of those two joined tables` is **base stock**: the base of Volume 10 holds it in two chapters before the repair touched the range, and the repair used it once, at `chapter-0497.md:63`, where it matches `chapter-0497.md:15`'s own *anybody standing at the far end of those two joined tables*. **Item 189's ruling is applied and not re-opened: breaking a window on the register is removing the voice, and this is the volume's connective for that end of the two joined tables.** Named, and ruled.
+
+**Index two, the twelve-word cross-file index, rebuilt from disk.** **Zero on 6,763 distinct twelve-word windows** of added prose, no window held by a chapter outside the range at fewer than four chapters across fewer than four volumes. The non-empty-holder test is on the OUTSIDE holder set, so a run held by no chapter outside the range is not a lift.
+
+**Index three, the range against itself at twelve words.** **Zero.** `lifts` cannot see such a run by construction because it excludes the range from its own index, and this index exists for that reason.
+
+**Index four, the intra-file longest-common-run scan** (`difflib.SequenceMatcher` over case-folded `TOKEN` lists, date lines and headings excluded, every added line against every other prose line in the same file). **Thirteen pairs at six words or over**, and **twelve of the thirteen are stock phrases of the volume carrying a different claim:**
+
+| words | added line | run | ruling |
+|---|---|---|---|
+| 8 | `chapter-0497.md:63` | `the far end of those two joined tables` | base stock, matches its own `:15`, register |
+| 8 | `chapter-0457.md:39` | `for about as long as it takes to` | register, 36 chapters across 10 volumes |
+| 7 | `chapter-0493.md:35` ×3 | `and the man at the front bench` / `the man at the front bench` | register, 12 chapters across 4 volumes |
+| 7 | `chapter-0481.md:39` | `at the near end of the boards` | register, 22 chapters across 4 volumes |
+| 7 | `chapter-0481.md:15` | `with its lid up on its edge` | base stock, 2 holders in the volume before the repair |
+| 6 | `chapter-0497.md:31` | `down in the middle of the` | the volume's own connective |
+| 6 | `chapter-0477.md:49` | `at the end of the sill` | the volume's own connective |
+| 6 | `chapter-0454.md:55` ×2 | `the two at the back of` | base stock, 2 holders before the repair |
+| 6 | `chapter-0451.md:79` | `the near end of the boards` | register |
+
+**The thirteenth was the run this pass took out**, and it is in section Four.
+
+**The screens on the added prose as it stands, each run on every added line on its own:** the `NONNOUN` sweep **zero**; floor material, all fifteen forms, **zero**; question marks **zero**; bold markers **zero**; quotation marks of all three marks **zero**; numerals **zero**; spelled-out counts **two, both `eleven years` at `chapter-0460.md:49` and `:53`, both grounded in that chapter's own base**. A question-word screen fires 105 times and is **over-broad by construction** — it catches *whoever* and *whatever* — and the gate that matters is structural: **with zero quotation marks and zero question marks in the added prose, no asking can be present, because an asking in this matter is a thing put to a person out loud in a room.**
+
+**Both zeros proved by plant, and the proof is printed because a zero from an unproved matcher is not a zero.** A **fourteen-word** run taken verbatim out of `chapter-0050.md` — *of the fourth of the fourth month working out what a man does at* — and written into an added paragraph of `chapter-0462.md` took index two from **0 hits to 3 hits**, each naming `chapter-0050.md` as the sole outside holder, which is one chapter in one volume; index two returned to **0** on restoration. An **eleven-word** run cannot form a twelve-word window at all, which is why item 248's second plant is not evidence of anything, and the corrected plant pads the eleven words so that a window exists. The intra-file scan was planted with a nine-word run taken from another prose line of the same file and went from **0 pairs to 1 pair at nine words**, returning to 0 on restoration. **Both restorations were asserted twice: md5 `a593e2ee91e1efdc9cc2b39c82dd4f3f` on `chapter-0462.md` before and after, and `git diff --numstat 185c48e -- chapters/volume-10/chapter-0462.md` reading `8 0` before and after.**
+
+## Four: the seven defects, and the one that is the reason this dispatch exists
+
+**Seven came out of the range's own added prose, in seven lines across seven chapters, and every one was found by reading each added paragraph against the base paragraph immediately above it and the base paragraph immediately below it, or by the intra-file scan. Not one is visible to `reprints`, to the twelve-word index, to index three, or to `lifts`.**
+
+| where | the defect | class |
+|---|---|---|
+| `chapter-0467.md:49` | *the room went on being a room that a person could be shown having stood in* | an eight-word run held by **2 chapters across 2 volumes** |
+| `chapter-0471.md:57` | *the four hours he had spent in the room* | an invented duration |
+| `chapter-0474.md:31` | *It did not take long* | restatement of the line above |
+| `chapter-0481.md:15` | *the two sheets went down on the wood side by side* | contradiction of base `:37` |
+| `chapter-0482.md:61` | *and it is the only place in the bay where a sentence can stop halfway* | a nine-word run of the repair's own |
+| `chapter-0495.md:37` | *He turned round off the window* | re-performance |
+| `chapter-0498.md:45` | *She turned back to it* | re-performance |
+
+**One is a defect in the record and it is the reason this dispatch is not a no-op.** Item 248 wrote: *A revoicing at `chapter-0451.md:31` produced `and the room went on being a room`, an eight-word run held by `chapter-0381.md` in Volume 08 and, invisible to `lifts` because it excludes the range from its own index, by `chapter-0467.md` in the same range; index three caught it and it was revoiced again.* **`chapter-0451.md:31` was revoiced and carries no trace of the run. `chapter-0467.md:49` carried it when this dispatch opened the range and carried it until this pass took it out.** Item 248 named two sites and one sentence, and a reader of that item — item 249 among others — takes the run to be gone from the range. **It was gone from one of the two sites.** This is the second time this repair has recorded a correction that never landed; item 236 found ten unaudited paragraphs committed onto a range audited ten times. **The standing this adds is item 248's own, sharpened: when a record names two sites for one defect, it has to name which site was corrected, and a claim that a run was removed is checkable in one command and was not checked.**
+
+**The invented duration is the clearest instance of the class in the whole range and it is a two-word defect.** `chapter-0471.md`'s date line puts the scene at the fourth hour and base `:55` has him go down *at about the fifth hour with the two things in that coat where they had been at the fourth hour* — about one hour in the room. The added line four lines below said *the four hours he had spent in the room*. **No figure in this range's added prose was checked by a figure scan and none was checked by reading until this pass, and the figure was minted out of the words *the fourth hour* in the line above it.** Item 197's class and item 216's, and the standing is the prompt's: *an invented duration, a count of times against the base's own rate*.
+
+**The contradiction is twenty-two lines long and the objects are the chapter's central ones.** `chapter-0481.md`'s added line at `:15` put *the two sheets* on the wood side by side. Base `:19` has *the two sheets were square and true*; base `:37` has a man *put his hand flat on the sheet that was lying on the wood* — singular — *and took the other one out of the woman's hands and set it down beside the first*. **One sheet was on the wood at `:15` and the second arrived twenty-two lines later, in a man's hand. The longest shared token run between the added line and base `:37` is one word.**
+
+**The repair's own duplicated claim is the one class the intra-file scan exists for.** `chapter-0482.md:53` says the bright place *is the only place in the bay a thing can be started in and not finished in front of anybody*; `chapter-0482.md:61` said *it is the only place in the bay where a sentence can stop halfway and still be a sentence anybody heard*. **Same chapter, eight lines apart, same proposition, and the shared run `and it is the only place in the bay` is nine words and is held by no chapter anywhere in the manuscript but this one.** It is under the twelve-word windows of indices two and three, under `reprints`' twenty, and it was caught only by the intra-file scan at a nine-word floor. **Item 248 ran that scan and reported twelve pairs; this one was not among them.**
+
+**The two re-performances and the one restatement are rule one, and rule one is the commonest defect in this repair.** `chapter-0474.md:31`'s opening clause is the base line's own closing three words — *He said nothing for a while, and what he was doing was arithmetic, and it did not take long.* / *It did not take long and nothing in the room was said while it was being done*. `chapter-0495.md:37` re-narrated a turn base `:35` has already performed and `chapter-0498.md:45` re-narrated a turn back base `:43` has already performed, **each in the paragraph immediately below the line that did it, with nothing between.**
+
+**Three candidates were read and ruled standing, and each is named with its reason rather than left for the next pass to find.** `chapter-0453.md:73`'s *the ordinary evening* and `chapter-0463.md:57`'s *in the evening* were both checked against their own date lines and base, which put `chapter-0453` at *that evening* and *the fifth hour* at `:31` and `chapter-0463` at *tonight* at `:35`; the volume's own base uses *evening* at the fifth hour. `chapter-0459.md:41`'s *rope handle* is base `:5`'s *it has a rope handle worn through in one place* and is not an invention. `chapter-0454.md:55`'s and `chapter-0464.md:33`'s *the lamp was not lit* are base `:7` and `:9` of their own chapters, both at the fourth hour with the lamp not lit before the seventh. `chapter-0485.md:55`'s *did not read the second column across a second time* agrees with base `:49`, which narrates one read across. `chapter-0495.md:59`'s *The stool had been taking his weight for about two years and went on taking it* was read as a continuation and not a re-performance — he sits once — and stands. `chapter-0480.md:13`'s *him* was checked for a wrong antecedent and is introduced at `:5` and `:7` before the line stands.
+
+**Every edit was made at the line's own number with the fact kept and the sentence changed, and no base line was touched. The helper's five guards were proved on a scratch copy before the first chapter was opened for edit — an anchor above the located date line, an anchor that IS a section rule, an anchor on a blank line, an anchor with a non-blank line directly above it, and a legal target — and four of the five fired on the scratch file with the message quoted.** The date-line guard reads the located line on each side of the base and the tree and compares bytes and line numbers on every call. **The list of four was re-measured after every single edit and never moved.**
+
+## Five: what is carried unrepaired, named and not smoothed
+
+- **`chapter-0465.md:39`'s stray closing quotation character in the base**, which item 237 traced and which a repair may not reach; the file carries an odd quote count and 67 of 620 files do.
+- **`chapter-0482.md`'s frame-and-doorway question**, which item 249 left deliberately unsettled and which this pass revoiced around rather than settling. **It is not only unsettled, it is contradicted inside the base**: `:51` has her go to that doorway *about six times a year* and `:59` has one person in it *on every other morning for about two years*. **A repair has no authority to settle that and it was not papered over.**
+- **The `m.longest_lift` fault in `tools/measure.py`**, which grows a run by intersecting the holder sets of two overlapping five-grams and so reports runs no chapter holds whole. **Reproduced a ninth time. `tools/measure.py` was not edited, so every `lifts` figure recorded anywhere in this repair is an upper bound on that account.**
+- **The six-word lift floor's lack of discriminating power**, and the five resting figures on this range's register named in section Three with their holder counts.
+- **`chapter-0450.md`, `chapter-0400.md`, `chapter-0350.md`, `chapter-0550.md` and `chapter-0620.md` are volume and series endings that carry the last line of their volume and no phase here may open them**, and `chapter-0500.md` is the sixth.
+- **The restatement class, which is the repair's method and not a set of discrete defects.** Item 248 named four and left them standing: `chapter-0455.md:51` against base `:45`, `chapter-0458.md:57` against base `:51`, `chapter-0497.md:63` re-performing base `:61`, and `chapter-0486.md:55` re-performing base `:49`. All four were re-read here and all four stand under item 221's standing. **This pass took out three of the same class and left those four, which is the position: a discrete instance with the base line adjacent is taken, and a standing instance named in a record is not re-taken silently.**
+- **The four debts**, owed elsewhere and not here.
+
+## Six: a standing that is false in the record above, and it is about this range
+
+**Items 243 and 249 both carry this as a named standing fault in this range's record: *the `m.DATE_LINE` fault, which parses 0 of 50 date lines in this volume while `calendar` reports 50 parsed, so the two instruments disagree and the located check is the standing one.* Both halves of that are false for Volume 10.**
+
+`m.DATE_LINE.match` called **per line, the way `tools/measure.py` calls it at line 198**, parses **50 of 50** date lines in Volume 10, and `m.DATE_LINE_ORD` parses 50 of 50, and `calendar --volume 10` reports 50 parsed with none unparsed. **The two instruments agree on all fifty files and the located check and the printed check return the same answer.** The claim arose from calling `DATE_LINE.finditer` on whole-file text, where `^` is not `re.M` and can only match the start of the string; `measure.py` itself is correct.
+
+**There is a real gap and it is in a different volume.** `m.DATE_LINE` and `m.DATE_LINE_ORD` admit only `It is the` and `The date is the`. **Volumes 01, 02, 03, 04 and 07 open their date lines with `This is the`,** and `chapter-0301.md:11` reads *This is the fourth day of the third week of the twelfth month of the year after the year…*, which neither pattern can parse. Measured per volume on this tree: `DATE_LINE.match` returns 0 for Volumes 01, 02, 03, 04 and 07, 1 for Volume 05, 16 for Volume 06, 26 for Volume 08, and 50 each for Volumes 09, 10, 11 and 12. **`calendar` accordingly reports those volumes' files as carrying no date line, and in Volume 07 their date sentences fall into the prose bucket — which is item 243's *date-line lifts* phenomenon, and it belongs to Volume 07 and not to this range.** **No date-line lift exists in this range: both nine-word lifts were quoted back and both are ordinary prose.**
+
+**Nothing above this section was amended.** Item 243's and item 249's wording stands as written, and this is the correction of record for this range, appended downward.
+
+## Seven: the gate table, every command carrying `--volume 10`, all re-run on the landed tree
+
+```
+python3 tools/measure.py selftest                                            PASS
+python3 tools/measure.py calendar --volume 10        50 files, 50 date lines, none unparsed
+python3 tools/measure.py words --volume 10           80,714 words  (49 owned files 79,315)
+python3 tools/measure.py words                        1,488,552 words in 620 files
+python3 tools/measure.py reprints --window 20 --volume 10   either prose      0
+python3 tools/measure.py reprints --window 12 --volume 10   either prose    448
+python3 tools/measure.py reprints --window  8 --volume 10   either prose  1,459
+python3 tools/measure.py reprints --window  5 --volume 10   either prose  3,834
+python3 tools/measure.py lifts --volume 10 --first 451 --last 500 --base 185c48e --min 6 --show 20
+        ADDED 183 prose lines | >=6: 164 | >=9: 2 | mean 6.76 ; BASELINE 1079 / 935 / 534, mean 9.68
+```
+
+`reprints` returns three classifiers and both units are printed where they differ: at window 8, `date` 1,467 prose, `terms` 1,480 prose, `either` 1,459 prose; at window 5, `date` 3,862, `terms` 3,865, `either` 3,834. **The figures moved from item 249's by exactly this pass's own seven edits: `1,465 → 1,459` and `3,837 → 3,834`, both from taking the duplicated claim out of `chapter-0482.md` and the duplicated turn out of `chapter-0495.md` and `chapter-0498.md`.** `lifts`' six-word count moved `165 → 164` from taking the eight-word run out of `chapter-0467.md`.
+
+**Volume 10 stands at 80,714 words and the manuscript at 1,488,552 in 620 files. The 43 words between that and the 80,757 and 1,488,595 item 249 recorded are this pass's own seven revoicings: four words out of `chapter-0471.md`, twenty-two out of `chapter-0482.md`, and seventeen out of `chapter-0467.md`, `chapter-0474.md`, `chapter-0481.md`, `chapter-0495.md` and `chapter-0498.md` between them.**
+
+**The repaired set, by item 239's method with the volume taken from the path and the chapter list per file, is 304 chapters; Volume 10's forty-nine owned files stand at 79,315 against the 79,358 item 249 recorded, so the set stands at 511,779 words at a mean of 1,683.5, against item 249's 511,822 at 1,683.6. The 43 words are the same 43.** All locks hold and each is checked with its citation in `outline/volume-10.md`: the two in their boxes stay in them, the question carries no full stop, the figure at the end of the cold passage is not handed on, the name at the end of a struck line is not printed, the guarantee is not printed in its own words and no child is named in it, the bill at Lowcross is unpaid, the four who cannot make sense of a paragraph are asked nothing, a girl of seventeen and a reader of seventeen are unspoken to and unthanked and unsent for, the four hundred and thirty miles and the nine miles and the four hundred yards of cold flags are each walked zero times in this range, nothing printed that is written on any piece of paper in this matter, and the woman who did nine minutes of work on a box stays dead.
+
+## Eight: what is left
+
+**This phase created no prompt, and that is the eighteenth time this repair has handed a phase an instruction to write one that already exists.** `workspace/prose-repair-0023/PROMPT.md` exists, names Chapters 0451 to 0500 and is the prompt this dispatch was handed in substance; `workspace/prose-repair-0024/PROMPT.md` exists and names Chapters 0301 to 0350, whose range was repaired at item 239 and audited at items 240, 243, 246 and 247; **both were checked with `ls -la` and each first line with `head -1`, and not inferred from a commit message, and writing the file this dispatch was told to write would have destroyed the Volume 07 prompt.** `workspace/prose-repair-0025/` does not exist, so the frontier has no prompt for the next phase, and that finding is owed to a controller.
+
+**Two hundred and sixteen chapters of six hundred and twenty have been through the prose repair, thirty-four point eight per cent. Three hundred and fifty-five will be unrepaired when the repair finishes, and every one of them is in Volumes 01 to 07.** Two hundred and sixteen is evidence that the work can be done and not evidence that it has been done.
+
+**And the honest finding is unchanged and is not a state defect: the manuscript is structurally complete, canonically sound and not publishable as it stands.** Chapter length fell from 4,042 words a chapter in Volume 01 to about 1,455 in Volume 12, monotonically across twelve volumes, and the demonstrative-anaphora construction rose with it from 0.5 instances per 1,000 words to 8.7. **This range's own figure on the method of record is 352 closed-ten instances in 79,315 words at 4.44 per 1,000 and 1,211 sweep instances at 15.27, and the repair added 8,776 words to this volume without moving any of the four numbers — which is the argument for the method and not a cure for the manuscript.** **Volume 10 on the tree as it stands is 80,714 words at a mean of 1,614.3, its longest chapter is `chapter-0451.md` at 2,236 and its shortest is `chapter-0498.md` at 1,230, and its densest chapter is `chapter-0482.md` with 46 sweep instances. The prompt quotes 1,438.8, 2,056 and 1,082, and those three are the volume's figures at `185c48e` before the repair — 71,938 words at a mean of 1,438.8, longest `chapter-0451.md` at 2,056, shortest `chapter-0498.md` at 1,082 — so the range grew by 8,776 words and the two extremes grew by 180 and 148, which is the shape a repair that lengthens a room's scenes has.** That is what the finding takes in a room. It is a decision about scope and it belongs to a person.
