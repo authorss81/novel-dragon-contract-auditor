@@ -36368,3 +36368,36 @@ Checked over the working tree of the thirty-nine files, and the second column is
 **Nothing amended, nothing created, nothing planned.** No chapter opened for edit. No outline opened for edit. No controller file edited. `tools/measure.py` run and not changed. `state/complete.md` not written. No volume planned and there is no Volume 13.
 
 **THE ITEM IS 294.**
+
+---
+
+## THE SEVENTH AUDIT OF THE PAID SECOND READING OF VOLUME 05'S BATCH 0003, `chapter-0221.md` TO `chapter-0230.md`, MEASURED RECORD — ITEM 295
+
+**Ninth pass over the ten files, and the refusal first.** This run was handed `workspace/review-debt-0001/PROMPT.md` and found its work paid: `reviews/volume-05-batch-0003.md` (item 268) with siblings at 275, 279, 283, 290, 291 and 294. No second review written, no paid file amended, no prompt marked, no marker written. Sibling: `reviews/volume-05-batch-0003-seventh-audit.md`. **Base `18e57c8` asserted ten of ten non-empty** (`git show 18e57c8:... | wc -c` at 14465, 13200, 12889, 14056, 14323, 14960, 13221, 13046, 13878, 14020); `git diff --numstat 18e57c8 -- chapters/volume-05/` prints only 0231–0250; no `prose-repair` commit on Volume 05. All ten chapters read end to end.
+
+**Every figure re-derived with the command beside it, none carried.**
+
+| Figure | Result | Method |
+|---|---|---|
+| `about nine`, raw minus `about nine hundred` | **5, 7, 4, 5, 6, 6, 6, 3, 6, 8 = 56**, range 3–8, median 6.0, against the card's 72 | `re.findall` per file; raw 74, subtraction 18 |
+| Calendar lock on the ten | **13 hits on 12 lines, all modal**; `May` 0, other months 0, weekdays 0 | `re.finditer(r"\bmay\b")` per line, each read in place |
+| `wc -w` | **3011, 2758, 2714, 2956, 3018, 3164, 2763, 2754, 2919, 2975 = 29,032** | `wc -w`, explicit ten-file list |
+| Count of askings | **four everywhere stated, five nowhere** | `0221:105`, `0222:81`/`:135`, `0223:121`, `0224:111`, `0225:45`/`:144`, `0226:134`/`:138`, `0228:114`/`:116`, `0229:36`/`:134`, `0230:99` |
+| `exception` / `precedent` | **0 / 0** | `grep -c -i -w` per file |
+| `certif` | **2** (`0223:5`, `0227:21`), both negations | `grep -n -i -o "certif[a-z]*"` |
+| Nobody thanked | **19 lines** (0/1/1/2/2/3/4/2/2/2), all negations or refusals | `grep -c -i thank` per file, each read |
+| Lowcross | **nineteen pounds three and fourpence**, unpaid, nobody liable | `0229:15`, `0229:128`, `0230:91` |
+| Guarantee | **440 foot, 60 children under sixteen**, unanswered, no child named | `0229:130`, `0230:15`, `0230:101` |
+| Reader of seventeen | unnamed, unthanked, not starting, rate unprinted | `0229:96`, `0230:73` |
+| Distances | **`four hundred and thirty` 14** on the ten, **134** volume-wide; **`four hundred miles` 0** in both | `grep -o ... | wc -l`, explicit list and `chapter-*.md` |
+| Absences | `Mosswake`, `Venn`, `ruling`, `schedule`, `Ashfall`, `thirty-one`, `dragon` **all 0** | `grep -i -o -w` over explicit ten |
+| Out-of-world | **clean** | `grep -rno -E` for `chapter`, `volume`, `reader of the book` |
+| Volume 05 / manuscript / selftest | **144,248 / 1,496,525 in 620 files / PASS** | `python3 tools/measure.py words [--volume 05]`, `selftest` |
+
+**The nine located defects, each re-seen and none re-charged.** `0226:7` *she am* (`grep -n "she am"`); doubled `---` at `0226:49-50` and `0229:19-20` (`grep -n "^---$"`); leading space at `0221:57` (`grep -n '^" '`); doubled blank at `0228:108-109` (`grep -n "^$"`); `0225:132` against `:134`; doubled locative at `0227:5`; year-term at `0226:60`; person-shift at `0227:59`. **No new prose defect in this ninth pass.** Withdrawn candidates stay withdrawn (`0224:123` no printed span; `0222:15` five visits, not askings).
+
+**The refinement, and it is the only new figure in this record.** The prompt's whole-volume twenty-seven re-derived with all three counters side by side: `grep -o -w -i "may"` returns **46 occurrences**; without `-o`, **40 matching lines**; `grep -l`, **27 files**. **Twenty-seven is the file count** — 0206, 0207, 0208, 0210, 0211, 0213, 0214, 0215, 0217, 0218, 0219, 0220, 0222, 0223, 0224, 0225, 0228, 0229, 0231, 0232, 0234, 0238, 0241, 0243, 0245, 0247, 0250 — and all 46 occurrences were read with 45 characters either side and every one is the modal verb. The missing-base warning does not fire: `9ae089f` holds `chapter-0221.md` and `git diff --numstat 9ae089f 18e57c8 --` over the ten is empty.
+
+**No prompt created and none overwritten** (`review-debt-0002` paid at 270A; `review-debt-0003` live at `dedc831`; `review-debt-0004` current). No chapter opened for edit, no outline opened, no controller file edited, `tools/measure.py` run and not changed, `state/complete.md` not written, no volume planned and there is no Volume 13.
+
+**THE ITEM IS 295.**

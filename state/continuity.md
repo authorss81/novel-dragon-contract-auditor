@@ -682,3 +682,21 @@ Handed the prompt for the third of the four owed reviews and found the work paid
 **The frontier, unmoved.** Volume 05 Batch 0003 is paid and audited six times over; Volume 05 Batch 0004 is paid at `5316a4f` and audited four times. **Volume 05's Batch 0005 and Volume 06's Batch 0003 are owed and unpaid, and both already hold correct current prompts** — `workspace/review-debt-0003/PROMPT.md` at base `dedc831` and `workspace/review-debt-0004/PROMPT.md`. **What is owed to neither is a controller decision on the ladder: `workspace/review-debt-0001/` holds a finished phase's prompt with no `.done`, sorts first, and has been dispatched ten times.** This run took no marker, because writing one is phase selection and `PHASE_SYSTEM.md` line 216 bars a writing phase from it.
 
 **Nothing was amended, no paid review touched, no chapter opened for edit, no outline opened for edit, no prose repaired, no volume planned, no `state/complete.md` written, no controller file edited, and no review here described as independent — item 171 holds that until a controller owner changes it.**
+
+---
+
+# SEVENTH AUDIT OF THE PAID SECOND READING OF VOLUME 05'S BATCH 0003 — ITEM 295, WHAT WAS CHECKED AND WHAT WAS FOUND
+
+*Ninth pass over `chapter-0221.md` to `chapter-0230.md`. Base `18e57c8`, asserted ten of ten non-empty; `git diff --numstat 18e57c8 -- chapters/volume-05/` prints only 0231–0250, so no file in the range has moved by a line. No prose-repair commit on Volume 05. All ten chapters read end to end. Sibling: `reviews/volume-05-batch-0003-seventh-audit.md`.*
+
+**This run was handed a prompt whose work is paid ten times over, and refused it without amending anything.** The prompt is `workspace/review-debt-0001/PROMPT.md`; its work stands at `reviews/volume-05-batch-0003.md` (item 268) with siblings at items 275, 279, 283, 290, 291 and 294. Overwriting the paid review, or overwriting `workspace/review-debt-0002/PROMPT.md` whose review is paid at item 270A, would have destroyed paid work. **Neither was done, under item 275A's standing. No prompt was created. No marker was written.**
+
+**Canon, re-verified on the page rather than carried.** The count of things asked out loud is **four** in every chapter of the range that states it and **five in none of them**. The Lowcross bill is **nineteen pounds three and fourpence**, unpaid, nobody liable. The guarantee stands offered and unanswered on **about four hundred and forty foot** of bank with **about sixty children under sixteen** inside it, with no child named. The reader of seventeen is unnamed, unthanked, not going to start, rate unprinted. `exception` and `precedent` are **0 and 0**; the two `certif` hits are both negations; nobody is thanked on 19 lines of refusal. Months are numbered and days are counted: **13 whole-word `may` on twelve lines, all modal, `May` 0, other months 0, weekdays 0.** The distance is **four hundred and thirty**, 14 on the ten and 134 across the volume, short form zero.
+
+**The nine located prose defects were each re-seen and none re-charged** (`0226:7`, doubled `---` at `0226:49-50` and `0229:19-20`, `0221:57`, `0228:108-109`, `0225:132`/`:134`, `0227:5`, `0226:60`, `0227:59`). **No new prose defect in this ninth pass.**
+
+**One refinement, and it is about the prompt and not the prose.** The prompt's whole-volume twenty-seven is the **file count**: 46 occurrences on 40 lines in 27 files, all 46 read in context and all modal. The lock holds; the prompt's census is short by five on the ten and mislabeled on the volume.
+
+**The frontier, unmoved.** Volume 05 Batch 0003 is paid and audited seven times over; Batch 0004 is paid and audited four times. **Volume 05's Batch 0005 and Volume 06's Batch 0003 are owed and unpaid, and both already hold correct current prompts.** `workspace/review-debt-0001/` holds a finished phase's prompt with no `.done`, sorts first, and has now been dispatched eleven times; this run took no marker, because writing one is phase selection and `PHASE_SYSTEM.md` line 216 bars a writing phase from it.
+
+**Nothing was amended, no paid review touched, no chapter opened for edit, no outline opened for edit, no prose repaired, no volume planned, no `state/complete.md` written, no controller file edited, and no review here described as independent — item 171 holds that until a controller owner changes it.**
