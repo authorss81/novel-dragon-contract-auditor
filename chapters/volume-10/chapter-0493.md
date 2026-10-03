@@ -56,7 +56,7 @@ The two of seventeen at the back did not move at any point in that hour and a ha
 
 The light off the lane did not reach behind the bench at any point of the morning and nobody in the lane looked at either of them at any point of it, and the back of the shed went on being the back of the shed without anybody going near it.
 
-Nobody went near the two of seventeen at the back of the shed in the whole of the hour and a half, and the ordinary morning went on going past the door of it, and the lamp stayed dark on its bracket until the hour it comes on by itself.
+Nobody went near the back of the shed in the whole of the hour and a half, and the ordinary morning went on going past the door of it, and the lamp stayed dark on its bracket until the hour it comes on by itself.
 
 The girl did not say one word, and she is not going to be asked anything this month and she is not going to say anything this month, and nobody in that shed has ever told her that either of those is unusual. Nobody in that shed is going to speak to her, and nobody is going to send for her, and nobody is going to thank her. If a second of a second were put in front of her tomorrow, there would be nowhere in this empire for her to put the fact that she did not want it.
 

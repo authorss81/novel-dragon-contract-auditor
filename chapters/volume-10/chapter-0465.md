@@ -12,7 +12,7 @@ It is the fourth day of the third week of the sixth month of the year after the 
 
 He came down at the fourth hour with the rack and there was a woman at the lock, and he went on by, because in four years nothing has come down that stone that anybody at this end would have had a reason to stop it for.
 
-The lock is at the near end of the run and it is fastened on the passage side and not on the flags side, and the passage behind it is as dark as it has been every working day of the four years she has stood at it.
+The lock sits at the near end of the run and it is fastened on the passage side and not on the flags side, and the passage behind it is as dark as it has been every working day of the four years she has stood at it.
 
 He went up. He came down. He went up. The stone turned the whole of the morning under the rack and the two of them said nothing for about an hour and the passage gave the sound of it back off the far wall.
 

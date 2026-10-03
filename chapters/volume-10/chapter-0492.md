@@ -42,7 +42,7 @@ He went up the last flight and set the satchel on the counter at the far end, an
 
 Then he went back down.
 
-He went back down at the pace he goes down at and the lamp at the foot of the stair was still not lit and the stair did not make any noise under him that it does not make under everybody.
+The stair gave the sound of his own boots back to him and gave the rest of the building nothing else at all, and the strap was still across him where it had been across him going up, and nothing about the four flights of it had changed in the time they had taken him up.
 
 He stopped on the fourth step from the top going down and turned round, and he did not come up, and he said it to the stair.
 

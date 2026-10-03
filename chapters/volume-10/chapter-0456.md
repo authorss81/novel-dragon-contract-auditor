@@ -12,7 +12,7 @@ It is the second day of the second week of the fourth month of the year after th
 
 The knock came on the front door at about the fifth hour, and it was the knock of a man with something in his hands, and she knew that before she had the door a third of the way open.
 
-The lamp on the table by the front door had been burning since the sixth hour the evening before, and the passage had the cold in it that a passage keeps after a night, and the boiler behind the tin made the only noise the ground floor had of its own.
+The passage had the cold in it that a passage keeps after a night, and the boiler behind the tin made the only noise the ground floor had of its own, and by the hour the cold in it had not gone anywhere.
 
 He was about twenty-one. He had a cord across his chest and a bundle on his back and about seven shillings loose in his fist, and he had been three houses in two years, and one of the three had been his father's and the other two had not been anybody's fault.
 

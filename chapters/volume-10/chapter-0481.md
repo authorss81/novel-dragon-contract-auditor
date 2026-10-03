@@ -52,7 +52,7 @@ She did not look up. She did not turn her head as far as it goes, and she did no
 
 Nobody waited for her. That is the thing about that end of those tables and it has been the thing since before the man at the other end of them had been in the building: nobody in that room has ever waited for her, and that is why she has got away with it for four years.
 
-Nobody looked towards the far end of the joined tables at any point of the morning and nobody turned a head towards the far end of them, and the book stayed open on the far end with the pen lying in the middle of it, and the room went on being a room with people in it working.
+Nobody looked towards the far end of the joined tables at any point of the morning and nobody turned a head towards the far end of them, and the room went on being a room with people in it working.
 
 ---
 

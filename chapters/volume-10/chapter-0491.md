@@ -30,7 +30,7 @@ Marn Ottery came along the boards from the other end. She is thirty-four, and el
 
 Marn Ottery looked at the strip along the top of it for about as long as it takes a person to decide against having an opinion about it.
 
-She looked at the same four things in the same order that she has looked at on every sheet that has ever come out of the case and she did not put her hand near it, and it stayed where it had been put, in the middle of the wood, in the light.
+She went along the printed strip with her eyes and did not put her hand near the sheet, and it stayed where it lay, in the light off the front of the boards.
 
 "There is a difference between a sheet nobody paid for and a sheet somebody made," she said. "One of those is a mistake. The other one is a decision. And if it is a decision, then it is not ours to put in a drawer."
 
@@ -46,7 +46,7 @@ Nobody was waiting on her. Nobody on that floor has waited on her since before t
 
 She squared the book against the table with the side of her hand, which is the one thing she does with it, and the pen stayed where it was, and she did not turn her head as far as it goes.
 
-Nobody at any end of the boards turned towards the far end of them at any point of the morning, and the sheet stayed on the wood in the middle of the floor where it had been put, and nobody walked over it.
+Nobody at any end of the boards turned towards the far end of them at any point of the morning. Nobody walked over the sheet and nobody knelt down where it lay, and the floor between the two ends of it stayed as empty of feet as it had been at the hour.
 
 ---
 

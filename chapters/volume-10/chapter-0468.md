@@ -42,7 +42,7 @@ Nothing moved and nothing was said and the lane outside was doing whatever the l
 
 "I am telling you that a thing nobody can be charged with is a thing nobody has spoken about in front of anybody, and that box had been that for about nineteen years, and it stopped being that at about the fourth hour this morning in a lane with nobody in it." He turned and started back up the floor. "**I have not moved it and neither have you and neither of us is going to, and that is now the only reason it is still the only thing here nobody can be charged with, and it has cost it the two of us, and I am not going to be thanked for having spent that on it and neither are you.**"
 
-The box stayed where the box has been since before the young man came onto the floor and will be there when he is not on it, and the lid of it had been put down and not lifted since, and the lane outside went on with whatever the lane does and did not come in.
+Nobody has put a hand on the lid of it since the two years began, and the lane outside went on with whatever the lane does and did not come in.
 
 ---
 
