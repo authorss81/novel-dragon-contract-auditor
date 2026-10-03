@@ -18288,3 +18288,45 @@ No hearing and no arrangement of one; no notice sent (verb only); no post, commi
 ## Six: what is left, re-measured on this tree and not carried forward
 
 **The repaired set is unchanged: Volume 06 at 0251–0299, Volume 07 at 0301–0349, Volume 08 at 0351–0399, Volume 09 at 0401–0449, Volume 10 at 0451–0499, Volume 11 at 0501–0549, Volume 12 at 0551–0609 — 353 chapters. The manuscript reads 1,496,548 words in 620 files, re-run on the working tree at this item's close (`python3 tools/measure.py words`, no figure carried).** The largest untouched block remains Volumes 01–05 at 250 chapters plus the seven volume-ending exclusions and Volume 12's 0610–0619. **No prompt was created: both branches of the continuation conditional are closed for this repository. `state/complete.md` was not written; `state/phase-ledger.json` was not edited.**
+
+---
+
+# THE THIRD AUDIT OF THE PAID SECOND READING OF VOLUME 05'S BATCH 0003 — MEASURED RECORD — ITEM 283
+
+**The sixth dispatch on this range, and the fourth pass over the page.** The work was found paid three times over — `reviews/volume-05-batch-0003.md` at `2359f84` (item 268), audited at item 275, verified at item 279 in `reviews/volume-05-batch-0003-verification.md`, confirmed at item 280 — and this run audited rather than rewrote, per `PHASE_SYSTEM.md` line 216 and items 275A, 276A, 277A, 279A and 280A. It wrote `reviews/volume-05-batch-0003-third-audit.md`, amended nothing paid, and marked no prompt.
+
+## Zero: the base, resolved and asserted before any figure was believed
+
+`git log --oneline -- chapters/volume-05/chapter-022[1-9].md chapters/volume-05/chapter-0230.md` returns `18e57c8` (*save review fixes batch-0003*) and `7a54b16` (*save writer work batch-0003*) and nothing else, so **`18e57c8` is the base**. `git show 18e57c8:chapters/volume-05/chapter-<each of the ten> | wc -c` returns **14465, 13200, 12889, 14056, 14323, 14960, 13221, 13046, 13878, 14020** — ten of ten non-empty, item 265E's check, and the reason no counter piped off a base was believed. `git diff --numstat 18e57c8 -- <the ten files>` returns **nothing**: worktree and base byte-identical on all ten. `git log --oneline --grep="prose-repair" -- chapters/volume-05/` returns **nothing**, so Volume 05 has never been through the prose repair and **every line number below is a citation of a text and not of a position**.
+
+## One: the two prose defects no earlier pass reported
+
+**`chapter-0225.md:132` against `chapter-0225.md:134`** — *the reason she has written **eleven times** in nine years* and, three lines later, the entry she is writing, *I have now done this for the **thirteenth time***. Same sentence, same act, **a gap of two**, and the gap is what closes the only reconciling reading: eleven-before-today makes today the twelfth. The alternative, that two entries carried no reason, is unavailable because line 132 places the reason *at the bottom* of an entry.
+
+**`chapter-0227.md:5`** — *She was in the room in a rented room about nine miles from a building off that road.* Two locatives in a row, the first with no antecedent but the room the preceding sentence finished describing, which is on a different street. `grep -rn "in the room in a" chapters/volume-05/` returns **this line and no other in fifty files**.
+
+Both are base text, both need substitute authority in a closed volume, and **both are reported and neither is fixed.**
+
+## Two: every checkable figure, re-derived with the command beside it
+
+| Figure | Result | Command |
+|---|---|---|
+| `about nine` per file, raw less `about nine hundred` | **5, 7, 4, 5, 6, 6, 6, 3, 6, 8 = 56**, range 3 to 8, median 6.0, against the card's 72 | `re.findall(r"\babout nine\b",t,re.I)` less `re.findall(r"\babout nine hundred\b",t,re.I)`. **Raw is 74 and the subtraction is 18** |
+| Whole-word `may` | **13 hits, 12 lines, six chapters**, all modal; capital `May` **0**; nineteen calendar names return only those thirteen | `grep -o -w -i may <ten>` = 13; `grep -w -i may <ten>` = 12 lines |
+| `wc -w` per file | **3011, 2758, 2714, 2956, 3018, 3164, 2763, 2754, 2919, 2975 = 29,032** | `wc -w` over an explicit ten-file list |
+| Five located structural defects | all seen on the page | `0226:7`, `0226:49-50`, `0229:19-20`, `0221:57`, `0228:108-109` |
+| `certif` / `exception` / `precedent` | 2 both negations / 0 / 0 | `grep -o -i -w` |
+| `four hundred and thirty` / `four hundred miles` | 14 / **0** | `grep -o -i` |
+| `thank` | **25 occurrences on 19 lines**, every one a negation or a refusal | the occurrence and the line count differ, and this is item 276B's confusion |
+| `the book` / `the books` | 21 raw less 3 = **18** | `grep -o -i` |
+| `selftest` | **PASS** | `python3 tools/measure.py selftest` |
+
+## Three: the three record faults, corrected nowhere
+
+1. **The gap sequence printed at item 279 is wrong on three of eight.** Stated as *9, 5, 9, 5, 9, 5, 9, 5, no remainder*; true sequence **9, 5, 9, 5, 7, 9, 7, 5, 23** from the ten date lines. **The 28-day month and item 279's fault B survive anyway**, because `0223:121`'s *ten weeks* is exactly 70 days and `0222:81`'s is 65 given months one and two both at 28 — **a correct conclusion on an incorrect derivation.**
+2. **The paid review's read-and-set-aside list misses the range's only true *N words* claim**, `0224:123`, *it is nine words*, against `0224:5` and `:117` which twice establish that she cannot read a paragraph. **Not charged**, because no span is quoted and item 267's standing needs one to count.
+3. **`0229:5` and `:98` put a past event in *next year***, 21 days from `0226:23` which puts one in *this year*. **Marginal, and volume-wide**: the same phrase is at `0206:5`, `0211:5`, `0214:5`, `0231:7`/`:79`/`:101`, `0248:3`. Cannot be closed from the page.
+
+## Four: the frontier
+
+**One prompt created: `workspace/review-debt-0004/PROMPT.md`, for Volume 06's Batch 0003, `chapter-0261.md` to `chapter-0270.md`, at base `d8f15cd`, asserted PRESENT ten of ten.** The prompt this run was told to create, `workspace/review-debt-0002/PROMPT.md`, exists at 9,722 bytes and its work is paid at `5316a4f` (item 270A) and verified twice; overwriting it would destroy a paid prompt. **All four owed reviews named at `outline/volume-12.md`'s close are now paid or prompted.** `state/complete.md` not written and does not exist; `state/phase-ledger.json` not edited and still reads `phase-000-bootstrap`; no chapter opened for edit; no outline opened for edit; `tools/measure.py` not edited; no volume planned; no Volume 13.
