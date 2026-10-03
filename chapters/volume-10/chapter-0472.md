@@ -22,7 +22,7 @@ The man of about forty-five with the loading end came down the floor at about th
 
 The young man turned round.
 
-He turned on his heel where he had been standing and did not take a step either way afterwards, and the floor between him and the loading end stayed empty through the whole of what was said after it.
+He did not take a step either way afterwards, and the floor between him and the loading end stayed empty through the whole of what was said after it.
 
 "**A copy of a copy has nobody's name in it.**"
 

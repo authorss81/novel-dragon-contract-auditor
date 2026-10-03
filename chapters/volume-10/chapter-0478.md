@@ -42,7 +42,7 @@ She put her hand back on the boards and left it there and he stayed where he was
 
 He went back down the four flights and then about two miles through a city at the walking pace of a man carrying something, and he did not put a coin on a single board on the way, and he got to a room with a table in it and shut the door, which is a thing he does and not a thing anybody could be shown.
 
-The door shut on a room that has a table in it and nothing else in it anybody could put a name to, and he put the rolled sheet down on the table where he had put it before, and he did not open it, and the door stayed shut behind him.
+There was nothing else in the room anybody could put a name to, and he put the rolled sheet down on the table where he had put it before, and he left it lying there without opening it or turning it over.
 
 Eight hours of a fair hand at a rate that is a rate and not a kindness. The fourth line of the fourth page does not agree with the line above it and has not agreed with it for about a fortnight, and he has known it the whole of that fortnight, and he is not the man who is going to say so out loud to anybody about it.
 

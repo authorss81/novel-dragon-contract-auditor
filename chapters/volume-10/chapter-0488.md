@@ -30,7 +30,7 @@ About nine feet of it came back off the flags and the rest of it went down the p
 
 He did not stop. He got the rack up off his hip about nine foot further down and went on.
 
-The rack came off his hip and went back onto it and he carried on up the stone without putting his head round, and what she had said stayed where he had left it, and the flags took his feet the way they take everybody's feet on a run of stone.
+What she had said stayed where he had left it, and the flags took his feet the way they take everybody's feet on a run of stone, and he went up the stone without putting his head round at her going.
 
 "You have not asked me for my figure."
 
