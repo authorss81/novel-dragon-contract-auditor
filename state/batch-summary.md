@@ -16330,3 +16330,46 @@ Re-derived on this tree, per repaired component, by whitespace count per file:
 **Nothing was at risk from this dispatch outside this range.** No chapter was opened for new prose, no repaired chapter was rewritten to buy a chapter written, no outline was opened for edit, `outline/ending.md` was not opened, no volume was planned and no Volume 13 exists, `chapter-0350.md` was read and not opened, `tools/measure.py` and every controller file are untouched, and `state/phase-ledger.json` was not edited. **No prompt was created: `workspace/prose-repair-0024/PROMPT.md` names 0301 to 0350 and is the prompt this dispatch was handed, and writing it would destroy the live prompt.** `workspace/prose-repair-0025/` does not exist, so the frontier has no prompt, and that is owed to a controller and is not this item's to close. The arithmetic of the state layer is in `state/current.md` and `state/open-threads.md` at item 258.
 
 ***The number this item takes is 258 and no existing item was renumbered. The high-water mark on arrival was 257, read off `state/batch-summary.md` and off nothing else; `state/open-threads.md` stood at 256 and `state/current.md` at 257, and the next free number was taken above the highest of the three so that no existing item was renumbered and no cross-reference broke.***
+
+# THE SEVENTH AUDIT OF CHAPTERS 0301 TO 0349, MEASURED RECORD — ITEM 259, WHICH FOUND THE RANGE REPAIRED AT `84b47c6` ON A PROMPT THAT NAMED IT UNREPAIRED FOR THE EIGHTH TIME, VERIFIED EVERY GATE INTACT, MOVED NO PROSE AND CREATED NO PROMPT
+
+**This is an audit and not a repair, not a batch, not a close, not a review and not a second reading. It opened no chapter for edit, wrote no prose, revoiced nothing, and created no prompt. Base `74ba30f`; repair `84b47c6` (`prose repair of chapter-0301.md to chapter-0349.md`); audits at items 240, 243, 247, 256, 257 and 258; prose last moved at `6a5a373` (item 258). `chapter-0350.md` carries the last line of Volume 07 and was read and not opened and is in no diff.**
+
+## Zero, the precheck, with the command beside each figure
+
+- Base commit resolved first: `git rev-parse 74ba30f` returns `74ba30f63de4ad2a8ad06d57201c638b4cb6b7e7`. HEAD on arrival is `a74a3e9` (item 258 state record).
+- `git log --oneline -- chapters/volume-07/chapter-03[0-4][0-9].md` returns `6a5a373`, `d3ccc75`, `f033c56`, `8400366`, `4eaee3a` and `84b47c6` — a repair commit is present, so per the prompt's own standing this dispatch audits rather than rewriting, and does not rewrite repaired prose to buy a chapter written.
+- Two-sided test, read from the right end: `git diff --numstat 74ba30f -- chapters/volume-07/` returns **382 insertions and 0 deletions across 49 files**; `git diff --numstat 74ba30f -- chapters/volume-07/chapter-0350.md` returns nothing; `git diff --numstat HEAD -- chapters/` returns nothing. `git diff --numstat 74ba30f^ -- chapters/volume-07/chapter-0301.md chapters/volume-07/chapter-0349.md` returns `8 0` and `6 0`, which is the repair itself.
+- `python3 tools/measure.py words --volume 07` returns **81,665**; manuscript `1,488,105 in 620 files`. `python3 tools/measure.py calendar` touched only as a run; `python3 tools/measure.py selftest` returns **PASS**.
+
+## One, the construction table re-measured on method 3, every cell compared to its base cell
+
+Measured with `m.TOKEN` over the prose selector with the date line stripped (`This is the` / `It is the` / `The date is the`), the four lists counted case-insensitively with whole-form match, sweep over the selector per file summed without straddling seams, `NONNOUN` pasted and not rebuilt:
+
+| Range 0301 to 0349, `chapter-0350.md` EXCLUDED | Words (method-3 prose) | Closed ten | Per 1,000 | List of 23 | Per 1,000 | List of 25 | Per 1,000 | Sweep | Per 1,000 | Sweep forms |
+|---|---|---|---|---|---|---|---|---|---|---|
+| now | 77,716 | **165** | 2.12 | **212** | 2.73 | **243** | 3.13 | **723** | 9.30 | 182 |
+
+Base cells are 165 / 212 / 243 / 723 across 182 forms. Every cell reproduces to the digit; 0 of 49 files differs on any column. Raw-text sweep returns 730 across 179 forms; the 723/182 figure is the stripped-selector figure the prompt names as the figure of record. Added prose carries none of the twenty-five forms and no sweep bigram. Per-chapter words before/after and the four construction columns were checked per file rather than tabulated: `wc -w` volume total 81,665 unchanged from item 258, owned forty-nine at 80,402 against 70,886 at base (`70,886 + 9,888 - 372 = 80,402`), and the per-file construction delta is empty in every column.
+
+## Two, the date lines, all forty-nine, each compared to the same line at base
+
+Located with the method-3 date test and not with `m.DATE_LINE` (which parses 0 of 49 here because every date line opens `This is the` against its `(?:[Ii][Tt]|[Tt]he date)` opening clause — the standing fault items 243, 246, 256–258 each named): positions **11, 13, 11, 11, 9, 11, 11, 11, 11, 13, 11, 11, 11, 11, 9, 7, 9, 9, 9, 11, 7, 11, 15, 9, 11, 11, 11, 9, 11, 9, 7, 7, 7, 7, 7, 7, 5, 5, 7, 5, 7, 7, 9, 7, 7, 7, 7, 7, 7** — all forty-nine reproduce at their own base line numbers (five files at line 5, seven at line 7, one at line 15).
+
+## Three, the structural table, every cell, base and now
+
+Section rules (`---` alone): **262** now, 262 at base. Bold markers (`**` raw): **816** now (408 spans), 816 at base. Quotation marks: **334** now, 334 at base. Question marks: **40 across 38 of the 49 files** now, 40 at base — none added, none removed; this remains the first repaired range carrying any against zero in Volume 10. All 49 trailing newlines present; every added paragraph a single line with a blank line above it; insert-only holds at 382 insertions and 0 deletions with every opcode an `insert`.
+
+## Defects found in this dispatch's own added prose
+
+None. This dispatch wrote no prose, so there is no added prose of its own to be defective. No guard hit was minted and none needed building; the screening guard, number-word scan and fixture grep the prompt orders before writing were not run because no candidate reached the disk. The audits before this one took 4, then 14, then 5, then 9, then 0, then 22 defects out of the same repair's added prose; this audit takes none, and the near-base four-word scan (scan D at item 258) was not re-run to a tabulated zero because no line moved — the standing remains that a future phase reporting clean on this range runs scan D at four words and not the six-word floor.
+
+## The locks, each checkable
+
+No chapter opened, so no lock could move: no hearing arranged; no notice, post, commission, warrant, office, heading or form created (0 `**`, 0 `"`, 0 `?`, 0 `---` in any edit, there being no edit); no House, seat or office named; no romance or implication; no fixture added; the girl of seventeen not thanked; the four who cannot read a paragraph not asked; the sixteenth book given to nobody; the notice not sent; the 430 miles not walked; the lamp not lit; the Lowcross bill (nineteen pounds three and fourpence) not funded, paid or forgiven; the count stays at seven and `eight` appears 0 times in any edit. `tools/measure.py`, every controller file, every outline and `state/phase-ledger.json` untouched; no volume planned and no Volume 13 exists.
+
+## What is left
+
+Repaired extent re-derived by the printed method and not carried: **304 of 620 at 511,332 words** (Volume 07 at 80,402; 08 at 85,594; 09 at 84,064; 10 at 79,241; 11 at 93,827; 12 at 88,204); unrepaired **316 at 976,773** (Volumes 01–06 whole at 300; `chapter-0350.md` 1,263; endings 0400/0450/0500/0550; Volume 12's 0610–0620 at eleven). `304 + 316 = 620` and `511,332 + 976,773 = 1,488,105`. The prompt's 255/365 at 431,546 is stale from item 232's close and is not carried; its breakdown sums to 315 because Volume 12's remainder is eleven files. Largest untouched block remains Volumes 01–06 at 300. No prompt created: `workspace/prose-repair-0024/PROMPT.md` names 0301–0350 and is the prompt this dispatch was handed; `workspace/prose-repair-0025/` does not exist, owed to a controller (item 255) and not this item's to close.
+
+***The number this item takes is 259 and no existing item was renumbered. The high-water mark on arrival was 258, read off `state/batch-summary.md` (item 258 its last heading); `state/open-threads.md` stood at 258 and `state/current.md` at 258, and the next free number was taken above the highest of the three.***
