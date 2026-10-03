@@ -20,7 +20,7 @@ He had signed it the day before. It was not a guess. It was the same sheet with 
 
 **Nobody told him and nobody could have told him. A man who is paid for a corner brings a bundle up a stair and a man at the other end signs whatever is in front of him, and there is no form anywhere in this empire in which a person is entered as the one who handed him the same thing twice.**
 
-The pot stood where it always stood, close to his right hand, and the lid leaned beside it with a dark ring under the rim. He wiped the nib on the edge of the pot, and the mark dried where he had left it.
+The pot stood where it always stood, close to his right hand, and the inside of the rim had a ring in it that was not made this morning. He wiped the nib on the edge of the pot again, and the mark dried where he had left it.
 
 ---
 
