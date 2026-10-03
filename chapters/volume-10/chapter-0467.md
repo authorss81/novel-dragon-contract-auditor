@@ -46,7 +46,7 @@ His hands stayed where they were and the sheet stayed inside the coat and the ca
 
 "I know you were not, and I know what it costs a person not to ask, and I am not going to be thanked for noticing that, and I have noticed it about a woman of nineteen in a corridor nine miles off this building and I am not going to be thanked for that either."
 
-She squared the boards again the way she squares them and put her hand back where it goes, and neither end of the counter said anything while the other end had its turn, and the room went on being a room that a person could be shown having stood in.
+She squared the boards again the way she squares them and put her hand back where it goes, and neither end of the counter said anything while the other end had its turn, and it went on being the ordinary end of an ordinary morning that a person could be shown having stood at.
 
 ---
 

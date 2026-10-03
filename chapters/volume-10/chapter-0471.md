@@ -54,7 +54,7 @@ The three of them could not have said in words what that woman was. She was a cu
 
 He went down the four flights at about the fifth hour with the two things in that coat where they had been at the fourth hour, and there was nobody in that building with a reason to count what a man was carrying, and there is no line anywhere in this empire for the person who does it.
 
-The stair took him down at the rate it takes anybody going down it who is not going to stop, and the coat stayed closed over both of the things in it, and the four hours he had spent in the room did not come out of him in any way a person at the bottom of the stair could have seen.
+The stair took him down at the rate it takes anybody going down it who is not going to stop, and the coat stayed closed over both of the things in it, and the hour he had spent in the room did not come out of him in any way a person at the bottom of the stair could have seen.
 
 The woman next door was about four hundred yards ahead of him by then and going the other way. She did not turn round and he did not go after her. The woman who stands at the foot of the four steps in that lane and the woman who lives beside him are two women about four feet of wet apart and neither of them has ever said a word to the other about the man who lives between them, and they did not begin it in a week when one of them came down a stair with a second of a thing in her coat.
 

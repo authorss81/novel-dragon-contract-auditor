@@ -34,7 +34,7 @@ He stood up and went to the window and looked at the back of another house for a
 
 He turned round from the window.
 
-He turned round off the window and the back of the other house went out of the middle of his eye and the bed and the stool came back into the room, and nobody in the room came back into it with them.
+The back of the other house went out of the middle of his eye and the bed and the stool came back into the room, and nobody in the room came back into it with them.
 
 "And the other edge is this. The same absence that makes a copy safe makes a name gone out of a leaf permanent, and there is no third object in this empire that is a copy and not a copy. So there is nothing I can make, and nothing I can have made for me, that would put that name back into the world. **The only way a name comes back is somebody saying it out loud in a room to another person. A question in this matter is a party. A party is a person. A person is the only thing that can be told what a thing is going to be used for, and a question cannot be told that, and there is nobody in nine hundred buildings who can be instructed to ask it.**"
 

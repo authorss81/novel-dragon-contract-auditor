@@ -12,7 +12,7 @@ It is the fourth day of the third week of the tenth month of the year after the 
 
 She put the fourpence down before she said anything, and she put it down in the middle of the wood and not in the tin, which is the one thing a person does at that counter that tells anybody she has been somewhere else first and thought about it.
 
-The coin sat on the wood where she had put it and it did not slide and it did not go anywhere near the tin, and her hands came down onto the boards next, and the two sheets went down on the wood side by side with a hand's width between them.
+The coin sat on the wood where she had put it and it did not slide and it did not go anywhere near the tin, and her hands came down onto the boards next, and the case stood open behind them with its lid up on its edge.
 
 Tamsin Rook is twenty-four and she has stood at the near end of that counter for two years behind a case with its lid up on its edge, and nobody on that floor has ever wanted a single thing out of her, and the twenty minutes she is in before the hour are not on anything anywhere.
 

@@ -42,7 +42,7 @@ The four years of not looking went out of her in one look and it did not come ba
 
 She turned back to the lock.
 
-She turned back to it and put her hand on the cold side of the lock and left it there, and the run went on in front of her with the rack going up it empty, and neither of them put one thing to the other after that.
+Her hand went onto the cold side of the lock and stayed there, and the run went on in front of her with the rack going up it empty, and neither of them put one thing to the other after that.
 
 A woman of about twenty-six stood at the end of about four hundred yards of cold flags. She did not take a figure out of her head, and she did not put it on anything, and she did not hand it to anybody. The man in the felt apron went back up the flags with an empty rack, and he is the second person in this matter who has said out loud that the reason a person cannot be asked anything is also the reason that person can be given anything. The two of them are the only two people in this city who know that about each other, and neither of them is safer than they were before the fifth hour.
 

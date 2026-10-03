@@ -58,7 +58,7 @@ And about two minutes after that the man at the front bench got up, which he doe
 
 Nobody will ever be able to say which of the two of them left that sentence where it was. She did not begin it. He crossed a floor he did not have to cross, and he did it two minutes after she had gone to the door, and the order those two things happened in has never been spoken about in that shed by either of them and is not going to be. A sentence that stops halfway in a doorway is a sentence with two people standing in that doorway, and there was one person in that doorway this morning, and there has been one person in it on every other morning for about two years.
 
-The doorway is the width of a person and it has been the width of a person for as long as the shed has been a shed, and it is the only place in the bay where a sentence can stop halfway and still be a sentence anybody heard, and it has been standing there with nobody in front of it for about two years except for her.
+The doorway is the width of a person and it has been the width of a person for as long as the shed has been a shed, and it has been standing there with nobody in front of it for about two years except for her.
 
 He went back to the front bench about a minute later and sat down and the chain went a small way and came back, and neither of them said one word about the two minutes, and the two of seventeen at the back did not move.
 

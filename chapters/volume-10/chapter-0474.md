@@ -28,7 +28,7 @@ She did not use the stop and he did not take it back, and whatever sound the two
 
 He said nothing for a while, and what he was doing was arithmetic, and it did not take long.
 
-It did not take long and nothing in the room was said while it was being done, and the boards under his hands stayed where they were and the light off the lane moved about a hand's width along them in the time it took.
+Nothing in the room was said while he was doing it, and the boards under his hands stayed where they were and the light off the lane moved about a hand's width along them in the time it took.
 
 "You have just told me the one thing about this that is worse than the thing I came up this stair for."
 
