@@ -17902,3 +17902,29 @@ Line numbers landed, each byte-identical to the same line at base (base list equ
 **Repaired extent 353 chapters, seven exclusions (`0300`, `0350`, `0400`, `0450`, `0500`, `0550`, `0620`), `620 − 353 − 7 = 260` unrepaired: `0001–0250` (Volumes 01–05) and `0610–0619` (ten at the end of Volume 12).** Item 267's 363 counts the first-round ten; both right on their stated methods. **Volume 06 repaired 0251–0299 (49 of 50); `chapter-0300.md` carries the last line of Volume 06, excluded from every figure, read and not opened, byte-identical at md5 `342efddefbb2a8ce9fc4da5325cc9293`, in no diff.** Largest untouched block Volumes 01–05 at 250 chapters.
 
 **This audit opened no chapter for edit, wrote no prose, revoiced nothing, wrote no prompt, planned no volume and created no Volume 13. `state/phase-ledger.json` not edited. `state/complete.md` not written. No outline opened for edit, `outline/ending.md` not opened, `tools/measure.py` not edited, and no chapter outside 0261–0299 opened.**
+
+# THE AUDIT OF A DUPLICATE DISPATCH ON THE OWED SECOND READING OF VOLUME 05'S BATCH 0003 — MEASURED RECORD — ITEM 275
+
+**This is an audit and not a review, not a repair, not a batch, not a close and not a second reading. It was handed `workspace/review-debt-0001/PROMPT.md`, found the work already paid at item 268 (`reviews/volume-05-batch-0003.md` at `2359f84`), and audited the paid review rather than rewriting it. It opened no chapter for edit, wrote no prose, amended no review, created no prompt, wrote no marker, planned no volume and created no Volume 13. The high-water mark in `state/open-threads.md` on arrival was 273; item 274 stands in this file and in `state/current.md` and takes no number there.**
+
+## One, the base, asserted before anything was believed
+
+**`git log --oneline -- chapters/volume-05/chapter-022[1-9].md chapters/volume-05/chapter-0230.md` returns `18e57c8` (*save review fixes batch-0003*) and nothing later. `git diff --numstat 18e57c8 -- chapters/volume-05/` returns ten changed files and all ten are `chapter-0231.md` to `chapter-0240.md` (Batch 0004's repair, 97 to 138 insertions each, 0 deletions); `chapter-0221.md` to `chapter-0230.md` are untouched since the base.** `git cat-file -e 18e57c8:chapters/volume-05/chapter-0221.md` returns PRESENT, and `git show 18e57c8:<file>` returns non-empty text for all ten. `git log --oneline --grep="prose-repair" -- chapters/volume-05/` returns nothing: Volume 05 has never been through the prose repair. **Every line number in item 268's review resolves.**
+
+## Two, the figures, re-derived and not carried
+
+**Words, `wc -w` one file at a time, 0221 to 0230: 3011, 2758, 2714, 2956, 3018, 3164, 2763, 2754, 2919, 2975; `3011 + 2758 + 2714 + 2956 + 3018 + 3164 + 2763 + 2754 + 2919 + 2975 = 29,032`.** The card's *29,032 as repaired* reproduces.
+
+**`about nine`, `grep -o -i "about nine\b" | wc -l` minus `grep -o -i "about nine hundred" | wc -l`, per file: 9−4=5, 8−1=7, 6−2=4, 6−1=5, 7−1=6, 8−2=6, 8−2=6, 7−4=3, 7−1=6, 8−0=8; range 3 to 8, median 6.0, total 56.** The card's 72 does not reproduce under its own stated method; the lock (at or under eight per chapter, ten of ten) holds. Item 268 finding Five reproduces to the digit.
+
+**`may`, `grep -o -w "may" | wc -l` per file: 0, 3, 2, 1, 2, 0, 0, 3, 2, 0 = 13 hits on 12 lines** (`0222:73` twice, `0222:125`, `0223:23`, `0223:105`, `0224:35`, `0225:37`, `0225:45`, `0228:15`, `0228:91`, `0228:99`, `0229:13`, `0229:70`); `grep -o -w "May" | wc -l` is 0 in all ten. **A twelve-month plus seven-weekday whole-word sweep returns nothing.** Zero month names, zero weekday names, every `may` the modal verb read in place. Item 268 finding Six and the lock both reproduce.
+
+**Spot checks, each with the file set named (the ten files, one at a time, never with a glob that admits `chapter-0220.md`):** `four hundred and thirty` 0, 0, 1, 1, 2, 5, 2, 1, 1, 1 = **14**; `four hundred miles` **0**; `grep -n -i certif` 2 hits (`0223:5`, `0227:21`, both *nothing he could certify anything with*); `exception`/`precedent(s)` **0**; `python3 tools/measure.py selftest` PASS; `python3 tools/measure.py words --volume 05` **144,248**, manuscript **1,496,548** in 620 files — both re-run on the working tree, neither moved.
+
+## Three, the reading
+
+**All ten chapters read end to end on this run.** The four prose defects of item 268C were each seen on the page: `0226:7` *she am*, doubled `---` at `0226:49-50` and `0229:19-20`, leading space inside the opening quote at `0221:57`. No chapter/volume/reader-of-the-book metareference stands in the ten; the *page*, *volume* and *book* tokens are in-world objects. The four *four words* slips (`0224:93`, `0225:9`, `0228:11`, `0228:47`) are references and not length claims, and no *N words* claim in the range meets the reporting bar item 267's review sets. **No new defect found; none added to the seventeen the continuity record carries.**
+
+## Four, what was not done
+
+**No second review written, no paid review amended, no prompt created** (`workspace/review-debt-0002/PROMPT.md` exists and is paid at item 270; overwriting it would destroy a paid prompt), **no marker written** (`.done` belongs to the controller), no chapter opened for edit, no outline opened for edit, no Volume 13 planned. The one live review prompt is `workspace/review-debt-0003/PROMPT.md`; Volume 06's Batch 0003 has no prompt and this run did not write it, on item 272B's reasoning that a prompt written on top of a loop no phase can stop is a prompt nobody reaches.
