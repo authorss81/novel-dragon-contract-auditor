@@ -34,7 +34,7 @@ Nothing was said in the shed while she was saying it, and the light off the lane
 
 He did not say anything to that for about as long as a person needs to shift on a bench.
 
-The chain went a small way and came back while he shifted and he did not put a hand on it, and both of them stayed on their own sides of it, and the length of the silence was the length he needed and no more.
+The chain moved a short way and came back while he shifted and he kept his hands off it, and neither of them came round to the other side of it, and the silence ran for the length he needed and not a moment past it.
 
 "You have said that to a shed with two people in the back of it and one of them is seventeen and I am not going to have that said twice in front of him."
 

@@ -24,7 +24,7 @@ He had a hand on the rack and he did not turn round, and he said which way witho
 
 She let him get to the end of it and then she said it, to the flags, and the passage gave it straight back.
 
-The stone took her voice and carried it the length of the run and back again, and what came back was not the same size as what she put into it, and there was nobody at the far end of the run to hear either version.
+The stone took her voice and carried it the length of the run and back again, and what came back was not the same size as what she put into it, and neither version of it was heard by anybody before it had gone.
 
 "**You have decided the wrong thing this morning and you have decided it on purpose, and I have been standing at this end for four years and I have worked out what this passage is for about a fortnight ago.** This is the cheapest road in the building for a thing nobody can be shown carrying. Nothing that comes down here has to be stopped because nothing that comes down here has anybody written on it. About nine hundred sheets a year leave a floor nine miles off with a heading over every column and every one of them goes through a pair of hands that somebody could name. **One sheet with a strip along the top of it and nothing else on it would come down this stone and go up the four hundred yards to that room at the end and stand in a room where nothing has stood since before I came here, and nobody at that end would have had to decide one single thing about it, because there is nothing on it to decide about.**"
 

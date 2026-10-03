@@ -28,7 +28,7 @@ He said nothing back and he did not go and stand at the end of the boards, and a
 
 "That is not the first time I have stood in a room where something like that happened."
 
-He said it to the boards the way she says things to the boards, and she did not answer it at once, and the case went down behind the boards at her end while neither of them was looking at the other.
+He put it out at the boards and did not turn it across towards her, and she let it sit before she gave anything back, and the case went down behind the boards at her end with the two of them looking at opposite walls.
 
 "You have it backwards and I have watched you have it backwards since the second day you came up here. **You think ninety seconds of light makes you findable and it does not, and what it does is make you a person somebody has seen, and those are not the same thing and the second one cannot be got back.** And I have not kept a count of anything in this room in eleven years, and you have not asked me one thing and I have not asked you one thing, and that is the arrangement and it has been the arrangement for eleven years."
 

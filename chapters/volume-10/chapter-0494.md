@@ -46,7 +46,7 @@ She looked at the page for about as long as it takes to decide against having an
 
 She put the page in the shelf and put the book back down on top of it, spine flush to the front edge, where it goes.
 
-Nothing about the shelf was different from the outside, and the four headings were where the four headings have been for nine years and the fifth was not there and was not going to be.
+From the doorway a shelf is a shelf and nothing on the outside of it says what is standing on it, and a shelf in a house like this one has never been a place a person was asked about, and nothing in the room was altered by her having stood in it.
 
 "It is in there," she said. "It is not in the book. The book is shut. I am not going to turn it round. Nobody in that house is going to know it is in there, including me in about a week. And there is no form in this empire for a woman keeping a thing in a shelf and not knowing she is keeping it."
 

@@ -64,7 +64,7 @@ He stood where he stood for the whole of the hour and nobody moved him off it, a
 
 She got up off her stool at about ten minutes before the sixth hour and shut the second of the two joined tables down, and stood with her hand flat on the edge of it for about as long as a sheet takes to be squared. She had said nothing and had written nothing and had agreed with nothing and had disagreed with nothing, and there is no form anywhere in this empire in which a clerk is entered as the one who did all four of those things in one morning.
 
-The stool went under the far end of the table and the pen went into the book and the book went into whatever a book goes into at the end of a working morning, and none of that was done by anybody on her behalf.
+The stool went back under the far end of the table, the pen was put away out of sight, the book was shut and squared and put down where it is put down every morning, and none of it was done by anybody on her behalf.
 
 **The drawer under that wall board stayed shut with four things in it and two of them that have never been opened in eleven years.** The box under the far end of those boards was where it had been at the second hour with the same dust on the lid, and the four went onto the wall in the same eleven-year places. **The fourth of the four is the one the three of them have never been able to account for.** It is in the hand of the woman at the far end of the boards, and she put it there herself about four years ago, and nobody has asked her.
 

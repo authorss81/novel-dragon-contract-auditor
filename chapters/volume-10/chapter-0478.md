@@ -18,7 +18,7 @@ Marn Ottery said it to the boards and not to him, from the far end, and she said
 
 He did not turn round and he did not move.
 
-The rolled sheet stayed inside his coat and her voice went off the boards into the middle of the room and lost most of itself on the way, the way everything said at the far end of them is lost, and the daylight coming in off the lane reached the wall board and stopped about where it is.
+The rolled sheet stayed inside his coat and her voice went off the boards and reached the wall with very little of itself still in it, the way everything said at the far end of them arrives, and the daylight coming in off the lane reached the wall board and stopped about where it is.
 
 "**There is an object in this empire now that can be made twice without a single person finding out, and it costs fourpence, and it comes out of a case at the end of this counter, and there is no form in it for stopping one and there is no form in it for finding out that one has been made.** A man who can be found is a man a second of a thing can be made against. That is all it takes. It does not take anybody knowing that you have a thing. It takes one person in one week deciding to be unlucky twice, and about four hundred of them come down those stairs in a year and each of them is carrying something that is not the thing."
 

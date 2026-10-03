@@ -52,7 +52,7 @@ The strap went over his shoulder and the stair took him up it the way it takes e
 
 Nobody has ever got anything out of that box, and the two men who put it where it stands cannot take it back off themselves, and there was nobody in that lane in the week they did it who could have seen what they were doing or said a word about it. It is where it has been. It was not opened. It is still chargeable.
 
-The lid of it is where the lid of it has been and the dust on it is the dust that was on it the last time either of them stood at the end of the floor, and not one of the two has put a hand on it and not one of the two is going to.
+The lid is sitting where the lid has always sat and the dust on it is the dust that was on it before either of them came up to work on it, and it will be sitting there tomorrow with the same dust on it, and the two of them will both walk past it.
 
 Nobody thanked anybody and nobody was sent for and nothing was resolved, and nobody at that loading end was asked anything and nobody was told anything they did not already know. A knife has been in a drawer at the top of four flights since before the man thinking about it was on a floor anywhere, and it takes about four seconds, and this week it stayed where it is, and he has thought about it and he is not going to do it, and nobody in this lane knew that he had.
 

@@ -12,7 +12,7 @@ It is the fourth day of the fourth week of the third month of the year after the
 
 Neither of the two of seventeen at the back of that shed moved, and not one word was said to either of them by anybody. **The girl is not given the chance to say no about anything, and the reader of seventeen is unspoken to, unthanked and unsent for, and is not going to start.** The second half of a sentence she began in a doorway has still not arrived, and it has not arrived in a week, and she is not going to stand in a doorway and finish it this month.
 
-The back of the shed is where the light does not get to, and they had been at the back of it since before she came, and the lamp on its bracket at the high end would not have shown either of them anything until about the seventh hour.
+The back of the shed is where the light does not get to, and the two of them had been standing at the back of it since before she came, and there was nothing over the far half of the floor at the fourth hour except the two of them and the chain in front of them.
 
 She held the form in her left hand and did the two ends of that shed in the order she does them. The form went with her the whole length of the floor and back again.
 

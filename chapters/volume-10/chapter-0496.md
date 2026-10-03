@@ -20,7 +20,7 @@ He had come down four flights from a room he has lived in for about two years, a
 
 Marek Kest came about nine foot off the end of that floor and stopped. He did not go any nearer. He did not touch the box, and he did not look at the lid.
 
-The floor took his boots the way it takes the boots of everybody who stands on it, and the stretch of it between him and the loading end stayed as wide as it was, and the lid stayed exactly as shut as it has been since two men made it chargeable.
+The floor took his boots the way it takes the boots of everybody who stands on it, and the stretch between him and the loading end stayed exactly as wide as it was when he arrived, and he stood on it and stayed on it and was not asked to move and did not offer to.
 
 ---
 

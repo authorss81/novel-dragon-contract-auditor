@@ -34,13 +34,13 @@ He stopped about nine feet up on the third pass and looked back down at her, and
 
 "You have a decision and you have had it since the spring, and you told me that in a week that is gone, and nobody has asked you for it. I am not asking you for it now and I am not going to, and I want that said on this stone in this week and not said twice."
 
-He said it going up and did not stop, and the rack came down the far side of the lock with him on it, and the words stayed on the stone where he had left them the way words do in a place with hard sides to it.
+He said it going up and did not stop, and the words went up the stone with him and were still going when they got past her, and she heard all of it from where the lock is and did not move for any part of it.
 
 ---
 
 He went up past her on the fourth pass without stopping and without turning round, and the rack came down the other side, and the stone was as cold at the seventh hour as it had been at the fourth.
 
-She did not turn round either, and the rack went up past her with nothing on it, and the sound of it went away up the stone the way it had gone the last several times, and nothing about the sound said anything had been put on it.
+She kept her face to the stone and gave him the whole of his back, and the ordinary noise of a working morning carried on around the two of them at the volume it always carries at, and neither of them took any of it up.
 
 Then she said it to the flags, out loud, once, to nobody, the way a person says a thing into a passage that will give it back.
 

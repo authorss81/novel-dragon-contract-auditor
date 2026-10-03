@@ -20,7 +20,7 @@ He began it on the first day of the fourth week of the last month. He has not st
 
 The pot has been standing there all week with nothing to hand back more than it ever had, because the pen is on the sill and not in the pot. There is no wider account of that than there is of anything else in that building.
 
-Nothing about the standing of the pot told anybody anything about the pen being on a piece of stone four inches to the left of it, and nobody on the floor had any way of putting the two together and was not going to get one this week.
+Nothing about the way a pot stands has ever told anybody anything about where a pen is lying, and there is no arrangement of a sill in the building that a person on the floor could read, and not one of them had any reason to go looking for one.
 
 ---
 

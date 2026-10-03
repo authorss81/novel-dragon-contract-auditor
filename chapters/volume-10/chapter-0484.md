@@ -24,7 +24,7 @@ She is about thirty-five and she keeps that book in her own hand and four rooms 
 
 She did not open the book.
 
-The shut book stayed shut through all of that and the cover did not lift and the pages did not move, and she put her hands flat on the table on either side of it and left them there.
+The shut book stayed shut through all of that, the cover never lifted and the pages never moved, and she kept both hands down on the table well clear of it and left them there for the rest of it.
 
 "And you have come up here to tell me that about my own book."
 

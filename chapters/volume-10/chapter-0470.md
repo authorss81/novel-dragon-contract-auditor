@@ -10,7 +10,7 @@ It is the fourth day of the fourth week of the seventh month of the year after t
 
 Marn Ottery said it at about the third hour, and she said it to the boards and not to the woman at the near end, and she said it as an arrangement and not as a favour, and she said it once.
 
-What she said went into the boards and was let out again into the middle of the floor a smaller thing than it went in at, and the case was shut at the near end with nobody's hand on it, and the far end of the boards had a person at it who did not move while it was being said.
+What she said went in at the boards and came out into the middle of the floor smaller than it went in, and the case stayed shut where it is with nobody's hand anywhere on it, and nobody in the room shifted a foot for the length of it.
 
 "**What a second holder is, is a person who can be shown holding a thing without being a party to it, and there is one reason for that and the reason is that a copy is not the thing it was made from.** I am not going to put that in this room again, and I put it in this room in the third week of the fifth month, and I am not going to put it in any other room either this month."
 
@@ -30,7 +30,7 @@ Tamsin Rook did not answer it. She did not agree with it and she did not disagre
 
 She had worked out about four weeks ago why she was not told, or the shape of why she was not told, and it had taken her about a minute. She had not said it to anybody and she is not going to, and what she has been given this morning is not the answer to that and is the reason for it. Having the reason does not get her any nearer to the thing she is standing ready for, and she had not expected anything else and had not wanted anything else.
 
-She stood at the near end of the boards with the case behind her and did not put a hand on it, and the boards were still up and the four flights of stair behind her were still there and she did not go towards them, and the far side of the wood was as it was when the morning started.
+She stood at the near end of the boards with the case behind her and kept her hands in front of her and off it, and the boards stayed up, and the four flights of stair behind her stayed where they have been for two years, and she made no move towards them or away from them.
 
 ---
 

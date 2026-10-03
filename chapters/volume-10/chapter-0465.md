@@ -12,13 +12,13 @@ It is the fourth day of the third week of the sixth month of the year after the 
 
 He came down at the fourth hour with the rack and there was a woman at the lock, and he went on by, because in four years nothing has come down that stone that anybody at this end would have had a reason to stop it for.
 
-The lock sits at the near end of the run and it is fastened on the passage side and not on the flags side, and the passage behind it is as dark as it has been every working day of the four years she has stood at it.
+Her lock is fastened from the passage side of the run rather than from the flags, and the stretch of passage behind it has stood unlit for as long as she has stood at the lock, and she could not have told anybody how far back it goes.
 
 He went up. He came down. He went up. The stone turned the whole of the morning under the rack and the two of them said nothing for about an hour and the passage gave the sound of it back off the far wall.
 
 Then he stopped on the third pass, which he has not done in four years, and stood about nine foot up with the rack on his hip.
 
-The rack stayed on his hip and the wind came off the terrace behind her and went up the stone past him, and she did not move off the lock to get out of it, because the lock is where she stands and she stands there for the length of every journey he makes.
+She did not leave the lock for any part of the time he was up, and she did not lean on it, and the two of them went on being two people on one run of stone with a morning of work between them and neither of them put any of it into words.
 
 "You have not asked me one thing in four years and I am not going to start, and I am going to say the arrangement out loud once and then I am going to go up and down this stone four times a day until the weather turns. **Nothing with a heading on it has come down that passage in a week. A sheet came down it once in four years and went back up again with the space on it clean.** A copy is the only paper in this empire with no heading printed over it, and there is no rule on this passage about one because nobody has ever needed one, and you have been at this end four years, which is four years of never once having to make up your mind about what to do when one of them turns up. **A rule is a thing that has to be put in front of a person, and a person put in front of a thing is a party to it.**"
 
@@ -52,7 +52,7 @@ He came down that stone and stood at the lock end of it, which is the nearest th
 
 She did not take it back and she did not say one word against it and she did not say one word for it either.
 
-The two of them stood where the stone is narrow with the rack between them, and neither of them said anything for about as long as a journey up and back, and the passage gave them nothing back at all in it.
+The two of them stood at the narrow place with the rack standing between them and not one word passed either of them for the length of a journey up and a journey down, and the passage gave none of it back.
 
 "You have been going up and down that stone four times a day for forty years and you have never once asked me for a figure and I have never once told you and that has not changed this week and I am not going to hand it over now that there is a reason to."
 

@@ -32,7 +32,7 @@ Nobody answered it.
 
 He put the pen away and took it out again and did the thing his hands do between one sheet and the next, and his eyes stayed on the sill throughout it, and he said nothing, and nobody said anything to him, and there was no version of that morning in which either of those two things came as a surprise to anybody.
 
-Neither of them looked at the other one for any part of it, and the room stayed a room with a table in it and a floor with a sill at the end of it, and nothing done in it was entered by anybody.
+The room kept the plain look it carries through every working morning, a table and a sill at the end of it and two people who do not turn their heads, and not one thing done there went into a book.
 
 **He was not asked what a second holder is and he did not ask.** He was not asked what was on the sheets he signs, and nobody has asked him that in about nineteen years, and the thing he has by himself in his head has been on no paper since the spring and is going to stay off paper until he cannot hold it, and there is no form that would take it out of him and get it onto a page.
 
@@ -50,7 +50,7 @@ Nobody answered her and nobody asked her and nobody thanked her, and the not bei
 
 By a minute past the seventh hour there was nothing left on the hook, and the hook emptied the way it empties, and the nine hundred went out of that building, one at a time, into nine hundred places where not one person knows what stands at the bottom of a page they have never read.
 
-The hook came back to empty, the pot was at his right hand as ever, and nothing at the sill shifted under him, and the corridor was a corridor with nothing in it that anybody in this empire could be shown.
+Nothing at the sill shifted under him for any part of it, and the corridor went on being a corridor with nothing in it that anybody in this empire could be shown, and the last of the nine hundred went out of the building the way the rest of them did.
 
 **He signed the ones that were square and he signed them the way he signs all of them.** One sheet in about two years came up that stair with the same mark on it twice, and he signed the top of it and did not look up while he did it. There is nobody in that corridor who could point at that sheet and nobody in that building who could point at it, and the one man who has seen it is the one man in the place who would not be able to find it again if he went back down that stair to try, and he has not gone back down it, and nobody has made a thing of it.
 
