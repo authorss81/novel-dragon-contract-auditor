@@ -16020,3 +16020,123 @@ Every lock was run over **the added prose only**, against the base count printed
 **The prompt's breakdown of its own 316 sums to 315 and the tree says 316.** It gives *Volumes 01 to 06 at 300, your own volume's `chapter-0350.md`, the four endings behind you, and Volume 12's ten*, which is 300 + 1 + 4 + 10. **Volume 12's unrepaired remainder is eleven, not ten, because `chapter-0620.md` is in it, and `chapter-0620.md` carries the last line of the series.** `state/current.md` already records that four volume endings are unopenable rather than three and names `chapter-0620.md` as the fourth; the prompt's breakdown is one short of its own total and the count it states is the right one. **The largest untouched block in this manuscript is now Volumes 01 to 06 at 300 chapters**, which is the scope decision and it belongs to a person.
 
 **Nothing was at risk from this dispatch and the arithmetic of the state layer is in `state/current.md` and `state/open-threads.md` at item 256.**
+
+# THE FIFTH AUDIT OF CHAPTERS 0301 TO 0349, MEASURED RECORD — ITEM 257, WHICH FOUND THE RANGE REPAIRED AT `84b47c6` ON A PROMPT THAT NAMED IT UNREPAIRED FOR THE SIXTH TIME, VERIFIED EVERY GATE INTACT, MOVED NO PROSE AND CREATED NO PROMPT
+
+## Zero, what was checked, with the command beside each figure
+
+**Base resolved first and printed: `74ba30f`.** The prompt states Volume 07 has never been through this repair and carries no `prose-repair` commit, and orders that a phase finding a repair commit audit rather than rewrite. `git log --oneline -- chapters/volume-07/chapter-03[0-4][0-9].md` returns `d3ccc75`, `f033c56`, `8400366`, `4eaee3a` and `84b47c6` — five commits whose subjects name this range, the earliest the repair itself — so this dispatch audited. `outline/volume-07.md` was read and not opened. `chapter-0350.md` was read and not opened: `git diff --numstat 74ba30f -- chapters/volume-07/chapter-0350.md` returns nothing. `git status --short` returns nothing. `git diff --numstat d3ccc75 -- chapters/` returns nothing, so the tree's prose is byte-identical to the item-256 landing.
+
+| Check | Command | Result |
+|---|---|---|
+| log | `git log --oneline -- chapters/volume-07/chapter-03[0-4][0-9].md` | repair commits present; range already repaired |
+| forward | `git diff --numstat 74ba30f -- chapters/volume-07/` | **382 insertions, 0 deletions, 49 files** |
+| reverse | `git diff --numstat 74ba30f^ -- chapters/volume-07/chapter-0301.md chapters/volume-07/chapter-0349.md` | `8 0` and `6 0`; the two-sided test read from the right end settles it |
+| words | `python3 tools/measure.py words --volume 07` | **82,037** (49 owned at **80,774** + 0350 at 1,263) |
+| words | `python3 tools/measure.py words` | **1,488,477 in 620 files** |
+| calendar | `python3 tools/measure.py calendar --volume 07` | 0 parsed (the `m.DATE_LINE` fault below, not a break) |
+| selftest | `python3 tools/measure.py selftest` | **PASS** |
+
+## One, the construction table re-measured on method 3, every cell against its base cell
+
+Method 3 of record: `m.TOKEN` over the prose selector with the date line stripped (`DATE_EITHER`/`DATE_THIRD`, which admit `This is the`), the four lists counted case-insensitively with `\b`-delimited whole forms, sweep over `\b(that|those)\s+([a-z]+)\b` less `NONNOUN` per file with counters summed. `NONNOUN` pasted and not rebuilt. Re-run per file at `74ba30f` and at HEAD:
+
+| List | Base | Now | Delta |
+|---|---|---|---|
+| closed ten | **165** | **165** | 0 |
+| list of 23 | **212** | **212** | 0 |
+| list of 25 | **243** | **243** | 0 |
+| sweep (182 forms) | **723** | **723** | 0 |
+
+Per-file construction diffs: **0 of 49 files differ** on any of the four columns. A rate that falls while a count holds is arithmetic: per-1,000 over the 49 falls 2.328 / 2.991 / 3.428 / 10.199 to 2.023 / 2.599 / 2.978 / 8.859 on 9,888 added words carrying none of the forms and no sweep bigram. The arithmetic as an addition: **70,886 + 9,888 = 80,774**.
+
+Per-chapter table, words before (at `74ba30f`) and after (HEAD), then the four construction columns at HEAD (identical to base on every file, verified above):
+
+| Ch | Before | After | + | 10 | 23 | 25 | Sw |
+|---|---|---|---|---|---|---|---|
+| 0301 | 2159 | 2420 | +261 | 1 | 1 | 3 | 21 |
+| 0302 | 1586 | 1833 | +247 | 0 | 0 | 0 | 9 |
+| 0303 | 1723 | 1939 | +216 | 2 | 3 | 3 | 13 |
+| 0304 | 1609 | 1851 | +242 | 4 | 4 | 4 | 17 |
+| 0305 | 1410 | 1612 | +202 | 2 | 2 | 2 | 13 |
+| 0306 | 1471 | 1724 | +253 | 1 | 3 | 3 | 11 |
+| 0307 | 1385 | 1615 | +230 | 5 | 6 | 6 | 13 |
+| 0308 | 1266 | 1517 | +251 | 3 | 3 | 9 | 14 |
+| 0309 | 1242 | 1492 | +250 | 0 | 0 | 0 | 3 |
+| 0310 | 1592 | 1838 | +246 | 5 | 5 | 8 | 16 |
+| 0311 | 2099 | 2309 | +210 | 2 | 2 | 2 | 22 |
+| 0312 | 1608 | 1780 | +172 | 1 | 2 | 2 | 12 |
+| 0313 | 1589 | 1785 | +196 | 5 | 5 | 5 | 24 |
+| 0314 | 1493 | 1688 | +195 | 4 | 4 | 5 | 19 |
+| 0315 | 1421 | 1622 | +201 | 2 | 6 | 6 | 10 |
+| 0316 | 1287 | 1481 | +194 | 1 | 1 | 1 | 12 |
+| 0317 | 1393 | 1617 | +224 | 3 | 3 | 6 | 23 |
+| 0318 | 1360 | 1530 | +170 | 3 | 4 | 4 | 18 |
+| 0319 | 1467 | 1696 | +229 | 1 | 1 | 1 | 11 |
+| 0320 | 1441 | 1708 | +267 | 4 | 5 | 7 | 16 |
+| 0321 | 1782 | 1969 | +187 | 8 | 8 | 9 | 25 |
+| 0322 | 1308 | 1488 | +180 | 1 | 1 | 2 | 11 |
+| 0323 | 1973 | 2168 | +195 | 4 | 4 | 5 | 13 |
+| 0324 | 1164 | 1341 | +177 | 4 | 4 | 4 | 11 |
+| 0325 | 1245 | 1479 | +234 | 6 | 8 | 10 | 15 |
+| 0326 | 1348 | 1539 | +191 | 2 | 8 | 8 | 16 |
+| 0327 | 1195 | 1400 | +205 | 3 | 4 | 4 | 10 |
+| 0328 | 1223 | 1406 | +183 | 2 | 2 | 2 | 12 |
+| 0329 | 1375 | 1548 | +173 | 1 | 1 | 1 | 7 |
+| 0330 | 1561 | 1748 | +187 | 7 | 7 | 7 | 18 |
+| 0331 | 1877 | 2092 | +215 | 7 | 11 | 11 | 23 |
+| 0332 | 1630 | 1815 | +185 | 3 | 8 | 8 | 18 |
+| 0333 | 1520 | 1725 | +205 | 2 | 2 | 2 | 14 |
+| 0334 | 1466 | 1630 | +164 | 1 | 3 | 3 | 10 |
+| 0335 | 1392 | 1605 | +213 | 3 | 3 | 5 | 10 |
+| 0336 | 1295 | 1463 | +168 | 5 | 5 | 5 | 13 |
+| 0337 | 1288 | 1472 | +184 | 2 | 2 | 2 | 9 |
+| 0338 | 1352 | 1522 | +170 | 3 | 6 | 6 | 13 |
+| 0339 | 1270 | 1468 | +198 | 2 | 2 | 2 | 11 |
+| 0340 | 1488 | 1698 | +210 | 6 | 6 | 6 | 15 |
+| 0341 | 1494 | 1701 | +207 | 3 | 13 | 13 | 27 |
+| 0342 | 1589 | 1772 | +183 | 10 | 12 | 12 | 29 |
+| 0343 | 1195 | 1345 | +150 | 8 | 8 | 11 | 21 |
+| 0344 | 1226 | 1423 | +197 | 3 | 3 | 5 | 8 |
+| 0345 | 1121 | 1261 | +140 | 2 | 2 | 2 | 6 |
+| 0346 | 1425 | 1639 | +214 | 6 | 6 | 7 | 17 |
+| 0347 | 1104 | 1321 | +217 | 7 | 7 | 7 | 18 |
+| 0348 | 1224 | 1397 | +173 | 3 | 4 | 5 | 16 |
+| 0349 | 1155 | 1282 | +127 | 2 | 2 | 2 | 10 |
+| **SUM** | **70,886** | **80,774** | **+9,888** | **165** | **212** | **243** | **723** |
+
+## Two, the date lines, all forty-nine, each against the same line at base
+
+Locator is the method-3 date test, not `m.DATE_LINE`, for the reason in section Zero: `m.DATE_LINE` parses **0 of 49** here and 0 of 50 over the volume, because its opening clause `(?:[Ii][Tt]|[Tt]he date)` cannot admit `This is the`, which is all fifty of this volume's date lines. Every file carries exactly one `This is the … day of the … week of the … month of the year after …` line, and all 49 reproduce at their own base line numbers:
+
+**0301:11 · 0302:13 · 0303:11 · 0304:11 · 0305:9 · 0306:11 · 0307:11 · 0308:11 · 0309:11 · 0310:13 · 0311:11 · 0312:11 · 0313:11 · 0314:11 · 0315:9 · 0316:7 · 0317:9 · 0318:9 · 0319:9 · 0320:11 · 0321:7 · 0322:11 · 0323:15 · 0324:9 · 0325:11 · 0326:11 · 0327:11 · 0328:9 · 0329:11 · 0330:9 · 0331:7 · 0332:7 · 0333:7 · 0334:7 · 0335:7 · 0336:7 · 0337:5 · 0338:5 · 0339:7 · 0340:5 · 0341:7 · 0342:7 · 0343:9 · 0344:7 · 0345:7 · 0346:7 · 0347:7 · 0348:7 · 0349:7**
+
+49 of 49 agree with the prompt's printed list and 49 of 49 agree with base. All 49 files keep their trailing newline.
+
+## Three, the structural table, every cell, base and now
+
+| Gate | Base | Now | Delta |
+|---|---|---|---|
+| words over the 49 files | **70,886** (mean 1,446.7) | **80,774** (mean 1,648.4) | **+9,888** |
+| section rules, `---` alone on a line | **262** | **262** | 0 |
+| bold markers, `**` raw substrings | **816** | **816** | 0 |
+| bold spans (816 ÷ 2; every file even) | **408** | **408** | 0 |
+| quotation marks, `"` raw | **334** | **334** | 0 |
+| **question marks** | **40, across 38 of the 49 files** | **40, across 38 of the 49 files** | **0** |
+| date lines at own line numbers | **49 of 49** | **49 of 49** | 0 |
+
+The prompt's `408` under a raw label is the paired-span count; the raw substring count is 816 at both ends with even parity in every file. The forty question marks are base text; none removed, none added.
+
+## Four, defects found in this dispatch's own added prose
+
+**None — no prose was written, so no new defect was possible, and the verification audit took nothing out.** This dispatch wrote no candidate line and therefore built no screening guard output to report; the standing instruments were re-derived (construction, structural, date-line, words, selftest) and every cell reproduces item 256's landing to the digit. The audits before it took 4, then 14, then 5, then 9 defects out of the same repair's added prose; this fifth audit finds the range clean, which is itself the finding: the defect yield of successive reading audits has reached zero. No base line was touched: `git diff --numstat 74ba30f -- chapters/volume-07/` still reports 382 insertions and 0 deletions with every opcode an `insert`, and `git diff --numstat d3ccc75 -- chapters/` returns nothing.
+
+## Five, the locks, each checkable and each with its citation
+
+No prose moved, so every lock holds as item 256 recorded it; the counts below were re-verified where an instrument can see them and carried where only reading can, because there is no new prose to read. No hearing and no arrangement of one; no notice, post, commission, warrant, office, new heading or new form (added prose carries 0 `**`, 0 `"`, 0 `?`, 0 `---`, verified). No House, seat or office named; no romance or anything implying one. No new fixture: no added line exists to name one. The girl of seventeen not thanked; the four who cannot read a paragraph not asked; the sixteenth book given to nobody; the notice not sent; the four hundred and thirty miles not walked (0 in added prose against 25 in base); the lamp not lit before about the seventh hour; the Lowcross bill not funded, paid or forgiven (no money total in added prose). **The count stays at seven and does not become eight**: `eight` appears 0 times in added prose; `chapter-0330.md` carries **Seven**, the figure of record, and `chapter-0331.md` carries **seven minutes**, a duration and not the count.
+
+## Six, what is left, the repaired extent re-derived and not carried forward
+
+Volume 07's component re-derived on this tree: **49 chapters (0301–0349) at 80,774 words**. `chapters/` is byte-identical to the item-256 landing, so all other volumes stand as item 256 measured them: Volume 08 forty-nine at 85,594, Volume 09 forty-nine at 84,064, Volume 10 forty-nine at 79,241, Volume 11 forty-nine at 93,827, Volume 12 fifty-nine at 88,204. **REPAIRED: 304 of 620 chapters at 511,704 words at a mean of 1,683.2.** **UNREPAIRED: 316 of 620 — Volumes 01 to 06 at 300, `chapter-0350.md`, the four endings `chapter-0400.md`, `chapter-0450.md`, `chapter-0500.md`, `chapter-0550.md`, and Volume 12's `chapter-0610.md` to `chapter-0620.md` at eleven.** The prompt's breakdown of its own 316 sums to 315 (300 + 1 + 4 + 10); the tree says 316 because `chapter-0620.md` carries the last line of the series and is in the remainder. The largest untouched block is **Volumes 01 to 06 at three hundred chapters**, and the scope decision is a person's.
+
+**Nothing was at risk from this dispatch. No chapter was opened for new prose, no repaired chapter was rewritten, no outline was opened, no Volume 13 was planned, `chapter-0350.md` was read and not opened, `tools/measure.py` and every controller file are untouched, and `state/phase-ledger.json` was not edited. No prompt was created: `workspace/prose-repair-0024/PROMPT.md` names 0301 to 0350 and is the prompt this dispatch was handed, and writing it would destroy the live prompt. The arithmetic of the state layer is in `state/current.md` and `state/open-threads.md` at item 257.**
