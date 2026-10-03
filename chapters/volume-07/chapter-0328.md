@@ -32,7 +32,7 @@ If he had gone up a stair to the building off the old river road she would have 
 
 So she is sitting at a table with a lamp on it and a board on the wall with the rent on it, and neither instrument has been exercised, and the whole of what that has cost her is that she is not told a thing about the one day in about nineteen years that anybody in this matter would have been able to speak about afterwards.
 
-Two instruments, not one, and neither has ever been joined to the two boxes on the other page. Had he gone up a stair she would have been in the room and is not, and nobody is going to tell her any part of it this month.
+The two boxes on the page in front of her are hers and were drawn by her own hand, and a box is not a heading and a heading is not a box, and there is nothing in the building that will take them off her own paper, and about four years of that has not once made her tear it out.
 
 ---
 

@@ -66,6 +66,6 @@ There is a woman about nine miles off a building off a road in another town who 
 
 The dye end shut for the hour and the room went quiet and the stove held for about a quarter of an hour after that before it wanted lighting again, and she let it want.
 
-The hour's shutting took the dye end down and the room went quiet enough to hear the stove. She let it want lighting again and did not light it, and a good while went by with the sixteen books where they are.
+She is paid for this room and for no other one, and there is no afternoon in this week with a door in it that she could be out of and back inside before the light went, and all three of the others would have had to ask her before any of it began.
 
 Nobody thanked her and nobody sent for her and nothing was resolved. **The four are not a route and the saying is not a method and the woman in the doorway will be told about a wage or she will not, and either way nothing in this empire will have arranged for it**, and the other two are at the far end of a lane and in a dye end and will not hear any of it from her, because being told is a thing that only happens to people somebody asked.
