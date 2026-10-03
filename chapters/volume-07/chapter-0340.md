@@ -24,7 +24,7 @@ A question cannot be asked in about nine hundred buildings at once by people who
 
 The reason is that a question in this matter is a party, and a party is a person, and a person is one. **What is available at a scale is a class, and a class is a heading, and a heading is a company.** This empire has about nine hundred rooms and there is one of him.
 
-It is a room and not a road, and nothing in the last ten weeks has taken anybody anywhere. A figure in the order of nine hundred sheets leaves a room nine miles off every year, and nobody walks the road to it.
+A figure in the order of nine hundred sheets leaves a room nine miles off every year, and nobody walks the road to it. The paper travels and the road does not, and no arrangement anywhere in this empire would put a man down it with a reason for being there.
 
 About four hundred and thirty miles is not walked and is not going to be walked. The answer is not a wall and it is not a defeat; it is the shape of the thing, and the shape has been there the whole time.
 

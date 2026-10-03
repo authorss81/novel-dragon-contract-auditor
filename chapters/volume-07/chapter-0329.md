@@ -10,7 +10,7 @@ She is twenty and her name is Nell Kest, and she keeps sixteen books. Fifteen of
 
 This is the fourth day of the third week of the seventh month of the year after the year after the year after next, and the dye end has been running since about the second hour, and it is about the fourth hour.
 
-The dye end had been running since about the second hour and by about the fourth the whole of the room smelled of it. The shelves were built for books taller than the ones now on them, and fifteen of the sixteen she keeps belong to somebody else and carry no office on the cover.
+The shelves were made for taller books than any in the room now, and there is clear air above the tallest of them for the width of a hand, and nobody has come up those two stairs yet to ask what the room was built for.
 
 ---
 

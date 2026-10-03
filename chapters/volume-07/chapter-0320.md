@@ -14,7 +14,7 @@ This is the second day of the second week of the fifth month of the year after t
 
 It is an ordinary day. Nothing in it is a confession and there is nothing in it he is not doing four times a week.
 
-There is nothing in the morning he does not do four times a week. There is still no pane in the window; about nine hundred sheets a year leave the room, and not one of them comes back into it.
+The pane has gone since before he came and the weather comes in at one angle the whole year round, and he has never raised it with anybody, and raising it would have been a question and the room had nobody in it to ask.
 
 She signs for five and those five go into a book in her own hand, and the other four go onto the shelf by the window and stay there, and a thing on a shelf is as true as a thing nobody is ever going to fetch.
 

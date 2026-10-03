@@ -48,7 +48,7 @@ It is the room at the far end of a passage about four hundred yards long, runnin
 
 **He has not been in that room.** A man of about thirty-four in a room over a shop that sells tar has no way into it, no reason to be in it, and no business in it, and all three of those are still true this week.
 
-About twenty-six years old and four years in the building, and he knows about her the way a man knows about weather, and he has not asked anybody to confirm a word of it and would not be told if he did.
+He has got very good at the carrying of a thing and knows nothing whatever about the thing itself, and being good at one of them has never told him which of them he is.
 
 A woman of about twenty-six is at the other end of that passage and has been there about four years and counts racks, and she is not one of the three clerks in that building and cannot be asked about anything, and no form in this empire has ever been written for putting a question to a person at the bottom of a passage about where anybody else is.
 
