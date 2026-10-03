@@ -56,7 +56,7 @@ At about half past the fourth a man of about thirty-four came up the four flight
 
 A courier came up after him with a satchel and left a folded thing on the boards and went down, and nobody told him what was in it, and a man of about twenty-six stood at the near end for an hour and bought nothing and said nothing, and nobody told him he did not have to.
 
-He stood where he stood for the whole of the hour and nobody moved him off it, and the near end of the boards did what it does and he was none of them and was not treated as one of them.
+Nobody moved him off it and the near end of the boards did what it does, and he was none of them and was not treated as one of them.
 
 **Nothing in that room was asked anything. Not the man with the fourpence, not the man with the corner, not the courier, and not the woman at the far end of two joined tables who has been eleven years in a building where nothing gets asked, because nobody in this empire has anywhere to put down what a thing is going to be used for.**
 
