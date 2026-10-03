@@ -17257,3 +17257,41 @@ The phase was handed `workspace/continuation/next-0005/PROMPT.md`, a continuatio
 4. **`workspace/prose-repair-0023/PROMPT.md`**, which carries a twenty-three-line scope prepended at `163f93a` that contradicts its own body at line 26, and which this repository has dispatched twelve times with nothing to show, at item 264B. Not a writing phase's to fix.
 
 ***The number this item takes is 267 and no existing item was renumbered. The high-water mark on arrival was 266, read off `state/open-threads.md` and off nothing else; the prompt this run was handed named no ledger number. `state/phase-ledger.json` is a controller file, was not edited, and still reads `phase-000-bootstrap`. This run committed no prose. The review is `reviews/volume-04-batch-0005.md` and the one next phase prompt is `workspace/review-debt-0001/PROMPT.md`, for Volume 05's Batch 0003, base `18e57c8`, verified with `git log --oneline -1 -- chapters/volume-05/chapter-022[1-9].md chapters/volume-05/chapter-0230.md` and `git cat-file -e 18e57c8:chapters/volume-05/chapter-0221.md`.***
+
+# THE OWED REVIEW OF VOLUME 05'S BATCH 0003, CHAPTERS 0221 TO 0230 — MEASURED RECORD — ITEM 268
+
+**This run wrote no chapter. It read ten finished chapters in a closed volume and wrote one file, `reviews/volume-05-batch-0003.md`. It edited no outline and no chapter and no instrument, and it did not repair prose, because Volume 05 is closed and this run held no delete or substitute authority and took none.**
+
+## Zero: what this run was, and why both branches of the dispatcher stub are closed
+
+The phase was handed `workspace/review-debt-0001/PROMPT.md`, the second of the four owed reviews named at `outline/volume-12.md`'s close. The dispatcher stub behind it reads *if the current volume is NOT complete, write the next planned batch; if the current volume IS complete, plan the next volume.* **Both branches are closed for this repository and neither was executed.** Verified on the working tree, not inherited: `chapters/volume-*/chapter-*.md` is 620 files in twelve volumes; `NOVEL_SPEC.md` states Volumes 01 to 12 are closed and are not to be reopened; `outline/volume-12.md` states there is no next volume; `chapter-0620.md` carries the last line and was not opened. `state/phase-ledger.json` is a controller file and was not edited.
+
+## One: the base, and the precheck
+
+```
+git log --oneline -- chapters/volume-05/chapter-0221.md ... chapter-0230.md  ->  18e57c8 novel: save review fixes batch-0003 (plus writer 7a54b16)
+git cat-file -e 18e57c8:chapters/volume-05/chapter-0221.md && echo PRESENT  ->  PRESENT
+git log --oneline --grep="prose-repair" -- chapters/volume-05/  ->  nothing; Volume 05 unrepaired
+python3 tools/measure.py words --volume 05  ->  144,248; manuscript 1,496,559 in 620 files
+python3 tools/measure.py selftest  ->  PASS
+```
+
+All ten `git show 18e57c8:<file>` return non-empty text. The two-sided trap item 265E names does not arise here: the base was asserted per file before any counter was believed.
+
+## Two: the review, and its findings
+
+`reviews/volume-05-batch-0003.md` is the second of the four owed reviews. Four prose defects, all located, all needing authority this run does not have: `chapter-0226.md:7` *she am doing them properly* (subject-verb mismatch, only such line in the ten); consecutive section breaks at `chapter-0226.md:49-50` and `chapter-0229.md:19-20` (the only consecutive pairs in the ten); `chapter-0221.md:57` leading space inside an opening quote. No out-of-world breach: `grep -rno -E ".{0,30}\b(chapter|volume|reader of the book)\b.{0,30}"` over the ten returns nothing. The four *four words* instances (`0224:93`, `0225:9`, `0228:11`, `0228:47`) are slips and references, not *N words* quotation claims, and none is reportable under the standing the Volume 04 review sets.
+
+Two record defects. (a) The card's `about nine` figures do not reproduce: card item 31 claims 6-8 a chapter, 72 total, per file 8/8/6/6/6/8/8/7/7/8; measured with `re.findall(r"\babout nine\b")` minus `re.findall(r"\babout nine hundred\b")` the page carries **5, 7, 4, 5, 6, 6, 6, 3, 6, 8 — range 3 to 8, median 6.0, total 56** — which is the figure this run's own prompt prints. The lock (bound about eight) still holds, ten of ten at or under. (b) The prompt's own `may` census undercounts: it lists eight raw hits at eight line numbers; whole-word `may` over the ten returns twelve lines and thirteen hits (`0222:73 x2, 0222:125, 0223:23, 0223:105, 0224:35, 0225:37, 0225:45, 0228:15, 0228:91, 0228:99, 0229:13, 0229:70`), every one read in place the modal verb. Zero month names, zero weekday names: the lock holds, the census is short by five.
+
+Nine claims verified as holding, each with its method beside it in the review: month/weekday 0/0; askings count four unmoved with six plain questions marked plain; `exception` 0, `precedent(s)` 0; three Orises, Ashfall, counting-house, ninety-second, quarterly return, Hallis Dren all 0; `four hundred miles` 0 with `four hundred and thirty` 14; certification 2 hits both negations (`0223:5`, `0227:21`); thank 25 hits all negations; Lowcross bill at `0229:15` and `0229:128` unpaid nobody liable; no new named figures, ten POVs all established. Word figures on this tree with `wc -w`: 3011, 2758, 2714, 2956, 3018, 3164, 2763, 2754, 2919, 2975; batch 29,032, reproducing the card's *29,032 as repaired*.
+
+## Three: locks, each checkable
+
+No chapter opened for edit; no outline opened; no Volume 13; no `state/complete.md`; no controller file touched. The count of askings is four and did not move in this batch. Nobody thanked in the positive in any of the ten. The Cinder Clause is not named in any of the ten and the second half of the volume's question is not asked, per the card. The guarantee is mentioned in characters' words and never printed in its own operative terms, no child named.
+
+## Four: what is left
+
+**The repaired extent is unchanged by a review and is not re-derived here as a new figure; the standing at item 267 travels with it: 353 chapters repaired and 363 with the first-round ten, seven volume-ending exclusions, `620 - 363 - 7 = 250`, and the 250 are Volumes 01 to 05 and are not a queue of work.** What is genuinely left, in order: (1) two owed reviews — Volume 05's Batch 0004 and Batch 0005 and Volume 06's own Batch 0003, which is four and not three, so two remain after this one plus the Volume 06 one; (2) the now thirteen located prose/base defects needing delete or substitute authority (nine from item 267, four from this run); (3) the review gate at item 171, controller-owned; (4) `workspace/prose-repair-0023/PROMPT.md` scope contradiction at item 264B.
+
+***The number this item takes is 268 and no existing item was renumbered. The high-water mark on arrival was 267, read off `state/open-threads.md` and off nothing else; the prompt this dispatch was handed named no ledger number. `state/phase-ledger.json` is a controller file, was not edited, and still reads `phase-000-bootstrap`. This run committed no prose. The review is `reviews/volume-05-batch-0003.md` and the one next phase prompt is `workspace/review-debt-0002/PROMPT.md`, for Volume 05's Batch 0004, `chapter-0231.md` to `chapter-0240.md`, base `65abf1d`, verified with `git log --oneline -1 -- chapters/volume-05/chapter-023[1-9].md chapters/volume-05/chapter-0240.md` and `git cat-file -e 65abf1d:chapters/volume-05/chapter-0231.md`.***
