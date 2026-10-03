@@ -50,7 +50,7 @@ The first one was his own, the sixth day of the third month, when he was eleven,
 
 He said the date out loud, and the year he was, and the fact that it is not coming back, and there was nobody in the room to hear any of it.
 
-He said it flat and he said it to check he had got it right, and there was nothing in the place to put it into, and nothing in this empire that would let anybody be told a day had gone.
+He said it flat and he said it to check he had got it right, and there was nothing in the place to put it into, and nothing in the room or the year behind it that would let a person be told a day had gone.
 
 There is not one form anywhere in this empire for a person to have a day back, not for a day of their own and not for a day of anybody else's, and there is not one for telling a person that a day of theirs has gone, and he is not going to tell anybody, and he is not going to have to, because there is nobody in this matter who could be told.
 
@@ -78,4 +78,4 @@ Nobody thanked him. There is not one form anywhere in this empire that requires 
 
 The nine lines were still on the table at about the seventh hour when the lamp was lit, and they are a shape and not a woman. **A shape is the whole of what this matter has ever been able to put in a room.** A clerk of about fifty-five put one of them in a book in the ninth month of the year after next with a day and an hour and her own name at the foot of it, and nobody sent her, and nobody has been able to ask her whether she meant it, and that is not going to change this month.
 
-He squared the nine lines against the edge of the table and put nothing on the nail, and the bare wall is all the wall there is, and the window still faces the back of another house and had nothing more to say about it tonight than it had at about the fifth hour.
+He squared the nine lines against the edge of the table and put nothing on the nail, and the bare wall is all the wall there is, and the window is still looking at the back of another house and had nothing more to say about it tonight than it had at about the fifth hour.

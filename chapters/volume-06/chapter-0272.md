@@ -8,7 +8,7 @@ He is about fifty-five and he has a chain, and the chain is on him, and he canno
 
 **The mouth of it is on his way.** It has been on his way twice a day for about nine years, going to the bay in the morning and coming back in the afternoon, and he has gone past the mouth of it four thousand times or more and he has never once been inside it.
 
-The mouth of it is a step down off the terrace and a step up out of it, and he goes down one and up the other twice a day for nine years, and his knees know the step and nothing else about the place does.
+The mouth of it is a step down off the terrace and a step up out of it, and he goes down the step and up it twice a day for nine years without turning his head at the bottom of it, and his knees know the step and nothing else about the place does.
 
 There is nothing at the end of it that is his. That is the whole of the reason and it has never needed saying out loud to anybody, and there is not one form anywhere in this empire that says a man is to go into a place where there is nothing of his.
 

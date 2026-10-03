@@ -16,7 +16,7 @@ Six numbered lines. Line two asks that no inference of any kind be drawn from th
 
 She cannot read a paragraph. She has never been able to. She did the arithmetic of about sixty children on the back of her own hand with a stick in about nine years, and she knows what her own arithmetic is worth, and she has never once pretended it was worth more than that.
 
-The arithmetic went on the back of her own hand in about nine years and the sixty children are on there in a sum she cannot read it now without putting the hand flat on the table, and a good deal of it has been rubbed off at the knuckle where her hand goes across when she is carrying a barrow.
+The sum is on the back of her own hand in a hand she cannot read now without laying the hand flat on the table, and a good deal of it has been rubbed off at the knuckle where her hand goes across when she is carrying a barrow.
 
 So the notice went up the lane about four hundred yards on the fourth day of the third week, because it could not be read in that bay by anybody who was going to be paid for reading it, and because there is not one form anywhere in this empire that says a foreman may have a page read to her.
 

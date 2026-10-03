@@ -28,7 +28,7 @@ She read the heading to the bay in the time it takes to read one and she did not
 
 And it went round that bay in about nine minutes, the way a thing goes round a bay. Not what was in the heading. What was in the heading is a thing four of them could not have told anybody. What went round was that there was a column, and that the column had to have something in it, and that about nine men had put in it whatever was under the same word on their own paper.
 
-It went round in about nine minutes, and a bay nine foot by eleven goes round twice in that, and by the second time round the words had gone out of it and nobody in there was using words any more, only the shape of them.
+Nine foot by eleven does not hold nine men in a circle for long, and by the second time round it the words had gone out of it and nobody in there was using words any more, only the shape of them.
 
 Nobody made a party of anybody and nobody thanked anybody. It was not a thing anybody did on purpose. It was a thing that happened because a sheet came up a lane, and a foreman read a line out of it, and nine men filled nine lines in because that is what a foreman says on a day like that one.
 

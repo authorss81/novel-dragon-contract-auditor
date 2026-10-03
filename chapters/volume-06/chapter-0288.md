@@ -74,7 +74,7 @@ And no form in this empire would let anybody put those two things in the same qu
 
 The first of the four lines is a copy at fourpence. The second is a question at a shilling. The third is four shillings for a thing she has never once given anybody and has never once been asked to give, and the four shillings have been on that board for the eleven years she has stood under it. The fourth is a line of writing she has never worked out what it is for, and it is in a different hand from the other three, and she has asked two people about it and both of them said they did not know.
 
-Four lines on a wall and about four things a day up a stair and about nine people a day, and she has stood under the board for eleven years and read it about four times a year the way a woman reads a thing she is not going to do anything about.
+Four lines on a wall and about four things a day up a stair and about nine people a day, and she has stood under the board for eleven years and read it about four times a year the way a woman reads a thing she has no intention of doing anything about.
 
 ---
 

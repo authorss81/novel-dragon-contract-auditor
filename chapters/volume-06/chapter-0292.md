@@ -12,7 +12,7 @@ This is the second day of the second week of the tenth month of the year after t
 
 She noticed the hands first, because that is what the counter is. A man who has been writing other men's figures out fair for about eleven years has the outside of the middle finger hard on the near joint of the right hand, and this one had it on both, and had it on the left, which is not a thing she had seen on a customer in two years.
 
-She noticed the hands because a counter of eleven years has seen about nine pairs a day and knows what each of them does with a pen by about the fourth hour, and she had never in two years seen a hard outside joint on the left hand of a man who came up the stair.
+Nine pairs of hands a day go up the stair to a counter like this one and she knows by about the fourth hour what most of them are for, and in two years nobody has ever asked her to notice one.
 
 Then she noticed that he was reading the board, and not the way people read a board, and that he had gone along the four lines and stayed on the second one, which is a question at a shilling.
 

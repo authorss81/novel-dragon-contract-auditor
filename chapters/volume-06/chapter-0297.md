@@ -80,7 +80,7 @@ He had not worked out the rest of it. The rest of it is about four hundred and t
 
 He went down four hundred yards of cold passage and out into a lane and did not stop at the step and walked nine miles back in about as long as he came.
 
-Four hundred yards out and nine miles back, and the step worn in front of the door is about two feet across and worn in the middle, and he walked over the middle of it going out and did not stop, and there was nobody at the door when he came and nobody at it when he went back.
+Four hundred yards out and nine miles back, and the step is about two feet across and dished in the middle of it, and he walked over the middle of it going out and did not stop, and there was nobody at the door when he came and nobody at it when he went back.
 
 ---
 

@@ -42,7 +42,7 @@ A man of about thirty came in at about the fifth hour with a stack to put on the
 
 She went and got the second book off the shelf and stood in front of the open window with it, and the pane is out of it and the wind comes in at whichever corner it likes, and she turned back through it, and it is not a thing you can count to an end, and she did not try.
 
-The wind came in at whichever corner it liked and turned the leaf as it went, and she put her thumb in to hold it, and the paper was cold at the outer edge and warm along the place her hand had been standing on all day.
+The leaf came back over her thumb twice and she let it, and the paper was cold at the outer edge and warm along the place her hand had been standing on all day.
 
 It is not three sheets. It is not thirty. It goes back past the point where she began to be able to look at a hand and know things about it, which she noticed in the third week of the ninth month of the year after next, and it goes back before that into a stretch of pages she entered in a hand that does not vary, and she has no idea when it started, and there is no way at all of finding out.
 
@@ -120,6 +120,6 @@ And it is that she has just spent a day finding out what is written at the botto
 
 At about the sixth hour the woman of about twenty-six came to the door to ask whether that room wanted shutting, went past the shelf without stopping at it, and read nothing at all on her way. She is not in this matter and never has been. Four years of asking about four hundred things in that room, and not one of the four hundred has been about the foot of a sheet.
 
-The door is as wide as one person and the woman of about twenty-six came through it with her sleeves already up, and the second book was on the second shelf down among the eleven, and the air off the missing pane moved the near edge of it about an inch and left it standing at an angle against the book beside it.
+The clerk of fifty-five put the second book back on the second shelf down among the eleven and squared its near edge in with her fingers, because the draught off the missing pane had been walking it round the second shelf all day, and an angle is the last thing she wants to leave for whoever comes in after her.
 
 **Nobody thanked anybody.** The man of about thirty did not thank her and she did not expect to be thanked, and a man of sixty-one who walked out of a building off the old river road two weeks ago is nine miles off in a lane and is not going to be told that a clerk of about fifty-five has been copying his hand into a book for nineteen years without looking at it.

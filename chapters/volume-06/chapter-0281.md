@@ -12,7 +12,7 @@ This is the fourth day of the third week of the seventh month of the year after 
 
 About nine people came up it today, which is the ordinary number and is not a figure anybody keeps, and four of them wanted something they could have had and five of them wanted something they could not.
 
-The stair takes the light at the top and loses it going down, so about nine people a day stand in a bright place at the top of it and go down into a dark one, and about five of the nine who wanted something they could not have were still standing in the light when she had finished saying so.
+The stair takes the light at the top and loses it going down, and it takes about nine seconds to lose it, and she has watched it go for two years without ever once being on the other side of it.
 
 A man of about fifty wanted a thing dated back three years and was told it could not be dated back and was told why, in about as long as it takes to read a sign, and he said thank you and went down.
 

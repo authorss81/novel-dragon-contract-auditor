@@ -32,7 +32,7 @@ She decided in about four minutes that she would rather be written down once. Sh
 
 It is the second shelf down on the left and it is about the same size as the other thirty-nine and it is bound in nothing in particular and there is nothing on the spine, and it is the first one anybody coming into that room would reach for, and about nine houses in this lane have had it open on that bench without knowing what it was.
 
-The second shelf down is at the height of her hip and the shelf above it is out of reach from the floor, so she has been doing two different things on two shelves for three years without noticing it, and her arm has noticed it.
+The shelves were made for taller books and she is not one of them, and everything standing on them is above her, and the light off the broken window comes in on the far side of the shelves and not on the near edge, and the near edge sits in its own shadow all day whatever the weather is doing.
 
 **Nell Kest has her own name at the head of it.**
 

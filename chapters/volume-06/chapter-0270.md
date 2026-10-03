@@ -76,7 +76,7 @@ The first is a line that says a clerk of thirty-four said no to a man on a stair
 
 The second is four lines off a board, and the first three of them are in the hand that put them up and the fourth one is not, and she does not know whose hand it is and she does not know when it went up.
 
-She copied them off a board on a wall at the other end of a counter, spacing and all, and the spacing is the part nobody would have believed her about, and the fourth line sits about a finger's width further out than the other three, and she has not decided yet whether that is about the man who wrote it or about the wall.
+She copied them off a board on a wall at the other end of a counter, spacing and all, and the spacing is the part nobody would have believed her about, and the fourth line sits about a finger's width further out than the other three, and whether that is about the man who wrote it or about the wall is a thing she has not decided.
 
 **She has got a person's refusal in a book of her own and a piece of a wall she cannot account for.** About five weeks ago a clerk stood at the end of that counter and told her in about nine seconds that a window is not a wall. There is not one form anywhere in this empire that will let a woman put a window back as a wall, and there is not one that will let anybody take a line out of a book either.
 

@@ -50,7 +50,7 @@ There is no third box and she is not going to rule one. The reason is the reason
 
 She looked at the two of them for about four minutes and then she did the thing she has been not doing, which is that she put the open book face down on the table with her hand flat on the back of it, and left it there while she ate.
 
-She ate standing up, because there is nowhere in the room to put a plate down and sit over it, and the crumb went across the page with the two boxes on it and she left it there. A mark she cannot lift is a mark she does not have to decide about tonight, and the lamp is near enough to warm one side of her hand and leaves the other side to the wall.
+She ate standing up at the near edge of the table, because the book was lying face down on it and turning it back the right way up was more than a crust was worth, and she held the plate in her other hand, and the crumb went across the back of the book where her own hand had been and she left it there. A mark she cannot lift is a mark she does not have to decide about tonight, and the lamp is near enough to warm one side of her hand and leaves the other side to the wall.
 
 ---
 

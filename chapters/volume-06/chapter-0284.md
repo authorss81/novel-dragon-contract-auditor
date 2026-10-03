@@ -24,7 +24,7 @@ And the two things in the book have been on that table for nineteen weeks, and s
 
 She wrote it out on the left-hand page in one line, without stopping, which is how long it took to be sure of it, and then she read it back and it was true, and it was not the reason she had given the two times before this one, and it was not a variation of either of them.
 
-One line on the left-hand page and about four inches of it, and the pen has gone over the same paper about nine times a week for two years and has never once been the reason a thing got done.
+One line on the left-hand page and about four inches of it, and the pen has gone over the same paper about nine times a week for a couple of years, and has never once been the reason a thing got done.
 
 The first time was that there was nothing in the room to act on. The second was that there was nobody in the room to act on it with. **Both of those are about what is in the room, and this one is not about the room at all, and that is why it took twenty-nine weeks and not four days.**
 
@@ -54,7 +54,7 @@ She asked it to a table and the lamp, and the lamp had been on a while and had g
 
 She did not look at the bed when she said it and she is not going to look at the bed now.
 
-The drawer is in the bed and cannot be locked and never has been, and the four things in it are the only objects she has ever moved out of place in the room, and she has moved them about four times and put them back in the same order twice.
+The drawer is under the table and cannot be locked and never has been, and the four things in it are the only objects she has ever moved out of place in the room, and she has moved them about four times and put them back in the same order twice.
 
 ---
 

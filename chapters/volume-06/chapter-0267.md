@@ -62,7 +62,7 @@ She has carried about nine hundred of those a year for six years and she cannot 
 
 The woman of thirty-two put the rack down on the edge of the table, and she did it for about four seconds and then she picked it up again, and the woman of about twenty-six did not look up and did not notice and was not asked to.
 
-A rack sits on a hip the way a flat thing sits on a hip, and it had been on hers since she was about twenty-nine, and it stood on the end of a table like it had never been anywhere else, and the nine of them stayed where they were.
+A rack sits on a hip the way a flat thing sits on a hip, and it has been on hers every working day for six years, and it stood on the end of a table like it had never been anywhere else, and the nine of them stayed where they were.
 
 "I have been carrying these six years."
 

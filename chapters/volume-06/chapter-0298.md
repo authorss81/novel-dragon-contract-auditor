@@ -60,7 +60,7 @@ He did not tell her, and she did not ask, and the not telling is not a withholdi
 
 He has a figure in a column four miles off that came back under a line he ruled in the first week of the seventh month, in a hand that is not his and is not the old man's, and it is going to be added to and carried forward and be correct, and he does not know what came of it and there is no way whatever to find out, and that is the road being walked zero times.
 
-Four miles off and about four hundred sheets a year and about nine hundred rooms, and a figure that is correct is the only kind of figure in this empire nobody has ever come back and asked about, and the finding cost him a day he was not paid for and nine miles of road.
+Four miles off and about four hundred sheets a year and about nine hundred rooms, and a figure that is correct is the only kind of figure in this empire nobody has ever come back and asked about, and the finding cost him an afternoon nobody paid for and nine miles of road.
 
 About four hundred and thirty miles down this river a foreman of fifty-one is still in a box in the first week of the seventh month of the year after, and a woman of twenty about nine miles off a building off the old river road is in a box, and the form that put them there has not been asked to be void by anybody and there is no procedure for it and never has been.
 

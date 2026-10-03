@@ -16,7 +16,7 @@ The four that come every week are the same four, and the four questions are the 
 
 Whether a thing wanted in a district is wanted in the lane. Whether the third house down has paid, which she can say yes to because the third house down is the one that pays. And **whether the second one is still holding her book open at a page with a knotted string in it**, which is the oldest of the four and has been asked about four times and has not changed in about fifty weeks.
 
-The first two come out of the same page and are about four seconds each, and the third of the four takes about nine seconds, and the last of the four has been asked about four times and the answer has not changed and the asking has never got any shorter.
+The first two come out of the same page and are about four seconds each, and the third of the four takes about nine seconds, and the last of the four has never once got any shorter however many times it has been asked.
 
 The second of those four is a woman of about thirty-five who keeps numbers of her own on that lane, and who was at this bench about twenty-one weeks ago, and would not sit down, and has not been back.
 
