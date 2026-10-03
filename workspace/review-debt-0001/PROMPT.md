@@ -1,3 +1,22 @@
+# SCOPE OF THIS RUN - READ FIRST
+
+
+
+1. **Write the chapters.** The chapters this phase is for, in ascending order. Start with the first one in your very
+   first action: create that chapter file before doing anything else.
+2. **Do not attempt any close, audit, or planning duty** listed below. Those
+   belong to later phases. Ignoring them is required; attempting them fails this
+   run.
+3. **Do not create a next-phase prompt.** The pipeline creates it.
+4. **Update only the state files** these chapters require, and nothing else.
+
+Every rule below still binds the prose you write. But if a rule cannot be
+satisfied inside this run's chapters, write the chapters anyway and record the
+unmet rule in `state/open-threads.md` for a later phase.
+
+**Producing finished chapters is the success condition for this run. Returning
+without writing any chapter is a failure.**
+
 # OWED SECOND READING: VOLUME 05, BATCH 0003, `chapter-0221.md` TO `chapter-0230.md` — THE SECOND OF THE FOUR OWED REVIEWS
 
 **This is a review and not a batch, not a volume outline, not a close, not a prose repair and not a volume planning phase. Do not plan a volume. There is no Volume 13.**
