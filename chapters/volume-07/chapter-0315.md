@@ -12,6 +12,8 @@ This is the second day of the first week of the fourth month of the year after t
 
 He built a column in the second month of next year and it has been in the second of the Company's books ever since and it is about two hands wide and it is ruled down both sides like any other.
 
+The shutter on the side of the lane has not moved since before the frost, and he has mentioned it twice to the person who rents the room, and nobody is going to mention it a third time.
+
 It has nothing in it. Not one name, not one figure, not one day. He ruled it in the second month of next year because **a name in a column is a thing a person can be served at**, and a person who can be served at is a party, and a party is the only person who can be told what a thing is going to be used for, and he had worked that out at about the fourth hour of an ordinary day and has not needed to work it out since.
 
 **He has never put a heading over it either,** and that is the other half of it, and he only got to that half this week.
@@ -28,6 +30,8 @@ He turned it over for two days and got it on the second, and then he wrote it ou
 
 The money for nineteen days of a crew is in a weigh-house ledger about half a mile off and it is called *held* and the word *held* was chosen in about four minutes among three other words by a person who was not thinking about us.
 
+Nineteen days of a crew's money is not a sum anybody in the building can see the inside of. He has looked at it about four times with two other people and has got nowhere, and the word standing against it in a ledger half a mile off was picked out of three others by somebody thinking about a column.
+
 Nineteen days out of seventeen shillings and a penny the week, paid in full, three pounds and eleven and threepence, and nobody is going to be told what it is held against, and **there is no form in this empire that will let nineteen days of a wage be entered as owed by anybody.** He has looked. He has looked twice, and he has looked with two other people.
 
 **His own wages are held against a roof he put there on purpose,** and that one he can account for, and it is the only one on the four hundred yards of this lane he can account for.
@@ -35,6 +39,8 @@ Nineteen days out of seventeen shillings and a penny the week, paid in full, thr
 ---
 
 He shut the second one of the Company's papers at about the fourth hour and went out into the lane, because the shutter wants looking at, and the shutter is not what he went out for.
+
+He shut the paper and out he went into the lane; the light on the flags of it went out and came back with the weather while he was standing there, and about nine men pass up and down it in a day and none of them has ever wanted to know what it is he is about.
 
 The bay is at the bottom of it about nine foot by eleven and the store is cold in every month of the year, and the four shillings a year is the rent of the store, and there is a mark in chalk on a wall of that bay at the height of the third link of a chain, and the chain is on a man.
 
@@ -53,6 +59,8 @@ The foreman of fifty-one was in the bay at about the fourth hour and he did not 
 He owes him a second sentence and has owed it since the third month of the year after, and he wants the rest of it, and he has wanted it since the same month, and he has not asked and is not going to. **The day he asks is the day she stops saying the half she has got.** About nine men in that bay know that she is in a box, and not one of them has said a word about it, and there is no form in this empire that would turn nine mouths into a document, and nobody has asked them and nobody is going to.
 
 He went back up the lane and shut the shutter and wrote the day's figures out in a fair hand so that they came out even, which is the ordinary part of a day and is the whole of what he is paid for.
+
+He shut the shutter again and wrote out the day's figures so the totals came out even, and that is the part of a day he is paid for, and about nine people pass through it in a day, none of whom has put a question to him about a figure.
 
 ---
 

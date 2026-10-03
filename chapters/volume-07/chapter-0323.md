@@ -18,6 +18,8 @@ This is the second day of the first week of the sixth month of the year after th
 
 **Nobody has asked him why he is here and nobody is going to.** There is no form in this empire in which a man at a door in the early morning has to account for having walked through it.
 
+Nobody in the room has any business being told why he came, and he has not offered a reason and has not been asked for one, and four hundred yards of cold stone is what he walked and no form anywhere turns a walk into an answer.
+
 He has no business in this building. He has been in a room at the top of four flights of a stair in a town about four miles off, twice, and he paid fourpence for a copy both times, and neither of those rooms is this one.
 
 There are about nine people in the room and three of them are the clerks of this building. The other six are not, and about four of the six are women, and one of those four carries a scuttle and is about forty and is not in this and cannot be asked what she has heard.
@@ -39,6 +41,8 @@ He stood on the wrong side of the rail for about four minutes before he said any
 Then he put a sheet down on the rail itself.
 
 **That is a thing he has done twice now and it is not a thing any form in this empire records a person doing.** His hand went flat on it for a moment and then came off and he kept both hands at his sides, the way a man stands when he has decided he is going to say all of it and not stop in the middle.
+
+The sheet went onto the wood of the rail and lay there while he talked, and nobody picked it up and nobody read it upside down, and it is the only paper in the room in nineteen years a person has been able to say a whole thing out loud over.
 
 He said about nine minutes' worth of it standing up. Nine of them, and three of them the clerks of this building, and the woman with the scuttle, and a man of about thirty-four who had not been in the room before, and the rest of them, and the passage, and the flags of it.
 
@@ -74,6 +78,8 @@ Nobody in that room thanked him for it. Nobody has ever thanked him for it and t
 
 He has had it ready since the fourth week of the second month and he had it ready the whole of the nine minutes, and it was in his mouth at about the sixth minute and it stayed there, and about nine people were in that room and about four of the nine could hear him breathe.
 
+About six minutes of somebody else's nine went past with the question sitting where it was put, and he could feel it there the whole time, and four people in the room were near enough to hear him breathing and not one of them said a word about it.
+
 He gave the reason out loud afterwards, once, and to the room, and it was not a speech, and it was five sentences, and nobody thanked him for it either.
 
 "I had a question for him. I am not going to put it, and I am going to say out loud why I am not, because if I say why, then the why is in this room and not in mine, and that is the whole of the difference between the two of us."
@@ -89,6 +95,8 @@ He gave the reason out loud afterwards, once, and to the room, and it was not a 
 The woman of about forty with the scuttle said nothing at any point in the nine minutes and said nothing after it, and she is not one of the three clerks and is not in this, and **there is not one form in this empire that will let anybody ask her what she heard in that room**, and nobody asked her and nobody is going to.
 
 The man of thirty-four did not go up to the rail afterwards and did not put a hand on it, and the man of sixty-one went out by the same door he came in by and down about four hundred yards of cold flags on his own two feet, the same nine miles, and nobody walked with him.
+
+He went out the way he came and nobody walked with him, and the step outside the door is worn through and he went over it without looking down, and about nine miles is what is left of the day and he is on nobody's list this week.
 
 Nobody was thanked. Nobody was sent for. Nothing was written down except one sheet entered correctly by a woman of fifty-five in a hand that does not vary, and the four on the shelf by the window, and the day.
 

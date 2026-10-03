@@ -18,9 +18,13 @@ That is the whole of it and it is about four years old and it has not been a sin
 
 She has worked out in about four minutes, standing at a bench in a bay in the cold, that being in a box and not being asked about it are the same arrangement, and that the arrangement was made in a shed by nine families and not by her, and that a person who is inside an arrangement they did not make and is not asked about cannot get out of it by any act of their own.
 
+The store has been cold in every month of the nine years and there is no month of it she would call worse than the rest. The men work in it because the work is there and not because it is warm, and none of them has ever asked anybody for it to be different.
+
 The entries that put her where she is were about a class. **A class is a heading, and a heading is how a person becomes a company, and a company is a thing this empire can hold wages against and give letters to and take to law.** That is how a class works and it is the thing that has her in the box she is in, and she worked it out herself and at second hand off a man of about thirty-four, and she is not going to say it out loud in a bay to nine men who cannot read a paragraph.
 
 She said the whole of what the form was once, in a room, in the closed part of this, and it was that the form was not asking her whether she would represent anybody and was asking who she represents, and that there is a column for the answer and no column for a refusal. She is not going to say that again.
+
+She said it once and it cost her the whole of an afternoon, and she has not put it near a second one since. The part about a form asking who you represent and not whether you will is about four words long and has been sitting in her head for about four years now, getting no lighter.
 
 ---
 
@@ -39,6 +43,8 @@ A reader of seventeen is at the back of the same bay in the same condition, and 
 Neither of the two has been spoken to this week. Neither of them is going to be spoken to by anybody in this matter.
 
 Neither of them is thanked and neither of them is sent for and neither of them is going to start, and the bay is about nine foot by eleven and there is room at the back of it for two and there has been room at the back of it for about four weeks, and the reason is that nobody has decided anything and nobody is going to decide anything this month. The girl of seventeen would say yes. **She has never been given the chance to say no, and there is no paper in this empire that asks a person of seventeen whether she would rather not, and the asking would be the only way to find out and the asking is the thing that cannot happen.**
+
+The two of them have got used to the back of it and she has watched them get used to it, which is a thing she has not let herself think about for long in a row. When the bench runs past the width of the room and the front of it is full, the back of a bay is about as far from a conversation as a person can stand and still be inside it.
 
 Nobody says why, and not the bay and not the foreman, and neither of the two of them has been asked and is not going to be, and there is nobody in this matter who could ask.
 
@@ -61,6 +67,8 @@ A man of about thirty came past the bay at about the fourth hour and said the la
 "Nobody. That is what not lit means."
 
 He went up the lane and did not ask her anything and did not stop and did not look at either of the two at the back, and neither of the two at the back looked at him.
+
+She heard the gate go and then nothing for a while, and the flag came down on her own flags after that and nobody came back through it. The bench went on being long, and the chalk stayed where it has always been, and about nine men went on not saying anything, and none of that was going to change before the seventh hour.
 
 ---
 

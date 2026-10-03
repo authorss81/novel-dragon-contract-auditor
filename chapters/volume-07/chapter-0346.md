@@ -12,6 +12,8 @@ He has been in this room once. His two earlier rooms were the counter at the top
 
 The rail is standing about four feet off the floor and there is nothing on it this morning, and it is not a thing anybody is waiting for. **About four other people came with him into that room or were in it before him**, and none of them came for him and none of them knew he was coming.
 
+About four others came into the room with him or were in it ahead of him, and not one of the others came for him, nor did any of them know he was on his way; the woman of fifty-five sat at her table and never once looked up when the door gave, and has not looked up since.
+
 The man of sixty-one is on the wrong side of that rail and was standing there before the door gave. He has been in this room three times in nineteen years, and one of the two men standing in it walked the nine miles this morning and the other walked it in a month that is gone. **The one that did it this morning is not going to say which of the two of them it was, and there is nobody in that room who is going to tell him.**
 
 ---
@@ -19,6 +21,8 @@ The man of sixty-one is on the wrong side of that rail and was standing there be
 He has had the question ready since the fourth week of the second month. He has it ready now. It is a single sentence and it takes about four seconds to say, and it has been in his mouth in about nine rooms since the spring, and it is the only one of its kind he has ever been in a position to put to anybody.
 
 A woman of about fifty-five is at a table with her back to the wall and there is a pen on the table and she does not look up when the door gives. A woman of about forty is standing near the rail with a scuttle on her hip and she is not one of the three clerks of that building and is not in this and cannot be asked what she has heard, and nobody has ever asked her and nobody is going to.
+
+It has been ready since the spring in about nine rooms, and he has never once stood anywhere else where he could have put it, and he has carried it about four hundred miles in his head and nine on his feet.
 
 "Is that rail the same height it was?" he said it out loud, at the door, to the room, about the rail, and it was, and nothing in this empire lets a rail be said to a person, and he did not go and put a hand on it.
 
@@ -50,6 +54,8 @@ Then he said it out loud, standing, in about thirteen sentences, to the man of s
 
 The man of sixty-one did not answer him.
 
+Not one person in there put a question to anybody in the whole nine minutes, and in four years nobody has; the woman carrying the scuttle said nothing throughout; the woman of fifty-five wrote none of it, and nobody is going to put it to her.
+
 Nobody in that room put a question to anybody for the whole of the nine minutes and nobody has for about four years, and the woman with the scuttle said nothing at any point in it and said nothing after it, and the woman of about fifty-five did not write any of it down and nobody is going to ask her why she wrote none of it.
 
 Nobody thanked either of them. **Nobody has ever thanked him, and not one form anywhere requires a person to be thanked for saying a true thing out loud in a room with nobody in authority in it**, and he said so himself the last time he stood there, and he is not going to say it again, and the not saying it is not ingratitude.
@@ -59,5 +65,7 @@ Nobody thanked either of them. **Nobody has ever thanked him, and not one form a
 It was in that room and it was in about nine people and it was not in the table and it was not on the shelf under the window at the top end of the passage, and about four thousand entries in eleven books on that shelf have no name in any one of them and none of those is this.
 
 He went out by the door he came in by and down about four hundred yards of cold flags on his own two feet, the same nine miles, and nobody walked with him and nobody was sent for him and nobody will know he went.
+
+It was in nine people and not on the shelf below the window, four hundred yards off. About four thousand entries stand in eleven books with nobody named in any of them, and not one of those is this.
 
 **The count of things anybody has asked out loud in this matter is the same as it was when the door gave and it is going to be the same in ten weeks**, and the asking he did not make is in that room and nowhere else, and he is not going to tell anybody what was said in it.

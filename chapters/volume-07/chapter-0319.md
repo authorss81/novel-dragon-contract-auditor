@@ -12,6 +12,8 @@ This is the second day of the first week of the fifth month of the year after th
 
 She said it out loud at about the third hour, to the room, the way she has said the whole of a thing to about four people who could do nothing about it about twice in two years, and a man of about thirty-four came up the flight in the middle of it with a sheet in his hand and stood there and heard the end of it and asked, "Is this the one you are talking about?", and she said that it was not a sheet and she was talking about a class, and he said that he had four of them, and she said that he did not, and he went down the stair.
 
+Four people were in the room when she started and two more came up while she was still going, and not one of the four asked her anything, and she has put the whole of a thing into the air in there a couple of times in two years and both times it was to people who could do nothing at all about it.
+
 "The other half of it is this. **About nine hundred entries a year come into a building off the old river road with a second hand at the foot of every one of them, and they are about nine hundred classes.** The class is what the heading over the column is for. The class is what the form is put in front of, and the class is what came back an answer in about three weeks when one House tried it, because a class is a heading and a heading is a company, and a company can answer in three weeks without anybody minding."
 
 "And the second hand."
@@ -23,6 +25,8 @@ She said it out loud at about the third hour, to the room, the way she has said 
 ---
 
 After the sixth hour she went to the room she rents two streets off a street that goes down to the river road, and the landlord has never once been inside it.
+
+She went down four flights after the sixth hour and out into a street, and the lamp in the room she rents was not lit and she lit it earlier than she lights it. About four minutes after she had sat down she had worked out why, and then she had to sit with the answer for a while after that.
 
 **There is a table in it and a lamp on the table and a board on the wall with the rent on it and nothing else,** and the window looks at the back of another house, and about four feet of that wall has nothing on it, and she lit the lamp earlier than she lights it and she has not worked out why.
 
@@ -37,6 +41,8 @@ A second page carries two boxes drawn on it by hand with the same name in both o
 ---
 
 She lit the lamp at about the sixth hour, which is earlier than she lights it, and sat down, and worked out in about four minutes why she was not going to put a heading over the two boxes and then worked out again in the same four minutes why she had needed four minutes for something she had known for two years.
+
+Two boxes drawn by her own hand on her own page, the same name in each, and about two years of not putting a heading over them. She knows exactly why, and the knowing has never once taken her longer than about four minutes, and she has never told anybody which of the two years she arrived in it.
 
 **She is not going to give them a heading.** A heading is what a company is made of, and a company is a thing this empire can hold wages against and give letters to and take to law, and about two hundred years is how long one House's border law stood before anybody noticed that the only form that ever worked at that scale was the form that made about nine hundred rooms into a company. Nobody wanted it, and she is not going to be the one who puts a woman in one at a counter four miles from where the woman stands.
 
@@ -55,6 +61,8 @@ The undertaking of the fourth of the first month is live and unretired and uname
 Nobody in this empire is going to be told when she decides whether to trust a man's judgment, and she has not decided, and there is nothing in this month to decide it out of, and there is not one form anywhere in this empire that could put it in a place where anybody else could see it.
 
 The four things in the drawer under that counter are where they were this morning. One of the four she has never looked at, and it has not been opened and it has not been sent, and neither have the other three.
+
+Under the counter the drawer still holds what it has held since before she came to it, and one of the four has never been looked at. Not one question has ever been put to her about any of them and nobody is going to put one.
 
 ---
 

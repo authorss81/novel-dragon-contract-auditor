@@ -18,6 +18,8 @@ He has a labour a gate can refuse, and a man at that gate is about forty and doe
 
 He does not attempt the reading, and he gave the reason out loud in the room, to himself and to about four feet of wall, and he gave it in about four sentences and it took him about nine seconds to say and about four years to arrive at. **Two attempts have already taken two separate days of his mother's own history out of him.** He does not remember what she said in either of them. He has the facts of both and no part of either, and the facts are a day in a house in a lane off a street that goes down to the river road and a woman sitting down at a table and a length of time he cannot put a figure to.
 
+He has the two of them by their dates and nothing else. A day, a room, a woman sitting down, and a stretch he cannot measure; and he can get all of it out in about four seconds without variation, which is not remembering.
+
 He is thirty-eight and he can no longer remember whether he left a room or stood in a doorway on the sixth day of the third month when he was eleven. Both of those are a figure of eleven and a figure of a date and neither of them is a picture. **The third one is not a thing he is going to spend on a man at a rail**, and the man at a rail is about nine miles off in a building off the old river road and is sixty-one and signs at the foot of about nine hundred sheets a year. He is not going to see him and he is not going to write to him, and there is no form in this empire that would let anybody do either of those things.
 
 ---
@@ -36,6 +38,8 @@ He is not going to get to one, and there is no form in this empire that would le
 
 The mark is about three inches long and it is on the inside of his left wrist and it is a symptom and not a power and it is not the price. **It reads nothing and it decides nothing and it does not know where the ford is.** It has not settled anything in about two years and it is not going to, and he has never once looked at it to find out what it was going to do, and he turned the sleeve back this week about as often as he turns a sleeve back, which is to say for the water.
 
+The mark has been on him about two years without settling anything, and he has got so used to covering it up that he could not tell you now, looking, whether there was anything there. He has looked at it perhaps four times in his life and two of those were because he was washing.
+
 The price of the thing he did in the store on the second day of the first week of the twelfth month of last year was a shilling and sixpence and this. The shilling and sixpence was a day he was not stood at a gate for, and the man at the gate said nothing and he did not ask him to say nothing, and about four people were in a store and heard what it cost before any of it was said.
 
 Nobody in that store was saved and he said so himself, out loud, in about four seconds, and that was the part of it that cost him the most to say. **That is the whole of what he got for it and he has not told anybody he got it and is not going to, and nobody has thanked him and there is not one form anywhere in this empire that requires a person to be thanked for not doing a thing.**
@@ -52,4 +56,8 @@ He is not going up that stair. He has not said that out loud to anybody and he i
 
 He got up at about the sixth hour and turned the one with no office on it face up on the table. The four feet of wall was still bare and nothing was lit in the room.
 
+He turned a book over on the table and then turned it back, which is a thing he has been doing for about two years. There is nothing in it this week either, and the nothing is the ordinary condition of it and not a thing he has gone looking for.
+
 There is a man about nine miles off who said the whole of a thing out loud at a rail in the second month of last year and went nine miles home and told nobody what was said in it. This man is not going to go and find out, and the road is not being walked by anybody for his sake, and there is no form in this empire that would let a person be sent to ask him what he meant by any of it.
+
+The rent is on a board, and apart from the rent the wall has nothing on it. He took the room by the week because it was the only one he could get, and in two years he has not once hung anything on the bare four feet nor been asked to.

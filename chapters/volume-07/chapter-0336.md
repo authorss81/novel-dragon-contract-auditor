@@ -12,6 +12,8 @@ Under that window, on the shelf, there is the finding of the last ten weeks, and
 
 She wrote it on her own motion, at nobody's request, with the day and the hour on it and her own name at the foot of it. **It is the only thing on that shelf with a name at the foot, and the name is hers.**
 
+It has been on the shelf under the window since she wrote it at nobody's request, and she has not touched it in weeks. Putting her name to it was everything she did, and nothing has happened to it since.
+
 She has not gone near it since the middle of the last month. It has not become an answer and it is not going to become one, and a quarter of it was said out loud in this room in the second month by a man who came nine miles on his own two feet, and she entered none of that either.
 
 The question carries a day and an hour and her own name at the foot, and nobody has asked her a second time about it and nothing in this empire is shaped so that a second time could be put to her. **It is the only thing she has ever put her name to in nineteen years.**
@@ -32,6 +34,8 @@ Then she said the cost out loud, to the page, at about the fifth hour, because s
 
 **Nothing in this empire makes findability into a thing a man can refuse**, and that is what the saying of it twice bought, and what it bought was not the sheet going back this time. The sheet went in and was entered correctly in a hand that does not vary, and the man took it back and gave it to her and it was the nine hundred and something of them and it is correct.
 
+What the second saying bought was not the sheet coming back. The sheet went in, was entered correctly, and came back out of the man's hand and into hers, and the district got what the sheet says. Nobody in the building has told him anything and nobody ever will.
+
 He has not been told that there is no form. He has not been told anything.
 
 **He knows what he did, and it is findable, and no paper lets a man write that he would rather not be.**
@@ -48,6 +52,8 @@ Then she said the third of the three, and she said it slowly, and it is the last
 
 "I have been here nineteen years. In that time I have advised nobody and asked nothing and entered about four thousand things with no name in any of them, and I am the only person in this matter anybody could serve a question on in writing, and nobody has served one and nobody is paid anything for the standing ready."
 
+Nineteen years of nameless entries is everything she is for. Nothing is paid for the standing ready and she has not asked whether the pay ought to be otherwise.
+
 ---
 
 A carrier came up the passage at about the sixth hour with a rack on her hip and put four on the shelf by the window and went back down it. She is paid ninepence at a lock and she is on a list and nobody has asked her what she carries in about six years, and the woman of fifty-five has not asked her either, and neither of the two has ever asked the other a thing.
@@ -55,6 +61,8 @@ A carrier came up the passage at about the sixth hour with a rack on her hip and
 The four went in correctly in about four minutes in a hand that does not vary. That is the whole of what was written down this afternoon.
 
 "Is that page dry?" she said it out loud at about the sixth hour, to the room, about the page, and the page was dry, and nothing in this empire lets a clerk be asked what she is going to do with a question she has not answered and has not withdrawn, and she is not going to answer it and she is not going to withdraw it.
+
+A carrier came up towards the end of it and set four down by the window, then went back the way she had come. About four minutes of entering was the whole of what the afternoon added, and the page she said her question to was not among the four.
 
 The window is still without its pane. The step at the top of that passage is still worn through, and the rail at the far end of it is still about four feet off the floor.
 

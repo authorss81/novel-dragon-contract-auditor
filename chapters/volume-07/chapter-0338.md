@@ -10,6 +10,8 @@ The morning and the afternoon after it are one room and it is the same one both 
 
 She is fifty-one and her name is Halla Wray and she has held the foreman's job on that cut for nine years, and she has been inside a box since the first week of the seventh month of the year after, and nobody has asked her about it, and that has not changed today either.
 
+Same room in the morning and in the afternoon, about nine foot by eleven both times, and a bench in it running the width of the room and past it, and nobody has ever cut it down.
+
 **She said nothing new this morning.** She has said one sentence about it three times in four years and she is not going to say it a fourth, and the sentence is in nine men and not in a book, and it is about a class and a heading and a company, and it is about four hundred yards and about four hundred and thirty miles, and none of those figures are going to change because she says them again.
 
 The man who keeps the Company's books four hundred yards up the lane did not come up it. She did not see him from the door and nobody brought a word from him, and the day he asks is the day she stops saying the half she has got, and he has not asked, and the not asking was the whole of this morning and will be the whole of this afternoon.
@@ -25,6 +27,8 @@ She did not ask him anything. He did not ask her anything. Nobody asked the four
 ---
 
 The lamp over the middle of that bench is not lit until about the seventh hour and was not lit at the seventh hour either, because the store was shut and the bay was left with a bench in it and a mark in chalk on a wall.
+
+Nothing was lit in there at all: the gate was shut, the store was shut, and there was a bench, a wall, and a pair at the back of it and nothing else.
 
 "The mark is a mark," somebody said, and nobody answered, and the chain it stands level with is on a man who was not asked about it and is not going to be.
 
@@ -44,6 +48,8 @@ The other one of the two is seventeen and has not been spoken to by anybody in t
 
 **There is no form for moving a person at the back of a room to the front of it either**, and the two of them have a written engagement and a rate at the foot of it, and neither of the two of them has ever been asked whether they would rather be at the front.
 
+Nobody has called the two of them to the front of the bay in about four weeks and nobody is going to; the reason there is none is a reason about forms and not about them, and about nine men stand in the front of it every morning and the two of them stand at the back.
+
 The engagement is one sheet with terms on it and a rate at the foot of it, and the rate is a rate and the terms are four lines, and one of the four lines is the name of the person who set it and that person is not in this lane and has never been in it.
 
 "Does that lamp come on by itself?" said the room, out loud, at about the sixth hour, to nobody, about the lamp, and it does not, and it is lit at about the seventh hour by whoever is still in the lane, and nothing in this empire lets a lamp be said to a person.
@@ -51,6 +57,8 @@ The engagement is one sheet with terms on it and a rate at the foot of it, and t
 ---
 
 About nine men have known for four years that the foreman of that cut is in a box. None of them has said a word about it and none of them is going to, and about nine people in four other buildings know pieces of other halves of the same thing and have said nothing to anybody either.
+
+For about four years about nine men have known a thing about the foreman which none of them has ever said aloud, and the same fact in other halves is known in about nine other buildings, where it has stayed quiet as well.
 
 **Nobody thanked anybody this morning or this afternoon, and nobody was sent for, and nothing was resolved and nothing was forgiven.** Nothing was said out loud in that room that has not been said out loud in it before.
 

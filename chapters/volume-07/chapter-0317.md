@@ -12,6 +12,8 @@ This is the fourth day of the third week of the fourth month of the year after t
 
 She counts the racks.
 
+Nobody has ever told her what the racks hold and she has not asked, and about four years of a working day spent looking at a shelf has not made her curious about any of it. The cold is in the floor and not in the air, which she worked out in the winter after she came and has not mentioned since.
+
 She does it at about the third hour every working day, when a rack comes off a carrier's hip and goes onto the shelf by the window without being touched, and she counts the racks that go down that passage and come back light by one, in her head, without touching anything, and she has been doing it for about four years.
 
 **The figure has gone up in every year since the seventh month of the year after,** and she has not said by how much and she is not going to.
@@ -34,6 +36,8 @@ At the bottom of that page, under five columns that run the whole width of it, t
 
 She worked it out in about four minutes and she had to stand at the end of the passage afterwards for a while with the cold coming up at her.
 
+It took about four minutes and then it took about as long again to stand still afterwards. She has stood still afterwards twice now, and both times the flags were cold under her feet, and both times the count went on in her head afterwards without her, which is the part she finds she cannot explain to anybody.
+
 **The five columns are machines,** because a heading is over each one of them, and a heading is what makes a column a machine, and a machine is a thing that gets asked questions and does not mind. The sixth space is not a machine, because a heading is what does that, and there is not one over it.
 
 And the sixth space is not a person either, and she went through that twice before she let herself stop, and it took most of the four minutes.
@@ -45,6 +49,8 @@ And the sixth space is not a person either, and she went through that twice befo
 ---
 
 Her own figure would go in a column if she gave it to anybody. She has worked that out. A number in a book is a column, and a column wants a heading, and a heading over that number is a heading over about nine hundred rooms, and about nine hundred is a class, and a class is a heading, and she has been at that for about four years and has not moved from it.
+
+Handed to anybody, her own figure would go into a column wanting a heading over it, and about nine hundred rooms under one heading is a company. She arrived there about four years ago and has not shifted an inch from it, and will not.
 
 She is not going to give it one. **There is no form in this empire that puts a heading over a space nobody has ever been introduced to,** and if there were one she would not fill it in, and she has never told anybody that and she is not going to, and about four minutes is what it took to work out and about four seconds is what it will take next time.
 
@@ -61,6 +67,8 @@ She is the only other person in this matter who knows what he said at the rail, 
 ---
 
 A carrier came up the passage with a rack on her hip at about the fifth hour and put it on the shelf and the carrier said nothing and she said nothing and the carrier went back down it and the cold came up after her and the rail stood in it.
+
+Four went onto the shelf and away down the flags she went without a word, and the cold followed her up out of the passage and stood in the room behind her afterwards. Neither of the two said anything at any point in it, and about nine minutes is what the exchange was worth.
 
 The pane is still out of the window at the bottom of the passage and has been for about four years, and nobody has asked her about the pane either, and the four hundred yards of it is not walked by anybody and has not been walked by her in four years.
 

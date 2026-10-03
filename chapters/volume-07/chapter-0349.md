@@ -12,6 +12,8 @@ About four feet of the wall by that window has a nail in it and has had one sinc
 
 He put his hand flat on the table. The table has nothing on it. He has not put anything on that table for about a week and there is nothing to put on it and nobody is coming up those steps with anything for it.
 
+One nail, driven into the wall before he came in, with nothing ever hanging from it; his own four steps are not the four a woman lives at the bottom of; the two sets are four miles apart.
+
 He is thirty-four or thereabouts and the hand is a fair one, and what he is paid for is the copying out of other men's figures until the totals agree. Four days a season he stands on somebody's list, and this is not one of the four, and he is not standing on anybody's list this week and did not put himself on one.
 
 ---
@@ -26,6 +28,8 @@ Nobody has ever thanked him. He has never asked to be and there is not one form 
 
 He has a number in his head and he has had it for about two years and he has never given it away and nobody has ever asked him for it.
 
+A number has been in his head for two years. Nobody has asked him for it and he has never handed it over. In a head it is a person; on a page it is a column; a column wants a heading.
+
 It is a small number and it is made up of people and not of sheets, and **it is the number of people who have said a true thing out loud in a room with nobody in authority in it and have not been thanked for it**, and he knows roughly how many of them there are because he has been in about nine rooms in about two years and he has been one of them.
 
 He cannot give it away and he has not given it away, and the reason is not modesty and is not a rule anybody made. **The giving of it would be a list, and a list of persons is a company, and a company can hold wages against and take to law, and the whole of what six years of this has been about is those two things.** A number in a head is a person, and a number on a page is a column, and a column wants a heading.
@@ -33,6 +37,8 @@ He cannot give it away and he has not given it away, and the reason is not modes
 He will not give it to his wife. He cannot ask her first whether she would mind being told it, and he has never been able to, and that is why he will not give it to her at all. **There is no form for waiting on anybody to come and ask a man for a number he is carrying**, and he has been carrying it for about two years and nobody has come up those four steps about it, and there is no list of the people who might, and the people who might are about nine hundred rooms and every one of the nine hundred is a person.
 
 A man of about thirty-four who stands at the top of four steps every working day and cannot be reached by anybody is not a man anybody is looking for, and that is the price of being one man and not a heading, and he worked it out in about four minutes in a room with nothing on the table about two years ago and told nobody.
+
+He worked it out in four minutes two years back and told nobody, and about two years of carrying it about in his head has not made him a man anybody could name, and that is what it costs to be a person and not a heading.
 
 ---
 

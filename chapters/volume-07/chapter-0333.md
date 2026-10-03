@@ -12,6 +12,8 @@ Under a rule at the bottom of a box that does not belong to the Company there is
 
 He has read it twice. He has not torn it up, he has not shown it to anybody, and he is not going to, and the whole of the deciding took him about nine minutes the first time and about four the second. The showing is not the difficulty. A man with no office who shows a page to another man hands that man a thing the two of them then owe each other, and nothing in this empire will take that kind of debt into a book.
 
+The box is at the bottom of the room and the paper is in the box, and neither of them is on the list of anything in the building. Four years of a shutter half up has not put either of them on a list either.
+
 **There is no form for holding a sentence that a person owes him**, and a fair hand is a fair hand, and a hand is not a hand anybody can be served at.
 
 ---
@@ -27,6 +29,8 @@ A document is the only thing this empire has ever been able to put in front of a
 If he wrote the sentence down, then he would be a document about one woman. A document about one woman goes to a heading, and the heading would be a foreman of the Slade Cut, and the class would take her side or his, and she would never be asked whether she had ever said it.
 
 **He is not going to write it down.** Not her name, not the sentence, not the month, not the lane, and not a list of any of them.
+
+Write it down and he becomes a document about one woman. Such a document goes under a heading, and under the heading would stand a foreman of a cut, and she would never once be asked whether she had said any of it. He worked the whole of it out and has not put a word of it on paper.
 
 ---
 
@@ -50,6 +54,8 @@ One of the two is a debt he entered himself on a day when the alternative was a 
 
 Both of them are called held. **A word does that**: somebody picks it out of three others for a column and in about four years it is the name of a thing nobody can see into, and two people standing in different buildings both say the word and neither of them means the other one.
 
+A word chosen from three others for a column turns into the name of something nobody can see into inside about four years. A person in one building and a person in another both use it, and neither one of them means the other, and he has noticed it twice and mentioned it to nobody.
+
 He thought about the four hundred blanks this afternoon for about as long as it takes to write out a day's figures, and then he stopped thinking about them, and the stopping is the discipline and not the indifference.
 
 ---
@@ -61,6 +67,8 @@ A man came in at about the fourth hour to have a figure looked at because it was
 Then he wrote out the day's figures so that they came out even, which is the ordinary part of a day and the whole of what he is paid for.
 
 "Is that paper still where I put it?" he said it out loud at about the fifth hour, to the shutter, about the paper, and the paper is at the bottom of a box and nobody has seen it and he is not going to show it to anybody, and nothing in this empire would let a piece of waste paper be received by a person.
+
+The shutter dropped a hand's width on its own at about the fourth hour and went back up again, and the light on the flags did the same thing twice more, and nobody was waiting on it and nobody asked it anything either way.
 
 Nobody put a question to him this afternoon and nobody has for about four years. Nothing was sent for and nothing was thanked, and the shutter stayed half up and he stayed behind it.
 

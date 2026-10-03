@@ -20,6 +20,8 @@ On another page there are two boxes drawn by hand with the same name written int
 
 **A third page is blank and she is not going to put a line on it**, and no form in this empire can take a line back out of a page a woman keeps for herself, and that is why nothing goes on it and nothing comes off it.
 
+Nothing in this empire lets a woman rule a line out of a page she keeps for herself, and about two years of a third page staying blank is the longest she has gone without writing anything, and she has not told anybody either.
+
 ---
 
 What the last ten days gave her is the cost side of a thing she already had the other side of.
@@ -29,6 +31,8 @@ What the last ten days gave her is the cost side of a thing she already had the 
 If he had gone up a stair to the building off the old river road she would have been in that room. That is not a figure of speech and it is not a likelihood. **It is what the two of them are for, and it is certain, and he is about nine miles off and did not go, and she is not told, and there is no form in this empire that would let anybody tell her that he did not go.**
 
 So she is sitting at a table with a lamp on it and a board on the wall with the rent on it, and neither instrument has been exercised, and the whole of what that has cost her is that she is not told a thing about the one day in about nineteen years that anybody in this matter would have been able to speak about afterwards.
+
+Two instruments, not one, and neither has ever been joined to the two boxes on the other page. Had he gone up a stair she would have been in the room and is not, and nobody is going to tell her any part of it this month.
 
 ---
 
@@ -46,11 +50,15 @@ The four things in the drawer under that counter are where they were this mornin
 
 **There is no form in this empire in which a woman can be told that a thing did not happen**, and the not being told is the ordinary condition of a person who is not a party and not a hardship that anybody arranged for her, and it is the whole of what the two instruments have cost her so far, which is nothing, and which she will not be able to put anywhere.
 
+About two years of not being told has cost her nothing she can put anywhere, and it is everything two instruments have cost so far. Nothing in this empire lets a person be handed a thing and have it handed back again, and nobody has tried it on her.
+
 ---
 
 She lit the lamp at about the sixth hour, which is earlier than she lights it, and sat down at the table with the two things under it and the third page empty, and worked out in about four minutes why the not being told was the same thing as the not being asked and then had to sit with the rest of it for a while after that.
 
 **How early?** She said that out loud to nobody, about the lamp, and then she did not put it out, and the board on the wall had the rent on it and nothing else.
+
+She said the one question out loud about the lamp and then left it burning, and the board carried the rent and nothing else, and two streets off a street leading down to the river road is where the whole of it sits.
 
 The decision about whether she trusts a man's judgment is not made, and it is not in this room, and this month did not decide it and is not going to, and nobody in this empire is going to be told when it is made if it ever is.
 

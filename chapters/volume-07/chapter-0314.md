@@ -14,6 +14,8 @@ This is the fourth day of the fourth week of the third month of the year after t
 
 About four of those forms come down her counter in a year. She does not fetch them and does not enter them; they come on the top of a carrier's hip with everything else and go on the shelf by the window, and the rest of the year there is a bundle of about nine hundred sheets going out of that room with somebody's hand at the foot of every one of them.
 
+About four thousand entries have gone into eleven books in nineteen years; it has never once been full of people. A room that is never full is the cheapest instrument in the empire, and she has never found anybody who could make use of it.
+
 She knows the form the way anybody in a building knows the furniture. A heading over a column, and a space for the answer, and **the entering of it a form and not a letter.** The answers came back in about three weeks, every time, and they were refusals, and the refusals were entered because that law says a refusal is entered.
 
 Nobody in this building has ever asked a household anything. The form went out and the answer came back and the answer was a class saying no, and the whole of the traffic between the two of them was paper, and paper does not have to be told what it is going to be used for because it is not anybody.
@@ -33,6 +35,8 @@ She said the whole of what she had out loud at about the fifth hour, to the room
 **She turned round on the chair, which she does not do, and looked at the window with the pane out of it,** and the pane has been out for about four years and nobody has asked her about the pane either, and there is no form in this empire for asking a clerk about a pane.
 
 "The difference between these books and that form is one word and the word is a name. That form had a heading over it and the heading was not a person's, and because it was not a person's, about nine hundred rooms could answer it in three weeks without any of them being made to answer anything."
+
+The gap in the window is about the width of her hand and the weather gets in through it the same as it gets in through the door. Nobody has ever been asked about it, and she has looked at the gap about four times a week for most of a year and has never once decided to do anything about it.
 
 "And a name in one of these eleven books would make every entry in it a thing somebody could be held to, and I have not got a name to put in one and neither has anybody else in this building, and that is not modesty and it is not care."
 
@@ -60,6 +64,8 @@ Nobody is going to ask her a second time. She said so out loud in the third week
 
 A carrier came up the passage at about the sixth hour with a rack on her hip, and there were four on it, and four went onto the shelf by the window, and the woman of about fifty-five entered them in a hand that does not vary. **The carrier is paid ninepence at a lock and has not been asked what she is carrying in about six years,** and the woman of about fifty-five has not asked her either, and neither of them has ever asked the other.
 
+She comes up the flags with a load on her hip and goes straight back down them; nine or so crossings in a day are all either of them ever gets to know about the other, and four years of that has not turned into a word.
+
 The step at the top of the passage is still worn. The rail is still four feet high. A man of about sixty-one has been in this building twice in nineteen years and both times it was a season, and both times somebody told a carrier in a lane where to come, and a carrier in a lane is the whole of the instrument there is.
 
 **The season is on and he is about nine miles off and does not know it,** and there is no form anywhere in this empire that would let anybody in this room tell him so, and nobody is going to be the one to try.
@@ -67,6 +73,8 @@ The step at the top of the passage is still worn. The rail is still four feet hi
 ---
 
 About four hundred of those forms have gone out of that room in nineteen years and every one of them went to a class and got an answer from a class in about three weeks, and not one of them asked a person anything, and about nine hundred sheets a year are still going out with a hand at the foot of every one of them.
+
+About four hundred of the form went out of the room in nineteen years; every answer came back from a class and not from anybody, and the answers were all refusals, and a law says a refusal gets entered.
 
 **Nothing was written down this afternoon except four entries with no name in any of them,** and about four hundred of that form have gone out of that room in nineteen years and every one of them went to a class.
 

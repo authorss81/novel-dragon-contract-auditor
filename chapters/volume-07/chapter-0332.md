@@ -12,6 +12,8 @@ She has been inside a box since the first week of the seventh month of the year 
 
 **Nobody asked her about it today either.** Nobody in that bay put one question to her about the box, and nobody has for about four years, and the not asking is not a courtesy and not a rule anybody made and not going to be lifted.
 
+Four years of a morning in a place about nine foot by eleven is something a person gets used to faster than anybody would expect and a great deal slower than she has. Nobody has asked her about the box in any of them, and nobody ever will be the one to ask.
+
 About nine men in that bay know she is in a box. Not one of them has said a word about it since the day it went in, and she has not said a word to any of them, and there is no arrangement anywhere that would let nine men who have all said nothing be asked whether they agree about it.
 
 **Nine men agreeing to nothing out loud in a shed is not a class and it is not a company either, and that is the whole of what the nine of them have.** There is no heading over the nine, and there is no money behind the nine, and if the whole thing were written down the nine would stop being nine men and become a line in a return, and a line in a return is the thing the class is made of. So the nine say nothing, and she says nothing, and about four years have gone by in a room where nothing has been said by anybody at all.
@@ -25,6 +27,8 @@ She has owed him that half sentence for the same length of time and she has give
 **The day he asks is the day she stops saying the half she has got.** She worked that out in about four minutes a long time back and has never said it out loud to him and is not going to.
 
 He has not asked and he is not going to. **There is no form for wanting a thing out of a person who is owed one**, and wanting is not serving, and is not refused, and is not anything at all in this empire, and a man four hundred yards up a lane wanting a sentence off a foreman he has no office over is a man standing in the weather with his hands in his pockets.
+
+A book-keeper four hundred yards up the lane wants the rest of a half sentence and has wanted it for long enough. The day he comes up is the day the half stops, and nobody is going to this month.
 
 **Being asked is being served, and being served is being a party, and a party is the only person a thing can be told what it is going to be used for.** That is the arrangement and it is nineteen years old in a room nine miles off with a rail at the end of a cold passage in it, and the two of them are the same arrangement and she has never been in that room and never will be.
 
@@ -48,6 +52,8 @@ The man of about fifty-five with the chain is in the bay and is not one of the f
 
 **The four are not a route and they are not going to become one**, and the reason is not that they are slow or that they are difficult or that they would say no. The reason is that a question has to be put to a person, and each of those four is a person, and there is no instrument in this empire that will put a question to one of them without putting it into a record, and a record is a thing that follows a man about for the rest of his life and gets him served at. She has known all of that for about four years and has never once been tempted to break it, and she has also never once been in a position to be asked why not.
 
+Nobody has ever asked the four of them anything and about nine years have gone by without anybody doing it, and she has watched all four of them be left alone every morning of it and has never once thought of it as kindness.
+
 She is fifty-one and has been in a box for about four years. She has kept nine men saying nothing, and a man four hundred yards up the same lane who keeps the books wanting the rest of a sentence, and a foreman in a coat on a different lane saying three things he has said four times, and none of it can be put in front of a person as a question at any hour of the day.
 
 **She has stopped thinking of it as a thing that has happened to her and started thinking of it as the price of the house she lives in**, and the house is a bay about nine foot by eleven with a bench in it that is longer than the bay is wide.
@@ -55,6 +61,8 @@ She is fifty-one and has been in a box for about four years. She has kept nine m
 ---
 
 A man came through at about the sixth hour to have a length of wall measured and she measured it and gave him the figure and he was gone inside a minute. It is the same answer it has been for about four years and it does not satisfy anybody.
+
+A man came through wanting a length of wall measured, got the figure, and was gone inside a minute. She has given him the same one for about four years now and nobody is satisfied by it, and nobody in the bay has ever said so out loud.
 
 Nobody thanked her. Nobody sent for her. Nothing was resolved and nothing was forgiven, and the count of things anybody has asked out loud in this matter is the same as it was in the morning, and the mark in the chalk on that end wall is a mark and is nobody's and is about four years off being anybody's evidence.
 

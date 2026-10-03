@@ -14,6 +14,8 @@ This is the fourth day of the third week of the sixth month of the year after th
 
 She counts the racks, and she counts them in her head.
 
+Three feet from the shelf by the window, at about the third hour of a working day, a rack is lifted off a carrier's hip and set down without a hand on it, and she has done about four years of that and has never once put her own hand on one.
+
 Every working day, at about the third hour, a rack comes off a carrier's hip and is set down on the shelf by the window and nobody touches it, and while it is going she adds it to the other ones. The racks that go down that passage and come back light by one are what she is counting. **She has been at it for about four years and has never once put a hand on a rack.** Nobody knows that she does it at all, and there is no form in this empire that would make a person ask her whether she does.
 
 **The figure has gone up in every year since the seventh month of the year after and she has not said by how much and she is not going to.**
@@ -27,6 +29,8 @@ Some time back she worked out that she has been counting the wrong thing. A rack
 What she has that she did not have a month ago is a fact, and it is the plainest thing she has ever had.
 
 **He came a third time.** About nine miles, in a season, on his own two feet, on a day he is not paid for, and he stood on the wrong side of the rail for about four minutes and then said about nine minutes of it standing up, and about nine people were in that room, and the woman of about fifty-five wrote none of it down.
+
+He came a third time and a woman of about fifty-five stood at a table with a pen and wrote none of it, and she was in the building when he did, and she is the only one besides him who knows any of it, and the knowing has neither given her a fourth question nor taken one of the three away.
 
 She was in the building. She is the only other person in this matter who knows what he said at that rail, and she has known it once, and now she knows he has said the whole of it twice, and there is not one form anywhere in this empire that will let anybody ask her what she heard in that room, and nobody is going to.
 
@@ -44,6 +48,8 @@ Knowing it does not get her out of a corridor either. **She is not coming up a s
 
 She said it out loud to the shelf, and the shelf did not answer, and she went back to counting.
 
+Four minutes is what it takes her to get to the end of a thing she got to the end of a while back, and she said it out loud into an empty passage and nothing came back, and there is nobody on the far side of about four hundred yards of cold stone she could say it to instead.
+
 "How many racks?"
 
 Then a carrier came up the passage and put a rack on the shelf and the carrier said nothing and she said nothing and the carrier went back down it and the cold came up after her and the rail stood in it at the other end.
@@ -51,6 +57,8 @@ Then a carrier came up the passage and put a rack on the shelf and the carrier s
 ---
 
 Nobody asked her anything this week. Nobody has asked her anything in about four years, and nothing in this empire is shaped so that anybody is obliged to ask her what she counts or what she heard, and the not asking is the ordinary condition of a person at the end of a passage and not a hardship arranged for her.
+
+Not one question has reached her this week and none has reached her in about four years, and nobody arranged the not asking for her; it is how anybody standing four hundred yards from a door is.
 
 She is not going to give the figure a heading. She is not going to hand it on. She has not written it down and is not going to, and there is nobody she is going to hand it to, and **no form in this empire has ever made being told something the same as being able to do anything with it.** That is the whole of what she got for standing at that end of the passage about four years.
 

@@ -14,6 +14,8 @@ A rack goes down at about the second hour and comes back at about the fourth hou
 
 **Her figure has gone up since the seventh month of the year after and she has not said by how much and is not going to.** A number in a book is a column, and a column wants a heading, and a heading over that number would be a heading over about nine hundred rooms at once, and a person cannot be under a heading like that, and she is not going to be the one who puts it there.
 
+She has never once laid a hand on a rack in four years; nobody asked her to; nobody has put a single question to her at all. About four hundred yards of cold flags is what she has walked every working day for the whole of it, and the walking is the one part of the day that is hers.
+
 ---
 
 **The racks go to a shelf**, and that is the whole of the four hundred yards of them, and the shelf is under a window about two feet wide with the pane out of it, and the woman who puts things on that shelf is the same woman every day and has been for years, and she is paid ninepence at the lock.
@@ -23,6 +25,8 @@ The room at the far end of that passage, the one with the rail standing about fo
 **There is no form under it.** There is no list that reaches it, no rack that stops at it, and no person whose work takes her to that door, and that is the whole of why a thing said out loud in that room stays in that room. It is not because anybody is careful. A person carrying things for a living has no reason to stop at a door and nothing to carry back.
 
 "No form for naming what happens at the end of this passage was ever drawn," she said it out loud at about the third hour, to the flags, about the room, and the flags do not take it back, and nothing in this empire has ever drawn a line between that room and any other one.
+
+Nobody ever drew anything at all for naming what is done at the far end. Nothing in this empire has drawn a line between the room with the rail in it and any other one, and the flags take nothing back.
 
 ---
 
@@ -41,5 +45,7 @@ A carrier came up the passage at about the sixth hour with a rack on her hip and
 ---
 
 She is not coming up a stair in this season and nobody is going to ask her what she counts, and the figure is not going to be handed on and is not going to get a heading. If it went anywhere from here it would go as a column, and a column set over about nine hundred rooms is the whole of what a person has been up against for six years, and it is not going to happen on the top of a rack.
+
+About four hundred blanks came back with a sum and none of them filled, and a word standing against a figure in a column a little way off was picked by somebody thinking about a column, and she has never been in the building and is not going to.
 
 A rack came down at about the seventh hour and came back light by one, and she counted it without touching it. The number has gone up again since the morning and she has not said by how much and is not going to, and nobody asked her and nobody sent for her and nothing was resolved and nothing was forgiven, **and the count of things anybody has asked out loud in this matter is the same as it was when the first rack went down this morning and it is going to be the same in ten weeks.**

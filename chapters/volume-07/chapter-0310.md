@@ -24,17 +24,23 @@ He said about nine minutes' worth of it standing up. About nine hundred sheets a
 
 He picked the sheet up off the rail afterwards and gave it back, and she entered it correctly in a hand that does not vary, in about four minutes, and it is the nine hundred and something of them and it is correct.
 
+She has thought about the giving back more than she has thought about the nine minutes, and nobody in the building will ever hear of it from her. A sheet put back on the rail has been handed over by a person; a sheet left on the shelf has been left there by one. She knows which of the two she wrote down.
+
 **There is no form in this empire for asking a man of sixty-one to walk nine miles so that a clerk can put a hand on the foot of a sheet, and there is no form that would let anybody tell him he is expected.** The two absences are one absence and not two.
 
 ---
 
 The season came on in the last week and the sheets have been coming in thick since, four and five to a carrier's hip, and about nine hundred of them will go out of that room before the end of it.
 
+The light coming in at the window is at its worst about now and it has been at its worst for nineteen years. Every entry in the eleven books, of which there are about four thousand, was entered by her hand about this time of day, and one window about two feet wide does not do much for a room in the last month of a year.
+
 One of them will go to the district a man of sixty-one lives in, and one of the two hands on it will be a hand of his if he signs, and he will not be told, and there is nothing in this empire that would tell him.
 
 **The season is on and nobody tells him.**
 
 She has thought about it about four times in about four days.
+
+Four times in four days is more than she would like and less than she expected. There is a page in front of her with four entries on it and the arithmetic is not hard, and the difficulty is the other one, for which nothing anywhere exists.
 
 She is not going to send a carrier and there is no fund for a carrier and no list and no form, and a man who cannot get about told a carrier in a lane in the third week of the first month about nineteen years ago and that is the whole of how it has ever been done, and it was done by a person who wanted something and not by an office.
 
@@ -63,6 +69,8 @@ She wrote it on her own motion, at nobody's request, with the day and the hour o
 It is still on that shelf under the window with the pane out of it. It did not become an answer and it is not going to become one.
 
 A quarter of it was answered out loud in this room in the second month of last year, by a man who came nine miles on his own two feet and told nobody what was said afterwards, and she wrote none of that down either.
+
+An order is a thing she has not entered in nineteen years and she has no intention of starting with what came out of the man who walked in from nine miles off. What she has instead is a question on a shelf and a season coming on and about nine hundred sheets going out of the room, and nobody in the building could be handed any of it.
 
 A thing said out loud in a room with four people in it is in four people and not in a book, and if it goes in a book it goes four hundred and thirty miles back down that road.
 

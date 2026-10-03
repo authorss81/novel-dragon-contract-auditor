@@ -12,6 +12,8 @@ Whoever got in first on the cold morning lit the stove behind the bench and went
 
 The stove went out at about the fourth hour. She let it want.
 
+About four years in the counting room have gone on a stove lit by whoever comes through the door first, and today she let it go out and let it want. The room has no say in it at all.
+
 There was no third person in that room all day. There has not been a third person in it in about two years except the man who lights it, and that is not a fact about the room. It is a fact about who has a reason to come into it, and the answer to that has not changed in about two years and is not going to.
 
 ---
@@ -23,6 +25,8 @@ Her wage has been held since the second week of the third month of the year afte
 If she asked him, then there would be a question and there would be an answer, and the two of them would be parties, and a party is the only person a thing can be told what it is going to be used for. **Asking him would make her a woman with a claim, and a claim is a document, and a document goes to a heading, and a heading is a company.** The answer would go into a coat with a notice in it, and the notice says a sum and does not say against what, and an answer to a question is a record, and a record is what a sheet goes in, and about four hundred people learned that once and their sheet went back to them.
 
 **The absence of a form for asking is not protection.** She has thought about going to the office where he is about nine times in about three years and has done it none of the nine, and the not doing it is the whole of what she has to say about her own money.
+
+Put to him, the question would make her a woman holding a claim, and a claim in this empire can be had against somebody, which is the whole reason nobody has put one to her in three years. She has thought about walking to his office nine times and has not done it any of them.
 
 ---
 
@@ -38,6 +42,8 @@ The sixteenth book has her own name at the head of it and there is nothing on an
 
 **A book of your own is the only thing in this empire that a form has nothing to say about**, and there is no form for showing one to a person, and that is worth exactly nothing to her on a day when her wage is held.
 
+A book of her own has nothing said about it by any form there is, and there is no way of showing one to another person, and it comes to exactly nothing on a day when the wage is held.
+
 The notice in the coat is not sent. It has not been sent and it is not going to be sent by her, and the man in the coat said out loud that the day he wants it to exist he will send it, and the day has not been one of the days he has said so far, and she is not going to be the reason it becomes one.
 
 ---
@@ -47,5 +53,7 @@ She is not going up this river this season, and that is not the same as never, a
 "Is that stove still out?" she said it out loud at about the fourth hour, to the stove, about the stove, and it is out and it will want lighting again in about a quarter of an hour, and she let it want, and nothing in this empire lets a stove be said to a person.
 
 ---
+
+The sixteen books are where they are and the shelves were built for taller volumes. She let the stove want again and a quarter of an hour went by with the room going from warm to cold around her.
 
 The sixteen books are where the sixteen books are and the broken light is the broken light and the shelves were made for taller books. Nobody thanked her and nobody sent for her and nothing was forgiven and nothing was resolved, the two women she cannot reach are still two women she cannot reach, and the sixteenth book is shut, **and the count of things anybody has asked out loud in this matter is the same as it was when the stove was let go out and it is going to be the same in ten weeks.**

@@ -12,6 +12,8 @@ One woman of the four has been told that she is not paid. That was standing on a
 
 **Three are still to go, and this is the afternoon of the two she cannot get to**, and not the one she told, and the difference is not a matter of liking or not liking anybody.
 
+About three weeks, about nine visits, and the last of them was the shortest. One of the two is at a dye end two doors off and spends the middle of a shift standing in a doorway; the other is a lane away and gets in near the sixth hour.
+
 She has been at both of them in about three weeks, and about nine times in all, and the ninth was the shortest. One works a dye end two doors down and stands at a door in the middle of a shift; the other is at the far end of a lane and comes in at about the sixth hour. Nell Kest has got as far as the doorway of each one and has not said the thing, and the not saying has taken longer each time and is now taking the whole of a lane.
 
 ---
@@ -27,6 +29,8 @@ Her eleven are not a person. Neither are the four women.
 **A number of women is not a woman, and what is available at a number is a class, and a class is a heading, and a heading is a company.** A company can be written to about a wage. It cannot be written to about whether a woman said a thing out loud on a step one evening, and there is no line in it for a person.
 
 That is the whole of what stopped her. She worked it out in about four minutes about three weeks ago and she has been carrying it round the two doorways ever since.
+
+She arrived there in about four minutes three weeks ago and has been carrying it round two doorways ever since without saying it out loud to a soul, and she knows exactly what carrying it round two doorways is.
 
 ---
 
@@ -48,7 +52,11 @@ A woman of about thirty offered her money in the third month of the year after n
 
 The dye end had been running since the second hour and by the fifth the whole lane had the smell of it, and she went out into that smell with her sleeves down, and the two doors were on the way to the end of the lane and not past it.
 
+The smell had got into her sleeves by the fifth hour. Both doors stand short of the far end of the lane, and she went out and came back in again without either of them.
+
 She went down the lane at about the fifth hour and did not go to either door. The lane is short and she was at the end of it in about four minutes, and she stood at the end of it, and then she came back.
+
+She got within a few steps of the first one more than once and turned back each time, and the last time was quicker than the first, and about four minutes of the afternoon went on the walk and none of it went on a door.
 
 **About nine hundred entries a year come in under a heading, and about nine of them go out not as the person above them wrote.** The man who knows which nine cannot write one of them down, and he is nine miles off the far end of a river she has never travelled. She worked that out about three weeks ago and it has told her two things: that her own wage is not an unusual shape, and that the shape is not a thing she can take a person to.
 

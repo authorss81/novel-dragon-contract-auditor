@@ -10,6 +10,8 @@ She is twenty and her name is Nell Kest, and she keeps sixteen books. Fifteen of
 
 This is the fourth day of the third week of the seventh month of the year after the year after the year after next, and the dye end has been running since about the second hour, and it is about the fourth hour.
 
+The dye end had been running since about the second hour and by about the fourth the whole of the room smelled of it. The shelves were built for books taller than the ones now on them, and fifteen of the sixteen she keeps belong to somebody else and carry no office on the cover.
+
 ---
 
 Her wage has been held since the second week of the third month of the year after.
@@ -26,6 +28,8 @@ She is not thanked for that and nothing anywhere in this empire would thank her 
 
 That was in the fourth week of the ninth month of the year after next and it took about nine minutes standing on a step. The woman has not said one word about it since and has not passed it to anybody else, and that is not a promise and it is the best the arrangement has got. Three are still to go. The going is on her own time, there is no fund for it, there is no half-day, and nobody to stand at the bench.
 
+Four women is not one woman, and a number is a class, and the telling costs her nine minutes of an evening each time and comes out of her own hours and not out of anybody else's week.
+
 A woman of about thirty came to her in the third month of the year after next with money in her hand and offered some of it. She refused it, and that was the first time in about three years that she had refused anything from anybody, and she gave the reason out loud and the reason was one sentence.
 
 The reason was that she is not going up this river this season. Whether she is ever going to is a thing she has not said, and she is the only person in this matter who knows that not going this season and not going at all are two different sentences, and nobody has ever been in a position to establish which of them it is going to be.
@@ -40,6 +44,8 @@ The only question anybody in this matter knows about that was ever put in front 
 
 She worked that out in about four minutes at about the fourth hour with a pen in her hand, and then had to sit there with the rest of it for a while, and there is no form in this empire in which a thing can be put in front of a number of houses and come back with an answer that anybody is in.
 
+Her own figure has no column to go into in the building and none is going to be made, and anything set down in a book wants a heading over it, and she has worked it through about four times and said it out loud to nobody.
+
 ---
 
 She is not on a list. There is no list. There is no heading over either of them and there is no money behind either of them, and the whole of what is between two people in two rooms in two cities is that both of them have said one true thing out loud in a room with nobody in authority in it.
@@ -47,6 +53,8 @@ She is not on a list. There is no list. There is no heading over either of them 
 **There is another held wage in this matter about four hundred and thirty miles from this room and the two of them are kept apart on purpose**, and nobody in this building knows it, and nobody in the other building knows this one, and there is no form in this empire that would let anybody join two people who have not asked to be joined.
 
 The foreman in the coat with the notice in it is a different man and he was not told any of it and is not going to be, and there is no form in this empire that has ever put the same question to eleven houses off a dyers' lane twice, and the asking is the only part of it that would ever have cost anybody anything.
+
+A notice sits in a coat on a hook by the door, and about four years of the room has gone without anybody asking her what she keeps the sixteenth book for, and the window has been broken for about as long.
 
 ---
 

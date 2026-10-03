@@ -14,9 +14,13 @@ This is the fourth day of the third week of the second month of the year after t
 
 **The finding is structural and it took him about four minutes and it is not a feeling.**
 
+He has had the room two years and the lamp has been kept for the end of the day throughout, and in two years he has never once got further with it than the thought of putting it on early, which he has gone about as often as he goes about most thoughts.
+
 A question in this empire is asked of a person and not of a room. That is the first half and it has been the first half the whole time and about nine hundred people have understood it perfectly well without ever being asked to understand it.
 
 A room is nine hundred of them, more or less. A room is not a person and a room cannot be asked, and a room is the only kind of thing in this empire that a thing can be put in front of at once, and **that is why the only thing this empire has ever put in front of nine hundred rooms at once is a form about a class.**
+
+Nine hundred rooms is a number he can hold, and he has held it for about two years, and holding it has never once made it smaller. He has been round the nine hundred a good many times alone and has not found the one, and not finding it is the shape of the finding and not a gap in it.
 
 ---
 
@@ -25,6 +29,8 @@ So the address is this. On every one of the nine hundred sheets a year that go o
 A name in a column is a thing a person can be served at, and a person who has been served at is a party, and a party is the only person who can be told what a thing is going to be used for. **There is no form in this empire that would take a hand at the foot of a sheet and make it findable, and nobody is served anything to compare it against**, and so nine hundred hands a year go into nine hundred districts and not one of them can be got at from outside the room.
 
 That is the address. It is nine hundred rooms with one address in each of them, and there is no way to find one of them from outside the room, and a way to find one of them is the whole of the thing nobody has worked out.
+
+A hand is a thing about four inches long and it says nothing about the man it belongs to except that he was in a building on a morning. About nine hundred sheets of the kind leave this empire every year out of one room, and there is no way of getting to any of them from outside it, and he has never once found it strange, which is the thing about a man who has had it in his head for two years.
 
 ---
 
@@ -35,6 +41,8 @@ And then the second half of it, and it is about nine words and it took him the o
 So the whole of the machinery of asking at a scale is the machinery of making people into companies. That is the finding, and he has never once been able to say it in a room that was going to be written down.
 
 He has had it for as long as he has had the list in his head and has not been able to say it in a room that was going to be written down, and he said it out loud to about four feet of bare wall on the second day of this week, and about four feet of bare wall was the whole of the audience and the wall has not answered him and is not going to.
+
+Four feet of bare wall has been the whole of the audience for about two years and it has never once asked him for a second half. He put the finding into words against it on the second day and has put it there perhaps four times since, and the wall is as good a listener as the four steps and considerably quieter.
 
 A company is a thing this empire can hold wages against and give letters to and take to law. Four men in a bay were entered by a class and can do none of the three things and can be asked nothing.
 

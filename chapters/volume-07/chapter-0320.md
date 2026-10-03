@@ -14,11 +14,15 @@ This is the second day of the second week of the fifth month of the year after t
 
 It is an ordinary day. Nothing in it is a confession and there is nothing in it he is not doing four times a week.
 
+There is nothing in the morning he does not do four times a week. There is still no pane in the window; about nine hundred sheets a year leave the room, and not one of them comes back into it.
+
 She signs for five and those five go into a book in her own hand, and the other four go onto the shelf by the window and stay there, and a thing on a shelf is as true as a thing nobody is ever going to fetch.
 
 About nine hundred of them go out of that room in a year, and the number of them that any person has ever counted is nothing at all.
 
 **He signed four sheets this morning before the light came properly.** He read the day on all of them and the heading over the column on none of them, and nobody has asked him anything, and there is no form that would let anybody ask him, and he is not going to ask anybody either.
+
+Four sheets before the light came properly, and the day read off every one of them, and one mark under every one of them and always the same mark. About nine in about nineteen years were not as the person above had written them, and nobody has ever had to answer for whether he agreed with those.
 
 ---
 
@@ -42,6 +46,8 @@ He would want about four minutes to say no to about half of them and yes to the 
 
 **There is nobody to ask,** and that is the whole of it, and it is nineteen years old.
 
+The pen is not his. It comes out of a drawer with a handful of others in it and nobody has ever asked him which of them he is to use, and he has used the same one for nineteen years and would not know it again by its point. There is a groove worn in the wood where a forearm goes and it was there before he was.
+
 ---
 
 A carrier came up the passage at about the third hour with a rack on her hip, and he signed for the four that were on it, and the four went onto the shelf by the window.
@@ -57,6 +63,8 @@ A single return goes to one district out of about nine hundred districts and a s
 ---
 
 **The step at the top of the passage is still worn, and the rail is still about four feet high, and the pane is still out of the window,** and it has been for about four years and nobody has asked him about the pane either.
+
+A step outside the top door is worn through, the rail stands four feet off the floor, and the pane has been out of the window for about four years. Nobody has ever put the pane to him and he has never put the rail to anybody, and nine people stood in the room the last time he stood at it.
 
 He has said all of it out loud once, in a room, standing at a rail, and it went into a room and not into a book, and about nine people were in that room. A woman of about forty who carries a scuttle was in it and is not one of the three clerks and is not in this, and there is not one form anywhere in this empire that will let anybody ask that woman what she heard.
 

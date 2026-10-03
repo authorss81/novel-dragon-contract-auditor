@@ -18,6 +18,8 @@ She said the shape of it first, **the way she has said the shape of a thing befo
 
 The room went on the way a room goes. A man of about forty-five came up the stair at about the second hour with a paper in his hand and put it on the counter and said nothing for about four seconds.
 
+He put the paper down the way a person puts down something he has carried a long way, and then he kept both hands where they could be seen, which happens about four times a week up there, and she has never once watched a man do it and not know what it meant.
+
 "You have come up a stair to a counter," she said. "There is a difference between that and being brought to a room, and the difference is about nine feet of stair and it is the whole of this empire's arrangement and nobody has ever put it in writing."
 
 ---
@@ -40,11 +42,15 @@ He asked her whether the figure on the paper in his hand had to be the figure on
 
 She has put a coin back on a counter once in eleven years rather than take it, and **nobody has ever asked her to account for that either**, and the not taking is the whole of what she got out of it.
 
+Three of the four shelves in the room at the back have been full since before she came to the counter, and the fourth one has been restocked off the others more than once without anybody deciding to do it. Nobody has ever come in to see which was which, and she has not offered, and nothing in this empire provides for offering.
+
 Then there were four people, the way there are four people, and none of the four asked her anything.
 
 A woman of about thirty-two came up the stair about a letter, and there is no such thing kept and no such thing told, and the woman said that was how it is done here and not a favour to her.
 
 A boy of about fifteen bought a blank for fourpence and stood at the wrong end of the counter for about eleven minutes with it in his hand and went down without filling it in, which is the whole of what a blank is for.
+
+She watched him go down, and she has watched a boy go down four flights holding an unfilled blank perhaps four times in two years, and in two years it has never once been the same boy. That is the entire use a blank gets, and it is the only evidence anybody ever has of it.
 
 A man of about forty wanted a thing put back three years and could not have it and was not told why.
 
@@ -71,6 +77,8 @@ The fourth thing on that board is the one she cannot account for. Four items are
 The man of about thirty at the far end did the copies all morning and was not spoken to once and is not a person anybody in that room is obliged to answer for anything. Fourpence a copy, and a person who brings the same figure up that stair twice is charged twice, and nobody has ever been told that twice is a word in a charge.
 
 The woman of twenty at the back had a shelf of her own to put away and put it away and went at about the sixth hour, and she has not been asked anything this morning either and is not going to be and is not in any of this.
+
+The woman of twenty put her shelf away and left at about the sixth hour; the room went quieter by about the amount one person makes, which is not nothing, and which she has never once been able to put a figure on.
 
 Nobody was thanked this morning. Nobody was sent. The four things on the board are still four things and not one of them is a time, and the fourth of them is in a hand that she and two other people cannot account for and has been there longer than she has.
 

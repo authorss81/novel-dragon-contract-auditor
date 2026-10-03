@@ -10,6 +10,8 @@ This is the fourth day of the third week of the fifth month of the year after th
 
 He goes through the rest of it about once in four weeks and this is the once, and it is nine years old and about four hundred words long and it is not on a shelf anywhere and there is nowhere in this empire it could be put.
 
+The once in four weeks has not slipped in nine years. He gets to it at the end of a week and not before, and on the whole of the weeks in between it does not occur to him at all, and he has never told anybody either half of that.
+
 They are at the top of the list and they are in their boxes. Nobody has put a question to either of them and nobody is going to, and as for the instrument that put each of them there, nothing in this empire has ever been asked to be set aside and there is no way of asking for it, so it stands and they stay where it put them.
 
 Four men in a bay cannot make sense of a paragraph, and no one has ever put a single question about a number to any of them in the whole of this. A girl of seventeen is at the back of that same bay on a written engagement, and a reader of seventeen is behind her in the same condition, and nobody is going to speak to either of them or thank them or send for them.
@@ -25,6 +27,8 @@ And then the entry that is not a person.
 It is not a document. A document goes to about nine hundred rooms and a question has to be said in one of them.
 
 **A room is the only kind of thing in this empire that a person can be said in, and there are about nine hundred of them, and the whole of this matter has been trying to get at one man in one of them for about two years without knowing that is what it was doing.**
+
+About nine hundred rooms is a great many rooms, and the one at the end of the cold passage is nine miles off and made of cold stone, and he has traced the two ends of it out on the table with a finger about four times and has never once stood at the far one.
 
 He had it as a hand at the foot of a sheet eight weeks ago, and a hand is the most findable thing about a man there is, and he got that far and stopped there, because the next step out of that is a step out of a room and not a step into one.
 
@@ -43,6 +47,8 @@ He said it out loud and then did not wait for it, because there is no one in the
 It is the room at the far end of a passage about four hundred yards long, running off a flood terrace behind a building off the old river road. The flags of that passage come up cold underfoot in every month of the year. A rail stands in the room standing about four feet off the floor, and a step is worn through in front of the door at the top end of the passage, and there is nobody at that door at any hour of the day.
 
 **He has not been in that room.** A man of about thirty-four in a room over a shop that sells tar has no way into it, no reason to be in it, and no business in it, and all three of those are still true this week.
+
+About twenty-six years old and four years in the building, and he knows about her the way a man knows about weather, and he has not asked anybody to confirm a word of it and would not be told if he did.
 
 A woman of about twenty-six is at the other end of that passage and has been there about four years and counts racks, and she is not one of the three clerks in that building and cannot be asked about anything, and no form in this empire has ever been written for putting a question to a person at the bottom of a passage about where anybody else is.
 
@@ -69,6 +75,8 @@ One of them goes to the district he lives in, and if he signs it his hand will b
 ---
 
 He wrote out one sum before the light went, for a man who cannot pay him until the spring. It came to eleven shillings and it took about nine minutes, and that was the whole of the work of that day.
+
+The sum took about nine minutes and the paper is still lying on the table beside the copy, and the man it is for will have it by the spring and will know nothing whatever about the room it was written in or the hour.
 
 His wife was at the foot of the four steps at the end of it. She did not ask him how the week had gone, and she has not asked him that in about two years now, and she told him out loud some weeks back that she is not going to start.
 

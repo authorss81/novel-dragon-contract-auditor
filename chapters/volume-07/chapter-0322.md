@@ -12,11 +12,15 @@ This is the fourth day of the fourth week of the fifth month of the year after t
 
 ---
 
+About nine weeks of season have gone and the shelf behind her has taken four hundred sheets into it without one of them asking her anything, and in nineteen years she has entered about four thousand entries and not one of them has ever had a person in it.
+
 She has done her sums for the morning and the eleven books are shut and the shelf is behind her, and a carrier came up the passage at about the fourth hour with a rack on her hip and put four things on the shelf by the window and went back down it.
 
 The carrier is paid ninepence at a lock and is on a list, and has not been asked what she is carrying in about six years, and the woman of fifty-five has not asked her either, and neither of the two has ever asked the other a thing.
 
 That is how the two of them have worked for six years and it is not a custom and it is not unfriendliness. **No form in this empire has ever made a clerk of an office able to enter that a person stood in the room on a given day**, and the not entering is the same absence as the not asking and there has never been a second one.
+
+She goes back down the cold flags with the rack on her hip and the cold goes with her, and about six years of the two of them not asking each other anything has not cost either of them a thing anybody has noticed.
 
 ---
 
@@ -48,6 +52,8 @@ And then she said the part that is the finding, and she said it slowly, and it t
 
 **How long does a question stand?** She said that out loud in the room to nobody, and then went back to the sums, and the sums were the sums.
 
+Nobody can say how much of a season is gone from inside the room, and a season does not report to anybody. She has looked out of a window with no pane in it about four times a week since the start of it and has never been any the wiser.
+
 ---
 
 The question she wrote into the second of the eleven books is on that shelf under the window with the pane out of it, and it is still a question.
@@ -57,6 +63,8 @@ She wrote it on her own motion, at nobody's request, with the day and the hour o
 Nobody is going to ask her a second time. She said so out loud in the third week of the eleventh month and nobody has, and nothing in this empire is shaped so that a second time could be put to her, and it is the only thing in nineteen years she has said out loud that she is certain of.
 
 **Nobody asked her anything this week.** Four things came up the passage and went onto a shelf and the woman of fifty-five entered them correctly in a hand that does not vary, and that is the whole of what was written down.
+
+What was written down this week is four lines and no name, entered correctly and never differently; something like nine hundred sheets leave the room every year and she has never counted one of them.
 
 The step at the top of that passage is still worn through and the rail is still about four feet high and the pane is still out of the window, and about nine hundred sheets a year are still going out of this room with a hand at the foot of every one of them, and one of the three hands is his.
 

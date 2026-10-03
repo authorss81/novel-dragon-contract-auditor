@@ -12,6 +12,8 @@ This is the second day of the second week of the sixth month of the year after t
 
 **One of the nine hundred will go to the district a man of sixty-one lives in.**
 
+Nobody has counted what has gone out of the room this season and nobody is going to; the woman of fifty-five is the only person who could have counted and has not, and the not counting has never been carelessness.
+
 If he signs it, his hand will be at the foot of it, and it will be correct, and the district will be told what the sheet says, and the sheet does not say that a man came about nine miles in a season in about nineteen years and said about nine minutes of it standing up at a rail.
 
 **There is no form in this empire under which a person is told what a season is about to send into his own district**, and there has never been one, and the man who wrote the first of those has been dead a long time and nobody has replaced him.
@@ -19,6 +21,8 @@ If he signs it, his hand will be at the foot of it, and it will be correct, and 
 ---
 
 She said the cost out loud at about the fifth hour, to a page, and then she put the pen down and did not pick it up again that afternoon, which she has not done in nineteen years.
+
+She put the cost into the air and then let the pen lie where it fell, and about nineteen years of setting a pen down neatly is not a thing anybody in the room has ever watched her do badly before.
 
 "Here is what it cost and I would like it said out loud in a room, because I have found out that nobody will say it for me and nobody can."
 
@@ -44,9 +48,13 @@ Nobody has asked her why he was there. **No form in this empire is shaped so tha
 
 **How long a page stands before it is a document?** She said that to the room at about the sixth hour with nobody in it, and then she went back to the sums, and the sums were the sums.
 
+She put the question about how long a page stands to an empty room into the air and then went back to the sums; about four years of entries have gone onto the shelf without anybody ever putting it into one of them.
+
 ---
 
 A carrier came up the passage with a rack on her hip at about the sixth hour and put four on the shelf and went back down it without stopping, and the woman of fifty-five entered them correctly in a hand that does not vary, and that is the whole of what was written down this afternoon.
+
+A carrier came up near the end of it, set four on the shelf, and turned and went straight back down the cold flags without a word. The writing came to four minutes; nothing else went onto the eleven books before the light went, and the light is not on any of them.
 
 The pane is still out of the window. The step is still worn through. The rail is still about four feet high and a man of about sixty-one has stood on the wrong side of it three times in nineteen years and is nine miles off and does not know it and is not going to be told.
 

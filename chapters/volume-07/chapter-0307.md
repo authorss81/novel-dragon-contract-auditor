@@ -14,6 +14,8 @@ This is the second day of the first week of the second month of the year after t
 
 It is an ordinary day and it is not a confession and he is not doing anything different in it.
 
+Three clerks work on the ground floor and the passage door is never stood at by anybody in any hour. He has looked at the worn step in front of it about four times in nineteen years and has never once worked out who wears it.
+
 She signs for five and the five go into a book under her hand. The other four go onto the shelf by the window and stay there, and a thing on a shelf is true in the way a thing nobody will ever fetch is true.
 
 About nine hundred of them go out of that room every year and the number of them that anybody has ever counted is nothing at all.
@@ -21,6 +23,8 @@ About nine hundred of them go out of that room every year and the number of them
 He has read every one of them that he could read, and there are not many of those. He knows the first hand on all of them and he has never once been able to say what the heading over the column is for, and he has signed the day on all of them. **About nine of them in about nineteen years have not been what the person above him wrote, and he signed those nine**, because he was not asked and was not given anything to sign against.
 
 He has them in his head the way a man has a face in a crowd.
+
+That is the whole of his method and it has held for nineteen years. He does not write them down because he cannot, and he cannot because there is nowhere on any of them to write, and nobody has ever told those two reasons apart, least of all him.
 
 He could not put a year to more than two of them and he could not write one of them down, and there is no form anywhere in this empire that gives a man who cannot read a paragraph a place to put his mark beside a sum and call it a disagreement.
 
@@ -40,6 +44,8 @@ The first hand writes the body and it is a clerk's hand, and a clerk in this bui
 
 The three of them come down to one, and the one is him, and he has been the one since he was forty-two, and he is going to keep being it until they stop.
 
+He has said the four minutes out loud to himself more than once and every one of the times it was in this room with nobody in it. A man who has wanted the same four minutes for nineteen years and has had nobody to say them to has not stopped wanting them, and he has no way of telling anybody that he still does, and there never has been one.
+
 He has said all of that out loud, once, in a room, standing at a rail, about a year ago, and it went into a room and not into a book. A woman of about forty who carries a scuttle up that passage was in the room and is not one of the three clerks and is not in this, and **there is not one form anywhere in this empire that will let anybody ask that woman of about forty what she heard in that room.**
 
 ---
@@ -55,5 +61,7 @@ He is not on anybody's paper. He is not on a list and he is not in an office and
 About four men in a bay about four hundred and thirty miles down this river cannot read a paragraph either, and he is not one of them and is not in any list with them and does not know that they exist, and there is a mark in chalk on a wall in that bay that means nothing and is nobody's.
 
 He signed four sheets this morning before the light came properly. He read the day on all of them and the heading over the column on none of them, and nobody has asked him anything, and there is no form that would let anybody ask him.
+
+He signs the way he has always signed, and the sign is the same on a sheet he agrees with and a sheet he does not, and there is no fault in the sign. A sign carrying two meanings would be a thing somebody could be asked about, and he has never wanted to be asked about anything and has been asked about nothing.
 
 The room is a room and the pane is still out of the window. About nine hundred of these go out of it in a year and one man signs them, and he is sixty-one, and he has been this since he was forty-two.

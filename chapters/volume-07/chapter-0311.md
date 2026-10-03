@@ -16,6 +16,8 @@ He took a sheet out and put it down on the wood and it was a copy, and he had pa
 
 "Is this the one you were going to say something about?"
 
+The crease had gone soft along its length and would not take a crease back. She looked at the paper and not at what was written on it, and there was fourpence in the sheet and no office on it, and paper like that is the easiest thing in the room to look at.
+
 "It is a reason to say it and it is not the thing itself, and I will come to the thing, and I am not asking you anything."
 
 He put his hand back in his coat and left it there.
@@ -43,6 +45,8 @@ A letter can be answered or not answered and nobody is hurt by that. A form has 
 "And this is a copy of it."
 
 "This is a copy of the fourth one of about four that come down that counter in a year. The other three went to the same three people. **There is no form in this empire that would let a clerk keep a copy of a form about a household,** and I have kept four of them in a drawer with the rest of the paper, and nobody has ever asked me what they are."
+
+She was told twice to come back on a day and she came back on a day, and nobody wrote anything down and nobody was going to. About four years of the counter have gone on without anybody recording that a person came back and was late.
 
 ---
 
@@ -88,6 +92,8 @@ She said the last of it to the room and not to him, and the man of thirty at the
 
 Nobody thanked her for it and nobody in that room was going to, and there is not one form in this empire that would oblige anybody to, and the man of about thirty-four was not thanked and did not expect to be.
 
+About four copies were finished at the far end while she was still going. The man making them kept his head down the whole time, and nobody in the room has ever wanted to know what he thinks of a morning. Nobody has ever asked him about this one either.
+
 He took his hand out of his coat and put it flat on the copy on the counter and then took it off again.
 
 "The third of the three things," he said. "You have not said what the form is for."
@@ -101,6 +107,8 @@ At about the fifth hour a man of about forty came up and wanted three things put
 The fourth thing on the board behind the counter is in a hand that is not one of the hands in this room and has been on that wall longer than she has, and she and two other people have looked at it together on three occasions in eleven years and have not arrived at anything, and there is no form anywhere in this empire for accounting for a line of writing on a wall.
 
 **About four hundred blanks went under that counter in eleven years, and not one of them has ever been accounted for,** and none of them is going to be, and nobody has ever asked her to account for them, and the not asking is the whole of what has happened to them.
+
+She has not been asked to account for the box and she has not offered to account for it. About four hundred blanks, bought and unfilled, have gone under eleven years of the same counter without a line of writing anywhere above them, and the not writing over it is the only record there is of any of it.
 
 The copy went down the four flights with the man who had carried it up them. She did not ask him what he intended to do with it, and she did not ask him why he had come, and he did not tell her either of those things. **The whole of what passed between them in about eleven minutes was fourpence, a sheet of paper, and a thing said out loud in a room,** and it went in a room and not into a book.
 

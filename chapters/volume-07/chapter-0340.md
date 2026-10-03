@@ -12,6 +12,8 @@ A person who cannot be read cannot be asked in writing. A person who cannot be a
 
 Two people said that out loud in ten weeks. They are about four hundred and thirty miles apart, they have never met, and neither of them knows the other exists. One said it to an empty lane off a road at the north end of a town. The other said it to a woman in a counting room at the back of a dye end, in about four minutes, and told her nothing at all about her own wage.
 
+Neither said it to the other one, and nothing here would let either of the pair learn that the other had spoken, and that is the shape the finding is never going to get out of: it arrives in two places at the same time and joins them nowhere.
+
 Neither of them said it to the other, and nothing in this empire would let either of them be told the other had said it, and that is the last shape the finding takes: it takes it in two places at once and joins them nowhere.
 
 ---
@@ -21,6 +23,8 @@ Neither of them said it to the other, and nothing in this empire would let eithe
 A question cannot be asked in about nine hundred buildings at once by people who cannot be instructed to ask it. That is the whole of the answer and it took two years to arrive at and about four minutes to say.
 
 The reason is that a question in this matter is a party, and a party is a person, and a person is one. **What is available at a scale is a class, and a class is a heading, and a heading is a company.** This empire has about nine hundred rooms and there is one of him.
+
+It is a room and not a road, and nothing in the last ten weeks has taken anybody anywhere. A figure in the order of nine hundred sheets leaves a room nine miles off every year, and nobody walks the road to it.
 
 About four hundred and thirty miles is not walked and is not going to be walked. The answer is not a wall and it is not a defeat; it is the shape of the thing, and the shape has been there the whole time.
 
@@ -37,6 +41,8 @@ About nine people in nine rooms have each given a piece of this away to nobody. 
 What the last ten weeks hand to the next ten is a room and a rail and about nine minutes, and it is not a plan and it has not been spent.
 
 There is a passage about four hundred yards long off a flood terrace behind a building off the old river road, and the flags of it come up cold in every month of the year, and there is a door at the top end with a step worn through in front of it and nobody at that door at any hour of the day. **At the far end of that passage there is a room with a rail standing about four feet off the floor.**
+
+Four hundred yards of cold flags with no fire at either end, and nobody walks it on somebody else's business; a door at the top of it has a step worn through, with nobody standing at it in any hour.
 
 In that room a man of thirty-four is going to come nine miles for the second time and not ask, and to say out loud, in about nine sentences, why he is not going to, and to be thanked by nobody, and the room is not going to have it afterwards and he is not going to tell anybody what was said in it.
 
@@ -61,5 +67,7 @@ The clause on a shelf under a window with the pane out of it is still a clause. 
 "Is that wall worth a nail?" he said it out loud at about the fifth hour, to the wall, about the nail, and the wall did not answer, and about four feet of it has had a nail in it since he came and nothing has ever hung on it, and nothing in this empire lets a nail be said to a person.
 
 Then he sat at the table with nothing on it and put his hand flat on it, and the lamp was not lit.
+
+Then he sat down, spread a hand on the wood, and nothing was lit. About four feet of bare wall carries one nail and has carried it since he came, and that is everything the ten weeks added to the room.
 
 Nobody thanked him and nobody sent for him and nobody was forgiven and nothing was resolved. The count of things anybody has asked out loud in this matter is the same as it was ten weeks ago, and it will be the same in ten more, and about nine hundred sheets a year are going to go on going out of a room nine miles off with a hand at the foot of every one of them.

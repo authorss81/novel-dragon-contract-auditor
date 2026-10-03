@@ -10,6 +10,8 @@ This is the second day of the second week of the twelfth month of the year after
 
 The undertaking of the fourth of the first month is live. It is unretired and it is unamended and it has not been exercised, and it has not been exercised for about two years, and it is not going to be different this week, and a correct non-use is as good as a use and is entered as one.
 
+Nobody came up the flight wanting anything this morning. One of those is not the other, and nobody tells her which of the two it will be, and nothing anywhere would let a clerk at a counter be told either way.
+
 **A person who is not asked has not been given a duty**, and she has known that since about the seventh month of next year. She has never once known that it did not apply to her, and the reason the undertaking sits where it sits is that nobody ever put it to her in the first place.
 
 Nobody has asked her anything in about two years. A man came up that stair once, in the second week of the tenth month, wanting nothing at all, and put one question in the air and did not wait for the answer, and that is the last time anybody has put a question to her and it is the reason she has wanted to be asked every working day since.
@@ -26,6 +28,8 @@ The fourth thing on that board is the one they cannot account for.
 
 Three clerks have looked at it, including the two of them, and none of the three can say what the fourth item is for, and the woman of thirty-four wrote it there herself in her own hand about four years ago and cannot remember being in the room when she wrote it, and she has said that out loud twice, and nobody has thanked her for saying it either time.
 
+Three clerks have looked at the fourth item, the two of them among them, and not one can say what it is for. The woman of thirty-four put it up herself in her own hand four years back and cannot remember being present at the time, and wanting to know is not asking.
+
 They did not say anything about it this morning. **No form for signing a thing you cannot account for exists at that counter or anywhere else**, and so the item stands on the wall in a hand that does not vary, and the three of them look at it about four times a week and none of them has ever put one question to another about it out loud, and wanting to is not asking.
 
 Under the counter there is a box of about four hundred blanks, bought and unfilled, and it has been there eleven years. **No form that holds it was ever drawn**, and nobody has ever asked her to account for it and nobody is going to.
@@ -41,6 +45,8 @@ She has worked out, in a room of her own, on her own time, that the line is a wi
 The fourth thing in her drawer is where it has been and it is untouched and it is unsent and it is unopened, with three others, and nobody has offered her a key to that drawer and she has not asked for one.
 
 "Is that stair still the only way up?" she said it out loud at about the third hour, to the stair, about the stair, and it is, and it has been since the building was put up, and nothing in this empire lets a stair be said to a person, and a person who has wanted to be asked something every working day for about two years and has not been asked is not a person anybody in that building is looking for.
+
+A page of her own book, ruled by hand, carries two boxes, the same name written into each, and neither has ever been merged into anything else, and two years of leaving the third page unruled is everything she has done about it.
 
 ---
 

@@ -12,6 +12,8 @@ A carrier came up the passage at about the fourth hour with a rack on her hip an
 
 The four went in correctly in about four minutes in a hand that does not vary. **That is the whole of what was written down in that room this afternoon**, and nothing else was written down in it, and nobody has asked her about the rest of it and nobody is going to.
 
+Four things came up towards the fourth hour on a rack and went onto the shelf under the window, and she entered them correctly in a hand nobody could call unsteady, and the afternoon added nothing else in there.
+
 ---
 
 Under that window, on that shelf, there is the finding of two years of her own motion, and it is still in the form of a question and it is not a sentence and it carries no period.
@@ -32,11 +34,15 @@ A man of about thirty-four was in that room on that morning, seven days ago, and
 
 She said in the ninth month that it was the last time any of the three would be said out loud in a room, and this afternoon she did not say it, and the not saying is the whole of what she has to show for keeping it.
 
+In the ninth month she said the three would not be said aloud in a room again, and she did not say it this afternoon, and the not saying is all she has to show for it.
+
 There is no form for writing a minute of what a room was, and there is no form for entering it afterwards either, and both of those are absences, **and the second one is the useful one.** A thing that cannot be entered cannot be served out of it, and about nine people were in that room and none of them can be produced.
 
 A man of sixty-one has stood on the wrong side of that rail three times in nineteen years. He is nine miles off and he does not know it and he is not going to be told, and the rail is still about four feet off the floor at the far end of her own passage and nobody in this building walks it on an errand of anybody's.
 
 She does not go up that passage on her own time. It is about four hundred yards and the flags of it come up cold underfoot in every month of the year and there is no fire at either end of it, and she has walked it every working day for about four years because the racks come down it and go back up it again, and that is the whole of why she has walked it and the whole of what walking it has been for.
+
+She has never gone up the passage on her own time. About four hundred yards is the length of it and the cold comes up through the flags whatever the season is, and the walking is the only part of the day belonging to her, and it belongs to her because the racks come down and go back up again.
 
 And she is not going to be told whether he is coming back to that room or not, and she is not going to go and look, and there is nothing at this end of the building that would let her be told either.
 

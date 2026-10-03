@@ -16,6 +16,8 @@ The copy had cost the man who gave it to him fourpence and had come out of a dra
 
 He had turned it over on the stair, which he had not meant to do, and on the back of it in a clerk's hand that was not the hand on the front there were three lines.
 
+The copy went into the inside of the book and stayed there for the rest of the walk, and it was still in the inside of the book when he laid it down with the ruled line uppermost, and he did not smooth it out.
+
 **The first line said how long the form had been standing.** The second said what it had got, and it said three weeks. The third said what a House's own table had done with the same question, and it said about eleven, and then it said no.
 
 He read the third line four times and then he read the second one again, and the second one said three weeks.
@@ -32,6 +34,8 @@ There is no way of reading the two of them together that makes either of them a 
 
 He did the arithmetic the way he does arithmetic, which is to say he put three figures side by side and waited.
 
+Three figures side by side is the only arithmetic he trusts, and the third one is not like the other two and never has been, and the not being like them is the whole of what he arrived at before the light went.
+
 About three weeks. About eleven. And a hundred and forty years, which is not a duration of a process but the length of time a thing was lost and nobody put a figure on what losing it cost, because the losing was the answer.
 
 **A person deciding can say no, and this one said no,** and it took about eleven weeks and it cost a hundred and forty years. That is not a slow answer. It is the answer you get when the thing doing the answering is somebody.
@@ -43,6 +47,8 @@ He wrote none of that on the table, because there is nothing on the table to wri
 ---
 
 He went through the rest of it once, which he does about once in four weeks, and it went the way it goes.
+
+He read the second line about four times without setting anything beside it, and every time it said the same, and a figure with nothing to set against it cannot be got out of him by anything he owns.
 
 The two people in their boxes are in them. Nobody has asked either of them anything and he is not going to and there is no form in this empire for putting two people in one room, and the form that put each of them there has never been asked to be void by anybody, because no form in this empire has ever been asked to be void and there is no procedure for it.
 
@@ -63,6 +69,8 @@ He has found out that the bill for his being findable is not his and stands on s
 ---
 
 His wife was at the bottom of the four steps at the end of it and she did not ask him how the week had gone, and she has not asked him how a week went in about two years, and she said out loud some weeks ago that she is not going to.
+
+Not one word was said about the sheet lying on the table with its fold in it. Neither of them had any asking available and neither of them tried, and the evening went by with the copy lying face up and neither of them looking at it.
 
 He had told her about the second thing he did about six weeks before he did it, out loud, on purpose, without asking her first, and gave her the reason, and the reason was that if he had asked she would have said no or said yes and been frightened and both of those would have been him arranging the room.
 

@@ -14,6 +14,8 @@ He went through it again this week, and it is the once in four weeks, and this t
 
 **The whole of this began as a way to ask one man about about nine hundred sheets a year.** That is what it was for. A man of sixty-one cannot read a paragraph and has been the second hand at the foot of every one of them since he was forty-two, and about nine of them a year went out of that room not as the person above them wrote, and he signed those, and there is no column on any of them for a man to write no in. Somebody in this matter was going to work out how to ask him.
 
+The whole of it began as a way of putting one question in front of one man about a great many sheets a year, and that is still the whole of it; about two years of going at it has got him as far as a room with a rail standing in it and no further.
+
 And in the middle of it, it turned out that he cannot be asked in the one building that made him.
 
 A question put in that room goes into a record, and the record is what the sheet goes in. The last time a thing of that shape was done to about four hundred people, their sheet went back to them. A question put anywhere else costs about nine miles and makes him findable by the going, and a man who is findable is a man who can be served.
@@ -23,6 +25,8 @@ A question put in that room goes into a record, and the record is what the sheet
 ---
 
 **The count of things anybody has asked out loud in this matter is seven.** It was seven before he went to that room and it was seven after, and it is seven tonight, and he had a question ready in his mouth for about three minutes of somebody's nine and he did not have it out, and nobody will ever know from this room that he had it.
+
+Seven, before he went and after, and about two years of carrying a number about in his head has never once made it a different number, and he has never once been asked for it and there is nobody he could hand it to.
 
 About nine hundred entries a year go out of a room in about nine hundred rooms. **A class is a heading and a heading is a company, and the second hand at the foot of every one of them is a person, and a person is the one thing in this empire that a class cannot be asked about.**
 
@@ -41,6 +45,8 @@ About nineteen people are still behind that bank who said no again in the same w
 ---
 
 He did not go and look and he is not going to go and look. The four hundred and thirty miles is not walked and the nine miles is not walked by anybody on his account, and he has not written a line of any of it down in about two years, and there is no form anywhere that would take it if he did.
+
+Nine hundred sheets a year leave a room about nine miles off, and he has stood in it three times in nineteen years, walking nine miles each way on days nobody paid him for; no one sent him and no one told him and he has never mentioned it to anybody.
 
 He wrote out one sum before the light went, for a man who cannot pay him until the spring. It came to eleven shillings and it took about nine minutes, and the man who sent it will get it in the spring and will not know that it was done in a room where nothing was lit.
 
@@ -61,5 +67,7 @@ There is no form in this empire that has ever let a person be found who nobody h
 ---
 
 **Is that what the nail is for?** He said that out loud to the wall, at about the fifth hour, and the wall did not answer and it is not going to, and about four feet of it has had a nail in it since he came into the room and nothing has ever hung on it.
+
+Four feet of bare wall with one nail driven into it and nothing ever hung there; he has never worked out who put it in and has never once been curious enough to want to know.
 
 The lamp was lit at about the seventh hour by somebody else. The table had nothing on it. The seven did not move, and the season is on, and about nine hundred sheets a year are going to keep going out of that room with a hand at the foot of every one of them, and one man signs all of them, and he is sixty-one, and nobody has asked him and nobody is going to.

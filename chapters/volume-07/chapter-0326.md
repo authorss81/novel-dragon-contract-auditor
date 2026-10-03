@@ -18,6 +18,8 @@ He is not one of the four men in that bay who cannot read a paragraph, and he sa
 
 Nobody answered him. Nobody asked him one thing about a number and nobody is going to, and he did not ask anybody anything either, and the two of them have not asked each other anything in about four years.
 
+Nobody has ever taken the chain off him, and about four years is how long he has gone without putting a question to anybody about a figure or having one put to him about one.
+
 Four men in that bay cannot read a paragraph. Nobody has put a question about a number to any of them in nine years and nobody did this morning and nobody in this room is going to, and the four of them are not a method and are not a route to anything and are not going to be used by anybody in this matter.
 
 ---
@@ -34,6 +36,8 @@ A man of about thirty came off a job at about the fourth hour, told her one thin
 
 Nobody asked her about it. Nobody in that bay said one word back, and nine mouths that have said nothing for about four years said nothing again, and there is no form in this empire that would let nine men be asked whether they agree with what they have all been saying nothing about, and she is not going to ask them.
 
+Nine men said nothing and she said one sentence out loud to all of them, and it took about four minutes; not one of the nine has said a word back and none of them ever will, and nothing anywhere would let anybody ask them whether they agree with what she said.
+
 ---
 
 At the back of that bay, on a written engagement at the rate a list is set at, there are two of seventeen, a girl and a reader.
@@ -48,11 +52,15 @@ The lamp in that bay was not lit at about the seventh hour either, because the g
 
 **The cross means nothing and is nobody's and is about four years off being anybody's evidence**, and the chain is on a man, and nothing in that lane is going to turn it into anything, and she did not go and look at it and is not going to.
 
+The cross sits about four feet off the ground on a wall, long enough to have been looked at every day by men who cannot make sense of a paragraph. Nobody put it there on any paper and nobody has ever claimed it and nothing in the lane off the Slade is going to.
+
 ---
 
 **A second sentence is owed to a book-keeper four hundred yards up that lane, and it has been owed since the third month of the year after.**
 
 He wants the rest of it and has wanted it since the same month, and he has not asked and is not going to, and the day he asks is the day she stops saying the half she has got, and nobody has asked in this volume and nobody is going to.
+
+Four hundred yards up the lane a book-keeper wants the rest of a sentence, has wanted it long enough and means to go on wanting it; there is no gate anywhere in the lane and nothing has ever stopped anybody walking up it, and he has not walked up it.
 
 There is no form in this empire in which a woman who has been in a box for about four years and never asked can put what she knows beside what anybody else knows, and she said the sentence out loud in a bay to about nine men, and it is in nine people and not in a book, and that is the whole of what she got for it.
 

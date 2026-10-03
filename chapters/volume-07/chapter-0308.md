@@ -14,6 +14,8 @@ This is the second day of the second week of the second month of the year after 
 
 **What she has done in about four years is look at the rack, and every day at about the third hour, when it comes off a carrier's hip and goes on the shelf by the window, not touched, count, in her head, the racks that go down that passage and come back light by one.**
 
+Four hundred yards is a long way to walk for nothing, and she walks it every working day and has done for about four years, and cold comes up through the flags at both ends and never anywhere in the middle. She has never once been the warmest person in the building and nobody has ever suggested she should be.
+
 She does not touch the rack. She has never once touched the rack. There is a shelf for it and it goes on the shelf and four letters go onto the shelf under it and stay there, and a thing on a shelf is true in the way a thing nobody will ever fetch is true.
 
 The figure has gone up since she counted it in the seventh month of the year after.
@@ -25,6 +27,8 @@ She has not said by how much and she is not going to, and a number that has gone
 **And she worked out this week that the figure is a count of carriers and not of people, and that is an error in it, and she is not going to correct it.**
 
 A rack that comes back light by one has a carrier's own in it, and a carrier's own is the carrier's own business. It is not entered anywhere and it is not seen by anybody, and the count of what comes back light is therefore not a count of what is sitting in a room. It is very close to one and wrong in a direction she can name and cannot put a figure to.
+
+The error runs one way and she can say which way, and no figure for it has come to her in about four years. Being wrong in a known direction is worse than being wrong without one, because it means knowing what you are leaving out and going on carrying the number anyway.
 
 She has been wrong in her own head for about four years and she has found it out in about four minutes this week, and **there is no form in this empire that will take a number a woman counted for herself**, and there is no column in this building it could go in and there is not going to be one, and she is not going to hand the figure to anybody in a state she knows to be wrong. **A number in a book is a column, and a column wants a heading, and a heading over that figure is a heading over about nine hundred rooms, and about nine hundred is a class, and a class is a heading.** She worked that out in about four minutes in the second week of the eleventh month of last year and has not moved from it since.
 
@@ -39,6 +43,8 @@ He is in that building twice in a season on his own feet, about nine miles, and 
 **A question put in that building is a question put into a record, and being asked is being served, and being served is a party**, and a party is the only person who can be told what a thing is going to be used for.
 
 There is no form anywhere in this empire for serving a person with a question, let alone with that one, and the three questions stay where they are, and nobody in that building is going to ask her where.
+
+The three questions have been in her head about as long as the figure has been going up, and both of them have gone nowhere at all ever since. She could say all three out loud in about nine seconds and there is nobody in the place she could say them to, and the asking is the part nobody here can do.
 
 She is the only other person in this matter who knows what he said at the rail, because she was in the building on the day of it, and there is not one form anywhere in this empire that will let anybody ask her what he said, and nobody is going to.
 
@@ -57,6 +63,8 @@ The carrier went down the passage and the cold came up after her and the rail st
 ---
 
 The number in her head will be a little higher by the time she stops doing this, which is a thing she has worked out she will do, and she has not written it down and is not going to and there is nobody she is going to hand it to.
+
+She is the youngest of three clerks in the building and the only one who has ever been the only one in a room. About four years of walking into a cold passage at about the third hour with nothing to do but look at a rack, and it has made her very good at looking, and nobody has ever asked what she is good at.
 
 The pane is still out of the window at the bottom of the passage and has been for about four years, and nobody has asked her about the pane either.
 

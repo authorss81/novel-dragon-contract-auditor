@@ -12,6 +12,8 @@ This is the fourth day of the third week of the tenth month of the year after th
 
 The man who keeps the books of the Company four hundred yards up that same lane did not come up it. Nobody brought a word from him. He has wanted the second half of a sentence of hers since the third month of the year after, and the day he asks is the day she stops saying the half she has got, and he has not asked.
 
+The bench runs the length of the room and past it, about nine men sit along it, and it has never been shortened. She has watched it being sat on every working morning for four years and has never once sat down on it herself.
+
 ---
 
 The chain man got up off the bench at about the fifth hour.
@@ -21,6 +23,8 @@ He is about fifty-five and the chain is on him and it has been on him for years,
 **He is the only person on that bank that findability does not work on.** He has known that for about four years and he has never once used it.
 
 This morning he went down the lane to the gate.
+
+He came back and sat down, the chain went over the side and hung there, and nobody in the bay said one word about it. She has gone over the walk to the gate and back in her own head four times since and got nowhere with it.
 
 ---
 
@@ -40,6 +44,8 @@ At the back of that bay the two of seventeen are where they have been for weeks,
 
 The other one is seventeen and nobody in this empire has ever put a word to her about any of it, and there is no paper anywhere that asks a person of seventeen whether she would rather not, and so there is no answer on the record anywhere, and no answer on the record is not the same as no.
 
+Nobody moved them forward and nobody is going to. Four weeks of the two of them standing at the back is four weeks of nothing at all happening, and it is the ordinary condition of a bench, a lamp and a wall, and not anybody's decision.
+
 Nobody moved them to the front of that bay and nobody is going to. The bay has had room at the back for two for weeks, and about nine men are in the front of it, and the two of them are at the back, and that is where they are.
 
 ---
@@ -53,6 +59,8 @@ She measured a length of wall at about the sixth hour for a man who wanted it me
 ---
 
 The count of the second gang came up the lane on a slip of paper with a foreman's mark at the top of it and no heading over it, and it is a count of men and hours and not a count of anybody, and the number in it was entered in a hand that does not vary by a man who is not in that lane and has never been in it.
+
+A slip came up the lane with a foreman's mark on it and nothing set over the mark, and a man who has never set foot in the lane wrote a number on it in a hand with no waver in it at all. Rooms get counted on in a morning out of slips like it, and the number of them in a year is about nine hundred.
 
 Putting a man into a class is a thing a person does on paper and no paper in this empire lets him be taken out of it again, and that is the reason about nine hundred rooms a year can be counted on in a morning and not one person standing in any one of them can, and the two of those are one arrangement and have been since before the man with the chain came to that bank.
 

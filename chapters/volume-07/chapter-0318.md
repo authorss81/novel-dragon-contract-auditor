@@ -12,6 +12,8 @@ This is the fourth day of the fourth week of the fourth month of the year after 
 
 There is nothing over the box.
 
+A box under the counter holds about four hundred blanks, bought and never filled in, and every one to leave the building leaves unfilled. About nine hundred leave in a year and none has ever come back with anything written on it.
+
 There is no number on it and there is no day on it and there is no name on it and there is not one line of writing of any kind over about four hundred bought and unfilled blanks, and there has been nothing over it for eleven years, and about nine hundred of them a year go out of this building and every one of them goes out unfilled.
 
 **And a blank is the only piece of paper in this empire that no officer can hold against anybody.**
@@ -36,6 +38,8 @@ She said the shape of it first and then she said the thing, and the thing was tw
 
 She put her hand flat on the counter over the box without noticing she had done it, which is a thing her hands do.
 
+Her hands do it without her, and she has never once caught herself at it and has never once been asked about it, and the counter has been under her hand for eleven years and she could find the box in the dark.
+
 "This is the proof and it has been under my own counter for eleven years. **There is no form in this empire that makes a column with a heading over it a person instead of a machine.** This is the only thing in this room with nothing over it, and it is a person, and there are about four hundred of them."
 
 A man of about thirty-four came up the flight at that hour and wanted to know what it would cost to have a page of a thing copied, and put his hand on his own coat pocket before he had finished asking.
@@ -47,6 +51,8 @@ He counted it out of his own hand. She did not ask what the page was a copy of, 
 ---
 
 "A blank is the nearest thing to a post anybody has built in this empire," she said, "**and it is not a post, and it will not become one.** The only thing that would turn it into a post is a person asking for it, and a person asking for it is told no by a person, because it would stop on the day the first person with a form wanted it. **I have kept it eleven years with no form anywhere that lets me keep it, and nobody has ever asked me to account for it,** and the not asking is the whole of what has happened to it."
+
+Four people came up the flight and not one of them was asked anything by anybody, and she put the whole of it into the room, and the room took it the way a room takes a thing said in it, which is to say without moving.
 
 Four things are written on that board and three of them have been there since before she came. **The fourth is in a hand that is not one of the hands in this room,** and it has been on that wall longer than she has, and she and two other clerks have stood in front of it together on three occasions in eleven years and arrived at nothing. There is no form in this empire that would let a clerk say out loud that about nine hundred rooms are about nine hundred classes and be thanked for it, and she is not going to be thanked for the rest of it either.
 
@@ -63,6 +69,8 @@ Then she said the other half of it and she said it to the room, and this is the 
 ---
 
 Nobody thanked her.
+
+Not one person in eleven years has thanked her for saying the whole of it out loud, and she is thirty-four, and nobody in the room was going to, and nothing anywhere in this empire obliges anybody to.
 
 Nobody in that room was going to, and there is not one form anywhere in this empire that obliges anybody to. She is thirty-four and has been at that counter eleven years and has said the whole of this about nine hundred times, and was thanked for it a number of times that is nil, and she has not asked anybody why, and there is no form in this empire that would let her.
 

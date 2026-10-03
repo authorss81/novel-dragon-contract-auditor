@@ -10,9 +10,13 @@ This is the second day of the first week of the eighth month of the year after t
 
 He had told himself he would come to the end of the lane and no further, and he got to about a hundred yards of the end of it and stopped there.
 
+Rain off a roof goes sideways before it goes down and the flags of the lane take it in about four seconds. He got to within a hundred yards of it, stopped, and the stopping took no longer than the deciding did.
+
 The gate had been shut behind him at about the fourth hour by a man of about forty who does not argue, and the shut gate was not what stopped him. Nothing that happened at that gate stopped him. **He stopped on his own account, the way a man stops reading a page he has read twice.**
 
 From where he stood he could see into the bay, because the door was open. He could see the length of the bench and the lamp hanging above the middle of it and the far wall of the place, and he could see the light on the flags going in and out with the weather, and he did not go the hundred yards.
+
+From where he stood the front of the bay was open to him and about four minutes of it went past standing in the rain. A bench, a lamp, a cross in chalk the colour of the wall it is on, and about nine men somewhere inside out of the weather. He read nothing and counted nothing and none of it was any use.
 
 ---
 
@@ -31,6 +35,8 @@ One of them is a girl and one of them is a reader. The reader is paid forty-five
 **Neither of them was spoken to that morning, and neither of them was thanked, and neither of them was sent for, and neither of them is going to start.**
 
 He did not go in and he did not stand at the door. He looked at the bay for about four minutes and then he went back down the lane at the speed he had come up it. He did not look at the two of them at the back of it either, because from a hundred yards he could not have told which of two people was which, and because there is no form for letting a man who has never met anybody into a bay to find out who is in it.
+
+He kept his hands in his coat, looked for about four minutes, and went back down the way he had come. He kept his eyes off the pair at the back as well, and not out of modesty; a hundred yards off he could not have told the two of them apart.
 
 ---
 
@@ -65,6 +71,8 @@ Nobody has ever asked the four what they would like to be asked. Nobody has ever
 ---
 
 He thought about going in three separate times over about four minutes and he did it none of the three times, and that is the whole of what he did on that lane, and it took less time than a sum.
+
+Three times in about four minutes he thought about going in and he did none of them. About seven minutes of walking would have done the rest, and not one gate stands anywhere between where he stood and the door of it, and he knows the length of it to a pace because he has counted it.
 
 Then he stood in the rain at the bottom end of it for a while, and then he went home, and he wrote out one sum before the light went for a man who cannot pay him until the spring, and it came to eleven shillings and it took about nine minutes, and that man will get it in the spring and will not know it was done in a room where nothing was lit.
 

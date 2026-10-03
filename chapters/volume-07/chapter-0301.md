@@ -20,6 +20,8 @@ A practice, he has worked out, is a count of things done and not of people.
 
 A count that counted people would be six, and a practice with one person in it is stopped by that person, and a practice with two people in it is stopped by nobody at all, and that is the whole of the arithmetic and it took him about four minutes the first time he did it and it has not needed doing since.
 
+The shop goes across with its shutter at about the fifth hour and he hears the whole of it through the boards, and by the time the noise has finished he has the thing back in the order he keeps it in. He keeps it in order because a list out of order is a thing you have to think about, and there is nobody he could think about it with.
+
 ---
 
 He started at the top of the list because the top of the list is the two that are in boxes, and they are still in them.
@@ -78,6 +80,8 @@ He knows a fact about the other one that he did not see and that he was told at 
 
 It was the whole of the work of that day, and the man who sent it will get it in the spring and will not know that it was done in a room where nothing was lit and by a man who went through the whole of it in his head in an afternoon and did not once put any of them to anybody.
 
+A sum goes in his head twice before it goes on the paper, and the twice is not caution. He has never been able to hold a long column in his head and trust it, has never said so to anybody, and has about nine minutes of work in a week in which nobody would have noticed if he had.
+
 Then the ordinary part of the day, which is that the woman of about forty came up the four steps at about the fifth hour with a scuttle and lit the lamp early, as she does twice a week, and she is not in this matter. **There is no form in this empire that would let him ask her whether she minds being told a thing before she is told it**, and he did not ask her and he is not going to.
 
 He went down at about the sixth hour to a house with a door on it, and his wife was at the bottom of the steps of that house, and she did not ask him how the week had gone, and she said out loud some weeks ago that she is not going to, and he did not ask her to change her mind about that either.
@@ -86,7 +90,11 @@ There is a woman of about thirty-five next door who has known him about eleven y
 
 The four days a season he is on somebody's list are in about the sixth week and they are stone and cutting and a man who cannot read the figures, and this is not one of them and nobody has been at this door about them.
 
+Stone is what the four days are. He has been at the work about eleven years and can read a figure off a cut face the way another man reads a word, and there is a man on the same list who can read neither. No one has ever set the pair of them in a single sentence, and eleven years of that is enough to be getting up for.
+
 There is a table and a chair and a wall with a nail in it and that is the whole of what a man of about thirty-four with a fair hand owns in this empire, and none of it is findable except by the woman who carries the scuttle.
+
+Winter gets into the plaster up there and stays in it, and the smell under the floorboards comes up with it. He has never knocked on the floor to ask anybody below about any of this, and nobody has come up about it, and the pair of them have managed the arrangement across a whole lease without either meaning to.
 
 ---
 

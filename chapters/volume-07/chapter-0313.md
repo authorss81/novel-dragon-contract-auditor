@@ -14,6 +14,8 @@ This is the fourth day of the third week of the third month of the year after th
 
 A woman of about thirty-two came up the stair at about that hour about a letter and said, "Is it kept here?"
 
+The same four items stand written on the board behind her, and the fourth item is the one nobody can account for. Two years of looking at it has not got it any clearer and has not got it any worse, and she has looked at it in every week of the two.
+
 "No, and there is no such thing kept and none of it is told, and that is the way of it here and not a favour to you."
 
 She says that to about nine people a week and it is the truth and it is not a kindness, and a question at a counter about a letter is a question about the letter.
@@ -44,6 +46,8 @@ She said that to the room and then she said the other half of it, which is the h
 
 **The man at the far end went on with the copies and said nothing else, and he is not a person anybody in that room is obliged to answer for anything.** Fourpence a copy is what he is paid and that is the whole of his part in it.
 
+He is at the far end and does the copies for fourpence each, and nine or so come up the stair in a day, and most of them are gone back down it before he has finished one. He has been in the room about a year and has not been spoken to once.
+
 Fourpence a copy, and a person who brings the same figure up that stair twice is charged twice, and nobody has ever been told that twice is a word in a charge.
 
 **There is no form in this empire that has ever been able to put a person in a room and ask that person a thing,** and the reason is the same one that is in the room, and she has never worked out whether that makes her right or only loud, and she has not asked anybody, and there is no form in this empire for asking a person which of those two it is.
@@ -64,6 +68,8 @@ There is a second page with two boxes drawn on it by hand, and the same name is 
 
 There is a third page and it is empty and she is not going to rule a line on it, and **there is no form in this empire that will take a line back out of a page a woman keeps for herself**, so that whatever goes in there stays in there for as long as she is the one holding it.
 
+The third page in her own book has been blank since the day she bought it, and she has looked at it about twice a season, and every time she has put something else on the shelf above it instead.
+
 ---
 
 The undertaking of the fourth of the first month is live and unretired and unamended and has not been exercised.
@@ -79,6 +85,8 @@ The decision about whether she trusts a man's judgment is not made, and it is no
 ---
 
 **She put the lamp out at about the seventh hour, and the board on the wall had the rent on it and nothing else,** and she has not asked the landlord for a second room and is not going to.
+
+She has read the board on the wall more often than she has read anything else in the room, and the lamp went out about an hour before it could be made out at all, and about two years of a wall is what it has been good for.
 
 The four things in the drawer under that counter are where they were. The fourth of the four is the one she has not looked at, and it is not opened, and it is not sent, and the other three have not been either.
 

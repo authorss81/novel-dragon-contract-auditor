@@ -22,6 +22,8 @@ Nobody has asked her anything this week. Nobody has asked her anything this mont
 
 The not answering took her about four seconds and she is not going to be told why by anybody. She has wanted to be asked every working day for as long as she has been on this counter, and **a person who is not asked has not been given a duty, and she has known that since about the seventh month of next year**, and she has never once known that it did not apply to her.
 
+The four seconds are the same four seconds every time and she could do them in the dark. What she cannot do quickly is the rest of the afternoon afterwards, and the rest of the afternoon has been about two years long so far.
+
 About two years have gone on at this counter. She has said the whole of it out loud to about four people and not one of the four was anybody who could do anything about it.
 
 She has said out loud that she would like it written down that she does not expect to be thanked for the price of it, and it has not been written down anywhere except in a room she rents and in her own head, and there is not one form anywhere in this empire that calls for a person to be thanked for anything at all.
@@ -48,6 +50,8 @@ And it is a window, because the line is hers and the person at the top of it is 
 
 She has been looking at that line about twice a season for about a year. She is not going to rule a third line and she is not going to send anything, and it is shut and it is under the table, and **there is no form in this empire that will take a line back out of a book a woman keeps for herself, and a line that cannot be taken back is the one paper in this empire that opens both ways, and nobody has ever stood at the other side of it.**
 
+Twice a season is not often enough to keep a thing in the mind and often enough to know it is still there, and she arrived at it by accident and has not improved on it. Some weeks she does not think of it at all, and then some weeks it arrives in the middle of a sum and she has to finish the sum and put the pen down first.
+
 There is a second page in that book with two boxes drawn on it by hand, and the same name is written in both of them, and she is not going to say in this room what the two boxes are, and nobody has asked her, and if nobody has asked her then that is the end of it.
 
 ---
@@ -68,7 +72,11 @@ There is a table in it and a lamp on the table and a board on the wall with the 
 
 There is a thing in the drawer under the counter and there are three others with it, and the fourth of the four is the one she has not looked at, and it is not opened, and it is not sent, and it has not been opened, and the other three have not either, and none of the four is going to be looked at by anybody in this month.
 
+The end she stands at has the drawer under it, and the drawer has been under the counter since before she came, and the four things in it have been in it since before she came. Nobody has ever said anything to her about the drawer and she has never said anything about it either, and the not saying has gone on for about two years.
+
 She put the lamp out at about the sixth hour and the board on the wall had the rent on it and nothing else.
+
+The lamp goes out and the board carries the rent and not one other mark, and she has looked at the board more often than she has looked out of the window. There is a window and it faces the back of another house, and she has never got as far as being able to say what she sees in it.
 
 The man who came up that stair twelve weeks ago is about nine miles off and has not come back up it and is not going to, and there is no form in this empire that would let her ask him whether he meant it, and she is not going to ask him.
 
