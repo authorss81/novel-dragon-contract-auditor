@@ -12,7 +12,7 @@ A person who cannot be read cannot be asked in writing. A person who cannot be a
 
 Two people said that out loud in ten weeks. They are about four hundred and thirty miles apart, they have never met, and neither of them knows the other exists. One said it to an empty lane off a road at the north end of a town. The other said it to a woman in a counting room at the back of a dye end, in about four minutes, and told her nothing at all about her own wage.
 
-Ten weeks is not long enough for two people who have never met to arrive at the same thing by accident, and it is not long enough for them to have heard of each other either, so whatever both of them did in those ten weeks it was arrived at twice over in two rooms with a great deal of nothing in between them and no way across.
+Ten weeks is not long enough for two people who have never met to arrive at the same thing by accident, and it is not long enough for them to have heard of each other either, and neither of them has done anything about it in the ten weeks since, and there was nothing either of them could have done about it, and nobody has called it a fault in the rule or in the two of them.
 
 Neither of them said it to the other, and nothing in this empire would let either of them be told the other had said it, and that is the last shape the finding takes: it takes it in two places at once and joins them nowhere.
 

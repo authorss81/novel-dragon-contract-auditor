@@ -14,7 +14,7 @@ This is the fourth day of the third week of the sixth month of the year after th
 
 She counts the racks, and she counts them in her head.
 
-The third hour is the only hour any of it happens in and she knows it to the quarter without a clock, and she has been at this end of the passage long enough for her body to do it whether she is attending to it or not, and on a morning when a figure has come out wrong she has still got up and gone back down again, because stopping would be a thing she had decided and she has not decided anything in about four years.
+The third hour is the only hour any of it happens in and she has been at this end of the passage long enough for her body to do it whether she is attending to it or not, and on a morning when a rack has come back wrong she still counts it exactly as she counted it the day before, and nobody in the building has ever asked her whether the counting is right.
 
 Every working day, at about the third hour, a rack comes off a carrier's hip and is set down on the shelf by the window and nobody touches it, and while it is going she adds it to the other ones. The racks that go down that passage and come back light by one are what she is counting. **She has been at it for about four years and has never once put a hand on a rack.** Nobody knows that she does it at all, and there is no form in this empire that would make a person ask her whether she does.
 

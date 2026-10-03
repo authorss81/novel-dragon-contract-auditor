@@ -12,7 +12,7 @@ A carrier came up the passage at about the fourth hour with a rack on her hip an
 
 The four went in correctly in about four minutes in a hand that does not vary. **That is the whole of what was written down in that room this afternoon**, and nothing else was written down in it, and nobody has asked her about the rest of it and nobody is going to.
 
-One line is all a list carries in this building, and the line says what a carrier is paid and not what a carrier is carrying, and a column for the other half of it was never ruled on any of them, and four things went onto the shelf this afternoon without touching any of it, and nobody in the room has ever known the carrier is on it at all.
+One line is all a list carries in this building, and the line says what a carrier is paid and not what a carrier is carrying, and a column for the other half of it was never ruled on any of them, and four things went onto the shelf this afternoon without touching any of it, and nobody has ever asked the woman of about fifty-five what the line does not say.
 
 ---
 
@@ -42,7 +42,7 @@ A man of sixty-one has stood on the wrong side of that rail three times in ninet
 
 She does not go up that passage on her own time. It is about four hundred yards and the flags of it come up cold underfoot in every month of the year and there is no fire at either end of it, and she has walked it every working day for about four years because the racks come down it and go back up it again, and that is the whole of why she has walked it and the whole of what walking it has been for.
 
-What the racks are is four hundred yards of somebody else's morning going past her door twice a day and stopping, and the stopping is the whole of what she gets of it, and she has never once gone up to the far end of the flags on her own account to see whether anything comes down the other side, because nothing has ever come down the other side in nineteen years and there is no reason it should start.
+What the racks are is four hundred yards of somebody else's morning going past her door and stopping, and the stopping is the whole of what she gets of it, and there have been three of the visits at the far end in nineteen years and she was in her own room for every one of them, and she has never once gone up to look at what was left afterwards.
 
 And she is not going to be told whether he is coming back to that room or not, and she is not going to go and look, and there is nothing at this end of the building that would let her be told either.
 
