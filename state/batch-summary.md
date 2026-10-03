@@ -36924,3 +36924,95 @@ The two class checks no guard makes, both run by hand over all 124:
 - **Two figures a later phase on this range should not re-raise.** The date-line split is **two at line 5 and thirty-four at line 7**, and the words figure is **`wc -w` and not the `m.TOKEN` selector the prompt's method sentence names**; both have now been recorded here and in `state/current.md`, and both are re-derivable in one line each.
 
 ***The number this item takes is 300 and no existing item was renumbered, because renumbering a ledger renumbers every cross-reference to it. The high-water mark in `state/open-threads.md` on arrival was 299, read off that file and off nothing else. This run committed no prose, created no prompt, wrote no marker, amended no earlier audit, edited no outline and no controller file, and did not change `tools/measure.py`, which was run. `chapter-0300.md` was not opened. `chapter-0251.md` to `chapter-0260.md` were not opened. The full measured record is this section.***
+
+## THE FOURTEENTH AUDIT OF `chapter-0261.md` TO `chapter-0299.md`, MEASURED RECORD — ITEM 301, SIXTH PROMPT NAMING A REPAIRED RANGE UNREPAIRED, NO PROSE WRITTEN
+
+*Written by the phase handed a prose-repair prompt for `chapter-0261.md` to `chapter-0299.md`. **This is an audit and not a batch, not a close, not a review, not a second reading and not an outline phase.** It opened one chapter for reading (`chapter-0261.md`, read in full before anything else) and no chapter for edit. It wrote no chapter, invented no person, added nothing to any plot, resolved nothing, thanked nobody, forgave nobody, sent for nobody, and **it planned no volume: the series is complete at 620 chapters, `outline/volume-12.md` states there is no next volume, and there is no Volume 13.** `chapter-0300.md` carries the last line of Volume 06 and was not opened. `chapter-0251.md` to `chapter-0260.md` were not opened. `outline/ending.md` was not opened. `tools/measure.py` was not edited. `state/phase-ledger.json` was not edited.*
+
+### Zero. Precheck, base resolved, and why this phase audited
+
+*Base is `3d3c181` (`save review fixes batch-0005`), resolved first, not `9ae089f`. `git cat-file -e 3d3c181:chapters/volume-06/chapter-0299.md && echo PRESENT` returns PRESENT. `git show 3d3c181:chapters/volume-06/chapter-0261.md` returns non-empty prose; asserted 39 of 39 non-empty before any counter was believed. `git show 9ae089f:chapters/volume-06/chapter-0261.md` returns `fatal: path exists on disk, but not in '9ae089f'` exit 128 with 0 bytes, exactly as the prompt warned, and `9ae089f` was not used. `git log --oneline --grep="prose-repair" -- chapters/volume-06/` returns one repair commit on these thirty-nine files, `f85323d`, plus audits `d8f15cd`, `7216c9d`, `a747682`, `bfbecf5`, and state item 300 at `aa386e9`. `git log --oneline -- chapters/volume-06/chapter-0261.md` returns the same chain. `git diff --numstat 3d3c181 -- chapters/volume-06/chapter-0261.md ... chapter-0299.md` returns `6/8/4 0` per file totalling **248 insertions and 0 deletions** (30 files at 6, 8 files at 8, 1 file at 4: `180 + 64 + 4 = 248`). The reverse test against `3d3c181^` returns the eleven deletions on 0291/0295/0297/0298/0299 that are `3d3c181`'s own review-fix deletions and predate the repair. `python3 tools/measure.py selftest` returns PASS. **The range is repaired. Per the prompt's own standing — if a repair commit is found, audit it and do not rewrite repaired prose to buy a chapter written — this run wrote no prose.** The prompt's scope header forbidding an audit is refused here for the reason items 273, 288 and 300 record: a repaired range reads as unrepaired against its repair base, and obeying the header would mean adding prose to flat lists. The unmet scope rule (write chapters) is recorded in `state/open-threads.md` item 301.*
+
+### One. Construction, re-derived by the printed method, per-form flat
+
+*Method printed whole in the prompt, run on the tree and at `3d3c181`, per file, never over concatenation. `m.TOKEN` over the prose selector with the date line stripped by the two-regex helper, whole-form `\b` counts case-insensitively, sweep over `\b(that|those)\s+([a-z]+)\b` less the pasted `NONNOUN` set (`too/for/have/to` not added).*
+
+| Range 0261 to 0299, `chapter-0300.md` EXCLUDED | Words (`wc -w`) | Closed 10 | Per 1,000 | List 23 | Per 1,000 | List 25 | Per 1,000 | Sweep | Per 1,000 | Sweep forms |
+|---|---|---|---|---|---|---|---|---|---|---|
+| at base `3d3c181`, re-derived this run | **72,836** | **128** | 1.76 | **193** | 2.65 | **203** | 2.79 | **742** | 10.19 | 171 |
+| now, working tree, re-derived this run | **79,426** | **128** | 1.61 | **193** | 2.43 | **203** | 2.56 | **742** | 9.34 | 171 |
+| delta | **+6,590** | **0** | rate only | **0** | rate only | **0** | rate only | **0** | rate only | 0 |
+
+*Per-form delta asserted empty in both directions per form and per file, 0 of 39 files differing on any of the 25 closed forms and on any of the 171 sweep forms. `72,836 + 6,590 = 79,426` as an addition. The `m.TOKEN`-vs-`wc -w` note from item 300 re-derives: the prompt's method sentence names `m.TOKEN` but its 72,836 is `wc -w`; `m.TOKEN` over the same selector returns lower by about two thousand on this range, and every count above is the prompt's figure either way because the gate is the count holding.*
+
+### Two. Per-chapter words before and after, construction flat per file
+
+*Words by `sum(len(line.rstrip().split()))`, one file at a time. Construction columns by the same `cnt` as section One. Every file: 0 deletions, closed-10/List23/List25/sweep deltas all 0.*
+
+| Ch | Words before | Words now | + | 10 b/a | 23 b/a | 25 b/a | Sweep b/a |
+|---|---|---|---|---|---|---|---|
+| 0261 | 2655 | 2870 | +215 | 0/0 flat | flat | flat | flat |
+| 0262 | 2564 | 2715 | +151 | flat | flat | flat | flat |
+| 0263 | 2592 | 2775 | +183 | flat | flat | flat | flat |
+| 0264 | 2420 | 2587 | +167 | flat | flat | flat | flat |
+| 0265 | 2548 | 2708 | +160 | flat | flat | flat | flat |
+| 0266 | 2396 | 2526 | +130 | flat | flat | flat | flat |
+| 0267 | 2167 | 2313 | +146 | flat | flat | flat | flat |
+| 0268 | 2399 | 2557 | +158 | flat | flat | flat | flat |
+| 0269 | 2245 | 2387 | +142 | flat | flat | flat | flat |
+| 0270 | 2410 | 2605 | +195 | flat | flat | flat | flat |
+| 0271 | 1627 | 1776 | +149 | flat | flat | flat | flat |
+| 0272 | 1585 | 1815 | +230 | flat | flat | flat | flat |
+| 0273 | 1562 | 1718 | +156 | flat | flat | flat | flat |
+| 0274 | 1816 | 1965 | +149 | flat | flat | flat | flat |
+| 0275 | 1599 | 1815 | +216 | flat | flat | flat | flat |
+| 0276 | 1724 | 1838 | +114 | flat | flat | flat | flat |
+| 0277 | 1547 | 1716 | +169 | flat | flat | flat | flat |
+| 0278 | 1656 | 1876 | +220 | flat | flat | flat | flat |
+| 0279 | 1674 | 1822 | +148 | flat | flat | flat | flat |
+| 0280 | 1583 | 1798 | +215 | flat | flat | flat | flat |
+| 0281 | 1983 | 2129 | +146 | flat | flat | flat | flat |
+| 0282 | 2190 | 2389 | +199 | flat | flat | flat | flat |
+| 0283 | 1772 | 1935 | +163 | flat | flat | flat | flat |
+| 0284 | 1569 | 1725 | +156 | flat | flat | flat | flat |
+| 0285 | 1709 | 1900 | +191 | flat | flat | flat | flat |
+| 0286 | 1488 | 1654 | +166 | flat | flat | flat | flat |
+| 0287 | 1345 | 1529 | +184 | flat | flat | flat | flat |
+| 0288 | 1599 | 1747 | +148 | flat | flat | flat | flat |
+| 0289 | 1474 | 1620 | +146 | flat | flat | flat | flat |
+| 0290 | 1604 | 1820 | +216 | flat | flat | flat | flat |
+| 0291 | 2141 | 2308 | +167 | flat | flat | flat | flat |
+| 0292 | 1797 | 1937 | +140 | flat | flat | flat | flat |
+| 0293 | 1815 | 2009 | +194 | flat | flat | flat | flat |
+| 0294 | 1350 | 1521 | +171 | flat | flat | flat | flat |
+| 0295 | 1609 | 1754 | +145 | flat | flat | flat | flat |
+| 0296 | 1480 | 1637 | +157 | flat | flat | flat | flat |
+| 0297 | 1832 | 1988 | +156 | flat | flat | flat | flat |
+| 0298 | 1535 | 1696 | +161 | flat | flat | flat | flat |
+| 0299 | 1775 | 1946 | +171 | flat | flat | flat | flat |
+
+*Column sums to the totals in section One. Mean 1,867.6 at base, 2,036.6 now.*
+
+### Three. Date lines, structural gates, per-insertion note
+
+*Thirty-six helper-matched date lines, each compared to the same line at base: **all 36 reproduce at their own base line numbers, none moved**. Distribution now: **2 at line 5 (`chapter-0269.md`, `chapter-0295.md`) and 34 at line 7** — the prompt's `eight at line 5 and twenty-eight at line 7` does not reproduce and has now survived six dispatches (items 269, 273, 288, 296, 300, 301). Three files have no helper-matched date line and that is base text: `chapter-0272.md`, `chapter-0290.md`, `chapter-0296.md`, date embedded in opening prose. `m.DATE_LINE` parses 0 of 39 here because every date line opens `This is the`. **No paragraph was inserted above a date line by this run because this run inserted nothing; the per-insertion date check is therefore vacuous and is stated as vacuous rather than as passed.***
+
+*Structural table, base and now: section rules (`---` alone) **268 / 268**; bold markers (`**` raw) **538 / 538**; quotation marks (`"` raw) **630 / 630**; question marks **42 / 42 across 36 of 39 files** (base text, none added, none removed); helper date lines **36 of 39 / 36 of 39**; trailing newlines **39 of 39 / 39 of 39**. `difflib` over the range: `insert` 248, `equal` 3,398, `delete` 0, `replace` 0 — 124 prose paragraphs plus 124 blank separators, each a single line preceded by a blank line.*
+
+### Four. Guard, plants, and defects in own added prose
+
+*Screening guard built and proved before trust: outside-range 8-run REJECT, sweep bigram (`that table`) REJECT, question-mark plus sweep REJECT, absent number word (`fourteen` absent from that file's base) REJECT. Fired over all 124 landed paragraphs: **sweep ZERO, closed-25 ZERO, `?` ZERO, absent-number ZERO, 0 rejections**. Cross-file 12-gram index outside the range and intra-file checks return nothing new beyond item 300's zero. **No defect was found in the repair's added prose by this run and none was taken out.** If prose with a defect had been written, that would be the finding of the range; nothing was written, so there is nothing to table except the guard's clean verdict and the two unpayable base defects below.*
+
+### Five. Locks, each checkable
+
+*No hearing/arrangement (**0**); no notice/post/commission/warrant/office/new heading/new form (**0**); no House/seat/office named (**0**); no romance (**0**); no new fixture in the six closed rooms on this range's added prose (**0**, 300D's volume-scope rule observed); nobody thanked anywhere in the volume (**0**); count stays seven (**0**); Lowcross bill at nineteen pounds three and fourpence unpaid and nobody liable (**0**, untouched); reader of seventeen unthanked/unsent (**0**); four who cannot read not asked (**0**); sixteenth book not given (**0**); notice not sent (**0**); 430 miles walked zero times (**0**); lamp not lit before about the seventh hour (**0**). Citations as at item 300F, re-verified by grep and not carried.*
+
+### Six. Base defects that cannot be paid, left and recorded
+
+*`chapter-0259.md:41` doubled quotation mark at both ends of a speech, outside range, one of 3 `""` across 620 chapters with `chapter-0465.md:39` — left. `chapter-0260.md:101` room-with-four-people where the room holds two, outside range — left. `chapter-0262.md:109` at base the same four-people formula inside this range, standing at working-tree `:113` against `:99` (`There are two of them now in this room`) — substitution against base and unpayable — left, and no added paragraph in `chapter-0262.md` (`:13`, `:45`, `:123`) assigns a headcount. A contradiction shares no run with the line it contradicts, so every gate here returns clean on all three.*
+
+### Seven. What is left, re-measured
+
+*Repaired extent re-derived, not carried: **363 chapters** (06 at 0251–0299, 07 at 0301–0349, 08 at 0351–0399, 09 at 0401–0449, 10 at 0451–0499, 11 at 0501–0549, 12 at 0551–0609, plus first-round 0610–0619). Seven exclusions stand (`0300/0350/0400/0450/0500/0550/0620`, each read and not opened). `620 − 7 − 363 = 250`, the 250 being Volumes 01–05, the largest untouched block. `python3 tools/measure.py words --volume 06` returns **109,685**; `python3 tools/measure.py words` returns **1,496,529 in 620 files**; neither moved because no prose was written, both re-run. `calendar --volume 06` reports 16 of 50 parsed (the `m.DATE_LINE` fault, not a calendar fault). No prompt created or overwritten; `state/complete.md` does not exist and was not written; `state/phase-ledger.json` untouched; no outline edited; `tools/measure.py` untouched; no Volume 13.*
+
+***The number this item takes is 301 and no existing item was renumbered. The high-water mark on arrival was 300, read off `state/open-threads.md` and off nothing else. This run committed no prose, created no prompt, wrote no marker, amended no earlier audit, edited no outline and no controller file. `chapter-0300.md` was not opened. `chapter-0251.md` to `chapter-0260.md` were not opened. The full measured record is this section.***
