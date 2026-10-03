@@ -58,6 +58,10 @@ He put it on the floor against the wall that had nothing on it, on its side, the
 
 He put the key on the table, which is the only thing on the table in that room and has been for as long as that room has been let by the week, and he went back down two flights and out and about four miles, and nobody saw him go by and nobody saw him arrive and he was not thanked at either end of it.
 
+Stairs took him down without pause. Boots found each tread cleanly in the dimness. Air below hung cool and still.
+
+Yard lay quiet around him as he crossed it. No voice followed from above. Road opened ahead, empty and clear, and he took it.
+
 ---
 
 The piece of paper with nothing printed on it that he put fourpence into the case for is still on him and he has not taken it out and he is not going to, and he is not going to fill it in, and nobody in that building has been told any of that, and nobody in it could be shown it either.

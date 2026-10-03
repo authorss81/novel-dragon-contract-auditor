@@ -62,6 +62,10 @@ He looked along the shelves for about as long as a cart takes to load, and then 
 
 Outside, the lane went on with its morning traffic. Carts passed at intervals and none of them stopped.
 
+Light lay in a bar across the floor and did not move. Dust hung inside it, then settled again. Shelves ran along both sides, silent and even.
+
+Room held quiet after steps faded up the lane. Air settled back into corners. Shelves stood silent and gave back nothing.
+
 ---
 
 She put her hand flat on the sixteenth volume when they had gone and did not open it, and the space on the back of that paper in that pocket is still clean, and she is not going up this river this season.

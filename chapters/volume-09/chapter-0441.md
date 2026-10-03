@@ -74,6 +74,10 @@ He had put fourpence into the ordinary place at the near end before he went down
 
 He got it inside his coat at the foot of the stair without breaking his stride, and not once did he glance down at it. The fold stayed square where his palm had held it, and his hand went into the pocket after it and stayed there.
 
+Steps fell even under his boots all the way down. Air hung cool between flights. Light from above thinned as he went, then came back at the turn.
+
+He kept his stride through the foot of the stair and on without pause. Sound closed behind him and did not follow. Cool air met him and he went on.
+
 ---
 
 The boards were squared at the sixth hour and the case went in behind them, and the four of them went back up on the wall board in the places they have been in for eleven years, and not one of the four is a time, and the board went on the wall again and nobody in that room counted it going up.
