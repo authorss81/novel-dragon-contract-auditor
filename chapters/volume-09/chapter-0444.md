@@ -54,10 +54,6 @@ Nobody in this empire can be written into a record as a man who stood at an open
 
 His boots found the same worn line up the middle of the lane. The sound of him thinned as he went and did not carry as far as he did.
 
-Lamp burned steady on its bracket overhead. Shadows lay hard along the bench. Men held their places and let the hour run without moving.
-
-Air inside stayed close from bodies standing near. Chain hung slack across the front and never moved. Nothing shifted until the hour turned.
-
 ---
 
 The form went back on the board, and it will be back on it next week on the second working day, and it has stood on that board two days a week for longer than anybody in that lane could put a date to.

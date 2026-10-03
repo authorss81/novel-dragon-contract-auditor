@@ -13149,9 +13149,11 @@ Range-wide, nine files, 12,095 words.
 | closed list of ten | **61** | 61 | 0 | 7 | 5.04 instances per 1,000 words | FLAT |
 | list of 23 | **86** | 86 | 0 | 13 | 7.11 instances per 1,000 words | FLAT |
 | list of 25 | **101** | 101 | 0 | 15 | 8.35 instances per 1,000 words | FLAT |
-| sweep (every `that`/`those` bigram) | **319** | 319 | 0 | 105 | 26.37 instances per 1,000 words | FLAT |
+| sweep (every `that`/`these` bigram) | **319** | 319 | 0 | 105 | 26.37 instances per 1,000 words | FLAT |
 
 Flat per file and range-wide, on all four, with the per-form delta empty in both directions.
+
+**RE-VERIFIED AT ITEM 236, AND THE FIGURE IS RIGHT, after this pass's own instrument said it was wrong twice.** The sweep row is **not** computed on `m.prose_lines`. It is computed on **method 3's body — the raw file with lines matching `DATE_EITHER` or `DATE_THIRD` removed, chapter headings kept — with the `NONNOUN` filter removed**, which is what "every `that`/`those` bigram" in the row label declares. On that method the per-chapter column reproduces **to the digit**: 54 / 39 / 45 / 29 / 35 / 31 / 25 / 31 / 30, summing to **319**, and the union of the nine files' distinct forms is **104** against the 105 the row prints. **This pass first measured the sweep on `m.prose_lines`, per line, and read 54 / 39 / 45 / 29 / 34 / 30 / 25 / 29 / 30 = 315 across 104 forms, and took that for a scope error and was within one edit of correcting a correct record.** It is not. `m.prose_lines` additionally drops chapter headings, and `chapter-0448.md:1` reads *A Sheet Stood Against The Base Of **That Wall***, which is the one instance separating 319 from 315; `chapter-0442.md:9`'s date line carries *it is the last week of **that year*** and is out of the body under method 3 as it is out under `m.prose_lines`, so the date-line term cancels and only the heading term survives. **The single figure that does not reconcile is the form count, 104 against 105, and it is one form; the concatenated-stream method supplies it by producing a bigram that spans a join between two chapters' token streams and exists in no single file, which this repository has already recorded once at section Six of the 0351 to 0360 record.** The finding is the transfer and not the number: **the sweep's method is not the one `prose_lines` prints, and a phase that re-derives this row with `prose_lines` will read 315 and think the range moved by four** — which is item 176's review finding reproduced from the other side, and it is already written down at line 5544 of this file for a different range and a different list.
 
 **The range's own added prose now holds ZERO instances of the sweep in 832 words, which is why the sweep is flat.** It held one before this pass and it was `that did` at `chapter-0441.md:75`, in *not once in all of that did he glance down at it* — the exact shape item 189 names, a verb opener rather than a noun. It is out.
 
@@ -13169,7 +13171,7 @@ Flat per file and range-wide, on all four, with the per-form delta empty in both
 | 0448 | 1,406 | 8 | 10 | 10 | 31 | ten +0, 23 +0, 25 +0, sweep +0 |
 | 0449 | 1,314 | 9 | 9 | 9 | 30 | ten +0, 23 +0, 25 +0, sweep +0 |
 
-**The sum of the per-chapter sweep column is 319. The range headline is 319. Difference to explain: 0.**
+**The sum of the per-chapter sweep column is 319. The range headline is 319. Difference to explain: 0.** *(Re-verified at item 236 to the digit, on method 3's body with the `NONNOUN` filter removed and chapter headings kept, which is the method this row is on and not `m.prose_lines`. On `m.prose_lines` the column reads 54 / 39 / 45 / 29 / 34 / 30 / 25 / 29 / 30 = 315 and the difference is `chapter-0448.md:1`'s title. See section Two.)*
 
 ## Three — A FIGURE THE LIVE PROMPT AND ITEM 234 BOTH CARRY ONE TOO HIGH
 
@@ -13246,13 +13248,15 @@ python3 tools/measure.py reprints --window  5 --volume 09  -> date prose 4,006 /
 python3 tools/measure.py lifts --volume 09 --first 441 --last 450 --base 2b015ee --min 6 --show 20
 ```
 
+**The `--last` figure in that command is left as it stands and the BASELINE cell is corrected at item 236 rather than the command, and the reason is that the ten-file selector is older than this section.** `lifts ... --last 450` is the selector in item 221's record, in item 225's, in item 226's, in item 230's, in item 231's and in item 234's, and the `BASELINE 239 / 206 / 113 / 9.88` this section prints reproduces it **to the digit**: run over ten files the command returns `BASELINE 239 prose lines | 206 over six words | 113 over nine words | mean 9.88`, and over the nine files section One defines it returns **`215 prose lines | 185 over six | 104 over nine | mean 9.90`**. **So the cell is not a wrong measurement. It is a correct ten-file measurement standing in a nine-file range, and the two rules in this one section disagree four lines apart** — section One excludes `chapter-0450.md` from every range-wide figure, and the printed command includes it. That disagreement is item 222's finding against the live prompt's *before* table, in this record's own gate table, and it is the third time on this range. **It is invisible in the ADDED row, which is why no gate reported it: `chapter-0450.md` carries no added prose, so ADDED is 30 under either selector and only BASELINE moves.** The earlier items that carry the same ten-file BASELINE are left standing and are corrected forward here rather than rewritten, because a figure that reproduces in its own item is that item's record and this one is not. **The verdict the table exists to carry does not move under either selector**: the added prose's mean is 6.50 against a baseline of 9.88 or of 9.90, and 0 added lines lift at nine words against a baseline of 113 or of 104.
+
 **Both units are printed for `reprints` because the method returns three classifiers and item 234 printed one of them without naming which.** Item 234's `97 / 377 / 1,265 / 4,008` is the **`date`** classifier; the `either` figures are one lower at every window, and the `terms` classifier is a third set again. The window-5 `date` figure is 4,006, not item 234's 4,008, because this pass removed two words from the range.
 
 **`lifts`, four floors, range excluded from its own index:**
 
 | floor | ADDED prose lines | ≥ that floor | ≥ 9 words | mean | BASELINE |
 |---|---|---|---|---|---|
-| 6 | 30 | **4** | **0** | 6.50 words | 239 lines / 206 / 113 / 9.88 words |
+| 6 | 30 | **4** | **0** | 6.50 words | 239 lines / 206 / 113 / 9.88 words — **ten files; the nine-file figure is 215 / 185 / 104 / 9.90, see above** |
 
 The four survivors, ruled on holder counts taken on the exact strings over `m.prose_lines` with token windows:
 
@@ -13340,3 +13344,138 @@ Title lines and trailing newlines identical on all ten. **Zero question marks, a
 **And the tenth dispatch on nine chapters found sixteen defects in prose that five earlier audits had read as clean** — a paragraph restating the base line two lines under it, a window belonging to the wrong man, a groove invented beside a canon pen pot, a boiler given a warmth its canon does not state, a man sent out of a room he was still standing in, and a tic at thirty-two times its own range's rate. **Every one of them was invisible to all four indices, and every one of them had been standing in the volume's climax since the first pass.** Fifty-eight chapters of this repair have had one pass and five have had three or more, which is itself the argument for repairing forward rather than auditing back: **nine dispatches on this range found nothing the first time and sixteen defects the tenth, and nothing about the range changed except the depth of the reading.**
 
 ***The item this record belongs to is 235 and no existing item was renumbered. `state/phase-ledger.json` is a controller file, still reads `phase-000-bootstrap`, one phase, status `planned`, carries no item counter, and was not edited; the high-water mark was taken from `state/open-threads.md`, where the highest heading on arrival was Item 234. The prompt that ordered this pass named no number at all, on purpose, and it named the range unrepaired for the tenth time. This pass created no prompt: the pipeline creates it, which is what it was told to do.***
+
+# THE REVIEW FIX OF ITEM 235 — TEN UNAUDITED PARAGRAPHS RESTORED OFF A RANGE THAT HAD BEEN AUDITED TEN TIMES, AND ONE FIGURE THIS PASS'S OWN INSTRUMENT ALMOST BROKE
+
+**This section is the review fix of `prose-repair-0022`. It took prose out of the tree and it corrected figures in item 235's own record above. It opened no chapter for writing, moved no plot word, added no person, settled no canon conflict and created no prompt.**
+
+## One — WHAT ARRIVED, AND WHY THE REVIEW LOG LOOKS THE WAY IT DOES
+
+**`logs/prose-repair-0022.review.log` carries no verdict.** Its first line is the runtime refusing the `novel-reviewer` agent and falling back to the default agent, and the session then read the five changed files, was refused a `wc` by the permission layer, ran one `grep` against `state/current.md` for the figures `1,478,859`, `620 files` and `85,298`, and stopped. **The last thing that reviewer did was go looking for exactly the three numbers this section is about, and it was cut off before it reported what it found.** The findings below are not that reviewer's; they are this pass's, taken from the tree.
+
+**Commit `23d7836 novel: save writer work prose-repair-0022` landed after the state commit and added twenty lines to five files.**
+
+```
+ chapters/volume-09/chapter-0441.md | 4 ++++
+ chapters/volume-09/chapter-0442.md | 4 ++++
+ chapters/volume-09/chapter-0443.md | 4 ++++
+ chapters/volume-09/chapter-0444.md | 4 ++++
+ chapters/volume-09/chapter-0445.md | 4 ++++
+ 5 files changed, 20 insertions(+)
+```
+
+**Twenty lines, ten paragraphs, 249 words, pure insertion, no deletions, into five of the nine files item 235 had just finished auditing.** It is the second time this repository has found unrecorded work sitting on a finished repair — the first was the deferred phase's writer work at Chapters 0361 to 0370, found by item 176 and recorded at item 177 — and it is item 200's situation exactly: a controller commits writer output that the phase's own record does not mention.
+
+**The arithmetic of the omission is exact, and it is how the paragraphs were found.** `state/current.md` carried Volume 09 at **85,298** and the manuscript at **1,478,859**. The tree with `23d7836` in it read **85,547** and **1,479,108**. **The difference is 249 in both, and 249 is the ten paragraphs' own word count.** No stale figure in this repository has ever been this easy to attribute.
+
+## Two — EVERY GATE ITEM 235 RECORDED, RE-RUN AFTER THE RESTORATION
+
+The five files were restored from `88f82cb`, which is item 235's own landed commit, and the restoration was proved before anything else was written.
+
+```
+git checkout 88f82cb -- chapters/volume-09/chapter-044[1-5].md
+git diff --numstat 88f82cb -- chapters/     -> nothing; the tree is item 235's
+```
+
+md5 per file, tree against `88f82cb`, all ten files of the range:
+
+| file | md5 | | file | md5 |
+|---|---|---|---|---|
+| 0441 | `7ea6a48c0748938b111b76b5898c2e55` | | 0446 | `df12edbd64653f2371f389af08daf2e6` |
+| 0442 | `2346cb7dad3c63740b482bf887a4003b` | | 0447 | `24ad144e9af15e7f4c4494ce44ce422b` |
+| 0443 | `7c3cb0644be5d09c0b530f498d13356b` | | 0448 | `cec0fa9ce5f3da359b2c61488643cf49` |
+| 0444 | `00feda826945bc3d442e1807873725c1` | | 0449 | `0f20c8095f025e948880a5f278631422` |
+| 0445 | `a6c4d79fbf47fdd0d6b480ae6024a121` | | 0450 | `399b4e32a56681168e5bd2cf2fdae60d` |
+
+`chapter-0441.md`'s md5 is the one item 235's section Six already printed for its plant test, and `chapter-0450.md`'s is the one item 235's section One printed for the volume ending. Both reproduce.
+
+Every figure item 235 recorded, re-run on the restored tree:
+
+| gate | item 235 | re-run here | |
+|---|---|---|---|
+| `selftest` | PASS | **PASS** | agrees |
+| `calendar --volume 09` | 50 files, 50 parsed, 0 breaks | **50 files, 50 parsed, 0 breaks, unparsed none** | agrees |
+| `words --volume 09` | 85,298 | **85,298** | agrees |
+| `words` | 1,478,859 in 620 files | **1,478,859 in 620 files** | agrees |
+| `lifts` ADDED | 30 lines, 4 ≥ 6, 0 ≥ 9, mean 6.50 | **30 lines, 4 ≥ 6, 0 ≥ 9, mean 6.50** | agrees |
+| nine files | 12,095 words | **12,095 words** | agrees |
+| closed list of ten | 61 | **61** | agrees |
+| list of 23 | 86 | **86** | agrees |
+| list of 25 | 101 | **101** | agrees |
+| sweep | 319 across 105 forms | **319 across 104 forms** | 319 agrees to the digit; forms one out, see section Five |
+| `numstat` vs `2b015ee` | 60 insert, 0 delete | **8/4/6/8/8/6/6/8/6 insertions, 0 deletions** | agrees |
+| arithmetic | 11,263 + 832 = 12,095 | **11,263 + 832 = 12,095, both directions, per file** | agrees |
+| date lines | 9, 9, 7, 7, 9, 7, 7, 7, 9 | **9, 9, 7, 7, 9, 7, 7, 7, 9, all byte-identical** | agrees |
+| section rules | 6 7 5 5 6 6 7 5 7 | **6 7 5 5 6 6 7 5 7** | agrees |
+| bold markers | 14 12 10 8 10 10 15 14 18 | **14 12 10 8 10 10 15 14 18** | agrees |
+| question marks | 0 | **0** | agrees |
+| quoted spans | 82 spans, 11,393 characters | **82 spans, 11,393 characters** | agrees |
+| sweep in the added prose | 0 in 832 words | **0 in 832 words** | agrees |
+| `reprints` date / either | 97/377/1,265/4,006 and 96/376/1,258/3,936 | **97/377/1,265/4,006 and 96/376/1,258/3,936** | agrees |
+| sweep headline | 319 | **319**, 104 forms against 105 | instances agree; one form out, section Five |
+
+**The repaired set re-derived by the printed method, volume from the path and the chapter list per file, reproduces to the digit: Volume 08 at 0351 to 0399 forty-nine at 85,594, Volume 09 at 0401 to 0449 forty-nine at 84,064, Volume 10 at 0451 to 0499 forty-nine at 79,511, Volume 11 at 0501 to 0549 forty-nine at 93,827, Volume 12 at 0551 to 0609 fifty-nine at 88,204 — 255 chapters at 431,200 words at a mean of 1,691.0.**
+
+## Three — WHY THEY WENT OUT WHOLE, AND NOT BY REVOICING
+
+**Item 200 restored five files rather than revoicing them, and this is the same situation and the same instrument.** A revoicing keeps the fact and changes the sentence, which requires the paragraph to hold a fact of its own. **All ten of these held none.** Every one was a restatement of a base line, a re-performance of an act the base already narrates, a restatement of the repair's own added paragraph, or an assertion about a canon fixture that its own chapter contradicts. There was nothing to keep.
+
+**The tic is the finding that needed no reading at all, and it is item 235's own tic reinstated.** Item 235 measured the agentive structure-as-agent family, drove it down, and recorded the rate at 11.25 per 1,000 words in the added prose against 0.36 in the range's own base. Measured on the same family over the ten paragraphs `23d7836` added, on `m.prose_lines` and `m.TOKEN`:
+
+| | instances | words | rate |
+|---|---|---|---|
+| **the ten paragraphs `23d7836` added** | **21** | **249** | **84.34 per 1,000 words** |
+| the range's own base at `2b015ee` | 13 | 10,577 | 1.23 per 1,000 words |
+| the other forty-one chapters of Volume 09, their added prose | 4 | 3,476 | 1.15 per 1,000 words |
+
+**Sixty-nine times its own range's rate and seventy-three times the volume's, in ten paragraphs of 249 words — against the 11.25 that item 235 spent a whole section driving down.** The instances are `Steps fell`, `Air hung`, `Sound closed`, `air met`, `pace stayed`, `Sound fell`, `corridor thinned`, `Coat hung`, `corridor stayed`, `Stairs took`, `Yard lay`, `Road opened`, `Lamp burned`, `Shadows lay`, `Chain hung`, `Light lay`, `Dust hung`, `Shelves ran`, `Room held`, `Air settled`, `Shelves stood`. **Ten of the ten paragraphs carry at least one, and no paragraph in the range's thirty legitimate added lines carries more than one.** The commit did not add prose to a finished repair. It put back the specific defect the finished repair had just spent its tenth dispatch removing.
+
+## Four — THE TEN PARAGRAPHS, EVERY ONE RULED
+
+| # | where | what it is | why it went |
+|---|---|---|---|
+| 1 | `chapter-0441.md:77` | *Steps fell even under his boots all the way down. Air hung cool between flights. Light from above thinned as he went, then came back at the turn.* | Three structure-as-agents in one paragraph, and it re-performs the descent base `:71` narrates — *he carried it down four flights in his hand* — six lines above. |
+| 2 | `chapter-0441.md:79` | *He kept his stride through the foot of the stair and on without pause. Sound closed behind him and did not follow. Cool air met him and he went on.* | Restates base `:75`, four lines above, on a five-word contiguous run: *He got it inside his coat **at the foot of the stair** without breaking his stride.* And its own third sentence restates its own first paragraph's second, two lines up. |
+| 3 | `chapter-0442.md:79` | *His pace stayed even all the way along. Sound fell soft in the corridor and died fast. Light along the corridor thinned, then came back again.* | The third sentence is `chapter-0441.md:77`'s third sentence with the noun swapped: **Light … thinned … came back**, in the two chapters adjacent in the range. A construction pair, minted across a chapter boundary. |
+| 4 | `chapter-0442.md:81` | *Coat hung straight as he moved, pocket flat against his side. No hand went near it. The corridor stayed empty behind him all the way down.* | Base `:75` has him carrying the four sheets down that corridor *in his own arms*; a coat cannot hang straight and a pocket cannot lie flat against a side with a bundle under the arm. An invented physical state against the base's own posture. |
+| 5 | `chapter-0443.md:61` | *Stairs took him down without pause. Boots found each tread cleanly in the dimness. Air below hung cool and still.* | Re-performs the return descent base `:59` narrates in one clause, **two lines above**: *he went back down two flights and out and about four miles*. |
+| 6 | `chapter-0443.md:63` | *Yard lay quiet around him as he crossed it. No voice followed from above. Road opened ahead, empty and clear, and he took it.* | Re-performs the rest of the same clause at `:59`, four lines above, and re-states the road base `:21` already describes. |
+| 7 | `chapter-0444.md:57` | *Lamp burned steady on its bracket overhead. Shadows lay hard along the bench. Men held their places and let the hour run without moving.* | Re-performs the stillness base `:47` delivers ten lines above — *there was no sound in it. Nothing was set down on the floor* — and its own third sentence and `chapter-0444.md:59`'s third, *Nothing shifted until the hour turned*, say the same thing four lines apart. |
+| 8 | `chapter-0444.md:59` | *Air inside stayed close from bodies standing near. Chain hung slack across the front and never moved. Nothing shifted until the hour turned.* | **A canon contradiction.** Base `:3` reads *The chain is across the front of the bench and it is on the man at the open side and he has not gone under it.* The chain is the mechanism holding that man outside and it is on him. **The paragraph asserts it hangs slack, which is to say untended and unweighted — the one state its own base denies.** This is item 235's own class, the boiler given a warmth its canon does not state, on a fixture instead of a boiler. |
+| 9 | `chapter-0445.md:65` | *Light lay in a bar across the floor and did not move. Dust hung inside it, then settled again. Shelves ran along both sides, silent and even.* | **The clearest restatement in the ten.** Base `:21`, forty-four lines above: *The light fell in a single bar across the floor. Dust moved inside it and settled again.* Four-word contiguous run, *bar across the floor*, and both facts restated whole. |
+| 10 | `chapter-0445.md:67` | *Room held quiet after steps faded up the lane. Air settled back into corners. Shelves stood silent and gave back nothing.* | Restates its own added `:65`, two lines above, on the same subject and the same adjective: *Shelves ran along both sides, silent and even* against *Shelves stood silent*. **This is item 235's own recorded defect — two of the range's own paragraphs restating the same base fact in the repair's own words, twenty-six lines apart — reproduced inside a single pair of adjacent paragraphs, and it is the second time item 235's shape has been found standing after item 235 removed it.** |
+
+**No instrument in this repository saw any of the ten, and that is now measured rather than asserted.** The longest contiguous token run between any of the ten paragraphs and the base line it restates is **five words** (`chapter-0441.md:79` against `:75`, *at the foot of the stair*), which is below the intra-file scan's six-word floor. The cross-file index is blind to a restatement with its words changed. `lifts` reports runs of five-gram seeds against holders outside the range and a revoiced sentence shares no five-gram with the sentence it re-performs. **`reprints`, `calendar`, `selftest`, `words`, the construction lists and the date-line and structural gates all returned clean on all ten, and they returned clean on the sixteen defects item 235 removed the dispatch before, which is the standing this repair has held since item 182: a contradiction is not a repetition, and a restatement with its words changed shares no run with anything.**
+
+## Five — THE ONE FIGURE IN ITEM 235 THAT COULD NOT BE RE-DERIVED, AND WHY THIS PASS'S OWN INSTRUMENT IS THE THING THAT WAS WRONG
+
+**This section was written twice. Its first draft called a scope error and corrected five cells, and every one of those five cells was already right.** It is rewritten here rather than deleted, because the shape of the error is the finding.
+
+**What happened.** Item 235's headline construction table carries a sweep of **319 across 105 forms**, and its per-chapter column reads 54 / 39 / 45 / 29 / 35 / 31 / 25 / 31 / 30. **This pass measured the sweep on `m.prose_lines`, per line, and read 54 / 39 / 45 / 29 / 34 / 30 / 25 / 29 / 30 = 315 across 104 forms.** Three cells disagreed and the total was four out. The obvious reading — and the reading this pass first wrote down — is that item 235 counted one chapter's title line by mistake, because item 235's own section One warns in terms that *a holder counted out of a chapter title is invisible to any count that reads prose*. On that reading the correction was straightforward and this pass was one edit from applying it to a record that reproduces.
+
+**It was the instrument, not the record.** The sweep row is not on `m.prose_lines`. **It is on method 3's body — the raw file with lines matching `DATE_EITHER` or `DATE_THIRD` removed and chapter headings kept — with the `NONNOUN` filter removed**, which is exactly what the row's own label declares: *every `that`/`those` bigram*. Method 3 is the figure of record throughout this repair and its code is printed whole at line 4825. On it:
+
+```
+per-chapter column   54  39  45  29  35  31  25  31  30   sum 319
+union of forms                                                  104
+item 235's row       54  39  45  29  35  31  25  31  30   sum 319 across 105
+```
+
+**Every cell and the total reproduce to the digit.** The whole of the 315 is one instance: `chapter-0448.md:1` reads *A Sheet Stood Against The Base Of **That Wall***, and `m.prose_lines` drops it because it begins `#` while method 3 keeps it. The date-line term cancels — `chapter-0442.md:9` carries *it is the last week of **that year*** and is out under both methods — which is why two opposite-looking terms left only one cell wrong, and why a single-cause explanation fit so neatly and so wrongly.
+
+**The one figure that does not reconcile is the form count: 104 against 105.** It is one form. The concatenated-stream method supplies it by producing a bigram that spans a join between two chapters' token streams and exists in no single file, and this repository has already recorded exactly that phenomenon at line 5374 of this file for the 0351 to 0360 range. **It is recorded as unresolved and one form wide rather than argued to a conclusion, because a form that exists in no chapter is not a holder and the row's `forms` column is a denominator nobody has ever used as a gate.**
+
+**What this pass got wrong, and it is the fifth instrument fault in three dispatches and the only one that nearly did damage.** Every other instrument fault this repair has recorded returned a clean number that was wrong in the safe direction — a false zero, a missed lift, a counted separator, a guard that let three through. **This one returned a wrong number that agreed with a correct record in eight of nine cells, and the agreement is what made it persuasive.** A figure that reproduces in eight cells and differs in three is the shape of a scope error and it is also the shape of a wrong instrument, and **the difference between the two is only ever settled by finding the method the record declares and running that, which is the whole of the standing this repair has held since item 182 and the thing the instrument faults keep teaching from the other side.** Item 176's review finding is already written down at line 5544 of this file in almost these words — *a later phase reading that table and re-deriving it from the files without the method will get 59 and think the range moved* — and this pass read that line, in this file, and did it anyway.
+
+**What does not move, and is re-verified here: every gate verdict.** The sweep is flat — the added prose holds **zero** instances in 832 words, landed minus base is **0**, per-form delta empty in both directions. The three closed lists are flat at **61 / 86 / 101** per file and range-wide. Volume 09's closed list of ten over all fifty chapters is **344** on method 3 at **3.99 per 1,000** over 85,298 words, and `chapter-0450.md` contributes 5, so the forty-nine repaired chapters read 339. **The 344 is method 3's figure and is correct; the 340 this pass also measured is `m.prose_lines`'s and is a different instrument, and the four between them are title instances at `chapter-0407.md:1`, `chapter-0426.md:1`, `chapter-0439.md:1` and `chapter-0440.md:1`. `prose + titles = 344` reproduces the recorded figure exactly, which is what settled it.** The rate moves between 3.99 and 4.03 with the instrument and not with the prose, and **the numerator has not moved by one instance across any repair in Volume 09, which is the manuscript's central finding and which is unaffected by any of this.**
+
+## Six — WHAT IS LEFT
+
+**This pass repaired nothing new and audited one range for the eleventh time. Volume 09 remains repaired from 0401 to 0449, forty-nine of its fifty, and `chapter-0450.md` carries the last line of that volume and was read and not opened. The manuscript is 1,478,859 words in 620 files and 255 chapters of 620 have been through the prose repair; 365 are unrepaired, Volumes 01 to 07 at 350, the six volume endings, and Volume 12's `chapter-0610.md` to `chapter-0619.md` at 10.**
+
+**Four debts are outstanding, owed elsewhere and not here, and the repetition of them is not restarted.**
+
+**The honest finding, and it is the same one item 235 closed on.** Item 235 found sixteen defects in prose that five audits had read as clean. **This pass then found ten more, in twenty-four minutes of writer output that no gate had run on and no record mentioned, on the same nine files, in the same volume's climax — and the ten were the specific defect class item 235 had just spent a section removing.** The lesson is not that the reading was shallow. It is that **a controller can commit prose after the state commit that recorded the repair, and every figure in the state layer is then stale by exactly that commit, and the four standing instruments return clean on all of it.** The arithmetic found it in one line, because 249 appeared in two totals at once. **Any phase that reads a range as repaired must first prove the tree is the commit its record names — `git diff --numstat <that commit> -- chapters/` returning nothing — and must treat a non-empty answer as unrecorded work to be audited, not as the repair it was looking for.** That check is item 203's, and this is the seventeenth time handing a phase the wrong end of it.
+
+***This record is item 236 and nothing above it was renumbered. `state/phase-ledger.json` is a controller file, was not edited, still reads `phase-000-bootstrap`, one phase, status `planned`. The review log named no findings, named no item and named no range, and this pass read the tree instead. No prompt was created: `workspace/prose-repair-0023/` and `0024/` both exist and both name repaired ranges, and `0025/` does not exist.***
+
