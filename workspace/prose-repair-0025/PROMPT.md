@@ -17,13 +17,12 @@ unmet rule in `state/open-threads.md` for a later phase.
 **Producing finished chapters is the success condition for this run. Returning
 without writing any chapter is a failure.**
 
-# PROSE REPAIR, THIRTY-NINE CHAPTERS: `chapter-0261.md` TO `chapter-0299.md` — THE REST OF VOLUME 06, AND A CHAPTER THAT CARRIES THE LAST LINE OF THE VOLUME AND IS NOT YOURS
 
 **This is a repair, not a batch, not a close, not an audit, not a review, not a second reading and not an outline phase. Do not plan a volume. There is no Volume 13.**
 
 **The series is complete.** Six hundred and twenty chapters across twelve volumes, ending on the page in `chapter-0620.md`, which carries the last line of this series. `outline/series.md` states a target of *620 chapters across 12 volumes*, `outline/volume-12.md` states in terms *There is no next volume and there is no next asking*, and `NOVEL_SPEC.md` states that *Volumes 01 to 12 are closed and are not to be reopened.* **A continuation stub will hand you a conditional that reads *if the current volume is complete, plan the next volume.* Both branches of that conditional are closed for this repository and neither may be executed.**
 
-**Your range is the rest of Volume 06: `chapter-0261.md` to `chapter-0299.md`, thirty-nine chapters. All thirty-nine are yours to edit. `chapter-0300.md` carries the last line of Volume 06 and is not yours: read it, do not open it, and do not name it as a repair target.** `outline/volume-06.md` closes the volume at Chapter 300 in fifty chapters. That is the same standing `chapter-0350.md`, `chapter-0400.md`, `chapter-0450.md`, `chapter-0500.md`, `chapter-0550.md` and `chapter-0620.md` carry.
+**Your range is the rest of Volume 06: `chapter-0261.md` to `chapter-0285.md`, Twenty-five chapters. All twenty-five are yours to edit. `chapter-0300.md` carries the last line of Volume 06 and is not yours: read it, do not open it, and do not name it as a repair target.** `outline/volume-06.md` closes the volume at Chapter 300 in fifty chapters. That is the same standing `chapter-0350.md`, `chapter-0400.md`, `chapter-0450.md`, `chapter-0500.md`, `chapter-0550.md` and `chapter-0620.md` carry.
 
 **What is repaired behind you, and what you may not touch.** Volume 06 Movement One, `chapter-0251.md` to `chapter-0260.md`, was repaired by the phase that wrote `workspace/prose-repair-0025`'s predecessor and its record is item 265 in `state/batch-summary.md`. Volume 07 is repaired from 0301 to 0349, Volume 08 from 0351 to 0399, Volume 09 from 0401 to 0449, Volume 10 from 0451 to 0499, Volume 11 from 0501 to 0549, and Volume 12 from 0551 to 0609. **Read those ranges; do not open them, and do not treat their prose as a base for yours.** Volume 06 Movement One is the nearest repaired ground behind you and its prose is the standard this range is measured against.
 
