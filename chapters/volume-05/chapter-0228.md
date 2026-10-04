@@ -38,7 +38,7 @@ Marn Ottery put the copy down on the slab face up, which she does about twice a 
 
 "**Anybody with a hand at the foot of a thing.** A person can be held to a thing they signed and to nothing else, and in about four years a man with a copy of the right page can put your hand beside a day and ask you what you meant by it, and that is the whole of the instrument in this empire and it is not enough and it is all there is."
 
-"A hand at the foot of a thing. Four years. There is nothing else and there is no third thing, and I have been at this counter eleven years and I have watched every document go out of it, and I could not tell you one person in this city who has been held to anything by anything other than a hand. Not a clerk. Not a man in a building off the old river road with eleven books on a shelf and about four thousand entries in them. Nobody. A hand, and a day, and about four years, and everything anybody in this matter has got is the difference between having that and not having it."
+"A hand at the foot of a thing. Four years. There is nothing else and there is no third thing, and I have been at this counter eleven years and I have watched every document go out of it, and I could not tell you one person in this city who has been held to anything by anything other than a hand. Not a clerk. Not a woman in a building off the old river road with eleven books on a shelf and about four thousand entries in them. Nobody. A hand, and a day, and about four years, and everything anybody in this matter has got is the difference between having that and not having it."
 
 ---
 

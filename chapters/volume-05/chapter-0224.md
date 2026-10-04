@@ -8,7 +8,7 @@ She came to this city in the second month of the year after. Nobody sent her. Th
 
 ---
 
-It was the fourth day of the fourth week of the third month of the year after next and she had been in the city since the second month of the year after, and she had been in that room nine nights out of fourteen since the second week of the third month. She had a habit now of standing at the end of the street by the river road at about the sixth hour on the days she came back from the shop. It is not a habit she decided on, and she has not decided off.
+It was the fourth day of the fourth week of the third month of the year after next and she had been in the city since the second month of the year after, and she had been in that room nine nights out of fourteen since the second week of the third month. She had a habit now of standing at the end of the street by the river road at about the sixth hour on the days she came back from the shop. It is not a habit she decided on, and she has not decided it off.
 
 The woman of about thirty-five said the day out loud when Bess Tarrant came in, because she always did, and then she said something else.
 
